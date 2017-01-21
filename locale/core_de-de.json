@@ -1,0 +1,34 @@
+{
+	"core_tray_change_wallpaper" : "Wallpaper Ändern",
+	"core_tray_browse_workshop" : "Workshop Öffnen",
+	"core_tray_create_wallpaper" : "Wallpaper Erstellen",
+	"core_tray_settings" : "Einstellungen",
+	"core_tray_take_screenshot" : "Bildschirmfoto Aufnehmen",
+	"core_tray_pause" : "Pause",
+	"core_tray_unpause" : "Weiter",
+	"core_tray_recent_wallpapers" : "Letzte Wallpaper",
+	"core_tray_quit" : "Beenden",
+	"core_tray_faq" : "Hilfe && FAQ",
+	
+	"core_balloon_info" : "Wallpaper Engine befindet sich nun im Tray. Doppelklicke das Icon, um das Wallpaper zu ändern.",
+	"core_balloon_desktop_window_error" : "Beim erstellen des Wallpapers trat ein unerwarteter Fehler auf.",
+	"core_balloon_video_error" : "Videofehler {{err}}. Klick mich für eine Lösung.",
+	"core_balloon_app_error" : "Die Anwendung konnte nicht als Wallpaper geladen werden.",
+	
+	"core_msgboxtitle_error" : "Fehler",
+	"core_msgboxtitle_app_conflict" : "Inkompatible Anwendung",
+	"core_msgboxtitle_wpe" : "Wallpaper Engine",
+	
+	"core_msgbox_deskscapes" : "Es scheint, das DeskScapes ausgeführt wird. Wallpaper Engine und DeskScapes sind nicht kompatibel.",
+	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine benötigt Aero. Soll Aero nun aktiviert werden?",
+	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine kann nicht mit einem 'hohen Kontrast' Design ausgeführt werden. Design nun zurücksetzen?",
+	"core_msgbox_dwm_disabled" : "Desktop Komposition ist nicht verfügbar.",
+	"core_msgbox_aero_denied" : "Wallpaper Engine kann ohne Aero nicht funktionieren und wird nun beendet.",
+	"core_msgbox_aero_failure" : "Aero konnte nicht aktiviert werden. Wallpaper Engine wird nun beendet.",
+	"core_msgbox_aero_failure_no_support" : "Aero konnte nicht aktiviert werden. Es scheint eine Starter oder Basic Version von Windows 7 verwendet zu werden, welche die minimalen Systemanforderungen leider nicht erfüllt. Wallpaper Engine wird nun beendet.",
+	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine läuft bereits und reagiert nicht.\n\nSoll die Anwendung neugestartet werden?",
+	"core_msgbox_init_secondinstance_failed" : "Neustart fehlgeschlagen, Fehlercode:",
+	"core_msgbox_below_win_7" : "Wallpaper Engine benötigt Windows 7 oder höher, wie in den Systemvoraussetzungen angegeben.\n\nDiese Version von Windows scheint nicht unterstützt zu werden und Wallpaper Engine wird eventuell nicht richtig funktionieren.",
+	"core_msgbox_media_feature_pack_missing" : "mfplat.dll fehlt!\nDies liegt möglicherweise an Windows N. Bitte installiere das 'Media Feature Pack' von Microsoft um Videos auf Windows N zu nutzen! (Google: Media Feature Pack Windows 10/8.1/7)",
+	"core_msgbox_file_inconsistency" : "Installation fehlerhaft!\n\nBitte starte die Applikation über Steam neu. Sollte dieser Fehler weiterhin auftauchen, versuche Wallpaper Engine über Steam zu verifizieren (rechts-klick auf Wallpaper Engine, dann Einstellungen, lokale Dateien, verifizieren). Dies kann passieren wenn Steam ein update ausführt während Wallpaper Engine läuft.\n\nJetzt neustarten?"
+}

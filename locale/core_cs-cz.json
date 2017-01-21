@@ -1,0 +1,31 @@
+{
+	"core_tray_change_wallpaper" : "Změnit pozadí",
+	"core_tray_browse_workshop" : "Prohlížet workshop",
+	"core_tray_create_wallpaper" : "Vytvořit pozadí",
+	"core_tray_settings" : "Nastavení",
+	"core_tray_take_screenshot" : "Vytvořit snímek obrazovky",
+	"core_tray_pause" : "Pozastavit",
+	"core_tray_unpause" : "Pokračovat",
+	"core_tray_recent_wallpapers" : "Nedávno použité pozadí",
+	"core_tray_quit" : "Odejít",
+	"core_tray_faq" : "Podpora & FAQ",
+	
+	"core_balloon_info" : "Wallpaper Engine minimalizován na lištu. Dvojklikněte na ikonu na liště pro výběr pozadí.",
+	"core_balloon_desktop_window_error" : "Chyba připravování plochy pro živé pozadí.",
+	"core_balloon_video_error" : "Nastala chyba videa {{err}}. Klikni zde pro pomoc.",
+	"core_balloon_app_error" : "Chyba při načítání aplikace jako pozadí.",
+	
+	"core_msgboxtitle_error" : "Chyba",
+	"core_msgboxtitle_app_conflict" : "Problémová aplikace",
+	"core_msgboxtitle_wpe" : "Wallpaper Engine",
+	
+	"core_msgbox_deskscapes" : "Zdá se že DeskScapes je aktivní. To by mohlo bránit Wallpaper Engine ve fungování.",
+	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine potřebuje povolit Aero aby mohlo fungovat. Povolit Aero nyní?",
+	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine nemůže spustit téma s 'vysokým kontrastem'. Restartovat téma nyní?",
+	"core_msgbox_dwm_disabled" : "Kompozise na ploše je vypnutá.",
+	"core_msgbox_aero_denied" : "Wallpaper Engine nemůže pracovat bez Aero a nyní se ukončí.",
+	"core_msgbox_aero_failure" : "Nepovedlo se zapnout Aero. Wallpaper Engine se nyní ukončí.",
+	"core_msgbox_init_secondinstance_ask_quit" : "Zdá se že Wallpaper Engine už je spuštěn a neodpovídá.\n\nChcete ho nuceně restartovat?",
+	"core_msgbox_init_secondinstance_failed" : "Restar se nezdařil, kód chyby:",
+	"core_msgbox_below_win_7" : "Wallpaper Engine potřebuje Windows 7 nebo vyšší, podle systémových požadavků na Steamu.\n\nZdá se že máte spuštěnou nepodporovanou verzi windows a Wallpaper Engine nemusí fungovat."
+}

@@ -1,0 +1,34 @@
+{
+	"core_tray_change_wallpaper" : "เปลี่ยนวอลล์เปเปอร์",
+	"core_tray_browse_workshop" : "เรียกดูเวิร์กชอป",
+	"core_tray_create_wallpaper" : "สร้างวออล์เปเปอร์",
+	"core_tray_settings" : "ตั้งค่า",
+	"core_tray_take_screenshot" : "จับภาพหน้าจอ",
+	"core_tray_pause" : "หยุดชั่วคราว",
+	"core_tray_unpause" : "เล่นต่อ",
+	"core_tray_recent_wallpapers" : "วอลล์เปเปอร์ล่าสุด",
+	"core_tray_quit" : "ออกจากโปรแกรม",
+	"core_tray_faq" : "สนับสนุน && คำถามที่พบบ่อย",
+	
+	"core_balloon_info" : "Wallpaper Engine ถูกย่อลงไปในแถบงาน. ดับเบิลคลิกไอคอนที่แถบงาน เพื่อเลือกวอลล์เปเปอร์",
+	"core_balloon_desktop_window_error" : "การจัดเตรียมเดสก์ทอปล้มเหลว",
+	"core_balloon_video_error" : "เกิดข้อผิดพลาดขึ้นที่วิดีโอ {{err}}. คลิกเพื่อขอความช่วยเหลือ",
+	"core_balloon_app_error" : "การโหลดแอพลิเคชันล้มเหลว",
+	
+	"core_msgboxtitle_error" : "ผิดพลาด",
+	"core_msgboxtitle_app_conflict" : "แอพลิเคชันที่ขัดแย้งกัน",
+	"core_msgboxtitle_wpe" : "Wallpaper Engine",
+	
+	"core_msgbox_deskscapes" : "ดูเหมือนว่า DeskScapes มีการทำงานอยู่. นี่อาจทำให้ Wallpaper Engine ไม่ทำงาน",
+	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine จำเป็นต้องเปิดคุณสมบัติโปร่งแสงเพื่อที่จะทำงาน. เปิดใช้งานเดี๋ยวนี้หรือไม่?",
+	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine ไม่สามารถทำงานได้กับธีมที่มี 'high contrast' . ตั้งค่าธีมใหม่หรือไม่?",
+	"core_msgbox_dwm_disabled" : "องค์ประกอบเดสก์ทอปถูกปิดใช้งาน",
+	"core_msgbox_aero_denied" : "Wallpaper Engine ไม่สามารถทำงานได้หากไม่เปิดคุณสมบัติโปร่งใส และจะหยุดการทำงาน",
+	"core_msgbox_aero_failure" : "การเปิดใช้งานคุณสมบัติโปร่งใสล้มเหลว. Wallpaper Engine จะหยุดการทำงาน",
+	"core_msgbox_aero_failure_no_support" : "การเปิดใช้งานคุณสมบัติโปร่งใสล้มเหลว. ดูเหมือนว่าคุณจะใช้ Windows 7 แบบเริ่มต้น, มันไม่สนับสนุนคุณสมบัติโปร่งใส. Wallpaper Engine จะปิดการทำงาน",
+	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine ดูเหมือนจะทำงานอยู่ และไม่ตอบสนอง.\n\nคุณต้องการเริ่มต้นโปรแกรมใหม่เดี๋ยวนี้หรือไม่?",
+	"core_msgbox_init_secondinstance_failed" : "การเริ่มใหม่ล้มเหลว, รหัสความผิดพลาด:",
+	"core_msgbox_below_win_7" : "Wallpaper Engine ต้องการ Windows 7 หรือสูงกว่า, ตามที่ระบุความต้องการของระบบไว้ในสตรีม\n\nคุณกำลังเรียกใช้รุ่นของ Windows ที่ไม่รองรับ และ Wallpaper Engine อาจไม่ทำงาน",
+	"core_msgbox_media_feature_pack_missing" : "mfplat.dll หายไป!\nคุณอาจจะมี Windows N. โปรดติดตั้งชุดคุณลักษณะของสื่อโดย Microsoft เพื่อเปิดใช้งานการสนับสนุนวิดีโอ! (Google: Media Feature Pack Windows 10/8.1/7)",
+	"core_msgbox_file_inconsistency" : "ตรวจพบไฟล์ไม่สอดคล้องกัน!\n\nกรุณาเริ่มต้นโปรแกรมใหม่บน Steam. หากคุณยังพบข้อพิดพลาดนี้, ให้ตรวจสอบไฟล์บน Steam (คลิกขวา Wallpaper Engine, คลิก คุณสมบัติ, ไฟล์ภายใน, ตรวจสอบ). นี่สามารถเกิดขึ้นเมื่อ Steam มีการปรับปรุงโปรแกรมในขณะที่มีการทำงาน\n\nเริ่มต้นใหม่เดี๋ยวนี้?"
+}

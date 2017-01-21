@@ -1,0 +1,34 @@
+{
+	"core_tray_change_wallpaper" : "Zmień Tapetę",
+	"core_tray_browse_workshop" : "Przeszukaj Warsztat",
+	"core_tray_create_wallpaper" : "Stwórz Tapetę",
+	"core_tray_settings" : "Ustawienia",
+	"core_tray_take_screenshot" : "Zrzut Ekranu",
+	"core_tray_pause" : "Pauza",
+	"core_tray_unpause" : "Odpauzuj",
+	"core_tray_recent_wallpapers" : "Ostatnio Używane Tapety",
+	"core_tray_quit" : "Wyjdź",
+	"core_tray_faq" : "Pomoc i FAQ",
+	
+	"core_balloon_info" : "Wallpaper Engine został zminimalizowany. Kliknij dwukrotnie na ikonę w zasobniku systemowym aby wybrać tapetę.",
+	"core_balloon_desktop_window_error" : "Wystąpił błąd podczas przygotowywania pulpitu pod animowaną tapetę.",
+	"core_balloon_app_error" : "Błąd wczytywania aplikacji jako tapety.",
+	"core_balloon_video_error" : "Wystąpił problem z video {{err}}. Kliknij tutaj aby dowiedzieć się więcej.",
+	
+	"core_msgboxtitle_error" : "Błąd",
+	"core_msgboxtitle_app_conflict" : "Wystąpił konflikt między aplikacjami",
+	"core_msgboxtitle_wpe" : "Wallpaper Engine",
+	
+	"core_msgbox_deskscapes" : "Program DeskScapes jest uruchomiony. Może to spowodować błędy w funkcjonowaniu Wallpaper Engine.",
+	"core_msgbox_prompt_aero_win7" : "Do poprawnego funkcjonowania Wallpaper Engine musi uruchomić interfejs graficzny Aero. Czy chcesz uruchomić go teraz?",
+	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine jest niezgodny z trybem wysokiego kontrastu. Czy chcesz zresetować kompozycję?",
+	"core_msgbox_dwm_disabled" : "Kompozycje pulpitu są wyłączone.",
+	"core_msgbox_aero_denied" : "Aby Wallpaper Engine działał poprawnie, interfejs graficzny Aero musi być włączony. Program zostanie zamknięty.",
+	"core_msgbox_aero_failure" : "Uruchamianie interfejsu graficznego Aero nie powiodło się. Wallpaper Engine zostanie zamknięty.",
+	"core_msgbox_aero_failure_no_support" : "Włączanie interfejsu Aero nie powiodło się. Wygląda na to że używasz wersji Windows 7 która nie wspiera Aero. Wallpaper Engine zostanie zamknięty.",
+	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine jest już uruchomiony i nie odpowiada.\n\nCzy chcesz wymusić ponowne uruchomienie?",
+	"core_msgbox_init_secondinstance_failed" : "Błąd ponownego uruchamiania, kod błędu:",
+	"core_msgbox_below_win_7" : "Wallpaper Engine wymaga do poprawnego działania systemu Windows 7 lub nowszego.\n\nIt Używasz wersji systemu która nie jest wspierana, Wallpaper Engine może nie działać poprawnie.",
+	"core_msgbox_media_feature_pack_missing" : "Nie znaleziono mfplat.dll!\nPrawdopodobnie używasz Windows N. Zainstaluj Media Feature Pack by Microsoft aby włączyć wsparcie video! (Google: Media Feature Pack Windows 10/8.1/7)",
+	"core_msgbox_file_inconsistency" : "Wykryto niezgodność plików!\n\nZrestaruj aplikację poprzez Steam. Jeżeli wciąż widzisz ten błąd, sprawdź zgodność plików (kliknij ppm na Wallpaper Engine w bibliotece Steam, wybierz właściwości, pliki lokalne, sprawdź spójnośc plików). Błąd może się pojawić kiedy Steam aktualizuje aplikację, podczas gdy jest uruchomiona."
+	}

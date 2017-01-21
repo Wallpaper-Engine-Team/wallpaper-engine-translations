@@ -1,0 +1,32 @@
+{
+	"core_tray_change_wallpaper" : "壁紙変更",
+	"core_tray_browse_workshop" : "ワークショップ閲覧",
+	"core_tray_create_wallpaper" : "壁紙作成",
+	"core_tray_settings" : "設定",
+	"core_tray_take_screenshot" : "スクリーンショット撮影",
+	"core_tray_pause" : "一時停止",
+	"core_tray_unpause" : "再生",
+	"core_tray_recent_wallpapers" : "最近使用した壁紙",
+	"core_tray_quit" : "終了",
+	"core_tray_faq" : "サポート && FAQ",
+	
+	"core_balloon_info" : "トレイに最小化されたWallpaper Engineトレイアイコンをダブルクリックし壁紙を選択します。",
+	"core_balloon_desktop_window_error" : "ライブ壁紙のデスクトップの準備に失敗しました。",
+	"core_balloon_video_error" : "ビデオエラーが発生 {{err}}. ヘルプのためにクリックしてください。",
+	"core_balloon_app_error" : "アプリケーションを壁紙として読み込めません。",
+	
+	"core_msgboxtitle_error" : "エラー",
+	"core_msgboxtitle_app_conflict" : "競合するアプリケーション",
+	"core_msgboxtitle_wpe" : "Wallpaper Engine",
+	
+	"core_msgbox_deskscapes" : "DeskScapesがアクティブであるため、Wallpaper Engineを機能することができません。",
+	"core_msgbox_prompt_aero_win7" : "Wallpaper Engineは、動作するためにAeroを有効にする必要があります。今すぐAeroを有効にしますか？",
+	"core_msgbox_prompt_aero_win8" : "Wallpaper Engineは、「高コントラスト」のテーマで実行することはできません。 すぐにテーマをリセットしますか？",
+	"core_msgbox_dwm_disabled" : "デスクトップ構成が無効です。",
+	"core_msgbox_aero_denied" : "Wallpaper EngineはAeroなしでは動作できないため終了します。",
+	"core_msgbox_aero_failure" : "Aeroを有効にできませんでした。 Wallpaper Engineは終了します。",
+	"core_msgbox_aero_failure_no_support" : "Aeroを有効化できませんでした。Windows7のBasicまたはStarterをお使いの場合、Aeroをサポートしていません。Wallpaper Engineを終了します。",
+	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engineが既に実行中で応答しません。\n\n強制的に再起動しますか？",
+	"core_msgbox_init_secondinstance_failed" : "再起動に失敗しました。 エラーコード:",
+	"core_msgbox_below_win_7" : "Wallpaper Engineは、Steamのシステム要件に示されているようにWindows 7以上が必要です。\n\nサポートされていないバージョンのWindowsおよびWallpaper Engineが動作しているようです。"
+}

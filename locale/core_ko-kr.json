@@ -1,0 +1,34 @@
+{
+	"core_tray_change_wallpaper" : "배경화면 변경",
+	"core_tray_browse_workshop" : "창작마당 검색",
+	"core_tray_create_wallpaper" : "배경화면 제작",
+	"core_tray_settings" : "설정",
+	"core_tray_take_screenshot" : "스크린샷 찍기",
+	"core_tray_pause" : "일시정지",
+	"core_tray_unpause" : "일시정지 해제",
+	"core_tray_recent_wallpapers" : "최근 사용한 배경화면",
+	"core_tray_quit" : "종료",
+	"core_tray_faq" : "지원 && 자주하는 질문",
+	
+	"core_balloon_info" : "Wallpapaer Engine이 트레이로 최소화합니다. 배경화면을 선택하려면 트레이 아이콘을 더블클릭해주세요.",
+	"core_balloon_desktop_window_error" : "라이브 배경화면을 준비하는데 실패했습니다.",
+	"core_balloon_video_error" : "비디오 오류 발생 {{err}}. 도움을 위해 눌러주세요.",
+	"core_balloon_app_error" : "배경화면을 불러오는데 실패했습니다.",
+	
+	"core_msgboxtitle_error" : "오류",
+	"core_msgboxtitle_app_conflict" : "응용 프로그램 충돌",
+	"core_msgboxtitle_wpe" : "Wallpaper Engine",
+	
+	"core_msgbox_deskscapes" : "DeskScapes이 작동중인 것으로 나타납니다. 이로 인해 Wallpaper Engine이 작동하지 않을 수 있습니다.",
+	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine이 작동하기 위해서는 Aero 옵션을 켜야합니다. 지금 Aero 옵션을 키시겠습니까?",
+	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine은 '높은 대비'의 테마에서 작동하지 않습니다. 지금 테마를 초기화하겠습니까?",
+	"core_msgbox_dwm_disabled" : "바탕화면 구성 옵션이 비활성화되었습니다.",
+	"core_msgbox_aero_denied" : "Wallpaper Engine은 Aero 옵션 없이 작동할 수 없어 곧 종료됩니다.",
+	"core_msgbox_aero_failure" : "Aero 옵션을 활성화하는데 실패했습니다. Wallpaper Engine이 곧 종료됩니다.",
+	"core_msgbox_aero_failure_no_support" : "Aero를 활성화하는데 실패했습니다. 스타터나 베이직 버전의 윈도우즈 7는 Aero를 지원하지 않습니다. Wallpaper Engine이 이제 종료됩니다.",
+	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine이 이미 작동중으로 나타나 응답하지 않습니다.\n\n강제로 Wallpaper Engine을 재시작하겠습니까?",
+	"core_msgbox_init_secondinstance_failed" : "재시작 실패, 에러 코드:",
+	"core_msgbox_below_win_7" : "Steam에서 시스템 요구사항 표시대로, Wallpaper Engine은 윈도우 7 혹은 그 이상을 요구합니다.\n\n현재 지원하지 않는 버전의 윈도우를 사용하고 있으므로 Wallpaper Engine이 작동하지 않을 수 있습니다.",
+	"core_msgbox_media_feature_pack_missing" : "mfplat.dll 이 없습니다!\n윈도우즈 N 버전을 소유하신 것 같군요.. 비디오 지원을 위해 마이크로소프트에서 미디어 기능 팩을 설치해 주십시오! (구글: 미디어 기능 팩-윈도우즈 10/8.1/7)",
+	"core_msgbox_file_inconsistency" : "파일 불일치가 발견되었습니다!\n\n스팀을 통해 프로그램을 재시작하여 주십시오. 이 에러를 계속 보신다면 스팀에서 캐시 파일을 확인하여 주십시오. (월페이퍼 엔진 우클릭, 속성, 로컬 파일, 캐시 무결성 확인) 스팀에서 업데이트를 하는 도중에 프로그램을 실행할 경우 이 에러가 발생할 수 있습니다.다시 시작 하시겠습니까?"
+}

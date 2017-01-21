@@ -1,0 +1,31 @@
+{
+	"core_tray_change_wallpaper" : "Changer de Fond d'écran",
+	"core_tray_browse_workshop" : "Rechercher sur le Workshop",
+	"core_tray_create_wallpaper" : "Creer un Fond d'écran",
+	"core_tray_settings" : "Paramètres",
+	"core_tray_take_screenshot" : "Capture d'écran",
+	"core_tray_pause" : "Pause",
+	"core_tray_unpause" : "Lecture",
+	"core_tray_recent_wallpapers" : "Fonds d'écran récents",
+	"core_tray_quit" : "Quitter",
+	"core_tray_faq" : "Support && FAQ",
+	
+	"core_balloon_info" : "Wallpaper Engine sera réduit dans votre barre d'outils . Double cliquez sur l'icône pour selectionner votre fond d'écran.",
+	"core_balloon_desktop_window_error" : "Echec de préparation du bureau pour le fond d'écran.",
+	"core_balloon_video_error" : "Une erreur vidéo est survenue {{err}}. Cliquez pour ouvrir l'aide.",
+	"core_balloon_app_error" : "Echec de chargement de l'application comme fond d'écran.",
+	
+	"core_msgboxtitle_error" : "Erreur",
+	"core_msgboxtitle_app_conflict" : "Conflicting Application",
+	"core_msgboxtitle_wpe" : "Wallpaper Engine",
+	
+	"core_msgbox_deskscapes" : "Il apparait que DeskScapes est activé. Ceci peut empêcher Wallpaper Engine de fonctionner.",
+	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine demande d'activer Aero pour fonctionner. Activer Aero maintenant ?",
+	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine ne peut fonctionner avec un thème 'haute résolution'. Voulez vous restaurer le thème?",
+	"core_msgbox_dwm_disabled" : "La Composition du Bureau n'est pas activé.",
+	"core_msgbox_aero_denied" : "Wallpaper Engine ne peut fonctionner sans Aero et va maintenant fermer.",
+	"core_msgbox_aero_failure" : "Impossible de démarer Aero. Wallpaper Engine va maintenant fermer.",
+	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine est déjà en cours d'execution et ne répond pas.\n\nVoulez vous forcer son redémarrage?",
+	"core_msgbox_init_secondinstance_failed" : "Echec du redémarrage, error code:",
+	"core_msgbox_below_win_7" : "Wallpaper Engine requiert Windows 7 or plus, comme indiqué par les requierrement systèmes sur Steam.\n\nIl apparait que vous utilisez une version non supporté de Windows et Wallpaper Engine peut ne pas fonctionner."
+}

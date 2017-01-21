@@ -1,0 +1,30 @@
+{
+	"core_tray_change_wallpaper" : "Verander Achtergrond",
+	"core_tray_browse_workshop" : "Bekijk de Workshop",
+	"core_tray_create_wallpaper" : "Creëer een Achtergrond",
+	"core_tray_settings" : "Instellingen",
+	"core_tray_take_screenshot" : "Neem screenshot",
+	"core_tray_pause" : "Pauzeer",
+	"core_tray_unpause" : "Hervat",
+	"core_tray_recent_wallpapers" : "Recente Achtergronden",
+	"core_tray_quit" : "Afsluiten",
+	"core_tray_faq" : "Ondersteuning && FAQ",
+	
+	"core_balloon_info" : "Dubbelklik op het Wallpaper Engine systeemvakpictogram om een achtergrond te selecteren.",
+	"core_balloon_desktop_window_error" : "Bureaublad voorbereiden voor bewegende achtergrond is mislukt.",
+	"core_balloon_app_error" : "Applicatie als achtergrond laden is mislukt.",
+	
+	"core_msgboxtitle_error" : "Foutmelding",
+	"core_msgboxtitle_app_conflict" : "Conflicterende Applicatie",
+	"core_msgboxtitle_wpe" : "Wallpaper Engine",
+	
+	"core_msgbox_deskscapes" : "Het lijkt erop dat Deskscapes actief is. Dit kan voorkomen dat Wallpaper Engine correct functioneert.",
+	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine moet Aero inschakelen om te functioneren. Aero nu inschakelen?",
+	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine kan niet functioneren met een 'hoog contrast' thema. Thema nu resetten?",
+	"core_msgbox_dwm_disabled" : "Bureaubladcompositie is uitgeschakeld.",
+	"core_msgbox_aero_denied" : "Wallpaper Engine kan niet zonder Aero functioneren en zal nu afsluiten.",
+	"core_msgbox_aero_failure" : "Aero inschakelen is mislukt. Wallpaper Engine zal nu afsluiten.",
+	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine lijkt al actief te zijn maar reageert niet.\n\nWil je een herstart forceren?",
+	"core_msgbox_init_secondinstance_failed" : "Herstart is mislukt, foutcode:",
+	"core_msgbox_below_win_7" : "Wallpaper Engine vereist Windows 7 of hoger, zoals beschreven in de systeemvereisten.\n\nHet lijkt er op dat u een niet-ondersteunde versie van Windows draait en dus kan Wallpaper Engine mogelijk niet goed werken."
+}

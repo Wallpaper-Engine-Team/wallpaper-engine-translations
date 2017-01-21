@@ -1,0 +1,28 @@
+{
+	"core_tray_change_wallpaper" : "تغيير پس زمينه",
+	"core_tray_browse_workshop" : "مرور در کارگاه",
+	"core_tray_create_wallpaper" : "ساختن تصوير زمينه",
+	"core_tray_settings" : "تنظيمات",
+	"core_tray_take_screenshot" : "گرفتن اسکرين شات",
+	"core_tray_pause" : "توقف",
+	"core_tray_unpause" : "خروج از توقف",
+	"core_tray_recent_wallpapers" : "پس زمينه هاي اخير",
+	"core_tray_quit" : "خروج",
+	
+	"core_balloon_info" : "دوبار کليک کنيد بر روي آيکون والپيپر انجين براي تغيير پس زمينه.",
+	"core_balloon_desktop_window_error" : "ناموفق در آماده کردن دسکتاپ براي تغيير تصوير زمينه متحرک.",
+	"core_balloon_app_error" : "ناموفق در بارگذاري برنامه به عنوان تصوي زمينه.",
+	
+	"core_msgboxtitle_error" : "خطا",
+	"core_msgboxtitle_app_conflict" : "متضاد برنامه",
+	"core_msgboxtitle_wpe" : "والپيپر انجين",
+	
+	"core_msgbox_deskscapes" : "فعال است .ممکن است باعث عملکرد نا درست والپيپر انجين شود DeskScapes به نظر ميرسد",
+	"core_msgbox_prompt_aero_win7" : "  براي ادامه فعاليت دارد aero والپيپر انجين نياز به فعال کردن .",
+	"core_msgbox_prompt_aero_win8" : "والپيپر انجين نميتواند با کنتراست بالا فعاليت کند.تنظيم مجدد شود؟",
+	"core_msgbox_dwm_disabled" : "ترکيب دسکتاب غيرفال است.",
+	"core_msgbox_aero_denied" : "نميتواند فعاليت کند در حال خروجaero والپيپر انجين بدون .",
+	"core_msgbox_aero_failure" : " درحال خروج aero ناموفق در فعال کردن .",
+	"core_msgbox_init_secondinstance_ask_quit" : "به نظر ميرسد والپيپر انجين در حال حاضر در حال اجرا است و پاسخي دريافت نميکند.\n\nDo شما بايد با اجبار آن را راه اندازي مجدد کنيد",
+	"core_msgbox_init_secondinstance_failed" : "راه اندازي مجدد ناموفق کد خطا:"
+}

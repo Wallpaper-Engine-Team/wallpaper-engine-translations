@@ -1,0 +1,31 @@
+{
+	"core_tray_change_wallpaper" : "Pakeisti foną",
+	"core_tray_browse_workshop" : "Naršyti Workshop",
+	"core_tray_create_wallpaper" : "Sukurti foną",
+	"core_tray_settings" : "Nustatymai",
+	"core_tray_take_screenshot" : "Sukurti ekrano kopiją",
+	"core_tray_pause" : "Stabdyti",
+	"core_tray_unpause" : "Tęsti",
+	"core_tray_recent_wallpapers" : "Pastarieji fonai",
+	"core_tray_quit" : "Išeiti",
+	"core_tray_faq" : "Palaikymas ir DUK",
+	
+	"core_balloon_info" : "Wallpaper Engine sumažintas į perspėjimų sritį. Du kartus spragtelkite and perspėjimų srityje esančios piktogramos kad pasirinktumėte foną.",
+	"core_balloon_desktop_window_error" : "Nepavyko paruošti ekrano gyvam fonui.",
+	"core_balloon_video_error" : "Įvyko vaizdo klaida {{err}}. Spragtelkite ant manęs sprendimui.",
+	"core_balloon_app_error" : "Nepavyko užkrauti programos kaip fono.",
+	
+	"core_msgboxtitle_error" : "Klaida",
+	"core_msgboxtitle_app_conflict" : "Nesuderinama programa",
+	"core_msgboxtitle_wpe" : "Wallpaper Engine",
+	
+	"core_msgbox_deskscapes" : "Aptikta atidaryta DeskScapes programa. Tai gali sutrikdyti Wallpaper Engine funkcionavimą.",
+	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine veikimui reikalinga įgalinta Aero. Įgalinti Aero dabar?",
+	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine nesuderinama su aukšto kontrasto režimu. Atstatyti režimą dabar?",
+	"core_msgbox_dwm_disabled" : "Darbalaukio komponavimas išjungtas.",
+	"core_msgbox_aero_denied" : "Wallpaper Engine negali veikti be Aero ir dabar bus išjungta.",
+	"core_msgbox_aero_failure" : "Nepavyko įgalinti Aero. Wallpaper Engine bus uždaryta.",
+	"core_msgbox_init_secondinstance_ask_quit" : "Atrodo kad Wallpaper Engine jau yra atidaryta ir neatsako.\n\nAr norite ją priverstinai perkrauti?",
+	"core_msgbox_init_secondinstance_failed" : "Perkrovimas nepavyko, klaidos kodas:",
+	"core_msgbox_below_win_7" : "Wallpaper Engine reikalauja Windows 7 ar naujesnės versijos, kaip nurodyta minimaliuose reikalavimuose Steam platformoje.\n\nAtrodo kad naudojate nepalaikomą Windows versiją, todėl Wallpaper Engine gali neveikti."
+}

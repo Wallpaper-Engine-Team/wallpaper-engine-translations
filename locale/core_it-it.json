@@ -1,0 +1,28 @@
+{
+	"core_tray_change_wallpaper" : "Cambia Sfondo",
+	"core_tray_browse_workshop" : "Sfoglia Workshop",
+	"core_tray_create_wallpaper" : "Crea sfondo",
+	"core_tray_settings" : "Impostazioni",
+	"core_tray_take_screenshot" : "Cattura Screenshot",
+	"core_tray_pause" : "Pausa",
+	"core_tray_unpause" : "Riprendi",
+	"core_tray_recent_wallpapers" : "Sfondi Recenti",
+	"core_tray_quit" : "Esci",
+	
+	"core_balloon_info" : "Doppio click sull'icona di Wallpaper Engine nella barra delle applicazioni per selezionare uno sfondo.",
+	"core_balloon_desktop_window_error" : "Fallimento nella preparazione del desktop per lo sfondo live.",
+	"core_balloon_app_error" : "Fallimento nel caricare l'applicazione come sfondo.",
+	
+	"core_msgboxtitle_error" : "Errore",
+	"core_msgboxtitle_app_conflict" : "Applicazione in conflitto",
+	"core_msgboxtitle_wpe" : "Wallpaper Engine",
+	
+	"core_msgbox_deskscapes" : "Sembra che DeskScapes sia attivo. Questo può impedire a Wallpaper Engine di funzionare.",
+	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine ha bisogno che Aero sia abilitato per funzionare. Abilitare Aero ora?",
+	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine non può essere eseguito con un tema ad 'alto contrasto'. Resettare il tema ora?",
+	"core_msgbox_dwm_disabled" : "La composizione Desktop è disabilitata.",
+	"core_msgbox_aero_denied" : "Wallpaper Engine non può essere eseguito senza Aero e quindi ora verrà chiuso.",
+	"core_msgbox_aero_failure" : "Fallimento nell'abilitare Aero. Wallpaper Engine sarà chiuso.",
+	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine è già in esecuzione e non sembra rispondere.\n\nVuoi riavviarlo in modo forzato?",
+	"core_msgbox_init_secondinstance_failed" : "Riavvio fallito, codice errore:"
+}

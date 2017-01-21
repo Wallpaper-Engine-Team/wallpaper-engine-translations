@@ -1,0 +1,34 @@
+{
+	"core_tray_change_wallpaper" : "更改壁纸",
+	"core_tray_browse_workshop" : "浏览创意工坊",
+	"core_tray_create_wallpaper" : "制作壁纸",
+	"core_tray_settings" : "设置",
+	"core_tray_take_screenshot" : "截图",
+	"core_tray_pause" : "暂停",
+	"core_tray_unpause" : "继续播放",
+	"core_tray_recent_wallpapers" : "最近壁纸",
+	"core_tray_quit" : "退出",
+	"core_tray_faq" : "帮助和支持",
+	
+	"core_balloon_info" : "Wallpaper Engine 已经在通知区域最小化。双击通知区域的图标来选择一个壁纸。",
+	"core_balloon_desktop_window_error" : "动态壁纸的桌面准备过程失败。",
+	"core_balloon_video_error" : "视频发生错误 {{err}}。点此来获取帮助。",
+	"core_balloon_app_error" : "将应用程序应用为壁纸失败。",
+	
+	"core_msgboxtitle_error" : "错误",
+	"core_msgboxtitle_app_conflict" : "应用程序冲突",
+	"core_msgboxtitle_wpe" : "Wallpaper Engine",
+	
+	"core_msgbox_deskscapes" : "DeskScapes 软件正在运行，它可能会妨碍 Wallpaper Engine 的正常运行。",
+	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine 需要启动 Aero 才能运行。 现在启用 Aero 吗?",
+	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine 不能在 '高对比度' 主题下运行。要马上切换主题吗?",
+	"core_msgbox_dwm_disabled" : "桌面窗口管理器已经被禁用。",
+	"core_msgbox_aero_denied" : "Wallpaper Engine 无法在没有 Aero 的环境中运行，正在退出。",
+	"core_msgbox_aero_failure" : "启动 Aero 失败。 Wallpaper Engine 现在会退出。",
+	"core_msgbox_aero_failure_no_support" : "无法启用Aero，您似乎使用的是简易版或普通版的Windows 7，它不支持Aero，Wallpaper Engine现在将退出。",
+	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine 已经在运行且失去相应。\n\n强制重启 Wallpaper Engine?",
+	"core_msgbox_init_secondinstance_failed" : "重新启动失败，错误代码:",
+	"core_msgbox_below_win_7" : "Wallpaper Engine 需要运行在 Windows 7 或更高的系统版本上。\n\n看起来你正在运行一个不受 Wallpaper Engine 所支持的 Windows 版本，Wallpaper Engine 可能不会正常工作。",
+	"core_msgbox_media_feature_pack_missing" : "mfplat.dll文件丢失！\n您可能使用的是Windows N版本。请安装Microsoft的Media Feature Pack以启用视频支持！ (搜索: Media Feature Pack Windows 10/8.1/7)",
+	"core_msgbox_file_inconsistency" : "检测到文件不一致！\n\n请通过Steam重新启动应用程序。如果您仍然看到此错误，请验证Steam上的文件（右键单击Wallpaper Engine，属性，本地文件，验证应用程序缓存的完整性）当您运行该程序而Steam正在更新，可能会遇到这个错误。重新开始现在？"
+}

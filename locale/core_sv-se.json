@@ -1,0 +1,31 @@
+{
+	"core_tray_change_wallpaper" : "Ändra Bakgrund",
+	"core_tray_browse_workshop" : "Bläddra Workshop",
+	"core_tray_create_wallpaper" : "Skapa Bakgrund",
+	"core_tray_settings" : "Inställningar",
+	"core_tray_take_screenshot" : "Ta Skärmbild",
+	"core_tray_pause" : "Pause",
+	"core_tray_unpause" : "Fortsätt",
+	"core_tray_recent_wallpapers" : "Nyligen använda Bakgrunder",
+	"core_tray_quit" : "Avsluta",
+	
+	"core_balloon_info" : "Dubbelklicka Wallpaper Engine's nedre ikon för att välja Bakgrund.",
+	"core_balloon_desktop_window_error" : "Fel vid förberedning av skrivbord för live bakgrund.",
+	"core_balloon_video_error" : "Grafikfel:",
+	"core_balloon_video_error_win7" : "Video fel (video upplösning för stor? Media program avstängt?):",
+	"core_balloon_app_error" : "Fel vid laddning av program som Bakgrund.",
+	
+	"core_msgboxtitle_error" : "Fel",
+	"core_msgboxtitle_app_conflict" : "Program konflikt",
+	"core_msgboxtitle_wpe" : "Wallpaper Engine",
+	
+	"core_msgbox_deskscapes" : "Det verkar som om DeskScapes redan körs. Det kan få Wallpaper Engine att sluta fungera som det ska.",
+	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine måste starta Aero för att fungera. Starta Aero nu?",
+	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine kan inte köras med ett 'hög kontrast' tema. Återställ tema nu?",
+	"core_msgbox_dwm_disabled" : "Bakgrunds sammansättning avlutad.",
+	"core_msgbox_aero_denied" : "Wallpaper Engine kan inte fungera utan Aero och kommer nu avslutas.",
+	"core_msgbox_aero_failure" : "Misslyckades att starta Aero. Wallpaper Engine kommer nu avslutas.",
+	"core_msgbox_init_secondinstance_no_window" : "Wallpaper Engine verkar redan köras.",
+	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine verkar redan köras och svarar inte.\n\nVill du starta om det?",
+	"core_msgbox_init_secondinstance_failed" : "Omstart misslyckad, Felkod:"
+}

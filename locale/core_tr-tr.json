@@ -1,0 +1,34 @@
+{
+	"core_tray_change_wallpaper" : "Duvar kağıdını değiştir",
+	"core_tray_browse_workshop" : "Atölyeye Gözat",
+	"core_tray_create_wallpaper" : "Duvar kağıdı oluştur",
+	"core_tray_settings" : "Ayarlar",
+	"core_tray_take_screenshot" : "Ekran görüntüsü al",
+	"core_tray_pause" : "Duraklat",
+	"core_tray_unpause" : "Devam et",
+	"core_tray_recent_wallpapers" : "Son Duvar Kağıtları",
+	"core_tray_quit" : "Çıkış",
+	"core_tray_faq" : "Destek && SSS",
+	
+	"core_balloon_info" : "Bir duvar kağıdı seçmek için Wallpaper Engine'in sistem tepsisindeki simgesine çift tıkla.",
+	"core_balloon_desktop_window_error" : "Canlı duvar kağıdı için masaüstü hazırlanamadı.",
+	"core_balloon_video_error" : "Video hatası oluştu {{err}}. Yardım için tıkla.",
+	"core_balloon_app_error" : "Uygulama duvar kağıdı olarak yüklenemedi.",
+	
+	"core_msgboxtitle_error" : "Hata",
+	"core_msgboxtitle_app_conflict" : "Çakışan Uygulama",
+	"core_msgboxtitle_wpe" : "Wallpaper Engine",
+	
+	"core_msgbox_deskscapes" : "Görünüşe göre DeskScapes aktif. Bu, Wallpaper Engine'in çalışmasını engelleyebilir.",
+	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine'in çalışması için Aero'yu etkinleştirmesi gerekiyor. Aero'yu şimdi etkinleştirin?",
+	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine, 'yüksek kontrastlı' bir temayla çalıştırılamaz. Şimdi temayı sıfırlasın mı?",
+	"core_msgbox_dwm_disabled" : "Masaüstü bileşimi devre dışı.",
+	"core_msgbox_aero_denied" : "Wallpaper Engine Aero olmadan çalışamaz ve şimdi kapanacak.",
+	"core_msgbox_aero_failure" : "Aero'yu etkinleştirme başarısız oldu. Wallpaper Engine şimdi kapanacak.",
+	"core_msgbox_aero_failure_no_support" : "Aero'yu etkinleştirme başarısız oldu. Windows 7'nin Aero'yu desteklemeyen Starter veya Basic sürümünü kullanıyor görünüyorsunuz. Wallpaper Engine şimdi kapanacak.",
+	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine zaten çalışıyor ve yanıt vermiyor gibi görünüyor.\n\nZorla yeniden başlatmak istiyor musunuz?",
+	"core_msgbox_init_secondinstance_failed" : "Yeniden başlatma başarısız, hata kodu:",
+	"core_msgbox_below_win_7" : "Wallpaper Engine Windows 7 veya üstünü gerektirir.\n\nWindows'un desteklenmeyen bir sürümünü çalıştırıyorsunuz. Wallpaper Engine çalışmayabilir.",
+	"core_msgbox_media_feature_pack_missing": "mfplat.dll eksik!\nWindows N'ye sahip olabilirsiniz. Lütfen video desteğini etkinleştirmek için Microsoft tarafından Media Feature Pack'i yükleyin! (Google: Media Feature Pack Windows 10/8.1/7)",
+	"core_msgbox_file_inconsistency": "Dosya tutarsızlığı tespit edildi!\n\nBu hatayı görmeye devam ederseniz, Steam'den dosyaları da doğrulayın (Wallpaper Engine'e sağ tıklayın, özellikleri, yerel dosyaları tıklayın, doğrulayın). Steam uygulamayı çalıştırırken günceller."
+}
