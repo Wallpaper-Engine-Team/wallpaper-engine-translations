@@ -335,5 +335,8 @@
 	"ui_workshop_tags_technology" : "เทคโนโลยี",
 	"ui_workshop_tags_television" : "รายการโทรทัศน์",
 	"ui_workshop_tags_vehicle" : "ยานพาหนะ",
-	"ui_workshop_tags_unspecified" : "ไม่ได้ระบุ"
+	"ui_workshop_tags_unspecified" : "ไม่ได้ระบุ",
+
+	"ui_settings_highpriority_warning_header" : "โหมดการให้ความสำคัญสูง",
+	"ui_settings_highpriority_warning" : "โหมดให้ความสำคัญสูง จะเปิดโปรแกรมอย่างรวดเร็วโดยใช้ 'Windows service'. แต่ถ้าคุณกำลังประสบปัญหาเกี่ยวกับการแก้ปัญหานี้, ลองยกเลิกการให้ความสำคัญสูง, ซึ่งจะมีความน่าเชื่อถือมากขึ้น แต่ช้าลง"
 }
