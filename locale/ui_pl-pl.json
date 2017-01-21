@@ -1,5 +1,5 @@
 {
-	"ui_caption_browse" : "Przeglądaj Tapety", 
+	"ui_caption_browse" : "Przeglądaj Tapety",
 	"ui_caption_settings" : "Ustawienia",
 	"ui_caption_editor" : "Edytor Tapet",
 	
@@ -113,6 +113,9 @@
 	"ui_settings_recording_volume" : "Głośność nagrywania:",
 	"ui_settings_audio_input_device" : "Urządzenie wejściowe audio:",
 	"ui_settings_adjust_windows_color" : "Dostosuj kolor interfejsu Windows:",
+	"ui_settings_adjust_windows_color_disabled" : "Wyłączone",
+	"ui_settings_adjust_windows_color_accent" : "Kolor akcentu",
+	"ui_settings_adjust_windows_color_everything" : "Wszystko",
 	"ui_settings_start_with_windows" : "Uruchom wraz ze startem systemu:",
 	"ui_settings_remove_service" : "Usuń wyższy priorytet",
 	"ui_settings_register_service" : "Ustaw wyższy priorytet",
@@ -125,9 +128,6 @@
 	"ui_settings_about" : "O programie",
 	"ui_settings_read_from_disk" : "Z dysku",
 	"ui_settings_read_from_memory" : "Z pamięci",
-	"ui_settings_adjust_windows_color_disabled" : "Wyłączone",
-	"ui_settings_adjust_windows_color_accent" : "Kolor akcentu",
-	"ui_settings_adjust_windows_color_everything" : "Wszystko",
 	
 	"ui_settings_no_devices" : "Nie znaleziono urządzeń",
 	"ui_settings_skin_white" : "Biały",
