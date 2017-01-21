@@ -154,6 +154,9 @@
 	"ui_settings_copyright" : "All rights reserved.",
 	"ui_settings_thirdparty" : "Thirdparty notices",
 	
+	"ui_settings_highpriority_warning_header" : "High-priority info",
+	"ui_settings_highpriority_warning" : "High-priority mode will launch the application more quickly using a 'Windows service'. But if you are experiencing issues with this solution, try it without high-priority, which will be more reliable but slower.",
+	
 	"ui_welcome_preferred_language" : "Preferred language (WIP):",
 	"ui_welcome_header" : "Welcome to Wallpaper Engine",
 	"ui_welcome_intro" : "This is a short introduction to get you started and to configure a few important options for you.<br/><br/>Everything you adjust here can also be changed later again!",
