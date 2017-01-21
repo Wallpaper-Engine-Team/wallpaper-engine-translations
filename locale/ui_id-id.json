@@ -153,6 +153,8 @@
    
 	"ui_settings_copyright" : "Hak cipta terpelihara.",
 	"ui_settings_thirdparty" : "Notis pihak ketiga",
+	"ui_settings_highpriority_warning_header" : "Informasi Prioritas-Tinggi",
+ 	"ui_settings_highpriority_warning" : "Mode Prioritas-Tinggi akan membuka aplikasi lebih cepat menggunakan sebuah 'Windows service'. Namun, jika anda merasa menemukan isu atau masalah dengan solusi ini, coba lagi tanpa menghidupkan Prioritas-Tinggi, yang lebih stabil namun lebih lambat.",
    
 	"ui_welcome_preferred_language" : "Pemilihan Bahasa (WIP):",
 	"ui_welcome_header" : "Selamat datang ke Wallpaper Engine",
