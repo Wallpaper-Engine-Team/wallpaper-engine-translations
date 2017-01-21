@@ -16,7 +16,7 @@
 	"core_balloon_video_error" : "Wystąpił problem z video {{err}}. Kliknij tutaj aby dowiedzieć się więcej.",
 	
 	"core_msgboxtitle_error" : "Błąd",
-	"core_msgboxtitle_app_conflict" : "Wystąpił konflikt między aplikacjami",
+	"core_msgboxtitle_app_conflict" : "Wystąpił konflikt między aplikacjami", 
 	"core_msgboxtitle_wpe" : "Wallpaper Engine",
 	
 	"core_msgbox_deskscapes" : "Program DeskScapes jest uruchomiony. Może to spowodować błędy w funkcjonowaniu Wallpaper Engine.",
