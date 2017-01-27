@@ -10,6 +10,7 @@
 	"core_tray_quit" : "Quit",
 	"core_tray_faq" : "Support && FAQ",
 	"core_tray_recent_wallpapers_clear" : "Clear list",
+	"core_tray_next_wallpaper" : "Next Wallpaper",
 	
 	"core_balloon_info" : "Wallpaper Engine minimized to your tray. Double click the tray icon to select a wallpaper.",
 	"core_balloon_desktop_window_error" : "Failed preparing desktop for live wallpaper.",
