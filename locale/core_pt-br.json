@@ -9,6 +9,8 @@
 	"core_tray_recent_wallpapers" : "Planos de fundo recentes",
 	"core_tray_quit" : "Sair",
 	"core_tray_faq" : "Suporte e perguntas frequentes",
+	"core_tray_recent_wallpapers_clear" : "Limpar lista",
+	"core_tray_next_wallpaper" : "Próximo plano de fundo",
 	
 	"core_balloon_info" : "Wallpaper Engine minimizado para a bandeja. Dê um duplo clique no ícone da bandeja para selecionar um plano de fundo.",
 	"core_balloon_desktop_window_error" : "Falha ao preparar área de trabalho.",
@@ -29,6 +31,7 @@
 	"core_msgbox_init_secondinstance_ask_quit" : "O Wallpaper Engine já está sendo executado mas não responde.\n\nDeseja forçar uma reinicialização?",
 	"core_msgbox_init_secondinstance_failed" : "Falha ao reiniciar, código do erro:",
 	"core_msgbox_below_win_7" : "O Wallpaper Engine requer Windows 7 ou posterior, como indicado pelos requisitos de sistema no Steam.\n\nParece que você está rodando uma versão sem suporte do Windows e o Wallpaper Engine pode não funcionar.",
-	"core_msgbox_media_feature_pack_missing" : "mfplat.dll ausente!\nVocê possivelmente possui uma edição N do Windows. Por favor, instale o Media Feature Pack da Microsoft para ativar suporte a vídeos! (Google: Media Feature Pack Windows 10/8.1/7)"
+	"core_msgbox_media_feature_pack_missing" : "mfplat.dll ausente!\nVocê possivelmente possui uma edição N do Windows. Por favor, instale o Media Feature Pack da Microsoft para ativar suporte a vídeos! (Google: Media Feature Pack Windows 10/8.1/7)",
+	"core_msgbox_file_inconsistency" : "Inconsistência de arquivos detectada!\n\nPor favor, reinicie o aplicativo através do Steam. Caso continue recebendo esta mensagem, verifique os arquivos do aplitativo e tente iniciá-lo novamente (clique com o botão direito em Wallpaper Engine na biblioteca Steam, selecione \"Propriedades\" no menu, navegue até a aba \"Arquivos locais\" e clique em \"Verificar integridade dos arquivos...\"). Isso pode acontecer quando o Steam atualiza o aplicativo enquanto ele está sendo executado.\n\nReiniciar agora?"
 }
 
