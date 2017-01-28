@@ -9,6 +9,8 @@
 	"core_tray_recent_wallpapers" : "Letzte Wallpaper",
 	"core_tray_quit" : "Beenden",
 	"core_tray_faq" : "Hilfe && FAQ",
+	"core_tray_recent_wallpapers_clear" : "Liste leeren",
+	"core_tray_next_wallpaper" : "Nächstes Wallpaper",
 	
 	"core_balloon_info" : "Wallpaper Engine befindet sich nun im Tray. Doppelklicke das Icon, um das Wallpaper zu ändern.",
 	"core_balloon_desktop_window_error" : "Beim erstellen des Wallpapers trat ein unerwarteter Fehler auf.",

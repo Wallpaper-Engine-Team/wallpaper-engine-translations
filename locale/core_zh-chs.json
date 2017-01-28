@@ -5,10 +5,12 @@
 	"core_tray_settings" : "设置",
 	"core_tray_take_screenshot" : "截图",
 	"core_tray_pause" : "暂停",
-	"core_tray_unpause" : "继续播放",
+	"core_tray_unpause" : "播放",
 	"core_tray_recent_wallpapers" : "最近壁纸",
 	"core_tray_quit" : "退出",
 	"core_tray_faq" : "帮助和支持",
+	"core_tray_recent_wallpapers_clear" : "清理最近壁纸",
+	"core_tray_next_wallpaper" : "下一张壁纸",
 	
 	"core_balloon_info" : "Wallpaper Engine 已经在通知区域最小化。双击通知区域的图标来选择一个壁纸。",
 	"core_balloon_desktop_window_error" : "动态壁纸的桌面准备过程失败。",
