@@ -9,6 +9,8 @@
 	"core_tray_recent_wallpapers" : "วอลล์เปเปอร์ล่าสุด",
 	"core_tray_quit" : "ออกจากโปรแกรม",
 	"core_tray_faq" : "สนับสนุน && คำถามที่พบบ่อย",
+	"core_tray_recent_wallpapers_clear" : "ลบรายการ",
+	"core_tray_next_wallpaper" : "วอลล์เปเปอร์ถัดไป",
 	
 	"core_balloon_info" : "Wallpaper Engine ถูกย่อลงไปในแถบงาน. ดับเบิลคลิกไอคอนที่แถบงาน เพื่อเลือกวอลล์เปเปอร์",
 	"core_balloon_desktop_window_error" : "การจัดเตรียมเดสก์ทอปล้มเหลว",
