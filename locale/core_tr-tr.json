@@ -9,6 +9,8 @@
 	"core_tray_recent_wallpapers" : "Son Duvar Kağıtları",
 	"core_tray_quit" : "Çıkış",
 	"core_tray_faq" : "Destek && SSS",
+	"core_tray_recent_wallpapers_clear" : "Listeyi temizle",
+	"core_tray_next_wallpaper" : "Sıradaki Duvar kağıdı",
 	
 	"core_balloon_info" : "Bir duvar kağıdı seçmek için Wallpaper Engine'in sistem tepsisindeki simgesine çift tıkla.",
 	"core_balloon_desktop_window_error" : "Canlı duvar kağıdı için masaüstü hazırlanamadı.",
