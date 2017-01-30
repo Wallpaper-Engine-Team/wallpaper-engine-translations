@@ -293,7 +293,7 @@
 	"ui_editor_workshop_options_monetization_hint_off" : " (壁纸将会立即可用并完全免费)",
 	"ui_editor_workshop_options_preview_image" : "预览图片",
 	"ui_editor_workshop_options_missing" : "无截图",
-	"ui_editor_workshop_options_preview_take_snapshot" : "截屏",
+	"ui_editor_workshop_options_preview_take_snapshot" : "截图",
 	"ui_editor_workshop_options_preview_import_file" : "导入文件",
 	"ui_editor_workshop_options_required" : " *必填",
 
