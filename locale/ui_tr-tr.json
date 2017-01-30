@@ -363,5 +363,8 @@
 	"ui_workshop_tags_technology" : "Teknoloji",
 	"ui_workshop_tags_television" : "Televizyon",
 	"ui_workshop_tags_vehicle" : "Taşıt",
-	"ui_workshop_tags_unspecified": "Belirtilmemiş"
+	"ui_workshop_tags_unspecified": "Belirtilmemiş",
+	
+	"ui_settings_highpriority_warning_header" : "Yüksek öncelik bilgisi",
+ 	"Ui_settings_highpriority_warning": "Yüksek öncelik modu, bir 'Windows hizmeti' kullanarak uygulamayı daha hızlı başlatır. Bu çözümle ilgili sorunlar yaşıyorsanız, yüksek öncelik olmadan deneyin. Daha güvenlidir ancak daha yavaştır.",
 }
