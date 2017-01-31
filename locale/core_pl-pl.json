@@ -9,6 +9,8 @@
 	"core_tray_recent_wallpapers" : "Ostatnio Używane Tapety",
 	"core_tray_quit" : "Wyjdź",
 	"core_tray_faq" : "Pomoc i FAQ",
+	"core_tray_recent_wallpapers_clear" : "Wyczyść listę",
+	"core_tray_next_wallpaper" : "Następna tapeta",
 	
 	"core_balloon_info" : "Wallpaper Engine został zminimalizowany. Kliknij dwukrotnie na ikonę w zasobniku systemowym aby wybrać tapetę.",
 	"core_balloon_desktop_window_error" : "Wystąpił błąd podczas przygotowywania pulpitu pod animowaną tapetę.",
