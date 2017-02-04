@@ -10,7 +10,7 @@
 	"core_tray_quit" : "Esci",
 	"core_tray_faq" : "Supporto && FAQ",
 	"core_tray_recent_wallpapers_clear" : "Svuota lista",
-	"core_tray_next_wallpaper" : "Prossimo Wallpaper",
+	"core_tray_next_wallpaper" : "Prossimo sfondo",
 	
 	"core_balloon_info" : "Doppio click sull'icona di Wallpaper Engine nella barra delle applicazioni per selezionare uno sfondo.",
 	"core_balloon_desktop_window_error" : "Impossibile preparare il desktop per lo sfondo live.",
@@ -29,7 +29,7 @@
 	"core_msgbox_aero_failure" : "Fallimento nell'abilitare Aero. Wallpaper Engine sarà chiuso.",
 	"core_msgbox_aero_failure_no_support" : "Impossibile abilitare Aero. Sembra che tu stia usando una versione Starter o Basic di Windows 7, che non supporta Aero e non dispone dei requisiti minimi di sistema. Wallpaper Engine verrà chiuso.",
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine è già in esecuzione e non sembra rispondere.\n\nVuoi riavviarlo in modo forzato?",
-	"core_msgbox_init_secondinstance_failed" : "Riavvio fallito, codice errore:"
+	"core_msgbox_init_secondinstance_failed" : "Riavvio fallito, codice errore:",
 	"core_msgbox_below_win_7" : "Wallpaper Engine richiede Windows 7 o superiori, come indicato nei requisiti di sistema in Steam.\n\nSembra che tu abbia una versione di windows non supportata: Wallpaper Engine potrebbe non funzionare.",
 	"core_msgbox_media_feature_pack_missing" : "Manca mfplat.dll!\nPuò essere che tu abbia Windows N. Prova ad installare il Media Feature Pack di Microsoft per abilitare il supporto ai video! (cerca su Google: Media Feature Pack Windows 10/8.1/7)",
 	"core_msgbox_file_inconsistency" : "Ho rilevato un'incoerenza!\n\nPer favore riavvia l'applicazione da Steam. Se continui a riscontrare questo errore, verifica i files da Steam (tasto destro su Wallpaper Engine, clic su Proprietà, Files locali, Verifica). Questo può accadere quando Steam aggiorna l'applicazione finché è in esecuzione.\n\nRiavviare ora?"
