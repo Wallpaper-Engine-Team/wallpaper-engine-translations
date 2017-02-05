@@ -13,7 +13,7 @@
 	"core_tray_next_wallpaper" : "Sıradaki Duvar kağıdı",
 	
 	"core_balloon_info" : "Bir duvar kağıdı seçmek için Wallpaper Engine'in sistem tepsisindeki simgesine çift tıkla.",
-	"core_balloon_desktop_window_error" : "Canlı duvar kağıdı için masaüstü hazırlanamadı.",
+	"core_balloon_desktop_window_error" : "Masaüstü, canlı duvar kağıdı için hazırlanamadı.",
 	"core_balloon_video_error" : "Video hatası oluştu {{err}}. Yardım için tıkla.",
 	"core_balloon_app_error" : "Uygulama duvar kağıdı olarak yüklenemedi.",
 	
