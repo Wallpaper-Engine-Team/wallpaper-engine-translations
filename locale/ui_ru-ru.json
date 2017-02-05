@@ -199,7 +199,7 @@
 	"ui_welcome_quality_bloom" : "Свечение:",
 	"ui_welcome_quality_reflections" : "Отражения:",
 	"ui_welcome_windows_color_description" : "Позволять обоям автоматически настраивать цвет окон Windows:",
-	"ui_welcome_windows_color_header" : "Регулирование цвета окна",
+	"ui_welcome_windows_color_header" : "Регулировка цвета окон",
 	"ui_welcome_autostart_description" : "Запускать Wallpaper Engine вместе с Windows:",
 	"ui_welcome_autostart_label" : "Автозапуск:",
 	"ui_welcome_finish_body" : "Всё готово!<br/><br/>Wallpaper Engine теперь будет доступен в области уведомлений. <b>Двойной клик</b>, чтобы выбрать обои или <b>правый клик</b> для доступа к параметрам, Мастерской Steam или Wallpaper Editor.<div style='height:20px'></div>",
