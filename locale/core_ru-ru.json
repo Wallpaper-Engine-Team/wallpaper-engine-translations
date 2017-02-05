@@ -30,7 +30,7 @@
 	"core_msgbox_aero_failure_no_support" : "Ошибка включения Aero. Кажется вы используете Начальную или Базовую редакцию Windows 7, которая не поддерживает Aero и не отвечает минимальным системным требованиям. Wallpaper Engine будет выключен.",
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine уже запущен, и не отвечает.\n\nХотите принудительно перезапустить его?",
 	"core_msgbox_init_secondinstance_failed" : "Ошибка перезапуска, код ошибки:",
-	"core_msgbox_below_win_7" : "Для корректной работы Wallpaper Engine требуется Windows 7 или выше.\n\nПохоже, что вы используете устаревшую версию Windows. Wallpaper Engine может работать некорректно."
-	"core_msgbox_media_feature_pack_missing" : "mfplat.dll отсутствует!\nВозможно вы имеете Windows N. Пожалуйста установите Media Feature Pack от Microsoft чтобы включить поддержку видео! (Google: Media Feature Pack Windows 10/8.1/7)",
+	"core_msgbox_below_win_7" : "Для корректной работы Wallpaper Engine требуется Windows 7 или выше.\n\nПохоже, что вы используете устаревшую версию Windows. Wallpaper Engine может работать некорректно.",
+	"core_msgbox_media_feature_pack_missing" : "mfplat.dll отсутствует!\nВозможно вы имеете Windows N. Пожалуйста установите Media Feature Pack от Microsoft, чтобы включить поддержку видео! (Google: Media Feature Pack Windows 10/8.1/7)",
 	"core_msgbox_file_inconsistency" : "Обнаружено несоответствие файлов!\n\nПожалуйста перезапустите приложение через Steam. Если вы продолжаете видить эту ошибку, то проверьте целостность кеша в Steam (правая кнопка мыши по Wallpaper Engine, далее Свойства > Локальные файлы > Проверка целостности кеша). Это может произойти, когда Steam обновляет приложение во время его работы.\n\nПерезапустить сейчас?"
 }
