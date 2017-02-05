@@ -185,6 +185,8 @@
 	"ui_settings_copyright" : "Все права защищены.",
 	"ui_settings_thirdparty" : "Сторонние заметки",
 
+	"ui_settings_highpriority_warning_header" : "Информация о высоком приоритете",
+	"ui_settings_highpriority_warning" : "Режим высокого приоритета запускает приложение быстрее, используя 'сервисы Windows'. Но если вы будете испытывать проблемы с этим, то попробуйте выключить его, что будет надежнее, но медленнее.",
 	
 	"ui_welcome_preferred_language" : "Предпочитаемый язык (WIP):",
 	"ui_welcome_header" : "Добро пожаловать в Wallpaper Engine",
