@@ -1,13 +1,18 @@
 {
 	"ui_caption_browse" : "Просмотр обоев",
 	"ui_caption_settings" : "Параметры",
-	"ui_caption_editor" : "Wallpaper Editor",
-	
+	"ui_caption_editor" : "Редактор обоев",
+
 	"ui_ok" : "ОК",
 	"ui_cancel" : "Отмена",
 	"ui_back" : "Назад",
 	"ui_close" : "Закрыть",
 	"ui_retry" : "Повторить",
+
+	"ui_modal_updaterequired_title" : "Wallpaper Engine требуется обновление",
+	"ui_modal_updaterequired_body" : "Пожалуйста закройте Wallpaper Engine (правый клик по иконке в области уведомлений и Выход) и запустите его в Steam, чтобы получить последние обновления. Если вы продолжаете получать эти предупреждения, то пожалуйста проверьте целостность кеша приложения в Steam.<br/><br/>Версия приложения: <b>{{callerVersion}}</b>, Версия UI: <b>{{appVersion}}</b>.",
+	"ui_modal_updateavailable_title" : "Доступно новое обновление",
+	"ui_modal_updateavailable_body" : "Новое обновление для Wallpaper Engine доступно в Steam: <b>{{updateVersion}}</b><br/>Пожалуйста закройте Wallpaper Engine, чтобы Steam правильно обновил его.",
 
 	"ui_browse_monitor" : "Монитор",
 	"ui_browse_choose_monitor" : "(Выбрать монитор)",
@@ -19,7 +24,11 @@
 	"ui_browse_grid_no_results" : "Нет обоев соответствующих Вашим критериям",
 	"ui_browse_status_error" : "Ошибка",
 	"ui_browse_select_prompt" : "Пожалуйста выберите обои",
-	
+	"ui_browse_steam_status_unavailable" : "Steam не доступен.",
+	"ui_browse_steam_status_unavailable_cache" : "Steam не доступен.<br/>Загружено {{count}} обоев из кеша.",
+	"ui_browse_steam_status_pending" : "Ожидание ответа Steam...",
+	"ui_browse_steam_status_complete" : "Steam обновление завершено.<br/>Записано {{count}} обоев в кеш.",
+
 	"ui_browse_details_title" : "Название:",
 	"ui_browse_details_author" : "Автор:",
 	"ui_browse_details_type" : "Тип:",
@@ -34,12 +43,12 @@
 	"ui_browse_details_properties_nothing_imported" : "Ничего не импортировано",
 	"ui_browse_details_properties_select_directory" : "Выберите каталог",
 	"ui_browse_details_properties_select_file" : "Выберите файл",
-	
+
 	"ui_browse_footer_btn_workshop" : "Мастерская",
 	"ui_browse_footer_btn_store" : "Магазин",
 	"ui_browse_footer_btn_open_from_file" : "Открыть файл",
 	"ui_browse_footer_btn_open_from_url" : "Открыть URL",
-	
+
 	"ui_browse_monitors_choose_monitor" : "Выберите монитор",
 	"ui_browse_monitors_layout" : "Макет",
 	"ui_browse_monitors_monitors" : "Мониторы",
@@ -47,14 +56,14 @@
 	"ui_browse_monitors_remove_wallpaper" : "Удалить обои",
 	"ui_browse_monitors_layout_per_monitor" : "Обои на каждый монитор",
 	"ui_browse_monitors_layout_fit" : "Подогнать единый фон",
-	
+
 	"ui_browse_sort_name" : "Имя",
 	"ui_browse_sort_rating" : "Рейтинг",
 	"ui_browse_sort_favorite" : "Избранное",
 	"ui_browse_sort_filesize" : "Размер файла",
 	"ui_browse_sort_subscription_date" : "Дата подписки",
 	"ui_browse_sort_last_updated" : "Последнее обновление",
-	
+
 	"ui_browse_search_placeholder" : "Поиск",
 	"ui_browse_filter_type_any" : "Любой",
 	"ui_browse_filter_type_scene" : "Сцена",
@@ -65,7 +74,7 @@
 	"ui_browse_filter_source_official" : "Официальный",
 	"ui_browse_filter_source_workshop" : "Мастерская",
 	"ui_browse_filter_source_my_wallpapers" : "Мои обои",
-	
+
 	"ui_browse_modal_application_warning_header" : "Открытие неизвестного приложения",
 	"ui_browse_modal_application_warning_body" : "Вы собираетесь открыть неизвестное приложение в качестве обоев: <br/><b>{{filepath}}</b><br/>Wallpaper Engine не контролирует этот файл, вы должны убедиться, что он получен из надежного источника, прежде чем продолжить.<br/><br/>ЭТО МОЖЕТ НАНЕСТИ ВРЕД ВАШЕМУ КОМПЬЮТЕРУ.",
 	"ui_browse_modal_application_warning_timer" : "<br/><br/>Пожалуйста, подождите {{time}} секунд.",
@@ -75,9 +84,38 @@
 	"ui_browse_modal_remove_local_body" : "Вы уверены, что хотите удалить выбранные обои: <b>{{title}}</b>?",
 	"ui_browse_open_url_header" : "Открыть URL в качестве обоев",
 	"ui_browse_modal_proceed" : "Продолжить",
-	
-	"ui_browse_properties_scheme_color" : "Цветовая схема",
 
+	"ui_browse_properties_scheme_color" : "Цветовая схема",
+	"ui_browse_properties_playback_rate" : "<span class='fa fa-play propertyIcon'></span>Скорость воспроизведения",
+	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>Громкость",
+	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>Запись звука",
+
+	"ui_browse_playlist_header" : "Плейлист",
+	"ui_browse_playlist_modal_open_header" : "Открыть Плейлист",
+	"ui_browse_playlist_modal_open_delete" : "Удалить",
+	"ui_browse_playlist_modal_save_header" : "Сохранить Плейлист",
+	"ui_browse_playlist_modal_save_name" : "Название", 
+	"ui_browse_playlist_modal_save_description" : "Если плейлист с тем же именем уже будет существовать, он будет перезаписан.",
+	"ui_browse_playlist_modal_empty" : "Плейлисты не найдены",
+	"ui_browse_playlist_modal_settings_header" : "Настройка Плейлиста",
+	"ui_browse_playlist_modal_settings_reset" : "Сброс",
+	"ui_browse_playlist_modal_settings_order_label" : "Порядок",
+	"ui_browse_playlist_modal_settings_order_random" : "Случайно",
+	"ui_browse_playlist_modal_settings_order_sorted" : "Сортировка",
+	"ui_browse_playlist_modal_settings_timing_label" : "Сменить обои",
+	"ui_browse_playlist_modal_settings_timing_on_logon" : "при входе в систему",
+	"ui_browse_playlist_modal_settings_timing_after_5_minutes" : "после 5 минут",
+	"ui_browse_playlist_modal_settings_timing_after_10_minutes" : "после 10 минут",
+	"ui_browse_playlist_modal_settings_timing_after_30_minutes" : "после 30 минут",
+	"ui_browse_playlist_modal_settings_timing_after_60_minutes" : "после 1 часа",
+	"ui_browse_playlist_modal_settings_timing_after_180_minutes" : "после 3 часов",
+	"ui_browse_playlist_modal_settings_timing_after_360_minutes" : "после 6 часов",
+	"ui_browse_playlist_modal_settings_timing_after_720_minutes" : "после 12 часов",
+	"ui_browse_playlist_modal_settings_timing_after_1440_minutes" : "после 24 часа",
+	"ui_browse_playlist_modal_settings_video_sequence" : "Проигрывать последовательно",
+	"ui_browse_playlist_modal_settings_update_on_pause" : "Обновление плейлиста во время паузы",
+	"ui_browse_playlist_modal_settings_transition_enabled" : "Отображать переход обоев",
+	
 	"ui_settings_playback": "Воспроизведение",
 	"ui_settings_playback_focused" : "Другое приложение выбрано:",
 	"ui_settings_playback_maximized" : "Другое приложение развёрнуто:",
@@ -100,16 +138,21 @@
 	"ui_settings_miscellaneous" : "Разное",
 	"ui_settings_ui_language" : "Язык интерфейса:",
 	"ui_settings_ui_skin" : "Внешний вид:",
+	"ui_settings_icon_opacity" : "Прозрачность иконок рабочего стола:",
 	"ui_settings_recording_volume" : "Громкость записи:",
 	"ui_settings_audio_input_device" : "Устройство ввода звука:",
 	"ui_settings_audio_input_device_default" : "По умолчанию",
 	"ui_settings_adjust_windows_color" : "Регулировка цвета окон:",
+	"ui_settings_adjust_windows_color_disabled" : "Отключить",
+	"ui_settings_adjust_windows_color_accent" : "Цветовой акцент",
+	"ui_settings_adjust_windows_color_everything" : "Все",
 	"ui_settings_start_with_windows" : "Запускать с Windows:",
 	"ui_settings_remove_service" : "Удалить высокий приоритет",
 	"ui_settings_register_service" : "Установить высокий приоритет",
 	"ui_settings_advanced" : "Дополнительные опции",
 	"ui_settings_reset_advanced" : "Сбросить до рекомендованных",
 	"ui_settings_advanced_graphics_api" : "Графический API:",
+	"ui_settings_advanced_video_read" : "Загружать видео:",
 	"ui_settings_advanced_video_loop" : "Зацикливание видео:",
 	"ui_settings_advanced_log_level" : "Уровень логирования:",
 	"ui_settings_about" : "О приложении",
@@ -125,15 +168,25 @@
 	"ui_settings_playback_pause_all" : "Пауза все",
 	"ui_settings_playback_pause" : "Пауза",
 	"ui_settings_playback_stop" : "Остановить",
+	"ui_settings_read_from_disk" : "С диска",
+	"ui_settings_read_from_memory" : "Из памяти",
 	"ui_settings_loop_default" : "По умолчанию",
 	"ui_settings_loop_sync_clock" : "Синхр. время",
 	"ui_settings_loop_sync_topo" : "Синхр. топологию",
 	"ui_settings_log_none" : "Ничего",
 	"ui_settings_log_errors" : "Только ошибки",
 	"ui_settings_log_verbose" : "Подробно",
+	"ui_settings_advanced_reset_config" : "Сброс конфигурации:",
+	"ui_settings_advanced_reset_config_button" : "СБРОСИТЬ",
+	"ui_settings_advanced_reset_config_modal_header" : "Подтвердите сброс",
+	"ui_settings_advanced_reset_config_modal_body" : "Все ваши настройки будут удалены и приложение будет перезапущено.",
+	"ui_settings_video_audio_label" : "Звук обоев:",
 	
 	"ui_settings_copyright" : "Все права защищены.",
 	"ui_settings_thirdparty" : "Сторонние заметки",
+
+	"ui_settings_highpriority_warning_header" : "Информация о высоком приоритете",
+	"ui_settings_highpriority_warning" : "Режим высокого приоритета запускает приложение быстрее, используя 'сервисы Windows'. Но если вы будете испытывать проблемы с этим, то попробуйте выключить его, что будет надежнее, но медленнее.",
 	
 	"ui_welcome_preferred_language" : "Предпочитаемый язык (WIP):",
 	"ui_welcome_header" : "Добро пожаловать в Wallpaper Engine",
@@ -231,6 +284,8 @@
 	"ui_editor_workshop_options_title" : "Название",
 	"ui_editor_workshop_options_description" : "Описание",
 	"ui_editor_workshop_options_tags" : "Теги",
+	"ui_editor_workshop_options_genre" : "Жанр",
+	"ui_editor_workshop_genre_empty" : "< Выберите >",
 	"ui_editor_workshop_options_scheme_color" : "Цветовая палитра",
 	"ui_editor_workshop_options_visibility" : "Видимость",
 	"ui_editor_workshop_options_monetization" : "Монетизация",
@@ -243,9 +298,9 @@
 	"ui_editor_workshop_options_required" : " *обязательно",
 	
 	"ui_editor_open_modal_header" : "Открыть обои",
-	"ui_editor_open_modal_delete" : " Удалить",
-	
-	"ui_editor_project_settings_modal_header" : "Настройки	 проекта",
+	"ui_editor_open_modal_delete" : "Удалить",
+
+	"ui_editor_project_settings_modal_header" : "Настройки проекта",
 	"ui_editor_project_settings_modal_header_general" : "Основные",
 	"ui_editor_project_settings_modal_title" : "Название",
 	"ui_editor_project_settings_modal_scheme_color" : "Цветовая палитра",
@@ -254,7 +309,7 @@
 	"ui_editor_project_settings_modal_clear_color" : "Очистить цвет",
 	"ui_editor_project_settings_modal_ambient_color" : "Цвет амбиента",
 	"ui_editor_project_settings_modal_skylight_color" : "Цвет света",
-	
+
 	"ui_editor_help_header" : "Помощь",
 	"ui_editor_help_tutorial_category_beginner_title" : "Руководства для начинающих",
 	"ui_editor_help_tutorial_category_advanced_title" : "Расширенные руководства",
@@ -266,18 +321,53 @@
 	"ui_editor_help_tutorial_item_wallpaper_web_based" : "Из WEB страницы",
 	"ui_editor_help_tutorial_item_wallpaper_scene_3d" : "3D сцена",
 	"ui_editor_help_tutorial_item_wallpaper_scene_2d" : "2D Сцена",
-	
+
 	"ui_editor_help_tutorial_group_advanced_general" : "Общие",
 	"ui_editor_help_tutorial_item_project_structure" : "Файлы и структура проекта",
-	
+
 	"ui_editor_help_tutorial_group_advanced_web" : "Веб-функции",
 	"ui_editor_help_tutorial_item_web_properties" : "Пользовательские настройки",
 	"ui_editor_help_tutorial_item_web_audio" : "Аудио визуализатор",
 	"ui_editor_help_tutorial_item_web_images" : "Импорт изображений пользователя",
 	"ui_editor_help_tutorial_item_web_fps_limit" : "Пользовательский лимит FPS",
-	
+
 	"ui_editor_help_tutorial_group_advanced_scene" : "Сцера",
 	"ui_editor_help_tutorial_item_scene_shaders" : "Создание шейдеров",
-	
-	"ui_editor_snapshot_instructions" : "1. Нарисуйте прямоугольник с помощью мышки.\n2. Нажмите Enter для выбора.\n\nНажмите пробел для паузы.\nНажмите Escape для отмены."
+
+	"ui_editor_snapshot_instructions" : "1. Нарисуйте прямоугольник с помощью мышки.\n2. Нажмите Enter для выбора.\n\nНажмите пробел для паузы.\nНажмите Escape для отмены.",
+
+	"ui_editor_workshop_rules_modal_title" : "Правила Мастерской",
+	"ui_editor_workshop_rules_modal_body" : "Прежде, чем предоставлять ваши обои Мастерской, убедитесь, что они не нарушают Пользовательское Соглашение Steam, иначе оно будет удалено:",
+	"ui_editor_workshop_rules_modal_list_header" : "В частности следующие правила существуют для обоев, изображению предварительного просмотра и описанию:",
+	"ui_editor_workshop_rules_modal_rule_nudity" : "Никакого порнографического содержания или обнаженных тел",
+	"ui_editor_workshop_rules_modal_rule_offensive" : "Никакого оскорбительного содержания или насилия/крови",
+	"ui_editor_workshop_rules_modal_rule_copyright" : "Никаких нарушений авторских прав",
+	"ui_editor_workshop_rules_modal_rule_ads" : "Никаких рекламных объявлений",
+	"ui_editor_workshop_rules_modal_rule_misleading" : "Никаких вводящих в заблуждение изображений предварительного просмотра",
+
+	"ui_editor_workshop_tags_limit" : "Разрешено только 3 тега.",
+	"ui_editor_workshop_tags_placeholder": "Добавить тег",
+
+	"ui_workshop_tags_abstract" : "Абстракция",
+	"ui_workshop_tags_animal" : "Животные",
+	"ui_workshop_tags_anime" : "Аниме",
+	"ui_workshop_tags_cartoon" : "Мультфильм",
+	"ui_workshop_tags_cgi" : "Графика",
+	"ui_workshop_tags_cyberpunk" : "Киберпанк",
+	"ui_workshop_tags_fantasy" : "Фантастика",
+	"ui_workshop_tags_game" : "Игры",
+	"ui_workshop_tags_landscape" : "Пейзажи",
+	"ui_workshop_tags_medieval" : "Средневековье",
+	"ui_workshop_tags_mmd" : "MMD",
+	"ui_workshop_tags_multi_monitor_optimized" : "Мульти-мониторная оптимизация",
+	"ui_workshop_tags_music" : "Музыка",
+	"ui_workshop_tags_nature" : "Природа",
+	"ui_workshop_tags_pixel_art" : "Пиксельное искусство",
+	"ui_workshop_tags_relaxing" : "Расслабляющий",
+	"ui_workshop_tags_retro" : "Ретро",
+	"ui_workshop_tags_sci_fi" : "Sci-Fi",
+	"ui_workshop_tags_technology" : "Технологии",
+	"ui_workshop_tags_television" : "Телевидение",
+	"ui_workshop_tags_vehicle" : "Транспорт",
+	"ui_workshop_tags_unspecified" : "Неуказанный"
 }
