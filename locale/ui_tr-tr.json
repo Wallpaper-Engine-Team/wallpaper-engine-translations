@@ -186,8 +186,8 @@
 	"ui_settings_thirdparty": "Üçüncü taraf uyarıları",
 	
 	"ui_settings_highpriority_warning_header" : "Yüksek öncelik bilgisi",
- 	"Ui_settings_highpriority_warning": "Yüksek öncelik modu, bir 'Windows hizmeti' kullanarak uygulamayı daha hızlı başlatır. Bu çözümle ilgili sorunlar yaşıyorsanız, yüksek öncelik olmadan deneyin. Daha güvenlidir ancak daha yavaştır.",
-	
+	"ui_settings_highpriority_warning": "Yüksek öncelik modu, bir 'Windows hizmeti' kullanarak uygulamayı daha hızlı başlatır. Bu çözümle ilgili sorunlar yaşıyorsanız, yüksek öncelik olmadan deneyin. Daha güvenlidir ancak daha yavaştır.",
+
 	"ui_welcome_preferred_language": "Tercih edilen dil:",
 	"ui_welcome_header": "Wallpaper Engine'e hoş geldiniz",
 	"ui_welcome_intro": "Bu, başlamanız ve birkaç önemli seçeneği yapılandırmanız için kısa bir giriştir. <br/> <br/> Burada ayarladığınız her şey daha sonra değiştirilebilir!",
@@ -207,7 +207,7 @@
 	"ui_welcome_button_first_page": "Haydi gidelim",
 	"ui_welcome_button_next_page": "Sonraki",
 	"ui_welcome_button_last_page": "Tamamlandı",	
-		
+
 	"ui_editor_pane_header_camera" : "Kamera",
 	"ui_editor_pane_header_preview" : "Önizleme",
 	"ui_editor_pane_header_properties" : "Özellikler",
