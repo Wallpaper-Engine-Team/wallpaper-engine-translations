@@ -12,6 +12,7 @@
 	"ui_modal_updaterequired_title" : "O Wallpaper Engine precisa ser atualizado",
 	"ui_modal_updaterequired_body" : "Por favor, feche o Wallpaper Engine (clique com o botão direito no ícone da barra de notificações e clique em \"Sair\") e reinicie-o no Steam para receber as atualizações mais recentes. Caso continue recebendo esse aviso, verifique os arquivos do locais no Steam.<br/><br/>Versão do aplicativo: <b>{{callerVersion}}</b>, Versão da IU: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "Nova atualização disponível",
+	"ui_modal_updateavailable_body_distro" : "Uma nova atualização para o Wallpaper Engine foi baixada pelo Steam (versão <b>{{distroVersion}}</b>). Deseja reiniciar o Wallpaper Engine agora para aplicar a atualização?",
 
 	"ui_browse_monitor" : "Monitor",
 	"ui_browse_choose_monitor" : "(Escolher monitor)",
@@ -21,6 +22,7 @@
 	"ui_browse_filter_source" : "Fonte",
 	"ui_browse_filter_tags" : "Marcadores",
 	"ui_browse_grid_no_results" : "Nenhum plano de fundo que corresponda aos critérios de busca foi encontrado",
+	"ui_browse_grid_no_results_refreshing" : "Aguardando resposta do Steam...",
 	"ui_browse_status_error" : "Erro",
 	"ui_browse_select_prompt" : "Por favor, selecione um plano de fundo",
 	"ui_browse_steam_status_unavailable" : "Steam indisponível.",
@@ -43,8 +45,8 @@
 	"ui_browse_details_properties_select_directory" : "Selecionar diretório",
 	"ui_browse_details_properties_select_file" : "Selecionar arquivo",
 	
-	"ui_browse_footer_btn_workshop" : "Navegar pela Oficina",
-	"ui_browse_footer_btn_store" : "Navegar pela loja",
+	"ui_browse_footer_btn_workshop" : "Oficina Steam",
+	"ui_browse_footer_btn_store" : "Loja Steam",
 	"ui_browse_footer_btn_open_from_file" : "Abrir de arquivo",
 	"ui_browse_footer_btn_open_from_url" : "Abrir de URL",
 	
@@ -73,6 +75,7 @@
 	"ui_browse_filter_source_official" : "Oficial",
 	"ui_browse_filter_source_workshop" : "Oficina",
 	"ui_browse_filter_source_my_wallpapers" : "Meus",
+	"ui_browse_filter_parse_title" : "Filtrar título",
 	
 	"ui_browse_modal_application_warning_header" : "Abrindo aplicativo desconhecido",
 	"ui_browse_modal_application_warning_body" : "Você está prestes a abrir um aplicativo externo desconhecido como plano de fundo: <br/><b>{{filepath}}</b><br/>O Wallpaper Engine não tem controle sobre esse arquivo, garanta que ele vem de uma fonte confiável antes de prosseguir.<br/><br/>ISSO PODE DANIFICAR O SEU COMPUTADOR.",
@@ -87,6 +90,7 @@
 	"ui_browse_properties_scheme_color" : "Esquema de cores",
 	"ui_browse_properties_playback_rate" : "<span class='fa fa-play propertyIcon'></span>Taxa de reprodução",
 	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>Volume",
+	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>Áudio desativado nas configurações",
 	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>Gravação de áudio",
 	
 	"ui_browse_playlist_header" : "Reprodução",
@@ -111,9 +115,29 @@
 	"ui_browse_playlist_modal_settings_timing_after_360_minutes" : "após 6 horas",
 	"ui_browse_playlist_modal_settings_timing_after_720_minutes" : "após 12 horas",
 	"ui_browse_playlist_modal_settings_timing_after_1440_minutes" : "após 24 horas",
-	"ui_browse_playlist_modal_settings_video_sequence" : "Reproduzir vídeos em sequencia",
-	"ui_browse_playlist_modal_settings_update_on_pause" : "Atualizar lista enquanto pausado",
+	"ui_browse_playlist_modal_settings_video_sequence" : "Alterar plano de fundo quando um vídeo acabar",
+	"ui_browse_playlist_modal_settings_update_on_pause" : "Permitir alteração de plano de fundo enquanto pausado",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "Exibir transição do plano de fundo",
+	
+	"ui_browse_list_source_title" : "Navegando por:",
+	"ui_browse_list_source_installed" : "Instalados",
+	"ui_browse_list_source_workshop" : "Oficina",
+	
+	"ui_browse_modal_no_steam_title" : "Erro do Steam",
+	"ui_browse_modal_no_steam_body" : "O Steamworks não pôde ser inicializado. Tente reiniciar o Steam e o Wallpaper Engine. Caso continue recebendo este erro, isso significa que o seu computador não está conseguindo se autenticar corretamente aos servidores Steam, verifique a sua conexão e se iniciou a sessão com a conta correta. Os servidores Steam também podem estar temporariamente inacessíveis.",
+	"ui_browse_query_error" : "Ocorreu um erro do STEAM: ",
+	
+	"ui_browse_query_sort_by_votes" : "Mais bem avaliados",
+	"ui_browse_query_sort_by_date" : "Mais recentes",
+	"ui_browse_query_sort_by_trend_today" : "Mais populares (Hoje)",
+	"ui_browse_query_sort_by_trend_last_week" : "Mais populares (Semana)",
+	"ui_browse_query_sort_by_trend_last_month" : "Mais populares (Mês)",
+	"ui_browse_query_sort_by_trend_year" : "Mais populares (Ano)",
+	"ui_browse_query_sort_friends_favorites" : "Favoritos de amigos",
+	"ui_browse_query_sort_friends_created" : "Criados por amigos",
+	"ui_browse_query_sort_by_followed_users" : "Criados por usuários seguidos",
+	"ui_browse_query_sort_most_up_votes" : "Mais votos positivos",
+	"ui_browse_query_sort_most_subscriptions" : "Mais inscritos",
 	
 	"ui_settings_playback": "Reprodução",
 	"ui_settings_playback_focused" : "Outro aplicativo focado:",
@@ -175,11 +199,11 @@
 	"ui_settings_log_none" : "Nenhum",
 	"ui_settings_log_errors" : "Erros",
 	"ui_settings_log_verbose" : "Tudo",
-	"ui_settings_advanced_reset_config" : "Restaurar configurações",
+	"ui_settings_advanced_reset_config" : "Restaurar configurações:",
 	"ui_settings_advanced_reset_config_button" : "RESTAURAR",
 	"ui_settings_advanced_reset_config_modal_header" : "Confirmação",
 	"ui_settings_advanced_reset_config_modal_body" : "Todas as configurações serão removidas e o aplicativo precisará ser reiniciado.",
-	"ui_settings_video_audio_label" : "Saída de áudio de vídeo",
+	"ui_settings_video_audio_label" : "Saída de áudio de vídeo:",
 	
 	"ui_settings_copyright" : "Todos os direitos reservados.",
 	"ui_settings_thirdparty" : "Avisos de terceiros",
@@ -276,7 +300,7 @@
 	"ui_editor_publish_modal_button_publish" : "Publicar",
 	"ui_editor_publish_modal_button_publish_update" : "Publicar atualização",
 	"ui_editor_publish_modal_button_show_in_workshop" : "Exibir na Oficina",
-	"ui_editor_publish_modal_steam_error" : "Um erro (do Steam) aconteceu:",
+	"ui_editor_publish_modal_steam_error" : "Ocorreu um erro do STEAM: ",
 	"ui_editor_publish_modal_publish_successful" : "Item publicado com sucesso.",
 	"ui_editor_publish_modal_publish_prompt_agreement" : "Você precisa aceitar o Acordo da Oficina Steam antes do seu item ser publicado na Oficina Steam. Visite o seu plano de fundo na Oficina Steam agora:",
 	
