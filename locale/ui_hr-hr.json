@@ -12,7 +12,6 @@
 	"ui_modal_updaterequired_title" : "Wallpaper Engine se treba ažurirati!",
 	"ui_modal_updaterequired_body" : "Molim vas zatvorite Wallpaper Engine (desni klik na tray ikonu i kliknite Zatvori) i ponovno ga pokrenite preko Steama za najnoviju verziju aplikacije. Ako još uvijek dobivate ovo upozorenje, Molimo vas provjerite datoteke preko Steama.<br/><br/>Verzija aplikacije: <b>{{callerVersion}}</b>, Verzija UI: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "Nova ažuriranja dostupna!",
-	"ui_modal_updateavailable_body" : "Novo ažuriranje za Wallpaper Engine je dostupno na Steamu: <b>{{updateVersion}}</b><br/>Molimo vas zatvorite Wallpaper Engine da Steam može pravilno ažurirati aplikaciju.",
 
 	"ui_browse_monitor" : "Monitor",
 	"ui_browse_choose_monitor" : "(Odaberite monitor)",

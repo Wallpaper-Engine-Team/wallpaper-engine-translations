@@ -12,7 +12,6 @@
 	"ui_modal_updaterequired_title" : "Wallpaper Engine'in güncellenmesi gerekiyor",
 	"ui_modal_updaterequired_body" : "Lütfen Wallpaper Engine'i kapatın (tepsi simgesini sağ tıklayın ardından Çıkış'a tıklayın) Ve en son güncellemeleri almak için Steam üzerinden yeniden başlatın. Bu uyarıyı almaya devam ederseniz, lütfen Steam'den uygulama dosyalarını doğrulayın.<br/><br/>Uygulama sürümü: <b>{{callerVersion}}</b>, Arayüz sürümü: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title": "Yeni Güncelleme Var",
-	"ui_modal_updateavailable_body": "Steam'de Wallpaper Engine için yeni bir güncelleme mevcut: <b> {{updateVersion}} </b> <br/> Lütfen Wallpaper Engine'i kapatın, böylece Steam bunu doğru bir şekilde güncelleştirebilir.",
 
 	"ui_browse_monitor": "Monitör",
 	"ui_browse_choose_monitor": "(Monitör seç)",

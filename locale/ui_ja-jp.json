@@ -12,7 +12,6 @@
 	"ui_modal_updaterequired_title" : "Wallpaper Engineを更新する必要があります",
 	"ui_modal_updaterequired_body" : "Wallpaper Engineを閉じて（トレイアイコンを右クリックして[終了]をクリックしてください）、Steamで再起動して最新にアップデートしてください。この警告が表示される場合は、Steam経由でアプリケーションファイルを確認してください。<br/><br/>アプリケーションのバージョン：<b>{{callerVersion}}</b>、UIバージョン：<b>{{appVersion}}</b>",
 	"ui_modal_updateavailable_title" : "新しいアップデートが利用可能です",
-	"ui_modal_updateavailable_body" : "SteamでWallpaper Engineの最新アップデートを取得出来ます: <b>{{updateVersion}}</b><br/>Wallpaper EngineをクローズしSteamが正しくアップデート出来るようにしてください。",
 
 	"ui_browse_monitor" : "モニタ",
 	"ui_browse_choose_monitor" : "(モニタ選択)",

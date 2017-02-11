@@ -12,7 +12,6 @@
 	"ui_modal_updaterequired_title" : "Wallpaper Engine necesita ser actualizado",
 	"ui_modal_updaterequired_body" : "Por favor cierra Wallpaper Engine (Click derecho en el icono en area de notificación y Salir) y abrelo con Steam para recibir las últimas actualizaciones. Si sigues recibiendo esta advertencia, por favor utiliza la herramienta de Steam para verificar la integridad de caché.<br/><br/>Versión de aplicación: <b>{{callerVersion}}</b>, Versión de interfaz: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "Nueva Actualización Disponibe",
-	"ui_modal_updateavailable_body" : "Una nueva actualización de Wallpaper Engine está disponible Steam: <b>{{updateVersion}}</b><br/>Por favor, cierra Wallpaper Engine para que Steam pueda actualizarlo correctamente.",
 
 	"ui_browse_monitor" : "Monitor",
 	"ui_browse_choose_monitor" : "(Elegir monitor)",
@@ -346,13 +345,13 @@
 	"ui_workshop_tags_abstract" : "Abstracto",
 	"ui_workshop_tags_animal" : "",
 	"ui_workshop_tags_anime" : "",
-	"ui_workshop_tags_cartoon" : "",
-	"ui_workshop_tags_cgi" : "",
+	"ui_workshop_tags_cartoon" : "oon",
+	"ui_workshop_tags_cgi" : "I",
 	"ui_workshop_tags_cyberpunk" : "",
 	"ui_workshop_tags_fantasy" : "Fantasía",
 	"ui_workshop_tags_game" : "Juegos",
 	"ui_workshop_tags_landscape" : "Paisaje",
-	"ui_workshop_tags_medieval" : "",
+	"ui_workshop_tags_medieval" : "eval",
 	"ui_workshop_tags_mmd" : "",
 	"ui_workshop_tags_multi_monitor_optimized" : "",
 	"ui_workshop_tags_music" : "Música",
@@ -366,3 +365,4 @@
 	"ui_workshop_tags_vehicle" : "Vehículo",
 	"ui_workshop_tags_unspecified" : "Sin especificar"
 }
+

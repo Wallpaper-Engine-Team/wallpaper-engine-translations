@@ -12,7 +12,6 @@
 	"ui_modal_updaterequired_title" : "Frissíteni kell a Wallpaper Engine-t",
 	"ui_modal_updaterequired_body" : "Kérem zárja be a Wallpaper Engine-t (jobb klikk a tálca értesítési területén a program ikonjára és Bezárás) és indítsa újra a Steam könyvtárból, hogy letöltse a frissítéseket. Ha továbbra is ezt a hibaüzenetet kapja akkor a Steam-en belül futtassa az alkalmazásfájlok épségének ellenőrzését.<br/><br/>A program verziója: <b>{{callerVersion}}</b>, Felület verziója: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "Új Frissítés Elérhető",
-	"ui_modal_updateavailable_body" : "Egy új frissítés érhető el a Steam-en: <b>{{updateVersion}}</b><br/>Kérjük zárja be a Wallpaper Engine-t, hogy a Steam frissíteni tudja azt.",
 
 	"ui_browse_monitor" : "Képernyő",
 	"ui_browse_choose_monitor" : "(Képernyő kiválasztása)",

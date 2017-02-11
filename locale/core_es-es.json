@@ -31,6 +31,5 @@
 	"core_msgbox_init_secondinstance_ask_quit" : "Parece que Wallpaper Engine ya se está ejecutando y no responde.\n\n¿Deseas forzar el reinicio?",
 	"core_msgbox_init_secondinstance_failed" : "Fallo al reiniciar, código de error:",
 	"core_msgbox_below_win_7" : "Wallpaper Engine necesita Windows 7 o mayor, así como es indicado en los requisitos del sistema en Steam.\n\nParece que estás corriendo una versión no soportada de Windows. Wallpaper Engine podría no funcionar.",
-	"core_msgbox_media_feature_pack_missing" : "Falta mfplat.dll!\nPosiblemente tienes Windows N. Por favor, instala Media Feature Pack de Microsoft para activar el soporte de vídeo! (Google: Media Feature Pack Windows 10/8.1/7)",
-	"core_msgbox_file_inconsistency" : "Inconsistencia de archivo detectada!\n\nPor favor, reinicia la aplicación desde Steam. Si sigues teniendo este error, verifica los archivos también desde Steam (click derecho en Wallpaper Engine, click en Propiedades, Archivos Locales, Verificar). Esto puede ocurrir cuando Steam actualiza la aplicación mientras está en uso.\n\nReiniciar ahora??"
+	"core_msgbox_media_feature_pack_missing" : "Falta mfplat.dll!\nPosiblemente tienes Windows N. Por favor, instala Media Feature Pack de Microsoft para activar el soporte de vídeo! (Google: Media Feature Pack Windows 10/8.1/7)"
 }

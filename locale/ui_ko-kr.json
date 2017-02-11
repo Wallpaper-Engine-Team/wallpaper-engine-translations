@@ -12,7 +12,6 @@
 	"ui_modal_updaterequired_title" : "Wallpaper Engine을 업데이트 해야합니다.",
 	"ui_modal_updaterequired_body" : "최신 업데이트를 받기 위해 Wallpaper Engine을 종료하시고 (트레이 아이콘을 오른쪽 클릭하고 종료 버튼 클릭) Steam에서 다시 실행해주시기 바랍니다. 이 경고화면이 계속 뜰 시, Steam에서 캐시 무결성 확인을 해보시길 바랍니다.<br/><br/>응용프로그램 버전: <b>{{callerVersion}}</b>, UI 버전: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "새 업데이트 사용 가능",
-	"ui_modal_updateavailable_body" : "월페이퍼 엔진의 새 업데이트가 스팀에 있습니다. 업데이트 버전 : <b>{{updateVersion}}</b><br/>스팀이 업데이트를 제대로 할 수 있도록 월페이퍼 엔진을 종료해 주십시오.",
 
 	"ui_browse_monitor" : "모니터",
 	"ui_browse_choose_monitor" : "(모니터 선택)",

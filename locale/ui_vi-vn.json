@@ -12,7 +12,6 @@
 	"ui_modal_updaterequired_title" : "Wallpaper Engine cài cập nhật !",
 	"ui_modal_updaterequired_body" : "Vui lòng đóng Wallpaper Engine (Nhấn chuột phải vào biểu tượng dưới Taskbar và Nhấn Quit) và khởi động lại trên Steam để nhận được các bản cập nhật mới nhất. Nếu bạn còn nhận được những cảnh báo này, xin vui lòng kiểm tra các tập tin ứng dụng trên Steam.<br/><br/>Application version: <b>{{callerVersion}}</b>, UI version: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "New Update Available",
-	"ui_modal_updateavailable_body" : "Bản cập nhật Wallpaper Engine có sẵn trên steam: <b>{{updateVersion}}</b><br/>Hãy đóng Wallpaper Engine để Steam có thể cập nhật nó một cách chính xác..",
 
 	"ui_browse_monitor" : "Monitor",
 	"ui_browse_choose_monitor" : "(Chọn monitor)",

@@ -31,6 +31,5 @@
 	"core_msgbox_init_secondinstance_ask_quit" : "Kelihatannya Wallpaper Engine sudah berjalan namun tidak merespon.\n\nApakah anda mau memuat ulang dengan paksa?",
 	"core_msgbox_init_secondinstance_failed" : "Gagal memuat ulang, kode galat:",
 	"core_msgbox_below_win_7" : "Wallpaper Engine membutuhkan versi Windows 7 atau lebih seperti yang tertulis pada syarat sistem di Steam.\n\nKelihatannya anda menjalankan versi Windows yang tidak didukung dan Wallpaper Engine mungkin tidak dapat berjalan dengan semestinya.",
-	"core_msgbox_media_feature_pack_missing" : "Berkas mfplat.dll tidak ditemukan!\nKemungkinan anda menggunakan Windows N. Silahkan pasang Media Feature Pack dari Microsoft untuk menghidupkan dukungan video! (Google: Media Feature Pack Windows 10/8.1/7)",
-	"core_msgbox_file_inconsistency" : "Berkas tidak konsisten terdeteksi!\n\nSilahkan jalankan ulang aplikasi melalui Steam. Jika anda masih mendapati pesan kesalahan ini, verifikasi berkas melalui Steam (klik kanan pada Wallpaper Engine, klik properties, tab local files, verify cache). Ini bisa terjadi kalau Steam memperbarui aplikasi ketika aplikasi itu sedang berjalan.\n\nMuat ulang sekarang ?"
+	"core_msgbox_media_feature_pack_missing" : "Berkas mfplat.dll tidak ditemukan!\nKemungkinan anda menggunakan Windows N. Silahkan pasang Media Feature Pack dari Microsoft untuk menghidupkan dukungan video! (Google: Media Feature Pack Windows 10/8.1/7)"
 }

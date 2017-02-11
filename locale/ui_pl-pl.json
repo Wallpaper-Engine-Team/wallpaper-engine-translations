@@ -12,7 +12,6 @@
 	"ui_modal_updaterequired_title" : "Wallpaper Engine needs to be updated",
 	"ui_modal_updaterequired_body" : "Proszę zamknąć Wallpaper Egnine (kliknij na ikonę w zasobniku systemowym i następnie wybierz Wyjdź) i uruchomić ponownie przez Steam aby otrzymać najnowsze aktualizacje. Jeżeli powiadomienie wciąż się wyświetla, sprawdź spójność plików poprzez Steam.<br/><br/>Wersja aplikacji: <b>{{callerVersion}}</b>, Wersja interfejsu: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "Dostępna jest nowa aktualizacja",
-	"ui_modal_updateavailable_body" : "Nowa aktualizacja do Wallpaper Engine jest dostępna na Steam: <b>{{updateVersion}}</b><br/>Zamknij Wallpaper Engine aby Steam mógł zainstalować aktualizację.",
 
 	"ui_browse_monitor" : "Monitor",
 	"ui_browse_choose_monitor" : "(wybierz monitor)",

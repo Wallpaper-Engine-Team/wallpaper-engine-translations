@@ -12,7 +12,6 @@
 	"ui_modal_updaterequired_title" : "Wallpaper Engine ต้องมีการปรับปรุง",
 	"ui_modal_updaterequired_body" : "กรุณาปิด Wallpaper Engine (คลิกขวาที่ไอคอนบนแถบงาน และกด 'ออกจากโปรแกรม') และเริ่มต้นใหม่บนสตรีมเพื่อรับการปรับปรุงล่าสุด. หากคุณได้รับการแจ้งเตือนนี้, โปรดตรวจสอบไฟล์โปรแกรมบนสตรีม<br/><br/>รุ่นแอพลิเคชัน: <b>{{callerVersion}}</b>, UI เวอร์ชัน: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "มีการอัปเดตใหม่",
-	"ui_modal_updateavailable_body" : "มีการอัปเดตใหม่สำหรับ Wallpaper Engine ที่สามารถใช้ได้บน Steam: <b>{{updateVersion}}</b><br/>กรุณาปิด Wallpaper Engine เพื่อให้ Steam สามารถอัปเดตได้อย่างถูกต้อง",
 
 	"ui_browse_monitor" : "จอแสดงผล",
 	"ui_browse_choose_monitor" : "(เลือกจอแสดงผล)",

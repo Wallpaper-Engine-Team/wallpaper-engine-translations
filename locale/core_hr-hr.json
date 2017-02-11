@@ -31,6 +31,5 @@
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine se čini da radi ali ne reagira .\n\nŽelite li ga ponovno pokrenuti prisilno?",
 	"core_msgbox_init_secondinstance_failed" : "Neuspjeh u ponovnom pokretanju, Kod greške:",
 	"core_msgbox_below_win_7" : "Wallpaper Engine zahtjeva Windows 7 ili više, kao što i piše na Steamu.\n\nČini se da koristite nepodržanu verziju Windowsa i moguće je da Wallpaper Engine prestane raditi.",
-	"core_msgbox_media_feature_pack_missing" : "mfplat.dll nedostaje!\nNajvjerovatnije imate Windows N. Molim vas instalirajte Media Feature Pack od Microsofta da uključite video podršku! (Google: Media Feature Pack Windows 10/8.1/7)",
-	"core_msgbox_file_inconsistency" : "Neusklađenosti u datotekama pronađene!\n\nMolimo vas ponovno pokrenite aplikaciju pomoću Steama. Ako stalno viđate ovu grešku, provjerite datoteke preko Steama(desni klik na Wallpaper Engine, kliknite properties,pa onda local files,pa na kraju verify). Ovo se može dogoditi kad  Steam ažurira aplikaciju dok je uključena.\n\nPonovno pokrenuti?"
+	"core_msgbox_media_feature_pack_missing" : "mfplat.dll nedostaje!\nNajvjerovatnije imate Windows N. Molim vas instalirajte Media Feature Pack od Microsofta da uključite video podršku! (Google: Media Feature Pack Windows 10/8.1/7)"
 }

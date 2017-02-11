@@ -31,6 +31,5 @@
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine ดูเหมือนจะทำงานอยู่ และไม่ตอบสนอง.\n\nคุณต้องการเริ่มต้นโปรแกรมใหม่เดี๋ยวนี้หรือไม่?",
 	"core_msgbox_init_secondinstance_failed" : "การเริ่มใหม่ล้มเหลว, รหัสความผิดพลาด:",
 	"core_msgbox_below_win_7" : "Wallpaper Engine ต้องการ Windows 7 หรือสูงกว่า, ตามที่ระบุความต้องการของระบบไว้ในสตรีม\n\nคุณกำลังเรียกใช้รุ่นของ Windows ที่ไม่รองรับ และ Wallpaper Engine อาจไม่ทำงาน",
-	"core_msgbox_media_feature_pack_missing" : "mfplat.dll หายไป!\nคุณอาจจะมี Windows N. โปรดติดตั้งชุดคุณลักษณะของสื่อโดย Microsoft เพื่อเปิดใช้งานการสนับสนุนวิดีโอ! (Google: Media Feature Pack Windows 10/8.1/7)",
-	"core_msgbox_file_inconsistency" : "ตรวจพบไฟล์ไม่สอดคล้องกัน!\n\nกรุณาเริ่มต้นโปรแกรมใหม่บน Steam. หากคุณยังพบข้อพิดพลาดนี้, ให้ตรวจสอบไฟล์บน Steam (คลิกขวา Wallpaper Engine, คลิก คุณสมบัติ, ไฟล์ภายใน, ตรวจสอบ). นี่สามารถเกิดขึ้นเมื่อ Steam มีการปรับปรุงโปรแกรมในขณะที่มีการทำงาน\n\nเริ่มต้นใหม่เดี๋ยวนี้?"
+	"core_msgbox_media_feature_pack_missing" : "mfplat.dll หายไป!\nคุณอาจจะมี Windows N. โปรดติดตั้งชุดคุณลักษณะของสื่อโดย Microsoft เพื่อเปิดใช้งานการสนับสนุนวิดีโอ! (Google: Media Feature Pack Windows 10/8.1/7)"
 }

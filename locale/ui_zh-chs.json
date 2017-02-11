@@ -12,7 +12,6 @@
 	"ui_modal_updaterequired_title" : "Wallpaper Engine 需要更新",
 	"ui_modal_updaterequired_body" : "请关闭 Wallpaper Engine (右键单击通知区域图标选择退出) 然后通过 Steam 重新启动来获取最新的更新。 如果此警告仍然出现， 请通过 Steam 		验证应用程序的完整性。<br/><br/>程序版本: <b>{{callerVersion}}</b>, UI 版本: <b>{{appVersion}}</b>",
 	"ui_modal_updateavailable_title" : "新的更新可用",
-	"ui_modal_updateavailable_body" : "Steam获取到新的Wallpaper Engine更新：<b>{{updateVersion}}</b><br/>请关闭Wallpaper Engine，以便Steam可以正常更新。",
 
 	"ui_browse_monitor" : "显示器",
 	"ui_browse_choose_monitor" : "(选定显示器)",

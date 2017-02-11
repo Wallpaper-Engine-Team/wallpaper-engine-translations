@@ -12,7 +12,6 @@
 	"ui_modal_updaterequired_title" : "Wallpaper Engine skal opdateres",
 	"ui_modal_updaterequired_body" : "Luk venligst Wallpaper Engine (højre klik på ikonet i proceslinjen og tryk Luk) og genstart det over steam for at få den seneste opdatering. Hvis du bliver ved med at se denne advarsel, venligst bekræft applikationsfilerne over Steam.<br/><br/>Application version: <b>{{callerVersion}}</b>, UI version: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "Ny opdatering tilgængelig",
-	"ui_modal_updateavailable_body" : "En ny opdatering til Wallpaper Engine er tilgængelig på Steam: <b>{{updateVersion}}</b><br/>Luk venligst Wallpaper Engine så Steam kan opdatere det korrekt.",
 
 	"ui_browse_monitor" : "Skærm",
 	"ui_browse_choose_monitor" : "(Vælg skærm)",
