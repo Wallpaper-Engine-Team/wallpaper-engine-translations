@@ -13,7 +13,7 @@
 	"core_tray_next_wallpaper" : "Nächstes Wallpaper",
 	
 	"core_balloon_info" : "Wallpaper Engine befindet sich nun im Tray. Klicke doppelt auf das Tray Icon, um das Wallpaper zu ändern.",
-	"core_balloon_desktop_window_error" : "Beim erstellen des Wallpapers trat ein unerwarteter Fehler auf.",
+	"core_balloon_desktop_window_error" : "Beim Erstellen des Wallpapers trat ein unerwarteter Fehler auf.",
 	"core_balloon_video_error" : "Videofehler {{err}}. Klick mich für eine Lösung.",
 	"core_balloon_app_error" : "Die Anwendung konnte nicht als Wallpaper geladen werden.",
 	
