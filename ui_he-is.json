@@ -82,7 +82,7 @@
 	"ui_browse_modal_unsubscribe_body" : "האם הינך בטוח שאתה רוצה להסיר מנוי מ: <b>{{title}}</b>?",
 	"ui_browse_modal_remove_local_header" : "הסר מהיסטוריה",
 	"ui_browse_modal_remove_local_body" : "האם הינך בטוח שאתה רוצה להסיר את: <b>{{title}}</b>?",
-	"ui_browse_open_url_header" : "URLפתח רקעים מ,
+	"ui_browse_open_url_header" : "URLפתח רקעים מ",
 	"ui_browse_modal_proceed" : "המשך",
 	
 	"ui_browse_properties_scheme_color" : "סכמת צבע",
