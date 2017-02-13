@@ -1,2 +1,35 @@
 {
+	"core_tray_change_wallpaper" : "Alterar Wallpaper",
+	"core_tray_browse_workshop" : "Explorar Workshop",
+	"core_tray_create_wallpaper" : "Criar Wallpaper",
+	"core_tray_settings" : "Definições",
+	"core_tray_take_screenshot" : "Tirar Fotografia",
+	"core_tray_pause" : "Pausar",
+	"core_tray_unpause" : "Retomar",
+	"core_tray_recent_wallpapers" : "Wallpapers Recentes",
+	"core_tray_quit" : "Sair",
+	"core_tray_faq" : "Ajuda e Suporte",
+	"core_tray_recent_wallpapers_clear" : "Limpar lista",
+	"core_tray_next_wallpaper" : "Próximo Wallpaper",
+	
+	"core_balloon_info" : "O Wallpaper Engine foi minimizado para a barra de tarefas. Clique duas vezes no ícone para selecionar um wallpaper.",
+	"core_balloon_desktop_window_error" : "Falha ao preparar o ambiente de trabalho para o wallpaper animado.",
+	"core_balloon_video_error" : "Ocorreu um erro ao reproduzir o vídeo: {{err}}. Clique aqui para obter ajuda.",
+	"core_balloon_app_error" : "Falha ao carregar a aplicação como um wallpaper.",
+	
+	"core_msgboxtitle_error" : "Erro",
+	"core_msgboxtitle_app_conflict" : "Aplicação em Conflito",
+	"core_msgboxtitle_wpe" : "Wallpaper Engine",
+	
+	"core_msgbox_deskscapes" : "Parece que o DeskScapes está ativo. Isto pode impedir o funcionamento do Wallpaper Engine.",
+	"core_msgbox_prompt_aero_win7" : "O Wallpaper Engine necessita de ativar o Aero para funcionar. Ativar o Aero agora?",
+	"core_msgbox_prompt_aero_win8" : "O Wallpaper Engine não consegue executar com um tema de alto contraste. Repor o tema agora?",
+	"core_msgbox_dwm_disabled" : "A composição do ambiente de trabalho está desativada.",
+	"core_msgbox_aero_denied" : "O Wallpaper Engine não funciona sem o Aero e vai agora fechar.",
+	"core_msgbox_aero_failure" : "Falha ao ativar o Aero. O Wallpaper Engine vai agora fechar.",
+	"core_msgbox_aero_failure_no_support" : "Falha ao ativar o Aero. Parece que está a utilizar a edição Starter ou Basic do Windows 7, que não suporta o Aero e não cumpre com os requisitos mínimos do sistema. O Wallpaper Engine vai agora fechar.",
+	"core_msgbox_init_secondinstance_ask_quit" : "Parece que o Wallpaper Engine já está a executar mas não responde.\n\nPretende reiniciá-lo de forma forçada?",
+	"core_msgbox_init_secondinstance_failed" : "O reinício falhou. Código do erro:",
+	"core_msgbox_below_win_7" : "O Wallpaper Engine requer o Windows 7 ou superior, como indicado nos requisitos mínimos do sistema no Steam.\n\nParece que está a utilizar uma versão do Windows não suportada e o Wallpaper Engine pode não funcionar.",
+	"core_msgbox_media_feature_pack_missing" : "O ficheiro mfplat.dll está em falta.\nPossivelmente está a utilizar o Windows N. Por favor instale o Media Feature Pack da Microsoft para habilitar o suporte a vídeo. (Pesquise no Google: Media Feature Pack Windows 10/8.1/7)"
 }

@@ -9,11 +9,12 @@
 	"core_tray_recent_wallpapers" : "Недавние обои",
 	"core_tray_quit" : "Выход",
 	"core_tray_faq" : "Помощь и FAQ",
+	"core_tray_recent_wallpapers_clear" : "Очистить список",
+	"core_tray_next_wallpaper" : "Следующие обои",
 	
 	"core_balloon_info" : "Чтобы выбрать обои щёлкните два раза по иконке Wallpaper Engine в области уведомлений.",
 	"core_balloon_desktop_window_error" : "Ошибка подготовки рабочего стола к живым обоям.",
 	"core_balloon_video_error" : "Произошла ошибка видео:",
-	"core_balloon_video_error_win7" : "Произошла ошибка видео (разрешение видео слишком большое? отключен Media Foundation?):",
 	"core_balloon_app_error" : "Ошибка загрузки приложения в качестве фона рабочего стола.",
 	
 	"core_msgboxtitle_error" : "Ошибка",
@@ -21,13 +22,14 @@
 	"core_msgboxtitle_wpe" : "Wallpaper Engine",
 	
 	"core_msgbox_deskscapes" : "Похоже, что запущен DeskScapes. Это может блокировать работу Wallpaper Engine.",
-	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine требует для работы включенный режим Aero. Включить Aero сейчас??",
+	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine требует для работы включенный режим Aero. Включить Aero сейчас?",
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine не может быть запущен вместе с темой 'высокая контрастность'. Хотите сбросить тему сейчас?",
 	"core_msgbox_dwm_disabled" : "Диспетчер рабочего стола(DWM) отключён.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine не может работать без Aero и сейчас будет выключен.",
 	"core_msgbox_aero_failure" : "Ошибка включения Aero. Wallpaper Engine сейчас будет выключен.",
-	"core_msgbox_init_secondinstance_no_window" : "Wallpaper Engine уже запущен.",
+	"core_msgbox_aero_failure_no_support" : "Ошибка включения Aero. Кажется вы используете Начальную или Базовую редакцию Windows 7, которая не поддерживает Aero и не отвечает минимальным системным требованиям. Wallpaper Engine будет выключен.",
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine уже запущен, и не отвечает.\n\nХотите принудительно перезапустить его?",
 	"core_msgbox_init_secondinstance_failed" : "Ошибка перезапуска, код ошибки:",
-	"core_msgbox_below_win_7" : "Для корректной работы Wallpaper Engine требуется Windows 7 или выше.\n\nПохоже, что вы используете устаревшую версию Windows. Wallpaper Engine может работать некорректно."
+	"core_msgbox_below_win_7" : "Для корректной работы Wallpaper Engine требуется Windows 7 или выше.\n\nПохоже, что вы используете устаревшую версию Windows. Wallpaper Engine может работать некорректно.",
+	"core_msgbox_media_feature_pack_missing" : "mfplat.dll отсутствует!\nВозможно вы имеете Windows N. Пожалуйста установите Media Feature Pack от Microsoft, чтобы включить поддержку видео! (Google: Media Feature Pack Windows 10/8.1/7)"
 }

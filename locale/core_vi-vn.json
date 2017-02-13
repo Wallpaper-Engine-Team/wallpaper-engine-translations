@@ -1,0 +1,33 @@
+{
+	"core_tray_change_wallpaper" : "Thay đổi hình nền",
+	"core_tray_browse_workshop" : "Tìm trong Workshop",
+	"core_tray_create_wallpaper" : "Tạo hình nền",
+	"core_tray_settings" : "Cài đặt",
+	"core_tray_take_screenshot" : "Chụp màn hình",
+	"core_tray_pause" : "Tạm dừng",
+	"core_tray_unpause" : "Tiếp tục",
+	"core_tray_recent_wallpapers" : "Hình nền gần đây",
+	"core_tray_quit" : "Thoát",
+	"core_tray_faq" : "Hỗ trợ && FAQ",
+	
+	"core_balloon_info" : "Wallpaper Engine thu nhở ở taskbar. Nhấp chuột hai lần để hiện phần mềm.",
+	"core_balloon_desktop_window_error" : "Thất bại thay đổi hình nền động .",
+	"core_balloon_video_error" : "Đã xảy ra lỗi {{err}}. Bấm vào tôi để được giúp đỡ.",
+	"core_balloon_app_error" : "Thất bại thay đổi application as wallpaper.",
+	
+	"core_msgboxtitle_error" : "Lỗi",
+	"core_msgboxtitle_app_conflict" : "Xung đột Application",
+	"core_msgboxtitle_wpe" : "Wallpaper Engine",
+	
+	"core_msgbox_deskscapes" : " DeskScapes đang hoạt động. Việc này có thể ngăn Wallpaper Engine hoạt động .",
+	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine cần phải kích hoạt tính năng Aero để làm việc. Kích hoạt ngay ?",
+	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine không thể chạy với chủ đề 'tương phản cao'. Đặt lại chủ đề ngay ?",
+	"core_msgbox_dwm_disabled" : "Desktop composition đang bị vô hiệu hóa.",
+	"core_msgbox_aero_denied" : "Wallpaper Engine không thể làm việc nếu thiếu Aero , phần mềm sẽ đóng .",
+	"core_msgbox_aero_failure" : "Không thể kích hoạt tính năng Aero. Wallpaper Engine sẽ đóng.",
+	"core_msgbox_aero_failure_no_support" : "Không thể kích hoạt tính năng Aero. Bạn dường như đang sử dụng một phiên bản Starter hoặc cơ bản của Windows 7, mà không hỗ trợ Aero và không đáp ứng các yêu cầu hệ thống tối thiểu. Wallpaper Engine hiện sẽ đóng.",
+	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine đang chạy nhưng không phản hồi.\n\nBạn có muốn khởi động lại ?",
+	"core_msgbox_init_secondinstance_failed" : "Khởi động thất bại, error code:",
+	"core_msgbox_below_win_7" : "Wallpaper Engine yêu cầu Windows 7 hoặc trở lên, như đã được nêu trên Steam.\n\nCó vẻ như bạn đang chạy một phiên bản không được hỗ trợ của Windows và Wallpaper Engine có thể không hoạt động.",
+	"core_msgbox_media_feature_pack_missing" : "mfplat.dll missing!\nBạn có lẽ đang dùng Windows N. vui lòng cài đặt các gói tính năng truyền thông của Microsoft để cho phép hỗ trợ video! (Google: Media Feature Pack Windows 10/8.1/7)"
+}

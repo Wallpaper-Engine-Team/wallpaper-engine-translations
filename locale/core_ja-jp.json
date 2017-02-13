@@ -28,5 +28,6 @@
 	"core_msgbox_aero_failure_no_support" : "Aeroを有効化できませんでした。Windows7のBasicまたはStarterをお使いの場合、Aeroをサポートしていません。Wallpaper Engineを終了します。",
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engineが既に実行中で応答しません。\n\n強制的に再起動しますか？",
 	"core_msgbox_init_secondinstance_failed" : "再起動に失敗しました。 エラーコード:",
-	"core_msgbox_below_win_7" : "Wallpaper Engineは、Steamのシステム要件に示されているようにWindows 7以上が必要です。\n\nサポートされていないバージョンのWindowsおよびWallpaper Engineが動作しているようです。"
+	"core_msgbox_below_win_7" : "Wallpaper Engineは、Steamのシステム要件に示されているようにWindows 7以上が必要です。\n\nサポートされていないバージョンのWindowsおよびWallpaper Engineが動作しているようです。",
+	"core_msgbox_media_feature_pack_missing" : "mfplat.dllが見つかりませんでした。\nおそらくWindows N Editionを実行中です。ビデオをサポートするためには、MicrosoftからMedia Feature Packをインストールしてください!(Googleで'Media Feature Pack 10/8.1/7'と検索してください。)"
 }

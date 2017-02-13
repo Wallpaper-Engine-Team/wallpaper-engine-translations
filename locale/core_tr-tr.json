@@ -9,9 +9,11 @@
 	"core_tray_recent_wallpapers" : "Son Duvar Kağıtları",
 	"core_tray_quit" : "Çıkış",
 	"core_tray_faq" : "Destek && SSS",
+	"core_tray_recent_wallpapers_clear" : "Listeyi temizle",
+	"core_tray_next_wallpaper" : "Sıradaki Duvar kağıdı",
 	
 	"core_balloon_info" : "Bir duvar kağıdı seçmek için Wallpaper Engine'in sistem tepsisindeki simgesine çift tıkla.",
-	"core_balloon_desktop_window_error" : "Canlı duvar kağıdı için masaüstü hazırlanamadı.",
+	"core_balloon_desktop_window_error" : "Masaüstü, canlı duvar kağıdı için hazırlanamadı.",
 	"core_balloon_video_error" : "Video hatası oluştu {{err}}. Yardım için tıkla.",
 	"core_balloon_app_error" : "Uygulama duvar kağıdı olarak yüklenemedi.",
 	
@@ -29,6 +31,5 @@
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine zaten çalışıyor ve yanıt vermiyor gibi görünüyor.\n\nZorla yeniden başlatmak istiyor musunuz?",
 	"core_msgbox_init_secondinstance_failed" : "Yeniden başlatma başarısız, hata kodu:",
 	"core_msgbox_below_win_7" : "Wallpaper Engine Windows 7 veya üstünü gerektirir.\n\nWindows'un desteklenmeyen bir sürümünü çalıştırıyorsunuz. Wallpaper Engine çalışmayabilir.",
-	"core_msgbox_media_feature_pack_missing": "mfplat.dll eksik!\nWindows N'ye sahip olabilirsiniz. Lütfen video desteğini etkinleştirmek için Microsoft tarafından Media Feature Pack'i yükleyin! (Google: Media Feature Pack Windows 10/8.1/7)",
-	"core_msgbox_file_inconsistency": "Dosya tutarsızlığı tespit edildi!\n\nBu hatayı görmeye devam ederseniz, Steam'den dosyaları da doğrulayın (Wallpaper Engine'e sağ tıklayın, özellikleri, yerel dosyaları tıklayın, doğrulayın). Steam uygulamayı çalıştırırken günceller."
+	"core_msgbox_media_feature_pack_missing": "mfplat.dll eksik!\nWindows N'ye sahip olabilirsiniz. Lütfen video desteğini etkinleştirmek için Microsoft tarafından Media Feature Pack'i yükleyin! (Google: Media Feature Pack Windows 10/8.1/7)"
 }
