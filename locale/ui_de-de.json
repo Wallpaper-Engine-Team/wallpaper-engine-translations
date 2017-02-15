@@ -12,6 +12,7 @@
 	"ui_modal_updaterequired_title" : "Wallpaper Engine muss geupdated werden",
 	"ui_modal_updaterequired_body" : "Bitte schließe Wallpaper Engine (Rechtsklick auf das Icon in der Startleiste und 'Beenden') und starte die Anwendung über Steam neu, um die neusten Updates zu erhalten. Falls diese Fehlermeldung bestehen bleibt, verifiziere die Anwendung über Steam.<br/><br/>Anwendungsversion: <b>{{callerVersion}}</b>, UI-Version: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "Neue Updates verfügbar",
+	"ui_modal_updateavailable_body_distro" : "Ein neues Update für Wallpaper Engine wurde von Steam heruntergeladen (Version <b>{{distroVersion}}</b>). Soll Wallpaper Engine nun neugestartet werden, um das Update anzuwenden?",
 
 	"ui_browse_monitor" : "Bildschirm",
 	"ui_browse_choose_monitor" : "(Bildschirm auswählen)",
@@ -21,6 +22,7 @@
 	"ui_browse_filter_source" : "Herkunft",
 	"ui_browse_filter_tags" : "Tags",
 	"ui_browse_grid_no_results" : "Keine Wallpaper gefunden, die den Suchkriterien entsprechen",
+	"ui_browse_grid_no_results_refreshing" : "Warte auf Antwort von Steam...",
 	"ui_browse_status_error" : "Fehler",
 	"ui_browse_select_prompt" : "Bitte ein Wallpaper auswählen",
 	"ui_browse_steam_status_unavailable" : "Steam ist nicht erreichbar.",
@@ -43,8 +45,8 @@
 	"ui_browse_details_properties_select_directory" : "Ordner öffnen",
 	"ui_browse_details_properties_select_file" : "Datei auswählen",
 	
-	"ui_browse_footer_btn_workshop" : "Workshop",
-	"ui_browse_footer_btn_store" : "Store",
+	"ui_browse_footer_btn_workshop" : "Steam Workshop",
+	"ui_browse_footer_btn_store" : "Steam Store",
 	"ui_browse_footer_btn_open_from_file" : "Aus Datei öffnen",
 	"ui_browse_footer_btn_open_from_url" : "Von URL öffnen",
 	
@@ -60,7 +62,7 @@
 	"ui_browse_sort_rating" : "Bewertung",
 	"ui_browse_sort_favorite" : "Favoriten",
 	"ui_browse_sort_filesize" : "Dateigröße",
-	"ui_browse_sort_subscription_date" : "Abonnement",
+	"ui_browse_sort_subscription_date" : "Zeitpunkt des Abonnement",
 	"ui_browse_sort_last_updated" : "Zuletzt Aktualisiert",
 	
 	"ui_browse_search_placeholder" : "Suche",
@@ -73,6 +75,7 @@
 	"ui_browse_filter_source_official" : "Offiziell",
 	"ui_browse_filter_source_workshop" : "Workshop",
 	"ui_browse_filter_source_my_wallpapers" : "Eigene",
+	"ui_browse_filter_parse_title" : "Filtere Titel",
 	
 	"ui_browse_modal_application_warning_header" : "Öffnen einer unbekannten Anwendung",
 	"ui_browse_modal_application_warning_body" : "Eine unbekannte Anwendung wird als Wallpaper geöffnet: <br/><b>{{filepath}}</b><br/>Wallpaper Engine ist desshalb nicht in der Lage, die Authentizität und Sicherheit der Anwendung sicherzustellen. Überprüfe eventuelle Risiken bevor du fortfährst!<br/><br/>DIE DATEI KÖNNTE AM COMPUTER SCHÄDEN ANRICHTEN.",
@@ -89,6 +92,10 @@
 	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>Lautstärke",
 	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>Audio deaktiviert in den Einstellungen",
 	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>Audioaufnahme",
+	"ui_browse_properties_alignment" : "<span class='fa fa-image propertyIcon'></span>Ausrichtung",
+	"ui_browse_properties_alignment_cover" : "Füllen",
+	"ui_browse_properties_alignment_center" : "Zentrieren",
+	"ui_browse_properties_alignment_stretch" : "Verzerren",
 	
 	"ui_browse_playlist_header" : "Wiedergabeliste",
 	"ui_browse_playlist_modal_open_header" : "Wiedergabeliste Öffnen",
@@ -112,9 +119,29 @@
 	"ui_browse_playlist_modal_settings_timing_after_360_minutes" : "alle 6 Stunden",
 	"ui_browse_playlist_modal_settings_timing_after_720_minutes" : "alle 12 Stunden",
 	"ui_browse_playlist_modal_settings_timing_after_1440_minutes" : "alle 24 Stunden",
-	"ui_browse_playlist_modal_settings_video_sequence" : "Spiele Videos nacheinander",
-	"ui_browse_playlist_modal_settings_update_on_pause" : "Aktualisieren während das Wallpaper pausiert ist",
+	"ui_browse_playlist_modal_settings_video_sequence" : "Am Ende eines Videos zum nächsten Wallpaper wechseln",
+	"ui_browse_playlist_modal_settings_update_on_pause" : "Erlaube den Wechsel des Wallpapers während es pausiert ist",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "Blende Wallpaper ineinander über",
+	
+	"ui_browse_list_source_title" : "Durchsuche:",
+	"ui_browse_list_source_installed" : "Installiert",
+	"ui_browse_list_source_workshop" : "Workshop",
+	
+	"ui_browse_modal_no_steam_title" : "Steam Fehler",
+	"ui_browse_modal_no_steam_body" : "Steamworks konnte nicht initialisiert werden. Bitte starte Steam neu und anschließend Wallpaper Engine. Sollte der Fehler weiterhin auftreten, liegt vermutlich ein Verbindungsproblem zu den Servern von Steam vor. Überprüfe die Internetverbindung und stelle sicher, das Steam mit dem korrekten Account angemeldet ist. Die Server könnten auch temporär nicht erreichbar sein.",
+	"ui_browse_query_error" : "Ein STEAM Fehler trat auf: ",
+	
+	"ui_browse_query_sort_by_votes" : "Bestbewertet",
+	"ui_browse_query_sort_by_date" : "Neuste",
+	"ui_browse_query_sort_by_trend_today" : "Beliebteste (Heute)",
+	"ui_browse_query_sort_by_trend_last_week" : "Beliebteste (Eine Woche)",
+	"ui_browse_query_sort_by_trend_last_month" : "Beliebteste (Ein Monat)",
+	"ui_browse_query_sort_by_trend_year" : "Beliebteste (Ein Jahr)",
+	"ui_browse_query_sort_friends_favorites" : "Favoriten von Freunden",
+	"ui_browse_query_sort_friends_created" : "Von Freunden erstellt",
+	"ui_browse_query_sort_by_followed_users" : "Von gefolgten Nutzern",
+	"ui_browse_query_sort_most_up_votes" : "Meiste Aufwertungen",
+	"ui_browse_query_sort_most_subscriptions" : "Am häufigsten abonniert",
 	
 	"ui_settings_playback": "Wiedergabe",
 	"ui_settings_playback_focused" : "Andere Anwendung fokusiert:",
@@ -277,7 +304,7 @@
 	"ui_editor_publish_modal_button_publish" : "Veröffentlichen",
 	"ui_editor_publish_modal_button_publish_update" : "Änderungen veröffentlichen",
 	"ui_editor_publish_modal_button_show_in_workshop" : "Wallpaper im Workshop anzeigen",
-	"ui_editor_publish_modal_steam_error" : "Es trat ein (Steam-) Fehler auf:",
+	"ui_editor_publish_modal_steam_error" : "Es trat ein Steam Fehler auf:",
 	"ui_editor_publish_modal_publish_successful" : "Wallpaper erfolgreich veröffentlicht.",
 	"ui_editor_publish_modal_publish_prompt_agreement" : "Das Steam-Workshop-Agreement muss akzeptiert werden, damit das Wallpaper für andere sichtbar wird. Öffne das Wallpaper in Steam um zu Akzeptieren:",
 	
@@ -369,5 +396,5 @@
 	"ui_workshop_tags_technology" : "Technologie",
 	"ui_workshop_tags_television" : "Fernsehen",
 	"ui_workshop_tags_vehicle" : "Fahrzeuge",
-	"ui_workshop_tags_unspecified" : "Unspezifiziert"
+	"ui_workshop_tags_unspecified" : "Unspezifiziertes Genre"
 }
