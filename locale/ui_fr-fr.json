@@ -361,7 +361,7 @@
 	"ui_editor_help_tutorial_group_advanced_scene" : "Scène Fond d'écran",
 	"ui_editor_help_tutorial_item_scene_shaders" : "Créer nouveau shaders",
 
-	"ui_editor_snapshot_instructions" : "1. Dessiner un rectangle avec la souris.\n2. Appuyez sur Entrer pour prendre un snapshot.\n\nAppuyez sur Espace pour mettre sur pause.\nAppuyez sur Echap pour annuler."
+	"ui_editor_snapshot_instructions" : "1. Dessiner un rectangle avec la souris.\n2. Appuyez sur Entrer pour prendre un snapshot.\n\nAppuyez sur Espace pour mettre sur pause.\nAppuyez sur Echap pour annuler.",
 	
 	"ui_editor_workshop_rules_modal_title" : "Règles du Workshop",
 	"ui_editor_workshop_rules_modal_body" : "Avant de soumettre un fond d'écran au Workshop, vérifiez bien qu'il ne viole pas les Termes du Contrat de Service Steam, auquel cas il sera supprimé:",
