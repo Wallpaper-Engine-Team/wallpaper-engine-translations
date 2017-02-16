@@ -81,7 +81,7 @@
 	"ui_browse_modal_application_warning_body" : "Vous êtes sur le point d'ouvrir une application externe inconnue comme fond d'écran: <br/><b>{{filepath}}</b><br/>Wallpaper Engine n'a pas le controlle de ce fichier, vous devez êtres sûr qu'il proviens d'une source fiable avant de continuer.<br/><br/>CELA PEUT ENDOMMAGER VOTRE ORDINATEUR.",
 	"ui_browse_modal_application_warning_timer" : "<br/><br/>Patientez {{time}} secondes.",
 	"ui_browse_modal_unsubscribe_header" : "Désinscription",
-	"ui_browse_modal_unsubscribe_body" : "Etes vous sûr de vouloir vous déseinscrire de: <b>{{title}}</b>?",
+	"ui_browse_modal_unsubscribe_body" : "Etes vous sûr de vouloir vous désinscrire de: <b>{{title}}</b>?",
 	"ui_browse_modal_remove_local_header" : "Retirer de l'historique",
 	"ui_browse_modal_remove_local_body" : "Etes vous sûr de vouloir retirer le fond d'écran: <b>{{title}}</b>?",
 	"ui_browse_open_url_header" : "Ouvrir un fond d'écran à partir d'un URL",
