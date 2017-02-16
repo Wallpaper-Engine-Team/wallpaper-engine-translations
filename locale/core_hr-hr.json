@@ -1,0 +1,35 @@
+{
+	"core_tray_change_wallpaper" : "Promijeni Pozadinu",
+	"core_tray_browse_workshop" : "Pretraži Workshop",
+	"core_tray_create_wallpaper" : "Napravi Pozadinu",
+	"core_tray_settings" : "Postavke",
+	"core_tray_take_screenshot" : "Uzmi Screenshot",
+	"core_tray_pause" : "Zaustavi",
+	"core_tray_unpause" : "Nastavi",
+	"core_tray_recent_wallpapers" : "Nedavne Pozadine",
+	"core_tray_quit" : "Zatvori",
+	"core_tray_faq" : "Podrška i FAQ(NPP)",
+	"core_tray_recent_wallpapers_clear" : "Obriši Listu",
+	"core_tray_next_wallpaper" : "Sljedeća pozadina",
+	
+	"core_balloon_info" : "Wallpaper Engine je minimiziran. Dvaput kliknite na ikonu da odaberete pozadinu.",
+	"core_balloon_desktop_window_error" : "Nismo uspjeli pripremiti radnu površinu za pokretnu pozadinu.",
+	"core_balloon_video_error" : "Video greška! {{err}}. Kliknite ovdje za pomoć.",
+	"core_balloon_app_error" : "Neuspjeh učitavanja aplikacije kao pozadinu.",
+	
+	"core_msgboxtitle_error" : "Greška",
+	"core_msgboxtitle_app_conflict" : "Nesuglasica s drugim aplikacijama",
+	"core_msgboxtitle_wpe" : "Wallpaper Engine",
+	
+	"core_msgbox_deskscapes" : "Čini se da je DeskScapes aktivan. On može zabranjivati Wallpaper Engineu da radi.",
+	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine treba uključiti Aero da radi. Uključiti Aero sada?",
+	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine ne može raditi sa 'high contrast' temom. Resetiraj temu sada?",
+	"core_msgbox_dwm_disabled" : "Desktop kompozicija je isključena.",
+	"core_msgbox_aero_denied" : "Wallpaper Engine ne može raditi bez Aeroa i sada će se zatvoriti.",
+	"core_msgbox_aero_failure" : "Neuspjeh u uključenju Aeroa. Wallpaper Engine će se zatvoriti.",
+	"core_msgbox_aero_failure_no_support" : "Neuspjeh u uključenju Aeroa. Čini se da koristite Starter ili Basic verziju Windows 7 , koja ne podržava Aero i ne ispunjuje minimalne potrebe sistema . Wallpaper Engine će se zatvoriti.",
+	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine se čini da radi ali ne reagira .\n\nŽelite li ga ponovno pokrenuti prisilno?",
+	"core_msgbox_init_secondinstance_failed" : "Neuspjeh u ponovnom pokretanju, Kod greške:",
+	"core_msgbox_below_win_7" : "Wallpaper Engine zahtjeva Windows 7 ili više, kao što i piše na Steamu.\n\nČini se da koristite nepodržanu verziju Windowsa i moguće je da Wallpaper Engine prestane raditi.",
+	"core_msgbox_media_feature_pack_missing" : "mfplat.dll nedostaje!\nNajvjerovatnije imate Windows N. Molim vas instalirajte Media Feature Pack od Microsofta da uključite video podršku! (Google: Media Feature Pack Windows 10/8.1/7)"
+}

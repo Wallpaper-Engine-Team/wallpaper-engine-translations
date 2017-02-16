@@ -1,2 +1,33 @@
 {
+	"core_tray_change_wallpaper" : "Háttérkép változtatása",
+	"core_tray_browse_workshop" : "Műhely Böngészése",
+	"core_tray_create_wallpaper" : "Háttérkép Készítése",
+	"core_tray_settings" : "Beállítások",
+	"core_tray_take_screenshot" : "Képernyőkép készítése",
+	"core_tray_pause" : "Szünet",
+	"core_tray_unpause" : "Folytatás",
+	"core_tray_recent_wallpapers" : "Legutóbbi Hátterek",
+	"core_tray_quit" : "Bezárás",
+	"core_tray_faq" : "Támogatás és GYIK",
+	
+	"core_balloon_info" : "A Wallpaper Engine Minimalizálódott a tálcára. Kattintson kétszer a tálcán lévő ikora hogy hátteret válasszon.",
+	"core_balloon_desktop_window_error" : "Nem sikerült előkészíteni az aszalt az élő háttérképhez.",
+	"core_balloon_video_error" : "Videó hiba {{err}}. Kattints ide segítségért.",
+	"core_balloon_app_error" : "Nem sikerült betölteni az alkalmazást háttérképként.",
+	
+	"core_msgboxtitle_error" : "Hiba",
+	"core_msgboxtitle_app_conflict" : "Ütköző alkalmazás",
+	"core_msgboxtitle_wpe" : "Wallpaper Engine",
+	
+	"core_msgbox_deskscapes" : "Úgy érzékeltük hogy a DeskScapes aktív. Ez megakadályozhatja a Wallpaper Engine helyes	működését.",
+	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine működéséhez engedélyezni kell az Aero-t. Engedélyezi azt most?",
+	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine nem kompatibilis a 'high contrast' témával. Alaphelyzetbe állítja a témát?",
+	"core_msgbox_dwm_disabled" : "Desktop composition (dwm) le van tiltva.",
+	"core_msgbox_aero_denied" : "Wallpaper Engine nem működik az Aero nélkül ezért most leáll.",
+	"core_msgbox_aero_failure" : "Nem sikerült az Aero engedélyezése. A Wallpaper Engine most leáll.",
+	"core_msgbox_aero_failure_no_support" : "Nem sikerült az Aero engedélyezése. Feltehetőleg a Windows 7 Starter vagy Basic verzióját használja, mely nem támogatja az Aero-t így nem felel meg a minimális rendszerkövetelményeknek. A Wallpaper Engine most leáll.",
+	"core_msgbox_init_secondinstance_ask_quit" : "A Wallpaper Engine már fut de nem válaszol.\n\nKényszeríti az újraindítást?",
+	"core_msgbox_init_secondinstance_failed" : "Az újraindítás sikertelen, hibakód:",
+	"core_msgbox_below_win_7" : "Wallpaper Engine Windows 7 vagy újabb operációs rendszert támogatja, ahogy az a Steam-ben is fel van tűntetve.\n\nÚgy észleltök hogy nem támogatott Windows verziót használ, a Wallpaper Engine helyes működése nem garantált.",
+	"core_msgbox_media_feature_pack_missing" : "mfplat.dll hiányzik!\nElképzelhető hogy a Windows N verzióját használja. Kérjük telepítsa a Media Feature Pack-ot, hogy engedélyezze a videó támogatást! (Google: Media Feature Pack Windows 10/8.1/7)"
 }

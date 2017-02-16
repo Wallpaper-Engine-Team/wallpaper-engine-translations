@@ -12,7 +12,7 @@
 	"ui_modal_updaterequired_title" : "Wallpaper Engine 需要更新",
 	"ui_modal_updaterequired_body" : "请关闭 Wallpaper Engine (右键单击通知区域图标选择退出) 然后通过 Steam 重新启动来获取最新的更新。 如果此警告仍然出现， 请通过 Steam 		验证应用程序的完整性。<br/><br/>程序版本: <b>{{callerVersion}}</b>, UI 版本: <b>{{appVersion}}</b>",
 	"ui_modal_updateavailable_title" : "新的更新可用",
-	"ui_modal_updateavailable_body" : "Steam获取到新的Wallpaper Engine更新：<b>{{updateVersion}}</b><br/>请关闭Wallpaper Engine，以便Steam可以正常更新。",
+	"ui_modal_updateavailable_body_distro" : "Steam已下载Wallpaper Engine的更新 (version <b>{{distroVersion}}</b>).要立即重新启动Wallpaper Engine以更新应用吗？",
 
 	"ui_browse_monitor" : "显示器",
 	"ui_browse_choose_monitor" : "(选定显示器)",
@@ -22,6 +22,7 @@
 	"ui_browse_filter_source" : "来源",
 	"ui_browse_filter_tags" : "标签",
 	"ui_browse_grid_no_results" : "没有符合您标准的壁纸",
+	"ui_browse_grid_no_results_refreshing" : "等待Steam响应...",
 	"ui_browse_status_error" : "错误",
 	"ui_browse_select_prompt" : "请选择一个壁纸",
 	"ui_browse_steam_status_unavailable" : "Steam 不可用。",
@@ -44,8 +45,8 @@
 	"ui_browse_details_properties_select_directory" : "选择文件夹",
 	"ui_browse_details_properties_select_file" : "选择文件",
 	
-	"ui_browse_footer_btn_workshop" : "浏览创意工坊",
-	"ui_browse_footer_btn_store" : "浏览商店",
+	"ui_browse_footer_btn_workshop" : "Steam创意工坊",
+	"ui_browse_footer_btn_store" : "Steam商店",
 	"ui_browse_footer_btn_open_from_file" : "从文件中打开",
 	"ui_browse_footer_btn_open_from_url" : "从网页中打开",
 	
@@ -74,6 +75,7 @@
 	"ui_browse_filter_source_official" : "官方",
 	"ui_browse_filter_source_workshop" : "创意工坊",
 	"ui_browse_filter_source_my_wallpapers" : "我的壁纸",
+	"ui_browse_filter_parse_title" : "过滤标题",
 	
 	"ui_browse_modal_application_warning_header" : "正在打开未知应用程序",
 	"ui_browse_modal_application_warning_body" : "您正在使用一个未知的外部应用程序作为壁纸使用: <br/><b>{{filepath}}</b><br/>Wallpaper Engine 不会对这个应用程序加以限制, 您必须在选定这个程序前确认它是安全可信的。<br/><br/> <b>可能会损害您的电脑！！！</b>",
@@ -88,6 +90,7 @@
 	"ui_browse_properties_scheme_color" : "状态栏配色",
 	"ui_browse_properties_playback_rate" : "<span class='fa fa-play propertyIcon'></span>播放速度",
 	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>音量",
+	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>在设置中禁用音频",
 	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>录音",
 	
 	"ui_browse_playlist_header" : "播放列表",
@@ -112,9 +115,29 @@
 	"ui_browse_playlist_modal_settings_timing_after_360_minutes" : "6小时后",
 	"ui_browse_playlist_modal_settings_timing_after_720_minutes" : "12小时后",
 	"ui_browse_playlist_modal_settings_timing_after_1440_minutes" : "24小时后",
-	"ui_browse_playlist_modal_settings_video_sequence" : "依次播放视频",
-	"ui_browse_playlist_modal_settings_update_on_pause" : "更新播放列表时暂停",
+	"ui_browse_playlist_modal_settings_video_sequence" : "在视频结束时更改壁纸",
+	"ui_browse_playlist_modal_settings_update_on_pause" : "允许墙纸在更改时暂停",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "显示壁纸过渡",
+	
+	"ui_browse_list_source_title" : "浏览:",
+	"ui_browse_list_source_installed" : "已安装",
+	"ui_browse_list_source_workshop" : "创意工坊",
+	
+	"ui_browse_modal_no_steam_title" : "Steam 错误",
+	"ui_browse_modal_no_steam_body" : "创意工坊无法初始化，如果重新启动Steam和Wallpaper Engine后，还能继续看到这个错误，这意味着您的电脑无法与Steam服务器认证正确，检查你的互联网连接和你是否记录进入正确的Steam帐户，Steam服务器也可能暂时无法访问。",
+	"ui_browse_query_error" : "发生STEAM错误: ",
+	
+	"ui_browse_query_sort_by_votes" : "评分最高",
+	"ui_browse_query_sort_by_date" : "最近",
+	"ui_browse_query_sort_by_trend_today" : "最热门 (今天)",
+	"ui_browse_query_sort_by_trend_last_week" : "最热门 (一周)",
+	"ui_browse_query_sort_by_trend_last_month" : "最热门 (月)",
+	"ui_browse_query_sort_by_trend_year" : "最热门 (年)",
+	"ui_browse_query_sort_friends_favorites" : "好友的收藏",
+	"ui_browse_query_sort_friends_created" : "好友的创建",
+	"ui_browse_query_sort_by_followed_users" : "已关注的作者",
+	"ui_browse_query_sort_most_up_votes" : "最多的投票",
+	"ui_browse_query_sort_most_subscriptions" : "最多的订阅",
 
 	"ui_settings_playback": "回放",
 	"ui_settings_playback_focused" : "其他程序运行时:",
@@ -277,7 +300,7 @@
 	"ui_editor_publish_modal_button_publish" : "发布",
 	"ui_editor_publish_modal_button_publish_update" : "发布更新",
 	"ui_editor_publish_modal_button_show_in_workshop" : "在创意工坊显示壁纸",
-	"ui_editor_publish_modal_steam_error" : "(Steam) 发生了一个错误:",
+	"ui_editor_publish_modal_steam_error" : "发生STEAM错误: ",
 	"ui_editor_publish_modal_publish_successful" : "项目成功发布。",
 	"ui_editor_publish_modal_publish_prompt_agreement" : "在你上传壁纸前你必须同意 Steam 创意工坊用户协议才能使其他用户看见你的作品。现在在 Steam 创意工坊访问你的作品:",
 
@@ -289,7 +312,7 @@
 	"ui_editor_workshop_options_scheme_color" : "色彩方案",
 	"ui_editor_workshop_options_visibility" : "可见性",
 	"ui_editor_workshop_options_monetization" : "收费情况 (创意工坊)",
-	"ui_editor_workshop_options_monetization_hint_on" : " (壁纸将会在收费项目中)",
+	"ui_editor_workshop_options_monetization_hint_on" : " (壁纸将发起投票并出售)",
 	"ui_editor_workshop_options_monetization_hint_off" : " (壁纸将会立即可用并完全免费)",
 	"ui_editor_workshop_options_preview_image" : "预览图片",
 	"ui_editor_workshop_options_missing" : "无截图",

@@ -29,6 +29,5 @@
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine đang chạy nhưng không phản hồi.\n\nBạn có muốn khởi động lại ?",
 	"core_msgbox_init_secondinstance_failed" : "Khởi động thất bại, error code:",
 	"core_msgbox_below_win_7" : "Wallpaper Engine yêu cầu Windows 7 hoặc trở lên, như đã được nêu trên Steam.\n\nCó vẻ như bạn đang chạy một phiên bản không được hỗ trợ của Windows và Wallpaper Engine có thể không hoạt động.",
-	"core_msgbox_media_feature_pack_missing" : "mfplat.dll missing!\nBạn có lẽ đang dùng Windows N. vui lòng cài đặt các gói tính năng truyền thông của Microsoft để cho phép hỗ trợ video! (Google: Media Feature Pack Windows 10/8.1/7)",
-	"core_msgbox_file_inconsistency" : "Tập tin xung đột được phát hiện!\n\nHãy khởi động lại ứng dụng trên Steam. Nếu bạn tiếp tục gặp lỗi này, hãy kiểm tra các tập tin trên Steam (right click Wallpaper Engine, click properties, local files, verify). This can happen when Steam updates the application while it is running.\n\nKhởi động lại?"
+	"core_msgbox_media_feature_pack_missing" : "mfplat.dll missing!\nBạn có lẽ đang dùng Windows N. vui lòng cài đặt các gói tính năng truyền thông của Microsoft để cho phép hỗ trợ video! (Google: Media Feature Pack Windows 10/8.1/7)"
 }

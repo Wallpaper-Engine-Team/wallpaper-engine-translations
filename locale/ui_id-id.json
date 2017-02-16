@@ -12,7 +12,6 @@
 	"ui_modal_updaterequired_title" : "Wallpaper Engine perlu diperbarui",
 	"ui_modal_updaterequired_body" : "Silahkan menutup Wallpaper Engine (klik kanan di ikon tray dan klik Keluar) dan muat ulang melalui Steam untuk mendapatkan versi terbaru. Jika anda masih mendapatkan pesan peringatan ini, silahkan verifikasi berkas aplikasi melalui Steam.<br/><br/>Versi aplikasi: <b>{{callerVersion}}</b>, versi UI: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "Pembaruan baru tersedia",
-	"ui_modal_updateavailable_body" : "Pembaruan baru untuk Wallpaper Engine telah tersedia di Steam: <b>{{updateVersion}}</b><br/>Silahkan tutup Wallpaper Engine agar Steam bisa memperbaruinya dengan benar.",
  
 	"ui_browse_monitor" : "Monitor",
 	"ui_browse_choose_monitor" : "(Pilih monitor)",

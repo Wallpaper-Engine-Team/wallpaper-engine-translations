@@ -12,7 +12,6 @@
 	"ui_modal_updaterequired_title" : "Wallpaper Engine deve essere aggiornato",
 	"ui_modal_updaterequired_body" : "Per favore chiudi Wallpaper Engine (tasto destro sull'icona in tray area, quindi scegli Esci) e riavvialo da Steam per ricevere gli ultimi aggiornamenti. Se continui a vedere questo avviso, verifica i files di installazione da Steam.<br/><br/>Version applicazione: <b>{{callerVersion}}</b>, Versione UI <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "Aggiornamento disponibile",
-	"ui_modal_updateavailable_body" : "Nuovo aggiornamento per Wallpaper Engine disponibile su Steam: <b>{{updateVersion}}</b><br/>Per favore chiudi Wallpaper Engine così che Steam lo possa aggiornare correttamente.",
 
 	"ui_browse_monitor" : "Monitor",
 	"ui_browse_choose_monitor" : "(Scegli monitor)",
@@ -209,14 +208,14 @@
 	"ui_welcome_button_next_page" : "Prossimo",
 	"ui_welcome_button_last_page" : "Tutto fatto",
 	
-	"ui_editor_pane_header_camera" : "Visuale",
+	"ui_editor_pane_header_camera" : "Vista",
 	"ui_editor_pane_header_preview" : "Anteprima",
 	"ui_editor_pane_header_properties" : "Proprietà",
 	"ui_editor_pane_header_assets" : "Risorse",
 	
 	"ui_editor_filemenu_file" : "File",
 	"ui_editor_filemenu_new" : "Nuovo",
-	"ui_editor_filemenu_open" : "Apro",
+	"ui_editor_filemenu_open" : "Apri",
 	"ui_editor_filemenu_open_recent" : "Apri recenti",
 	"ui_editor_filemenu_save" : "Salva",
 	"ui_editor_filemenu_quit" : "Esci",
@@ -237,7 +236,7 @@
 	"ui_editor_filemenu_show_in_workshop" : "Mostra nel Workshop",
 	"ui_editor_filemenu_prepare_for_publishing" : "Prepara per la pubblicazione",
 
-	"ui_editor_treeview_header_scene" : "Grafico scena",
+	"ui_editor_treeview_header_scene" : "Scena",
 	"ui_editor_treeview_header_files" : "Files Importati",
 
 	"ui_editor_camera_add_path" : "Aggiungi percorso",
@@ -246,12 +245,12 @@
 	"ui_editor_gizmo_rotate" : "Ruota",
 	"ui_editor_gizmo_scale" : "Scala",
 
-	"ui_editor_welcome_modal_new_scene_wallpaper" : "Nuova Scena di sfondo",
-	"ui_editor_welcome_modal_new_scene3d_wallpaper" : "Nuova Scena 3D di sfondo",
-	"ui_editor_welcome_modal_new_scene2d_wallpaper" : "Nuova Scena 2D di sfondo",
-	"ui_editor_welcome_modal_new_video_wallpaper" : "Nuovo Video di sfondo ",
-	"ui_editor_welcome_modal_new_web_wallpaper" : "Nuova Pagina Web di sfondo",
-	"ui_editor_welcome_modal_new_application_wallpaper" : "Nuova Applicazione di sfondo",
+	"ui_editor_welcome_modal_new_scene_wallpaper" : "Crea Scena",
+	"ui_editor_welcome_modal_new_scene3d_wallpaper" : "Nuova scena 3D",
+	"ui_editor_welcome_modal_new_scene2d_wallpaper" : "Nuova scena 2D",
+	"ui_editor_welcome_modal_new_video_wallpaper" : "Nuovo video",
+	"ui_editor_welcome_modal_new_web_wallpaper" : "Nuova pagina web",
+	"ui_editor_welcome_modal_new_application_wallpaper" : "Nuova applicazione",
 	"ui_editor_welcome_modal_edit_recent_wallpaper" : "Modifica sfondi recenti:",
 	"ui_editor_welcome_modal_edit_recent_no_wallpapers" : "Nessuno sfondo recente",
 	"ui_editor_welcome_modal_tutorial" : "Tutorial: Per iniziare",

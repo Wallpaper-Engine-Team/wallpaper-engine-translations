@@ -12,7 +12,7 @@
 	"ui_modal_updaterequired_title" : "Wallpaper Engineを更新する必要があります",
 	"ui_modal_updaterequired_body" : "Wallpaper Engineを閉じて（トレイアイコンを右クリックして[終了]をクリックしてください）、Steamで再起動して最新にアップデートしてください。この警告が表示される場合は、Steam経由でアプリケーションファイルを確認してください。<br/><br/>アプリケーションのバージョン：<b>{{callerVersion}}</b>、UIバージョン：<b>{{appVersion}}</b>",
 	"ui_modal_updateavailable_title" : "新しいアップデートが利用可能です",
-	"ui_modal_updateavailable_body" : "SteamでWallpaper Engineの最新アップデートを取得出来ます: <b>{{updateVersion}}</b><br/>Wallpaper EngineをクローズしSteamが正しくアップデート出来るようにしてください。",
+	"ui_modal_updateavailable_body_distro" : "SteamがWallpaper Engineの新しいアップデートをダウンロードしました (version <b>{{distroVersion}}</b>). Wallpaper Engineを今すぐ再起動してアップデートを適用しますか？",
 
 	"ui_browse_monitor" : "モニタ",
 	"ui_browse_choose_monitor" : "(モニタ選択)",
@@ -22,6 +22,7 @@
 	"ui_browse_filter_source" : "ソース",
 	"ui_browse_filter_tags" : "タグ",
 	"ui_browse_grid_no_results" : "適合する壁紙はありません",
+	"ui_browse_grid_no_results_refreshing" : "Steamの応答待ち...",
 	"ui_browse_status_error" : "エラー",
 	"ui_browse_select_prompt" : "壁紙を選択してください",
 	"ui_browse_steam_status_unavailable" : "Steamは利用できません。",
@@ -74,6 +75,7 @@
 	"ui_browse_filter_source_official" : "オフィシャル",
 	"ui_browse_filter_source_workshop" : "Workshop",
 	"ui_browse_filter_source_my_wallpapers" : "マイ壁紙",
+	"ui_browse_filter_parse_title" : "タイトルフィルター",
 	
 	"ui_browse_modal_application_warning_header" : "不明なアプリケーションを開く",
 	"ui_browse_modal_application_warning_body" : "未知の外部アプリケーションを壁紙として開こうとしています: <br/><b>{{filepath}}</b><br/>Wallpaper Engineはこのファイルを制御できません。続行する前に、信頼できるソースからのものであることを確認する必要があります。<br/><br/>それは、あなたのコンピュータを害するかもしれません。",
@@ -88,6 +90,7 @@
 	"ui_browse_properties_scheme_color" : "ツールバーの色",
 	"ui_browse_properties_playback_rate" : "<span class='fa fa-play propertyIcon'></span>再生速度",
 	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>音量",
+	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>設定で音声無効",
 	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>オーディオ録音",
 	
 	"ui_browse_playlist_header" : "プレイリスト",
@@ -115,6 +118,26 @@
 	"ui_browse_playlist_modal_settings_video_sequence" : "ビデオを順番に再生",
 	"ui_browse_playlist_modal_settings_update_on_pause" : "一時停止中にプレイリストを更新",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "壁紙の変化を表示する",
+	
+	"ui_browse_list_source_title" : "ブラウジング:",
+	"ui_browse_list_source_installed" : "インストール済み",
+	"ui_browse_list_source_workshop" : "Workshop",
+	
+	"ui_browse_modal_no_steam_title" : "Steam エラー",
+	"ui_browse_modal_no_steam_body" : "Steamworksを初期化できませんでした。 SteamとWallpaper Engineを再起動してみてください。 このエラーが引き続き表示される場合は、お使いのPCがSteamで正しく認証されていないこと、インターネット接続を確認していること、および正しいSteamアカウントにログインしているかどうかを確認してください。 Steamサーバにも一時的に到達できない可能性があります。",
+	"ui_browse_query_error" : "Steamエラーが発生しました: ",
+	
+	"ui_browse_query_sort_by_votes" : "トップレート",
+	"ui_browse_query_sort_by_date" : "最近",
+	"ui_browse_query_sort_by_trend_today" : "人気 (今日)",
+	"ui_browse_query_sort_by_trend_last_week" : "人気 (今週)",
+	"ui_browse_query_sort_by_trend_last_month" : "人気 (今月)",
+	"ui_browse_query_sort_by_trend_year" : "人気 (今年)",
+	"ui_browse_query_sort_friends_favorites" : "フレンドのお気に入り",
+	"ui_browse_query_sort_friends_created" : "フレンドにより作成",
+	"ui_browse_query_sort_by_followed_users" : "フォローしたユーザーにより作成",
+	"ui_browse_query_sort_most_up_votes" : "アップ投票順",
+	"ui_browse_query_sort_most_subscriptions" : "購読者順",
 
 	"ui_settings_playback": "再生",
 	"ui_settings_playback_focused" : "他のアプリケーションが前面に出た場合:",
@@ -184,7 +207,7 @@
 	
 	"ui_settings_copyright" : "All rights reserved.",
 	"ui_settings_thirdparty" : "Thirdparty notices",
-
+	
 	"ui_settings_highpriority_warning_header" : "優先起動について",
 	"ui_settings_highpriority_warning" : "優先起動を行うと、他のアプリケーションより早く起動させることが出来ます。この設定で問題が発生した場合は解除してください。起動するのは遅くなりますが、問題が解決する場合があります。",
 	
@@ -352,13 +375,13 @@
 	"ui_workshop_tags_animal" : "動物",
 	"ui_workshop_tags_anime" : "アニメ",
 	"ui_workshop_tags_cartoon" : "漫画",
-	"ui_workshop_tags_cgi" : "CGI",
+	"ui_workshop_tags_cgi" : "",
 	"ui_workshop_tags_cyberpunk" : "サイバーパンク",
 	"ui_workshop_tags_fantasy" : "ファンタジー",
 	"ui_workshop_tags_game" : "ゲーム",
 	"ui_workshop_tags_landscape" : "風景",
 	"ui_workshop_tags_medieval" : "中世",
-	"ui_workshop_tags_mmd" : "MMD",
+	"ui_workshop_tags_mmd" : "",
 	"ui_workshop_tags_multi_monitor_optimized" : "マルチモニタ最適化済み",
 	"ui_workshop_tags_music" : "音楽",
 	"ui_workshop_tags_nature" : "自然",
