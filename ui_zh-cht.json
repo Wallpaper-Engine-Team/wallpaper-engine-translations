@@ -2,18 +2,19 @@
 	"ui_caption_browse" : "瀏覽桌面背景",
 	"ui_caption_settings" : "設定",
 	"ui_caption_editor" : "桌面背景編輯器",
-	
+
 	"ui_ok" : "確定",
 	"ui_cancel" : "取消",
 	"ui_back" : "返回",
 	"ui_close" : "關閉",
 	"ui_retry" : "重試",
-	
+
 	"ui_modal_updaterequired_title" : "Wallpaper Engine 需要更新",
-	"ui_modal_updaterequired_body" : "請關閉 Wallpaper Engine (右鍵單擊通知區域圖標選擇退出) 然後通過 Steam 重新啟動來接收最新的更新。 如果此警告仍然出現， 請通過 Steam 		驗證應用程式的完整性。<br/><br/>程式版本: <b>{{callerVersion}}</b>, UI 版本: <b>{{appVersion}}</b>",
+	"ui_modal_updaterequired_body" : "請關閉 Wallpaper Engine (右鍵單擊通知區域圖標選擇退出) 然後通過 Steam 重新啟動來接收最新的更新。如果此警告仍然出現，請通過Steam驗證應用程式的完整性。<br/><br/>程式版本: <b>{{callerVersion}}</b>, UI 版本: <b>{{appVersion}}</b>",
+	
 	"ui_modal_updateavailable_title" : "有新的更新可用",
 	"ui_modal_updateavailable_body_distro" : "已從steam下載最新更新 (version <b>{{distroVersion}}</b>). 請問要重新啟動wallpaper engine以套用更新嗎？",
-	
+
 	"ui_browse_monitor" : "顯示器",
 	"ui_browse_choose_monitor" : "(選定顯示器)",
 	"ui_browse_filter_results" : "過濾",
@@ -29,7 +30,7 @@
 	"ui_browse_steam_status_unavailable_cache" : "Steam 不可用。<br/>從快取中載入 {{count}} 個桌面背景。",
 	"ui_browse_steam_status_pending" : "正在等待 Steam 回應...",
 	"ui_browse_steam_status_complete" : "Steam 更新完成。<br/>向快取中寫入了 {{count}} 個桌面背景。",
-	
+
 	"ui_browse_details_title" : "標題:",
 	"ui_browse_details_author" : "創作者:",
 	"ui_browse_details_type" : "類型:",
@@ -44,12 +45,12 @@
 	"ui_browse_details_properties_nothing_imported" : "未導入任何檔案",
 	"ui_browse_details_properties_select_directory" : "選擇資料夾",
 	"ui_browse_details_properties_select_file" : "選擇檔案",
-	
+
 	"ui_browse_footer_btn_workshop" : "瀏覽工作坊",
 	"ui_browse_footer_btn_store" : "瀏覽商店",
 	"ui_browse_footer_btn_open_from_file" : "匯入檔案",
 	"ui_browse_footer_btn_open_from_url" : "匯入連結",
-	
+
 	"ui_browse_monitors_choose_monitor" : "選擇顯示器",
 	"ui_browse_monitors_layout" : "佈局",
 	"ui_browse_monitors_monitors" : "顯示器",
@@ -57,14 +58,14 @@
 	"ui_browse_monitors_remove_wallpaper" : "移除桌面背景",
 	"ui_browse_monitors_layout_per_monitor" : "每個顯示器的桌面背景",
 	"ui_browse_monitors_layout_fit" : "適應單個桌面背景",
-	
+
 	"ui_browse_sort_name" : "名稱",
 	"ui_browse_sort_rating" : "評分",
 	"ui_browse_sort_favorite" : "最愛",
 	"ui_browse_sort_filesize" : "檔案大小",
 	"ui_browse_sort_subscription_date" : "訂閱日期",
 	"ui_browse_sort_last_updated" : "最近更新",
-	
+
 	"ui_browse_search_placeholder" : "搜尋",
 	"ui_browse_filter_type_any" : "所有",
 	"ui_browse_filter_type_scene" : "場景",
@@ -76,9 +77,10 @@
 	"ui_browse_filter_source_workshop" : "工作坊",
 	"ui_browse_filter_source_my_wallpapers" : "我的桌面背景",
 	"ui_browse_filter_parse_title" : "過濾標題",
-	
+
 	"ui_browse_modal_application_warning_header" : "正在打開未知應用程式",
 	"ui_browse_modal_application_warning_body" : "您正在使用一個未知的外部應用程式作為桌面背景使用: <br/><b>{{filepath}}</b><br/>Wallpaper Engine 不會對這個應用程式加以限制, 您必須在選定這個程式前確定它是安全可信的。<br/><br/> <b>可能會損害您的電腦！！！</b>",
+	
 	"ui_browse_modal_application_warning_timer" : "<br/><br/>請等待 {{time}} 秒",
 	"ui_browse_modal_unsubscribe_header" : "取消訂閱",
 	"ui_browse_modal_unsubscribe_body" : "您確定要取消訂閱: <b>{{title}}</b> 嗎?",
@@ -96,12 +98,12 @@
 	"ui_browse_properties_alignment_cover" : "封面",
 	"ui_browse_properties_alignment_center" : "中心",
 	"ui_browse_properties_alignment_stretch" : "伸展",
-	
+
 	"ui_browse_playlist_header" : "播放列表",
 	"ui_browse_playlist_modal_open_header" : "打開播放列表",
 	"ui_browse_playlist_modal_open_delete" : "刪除",
 	"ui_browse_playlist_modal_save_header" : "保存播放列表",
-	"ui_browse_playlist_modal_save_name" : "名稱", 
+	"ui_browse_playlist_modal_save_name" : "名稱",
 	"ui_browse_playlist_modal_save_description" : "如已有相同名稱的播放列表存在，該列表將會被覆寫。",
 	"ui_browse_playlist_modal_empty" : "找不到播放列表",
 	"ui_browse_playlist_modal_settings_header" : "播放列表設定",
@@ -122,15 +124,16 @@
 	"ui_browse_playlist_modal_settings_video_sequence" : "影像停止時更換桌面",
 	"ui_browse_playlist_modal_settings_update_on_pause" : "暫停時允許桌面更換",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "顯示桌面過渡",
-	
+
 	"ui_browse_list_source_title" : "瀏覽中:",
 	"ui_browse_list_source_installed" : "已安裝的桌面",
 	"ui_browse_list_source_workshop" : "工作坊",
-	
+
 	"ui_browse_modal_no_steam_title" : "Steam發生錯誤",
 	"ui_browse_modal_no_steam_body" : "steam工作初始化失敗。請嘗試重啟steam及wallpaper Engine。如此錯誤繼續出現，表示你的電腦不能正確地與steam伺服器認證，請檢查網絡連接及是否已登入正確的steam帳戶。也可能是steam伺服器暫時未能訪問。",
-	"ui_browse_query_error" : "發生一個steam的錯誤事件: ",
 	
+	"ui_browse_query_error" : "發生一個steam的錯誤事件: ",
+
 	"ui_browse_query_sort_by_votes" : "最高評分",
 	"ui_browse_query_sort_by_date" : "最近",
 	"ui_browse_query_sort_by_trend_today" : "人氣最高 (本日)",
@@ -183,7 +186,7 @@
 	"ui_settings_advanced_video_loop" : "影片循環:",
 	"ui_settings_advanced_log_level" : "日誌記錄:",
 	"ui_settings_about" : "關於",
-	
+
 	"ui_settings_no_devices" : "未找到設備",
 	"ui_settings_skin_white" : "亮色",
 	"ui_settings_skin_dark" : "暗色",
@@ -208,17 +211,20 @@
 	"ui_settings_advanced_reset_config_modal_header" : "確定重置",
 	"ui_settings_advanced_reset_config_modal_body" : "所有設定將被移除且程式需要重新啟動。",
 	"ui_settings_video_audio_label" : "音訊輸出:",
-	
+
 	"ui_settings_copyright" : "保留所有權利",
 	"ui_settings_thirdparty" : "第三方許可",
-	
+
 	"ui_settings_highpriority_warning_header" : "高優先度模式資訊",
 	"ui_settings_highpriority_warning" : "高優先度模式可以以'windows服務'提升程式啟動速度，但如果發生問題請嘗取消此模式以換取較慢但更穩定的體驗。",
+
 	
 	"ui_welcome_preferred_language" : "選擇語言:",
 	"ui_welcome_header" : "歡迎使用 Wallpaper Engine",
 	"ui_welcome_intro" : "這是一個幫助您開始使用本程式的簡短介紹，設定適合您的幾項重要配置。<br/><br/>其中所有的選項都能在稍後進行重新設定。",
 	"ui_welcome_quality_body" : "選擇一個適合您電腦的圖形品質 (如果選取的桌面背景支持).以後您也可以在設定中重新選擇:",
+
+	
 	"ui_welcome_quality_column_header" : "畫質",
 	"ui_welcome_quality_description_header" : "簡介:",
 	"ui_welcome_quality_fps_limit" : "畫面更新率 (FPS) 限制:",
@@ -230,6 +236,7 @@
 	"ui_welcome_autostart_description" : "讓 Wallpaper Engine 隨 Windows 啟動:",
 	"ui_welcome_autostart_label" : "自動啟動:",
 	"ui_welcome_finish_body" : "所有項目均已設定完成！<br/><br/>Wallpaper Engine 已經在系統通知區域顯示。 <b>雙擊</b> 選擇一個桌面背景或 <b>右鍵單擊</b> 來進行設定，進入工作坊或者桌面背景編輯器。<div style='height:20px'></div>",
+
 	"ui_welcome_browse_wallpapers_now" : "現在瀏覽桌面背景",
 	"ui_welcome_button_first_page" : "開始吧",
 	"ui_welcome_button_next_page" : "下一步",
@@ -308,6 +315,7 @@
 	"ui_editor_publish_modal_publish_successful" : "專案發布成功。",
 	"ui_editor_publish_modal_publish_prompt_agreement" : "在你上傳桌面背景前你必須同意 Steam 工作坊用戶協議才能使其他用戶看見你的作品。現在在 Steam 工作坊瀏覽你的作品:",
 
+	
 	"ui_editor_workshop_options_title" : "標題",
 	"ui_editor_workshop_options_description" : "簡介",
 	"ui_editor_workshop_options_tags" : "標籤",
@@ -360,21 +368,24 @@
 
 	"ui_editor_help_tutorial_group_advanced_scene" : "場景桌面背景",
 	"ui_editor_help_tutorial_item_scene_shaders" : "創建新陰影",
-	
+
 	"ui_editor_snapshot_instructions" : "1. 使用滑鼠框出一部分。\n2. 按 Enter鍵 來拍攝一張截圖。\n\n按 空格鍵 暫停。\n按 Esc鍵 取消。",
+
 	
 	"ui_editor_workshop_rules_modal_title" : "工作坊規定",
 	"ui_editor_workshop_rules_modal_body" : "上傳您的壁紙到工作坊之前，請確保他不違反Steam的服務條款，否則將會被移除",
 	"ui_editor_workshop_rules_modal_list_header" : "特別是壁紙預覽圖片及說明根據規定不得包含以下：",
+
+
 	"ui_editor_workshop_rules_modal_rule_nudity" : "色情內容或裸體",
 	"ui_editor_workshop_rules_modal_rule_offensive" : "攻擊性內容、暴力/血腥",
 	"ui_editor_workshop_rules_modal_rule_copyright" : "侵犯版權",
 	"ui_editor_workshop_rules_modal_rule_ads" : "廣告",
 	"ui_editor_workshop_rules_modal_rule_misleading" : "誤導預覽",
-	
+
 	"ui_editor_workshop_tags_limit" : "最多只能選三個標籤",
 	"ui_editor_workshop_tags_placeholder": "新增標籤",
-	
+
 	"ui_workshop_tags_abstract" : "抽象",
 	"ui_workshop_tags_animal" : "動物",
 	"ui_workshop_tags_anime" : "動漫",
@@ -395,6 +406,6 @@
 	"ui_workshop_tags_sci_fi" : "科幻",
 	"ui_workshop_tags_technology" : "技術",
 	"ui_workshop_tags_television" : "電視節目",
-	"ui_workshop_tags_vehicle" : "車輛"
+	"ui_workshop_tags_vehicle" : "車輛",
 	"ui_workshop_tags_unspecified" : "未分類"
 }
