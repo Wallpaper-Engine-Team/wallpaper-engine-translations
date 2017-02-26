@@ -69,6 +69,6 @@
 	"core_updater_status_compat_message_box_body_item_update" : "{{name}}: ปรุบปรุงไปยังรุ่น {{version}}",
 	"core_updater_status_complete" : "การติดตั้งเสร็จสมบูรณ์",
 	"core_updater_status_complete_errors" : "การติดตั้งเสร็จสมบูรณ์มีข้อผิดพลาด",
-	"core_updater_status_complete_starting" : "กำลังเริ่มต้น Wallpaper Engine..."
-	"core_updater_status_cancelled" : "การดำเนินการถูกยกเลิกโดยผู้ใช้"
+	"core_updater_status_complete_starting" : "กำลังเริ่มต้น Wallpaper Engine...",
+	"core_updater_status_cancelled" : "การดำเนินการถูกยกเลิกโดนผู้ใช้"
 }
