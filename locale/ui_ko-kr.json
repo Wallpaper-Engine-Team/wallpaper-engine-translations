@@ -215,7 +215,7 @@
 	"ui_welcome_quality_column_header" : "품질",
 	"ui_welcome_quality_description_header" : "설명:",
 	"ui_welcome_quality_fps_limit" : "초당 프레임 수 제한:",
-	"ui_welcome_quality_anti_aliasing" : "안티 얼라이징:",
+	"ui_welcome_quality_anti_aliasing" : "안티 얼레이징:",
 	"ui_welcome_quality_bloom" : "Bloom 효과:",
 	"ui_welcome_quality_reflections" : "반사:",
 	"ui_welcome_windows_color_description" : "배경화면이 알아서 윈도우 경계선 색깔을 변경하게 합니다:",
