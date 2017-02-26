@@ -39,7 +39,7 @@
 	"core_updater_headline_update_complete" : "Zakończono aktualizację do wersji {{version}}. Uruchamianie Wallpaper Engine...",
 	"core_updater_status_init" : "Przygotowywanie instalacji...",
 	"core_updater_status_closing_processes" : "Zamykanie procesów...",
-	"core_updater_status_closing_processes_error" : "Wyszukiwanie aktywnych procesów nie powiodło się,
+	"core_updater_status_closing_processes_error" : "Wyszukiwanie aktywnych procesów nie powiodło się",
 	"core_updater_status_closing_processes_wait_quit" : "Zamykanie Wallpaper Engine",
 	"core_updater_status_closing_processes_wait_quit_terminate" : "Zamykanie {{program}}",
 	"core_updater_status_closing_processes_wait_quit_terminate_error" : "Zamykanie {{program}} nie powiodło się",
