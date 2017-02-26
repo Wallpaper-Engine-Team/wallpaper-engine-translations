@@ -119,8 +119,8 @@
 	"ui_browse_playlist_modal_settings_update_on_pause" : "일시정지된 동안 배경화면이 바뀔 수 있게 하기",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "바탕화면 전환 효과 보이기",
 	
-	"ui_browse_list_source_title" : "검색된:",
-	"ui_browse_list_source_installed" : "설치된",
+	"ui_browse_list_source_title" : "살펴보기:",
+	"ui_browse_list_source_installed" : "설치됨",
 	"ui_browse_list_source_workshop" : "창작마당",
 	
 	"ui_browse_modal_no_steam_title" : "스팀 오류",
