@@ -382,7 +382,7 @@
 	"ui_editor_workshop_tags_limit" : "อนุญาตเพียง 3 แท็กเท่านั้น",
 	"ui_editor_workshop_tags_placeholder": "เพิ่มแท็ก",
 
-	"ui_workshop_tags_abstract" : "Abstract",
+	"ui_workshop_tags_abstract" : "นามธรรม",
 	"ui_workshop_tags_animal" : "สัตว์",
 	"ui_workshop_tags_anime" : "อะนิเมะ",
 	"ui_workshop_tags_cartoon" : "การ์ตูน",
@@ -403,7 +403,7 @@
 	"ui_workshop_tags_technology" : "เทคโนโลยี",
 	"ui_workshop_tags_television" : "รายการโทรทัศน์",
 	"ui_workshop_tags_vehicle" : "ยานพาหนะ",
-	"ui_workshop_tags_unspecified" : "ไม่ได้ระบุ"
+	"ui_workshop_tags_unspecified" : "ไม่ได้ระบุ",
 	
 	"ui_editor_scene_options_bloom" : "บูม",
 	"ui_editor_scene_options_bloom_strength" : "Strength",
