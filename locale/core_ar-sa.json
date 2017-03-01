@@ -1,6 +1,6 @@
 {
 	"core_tray_change_wallpaper" : "تغيير الخلفية",
-	"core_tray_browse_workshop" : "Workshop تصفح",
+	"core_tray_browse_workshop" : "تصفح المعمل",
 	"core_tray_create_wallpaper" : "اصنع خلفية",
 	"core_tray_settings" : "الاعدادات",
 	"core_tray_take_screenshot" : "خذ لقطة شاشة",
@@ -28,7 +28,7 @@
 	"core_msgbox_aero_denied" : "محرك الخلفيات لا يستطيع العمل بدون ايرو سيتم اغلاق البرنامج الان",
 	"core_msgbox_aero_failure" : "فشل في تشغيل ايرو محرك الخلفيات سيغلق الان",
 	"core_msgbox_aero_failure_no_support" : "فشل في تشغيل ايرو يبدو انك تستخدم نسخة غير متوافقة من ويندوز 7 و التي لا تقابل الحد الادنى من المتطلبات محرك الخلفيات سيغلق الان",
-	"core_msgbox_init_secondinstance_ask_quit" : "يبدو ان محرك الخلفيات يعمل لكن لا يستجيب\n\nDo هل تريد اعادة تشغيله بالقوة ؟",
+	"core_msgbox_init_secondinstance_ask_quit" : "يبدو ان محرك الخلفيات يعمل لكن لا يستجيب\n\nهل تريد اعادة تشغيله بالقوة ؟",
 	"core_msgbox_init_secondinstance_failed" : ":فشل اعادة التشغيل, خطأ رقم",
 	"core_msgbox_below_win_7" : "محرك الخلفيات يحتاج ويندوز 7 او اعلى كما هو مكتوب في صفحة المتطلبات في ستيم.\n\nيبدو انك تستخدم نسخة غير مدعومة من ويندوز و محرك الخلفيات قد لا يعمل",
 	"core_msgbox_media_feature_pack_missing" : "mfplat.dll مفقود!\nMedia Feature Pack Windows 10/8.1/7 من مايكروسوفت لتشغيل ميزة دعم الفيديو ابحث عن Media Feature Pack الرجاء تثبيت N قد يكون لديك ويندوز",
