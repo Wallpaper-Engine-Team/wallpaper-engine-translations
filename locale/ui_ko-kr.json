@@ -1,5 +1,5 @@
-{
-	"ui_caption_browse" : "배경화면 검색",
+{	
+	"ui_caption_browse" : "배경화면 탐색",
 	"ui_caption_settings" : "설정",
 	"ui_caption_editor" : "배경화면 에디터",
 	
@@ -223,7 +223,7 @@
 	"ui_welcome_autostart_description" : "Wallpaper Engine을 윈도우와 함께 실행합니다:",
 	"ui_welcome_autostart_label" : "자동 실행:",
 	"ui_welcome_finish_body" : "전부 설정하셨습니다!<br/><br/>Wallpaper Engine은 이제 시스템 트레이에서 사용가능합니다. 배경화면을 선택하기 위해<b>두번 클릭</b> 혹은 <b>오른쪽 클릭</b> 을 통해 설정에서 Steam 창작마당이나 배경화면 에디터를 사용하시길 바랍니다.<div style='height:20px'></div>",
-	"ui_welcome_browse_wallpapers_now" : "지금 배경화면 검색",
+	"ui_welcome_browse_wallpapers_now" : "지금 배경화면 탐색",
 	"ui_welcome_button_first_page" : "출발!",
 	"ui_welcome_button_next_page" : "다음",
 	"ui_welcome_button_last_page" : "전부 완료",
