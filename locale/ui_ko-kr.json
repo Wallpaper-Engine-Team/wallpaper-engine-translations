@@ -22,7 +22,7 @@
 	"ui_browse_filter_source" : "출처",
 	"ui_browse_filter_tags" : "태그",
 	"ui_browse_grid_no_results" : "조건에 맞는 배경화면이 없습니다.",
-	"ui_browse_grid_no_results_refreshing" : "스팀 반응 대기중...",
+	"ui_browse_grid_no_results_refreshing" : "스팀 응답 대기중...",
 	"ui_browse_status_error" : "오류",
 	"ui_browse_select_prompt" : "배경화면을 선택해주세요.",
 	"ui_browse_steam_status_unavailable" : "Steam을 사용할 수 없습니다.",
