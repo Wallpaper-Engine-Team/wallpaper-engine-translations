@@ -20,6 +20,7 @@
 	"ui_browse_sort_by" : "Sort by",
 	"ui_browse_filter_type" : "Type",
 	"ui_browse_filter_source" : "Source",
+	"ui_browse_filter_resolution" : "Resolution",
 	"ui_browse_filter_tags" : "Tags",
 	"ui_browse_grid_no_results" : "No wallpapers matching your criteria",
 	"ui_browse_grid_no_results_refreshing" : "Waiting for Steam to respond...",
@@ -92,6 +93,11 @@
 	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>Volume",
 	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>Audio disabled in settings",
 	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>Audio recording",
+	"ui_browse_properties_alignment" : "<span class='fa fa-image propertyIcon'></span>Alignment",
+	"ui_browse_properties_alignment_cover" : "Cover",
+	"ui_browse_properties_alignment_center" : "Center",
+	"ui_browse_properties_alignment_stretch" : "Stretch",
+	"ui_browse_properties_alignment_position" : "<span class='fa fa-arrows-h propertyIcon'></span>Position",
 	
 	"ui_browse_playlist_header" : "Playlist",
 	"ui_browse_playlist_modal_open_header" : "Open Playlist",
@@ -204,6 +210,10 @@
 	"ui_settings_advanced_reset_config_modal_header" : "Confirm Reset",
 	"ui_settings_advanced_reset_config_modal_body" : "All your settings will be removed and the application needs to restart.",
 	"ui_settings_video_audio_label" : "Video audio output:",
+	"ui_settings_video_hardware_acceleration_label" : "Video hardware acceleration",
+	"ui_settings_process_priority" : "Process priority",
+	"ui_settings_process_priority_normal" : "Normal",
+	"ui_settings_process_priority_below_normal" : "Below normal",
 	
 	"ui_settings_copyright" : "All rights reserved.",
 	"ui_settings_thirdparty" : "Thirdparty notices",
@@ -259,8 +269,9 @@
 	"ui_editor_filemenu_show_in_workshop" : "Show in Workshop",
 	"ui_editor_filemenu_prepare_for_publishing" : "Prepare for publishing",
 
-	"ui_editor_treeview_header_scene" : "Scene graph",
 	"ui_editor_treeview_header_files" : "Imported Files",
+	"ui_editor_tooltip_layers" : "Layers",
+	"ui_editor_tooltip_scene_options" : "Scene options",
 
 	"ui_editor_camera_add_path" : "Add path",
 	"ui_editor_camera_select_path" : "Please select a path on the left.",
@@ -329,7 +340,7 @@
 	"ui_editor_project_settings_modal_scheme_color" : "Scheme color",
 	"ui_editor_project_settings_modal_scene" : "Scene",
 	"ui_editor_project_settings_modal_bloom" : "Bloom",
-	"ui_editor_project_settings_modal_clear_color" : "Clear color",
+	"ui_editor_project_settings_modal_clear_color" : "Background color",
 	"ui_editor_project_settings_modal_ambient_color" : "Ambient color",
 	"ui_editor_project_settings_modal_skylight_color" : "Skylight color",
 	
@@ -392,5 +403,19 @@
 	"ui_workshop_tags_technology" : "Technology",
 	"ui_workshop_tags_television" : "Television",
 	"ui_workshop_tags_vehicle" : "Vehicle",
-	"ui_workshop_tags_unspecified" : "Unspecified"
+	"ui_workshop_tags_unspecified" : "Unspecified genre",
+	
+	"ui_editor_scene_options_bloom" : "Bloom",
+	"ui_editor_scene_options_bloom_strength" : "Strength",
+	"ui_editor_scene_options_bloom_threshold" : "Threshold",
+	"ui_editor_scene_options_background_color" : "Background color",
+	"ui_editor_scene_options_camera_preview" : "Camera preview",
+	"ui_editor_scene_options_camera_shake" : "Camera shake",
+	"ui_editor_scene_options_camera_shake_speed" : "Speed",
+	"ui_editor_scene_options_camera_shake_amplitude" : "Amplitude",
+	"ui_editor_scene_options_camera_shake_roughness" : "Roughness",
+	"ui_editor_scene_options_camera_parallax" : "Camera parallax",
+	"ui_editor_scene_options_camera_parallax_amount" : "Amount",
+	"ui_editor_scene_options_camera_parallax_delay" : "Delay",
+	"ui_editor_scene_options_camera_mouse_influence" : "Mouse influence"
 }
