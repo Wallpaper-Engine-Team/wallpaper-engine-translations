@@ -125,8 +125,8 @@
 	"ui_browse_playlist_modal_settings_update_on_pause" : "السماح للخلفية بالتغيير اثناء توقفها",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "اظهر انتقال الخلفية",
 	
-	"ui_browse_list_source_title" : ":تصفح",
-	"ui_browse_list_source_installed" : "مثبت",
+	"ui_browse_list_source_title" : "تصفح:",
+	"ui_browse_list_source_installed" : "المثبت",
 	"ui_browse_list_source_workshop" : "المعمل",
 	
 	"ui_browse_modal_no_steam_title" : "خطأ في ستيم",
