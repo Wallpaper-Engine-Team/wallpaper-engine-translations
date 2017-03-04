@@ -96,7 +96,7 @@
 	"ui_browse_properties_alignment" : "<span class='fa fa-image propertyIcon'></span>Alinhamento",
 	"ui_browse_properties_alignment_cover" : "Cobrir",
 	"ui_browse_properties_alignment_center" : "Centralizar",
-	"ui_browse_properties_alignment_stretch" : "Esticcar",
+	"ui_browse_properties_alignment_stretch" : "Esticar",
 	"ui_browse_properties_alignment_position" : "<span class='fa fa-arrows-h propertyIcon'></span>Posição",
 
 	"ui_browse_playlist_header" : "Reprodução",
