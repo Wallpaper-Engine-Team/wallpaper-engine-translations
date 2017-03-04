@@ -412,7 +412,7 @@
 	"ui_editor_scene_options_camera_shake" : "มุมองสั่น",
 	"ui_editor_scene_options_camera_shake_speed" : "ความเร็ว",
 	"ui_editor_scene_options_camera_shake_amplitude" : "ความกว้าง",
-	"ui_editor_scene_options_camera_shake_roughness" : "ความหบาย",
+	"ui_editor_scene_options_camera_shake_roughness" : "ความหยาบ",
 	"ui_editor_scene_options_camera_parallax" : "มุม parallax",
 	"ui_editor_scene_options_camera_parallax_amount" : "จำนวน",
 	"ui_editor_scene_options_camera_parallax_delay" : "ดีเลย์",
