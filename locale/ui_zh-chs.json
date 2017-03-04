@@ -2,13 +2,13 @@
 	"ui_caption_browse" : "浏览壁纸",
 	"ui_caption_settings" : "设置",
 	"ui_caption_editor" : "壁纸编辑器",
-	
+
 	"ui_ok" : "确认",
 	"ui_cancel" : "取消",
 	"ui_back" : "返回",
 	"ui_close" : "关闭",
 	"ui_retry" : "重试",
-	
+
 	"ui_modal_updaterequired_title" : "Wallpaper Engine 需要更新",
 	"ui_modal_updaterequired_body" : "请关闭 Wallpaper Engine (右键单击通知区域图标选择退出) 然后通过 Steam 重新启动来获取最新的更新。 如果此警告仍然出现， 请通过 Steam 		验证应用程序的完整性。<br/><br/>程序版本: <b>{{callerVersion}}</b>, UI 版本: <b>{{appVersion}}</b>",
 	"ui_modal_updateavailable_title" : "新的更新可用",
@@ -20,6 +20,7 @@
 	"ui_browse_sort_by" : "排序方式",
 	"ui_browse_filter_type" : "类型",
 	"ui_browse_filter_source" : "来源",
+	"ui_browse_filter_resolution" : "分辨率",
 	"ui_browse_filter_tags" : "标签",
 	"ui_browse_grid_no_results" : "没有符合您标准的壁纸",
 	"ui_browse_grid_no_results_refreshing" : "等待Steam响应...",
@@ -29,7 +30,7 @@
 	"ui_browse_steam_status_unavailable_cache" : "Steam 不可用。<br/>从缓存中载入 {{count}} 个壁纸。",
 	"ui_browse_steam_status_pending" : "正在等待 Steam 响应...",
 	"ui_browse_steam_status_complete" : "Steam 更新完成。<br/>向缓存中写入了 {{count}} 个壁纸。",
-	
+
 	"ui_browse_details_title" : "标题:",
 	"ui_browse_details_author" : "创作者:",
 	"ui_browse_details_type" : "类型:",
@@ -44,12 +45,12 @@
 	"ui_browse_details_properties_nothing_imported" : "未导入任何文件",
 	"ui_browse_details_properties_select_directory" : "选择文件夹",
 	"ui_browse_details_properties_select_file" : "选择文件",
-	
+
 	"ui_browse_footer_btn_workshop" : "Steam创意工坊",
 	"ui_browse_footer_btn_store" : "Steam商店",
 	"ui_browse_footer_btn_open_from_file" : "从文件中打开",
 	"ui_browse_footer_btn_open_from_url" : "从网页中打开",
-	
+
 	"ui_browse_monitors_choose_monitor" : "选定显示器",
 	"ui_browse_monitors_layout" : "布局",
 	"ui_browse_monitors_monitors" : "显示器",
@@ -57,14 +58,14 @@
 	"ui_browse_monitors_remove_wallpaper" : "移除壁纸",
 	"ui_browse_monitors_layout_per_monitor" : "每个显示器设置独立壁纸",
 	"ui_browse_monitors_layout_fit" : "拉伸单个壁纸并横跨所有桌面",
-	
+
 	"ui_browse_sort_name" : "名称",
 	"ui_browse_sort_rating" : "评分",
 	"ui_browse_sort_favorite" : "最喜欢",
 	"ui_browse_sort_filesize" : "文件大小",
 	"ui_browse_sort_subscription_date" : "安装日期",
 	"ui_browse_sort_last_updated" : "最近更新",
-	
+
 	"ui_browse_search_placeholder" : "搜索",
 	"ui_browse_filter_type_any" : "所有",
 	"ui_browse_filter_type_scene" : "场景",
@@ -76,7 +77,7 @@
 	"ui_browse_filter_source_workshop" : "创意工坊",
 	"ui_browse_filter_source_my_wallpapers" : "我的壁纸",
 	"ui_browse_filter_parse_title" : "过滤标题",
-	
+
 	"ui_browse_modal_application_warning_header" : "正在打开未知应用程序",
 	"ui_browse_modal_application_warning_body" : "您正在使用一个未知的外部应用程序作为壁纸使用: <br/><b>{{filepath}}</b><br/>Wallpaper Engine 不会对这个应用程序加以限制, 您必须在选定这个程序前确认它是安全可信的。<br/><br/> <b>可能会损害您的电脑！！！</b>",
 	"ui_browse_modal_application_warning_timer" : "<br/><br/>请等待 {{time}} 秒",
@@ -92,12 +93,17 @@
 	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>音量",
 	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>在设置中禁用音频",
 	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>录音",
-	
+	"ui_browse_properties_alignment" : "<span class='fa fa-image propertyIcon'></span>队列",
+	"ui_browse_properties_alignment_cover" : "填充",
+	"ui_browse_properties_alignment_center" : "居中",
+	"ui_browse_properties_alignment_stretch" : "拉伸",
+	"ui_browse_properties_alignment_position" : "<span class='fa fa-arrows-h propertyIcon'></span>位置",
+
 	"ui_browse_playlist_header" : "播放列表",
 	"ui_browse_playlist_modal_open_header" : "打开播放列表",
 	"ui_browse_playlist_modal_open_delete" : "删除",
 	"ui_browse_playlist_modal_save_header" : "保存播放列表",
-	"ui_browse_playlist_modal_save_name" : "列表名", 
+	"ui_browse_playlist_modal_save_name" : "列表名",
 	"ui_browse_playlist_modal_save_description" : "如果已存在相同名称的播放列表，则将被覆盖。",
 	"ui_browse_playlist_modal_empty" : "找不到播放列表",
 	"ui_browse_playlist_modal_settings_header" : "播放列表设置",
@@ -118,15 +124,15 @@
 	"ui_browse_playlist_modal_settings_video_sequence" : "在视频结束时更改壁纸",
 	"ui_browse_playlist_modal_settings_update_on_pause" : "允许墙纸在更改时暂停",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "显示壁纸过渡",
-	
+
 	"ui_browse_list_source_title" : "浏览:",
 	"ui_browse_list_source_installed" : "已安装",
 	"ui_browse_list_source_workshop" : "创意工坊",
-	
+
 	"ui_browse_modal_no_steam_title" : "Steam 错误",
 	"ui_browse_modal_no_steam_body" : "创意工坊无法初始化，如果重新启动Steam和Wallpaper Engine后，还能继续看到这个错误，这意味着您的电脑无法与Steam服务器认证正确，检查你的互联网连接和你是否记录进入正确的Steam帐户，Steam服务器也可能暂时无法访问。",
 	"ui_browse_query_error" : "发生STEAM错误: ",
-	
+
 	"ui_browse_query_sort_by_votes" : "评分最高",
 	"ui_browse_query_sort_by_date" : "最近",
 	"ui_browse_query_sort_by_trend_today" : "最热门 (今天)",
@@ -179,7 +185,7 @@
 	"ui_settings_advanced_video_loop" : "视频循环:",
 	"ui_settings_advanced_log_level" : "日志记录:",
 	"ui_settings_about" : "关于",
-	
+
 	"ui_settings_no_devices" : "未找到设备",
 	"ui_settings_skin_white" : "亮色",
 	"ui_settings_skin_dark" : "暗色",
@@ -204,13 +210,17 @@
 	"ui_settings_advanced_reset_config_modal_header" : "确认重置",
 	"ui_settings_advanced_reset_config_modal_body" : "所有设置将被删除，应用程序将重启",
 	"ui_settings_video_audio_label" : "视频音频输出",
-	
+	"ui_settings_video_hardware_acceleration_label" : "硬件视频加速",
+	"ui_settings_process_priority" : "进程优先级",
+	"ui_settings_process_priority_normal" : "正常",
+	"ui_settings_process_priority_below_normal" : "低于正常",
+
 	"ui_settings_copyright" : "保留所有权利",
 	"ui_settings_thirdparty" : "第三方许可",
-	
+
 	"ui_settings_highpriority_warning_header" : "高优先级信息",
 	"ui_settings_highpriority_warning" : "高优先级模式使用'Windows服务'将更快地启动应用程序。但是如果您遇到这个解决方案有问题,尝试没有高优先级，这会更可靠，但更慢。",
-	
+
 	"ui_welcome_preferred_language" : "选择语言:",
 	"ui_welcome_header" : "欢迎使用 Wallpaper Engine",
 	"ui_welcome_intro" : "这是一个帮助您开始使用本程序的简短介绍，设置适合您的几项重要配置。<br/><br/>其中所有的选项都能在稍后进行重新设置。",
@@ -259,8 +269,9 @@
 	"ui_editor_filemenu_show_in_workshop" : "在创意工坊中显示",
 	"ui_editor_filemenu_prepare_for_publishing" : "准备发布",
 
-	"ui_editor_treeview_header_scene" : "场景图",
-	"ui_editor_treeview_header_files" : "已载入的文件",
+	"ui_editor_treeview_header_files" : "已导入的文件",
+	"ui_editor_tooltip_layers" : "图层",
+	"ui_editor_tooltip_scene_options" : "场景设置",
 
 	"ui_editor_camera_add_path" : "添加路径",
 	"ui_editor_camera_select_path" : "请在左侧选择一个路径",
@@ -356,9 +367,9 @@
 
 	"ui_editor_help_tutorial_group_advanced_scene" : "场景壁纸",
 	"ui_editor_help_tutorial_item_scene_shaders" : "创建新阴影",
-	
+
 	"ui_editor_snapshot_instructions" : "1. 使用鼠标框出一部分。\n2. 按'回车'键来拍摄一张截图。\n\n按'空格'键暂停。\n按'Esc'键取消。",
-	
+
 	"ui_editor_workshop_rules_modal_title" : "创意工坊规则",
 	"ui_editor_workshop_rules_modal_body" : "提交您的创意工坊壁纸之前，请确保它不违反Steam服务条款，否则将被删除:",
 	"ui_editor_workshop_rules_modal_list_header" : "特别是壁纸,预览图，请遵守以下规则及说明:",
@@ -367,7 +378,10 @@
 	"ui_editor_workshop_rules_modal_rule_copyright" : "没有侵犯版权",
 	"ui_editor_workshop_rules_modal_rule_ads" : "没有广告",
 	"ui_editor_workshop_rules_modal_rule_misleading" : "没有误导的预览图",
-	
+
+	"ui_editor_workshop_tags_limit" : "只允许3个标签",
+	"ui_editor_workshop_tags_placeholder": "添加一个标签",
+
 	"ui_workshop_tags_abstract" : "抽象",
 	"ui_workshop_tags_animal" : "动物",
 	"ui_workshop_tags_anime" : "动漫",
@@ -378,7 +392,7 @@
 	"ui_workshop_tags_game" : "游戏",
 	"ui_workshop_tags_landscape" : "风景",
 	"ui_workshop_tags_medieval" : "中世纪",
-	"ui_workshop_tags_mmd" : "",
+	"ui_workshop_tags_mmd" : "MMD",
 	"ui_workshop_tags_multi_monitor_optimized" : "多显示器优化",
 	"ui_workshop_tags_music" : "音乐",
 	"ui_workshop_tags_nature" : "自然",
@@ -389,5 +403,19 @@
 	"ui_workshop_tags_technology" : "科技",
 	"ui_workshop_tags_television" : "电视节目",
 	"ui_workshop_tags_vehicle" : "汽车",
-	"ui_workshop_tags_unspecified" : "未设置标签"
+	"ui_workshop_tags_unspecified" : "未设置标签",
+
+	"ui_editor_scene_options_bloom" : "发光",
+	"ui_editor_scene_options_bloom_strength" : "强度",
+	"ui_editor_scene_options_bloom_threshold" : "临界值",
+	"ui_editor_scene_options_background_color" : "背景颜色",
+	"ui_editor_scene_options_camera_preview" : "镜头预览",
+	"ui_editor_scene_options_camera_shake" : "镜头抖动",
+	"ui_editor_scene_options_camera_shake_speed" : "速度",
+	"ui_editor_scene_options_camera_shake_amplitude" : "幅度",
+	"ui_editor_scene_options_camera_shake_roughness" : "剧烈程度",
+	"ui_editor_scene_options_camera_parallax" : "镜头视差",
+	"ui_editor_scene_options_camera_parallax_amount" : "数量",
+	"ui_editor_scene_options_camera_parallax_delay" : "延迟",
+	"ui_editor_scene_options_camera_mouse_influence" : "鼠标影响"
 }
