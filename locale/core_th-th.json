@@ -9,7 +9,7 @@
 	"core_tray_recent_wallpapers" : "วอลล์เปเปอร์ล่าสุด",
 	"core_tray_quit" : "ออกจากโปรแกรม",
 	"core_tray_faq" : "สนับสนุน && คำถามที่พบบ่อย",
-	"core_tray_recent_wallpapers_clear" : "ลบรายการ",
+	"core_tray_recent_wallpapers_clear" : "ล้างรายการ",
 	"core_tray_next_wallpaper" : "วอลล์เปเปอร์ถัดไป",
 	
 	"core_balloon_info" : "Wallpaper Engine ถูกย่อลงไปในแถบงาน. ดับเบิลคลิกไอคอนที่แถบงาน เพื่อเลือกวอลล์เปเปอร์",
@@ -37,13 +37,16 @@
 	"core_updater_headline_update" : "กำลังปรับปรุง Wallpaper Engine ไปยังรุ่น {{version}}...",
 	"core_updater_headline_init_complete" : "การติดตั้งรุ่น {{version}} เสร็จสมบูรณ์. กำลังเริ่มต้น Wallpaper Engine...",
 	"core_updater_headline_update_complete" : "ปรับปรุงไปยังรุ่น {{version}} เสร็จสมบูรณ์. กำลังเริ่มต้น Wallpaper Engine...",
+	"core_updater_headline_cancelled" : "การตั่งค่าถูกยกเลิก",
 	"core_updater_status_init" : "จัดเตรียมการติดตั้ง...",
 	"core_updater_status_closing_processes" : "กำลังปิดกระบวนการ...",
 	"core_updater_status_closing_processes_error" : "การค้นพบกระบวนการที่มีอยู่ล้มเหลว",
 	"core_updater_status_closing_processes_wait_quit" : "กำลังหยุด Wallpaper Engine",
 	"core_updater_status_closing_processes_wait_quit_terminate" : "กำลังปิด {{program}}",
 	"core_updater_status_closing_processes_wait_quit_terminate_error" : "ล้มเหลวในการปิด {{program}}",
-	"core_updater_status_distro" : "กำลังคัดลอกไฟล์...",
+	"core_updater_status_distro" : "กำลังแตกไฟล์...",
+	"core_updater_status_distro_prepare_error" : "เกิดข้อผิดพลาดขณะแสกนไดเรกทอรี {{error}}",
+	"core_updater_status_distro_copy_error" : "เกิดข้อผิดพลาดขณะคัดลอกไฟล์",
 	"core_updater_status_distro_missing" : "ไดเรกทอรีหายไป",
 	"core_updater_status_distro_file_path_error" : "ล้มเหลวในการแปลงเส้นทางไฟล์: {{error}}",
 	"core_updater_status_distro_file_directory" : "กำลังสร้างไดเรกทอรี: {{filepath}}",
@@ -56,7 +59,7 @@
 	"core_updater_status_verify_hash_failed" : "การตรวจสอบไฟล์ล้มเหลว: {{filepath}}",
 	"core_updater_status_verify_success" : "ไฟล์ที่ตรวจสอบแล้ว: {{filepath}}",
 	"core_updater_status_verify_failed_message_box_title" : "ข้อผิดพลาดการตรวจสอบไฟล์",
-	"core_updater_status_verify_failed_message_box_body" : "การตรวจสอบของแฟ้มต่อไปนี้ล้มเหลว. กรุณาตรวจสอบไฟล์บน Steam (คลิกขวา, คุณสมบัติ, ไฟล์ภายใน, ตรวจสอบความสมบูรณ์). นี่สามารถเกิดขึ้นได้เนื่องจากการดาวน์โหลดผิดพลาดใน Steam.\n\n{{filenames}}",
+	"core_updater_status_verify_failed_message_box_body" : "การตรวจสอบของแฟ้มต่อไปนี้ล้มเหลว. กรุณาตรวจสอบไฟล์บน Steam (คลิกขวา, คุณสมบัติ, ไฟล์ภายใน, ตรวจสอบความสมบูรณ์) นี่สามารถเกิดขึ้นได้เนื่องจากการดาวน์โหลดผิดพลาดใน Steam หรือโปรแกรมป้องกันไวรัสตรวจสอบไฟล์หรือก่อให้เกิดปัญหา หากคุณมีการป้องกันไวรัสที่ไม่ได้มาจากไมโครซอฟท์ให้แน่ใจว่าจะโปรแกรมเหล่านี้จะไม่ยุ่งเกี่ยว Steam และ Wallpaper Engine \n\n{{filenames}}",
 	"core_updater_status_compat" : "กำลังหาแอพพลิเคชันที่ทำงานร่วมกันไม่ได้...",
 	"core_updater_status_compat_error" : "ล้มเหลวในการสแกนกระบวนการ",
 	"core_updater_status_compat_found" : "พบกระบวนการที่เข้ากันไม่ได้: {{processname}}",
@@ -66,5 +69,6 @@
 	"core_updater_status_compat_message_box_body_item_update" : "{{name}}: ปรุบปรุงไปยังรุ่น {{version}}",
 	"core_updater_status_complete" : "การติดตั้งเสร็จสมบูรณ์",
 	"core_updater_status_complete_errors" : "การติดตั้งเสร็จสมบูรณ์มีข้อผิดพลาด",
-	"core_updater_status_complete_starting" : "กำลังเริ่มต้น Wallpaper Engine..."
+	"core_updater_status_complete_starting" : "กำลังเริ่มต้น Wallpaper Engine...",
+	"core_updater_status_cancelled" : "การดำเนินการถูกยกเลิกโดนผู้ใช้"
 }

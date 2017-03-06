@@ -20,6 +20,7 @@
 	"ui_browse_sort_by" : "Ordenar por",
 	"ui_browse_filter_type" : "Tipo",
 	"ui_browse_filter_source" : "Fonte",
+	"ui_browse_filter_resolution" : "Resolução",
 	"ui_browse_filter_tags" : "Marcadores",
 	"ui_browse_grid_no_results" : "Nenhum plano de fundo que corresponda aos critérios de busca foi encontrado",
 	"ui_browse_grid_no_results_refreshing" : "Aguardando resposta do Steam...",
@@ -92,7 +93,12 @@
 	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>Volume",
 	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>Áudio desativado nas configurações",
 	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>Gravação de áudio",
-	
+	"ui_browse_properties_alignment" : "<span class='fa fa-image propertyIcon'></span>Alinhamento",
+	"ui_browse_properties_alignment_cover" : "Cobrir",
+	"ui_browse_properties_alignment_center" : "Centralizar",
+	"ui_browse_properties_alignment_stretch" : "Esticar",
+	"ui_browse_properties_alignment_position" : "<span class='fa fa-arrows-h propertyIcon'></span>Posição",
+
 	"ui_browse_playlist_header" : "Reprodução",
 	"ui_browse_playlist_modal_open_header" : "Abrir lista de reprodução",
 	"ui_browse_playlist_modal_open_delete" : "Excluir",
@@ -204,7 +210,11 @@
 	"ui_settings_advanced_reset_config_modal_header" : "Confirmação",
 	"ui_settings_advanced_reset_config_modal_body" : "Todas as configurações serão removidas e o aplicativo precisará ser reiniciado.",
 	"ui_settings_video_audio_label" : "Saída de áudio de vídeo:",
-	
+	"ui_settings_video_hardware_acceleration_label" : "Aceleração de hardware de vídeo",
+	"ui_settings_process_priority" : "Prioridade do processo",
+	"ui_settings_process_priority_normal" : "Normal",
+	"ui_settings_process_priority_below_normal" : "Abaixo do normal",
+
 	"ui_settings_copyright" : "Todos os direitos reservados.",
 	"ui_settings_thirdparty" : "Avisos de terceiros",
 	
@@ -259,8 +269,9 @@
 	"ui_editor_filemenu_show_in_workshop" : "Exibir na Oficina",
 	"ui_editor_filemenu_prepare_for_publishing" : "Preparar para publicação",
 
-	"ui_editor_treeview_header_scene" : "Gráfico de cena",
 	"ui_editor_treeview_header_files" : "Arquivos importados",
+	"ui_editor_tooltip_layers" : "Camadas",
+	"ui_editor_tooltip_scene_options" : "Opções da cena",
 
 	"ui_editor_camera_add_path" : "Adiciona caminho",
 	"ui_editor_camera_select_path" : "Por favor, selecione um caminho à esquerda.",
@@ -329,7 +340,7 @@
 	"ui_editor_project_settings_modal_scheme_color" : "Esquema de cores",
 	"ui_editor_project_settings_modal_scene" : "Cena",
 	"ui_editor_project_settings_modal_bloom" : "Bloom",
-	"ui_editor_project_settings_modal_clear_color" : "Cor transparente",
+	"ui_editor_project_settings_modal_clear_color" : "Cor do plano de fundo",
 	"ui_editor_project_settings_modal_ambient_color" : "Cor ambiente",
 	"ui_editor_project_settings_modal_skylight_color" : "Cor da luz do sol",
 	
@@ -392,5 +403,19 @@
 	"ui_workshop_tags_technology" : "Tecnologia",
 	"ui_workshop_tags_television" : "Televisão",
 	"ui_workshop_tags_vehicle" : "Veículo",
-	"ui_workshop_tags_unspecified" : "Não especificado"
+	"ui_workshop_tags_unspecified" : "Gênero não especificado",
+	
+	"ui_editor_scene_options_bloom" : "Bloom",
+	"ui_editor_scene_options_bloom_strength" : "Força",
+	"ui_editor_scene_options_bloom_threshold" : "Limite",
+	"ui_editor_scene_options_background_color" : "Cor do plano de fundo",
+	"ui_editor_scene_options_camera_preview" : "Pré-visualização da câmera",
+	"ui_editor_scene_options_camera_shake" : "Agitação da câmera",
+	"ui_editor_scene_options_camera_shake_speed" : "Velocidade",
+	"ui_editor_scene_options_camera_shake_amplitude" : "Amplitude",
+	"ui_editor_scene_options_camera_shake_roughness" : "Instabilidade",
+	"ui_editor_scene_options_camera_parallax" : "Paralaxe da câmera",
+	"ui_editor_scene_options_camera_parallax_amount" : "Quantidade",
+	"ui_editor_scene_options_camera_parallax_delay" : "Demora",
+	"ui_editor_scene_options_camera_mouse_influence" : "Influência do mouse"
 }
