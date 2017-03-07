@@ -20,6 +20,7 @@
 	"ui_browse_sort_by" : "排序方式",
 	"ui_browse_filter_type" : "类型",
 	"ui_browse_filter_source" : "来源",
+	"ui_browse_filter_resolution" : "分辨率",
 	"ui_browse_filter_tags" : "标签",
 	"ui_browse_grid_no_results" : "没有符合您标准的壁纸",
 	"ui_browse_grid_no_results_refreshing" : "等待Steam响应...",
@@ -92,6 +93,11 @@
 	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>音量",
 	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>在设置中禁用音频",
 	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>录音",
+	"ui_browse_properties_alignment" : "<span class='fa fa-image propertyIcon'></span>队列",
+	"ui_browse_properties_alignment_cover" : "填充",
+	"ui_browse_properties_alignment_center" : "居中",
+	"ui_browse_properties_alignment_stretch" : "拉伸",
+	"ui_browse_properties_alignment_position" : "<span class='fa fa-arrows-h propertyIcon'></span>位置",
 	
 	"ui_browse_playlist_header" : "播放列表",
 	"ui_browse_playlist_modal_open_header" : "打开播放列表",
@@ -190,8 +196,7 @@
 	"ui_settings_playback_pause_per_monitor" : "暂停单个屏幕",
 	"ui_settings_playback_pause_all" : "暂停所有",
 	"ui_settings_playback_pause" : "暂停",
-	"ui_settings_playback_stop" : "停止 (减少内存占用)",
-	"ui_settings_read_from_disk" : "缓存在磁盘中",
+	"ui_settings_playback_stop" : "停止 (减少内存占用)",	"ui_settings_read_from_disk" : "缓存在磁盘中",
 	"ui_settings_read_from_memory" : "缓存在内存中",
 	"ui_settings_loop_default" : "默认",
 	"ui_settings_loop_sync_clock" : "时钟同步",
@@ -204,6 +209,10 @@
 	"ui_settings_advanced_reset_config_modal_header" : "确认重置",
 	"ui_settings_advanced_reset_config_modal_body" : "所有设置将被删除，应用程序将重启",
 	"ui_settings_video_audio_label" : "视频音频输出",
+	"ui_settings_video_hardware_acceleration_label" : "硬件视频加速",
+	"ui_settings_process_priority" : "进程优先级",
+	"ui_settings_process_priority_normal" : "正常",
+	"ui_settings_process_priority_below_normal" : "低于正常",
 	
 	"ui_settings_copyright" : "保留所有权利",
 	"ui_settings_thirdparty" : "第三方许可",
@@ -259,8 +268,9 @@
 	"ui_editor_filemenu_show_in_workshop" : "在创意工坊中显示",
 	"ui_editor_filemenu_prepare_for_publishing" : "准备发布",
 
-	"ui_editor_treeview_header_scene" : "场景图",
-	"ui_editor_treeview_header_files" : "已载入的文件",
+	"ui_editor_treeview_header_files" : "已导入的文件",
+	"ui_editor_tooltip_layers" : "图层",
+	"ui_editor_tooltip_scene_options" : "场景设置",
 
 	"ui_editor_camera_add_path" : "添加路径",
 	"ui_editor_camera_select_path" : "请在左侧选择一个路径",
@@ -368,6 +378,9 @@
 	"ui_editor_workshop_rules_modal_rule_ads" : "没有广告",
 	"ui_editor_workshop_rules_modal_rule_misleading" : "没有误导的预览图",
 	
+	"ui_editor_workshop_tags_limit" : "只允许3个标签",
+	"ui_editor_workshop_tags_placeholder": "添加一个标签",
+	
 	"ui_workshop_tags_abstract" : "抽象",
 	"ui_workshop_tags_animal" : "动物",
 	"ui_workshop_tags_anime" : "动漫",
@@ -389,5 +402,19 @@
 	"ui_workshop_tags_technology" : "科技",
 	"ui_workshop_tags_television" : "电视节目",
 	"ui_workshop_tags_vehicle" : "汽车",
-	"ui_workshop_tags_unspecified" : "未设置标签"
+	"ui_workshop_tags_unspecified" : "未设置标签",
+	
+	"ui_editor_scene_options_bloom" : "发光",
+	"ui_editor_scene_options_bloom_strength" : "强度",
+	"ui_editor_scene_options_bloom_threshold" : "临界值",
+	"ui_editor_scene_options_background_color" : "背景颜色",
+	"ui_editor_scene_options_camera_preview" : "镜头预览",
+	"ui_editor_scene_options_camera_shake" : "镜头抖动",
+	"ui_editor_scene_options_camera_shake_speed" : "速度",
+	"ui_editor_scene_options_camera_shake_amplitude" : "幅度",
+	"ui_editor_scene_options_camera_shake_roughness" : "剧烈程度",
+	"ui_editor_scene_options_camera_parallax" : "镜头视差",
+	"ui_editor_scene_options_camera_parallax_amount" : "数量",
+	"ui_editor_scene_options_camera_parallax_delay" : "延迟",
+	"ui_editor_scene_options_camera_mouse_influence" : "鼠标影响"
 }
