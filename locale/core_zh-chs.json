@@ -11,16 +11,16 @@
 	"core_tray_faq" : "帮助和支持",
 	"core_tray_recent_wallpapers_clear" : "清理最近壁纸",
 	"core_tray_next_wallpaper" : "下一张壁纸",
-
+	
 	"core_balloon_info" : "Wallpaper Engine 已经在通知区域最小化。双击通知区域的图标来选择一个壁纸。",
 	"core_balloon_desktop_window_error" : "动态壁纸的桌面准备过程失败。",
 	"core_balloon_video_error" : "视频发生错误 {{err}}。点此来获取帮助。",
 	"core_balloon_app_error" : "将应用程序应用为壁纸失败。",
-
+	
 	"core_msgboxtitle_error" : "错误",
 	"core_msgboxtitle_app_conflict" : "应用程序冲突",
 	"core_msgboxtitle_wpe" : "Wallpaper Engine",
-
+	
 	"core_msgbox_deskscapes" : "DeskScapes 软件正在运行，它可能会妨碍 Wallpaper Engine 的正常运行。",
 	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine 需要启动 Aero 才能运行。 现在启用 Aero 吗?",
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine 不能在 '高对比度' 主题下运行。要马上切换主题吗?",
