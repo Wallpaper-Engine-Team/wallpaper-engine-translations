@@ -197,7 +197,7 @@
 	"ui_settings_playback_pause_per_monitor" : "暂停单个屏幕",
 	"ui_settings_playback_pause_all" : "暂停所有",
 	"ui_settings_playback_pause" : "暂停",
-	"ui_settings_playback_stop" : "停止 (减少内存占用)",	
+	"ui_settings_playback_stop" : "停止 (减少内存占用)",
 	"ui_settings_read_from_disk" : "缓存在磁盘中",
 	"ui_settings_read_from_memory" : "缓存在内存中",
 	"ui_settings_loop_default" : "默认",
