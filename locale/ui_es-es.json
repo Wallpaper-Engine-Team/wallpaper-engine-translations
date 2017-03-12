@@ -130,8 +130,8 @@
 	"ui_browse_list_source_workshop" : "Workshop",
 	
 	"ui_browse_modal_no_steam_title" : "Error de Steam",
-	"ui_browse_modal_no_steam_body" : "Steamworks could not be initialized. Por favor, prueba a reiniciar Steam y después Wallpaper Engine. Si sigues teniendo este error, esto significa que tu PC no puede conectarse correctamente con los servidores de Steam, comprueba tu conexión a internet y si estás conectado con la cuenta de Steam correcta. También es posible que los servidores de Steam sean inalcanzables temporalmente.",
-	"ui_browse_query_error" : "Un error de STEAM ha ocurrido: ",
+	"ui_browse_modal_no_steam_body" : "Steamworks no pudo ser iniciado. Por favor, prueba a reiniciar Steam y después Wallpaper Engine. Si sigues teniendo este error, esto significa que tu PC no puede conectarse correctamente con los servidores de Steam, comprueba tu conexión a internet y si estás conectado con la cuenta de Steam correcta. También es posible que los servidores de Steam sean inalcanzables temporalmente.",
+	"ui_browse_query_error" : "Un error de Steam ha ocurrido: ",
 	
 	"ui_browse_query_sort_by_votes" : "Más Votados",
 	"ui_browse_query_sort_by_date" : "Más Recientes",
@@ -207,7 +207,7 @@
 	"ui_settings_log_verbose" : "Todo",
 	"ui_settings_advanced_reset_config" : "Reiniciar configuración:",
 	"ui_settings_advanced_reset_config_button" : "REINICIAR",
-	"ui_settings_advanced_reset_config_modal_header" : "Confiramar reinicio",
+	"ui_settings_advanced_reset_config_modal_header" : "Confirmar reinicio",
 	"ui_settings_advanced_reset_config_modal_body" : "Todos tus ajustes personalizados se borrarán. La aplicacion necesita reiniciarse.",
 	"ui_settings_video_audio_label" : "Audio del fondo",
 	"ui_settings_video_hardware_acceleration_label" : "Aceleración de hardware de video",
@@ -219,7 +219,7 @@
 	"ui_settings_thirdparty" : "Avisos de terceros",
 	
 	"ui_settings_highpriority_warning_header" : "Información sobre alta prioridad",
-	"ui_settings_highpriority_warning" : "El modo 'Alta Prioridad' ejecutará la aplicación de forma más rápida utilizando un 'Windows service'. Pero si estás experimentando errores con esta solución, prueba sin el modo 'Alta Prioridad, que será más confiable pero más lento.",
+	"ui_settings_highpriority_warning" : "El modo 'Alta Prioridad' ejecutará la aplicación de forma más rápida utilizando un 'Servicio de Windows'. Pero si estás experimentando errores con esta solución, prueba sin el modo 'Alta Prioridad, que será más confiable pero más lento.",
 	
 	"ui_welcome_preferred_language" : "Idioma preferido (WIP):",
 	"ui_welcome_header" : "Bienvenido a Wallpaper Engine",
@@ -235,7 +235,7 @@
 	"ui_welcome_windows_color_header" : "Ajustar el color de Windows",
 	"ui_welcome_autostart_description" : "Iniciar Wallpaper Engine con Windows:",
 	"ui_welcome_autostart_label" : "Inicio automático:",
-	"ui_welcome_finish_body" : "¡Todo está configurado! <br/> <br/> Wallpaper Engine estará ahora disponible en la barra de tareas. <b>Haz doble clic</b> para seleccionar un fondo de pantalla o <b>haz clic con el botón derecho del ratón</b> para acceder a la configuración, Steam Workshop o Wallpaper Editor.<div style='height:20px'></div>",
+	"ui_welcome_finish_body" : "¡Todo está configurado! <br/> <br/> Wallpaper Engine estará ahora disponible en la barra de tareas. <b>Haz doble clic</b> para seleccionar un fondo de pantalla o <b>haz clic con el botón derecho del ratón</b> para acceder a la configuración, Steam Workshop o El Editor de Fondo de pantalla.<div style='height:20px'></div>",
 	"ui_welcome_browse_wallpapers_now" : "Buscar fondos de pantalla ahora",
 	"ui_welcome_button_first_page" : "¡Vamos!",
 	"ui_welcome_button_next_page" : "Siguiente",
@@ -407,6 +407,7 @@
 	
 	"ui_editor_scene_options_bloom" : "Resplandor",
 	"ui_editor_scene_options_bloom_strength" : "Fuerza",
+	"ui_editor_scene_options_bloom_threshold" : "Limite",
 	"ui_editor_scene_options_background_color" : "Color de fondo",
 	"ui_editor_scene_options_camera_preview" : "Previsualización de cámara",
 	"ui_editor_scene_options_camera_shake" : "Agitación de cámara",
