@@ -34,7 +34,7 @@
 	"core_msgbox_media_feature_pack_missing" : "mfplat.dll fehlt!\nDies liegt möglicherweise an Windows N. Bitte installiere das 'Media Feature Pack' von Microsoft um Videos auf Windows N zu nutzen! (Google: Media Feature Pack Windows 10/8.1/7)",
 	
 	"core_updater_headline_init" : "Wallpaper Engine wird initialisiert...",
-	"core_updater_headline_update" : "Wallpaper Engine wird auf Version {{version}} aktuallisiert...",
+	"core_updater_headline_update" : "Wallpaper Engine wird auf Version {{version}} aktualisiert...",
 	"core_updater_headline_init_complete" : "Installation von version {{version}} vervollständigt. Wallpaper Engine wird gestartet...",
 	"core_updater_headline_update_complete" : "Update auf Version {{version}} vervollständigt. Wallpaper Engine wird gestartet...",
 	"core_updater_status_init" : "Bereite Installation vor...",
