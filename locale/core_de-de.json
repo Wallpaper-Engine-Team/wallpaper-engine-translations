@@ -34,10 +34,11 @@
 	"core_msgbox_media_feature_pack_missing" : "mfplat.dll fehlt!\nDies liegt möglicherweise an Windows N. Bitte installiere das 'Media Feature Pack' von Microsoft um Videos auf Windows N zu nutzen! (Google: Media Feature Pack Windows 10/8.1/7)",
 	
 	"core_updater_headline_init" : "Wallpaper Engine wird initialisiert...",
-	"core_updater_headline_update" : "Wallpaper Engine wird auf Version {{version}} geupdated...",
-	"core_updater_headline_init_complete" : "Initialisierung auf Version {{version}} vervollständigt. Wallpaper Engine wird gestartet...",
+	"core_updater_headline_update" : "Wallpaper Engine wird auf Version {{version}} aktualisiert...",
+	"core_updater_headline_init_complete" : "Installation von version {{version}} vervollständigt. Wallpaper Engine wird gestartet...",
 	"core_updater_headline_update_complete" : "Update auf Version {{version}} vervollständigt. Wallpaper Engine wird gestartet...",
 	"core_updater_status_init" : "Bereite Installation vor...",
+	"core_updater_headline_cancelled": "Installation unterbrochen.",
 	"core_updater_status_closing_processes" : "Schließe Prozesse...",
 	"core_updater_status_closing_processes_error" : "Fehler beim Auflisten existierender Prozesse",
 	"core_updater_status_closing_processes_wait_quit" : "Wallpaper Engine wird beendet",
@@ -45,6 +46,8 @@
 	"core_updater_status_closing_processes_wait_quit_terminate_error" : "Fehler beim Schließen von {{program}}",
 	"core_updater_status_distro" : "Kopiere Dateien...",
 	"core_updater_status_distro_missing" : "Verzeichnis 'distribution' fehlt",
+	"core_updater_status_distro_prepare_error" : "Ein Boost Fehler ist beim Scannen des Quellordner aufgetreten {{error}}",
+	"core_updater_status_distro_copy_error" : "Ein Boost Fehler ist beim kopieren von Dateien aufgetreten",
 	"core_updater_status_distro_file_path_error" : "Fehler beim Lesen eines Pfades: {{error}}",
 	"core_updater_status_distro_file_directory" : "Erstelle Verzeichnes: {{filepath}}",
 	"core_updater_status_distro_file_directory_error" : "Fehler beim Erstellen eines Verzeichnisses: {{error}}",
@@ -66,5 +69,6 @@
 	"core_updater_status_compat_message_box_body_item_update" : "{{name}}: Update zur Version {{version}} nötig",
 	"core_updater_status_complete" : "Installation wurde erfolgreich abgeschlossen",
 	"core_updater_status_complete_errors" : "Installation wurde mit Fehlern abgeschlossen",
-	"core_updater_status_complete_starting" : "Starte Wallpaper Engine..."
+	"core_updater_status_complete_starting" : "Starte Wallpaper Engine...",
+	"core_updater_status_cancelled" : "Prozess wurde vom Nutzer unterbrochen"
 }
