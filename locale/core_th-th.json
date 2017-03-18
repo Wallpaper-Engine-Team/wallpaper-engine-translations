@@ -46,7 +46,7 @@
 	"core_updater_status_closing_processes_wait_quit_terminate_error" : "ล้มเหลวในการปิด {{program}}",
 	"core_updater_status_distro" : "กำลังแตกไฟล์...",
 	"core_updater_status_distro_prepare_error" : "เกิดข้อผิดพลาดขณะแสกนไดเรกทอรี {{error}}",
-	"core_updater_status_distro_copy_error" : "เกิดข้อผิดพลาดขณะคัดลอกไฟล์",
+	"core_updater_status_distro_copy_error" : "เกิดข้อผิดพลาดขณะคัดลอกไฟล์ {{error}}",
 	"core_updater_status_distro_missing" : "ไดเรกทอรีหายไป",
 	"core_updater_status_distro_file_path_error" : "ล้มเหลวในการแปลงเส้นทางไฟล์: {{error}}",
 	"core_updater_status_distro_file_directory" : "กำลังสร้างไดเรกทอรี: {{filepath}}",
