@@ -20,6 +20,7 @@
 	"ui_browse_sort_by" : "จัดเรียงตาม",
 	"ui_browse_filter_type" : "ชนิด",
 	"ui_browse_filter_source" : "แหล่งที่มา",
+	"ui_browse_filter_resolution" : "ความละเอียด",
 	"ui_browse_filter_tags" : "แท็ก",
 	"ui_browse_grid_no_results" : "ไม่พบวอลล์เปเปอร์ที่คุณต้องการ",
 	"ui_browse_grid_no_results_refreshing" : "รอให้ Steam ตอบสนอง...",
@@ -92,6 +93,11 @@
 	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>ระดับเสียง",
 	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>เสียงถูกปิดใช้งานในการตั้งค่า",
 	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>การบันทึกเสียง",
+	"ui_browse_properties_alignment" : "<span class='fa fa-image propertyIcon'></span>การจัดตำแหน่ง",
+ 	"ui_browse_properties_alignment_cover" : "คลุม",
+ 	"ui_browse_properties_alignment_center" : "กึ่งกลาง",
+ 	"ui_browse_properties_alignment_stretch" : "ยืด",
+ 	"ui_browse_properties_alignment_position" : "<span class='fa fa-arrows-h propertyIcon'></span>ตำแหน่ง",
 
 	"ui_browse_playlist_header" : "เพลย์ลิส",
   	"ui_browse_playlist_modal_open_header" : "เปิด เพลย์ลิส",
@@ -204,6 +210,10 @@
  	"ui_settings_advanced_reset_config_modal_header" : "ยืนยันการตั้งค่าใหม่",
  	"ui_settings_advanced_reset_config_modal_body" : "การตั้งค่าทั้งหมดของคุณจะถูกลบออก และจำเป็นต้องเริ่มโปรแกรมใหม่",
  	"ui_settings_video_audio_label" : "เอาต์พุตเสียงวิดีโอ:",
+	"ui_settings_video_hardware_acceleration_label" : "การเร่งฮาร์ดแวร์วิดีโอ",
+	"ui_settings_process_priority" : "ให้ความสำคัญสูง",
+	"ui_settings_process_priority_normal" : "ปกติ",
+	"ui_settings_process_priority_below_normal" : "ต่ำกว่าปกติ",
 	
 	"ui_settings_copyright" : "สงวนลิขสิทธิ์.",
 	"ui_settings_thirdparty" : "ประกาศเกี่ยวกับบุคคลที่สาม",
@@ -259,8 +269,9 @@
 	"ui_editor_filemenu_show_in_workshop" : "แสดงในเวิร์กชอป",
 	"ui_editor_filemenu_prepare_for_publishing" : "เตรียมการเผยแพร่",
 
-	"ui_editor_treeview_header_scene" : "วัตถุในฉาก",
 	"ui_editor_treeview_header_files" : "ไฟล์ที่นำเข้า",
+	"ui_editor_tooltip_layers" : "เลเยอร์",
+	"ui_editor_tooltip_scene_options" : "ตัวเลือกฉาก",
 
 	"ui_editor_camera_add_path" : "เพิ่มเส้นทาง",
 	"ui_editor_camera_select_path" : "กรุณาเลือกเส้นทางจากด้านซ้าย",
@@ -329,7 +340,7 @@
 	"ui_editor_project_settings_modal_scheme_color" : "สีชุดรูปแบบ",
 	"ui_editor_project_settings_modal_scene" : "ฉาก",
 	"ui_editor_project_settings_modal_bloom" : "Bloom",
-	"ui_editor_project_settings_modal_clear_color" : "Clear color",
+	"ui_editor_project_settings_modal_clear_color" : "สีพื้นหลัง",
 	"ui_editor_project_settings_modal_ambient_color" : "สีโดยรอบ",
 	"ui_editor_project_settings_modal_skylight_color" : "สีธรรมชาติ",
 	
@@ -392,5 +403,19 @@
 	"ui_workshop_tags_technology" : "เทคโนโลยี",
 	"ui_workshop_tags_television" : "รายการโทรทัศน์",
 	"ui_workshop_tags_vehicle" : "ยานพาหนะ",
-	"ui_workshop_tags_unspecified" : "ไม่ได้ระบุ"
+	"ui_workshop_tags_unspecified" : "ประเภทที่ไม่ได้ระบุ",
+
+	"ui_editor_scene_options_bloom" : "Bloom",
+	"ui_editor_scene_options_bloom_strength" : "Strength",
+	"ui_editor_scene_options_bloom_threshold" : "Threshold",
+	"ui_editor_scene_options_background_color" : "สีพื้นหลัง",
+	"ui_editor_scene_options_camera_preview" : "ดูตัวอย่างกล้อง",
+	"ui_editor_scene_options_camera_shake" : "การสั่นของกล้อง",
+	"ui_editor_scene_options_camera_shake_speed" : "ความเร็ว",
+	"ui_editor_scene_options_camera_shake_amplitude" : "ความกว้าง",
+	"ui_editor_scene_options_camera_shake_roughness" : "ความหยาบ",
+	"ui_editor_scene_options_camera_parallax" : "การเปลี่ยนแปลงมุมกล้อง",
+	"ui_editor_scene_options_camera_parallax_amount" : "ปริมาณ",
+	"ui_editor_scene_options_camera_parallax_delay" : "หน่วงเวลา",
+	"ui_editor_scene_options_camera_mouse_influence" : "อิทธิพลของเมาส์"
 }
