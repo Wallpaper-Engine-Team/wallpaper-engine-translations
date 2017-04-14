@@ -425,7 +425,7 @@
 	
 	"ui_editor_effects_modal_imagelayer_name" : "圖層",
 	"ui_editor_effects_modal_imagelayer_description" : "從你的電腦中匯入圖片",
-	"ui_editor_effects_modal_fullscreenlayer_name" : "全螢光",
+	"ui_editor_effects_modal_fullscreenlayer_name" : "全螢幕",
 	"ui_editor_effects_modal_fullscreenlayer_description" : "新增一個半透明圖層覆蓋整個螢幕,此圖層上的所有效果將會影響之前的物件",
 	"ui_editor_effects_modal_composelayer_name" : "組合層",
 	"ui_editor_effects_modal_composelayer_description" : "增加一個指定大小的半透明圖層,將其他物件與此圖層合併成一個效果",
