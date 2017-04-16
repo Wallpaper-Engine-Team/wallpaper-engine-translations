@@ -382,7 +382,8 @@
 	"ui_editor_workshop_rules_modal_rule_ads" : "没有广告",
 	"ui_editor_workshop_rules_modal_rule_misleading" : "没有误导的预览图",
 	
-	"ui_editor_workshop_tags_limit" : "只允许3个标签",	"ui_editor_workshop_tags_placeholder": "添加一个标签",
+	"ui_editor_workshop_tags_limit" : "只允许3个标签",
+	"ui_editor_workshop_tags_placeholder": "添加一个标签",
 	
 	"ui_workshop_tags_abstract" : "抽象",
 	"ui_workshop_tags_animal" : "动物",
