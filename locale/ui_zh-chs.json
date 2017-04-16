@@ -297,7 +297,7 @@
 	"ui_editor_welcome_modal_no_file_selected" : "未选中任何文件",
 	"ui_editor_welcome_modal_imported_files" : "已导入的文件",
 	"ui_editor_welcome_modal_template" : "模板",
-	"ui_editor_welcome_modal_aspect" : "显示器比例",
+	"ui_editor_welcome_modal_aspect" : "显示器宽高比",
 	"ui_editor_welcome_modal_title_new" : "新建",
 	"ui_editor_welcome_modal_title_welcome" : "欢迎",
 
@@ -345,7 +345,7 @@
 	"ui_editor_project_settings_modal_clear_color" : "背景色",
 	"ui_editor_project_settings_modal_ambient_color" : "环境色",
 	"ui_editor_project_settings_modal_skylight_color" : "天空光颜色",
-	"ui_editor_project_settings_modal_resolution" : "解像度",
+	"ui_editor_project_settings_modal_resolution" : "分辨率",
 	
 	"ui_editor_help_header" : "帮助",
 	"ui_editor_help_tutorial_category_beginner_title" : "初学者教程",
@@ -382,8 +382,7 @@
 	"ui_editor_workshop_rules_modal_rule_ads" : "没有广告",
 	"ui_editor_workshop_rules_modal_rule_misleading" : "没有误导的预览图",
 	
-	"ui_editor_workshop_tags_limit" : "只允许3个标签",
-	"ui_editor_workshop_tags_placeholder": "添加一个标签",
+	"ui_editor_workshop_tags_limit" : "只允许3个标签",	"ui_editor_workshop_tags_placeholder": "添加一个标签",
 	
 	"ui_workshop_tags_abstract" : "抽象",
 	"ui_workshop_tags_animal" : "动物",
@@ -424,11 +423,11 @@
 	"ui_editor_scene_options_camera_fade" : "镜头褪色",
 	
 	"ui_editor_effects_modal_imagelayer_name" : "图层",
-	"ui_editor_effects_modal_imagelayer_description" : "从你的電腦中加入图片",
+	"ui_editor_effects_modal_imagelayer_description" : "从你的电脑中导入图片",
 	"ui_editor_effects_modal_fullscreenlayer_name" : "全屏",
-	"ui_editor_effects_modal_fullscreenlayer_description" : "新增一个半透明圖图覆盖整个屏幕,此图层上的所有效果将会影响之前的物件",
-	"ui_editor_effects_modal_composelayer_name" : "組合层",
-	"ui_editor_effects_modal_composelayer_description" : "增加一个指定尺寸的半透明图层,将其他物件与此图层合并成一个效果",
+	"ui_editor_effects_modal_fullscreenlayer_description" : "新增一个覆盖整个屏幕的半透明图层,此图层上的所有效果将会影响之前在屏幕上放置的所有物件",
+	"ui_editor_effects_modal_composelayer_name" : "组合层",
+	"ui_editor_effects_modal_composelayer_description" : "增加一个指定尺寸的半透明图层,将其他物件指定为此图层的子对象以便对它们一起施用效果",
 	"ui_editor_effects_modal_model_name" : "模型",
-	"ui_editor_effects_modal_model_description" : "从你的電腦中加入3D模型"
+	"ui_editor_effects_modal_model_description" : "从你的电脑中导入3D模型"
 }
