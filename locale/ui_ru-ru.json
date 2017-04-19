@@ -186,7 +186,7 @@
 	"ui_settings_advanced_log_level" : "Уровень логирования:",
 	"ui_settings_about" : "О приложении",
 	
-	"ui_settings_no_devices" : "Устройства не обнаружены",
+	"ui_settings_no_devices" : "Не обнаружены",
 	"ui_settings_skin_white" : "Белый",
 	"ui_settings_skin_dark" : "Тёмный",
 	"ui_settings_antialiasing_none" : "Нет",
