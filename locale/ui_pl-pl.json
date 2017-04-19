@@ -9,7 +9,7 @@
 	"ui_close" : "Zamknij",
 	"ui_retry" : "Powtórz",
 
-	"ui_modal_updaterequired_title" : "Wallpaper Engine needs to be updated",
+	"ui_modal_updaterequired_title" : "Wallpaper Engine musi zostać zaktualizowany",
 	"ui_modal_updaterequired_body" : "Proszę zamknąć Wallpaper Egnine (kliknij na ikonę w zasobniku systemowym i następnie wybierz Wyjdź) i uruchomić ponownie przez Steam aby otrzymać najnowsze aktualizacje. Jeżeli powiadomienie wciąż się wyświetla, sprawdź spójność plików poprzez Steam.<br/><br/>Wersja aplikacji: <b>{{callerVersion}}</b>, Wersja interfejsu: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "Dostępna jest nowa aktualizacja",
 	"ui_modal_updateavailable_body_distro" : "Nowa aktualizacja Wallpaper Engine została pobrana przez Steam (version <b>{{distroVersion}}</b>). Chcesz zamknąć Wallaper Engine aby zastosować zmiany?",
@@ -33,6 +33,7 @@
 	"ui_browse_choose_monitor" : "(wybierz monitor)",
 	"ui_browse_filter_results" : "Filtruj wyniki",
 	"ui_browse_sort_by" : "Sortuj po",
+	"ui_browse_filter_resolution" : "Rozdzielczość",
 	"ui_browse_filter_type" : "Typ",
 	"ui_browse_filter_source" : "Źródło",
 	"ui_browse_filter_parse_title" : "Filtruj tytuł",
@@ -137,7 +138,12 @@
 	"ui_browse_list_source_workshop" : "Warsztat",
 	
 	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>Dźwięk jest wyłączony w ustawieniach",
-
+	"ui_browse_properties_alignment" : "<span class='fa fa-image propertyIcon'></span>Wyrównanie",
+	"ui_browse_properties_alignment_cover" : "Pokrycie",
+	"ui_browse_properties_alignment_center" : "Wyśrodkowanie",
+	"ui_browse_properties_alignment_stretch" : "Rozciągnięcie",
+	"ui_browse_properties_alignment_position" : "<span class='fa fa-arrows-h propertyIcon'></span>Pozycja",
+	
 	"ui_settings_playback": "Działanie w tle",
 	"ui_settings_playback_focused" : "Aktywne okno innej aplikacji:",
 	"ui_settings_playback_maximized" : "Inna aplikacja zmaksymalizowana:",
@@ -179,6 +185,10 @@
 	"ui_settings_advanced_reset_config_modal_header" : "Potwierdź reset",
 	"ui_settings_advanced_reset_config_modal_body" : "Wszystkie twoje ustawienia zostaną usunięte, uruchom ponownie aplikację.",
 	"ui_settings_video_audio_label" : "Wyjście audio video",
+	"ui_settings_video_hardware_acceleration_label" : "Akceleracja sprzętowa video",
+	"ui_settings_process_priority" : "Priorytet procesu",
+	"ui_settings_process_priority_normal" : "Normalny",
+	"ui_settings_process_priority_below_normal" : "Poniżej normalnego",
 	"ui_settings_about" : "O programie",
 	"ui_settings_read_from_disk" : "Z dysku",
 	"ui_settings_read_from_memory" : "Z pamięci",
@@ -199,7 +209,7 @@
 	"ui_settings_loop_sync_topo" : "Synchronizuj topologicznie",
 	"ui_settings_log_none" : "Brak",
 	"ui_settings_log_errors" : "Tylko błędy",
-	"ui_settings_log_verbose" : "Pełen",
+	"ui_settings_log_verbose" : "Pełny",
 	
 	"ui_settings_copyright" : "Wszelkie prawa zastrzeżone.",
 	"ui_settings_thirdparty" : "Odpowiedzialność osób trzecich",
@@ -227,6 +237,9 @@
 	"ui_welcome_button_last_page" : "Gotowe",
 	
 	"ui_editor_welcome_modal_show_more" : "Pokaż więcej...",
+	
+	"ui_editor_tooltip_layers" : "Warstwy",
+	"ui_editor_tooltip_scene_options" : "Opcje sceny",
 	
 	"ui_settings_icon_opacity" : "Przezroczystość ikon na pulpicie:",
 	"ui_editor_snapshot_instructions" : "1. Narysuj prostokąt za pomocą myszy.\n2. Naciśnij enter aby wykonać migawkę.\n\nNaciśnij Spację aby zatrzymać.\nNaciśnij Escape aby anulować.",
@@ -328,10 +341,24 @@
 	"ui_editor_project_settings_modal_scheme_color" : "Kolor schematu",
 	"ui_editor_project_settings_modal_scene" : "Scena",
 	"ui_editor_project_settings_modal_bloom" : "Rozmycie",
-	"ui_editor_project_settings_modal_clear_color" : "Wyraźny Kolor",
+	"ui_editor_project_settings_modal_clear_color" : "Kolor tła",
 	"ui_editor_project_settings_modal_ambient_color" : "Kolor otoczenia",
 	"ui_editor_project_settings_modal_skylight_color" : "Kolor światła",
 	"ui_editor_help_header" : "Pomoc",
+	
+	"ui_editor_scene_options_bloom" : "Bloom",
+	"ui_editor_scene_options_bloom_strength" : "Siła",
+	"ui_editor_scene_options_bloom_threshold" : "Próg",
+	"ui_editor_scene_options_background_color" : "Kolor tła",
+	"ui_editor_scene_options_camera_preview" : "Widok kamery",
+	"ui_editor_scene_options_camera_shake" : "Drżenie kamery",
+	"ui_editor_scene_options_camera_shake_speed" : "Prędkość",
+	"ui_editor_scene_options_camera_shake_amplitude" : "Amplituda",
+	"ui_editor_scene_options_camera_shake_roughness" : "Szorstkość",
+	"ui_editor_scene_options_camera_parallax" : "Paralaksa kamery",
+	"ui_editor_scene_options_camera_parallax_amount" : "Ilość",
+	"ui_editor_scene_options_camera_parallax_delay" : "Opóźnienie",
+	"ui_editor_scene_options_camera_mouse_influence" : "Oddziałwywaniece myszy",
 	
 	"ui_editor_help_tutorial_category_beginner_title" : "Poradnik dla początkujących",
 	"ui_editor_help_tutorial_category_advanced_title" : "Poradnik dla zaawansowanych",
@@ -386,5 +413,5 @@
 	"ui_workshop_tags_technology" : "Technologia",
 	"ui_workshop_tags_television" : "Telewizja",
 	"ui_workshop_tags_vehicle" : "Pojazdy",
-	"ui_workshop_tags_unspecified" : "Nieokreślony"
+	"ui_workshop_tags_unspecified" : "Nieokreślona kategoria"
 }
