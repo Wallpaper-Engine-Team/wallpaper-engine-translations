@@ -64,7 +64,7 @@
 	"core_updater_status_compat_error" : "ล้มเหลวในการสแกนกระบวนการ",
 	"core_updater_status_compat_found" : "พบกระบวนการที่เข้ากันไม่ได้: {{processname}}",
 	"core_updater_status_compat_message_box_title" : "พบแอพพลิเคชันที่ทำงานร่วมกันไม่ได้",
-	"core_updater_status_compat_message_box_body" : "คุณมีการใช้งานดังต่อไปนี้การทำงานที่อาจทำให้ Wallpaper Engine ผิดพลาดหรือทำให้ระบบของคุณไม่เสถียร. Inject code เข้าสู่ Wallpaper Engine เป็นสาเหตุของปัญหา. กรุณาตรวจสอบให้แน่ใจว่าการปรับปรุงหรือเพิ่ม Wallpaper Engine ไปยังรายการยกเว้น โดยการเพิ่ม wallpaper32.exe และ wallpaper64.exe ที่นั่น.\n\n{{list}}",
+	"core_updater_status_compat_message_box_body" : "คุณมีการใช้งานดังต่อไปนี้การทำงานที่อาจทำให้ Wallpaper Engine ผิดพลาดหรือทำให้ระบบของคุณไม่เสถียร. Inject code เข้าสู่ Wallpaper Engine เป็นสาเหตุของปัญหา. สอบให้แน่ใจว่าเพิ่ม Wallpaper Engine ไปยังรายการยกเว้น โดยการเพิ่ม wallpaper32.exe และ wallpaper64.exe ที่นั่น.\n\n{{list}}",
 	"core_updater_status_compat_message_box_body_item_exclude" : "{{name}}: ไม่รวม Wallpaper Engine",
 	"core_updater_status_compat_message_box_body_item_update" : "{{name}}: ปรุบปรุงไปยังรุ่น {{version}}",
 	"core_updater_status_complete" : "การติดตั้งเสร็จสมบูรณ์",
