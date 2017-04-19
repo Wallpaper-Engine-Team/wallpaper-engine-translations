@@ -1,5 +1,5 @@
-{
-	"ui_caption_browse" : "배경화면 검색",
+{	
+	"ui_caption_browse" : "배경화면 탐색",
 	"ui_caption_settings" : "설정",
 	"ui_caption_editor" : "배경화면 에디터",
 	
@@ -12,6 +12,7 @@
 	"ui_modal_updaterequired_title" : "Wallpaper Engine을 업데이트 해야합니다.",
 	"ui_modal_updaterequired_body" : "최신 업데이트를 받기 위해 Wallpaper Engine을 종료하시고 (트레이 아이콘을 오른쪽 클릭하고 종료 버튼 클릭) Steam에서 다시 실행해주시기 바랍니다. 이 경고화면이 계속 뜰 시, Steam에서 캐시 무결성 확인을 해보시길 바랍니다.<br/><br/>응용프로그램 버전: <b>{{callerVersion}}</b>, UI 버전: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "새 업데이트 사용 가능",
+	"ui_modal_updateavailable_body_distro" : "월페이퍼 엔진의 새 업데이트가 스팀을 통해 다운로드되었습니다. ( 버전 <b>{{distroVersion}}</b>). 지금 월페이퍼 엔진을 재시작해서 업데이트를 적용하시겠습니까?",
 
 	"ui_browse_monitor" : "모니터",
 	"ui_browse_choose_monitor" : "(모니터 선택)",
@@ -19,8 +20,10 @@
 	"ui_browse_sort_by" : "분류",
 	"ui_browse_filter_type" : "유형",
 	"ui_browse_filter_source" : "출처",
+	"ui_browse_filter_resolution" : "해상도",
 	"ui_browse_filter_tags" : "태그",
 	"ui_browse_grid_no_results" : "조건에 맞는 배경화면이 없습니다.",
+	"ui_browse_grid_no_results_refreshing" : "스팀 응답 대기중...",
 	"ui_browse_status_error" : "오류",
 	"ui_browse_select_prompt" : "배경화면을 선택해주세요.",
 	"ui_browse_steam_status_unavailable" : "Steam을 사용할 수 없습니다.",
@@ -43,8 +46,8 @@
 	"ui_browse_details_properties_select_directory" : "위치 선택",
 	"ui_browse_details_properties_select_file" : "파일 선택",
 	
-	"ui_browse_footer_btn_workshop" : "창작마당 검색",
-	"ui_browse_footer_btn_store" : "상점 검색",
+	"ui_browse_footer_btn_workshop" : "Steam 창작마당",
+	"ui_browse_footer_btn_store" : "Steam 상점",
 	"ui_browse_footer_btn_open_from_file" : "파일로부터 열기",
 	"ui_browse_footer_btn_open_from_url" : "URL로부터 열기",
 	
@@ -73,6 +76,7 @@
 	"ui_browse_filter_source_official" : "공식",
 	"ui_browse_filter_source_workshop" : "창작마당",
 	"ui_browse_filter_source_my_wallpapers" : "나의 배경화면",
+	"ui_browse_filter_parse_title" : "제목 필터",
 	
 	"ui_browse_modal_application_warning_header" : "확인되지 않은 응용 프로그램 여는 중",
 	"ui_browse_modal_application_warning_body" : "확인되지 않은 외부 응용프로그램을 배경화면으로 설정하려 합니다.: <br/><b>{{filepath}}</b><br/>Wallpaper Engine은 이 파일에 대한 권한이 없으므로 믿을만한 출처에서 가져온 프로그램이여야 합니다.<br/><br/>이 파일은 컴퓨터에 안좋은 영향을 미칠수도 있습니다!",
@@ -87,7 +91,13 @@
 	"ui_browse_properties_scheme_color" : "색체 계획",
 	"ui_browse_properties_playback_rate" : "<span class='fa fa-play propertyIcon'></span>재생 속도",
 	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>소리 크기",
+	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>설정에서 오디오 비활성화됨",
 	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>음향 녹음",
+	"ui_browse_properties_alignment" : "<span class='fa fa-image propertyIcon'></span>정렬",
+	"ui_browse_properties_alignment_cover" : "덮기",
+	"ui_browse_properties_alignment_center" : "중앙",
+	"ui_browse_properties_alignment_stretch" : "늘리기",
+	"ui_browse_properties_alignment_position" : "<span class='fa fa-arrows-h propertyIcon'></span>위치",
 	
 	"ui_browse_playlist_header" : "재생목록",
 	"ui_browse_playlist_modal_open_header" : "재생목록 열기",
@@ -111,9 +121,29 @@
 	"ui_browse_playlist_modal_settings_timing_after_360_minutes" : "6시간 뒤",
 	"ui_browse_playlist_modal_settings_timing_after_720_minutes" : "12시간 뒤",
 	"ui_browse_playlist_modal_settings_timing_after_1440_minutes" : "24시간 뒤",
-	"ui_browse_playlist_modal_settings_video_sequence" : "비디오 순서대로 재생하기",
-	"ui_browse_playlist_modal_settings_update_on_pause" : "일시정지 시 재생목록 업데이트하기",
+	"ui_browse_playlist_modal_settings_video_sequence" : "비디오가 끝나면 배경화면 바꾸기",
+	"ui_browse_playlist_modal_settings_update_on_pause" : "일시정지된 동안 배경화면이 바뀔 수 있게 하기",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "바탕화면 전환 효과 보이기",
+	
+	"ui_browse_list_source_title" : "살펴보기:",
+	"ui_browse_list_source_installed" : "설치됨",
+	"ui_browse_list_source_workshop" : "창작마당",
+	
+	"ui_browse_modal_no_steam_title" : "스팀 오류",
+	"ui_browse_modal_no_steam_body" : "Steamworks가 초기화되지 못했습니다. 스팀을 재시작한 뒤 월페이퍼 엔진을 재시작해 주십시오. 만약 이 오류를 계속 보신다면, 당신의 PC가 스팀 서버와 제대로 인증되지 않는 것이므로, 인터넷 연결을 확인하고 정확한 스팀 계정에 로그인되어 있는지 확인해 주십시오. 스팀 서버가 임시로 연결 불가일수도 있습니다.",
+	"ui_browse_query_error" : "스팀 오류가 발생했습니다: ",
+	
+	"ui_browse_query_sort_by_votes" : "평가순",
+	"ui_browse_query_sort_by_date" : "가장 최근",
+	"ui_browse_query_sort_by_trend_today" : "가장 인기있는 (오늘)",
+	"ui_browse_query_sort_by_trend_last_week" : "가장 인기있는 (이번 주)",
+	"ui_browse_query_sort_by_trend_last_month" : "가장 인기있는 (이번 달)",
+	"ui_browse_query_sort_by_trend_year" : "가장 인기있는 (이번 해)",
+	"ui_browse_query_sort_friends_favorites" : "친구들이 좋아하는",
+	"ui_browse_query_sort_friends_created" : "친구들이 만든",
+	"ui_browse_query_sort_by_followed_users" : "다음 유저들에 의해 만들어진",
+	"ui_browse_query_sort_most_up_votes" : "최다 평가",
+	"ui_browse_query_sort_most_subscriptions" : "최다 구독",
 
 	"ui_settings_playback": "재생",
 	"ui_settings_playback_focused" : "다른 응용프로그램 활성화:",
@@ -180,6 +210,10 @@
 	"ui_settings_advanced_reset_config_modal_header" : "초기화 확인",
 	"ui_settings_advanced_reset_config_modal_body" : "모든 설정이 초기화되고 애플리케이션이 재시작해야 합니다.",
 	"ui_settings_video_audio_label" : "비디오 오디오 출력",
+	"ui_settings_video_hardware_acceleration_label" : "비디오 하드웨어 가속",
+	"ui_settings_process_priority" : "프로세스 우선순위",
+	"ui_settings_process_priority_normal" : "보통",
+	"ui_settings_process_priority_below_normal" : "보통 이하",
 	
 	"ui_settings_copyright" : "모든 권리는 저작권자에게 있습니다.",
 	"ui_settings_thirdparty" : "공지",
@@ -191,7 +225,7 @@
 	"ui_welcome_quality_column_header" : "품질",
 	"ui_welcome_quality_description_header" : "설명:",
 	"ui_welcome_quality_fps_limit" : "초당 프레임 수 제한:",
-	"ui_welcome_quality_anti_aliasing" : "안티 얼라이징:",
+	"ui_welcome_quality_anti_aliasing" : "안티 얼레이징:",
 	"ui_welcome_quality_bloom" : "Bloom 효과:",
 	"ui_welcome_quality_reflections" : "반사:",
 	"ui_welcome_windows_color_description" : "배경화면이 알아서 윈도우 경계선 색깔을 변경하게 합니다:",
@@ -199,7 +233,7 @@
 	"ui_welcome_autostart_description" : "Wallpaper Engine을 윈도우와 함께 실행합니다:",
 	"ui_welcome_autostart_label" : "자동 실행:",
 	"ui_welcome_finish_body" : "전부 설정하셨습니다!<br/><br/>Wallpaper Engine은 이제 시스템 트레이에서 사용가능합니다. 배경화면을 선택하기 위해<b>두번 클릭</b> 혹은 <b>오른쪽 클릭</b> 을 통해 설정에서 Steam 창작마당이나 배경화면 에디터를 사용하시길 바랍니다.<div style='height:20px'></div>",
-	"ui_welcome_browse_wallpapers_now" : "지금 배경화면 검색",
+	"ui_welcome_browse_wallpapers_now" : "지금 배경화면 탐색",
 	"ui_welcome_button_first_page" : "출발!",
 	"ui_welcome_button_next_page" : "다음",
 	"ui_welcome_button_last_page" : "전부 완료",
@@ -232,8 +266,9 @@
 	"ui_editor_filemenu_show_in_workshop" : "창작마당에서 보기",
 	"ui_editor_filemenu_prepare_for_publishing" : "공개 대기중",
 
-	"ui_editor_treeview_header_scene" : "장면 그래프",
 	"ui_editor_treeview_header_files" : "삽입된 파일들",
+	"ui_editor_tooltip_layers" : "레이어",
+	"ui_editor_tooltip_scene_options" : "씬 설정",
 
 	"ui_editor_camera_add_path" : "경로 추가",
 	"ui_editor_camera_select_path" : "왼쪽에서 경로를 선택하길 바랍니다.",
@@ -273,7 +308,7 @@
 	"ui_editor_publish_modal_button_publish" : "공개",
 	"ui_editor_publish_modal_button_publish_update" : "공개 업데이트",
 	"ui_editor_publish_modal_button_show_in_workshop" : "창작마당에 배경화면 보여주기",
-	"ui_editor_publish_modal_steam_error" : "(Steam) 오류가 발생했습니다:",
+	"ui_editor_publish_modal_steam_error" : "Steam 오류가 발생했습니다: ",
 	"ui_editor_publish_modal_publish_successful" : "항목이 성공적으로 업로드되었습니다.",
 	"ui_editor_publish_modal_publish_prompt_agreement" : "배경화면이 다른 사람들에게 보여지기 위해선 Steam 창작마당 계약에 동의해야 합니다. 지금 Steam 창작마당에서 당신의 배경화면을 찾아가세요:",
 	
@@ -285,7 +320,7 @@
 	"ui_editor_workshop_options_scheme_color" : "색체 계획",
 	"ui_editor_workshop_options_visibility" : "공개 수준",
 	"ui_editor_workshop_options_monetization" : "유료화 (창작마당 전시)",
-	"ui_editor_workshop_options_monetization_hint_on" : " (배경화면이 판매 가능한지 투표를 합니다.)",
+	"ui_editor_workshop_options_monetization_hint_on" : " (배경화면이 팔릴 수 있는지 투표를 받게 됩니다.)",
 	"ui_editor_workshop_options_monetization_hint_off" : " (배경화면이 공짜로 즉시 사용가능합니다.)",
 	"ui_editor_workshop_options_preview_image" : "이미지 미리 보기",
 	"ui_editor_workshop_options_missing" : "빠짐",
@@ -302,7 +337,7 @@
 	"ui_editor_project_settings_modal_scheme_color" : "색체 계획",
 	"ui_editor_project_settings_modal_scene" : "장면",
 	"ui_editor_project_settings_modal_bloom" : "Bloom 효과",
-	"ui_editor_project_settings_modal_clear_color" : "색깔 초기화",
+	"ui_editor_project_settings_modal_clear_color" : "배경색",
 	"ui_editor_project_settings_modal_ambient_color" : "잔잔한 색깔",
 	"ui_editor_project_settings_modal_skylight_color" : "하늘빛 색깔",
 	
@@ -362,5 +397,19 @@
 	"ui_workshop_tags_technology" : "기술",
 	"ui_workshop_tags_television" : "텔레비전",
 	"ui_workshop_tags_vehicle" : "교통수단",
-	"ui_workshop_tags_unspecified" : "태그 설정되지 않음"
+	"ui_workshop_tags_unspecified" : "장르 설정되지 않음",
+	
+	"ui_editor_scene_options_bloom" : "Bloom 효과",
+	"ui_editor_scene_options_bloom_strength" : "세기",
+	"ui_editor_scene_options_bloom_threshold" : "적용 범위",
+	"ui_editor_scene_options_background_color" : "배경 색",
+	"ui_editor_scene_options_camera_preview" : "카메라 미리보기",
+	"ui_editor_scene_options_camera_shake" : "카메라 흔들림",
+	"ui_editor_scene_options_camera_shake_speed" : "속도",
+	"ui_editor_scene_options_camera_shake_amplitude" : "진폭",
+	"ui_editor_scene_options_camera_shake_roughness" : "거친 정도",
+	"ui_editor_scene_options_camera_parallax" : "카메라 시차",
+	"ui_editor_scene_options_camera_parallax_amount" : "양",
+	"ui_editor_scene_options_camera_parallax_delay" : "지연",
+	"ui_editor_scene_options_camera_mouse_influence" : "마우스의 영향"
 }

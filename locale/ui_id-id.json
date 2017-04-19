@@ -12,15 +12,18 @@
 	"ui_modal_updaterequired_title" : "Wallpaper Engine perlu diperbarui",
 	"ui_modal_updaterequired_body" : "Silahkan menutup Wallpaper Engine (klik kanan di ikon tray dan klik Keluar) dan muat ulang melalui Steam untuk mendapatkan versi terbaru. Jika anda masih mendapatkan pesan peringatan ini, silahkan verifikasi berkas aplikasi melalui Steam.<br/><br/>Versi aplikasi: <b>{{callerVersion}}</b>, versi UI: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "Pembaruan baru tersedia",
- 
+ 	"ui_modal_updateavailable_body_distro" : "Pembaruan terbaru untuk Wallpaper Engine telah di download oleh Steam (versi <b>{{distroVersion}}</b>). Apa anda ingin memulai ulang Wallpaper Engine untuk mengaplikasikan pembaruan?",
+
 	"ui_browse_monitor" : "Monitor",
 	"ui_browse_choose_monitor" : "(Pilih monitor)",
 	"ui_browse_filter_results" : "Perkecil hasil pencarian",
 	"ui_browse_sort_by" : "Urut berdasarkan",
 	"ui_browse_filter_type" : "Tipe",
 	"ui_browse_filter_source" : "Sumber",
+	"ui_browse_filter_resolution" : "Resolusi",
 	"ui_browse_filter_tags" : "Tag",
 	"ui_browse_grid_no_results" : "Tidak ada latar belakang yang memenuhi kriteria anda",
+	"ui_browse_grid_no_results_refreshing" : "Menunggu respon dari Steam...",
 	"ui_browse_status_error" : "Galat",
 	"ui_browse_select_prompt" : "Silahkan pilih latar belakang",
 	"ui_browse_steam_status_unavailable" : "Steam tidak tersedia.",
@@ -43,8 +46,8 @@
 	"ui_browse_details_properties_select_directory" : "Pilih direktori",
 	"ui_browse_details_properties_select_file" : "Pilih berkas",
    
-	"ui_browse_footer_btn_workshop" : "Jelajahi Workshop",
-	"ui_browse_footer_btn_store" : "Jelajahi Toko",
+	"ui_browse_footer_btn_workshop" : "Steam Workshop",
+	"ui_browse_footer_btn_store" : "Steam Shop",
 	"ui_browse_footer_btn_open_from_file" : "Buka dari berkas",
 	"ui_browse_footer_btn_open_from_url" : "Buka dari URL",
    
@@ -73,6 +76,7 @@
 	"ui_browse_filter_source_official" : "Resmi",
 	"ui_browse_filter_source_workshop" : "Workshop",
 	"ui_browse_filter_source_my_wallpapers" : "Lokal",
+	"ui_browse_filter_parse_title" : "Filter Judul",
    
 	"ui_browse_modal_application_warning_header" : "Membuka aplikasi yang tidak diketahui",
 	"ui_browse_modal_application_warning_body" : "Anda akan membuka aplikasi eksternal yang tidak diketahui sebagai latar belakang: <br/><b>{{filepath}}</b><br/>Wallpaper Engine tidak mempunyai akses kontrol terhadap berkas ini, anda harus pastikan bahwa ini berasal dari sumber yang terpercaya sebelum melanjutkan.<br/><br/>INI DAPAT MEMBAHAYAKAN KOMPUTER ANDA.",
@@ -87,8 +91,14 @@
 	"ui_browse_properties_scheme_color" : "Skema warna",
 	"ui_browse_properties_playback_rate" : "<span class='fa fa-play propertyIcon'></span>Kecepatan putar",
 	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>Volume",
+	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>Audio dimatikan di pengaturan",
 	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>Rekaman audio",
- 
+ 	"ui_browse_properties_alignment" : "<span class='fa fa-image propertyIcon'></span>Kesejajaran",
+ 	"ui_browse_properties_alignment_cover" : "Sampul",
+ 	"ui_browse_properties_alignment_center" : "Tengah",
+ 	"ui_browse_properties_alignment_stretch" : "Melebar",
+ 	"ui_browse_properties_alignment_position" : "<span class='fa fa-arrows-h propertyIcon'></span>Posisi",
+
 	"ui_browse_playlist_header" : "Daftar Putar",
 	"ui_browse_playlist_modal_open_header" : "Buka Daftar Putar",
 	"ui_browse_playlist_modal_open_delete" : "Hapus",
@@ -111,10 +121,30 @@
 	"ui_browse_playlist_modal_settings_timing_after_360_minutes" : "setelah 6 jam",
 	"ui_browse_playlist_modal_settings_timing_after_720_minutes" : "setelah 12 hours",
 	"ui_browse_playlist_modal_settings_timing_after_1440_minutes" : "setelah 24 hours",
-	"ui_browse_playlist_modal_settings_video_sequence" : "Mainkan video secara berurutan",
-	"ui_browse_playlist_modal_settings_update_on_pause" : "Perbarui daftar ulang ketika di jeda",
+	"ui_browse_playlist_modal_settings_video_sequence" : "Ubah Wallpaper ketika video berakhir",
+	"ui_browse_playlist_modal_settings_update_on_pause" : "Ijinkan Wallpaper berganti ketika di jeda",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "Tampilkan transisi latar belakang",
 	
+	"ui_browse_list_source_title" : "Menjelajahi:",
+	"ui_browse_list_source_installed" : "Terinstal",
+	"ui_browse_list_source_workshop" : "Workshop",
+	
+	"ui_browse_modal_no_steam_title" : "Kesalahan Steam",
+	"ui_browse_modal_no_steam_body" : "Steamworks tidak dapat diinisialisasi. Silahkan mulai ulang Steam dan selanjutnya Wallpaper Engine. Jika kesalahan masih terjadi, ini berarti PC anda tidak dapat tersambung dengan benar ke server Steam, silahkan cek koneksi internet anda dan pastikan anda masuk ke akun Steam yang sesuai. Server Steam juga kemungkinan tidak bisa diakses untuk sementara ini.",
+	"ui_browse_query_error" : "Kesalahan STEAM terjadi: ",
+	
+	"ui_browse_query_sort_by_votes" : "Paling Banyak Nilai",
+	"ui_browse_query_sort_by_date" : "Paling Baru",
+	"ui_browse_query_sort_by_trend_today" : "Paling Populer (Hari)",
+	"ui_browse_query_sort_by_trend_last_week" : "Paling Populer (Minggu)",
+	"ui_browse_query_sort_by_trend_last_month" : "Paling Populer (Bulan)",
+	"ui_browse_query_sort_by_trend_year" : "Paling Populer (Tahun)",
+	"ui_browse_query_sort_friends_favorites" : "Favorit Teman",
+	"ui_browse_query_sort_friends_created" : "Dibuat oleh Teman",
+	"ui_browse_query_sort_by_followed_users" : "Dibuat oleh Pengguna Yang Diikuti",
+	"ui_browse_query_sort_most_up_votes" : "Paling Banyak Dinilai",
+	"ui_browse_query_sort_most_subscriptions" : "Paling Banyak Subcribe Subscribe",
+
 	"ui_settings_playback": "Aturan Main",
 	"ui_settings_playback_focused" : "Aplikasi lain terfokus:",
 	"ui_settings_playback_maximized" : "Aplikasi lain dimaksimalkan:",
@@ -175,12 +205,16 @@
 	"ui_settings_log_none" : "Tidak ada",
 	"ui_settings_log_errors" : "Hanya Galat",
 	"ui_settings_log_verbose" : "Verbos",
-   
 	"ui_settings_advanced_reset_config" : "Pengaturan Ulang:",
 	"ui_settings_advanced_reset_config_button" : "ATUR ULANG",
 	"ui_settings_advanced_reset_config_modal_header" : "Konfirmasi pengaturan ulang",
 	"ui_settings_advanced_reset_config_modal_body" : "Semua pengaturan anda akan dihapus dan aplikasi akan dimulai ulang.",
-	"ui_settings_video_audio_label" : "Keluaran video audio:",
+	"ui_settings_video_audio_label" : "Keluaran suara video:",
+	"ui_settings_video_hardware_acceleration_label" : "Akselerasi perangkat keras video",
+ 	"ui_settings_process_priority" : "Prioritas proses",
+ 	"ui_settings_process_priority_normal" : "Normal",
+ 	"ui_settings_process_priority_below_normal" : "Dibawah normal",
+
 	"ui_settings_copyright" : "Dilindungi Hak cipta.",
 	"ui_settings_thirdparty" : "Informasi pihak ketiga",
 	"ui_settings_highpriority_warning_header" : "Pemberian Prioritas Tinggi",
@@ -234,9 +268,11 @@
 	"ui_editor_filemenu_show_in_workshop" : "Tampilkan di Workshop",
 	"ui_editor_filemenu_prepare_for_publishing" : "Persiapkan untuk publikasi",
  
-	"ui_editor_treeview_header_scene" : "Grafik Scene",
-	"ui_editor_treeview_header_files" : "Berkas yang diimpor",
 	
+	"ui_editor_treeview_header_files" : "Berkas yang diimpor",
+	"ui_editor_tooltip_layers" : "Lapisan",
+ 	"ui_editor_tooltip_scene_options" : "Opsi Scene",
+
 	"ui_editor_camera_add_path" : "Tambah jalan",
 	"ui_editor_camera_select_path" : "Silahkan pilih jalan di sebelah kiri.",
 	"ui_editor_gizmo_translate" : "Terjemah",
@@ -275,7 +311,7 @@
 	"ui_editor_publish_modal_button_publish" : "Terbitkan",
 	"ui_editor_publish_modal_button_publish_update" : "Terbitkan pembaruan",
 	"ui_editor_publish_modal_button_show_in_workshop" : "Tampilkan latar belakang di Steam",
-	"ui_editor_publish_modal_steam_error" : "Galat (Steam) terjadi:",
+	"ui_editor_publish_modal_steam_error" : "Kesalahan Steam terjadi:",
 	"ui_editor_publish_modal_publish_successful" : "Item sudah selesai diterbitkan.",
 	"ui_editor_publish_modal_publish_prompt_agreement" : "Anda harus menerima persetujuan Steam Workshop sebelum latar belakang anda kelihatan bagi orang lain. Kunjungi latar belakang anda di Steam Workshop sekarang:",
    
@@ -288,7 +324,7 @@
 	"ui_editor_workshop_options_visibility" : "Visibilitas",
 	"ui_editor_workshop_options_monetization" : "Monetisasi (Curated Workshop)",
 	"ui_editor_workshop_options_monetization_hint_on" : " (Latar belakang akan dinilai untuk dijual.)",
-	"ui_editor_workshop_options_monetization_hint_off" : " (Latar belakang langsung tersedia, secara gratis.)",
+	"ui_editor_workshop_options_monetization_hint_off" : " (Latar belakang langsung tersedia secara gratis.)",
 	"ui_editor_workshop_options_preview_image" : "Pratayang gambar",
 	"ui_editor_workshop_options_missing" : "Hilang",
 	"ui_editor_workshop_options_preview_take_snapshot" : "Ambil foto",
@@ -304,7 +340,7 @@
 	"ui_editor_project_settings_modal_scheme_color" : "Warna skema",
 	"ui_editor_project_settings_modal_scene" : "Scene",
 	"ui_editor_project_settings_modal_bloom" : "Bloom",
-	"ui_editor_project_settings_modal_clear_color" : "Warna jelas",
+	"ui_editor_project_settings_modal_clear_color" : "Warna latar belakang",
 	"ui_editor_project_settings_modal_ambient_color" : "Warna ambien",
 	"ui_editor_project_settings_modal_skylight_color" : "Warna langit",
    
@@ -367,5 +403,19 @@
 	"ui_workshop_tags_technology" : "Teknologi",
 	"ui_workshop_tags_television" : "Televisi",
 	"ui_workshop_tags_vehicle" : "Kendaraan",
-	"ui_workshop_tags_unspecified" : "Tidak spesifik"
+	"ui_workshop_tags_unspecified" : "Tema tidak dispesifikkan",
+ 	
+ 	"ui_editor_scene_options_bloom" : "Pencahayaan",
+ 	"ui_editor_scene_options_bloom_strength" : "Kekuatan",
+ 	"ui_editor_scene_options_bloom_threshold" : "Batas",
+ 	"ui_editor_scene_options_background_color" : "Warna latar belakang",
+ 	"ui_editor_scene_options_camera_preview" : "Peninjauan kamera",
+ 	"ui_editor_scene_options_camera_shake" : "Getaran kamera",
+ 	"ui_editor_scene_options_camera_shake_speed" : "Kecepatan",
+ 	"ui_editor_scene_options_camera_shake_amplitude" : "Amplitudo",
+ 	"ui_editor_scene_options_camera_shake_roughness" : "Kekerasan",
+ 	"ui_editor_scene_options_camera_parallax" : "Kamera parallax",
+ 	"ui_editor_scene_options_camera_parallax_amount" : "Jumlah",
+ 	"ui_editor_scene_options_camera_parallax_delay" : "Jeda",
+ 	"ui_editor_scene_options_camera_mouse_influence" : "Pengaruh mouse"
 }

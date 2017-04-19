@@ -12,6 +12,7 @@
 	"ui_modal_updaterequired_title" : "Wallpaper Engine требуется обновление",
 	"ui_modal_updaterequired_body" : "Пожалуйста закройте Wallpaper Engine (правый клик по иконке в области уведомлений и Выход) и запустите его в Steam, чтобы получить последние обновления. Если вы продолжаете получать эти предупреждения, то пожалуйста проверьте целостность кеша приложения в Steam.<br/><br/>Версия приложения: <b>{{callerVersion}}</b>, Версия UI: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "Доступно новое обновление",
+	"ui_modal_updateavailable_body_distro" : "Новое обновление Wallpaper Engine было загружено Steam (версия <b>{{distroVersion}}</b>). Вы хотите перезапустить Wallpaper Engine, чтобы применить обновления?",
 
 	"ui_browse_monitor" : "Монитор",
 	"ui_browse_choose_monitor" : "(Выбрать монитор)",
@@ -19,8 +20,10 @@
 	"ui_browse_sort_by" : "Сортировать по",
 	"ui_browse_filter_type" : "Тип",
 	"ui_browse_filter_source" : "Источник",
+	"ui_browse_filter_resolution" : "Разрешение экрана",
 	"ui_browse_filter_tags" : "Теги",
 	"ui_browse_grid_no_results" : "Нет обоев соответствующих Вашим критериям",
+	"ui_browse_grid_no_results_refreshing" : "Ожидание ответа Steam....",
 	"ui_browse_status_error" : "Ошибка",
 	"ui_browse_select_prompt" : "Пожалуйста выберите обои",
 	"ui_browse_steam_status_unavailable" : "Steam не доступен.",
@@ -73,6 +76,7 @@
 	"ui_browse_filter_source_official" : "Официальный",
 	"ui_browse_filter_source_workshop" : "Мастерская",
 	"ui_browse_filter_source_my_wallpapers" : "Мои обои",
+	"ui_browse_filter_parse_title" : "Фильтр заголовка",
 
 	"ui_browse_modal_application_warning_header" : "Открытие неизвестного приложения",
 	"ui_browse_modal_application_warning_body" : "Вы собираетесь открыть неизвестное приложение в качестве обоев: <br/><b>{{filepath}}</b><br/>Wallpaper Engine не контролирует этот файл, вы должны убедиться, что он получен из надежного источника, прежде чем продолжить.<br/><br/>ЭТО МОЖЕТ НАНЕСТИ ВРЕД ВАШЕМУ КОМПЬЮТЕРУ.",
@@ -87,7 +91,13 @@
 	"ui_browse_properties_scheme_color" : "Цветовая схема",
 	"ui_browse_properties_playback_rate" : "<span class='fa fa-play propertyIcon'></span>Скорость воспроизведения",
 	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>Громкость",
+	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>Звук отключен в настройках",
 	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>Запись звука",
+	"ui_browse_properties_alignment" : "<span class='fa fa-image propertyIcon'></span>Выравнивание",
+	"ui_browse_properties_alignment_cover" : "Заполнить",
+	"ui_browse_properties_alignment_center" : "Центр",
+	"ui_browse_properties_alignment_stretch" : "Растянуть",
+	"ui_browse_properties_alignment_position" : "<span class='fa fa-arrows-h propertyIcon'></span>Позиция",
 
 	"ui_browse_playlist_header" : "Плейлист",
 	"ui_browse_playlist_modal_open_header" : "Открыть Плейлист",
@@ -114,7 +124,27 @@
 	"ui_browse_playlist_modal_settings_video_sequence" : "Проигрывать последовательно",
 	"ui_browse_playlist_modal_settings_update_on_pause" : "Обновление плейлиста во время паузы",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "Отображать переход обоев",
+
+	"ui_browse_list_source_title" : "Просмотр:",
+	"ui_browse_list_source_installed" : "Установлено",
+	"ui_browse_list_source_workshop" : "Мастерская",
 	
+	"ui_browse_modal_no_steam_title" : "Ошибка Steam",
+	"ui_browse_modal_no_steam_body" : "Steamworks не может быть инициализирована. Пожалуйста попробуйте перезапустить Steam, а после Wallpaper Engine. Если вы продолжаете видеть эту ошибку, значит ваш ПК не может правильно авторизироваться с серверами Steam. Проверьте ваше интернет-соединение и вошли ли вы в нужный аккаунт Steam. Также сервера Steam могут быть временно недоступны.",
+	"ui_browse_query_error" : "Произошла ошибка STEAM: ",
+	
+	"ui_browse_query_sort_by_votes" : "Лидеры Рейтинга",
+	"ui_browse_query_sort_by_date" : "Недавно Добавлены",
+	"ui_browse_query_sort_by_trend_today" : "Популярные (Сегодня)",
+	"ui_browse_query_sort_by_trend_last_week" : "Популярные (Неделя)",
+	"ui_browse_query_sort_by_trend_last_month" : "Популярные (Месяц)",
+	"ui_browse_query_sort_by_trend_year" : "Популярные (Год)",
+	"ui_browse_query_sort_friends_favorites" : "Избранное Друзей",
+	"ui_browse_query_sort_friends_created" : "Создано Друзьями",
+	"ui_browse_query_sort_by_followed_users" : "Ваши подписки",
+	"ui_browse_query_sort_most_up_votes" : "Больше всего голосов",
+	"ui_browse_query_sort_most_subscriptions" : "Больше всего подписчиков",
+
 	"ui_settings_playback": "Воспроизведение",
 	"ui_settings_playback_focused" : "Другое приложение выбрано:",
 	"ui_settings_playback_maximized" : "Другое приложение развёрнуто:",
@@ -180,6 +210,10 @@
 	"ui_settings_advanced_reset_config_modal_header" : "Подтвердите сброс",
 	"ui_settings_advanced_reset_config_modal_body" : "Все ваши настройки будут удалены и приложение будет перезапущено.",
 	"ui_settings_video_audio_label" : "Звук обоев:",
+	"ui_settings_video_hardware_acceleration_label" : "Аппаратное ускорение видео:",
+	"ui_settings_process_priority" : "Приоритет процесса:",
+	"ui_settings_process_priority_normal" : "Обычный",
+	"ui_settings_process_priority_below_normal" : "Ниже среднего",
 	
 	"ui_settings_copyright" : "Все права защищены.",
 	"ui_settings_thirdparty" : "Сторонние заметки",
@@ -208,7 +242,7 @@
 	"ui_welcome_button_last_page" : "Всё готово",
 	
 	"ui_editor_pane_header_camera" : "Камера",
-	"ui_editor_pane_header_preview" : "Предварительный просмотр",
+	"ui_editor_pane_header_preview" : "Предпросмотр",
 	"ui_editor_pane_header_properties" : "Параметры",
 	"ui_editor_pane_header_assets" : "Активы",
 	
@@ -228,15 +262,16 @@
 	"ui_editor_filemenu_template_wizard" : "Мастер шаблонов",
 	"ui_editor_filemenu_view" : "Просмотр",
 	"ui_editor_filemenu_restart_preview" : "Перезапустить предпросмотр",
-	"ui_editor_filemenu_preview_aspect_ratio" : "Соотношение сторон предварительного просмотра",
+	"ui_editor_filemenu_preview_aspect_ratio" : "Соотношение сторон предпросмотра",
 	"ui_editor_filemenu_aspect_ratio_free" : "Свободный",
 	"ui_editor_filemenu_reset_camera" : "Сброс камеры",
 	"ui_editor_filemenu_show_grid" : "Показать сетку",
 	"ui_editor_filemenu_show_in_workshop" : "Открыть в Мастерской",
 	"ui_editor_filemenu_prepare_for_publishing" : "Опубликовать в Мастерской",
 
-	"ui_editor_treeview_header_scene" : "Графа сцены",
 	"ui_editor_treeview_header_files" : "Импортированные файлы",
+	"ui_editor_tooltip_layers" : "Слои",
+	"ui_editor_tooltip_scene_options" : "Параметры сцены",
 
 	"ui_editor_camera_add_path" : "Добавить путь",
 	"ui_editor_camera_select_path" : "Пожалуйста, выберите путь.",
@@ -278,13 +313,13 @@
 	"ui_editor_publish_modal_button_show_in_workshop" : "Показать обои в Мастерской",
 	"ui_editor_publish_modal_steam_error" : "Ошибка (Steam):",
 	"ui_editor_publish_modal_publish_successful" : "Обои успешно загружены в Мастерскую!",
-	"ui_editor_publish_modal_publish_prompt_agreement" : "Вам нужно принять правила Мастерской для публикации обоев. Ваши обои в Мастерской:",
+	"ui_editor_publish_modal_publish_prompt_agreement" : "Вам нужно принять правила Мастерской перед публикации обоев. Ваши обои в Мастерской:",
 	
 	"ui_editor_workshop_options_title" : "Название",
 	"ui_editor_workshop_options_description" : "Описание",
 	"ui_editor_workshop_options_tags" : "Теги",
 	"ui_editor_workshop_options_genre" : "Жанр",
-	"ui_editor_workshop_genre_empty" : "< Выберите >",
+	"ui_editor_workshop_genre_empty" : "< Выберите жанр >",
 	"ui_editor_workshop_options_scheme_color" : "Цветовая палитра",
 	"ui_editor_workshop_options_visibility" : "Видимость",
 	"ui_editor_workshop_options_monetization" : "Монетизация",
@@ -297,7 +332,7 @@
 	"ui_editor_workshop_options_required" : " *обязательно",
 	
 	"ui_editor_open_modal_header" : "Открыть обои",
-	"ui_editor_open_modal_delete" : "Удалить",
+	"ui_editor_open_modal_delete" : " Удалить",
 
 	"ui_editor_project_settings_modal_header" : "Настройки проекта",
 	"ui_editor_project_settings_modal_header_general" : "Основные",
@@ -305,7 +340,7 @@
 	"ui_editor_project_settings_modal_scheme_color" : "Цветовая палитра",
 	"ui_editor_project_settings_modal_scene" : "Сцена",
 	"ui_editor_project_settings_modal_bloom" : "Блум",
-	"ui_editor_project_settings_modal_clear_color" : "Очистить цвет",
+	"ui_editor_project_settings_modal_clear_color" : "Фоновый цвет",
 	"ui_editor_project_settings_modal_ambient_color" : "Цвет амбиента",
 	"ui_editor_project_settings_modal_skylight_color" : "Цвет света",
 
@@ -330,19 +365,19 @@
 	"ui_editor_help_tutorial_item_web_images" : "Импорт изображений пользователя",
 	"ui_editor_help_tutorial_item_web_fps_limit" : "Пользовательский лимит FPS",
 
-	"ui_editor_help_tutorial_group_advanced_scene" : "Сцера",
+	"ui_editor_help_tutorial_group_advanced_scene" : "Сцена",
 	"ui_editor_help_tutorial_item_scene_shaders" : "Создание шейдеров",
 
 	"ui_editor_snapshot_instructions" : "1. Нарисуйте прямоугольник с помощью мышки.\n2. Нажмите Enter для выбора.\n\nНажмите пробел для паузы.\nНажмите Escape для отмены.",
 
 	"ui_editor_workshop_rules_modal_title" : "Правила Мастерской",
 	"ui_editor_workshop_rules_modal_body" : "Прежде, чем предоставлять ваши обои Мастерской, убедитесь, что они не нарушают Пользовательское Соглашение Steam, иначе оно будет удалено:",
-	"ui_editor_workshop_rules_modal_list_header" : "В частности следующие правила существуют для обоев, изображению предварительного просмотра и описанию:",
+	"ui_editor_workshop_rules_modal_list_header" : "В частности следующие правила существуют для обоев, изображению предпросмотра и описанию:",
 	"ui_editor_workshop_rules_modal_rule_nudity" : "Никакого порнографического содержания или обнаженных тел",
 	"ui_editor_workshop_rules_modal_rule_offensive" : "Никакого оскорбительного содержания или насилия/крови",
 	"ui_editor_workshop_rules_modal_rule_copyright" : "Никаких нарушений авторских прав",
 	"ui_editor_workshop_rules_modal_rule_ads" : "Никаких рекламных объявлений",
-	"ui_editor_workshop_rules_modal_rule_misleading" : "Никаких вводящих в заблуждение изображений предварительного просмотра",
+	"ui_editor_workshop_rules_modal_rule_misleading" : "Никаких вводящих в заблуждение изображений предпросмотра",
 
 	"ui_editor_workshop_tags_limit" : "Разрешено только 3 тега.",
 	"ui_editor_workshop_tags_placeholder": "Добавить тег",
@@ -368,5 +403,19 @@
 	"ui_workshop_tags_technology" : "Технологии",
 	"ui_workshop_tags_television" : "Телевидение",
 	"ui_workshop_tags_vehicle" : "Транспорт",
-	"ui_workshop_tags_unspecified" : "Неуказанный"
+	"ui_workshop_tags_unspecified" : "Неуказан жанр",
+
+	"ui_editor_scene_options_bloom" : "Свечение",
+	"ui_editor_scene_options_bloom_strength" : "Сила",
+	"ui_editor_scene_options_bloom_threshold" : "Порог",
+	"ui_editor_scene_options_background_color" : "Фоновый цвет",
+	"ui_editor_scene_options_camera_preview" : "Предпросмотр камеры",
+	"ui_editor_scene_options_camera_shake" : "Тряска камеры",
+	"ui_editor_scene_options_camera_shake_speed" : "Скорость",
+	"ui_editor_scene_options_camera_shake_amplitude" : "Амплитуда",
+	"ui_editor_scene_options_camera_shake_roughness" : "Ровность",
+	"ui_editor_scene_options_camera_parallax" : "Параллакс камеры",
+	"ui_editor_scene_options_camera_parallax_amount" : "Количество",
+	"ui_editor_scene_options_camera_parallax_delay" : "Задержка",
+	"ui_editor_scene_options_camera_mouse_influence" : "Влияние мыши"
 }
