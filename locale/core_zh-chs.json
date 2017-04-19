@@ -70,5 +70,5 @@
 	"core_updater_status_complete" : "安装成功",
 	"core_updater_status_complete_errors" : "安装完成时出错",
 	"core_updater_status_complete_starting" : "启动Wallpaper Engine...",
-	"core_updater_status_cancelled" : "过程被用户取消"
+	"core_updater_status_cancelled" : "进程被用户取消"
 }

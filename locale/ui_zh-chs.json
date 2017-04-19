@@ -165,7 +165,6 @@
 	"ui_settings_performance" :  "性能",
 	"ui_settings_general" : "综合",
 	"ui_settings_miscellaneous" : "杂项",
-
 	"ui_settings_ui_language" : "界面语言:",
 	"ui_settings_ui_skin" : "界面皮肤:",
 	"ui_settings_icon_opacity" : "桌面图标不透明度:",
@@ -276,6 +275,7 @@
 
 	"ui_editor_camera_add_path" : "添加路径",
 	"ui_editor_camera_select_path" : "请在左侧选择一个路径",
+	"ui_editor_camera_add_renderable" : "新增",
 	"ui_editor_gizmo_translate" : "平移",
 	"ui_editor_gizmo_rotate" : "旋转",
 	"ui_editor_gizmo_scale" : "缩放",
@@ -297,6 +297,7 @@
 	"ui_editor_welcome_modal_no_file_selected" : "未选中任何文件",
 	"ui_editor_welcome_modal_imported_files" : "已导入的文件",
 	"ui_editor_welcome_modal_template" : "模板",
+	"ui_editor_welcome_modal_aspect" : "显示器比例",
 	"ui_editor_welcome_modal_title_new" : "新建",
 	"ui_editor_welcome_modal_title_welcome" : "欢迎",
 
@@ -344,7 +345,8 @@
 	"ui_editor_project_settings_modal_clear_color" : "背景色",
 	"ui_editor_project_settings_modal_ambient_color" : "环境色",
 	"ui_editor_project_settings_modal_skylight_color" : "天空光颜色",
-
+	"ui_editor_project_settings_modal_resolution" : "解像度",
+	
 	"ui_editor_help_header" : "帮助",
 	"ui_editor_help_tutorial_category_beginner_title" : "初学者教程",
 	"ui_editor_help_tutorial_category_advanced_title" : "高级教程",
@@ -419,4 +421,14 @@
 	"ui_editor_scene_options_camera_parallax_amount" : "数量",
 	"ui_editor_scene_options_camera_parallax_delay" : "延迟",
 	"ui_editor_scene_options_camera_mouse_influence" : "鼠标影响"
+	"ui_editor_scene_options_camera_fade" : "镜头褪色",
+	
+	"ui_editor_effects_modal_imagelayer_name" : "图层",
+	"ui_editor_effects_modal_imagelayer_description" : "从你的電腦中加入图片",
+	"ui_editor_effects_modal_fullscreenlayer_name" : "全屏",
+	"ui_editor_effects_modal_fullscreenlayer_description" : "新增一个半透明圖图覆盖整个屏幕,此图层上的所有效果将会影响之前的物件",
+	"ui_editor_effects_modal_composelayer_name" : "組合层",
+	"ui_editor_effects_modal_composelayer_description" : "增加一个指定尺寸的半透明图层,将其他物件与此图层合并成一个效果",
+	"ui_editor_effects_modal_model_name" : "模型",
+	"ui_editor_effects_modal_model_description" : "从你的電腦中加入3D模型"
 }
