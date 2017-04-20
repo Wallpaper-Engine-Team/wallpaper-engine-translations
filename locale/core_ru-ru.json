@@ -14,7 +14,7 @@
 	
 	"core_balloon_info" : "Чтобы выбрать обои щёлкните два раза по иконке Wallpaper Engine в области уведомлений.",
 	"core_balloon_desktop_window_error" : "Ошибка подготовки рабочего стола к живым обоям.",
-	"core_balloon_video_error" : "Произошла ошибка видео:",
+	"core_balloon_video_error" : "Произошла ошибка видео: {{err}}",
 	"core_balloon_app_error" : "Ошибка загрузки приложения в качестве фона рабочего стола.",
 	
 	"core_msgboxtitle_error" : "Ошибка",

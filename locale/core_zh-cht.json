@@ -30,7 +30,7 @@
 	"core_msgbox_aero_failure_no_support" : "無法啟動Aero。 您可能使用 Windows 7 入門版或 Basic 版, 它不支援 Aero。 Wallpaper Engine 將關閉。",
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine 停止回應。\n\n要強制重啟 Wallpaper Engine嗎?",
 	"core_msgbox_init_secondinstance_failed" : "重新啟動失敗，錯誤代碼:",
-	"core_msgbox_below_win_7" : "Wallpaper Engine 需要 Windows 7 或更高的系統版本。\n\n看起來你正在使用一個不受 Wallpaper Engine 所支援的 Windows 版本，Wallpaper Engine 可能不會正常執行。"
+	"core_msgbox_below_win_7" : "Wallpaper Engine 需要 Windows 7 或更高的系統版本。\n\n看起來你正在使用一個不受 Wallpaper Engine 所支援的 Windows 版本，Wallpaper Engine 可能不會正常執行。",
 	"core_msgbox_media_feature_pack_missing" : "mfplat.dll檔案不存在！\n您可能使用的是Windows N版本。請安装Microsoft的Media Feature Pack以啟用視頻支持！ (搜索: Media Feature Pack Windows 10/8.1/7)",
 	
 	"core_updater_headline_init" : "設定Wallpaper Engine中",
