@@ -28,7 +28,7 @@
 	"core_msgbox_aero_denied" : "Wallpaper Engine 无法在没有 Aero 的环境中运行，正在退出。",
 	"core_msgbox_aero_failure" : "启动 Aero 失败。 Wallpaper Engine 现在会退出。",
 	"core_msgbox_aero_failure_no_support" : "无法启用Aero，您似乎使用的是简易版或普通版的Windows 7，它不支持Aero，Wallpaper Engine现在将退出。",
-	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine 已经在运行且失去相应。\n\n强制重启 Wallpaper Engine?",
+	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine 已经失去响应。\n\n强制重启 Wallpaper Engine?",
 	"core_msgbox_init_secondinstance_failed" : "重新启动失败，错误代码:",
 	"core_msgbox_below_win_7" : "Wallpaper Engine 需要运行在 Windows 7 或更高的系统版本上。\n\n看起来你正在运行一个不受 Wallpaper Engine 所支持的 Windows 版本，Wallpaper Engine 可能不会正常工作。",
 	"core_msgbox_media_feature_pack_missing" : "mfplat.dll文件丢失！\n您可能使用的是Windows N版本。请安装Microsoft的Media Feature Pack以启用视频支持！ (搜索: Media Feature Pack Windows 10/8.1/7)",
