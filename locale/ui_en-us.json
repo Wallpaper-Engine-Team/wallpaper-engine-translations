@@ -409,6 +409,7 @@
 	"ui_editor_scene_options_bloom_strength" : "Strength",
 	"ui_editor_scene_options_bloom_threshold" : "Threshold",
 	"ui_editor_scene_options_background_color" : "Background color",
+	"ui_editor_scene_options_camera_fade" : "Camera fade",
 	"ui_editor_scene_options_camera_preview" : "Camera preview",
 	"ui_editor_scene_options_camera_shake" : "Camera shake",
 	"ui_editor_scene_options_camera_shake_speed" : "Speed",
