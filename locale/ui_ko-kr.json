@@ -20,6 +20,7 @@
 	"ui_browse_sort_by" : "분류",
 	"ui_browse_filter_type" : "유형",
 	"ui_browse_filter_source" : "출처",
+	"ui_browse_filter_resolution" : "해상도",
 	"ui_browse_filter_tags" : "태그",
 	"ui_browse_grid_no_results" : "조건에 맞는 배경화면이 없습니다.",
 	"ui_browse_grid_no_results_refreshing" : "스팀 응답 대기중...",
@@ -92,6 +93,11 @@
 	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>소리 크기",
 	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>설정에서 오디오 비활성화됨",
 	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>음향 녹음",
+	"ui_browse_properties_alignment" : "<span class='fa fa-image propertyIcon'></span>정렬",
+	"ui_browse_properties_alignment_cover" : "덮기",
+	"ui_browse_properties_alignment_center" : "중앙",
+	"ui_browse_properties_alignment_stretch" : "늘리기",
+	"ui_browse_properties_alignment_position" : "<span class='fa fa-arrows-h propertyIcon'></span>위치",
 	
 	"ui_browse_playlist_header" : "재생목록",
 	"ui_browse_playlist_modal_open_header" : "재생목록 열기",
@@ -204,6 +210,10 @@
 	"ui_settings_advanced_reset_config_modal_header" : "초기화 확인",
 	"ui_settings_advanced_reset_config_modal_body" : "모든 설정이 초기화되고 애플리케이션이 재시작해야 합니다.",
 	"ui_settings_video_audio_label" : "비디오 오디오 출력",
+	"ui_settings_video_hardware_acceleration_label" : "비디오 하드웨어 가속",
+	"ui_settings_process_priority" : "프로세스 우선순위",
+	"ui_settings_process_priority_normal" : "보통",
+	"ui_settings_process_priority_below_normal" : "보통 이하",
 	
 	"ui_settings_copyright" : "모든 권리는 저작권자에게 있습니다.",
 	"ui_settings_thirdparty" : "공지",
@@ -256,8 +266,9 @@
 	"ui_editor_filemenu_show_in_workshop" : "창작마당에서 보기",
 	"ui_editor_filemenu_prepare_for_publishing" : "공개 대기중",
 
-	"ui_editor_treeview_header_scene" : "장면 그래프",
 	"ui_editor_treeview_header_files" : "삽입된 파일들",
+	"ui_editor_tooltip_layers" : "레이어",
+	"ui_editor_tooltip_scene_options" : "씬 설정",
 
 	"ui_editor_camera_add_path" : "경로 추가",
 	"ui_editor_camera_select_path" : "왼쪽에서 경로를 선택하길 바랍니다.",
@@ -326,7 +337,7 @@
 	"ui_editor_project_settings_modal_scheme_color" : "색체 계획",
 	"ui_editor_project_settings_modal_scene" : "장면",
 	"ui_editor_project_settings_modal_bloom" : "Bloom 효과",
-	"ui_editor_project_settings_modal_clear_color" : "색깔 초기화",
+	"ui_editor_project_settings_modal_clear_color" : "배경색",
 	"ui_editor_project_settings_modal_ambient_color" : "잔잔한 색깔",
 	"ui_editor_project_settings_modal_skylight_color" : "하늘빛 색깔",
 	
@@ -386,5 +397,19 @@
 	"ui_workshop_tags_technology" : "기술",
 	"ui_workshop_tags_television" : "텔레비전",
 	"ui_workshop_tags_vehicle" : "교통수단",
-	"ui_workshop_tags_unspecified" : "태그 설정되지 않음"
+	"ui_workshop_tags_unspecified" : "장르 설정되지 않음",
+	
+	"ui_editor_scene_options_bloom" : "Bloom 효과",
+	"ui_editor_scene_options_bloom_strength" : "세기",
+	"ui_editor_scene_options_bloom_threshold" : "적용 범위",
+	"ui_editor_scene_options_background_color" : "배경 색",
+	"ui_editor_scene_options_camera_preview" : "카메라 미리보기",
+	"ui_editor_scene_options_camera_shake" : "카메라 흔들림",
+	"ui_editor_scene_options_camera_shake_speed" : "속도",
+	"ui_editor_scene_options_camera_shake_amplitude" : "진폭",
+	"ui_editor_scene_options_camera_shake_roughness" : "거친 정도",
+	"ui_editor_scene_options_camera_parallax" : "카메라 시차",
+	"ui_editor_scene_options_camera_parallax_amount" : "양",
+	"ui_editor_scene_options_camera_parallax_delay" : "지연",
+	"ui_editor_scene_options_camera_mouse_influence" : "마우스의 영향"
 }

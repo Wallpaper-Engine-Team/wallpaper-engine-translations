@@ -20,6 +20,7 @@
 	"ui_browse_sort_by" : "並び替え",
 	"ui_browse_filter_type" : "タイプ",
 	"ui_browse_filter_source" : "ソース",
+	"ui_browse_filter_resolution" : "解像度",
 	"ui_browse_filter_tags" : "タグ",
 	"ui_browse_grid_no_results" : "適合する壁紙はありません",
 	"ui_browse_grid_no_results_refreshing" : "Steamの応答待ち...",
@@ -92,6 +93,11 @@
 	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>音量",
 	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>設定で音声無効",
 	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>オーディオ録音",
+	"ui_browse_properties_alignment" : "<span class='fa fa-image propertyIcon'></span>並べる",
+	"ui_browse_properties_alignment_cover" : "カバー",
+	"ui_browse_properties_alignment_center" : "センター",
+	"ui_browse_properties_alignment_stretch" : "ストレッチ",
+	"ui_browse_properties_alignment_position" : "<span class='fa fa-arrows-h propertyIcon'></span>位置",
 	
 	"ui_browse_playlist_header" : "プレイリスト",
 	"ui_browse_playlist_modal_open_header" : "プレイリストを開く",
@@ -134,8 +140,8 @@
 	"ui_browse_query_sort_by_trend_last_month" : "人気 (今月)",
 	"ui_browse_query_sort_by_trend_year" : "人気 (今年)",
 	"ui_browse_query_sort_friends_favorites" : "フレンドのお気に入り",
-	"ui_browse_query_sort_friends_created" : "フレンドにより作成",
-	"ui_browse_query_sort_by_followed_users" : "フォローしたユーザーにより作成",
+	"ui_browse_query_sort_friends_created" : "フレンドの作品",
+	"ui_browse_query_sort_by_followed_users" : "フォローユーザ作品",
 	"ui_browse_query_sort_most_up_votes" : "アップ投票順",
 	"ui_browse_query_sort_most_subscriptions" : "購読者順",
 
@@ -203,7 +209,11 @@
 	"ui_settings_advanced_reset_config_button" : "リセット",
 	"ui_settings_advanced_reset_config_modal_header" : "リセット確認",
 	"ui_settings_advanced_reset_config_modal_body" : "すべての設定は初期化されました。再起動が必要です。",
-	"ui_settings_video_audio_label" : "ビデオ オーディオ アウトプット",
+	"ui_settings_video_audio_label" : "ビデオの音声を出力",
+	"ui_settings_video_hardware_acceleration_label" : "ビデオハードウェアアクセラレーション",
+	"ui_settings_process_priority" : "プロセス優先順位",
+	"ui_settings_process_priority_normal" : "普通",
+	"ui_settings_process_priority_below_normal" : "普通以下",
 	
 	"ui_settings_copyright" : "All rights reserved.",
 	"ui_settings_thirdparty" : "Thirdparty notices",
@@ -261,6 +271,8 @@
 
 	"ui_editor_treeview_header_scene" : "シーングラフ",
 	"ui_editor_treeview_header_files" : "インポートしたファイル",
+	"ui_editor_tooltip_layers" : "レイヤー",
+	"ui_editor_tooltip_scene_options" : "シーンオプション",
 
 	"ui_editor_camera_add_path" : "パス追加",
 	"ui_editor_camera_select_path" : "左のパスを選択してください。",
@@ -329,7 +341,7 @@
 	"ui_editor_project_settings_modal_scheme_color" : "ツールバーの色",
 	"ui_editor_project_settings_modal_scene" : "シーン",
 	"ui_editor_project_settings_modal_bloom" : "ブルーム",
-	"ui_editor_project_settings_modal_clear_color" : "クリアカラー",
+	"ui_editor_project_settings_modal_clear_color" : "背景色",
 	"ui_editor_project_settings_modal_ambient_color" : "周囲の色",
 	"ui_editor_project_settings_modal_skylight_color" : "天窓の色",
 	
@@ -392,5 +404,19 @@
 	"ui_workshop_tags_technology" : "テクノロジー",
 	"ui_workshop_tags_television" : "テレビ",
 	"ui_workshop_tags_vehicle" : "車両",
-	"ui_workshop_tags_unspecified" : "未指定"
+	"ui_workshop_tags_unspecified" : "不特定ジャンル",
+	
+	"ui_editor_scene_options_bloom" : "ブルーム",
+	"ui_editor_scene_options_bloom_strength" : "強さ",
+	"ui_editor_scene_options_bloom_threshold" : "閾値",
+	"ui_editor_scene_options_background_color" : "背景色",
+	"ui_editor_scene_options_camera_preview" : "カメラプレビュー",
+	"ui_editor_scene_options_camera_shake" : "手ブレ",
+	"ui_editor_scene_options_camera_shake_speed" : "速度",
+	"ui_editor_scene_options_camera_shake_amplitude" : "大きさ",
+	"ui_editor_scene_options_camera_shake_roughness" : "粗さ",
+	"ui_editor_scene_options_camera_parallax" : "カメラ視差",
+	"ui_editor_scene_options_camera_parallax_amount" : "量",
+	"ui_editor_scene_options_camera_parallax_delay" : "遅延",
+	"ui_editor_scene_options_camera_mouse_influence" : "マウス影響"
 }

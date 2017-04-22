@@ -20,6 +20,7 @@
 	"ui_browse_sort_by" : "Urut berdasarkan",
 	"ui_browse_filter_type" : "Tipe",
 	"ui_browse_filter_source" : "Sumber",
+	"ui_browse_filter_resolution" : "Resolusi",
 	"ui_browse_filter_tags" : "Tag",
 	"ui_browse_grid_no_results" : "Tidak ada latar belakang yang memenuhi kriteria anda",
 	"ui_browse_grid_no_results_refreshing" : "Menunggu respon dari Steam...",
@@ -92,7 +93,12 @@
 	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>Volume",
 	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>Audio dimatikan di pengaturan",
 	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>Rekaman audio",
- 
+ 	"ui_browse_properties_alignment" : "<span class='fa fa-image propertyIcon'></span>Kesejajaran",
+ 	"ui_browse_properties_alignment_cover" : "Sampul",
+ 	"ui_browse_properties_alignment_center" : "Tengah",
+ 	"ui_browse_properties_alignment_stretch" : "Melebar",
+ 	"ui_browse_properties_alignment_position" : "<span class='fa fa-arrows-h propertyIcon'></span>Posisi",
+
 	"ui_browse_playlist_header" : "Daftar Putar",
 	"ui_browse_playlist_modal_open_header" : "Buka Daftar Putar",
 	"ui_browse_playlist_modal_open_delete" : "Hapus",
@@ -199,12 +205,16 @@
 	"ui_settings_log_none" : "Tidak ada",
 	"ui_settings_log_errors" : "Hanya Galat",
 	"ui_settings_log_verbose" : "Verbos",
-   
 	"ui_settings_advanced_reset_config" : "Pengaturan Ulang:",
 	"ui_settings_advanced_reset_config_button" : "ATUR ULANG",
 	"ui_settings_advanced_reset_config_modal_header" : "Konfirmasi pengaturan ulang",
 	"ui_settings_advanced_reset_config_modal_body" : "Semua pengaturan anda akan dihapus dan aplikasi akan dimulai ulang.",
 	"ui_settings_video_audio_label" : "Keluaran suara video:",
+	"ui_settings_video_hardware_acceleration_label" : "Akselerasi perangkat keras video",
+ 	"ui_settings_process_priority" : "Prioritas proses",
+ 	"ui_settings_process_priority_normal" : "Normal",
+ 	"ui_settings_process_priority_below_normal" : "Dibawah normal",
+
 	"ui_settings_copyright" : "Dilindungi Hak cipta.",
 	"ui_settings_thirdparty" : "Informasi pihak ketiga",
 	"ui_settings_highpriority_warning_header" : "Pemberian Prioritas Tinggi",
@@ -258,9 +268,11 @@
 	"ui_editor_filemenu_show_in_workshop" : "Tampilkan di Workshop",
 	"ui_editor_filemenu_prepare_for_publishing" : "Persiapkan untuk publikasi",
  
-	"ui_editor_treeview_header_scene" : "Grafik Scene",
-	"ui_editor_treeview_header_files" : "Berkas yang diimpor",
 	
+	"ui_editor_treeview_header_files" : "Berkas yang diimpor",
+	"ui_editor_tooltip_layers" : "Lapisan",
+ 	"ui_editor_tooltip_scene_options" : "Opsi Scene",
+
 	"ui_editor_camera_add_path" : "Tambah jalan",
 	"ui_editor_camera_select_path" : "Silahkan pilih jalan di sebelah kiri.",
 	"ui_editor_gizmo_translate" : "Terjemah",
@@ -328,7 +340,7 @@
 	"ui_editor_project_settings_modal_scheme_color" : "Warna skema",
 	"ui_editor_project_settings_modal_scene" : "Scene",
 	"ui_editor_project_settings_modal_bloom" : "Bloom",
-	"ui_editor_project_settings_modal_clear_color" : "Warna jelas",
+	"ui_editor_project_settings_modal_clear_color" : "Warna latar belakang",
 	"ui_editor_project_settings_modal_ambient_color" : "Warna ambien",
 	"ui_editor_project_settings_modal_skylight_color" : "Warna langit",
    
@@ -391,5 +403,19 @@
 	"ui_workshop_tags_technology" : "Teknologi",
 	"ui_workshop_tags_television" : "Televisi",
 	"ui_workshop_tags_vehicle" : "Kendaraan",
-	"ui_workshop_tags_unspecified" : "Tidak spesifik"
+	"ui_workshop_tags_unspecified" : "Tema tidak dispesifikkan",
+ 	
+ 	"ui_editor_scene_options_bloom" : "Pencahayaan",
+ 	"ui_editor_scene_options_bloom_strength" : "Kekuatan",
+ 	"ui_editor_scene_options_bloom_threshold" : "Batas",
+ 	"ui_editor_scene_options_background_color" : "Warna latar belakang",
+ 	"ui_editor_scene_options_camera_preview" : "Peninjauan kamera",
+ 	"ui_editor_scene_options_camera_shake" : "Getaran kamera",
+ 	"ui_editor_scene_options_camera_shake_speed" : "Kecepatan",
+ 	"ui_editor_scene_options_camera_shake_amplitude" : "Amplitudo",
+ 	"ui_editor_scene_options_camera_shake_roughness" : "Kekerasan",
+ 	"ui_editor_scene_options_camera_parallax" : "Kamera parallax",
+ 	"ui_editor_scene_options_camera_parallax_amount" : "Jumlah",
+ 	"ui_editor_scene_options_camera_parallax_delay" : "Jeda",
+ 	"ui_editor_scene_options_camera_mouse_influence" : "Pengaruh mouse"
 }
