@@ -110,7 +110,7 @@
 	"ui_browse_playlist_modal_settings_reset" : "Сброс",
 	"ui_browse_playlist_modal_settings_order_label" : "Порядок",
 	"ui_browse_playlist_modal_settings_order_random" : "Случайно",
-	"ui_browse_playlist_modal_settings_order_sorted" : "Сортировка",
+	"ui_browse_playlist_modal_settings_order_sorted" : "По порядку",
 	"ui_browse_playlist_modal_settings_timing_label" : "Сменить обои",
 	"ui_browse_playlist_modal_settings_timing_on_logon" : "при входе в систему",
 	"ui_browse_playlist_modal_settings_timing_after_5_minutes" : "после 5 минут",
