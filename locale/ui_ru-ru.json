@@ -266,6 +266,7 @@
 	"ui_editor_filemenu_aspect_ratio_free" : "Свободный",
 	"ui_editor_filemenu_reset_camera" : "Сброс камеры",
 	"ui_editor_filemenu_show_grid" : "Показать сетку",
+	"ui_editor_filemenu_show_stats" : "Показать статистику",
 	"ui_editor_filemenu_show_in_workshop" : "Открыть в Мастерской",
 	"ui_editor_filemenu_prepare_for_publishing" : "Опубликовать в Мастерской",
 
@@ -275,6 +276,7 @@
 
 	"ui_editor_camera_add_path" : "Добавить путь",
 	"ui_editor_camera_select_path" : "Пожалуйста, выберите путь.",
+	"ui_editor_camera_add_renderable" : "Добавить",
 	"ui_editor_gizmo_translate" : "Перевод",
 	"ui_editor_gizmo_rotate" : "Поворот",
 	"ui_editor_gizmo_scale" : "Масштаб",
@@ -296,6 +298,7 @@
 	"ui_editor_welcome_modal_no_file_selected" : "Не выбран файл",
 	"ui_editor_welcome_modal_imported_files" : "Импортированные файлы",
 	"ui_editor_welcome_modal_template" : "Шаблон",
+	"ui_editor_welcome_modal_aspect" : "Соотношение сторон",
 	"ui_editor_welcome_modal_title_new" : "Новый",
 	"ui_editor_welcome_modal_title_welcome" : "Добро пожаловать",
 
@@ -343,6 +346,7 @@
 	"ui_editor_project_settings_modal_clear_color" : "Фоновый цвет",
 	"ui_editor_project_settings_modal_ambient_color" : "Цвет амбиента",
 	"ui_editor_project_settings_modal_skylight_color" : "Цвет света",
+	"ui_editor_project_settings_modal_resolution" : "Разрешение",
 
 	"ui_editor_help_header" : "Помощь",
 	"ui_editor_help_tutorial_category_beginner_title" : "Руководства для начинающих",
