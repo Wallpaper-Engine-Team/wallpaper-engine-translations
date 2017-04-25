@@ -421,7 +421,7 @@
 	"ui_editor_scene_options_camera_parallax" : "Параллакс камеры",
 	"ui_editor_scene_options_camera_parallax_amount" : "Количество",
 	"ui_editor_scene_options_camera_parallax_delay" : "Задержка",
-	"ui_editor_scene_options_camera_mouse_influence" : "Влияние мыши"
+	"ui_editor_scene_options_camera_mouse_influence" : "Влияние мыши",
 	"ui_editor_scene_options_camera_fade" : "Исчезание камеры",
 	"ui_editor_effects_modal_imagelayer_name" : "Слой изображений",
 	"ui_editor_effects_modal_imagelayer_description" : "Импортировать изображение с вашего компьютера.",
