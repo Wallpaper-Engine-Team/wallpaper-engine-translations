@@ -48,7 +48,7 @@
 	"core_updater_status_distro_prepare_error" : "Boost error při procházení zdrojové složky {{error}}",
 	"core_updater_status_distro_copy_error" : "Boost error při kopírování souborů {{error}}",
 	"core_updater_status_distro_missing" : "Chybějící zdrojová složka",
-	"core_updater_status_distro_file_path_error" : "Nepodařilo se převést souborovou cestu: {{error}}",
+	"core_updater_status_distro_file_path_error" : "Nepodařilo se převést adresářovou cestu: {{error}}",
 	"core_updater_status_distro_file_directory" : "Vytváření: {{filepath}}",
 	"core_updater_status_distro_file_directory_error" : "Nepodařilo se vytvořit složku: {{error}}",
 	"core_updater_status_distro_file_copy" : "Kopírování: {{filepath}}",
