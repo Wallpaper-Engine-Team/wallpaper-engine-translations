@@ -20,6 +20,7 @@
 	"ui_browse_sort_by" : "Zoradiť",
 	"ui_browse_filter_type" : "Typ",
 	"ui_browse_filter_source" : "Zdroj",
+	"ui_browse_filter_resolution" : "Rozlíšenie",
 	"ui_browse_filter_tags" : "Označenia",
 	"ui_browse_grid_no_results" : "Žiadne pozadia nespĺňajú kritériá",
 	"ui_browse_grid_no_results_refreshing" : "Čakanie na odpoveď Steamu...",
@@ -92,6 +93,11 @@
 	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>Hlasitosť",
 	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>Zvuky vypnuté v nastaveniach",
 	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>Nahrávanie zvuku",
+	"ui_browse_properties_alignment" : "<span class='fa fa-image propertyIcon'></span>Zarovnanie",
+	"ui_browse_properties_alignment_cover" : "Prekryť",
+	"ui_browse_properties_alignment_center" : "Doprostred",
+	"ui_browse_properties_alignment_stretch" : "Natiahnuť",
+	"ui_browse_properties_alignment_position" : "<span class='fa fa-arrows-h propertyIcon'></span>Pozícia",
 	
 	"ui_browse_playlist_header" : "Zoznam skladieb",
 	"ui_browse_playlist_modal_open_header" : "Otvoriť zoznam skladieb",
@@ -204,6 +210,10 @@
 	"ui_settings_advanced_reset_config_modal_header" : "Potvrdiť Reset",
 	"ui_settings_advanced_reset_config_modal_body" : "Všetky vaše nastavenia budú zresetované a aplikácia potrebuje reštart.",
 	"ui_settings_video_audio_label" : "Video audio výstup:",
+	"ui_settings_video_hardware_acceleration_label" : "Video hardware akcelerácia",
+	"ui_settings_process_priority" : "Priorita procesu",
+	"ui_settings_process_priority_normal" : "Nromálna",
+	"ui_settings_process_priority_below_normal" : "Pod normálnu",
 	
 	"ui_settings_copyright" : "Všetky práva vyhradené.",
 	"ui_settings_thirdparty" : "Oznámenia tretej strany",
@@ -259,8 +269,9 @@
 	"ui_editor_filemenu_show_in_workshop" : "Ukázať vo Workshope",
 	"ui_editor_filemenu_prepare_for_publishing" : "Príprava na publikovanie",
 
-	"ui_editor_treeview_header_scene" : "Graf scény",
 	"ui_editor_treeview_header_files" : "Importované súbory",
+	"ui_editor_tooltip_layers" : "Vrstvy",
+	"ui_editor_tooltip_scene_options" : "Nastavenia scény",
 
 	"ui_editor_camera_add_path" : "Pridať cestu",
 	"ui_editor_camera_select_path" : "Prosím vyberte cestu naľavo.",
@@ -329,7 +340,7 @@
 	"ui_editor_project_settings_modal_scheme_color" : "Farba schémy",
 	"ui_editor_project_settings_modal_scene" : "Scéna",
 	"ui_editor_project_settings_modal_bloom" : "Bloom",
-	"ui_editor_project_settings_modal_clear_color" : "Čistá farba",
+	"ui_editor_project_settings_modal_clear_color" : "Farba pozadia",
 	"ui_editor_project_settings_modal_ambient_color" : "Okolitá farba",
 	"ui_editor_project_settings_modal_skylight_color" : "Skylight farba",
 	
@@ -392,5 +403,19 @@
 	"ui_workshop_tags_technology" : "Technologické",
 	"ui_workshop_tags_television" : "Televízne",
 	"ui_workshop_tags_vehicle" : "Vozidlá",
-	"ui_workshop_tags_unspecified" : "Nešpecifikované"
+	"ui_workshop_tags_unspecified" : "Nešpecifikovaný žáner",
+
+	"ui_editor_scene_options_bloom" : "Presvetlenie",
+	"ui_editor_scene_options_bloom_strength" : "Sila",
+	"ui_editor_scene_options_bloom_threshold" : "Prah",
+	"ui_editor_scene_options_background_color" : "Farba pozadia",
+	"ui_editor_scene_options_camera_preview" : "Náhľad kamery",
+	"ui_editor_scene_options_camera_shake" : "Trasenie kamery",
+	"ui_editor_scene_options_camera_shake_speed" : "Rýchlosť",
+	"ui_editor_scene_options_camera_shake_amplitude" : "Amplitúda",
+	"ui_editor_scene_options_camera_shake_roughness" : "Drsnosť",
+	"ui_editor_scene_options_camera_parallax" : "Paralaxa kamery",
+	"ui_editor_scene_options_camera_parallax_amount" : "Počet",
+	"ui_editor_scene_options_camera_parallax_delay" : "Oneskorenie",
+	"ui_editor_scene_options_camera_mouse_influence" : "Vplyv myši"
 }

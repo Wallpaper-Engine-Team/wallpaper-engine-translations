@@ -1,0 +1,11 @@
+{
+	"ui_caption_browse" : "Vaata tapeet",
+	"ui_caption_settings" : "Seaded",
+	"ui_caption_editor" : "tapeet toimetaja",
+
+	"ui_ok" : "OK",
+	"ui_cancel" : "Tühistamine",
+	"ui_back" : "Tagasi",
+	"ui_close" : "Sulgetada",
+	"ui_retry" : "Kordama"
+}
