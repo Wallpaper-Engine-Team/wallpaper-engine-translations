@@ -424,7 +424,7 @@
 	"ui_editor_scene_options_camera_mouse_influence" : "鼠标影响",
 	"ui_editor_scene_options_camera_fade" : "镜头褪色",
 	
-	"ui_editor_effects_modal_imagelayer_name" : "图层",
+	"ui_editor_effects_modal_imagelayer_name" : "图片",
 	"ui_editor_effects_modal_imagelayer_description" : "从你的电脑中导入图片",
 	"ui_editor_effects_modal_fullscreenlayer_name" : "全屏",
 	"ui_editor_effects_modal_fullscreenlayer_description" : "新增一个覆盖整个屏幕的半透明图层,此图层上的所有效果将会影响之前在屏幕上放置的所有物件",
@@ -564,7 +564,7 @@
 	"ui_editor_properties_greyscale" : "灰度",
 	"ui_editor_properties_height" : "高度",
 	"ui_editor_properties_image" : "图像",
-	"ui_editor_properties_image_layer" : "图层",
+	"ui_editor_properties_image_layer" : "图像层",
 	"ui_editor_properties_intensity" : "强度",
 	"ui_editor_properties_invert" : "反转",
 	"ui_editor_properties_kernel_size" : "核心大小",
