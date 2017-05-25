@@ -59,7 +59,7 @@
 	"core_updater_status_verify_hash_failed" : "Fehler beim Verifizieren der Datei: {{filepath}}",
 	"core_updater_status_verify_success" : "Verifiziere Datei: {{filepath}}",
 	"core_updater_status_verify_failed_message_box_title" : "Verifizierungsfehler",
-	"core_updater_status_verify_failed_message_box_body" : "Die Verifizierung folgender Dateien ist fehlgeschlagen. Bitte verifiziere die Dateien über Steam (Rechtsklick, Einstellungen, lokale Dateien, Verifizieren). Dies kann durch Downloadfehler in Steam oder durch Antivirus-Programme, die Falschmeldungen geben, geschehen. Wenn ein Antivirus-Programm installiert ist, das nicht von Microsoft ist, stelle sicher, dass es nicht mit Steam und Wallpaper Engine konfligiert.\n\n{{filenames}}",
+	"core_updater_status_verify_failed_message_box_body" : "Die Verifizierung folgender Dateien ist fehlgeschlagen. Stelle sicher, dass die Anwendung während des Update-Vorgangs geschlossen ist. Bitte verifiziere die Dateien über Steam (Rechtsklick, Einstellungen, lokale Dateien, Verifizieren). Dies kann durch Downloadfehler in Steam oder durch Antivirus-Programme, die Falschmeldungen geben, geschehen. Wenn ein Antivirus-Programm installiert ist, das nicht von Microsoft ist, stelle sicher, dass es nicht mit Steam und Wallpaper Engine konfligiert.\n\n{{filenames}}",
 	"core_updater_status_compat" : "Suche nach inkompatiblen Anwendungen...",
 	"core_updater_status_compat_error" : "Fehler beim Suchen nach inkompatiblen Anwendungen",
 	"core_updater_status_compat_found" : "Inkompatible Anwendung gefunden: {{processname}}",

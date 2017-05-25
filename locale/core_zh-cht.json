@@ -59,7 +59,7 @@
 	"core_updater_status_verify_hash_failed" : "無法驗證檔案: {{filepath}}",
 	"core_updater_status_verify_success" : "已驗證檔案: {{filepath}}",
 	"core_updater_status_verify_failed_message_box_title" : "檔案驗證錯誤",
-	"core_updater_status_verify_failed_message_box_body" : "以下檔案驗證錯誤，請通过Steam驗證文件（右键单击Wallpaper Engine，內容，本機檔案，驗證應用程式的完整性...）。它可能是因為Steam下載錯誤或者反病毒程式誤報誤殺檔案導致。如果你使用的不是Microsoft的反病毒程序，請確認它與Steam和Wallpaper Engine都不會產生衝突。\n\n{{filenames}}",
+	"core_updater_status_verify_failed_message_box_body" : "確保應用程序在更新時關閉。以下檔案驗證錯誤，請通过Steam驗證文件（右键单击Wallpaper Engine，內容，本機檔案，驗證應用程式的完整性...）。它可能是因為Steam下載錯誤或者反病毒程式誤報誤殺檔案導致。如果你使用的不是Microsoft的反病毒程序，請確認它與Steam和Wallpaper Engine都不會產生衝突。\n\n{{filenames}}",
 	"core_updater_status_compat" : "找不到兼容的應用程式...",
 	"core_updater_status_compat_error" : "無法掃描處理程序",
 	"core_updater_status_compat_found" : "找不到兼容的處理程序: {{processname}}",

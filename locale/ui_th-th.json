@@ -420,7 +420,7 @@
 	"ui_editor_scene_options_camera_parallax" : "มุม parallax",
 	"ui_editor_scene_options_camera_parallax_amount" : "จำนวน",
 	"ui_editor_scene_options_camera_parallax_delay" : "ดีเลย์",
-	"ui_editor_scene_options_camera_mouse_influence" : "Mouse influence"
+	"ui_editor_scene_options_camera_mouse_influence" : "อำนาจเมาส์",
 	"ui_editor_scene_options_camera_fade" : "Camera fade",
 	
 	"ui_editor_effects_modal_imagelayer_name" : "เลเยอร์ภาพ",

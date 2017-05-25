@@ -59,7 +59,7 @@
 	"core_updater_status_verify_hash_failed" : "验证文件失败: {{filepath}}",
 	"core_updater_status_verify_success" : "验证文件完成: {{filepath}}",
 	"core_updater_status_verify_failed_message_box_title" : "文件验证错误",
-	"core_updater_status_verify_failed_message_box_body" : "以下文件的验证失败，请通过Steam验证文件（右键单击Wallpaper Engine，属性，本地文件，验证）。这可能是由于Steam下载错误或者反病毒程序误报误杀文件导致的。如果你使用的不是Microsoft的反病毒程序，请确保它与Steam和Wallpaper Engine都不冲突。\n\n{{filenames}}",
+	"core_updater_status_verify_failed_message_box_body" : "确保应用程序在更新时关闭 （如果需要，通过托盘图标或任务管理器关闭）。以下文件的验证失败，请通过Steam验证文件（右键单击Wallpaper Engine，属性，本地文件，验证）。这可能是由于Steam下载错误或者反病毒程序误报误杀文件导致的。如果你使用的不是Microsoft的反病毒程序，请确保它与Steam和Wallpaper Engine都不冲突。\n\n{{filenames}}",
 	"core_updater_status_compat" : "寻找不兼容的应用程序...",
 	"core_updater_status_compat_error" : "无法扫描进程",
 	"core_updater_status_compat_found" : "找到不兼容的进程: {{processname}}",
