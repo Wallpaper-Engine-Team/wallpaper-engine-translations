@@ -11,16 +11,16 @@
 	"core_tray_faq" : "サポート && FAQ",
 	"core_tray_recent_wallpapers_clear" : "リスト消去",
 	"core_tray_next_wallpaper" : "次の壁紙",
-	
+
 	"core_balloon_info" : "トレイに最小化されたWallpaper Engineトレイアイコンをダブルクリックし壁紙を選択します。",
 	"core_balloon_desktop_window_error" : "ライブ壁紙のデスクトップの準備に失敗しました。",
 	"core_balloon_video_error" : "ビデオエラーが発生 {{err}}. ヘルプのためにクリックしてください。",
 	"core_balloon_app_error" : "アプリケーションを壁紙として読み込めません。",
-	
+
 	"core_msgboxtitle_error" : "エラー",
 	"core_msgboxtitle_app_conflict" : "競合するアプリケーション",
 	"core_msgboxtitle_wpe" : "Wallpaper Engine",
-	
+
 	"core_msgbox_deskscapes" : "DeskScapesがアクティブであるため、Wallpaper Engineを機能することができません。",
 	"core_msgbox_prompt_aero_win7" : "Wallpaper Engineは、動作するためにAeroを有効にする必要があります。今すぐAeroを有効にしますか？",
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engineは、「高コントラスト」のテーマで実行することはできません。 すぐにテーマをリセットしますか？",
@@ -32,7 +32,7 @@
 	"core_msgbox_init_secondinstance_failed" : "再起動に失敗しました。 エラーコード:",
 	"core_msgbox_below_win_7" : "Wallpaper Engineは、Steamのシステム要件に示されているようにWindows 7以上が必要です。\n\nサポートされていないバージョンのWindowsおよびWallpaper Engineが動作しているようです。",
 	"core_msgbox_media_feature_pack_missing" : "mfplat.dllが見つかりませんでした。\nおそらくWindows N Editionを実行中です。ビデオをサポートするためには、MicrosoftからMedia Feature Packをインストールしてください!(Googleで'Media Feature Pack 10/8.1/7'と検索してください。)",
-	
+
 	"core_updater_headline_init" : "Wallpaper Engineを起動中しています...",
 	"core_updater_headline_update" : "Wallpaper Engineを更新中です... {{version}}",
 	"core_updater_headline_init_complete" : "{{version}} のセットアップが完了しました。 Wallpaper Engineを起動しています...",
