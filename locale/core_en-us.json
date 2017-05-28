@@ -59,7 +59,7 @@
 	"core_updater_status_verify_hash_failed" : "Failed verifying file: {{filepath}}",
 	"core_updater_status_verify_success" : "Verified file: {{filepath}}",
 	"core_updater_status_verify_failed_message_box_title" : "File Verification Errors",
-	"core_updater_status_verify_failed_message_box_body" : "The verification of the following files failed. Please verify the files over Steam (right click, properties, local files, verify). This can happen due to download errors in Steam or anti-virus programs falsely detecting files and causing problems. If you have an anti-virus that is not from Microsoft, make sure that it does not interfere with Steam and Wallpaper Engine.\n\n{{filenames}}",
+	"core_updater_status_verify_failed_message_box_body" : "Make sure the application is closed while updating (Close through tray icon or Task Manager if necessary). The verification of the following files failed. Please verify the files over Steam (right click, properties, local files, verify). This can happen due to download errors in Steam or anti-virus programs falsely detecting files and causing problems. If you have an anti-virus that is not from Microsoft, make sure that it does not interfere with Steam and Wallpaper Engine.\n\n{{filenames}}",
 	"core_updater_status_compat" : "Looking for incompatible applications...",
 	"core_updater_status_compat_error" : "Failed to scan processes",
 	"core_updater_status_compat_found" : "Found an incompatible process: {{processname}}",
@@ -70,5 +70,7 @@
 	"core_updater_status_complete" : "Installation completed successfully",
 	"core_updater_status_complete_errors" : "Installation completed with errors",
 	"core_updater_status_complete_starting" : "Starting Wallpaper Engine...",
-	"core_updater_status_cancelled" : "Process has been cancelled by the user"
+	"core_updater_status_cancelled" : "Process has been cancelled by the user",
+	"core_updater_status_corrupted_system_module_message_box_title" : "System module cannot be loaded",
+	"core_updater_status_corrupted_system_module_message_box_body" : "A system module appears to be corrupted and may cause Wallpaper Engine to malfunction.\n\nDelete: {{modules}}\n\nReinstall: {{installers}}"
 }
