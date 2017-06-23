@@ -11,16 +11,16 @@
 	"core_tray_faq" : "FAQ eta euskarria",
 	"core_tray_recent_wallpapers_clear" : "Zerrenda garbitu",
 	"core_tray_next_wallpaper" : "Hurrengo horma-papera",
-	
+
 	"core_balloon_info" : "Wallpaper Engine zure jakinarazpen eremura minimizatu da. Egin klik bi aldiz ikonoan horma-papera aukeratzeko.",
 	"core_balloon_desktop_window_error" : "Errorea horma-papera animatua ezartzean.",
 	"core_balloon_video_error" : "{{err}} bideo errorea gertatu da. Klik informazio gehiagorako.",
 	"core_balloon_app_error" : "Errorea aplikazioa horma-paper bezala kargatzen.",
-	
+
 	"core_msgboxtitle_error" : "Errorea",
 	"core_msgboxtitle_app_conflict" : "Aplikazio jazarria",
 	"core_msgboxtitle_wpe" : "Wallpaper Engine",
-	
+
 	"core_msgbox_deskscapes" : "DeskScapes aktibo dagoela dirudi. Honek Wallpaper Engine funtzionatzea galarazi dezake.",
 	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine Aero hasieratua egotea behar du funtzionatzeko. Aero orain hasieratu?",
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine ezin du 'kontraste altu'-ko tematan funtzionatu. Tema orain berrabiarazi?",
@@ -32,7 +32,7 @@
 	"core_msgbox_init_secondinstance_failed" : "Berrabiarazpen errorea, kodea:",
 	"core_msgbox_below_win_7" : "Wallpaper Engine Windows 7 edo gehiago behar du, Steam-en dauden sistema baldintzak adierazten duten bezala.\n\nEuskarri gabeko Windows bertsio bat exekutatzen ari zarela dirudi eta posible da Wallpaper Engine ez funtzionatzea.",
 	"core_msgbox_media_feature_pack_missing" : "mfplat.dll falta da!\nSeguruenik Windows N daukazu. Mesedez instalatu ezazu Media Core Pack Microsoftetik bideo euskarria lortzeko! (Google: Media Feature Pack Windows 10/8.1/7)",
-	
+
 	"core_updater_headline_init" : "Wallpaper Engine prestatzen...",
 	"core_updater_headline_update" : "Wallpaper Engine {{version}} bertsiora eguneratzen...",
 	"core_updater_headline_init_complete" : "{{version}} bertsioaren prestakuntza bukatu da. Wallpaper Engine abiarazten...",
@@ -70,5 +70,7 @@
 	"core_updater_status_complete" : "Instalazio arrakastatsua",
 	"core_updater_status_complete_errors" : "Instalazioa erroreekin bukatu da",
 	"core_updater_status_complete_starting" : "Wallpaper Engine hasieratzen...",
-	"core_updater_status_cancelled" : "Prozesua erabiltzailearengatik baliogabetua"
+	"core_updater_status_cancelled" : "Prozesua erabiltzailearengatik baliogabetua",
+	"core_updater_status_corrupted_system_module_message_box_title" : "Sistema modulua ezin da kargatu",
+	"core_updater_status_corrupted_system_module_message_box_body" : "Sistemaren modulu bat txarto dagoela dirudi eta Wallpaper Engine ondo ez funtzionatzea eragin dezake.\n\nEzabatu: {{modules}}\n\nBerrinstalatu: {{installers}}"
 }
