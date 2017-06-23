@@ -816,5 +816,29 @@
 	"ui_editor_particle_example_turbulence" : "Turbulencie",
 
 	"ui_editor_select_material" : "Vyberte materiál",
-	"ui_editor_select_texture" : "Vyberte textúru"
+	"ui_editor_select_texture" : "Vyberte textúru",
+	
+	"ui_browse_split" : "Rozdeliť",
+
+	"ui_browse_footer_btn_workshop_in_app" : "In-App",
+
+	"ui_browse_header_option_settings" : "Možnosti",
+	"ui_browse_header_option_monitors" : "Monitory",
+	"ui_browse_header_option_editor" : "Editor",
+	"ui_browse_advertise_workshop" : "Kliknite sem pre prehliadavanie Workshopu pre nové pozadia!",
+
+	"ui_browse_monitors_profile" : "Profil",
+
+	"ui_browse_monitors_split" : "Rozdeliť",
+	"ui_browse_monitors_remove_split" : "Odstrániť rozdelenie",
+	"ui_browse_monitors_split_monitor" : "Rozdeliť monitor: {{name}}",
+	"ui_browse_monitors_group" : "Zoskupiť",
+	"ui_browse_monitors_ungroup" : "Rozdeliť",
+	"ui_browse_monitors_horizontal" : "Horizontálny",
+	"ui_browse_monitors_vertical" : "Vertikálny",
+	"ui_browse_monitors_direction" : "Smer",
+	"ui_browse_monitors_posititon" : "Pozícia",
+
+	"ui_browse_modal_advertise_workshop_header" : "In-App Workshop Prehliadač",
+	"ui_browse_modal_advertise_workshop_body" : "Použite in-app Workshop prehliadač na vynechanie žánrov pozadí Vľavo použitím možnosti filtra aby ste ľahšie našli to čo hľadáte na Steame. Kliknite na žáner aby ste ho schovali.<br/><br/>A uistite sa že prehliadate 'najviac populárne' alebo 'top hodnotenie' keď hľadáte vysokokvalitné príspevky."
 }
