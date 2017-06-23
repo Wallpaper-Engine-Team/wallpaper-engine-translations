@@ -59,7 +59,7 @@
 	"core_updater_status_verify_hash_failed" : "Falha ao verificar arquivo: {{filepath}}",
 	"core_updater_status_verify_success" : "Arquivo verificado: {{filepath}}",
 	"core_updater_status_verify_failed_message_box_title" : "Erros na verificação de arquivos",
-	"core_updater_status_verify_failed_message_box_body" : "Falha ao verificar os seguintes arquivos. Verifique os arquivos no Steam (clique com o botão direito em Wallpaper Engine na biblioteca Steam, selecione \"Propriedades\" no menu, navegue até a aba \"Arquivos locais\" e clique em \"Verificar integridade dos arquivos...\"). Isso pode acontecer devido a erros de download no Steam ou programas antivírus detectando arquivos como falso positivo e causando problemas. Caso o seu antivírus não seja da Microsoft, verifique se ele não interfere com o Steam e o Wallpaper Engine.\n\n{{filenames}}",
+	"core_updater_status_verify_failed_message_box_body" : "Certifique-se de que o aplicativo está fechado durante a atualização (Feche através do ícone da bandeja ou do Gerenciador de Tarefas caso necessário). Falha ao verificar os seguintes arquivos. Verifique os arquivos no Steam (clique com o botão direito em Wallpaper Engine na biblioteca Steam, selecione \"Propriedades\" no menu, navegue até a aba \"Arquivos locais\" e clique em \"Verificar integridade dos arquivos...\"). Isso pode acontecer devido a erros de download no Steam ou programas antivírus detectando arquivos como falso positivo e causando problemas. Caso o seu antivírus não seja da Microsoft, verifique se ele não interfere com o Steam e o Wallpaper Engine.\n\n{{filenames}}",
 	"core_updater_status_compat" : "Buscando aplicativos incompatíveis...",
 	"core_updater_status_compat_error" : "Falha ao analisar processos",
 	"core_updater_status_compat_found" : "Encontrou um processo incompatível: {{processname}}",
@@ -70,6 +70,8 @@
 	"core_updater_status_complete" : "Instalação finalizada com sucesso",
 	"core_updater_status_complete_errors" : "Instalação finalizada com erros",
 	"core_updater_status_complete_starting" : "Iniciando Wallpaper Engine...",
-	"core_updater_status_cancelled" : "O processo foi cancelado pelo usuário"
+	"core_updater_status_cancelled" : "O processo foi cancelado pelo usuário",
+	"core_updater_status_corrupted_system_module_message_box_title" : "O módulo do sistema não pode ser carregado",
+	"core_updater_status_corrupted_system_module_message_box_body" : "Um módulo do sistema parece estar corrompido e pode causar mau funcionamento do Wallpaper Engine.\n\nExcluir: {{modules}}\n\nReinstalar: {{installers}}"
 }
 
