@@ -59,7 +59,7 @@
 	"core_updater_status_verify_hash_failed" : "Nepodarilo sa overenie súboru: {{filepath}}",
 	"core_updater_status_verify_success" : "Overenie súboru: {{filepath}}",
 	"core_updater_status_verify_failed_message_box_title" : "Chyby s overovaním súborov",
-	"core_updater_status_verify_failed_message_box_body" : "Overenie nasledujúcich súborov zlyhalo. Prosím súbory overte cez Steam (kliknite pravým, vlastnosti, miestne súbory, overiť). Toto sa môže stať kvôli chybám v sťahovaní na Steame alebo anti-vírusovým programom nepravdivo detekujúcim súbory a spôsobujúcim problémy. Keď máte anti-vírus, ktorý nie je od Microsoftu, uistite sa, že nezasahuje do Wallpaper Engine a do Steamu.\n\n{{filenames}}",
+	"core_updater_status_verify_failed_message_box_body" : "Uistite sa že aplikácia je zavretá pri aktualizovaní (Vypnite cez ikonku na lište alebo správcu úloh ak je potreba). Overenie nasledujúcich súborov zlyhalo. Prosím súbory overte cez Steam (kliknite pravým, vlastnosti, miestne súbory, overiť). Toto sa môže stať kvôli chybám v sťahovaní na Steame alebo anti-vírusovým programom nepravdivo detekujúcim súbory a spôsobujúcim problémy. Keď máte anti-vírus, ktorý nie je od Microsoftu, uistite sa, že nezasahuje do Wallpaper Engine a do Steamu.\n\n{{filenames}}",
 	"core_updater_status_compat" : "Hladanie nekompatibilných verzií...",
 	"core_updater_status_compat_error" : "Nepodarilo sa oskenovať procesy",
 	"core_updater_status_compat_found" : "Nalezené nekompatibilné proces: {{processname}}",
@@ -70,5 +70,7 @@
 	"core_updater_status_complete" : "Inštalácia úspešne dokončená",
 	"core_updater_status_complete_errors" : "Inštalácia dokončená s chybami",
 	"core_updater_status_complete_starting" : "Zapínanie Wallpaper Engine...",
-	"core_updater_status_cancelled" : "Proces bol zrušený užívateľom"
+	"core_updater_status_cancelled" : "Proces bol zrušený užívateľom",
+	"core_updater_status_corrupted_system_module_message_box_title" : "Systémový modul nemôže byť načítaný",
+	"core_updater_status_corrupted_system_module_message_box_body" : "Systémový modul vyzerá že je poškodený a môže spôsobiť poruchu Wallpaper Engine.\n\nVymažte: {{modules}}\n\nReinštalujte: {{installers}}"
 }

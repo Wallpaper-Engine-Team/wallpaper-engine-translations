@@ -1,18 +1,18 @@
 {
-
-
-	"core_tray_recent_wallpapers_clear" : "Xóa danh sách",
-	"core_tray_next_wallpaper" : "Hình nên tiếp theo",
-	"core_tray_change_wallpaper" : "Thay đổi hình nền",
+	"core_tray_change_wallpaper" : "Change Wallpaper",
 	"core_tray_browse_workshop" : "Tìm trong Workshop",
 	"core_tray_create_wallpaper" : "Tạo hình nền",
 	"core_tray_settings" : "Cài đặt",
-	"core_tray_take_screenshot" : "Chụp màn hình",
+	"core_tray_take_screenshot" : "Chụp ảnh màn hình",
 	"core_tray_pause" : "Tạm dừng",
 	"core_tray_unpause" : "Tiếp tục",
 	"core_tray_recent_wallpapers" : "Hình nền gần đây",
 	"core_tray_quit" : "Thoát",
 	"core_tray_faq" : "Hỗ trợ && FAQ",
+
+
+	"core_tray_recent_wallpapers_clear" : "Xóa danh sách",
+	"core_tray_next_wallpaper" : "Hình nền tiếp theo",
 	
 	"core_balloon_info" : "Wallpaper Engine thu nhở ở taskbar. Nhấp chuột hai lần để hiện phần mềm.",
 	"core_balloon_desktop_window_error" : "Thất bại thay đổi hình nền động .",
@@ -34,18 +34,25 @@
 	"core_msgbox_init_secondinstance_failed" : "Khởi động thất bại, error code:",
 	"core_msgbox_below_win_7" : "Wallpaper Engine yêu cầu Windows 7 hoặc trở lên, như đã được nêu trên Steam.\n\nCó vẻ như bạn đang chạy một phiên bản không được hỗ trợ của Windows và Wallpaper Engine có thể không hoạt động.",
 	"core_msgbox_media_feature_pack_missing" : "mfplat.dll missing!\nBạn có lẽ đang dùng Windows N. vui lòng cài đặt các gói tính năng truyền thông của Microsoft để cho phép hỗ trợ video! (Google: Media Feature Pack Windows 10/8.1/7)",
-
+	
 	"core_updater_headline_init" : "Đang cài đặt Wallpaper Engine...",
 	"core_updater_headline_update" : "Cập nhật Wallpaper Engine lên phiên bản {{version}}...",
 	"core_updater_headline_init_complete" : "Hoàn tất cài đặt phiên bản {{version}}. Khởi động Wallpaper Engine...",
 	"core_updater_headline_update_complete" : "Hoàn tất cập nhật phiên bản {{version}}. Khởi động Wallpaper Engine...",
-	"core_updater_status_init" : "Chuẩn bị cài đặt...",
+	"core_updater_headline_cancelled" : "Hủy cài đặt",
+	"core_updater_status_init" : "Tiếp tục cài đặt....",
+
 	"core_updater_status_closing_processes" : "Quá trình kết thúc...",
 	"core_updater_status_closing_processes_error" : "Không phát hiện ra các quy trình có sẵn",
 	"core_updater_status_closing_processes_wait_quit" : "Thoát Wallpaper Engine",
 	"core_updater_status_closing_processes_wait_quit_terminate" : "Đóng {{program}}",
 	"core_updater_status_closing_processes_wait_quit_terminate_error" : "Đóng thất bại {{program}}",
 	"core_updater_status_distro" : "Sao chép files...",
+
+
+	"core_updater_status_distro_prepare_error" : "Xảy ra lỗi khi kiểm tra thư mục nguồn {{error}}",
+	"core_updater_status_distro_copy_error" : "Xảy ra lỗi khi sao chép file files {{error}}",
+
 	"core_updater_status_distro_missing" : "Thư mục phân bố bị thiếu",
 	"core_updater_status_distro_file_path_error" : "Lỗi chuyển đổi đường dẫn tập tin: {{error}}",
 	"core_updater_status_distro_file_directory" : "Tạo thư mục: {{filepath}}",
@@ -53,20 +60,32 @@
 	"core_updater_status_distro_file_copy" : "Sao chép file: {{filepath}}",
 	"core_updater_status_distro_file_copy_error" : "Thất bại khi sao chép file: {{error}}",
 	"core_updater_status_verify" : "Kiểm tra cài đặt...",
+
+
 	"core_updater_status_verify_file_missing" : "Thiếu file: {{filepath}}",
 	"core_updater_status_verify_file_cannot_open" : "Thất bại khi mở file: {{filepath}}",
 	"core_updater_status_verify_hash_failed" : "Thất bại kxác minh file: {{filepath}}",
 	"core_updater_status_verify_success" : "Đã xác minh file: {{filepath}}",
+
+
 	"core_updater_status_verify_failed_message_box_title" : "Lỗi xác nhận tập tin",
 	"core_updater_status_verify_failed_message_box_body" : "Việc xác minh các tập tin sau thất bại. Xin vui lòng xác minh các tập tin trên Steam (click chuột phải, properties, local files, verify). Điều này có thể xảy ra do lỗi khi tải về tư Steam.\n\n{{filenames}}",
 	"core_updater_status_compat" : "Tìm kiếm các ứng dụng không tương thích ...",
 	"core_updater_status_compat_error" : "Lỗi quét các tiến trình",
+
+
 	"core_updater_status_compat_found" : "Tìm thấy tiến trình không tương thích:{{processname}}",
 	"core_updater_status_compat_message_box_title" : "Các ứng dụng không tương thích được tìm thấy",
 	"core_updater_status_compat_message_box_body" : "Bạn có các ứng dụng sau đây chạy mà có thể gây ra Wallpaper Engine bị crash hoặc làm cho hệ thống của bạn không ổn định. Họ đưa mã vào Wallpaper Engine gây ra vấn đề. Hãy chắc chắn để cập nhật chúng hoặc thêm Wallpaper Engine để danh sách loại trừ họ bằng cách thêm wallpaper32.exe và wallpaper64.exe .\n\n{{list}}",
 	"core_updater_status_compat_message_box_body_item_exclude" : "{{name}}: loại trừ Wallpaper Engine",
 	"core_updater_status_compat_message_box_body_item_update" : "{{name}}: Cập nhật lên phiên bản {{version}}",
-	"core_updater_status_complete" : "Cài đặt hoàn tất",
-	"core_updater_status_complete_errors" : "Cài đặt hoàn tất với lỗi",
-	"core_updater_status_complete_starting" : "Khởi động Wallpaper Engine..."
+
+
+	"core_updater_status_complete" : "Cài đặt thành công",
+	"core_updater_status_complete_errors" : "Hoàn tất cài đặt với lỗi",
+
+	"core_updater_status_complete_starting" : "Khởi động Wallpaper Engine...",
+	"core_updater_status_cancelled" : "Process đã bị hủy bởi người dùng",
+	"core_updater_status_corrupted_system_module_message_box_title" : "System module không được nạp",
+	"core_updater_status_corrupted_system_module_message_box_body" : "A system module appears to be corrupted and may cause Wallpaper Engine to malfunction.\n\nDelete: {{modules}}\n\nReinstall: {{installers}}"
 }
