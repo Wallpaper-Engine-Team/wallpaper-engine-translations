@@ -9,7 +9,7 @@
 	"core_tray_recent_wallpapers" : "近期使用",
 	"core_tray_quit" : "退出",
 	"core_tray_faq" : "幫助和支援",
-	"core_tray_recent_wallpapers_clear" : "清除清單",
+	"core_tray_recent_wallpapers_clear" : "清除最近使用的桌面背景",
 	"core_tray_next_wallpaper" : "下一個桌面背景",
 	
 	"core_balloon_info" : "Wallpaper Engine 已在通知區域最小化。雙擊通知區域的圖標來選擇一個桌面背景。",
