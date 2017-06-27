@@ -650,7 +650,7 @@
 	"ui_editor_properties_visible" : "Видимый",
 	"ui_editor_properties_water_normal" : "Water normal",
 	"ui_editor_properties_width" : "Ширина",
-	"ui_editor_properties_write_alpha" : "Write alpha"
+	"ui_editor_properties_write_alpha" : "Write alpha",
 	
 	"ui_editor_particle_editor" : "Particle Editor",
 	"ui_editor_particle_selected" : "Selected:",
