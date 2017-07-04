@@ -10,7 +10,7 @@
 	"ui_retry" : "Reîncearcă",
 
 	"ui_modal_updaterequired_title" : "Wallpaper Engine trebuie să fie actualizat",
-	"ui_modal_updaterequired_body" : "Te rugăm să inchizi Wallpaper Engine (click dreapta pe iconița din zona de notificare și dă click pe Quit) și repornește-l prin Steam pentru a primi cele mai noi actualizări. În cazul în care această avertizare continuă să apară, te rugăm să verifici fișierele aplicației prin Steam.<br/><br/>Versiunea aplicației: <b>{{callerVersion}}</b>, Versiune UI: <b>{{appVersion}}</b>.",
+	"ui_modal_updaterequired_body" : "Te rugăm să închizi Wallpaper Engine (click dreapta pe iconița din zona de notificare și dă click pe Quit) și repornește-l prin Steam pentru a primi cele mai noi actualizări. În cazul în care această avertizare continuă să apară, te rugăm să verifici fișierele aplicației prin Steam.<br/><br/>Versiunea aplicației: <b>{{callerVersion}}</b>, Versiune UI: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "O nouă actualizare este disponibilă",
 	"ui_modal_updateavailable_body_distro" : "O nouă actualizare pentru Wallpaper Engine a fost descărcată de către Steam (version <b>{{distroVersion}}</b>). Doriți să reporniți Wallpaper Engine acum pentru a aplica actualizarea?",
 
