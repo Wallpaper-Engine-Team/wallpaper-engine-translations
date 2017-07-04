@@ -261,7 +261,7 @@
 	"ui_editor_filemenu_open_in_explorer" : "Deschide în Explorer",
 	"ui_editor_filemenu_template_wizard" : "Șablon",
 	"ui_editor_filemenu_view" : "Vizualizează",
-	"ui_editor_filemenu_restart_preview" : "Repornește rea",
+	"ui_editor_filemenu_restart_preview" : "Repornește previzualizarea",
 	"ui_editor_filemenu_preview_aspect_ratio" : "Previzualizează raportul de aspect",
 	"ui_editor_filemenu_aspect_ratio_free" : "Liber",
 	"ui_editor_filemenu_reset_camera" : "Resetează camera",
