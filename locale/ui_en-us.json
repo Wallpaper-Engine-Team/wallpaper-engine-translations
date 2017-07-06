@@ -52,6 +52,9 @@
 	"ui_browse_details_properties_nothing_imported" : "Nothing imported",
 	"ui_browse_details_properties_select_directory" : "Select directory",
 	"ui_browse_details_properties_select_file" : "Select file",
+	"ui_browse_details_properties_save" : "Save",
+	"ui_browse_details_properties_load" : "Load",
+	"ui_browse_details_properties_share_json" : "Share JSON",
 	
 	"ui_browse_footer_btn_workshop" : "Steam Workshop",
 	"ui_browse_footer_btn_workshop_in_app" : "In-App",
@@ -106,7 +109,7 @@
 	"ui_browse_open_url_header" : "Open Wallpaper from URL",
 	"ui_browse_modal_proceed" : "Proceed",
 	"ui_browse_modal_advertise_workshop_header" : "In-App Workshop Browser",
-	"ui_browse_modal_advertise_workshop_body" : "Use the in-app Workshop browser to exclude wallpaper genres on the left using the filter options to find more easily what you are looking for than on Steam. Click a genre twice to hide it.<br/><br/>Also make sure to browse the 'most popular' or 'top rated' content if you are looking for high quality submissions.",
+	"ui_browse_modal_advertise_workshop_body" : "Use the filter options to find more easily what you are looking for than on Steam. Click a genre twice to hide it.<br/><br/>Click on <b>Approved</b> <span class='fa fa-trophy browseWallpaperApproved'></span> to browse hand-picked wallpapers.<br/><br/>Browse the 'most popular' or 'top rated' content if you are looking for high quality submissions.",
 	
 	"ui_browse_properties_scheme_color" : "Scheme color",
 	"ui_browse_properties_playback_rate" : "<span class='fa fa-play propertyIcon'></span>Playback rate",
@@ -145,6 +148,14 @@
 	"ui_browse_playlist_modal_settings_update_on_pause" : "Allow wallpaper to change while paused",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "Show wallpaper transition",
 	
+	"ui_browse_preset_modal_save_header" : "Save Preset",
+	"ui_browse_preset_modal_open_header" : "Load Preset",
+	"ui_browse_preset_modal_share_header" : "Share Preset",
+	"ui_browse_preset_modal_save_name" : "Name",
+	"ui_browse_preset_modal_open_delete" : "Delete",
+	"ui_browse_preset_modal_copy" : "Copy",
+	"ui_browse_preset_modal_paste" : "Paste",
+	
 	"ui_browse_list_source_title" : "Browsing:",
 	"ui_browse_list_source_installed" : "Installed",
 	"ui_browse_list_source_workshop" : "Workshop",
@@ -164,11 +175,23 @@
 	"ui_browse_query_sort_by_followed_users" : "Created By Followed Users",
 	"ui_browse_query_sort_most_up_votes" : "Most Up Votes",
 	"ui_browse_query_sort_most_subscriptions" : "Most Subscribed",
+	
+	"ui_browse_context_menu_add_to_playlist" : "Add to Playlist",
+	"ui_browse_context_menu_remove_from_playlist" : "Remove from Playlist",
+	"ui_browse_context_menu_workshop" : "Open in Workshop",
+	"ui_browse_context_menu_unsubscribe" : "Unsubscribe",
+	"ui_browse_context_menu_subscribe" : "Subscribe",
+	"ui_browse_context_menu_view" : "View",
+	"ui_browse_context_menu_icon_medium" : "Medium Icons",
+	"ui_browse_context_menu_icon_large" : "Large Icons",
+	"ui_browse_context_menu_swap_wallpaper" : "Swap Wallpaper",
+	"ui_browse_context_menu_replace_wallpaper" : "Replace Wallpaper",
 
 	"ui_settings_playback": "Playback",
 	"ui_settings_playback_focused" : "Other application focused:",
 	"ui_settings_playback_maximized" : "Other application maximized:",
 	"ui_settings_playback_fullscreen" : "Other application fullscreen:",
+	"ui_settings_playback_battery" : "Laptop on battery:",
 
 	"ui_settings_gfx_quality" : "Quality",
 	"ui_settings_gfx_preset" : "Preset:",
@@ -204,6 +227,7 @@
 	"ui_settings_advanced_video_read" : "Video loading:",
 	"ui_settings_advanced_video_loop" : "Video loop:",
 	"ui_settings_advanced_log_level" : "Log level:",
+	"ui_settings_advanced_cef_command_line" : "CEF command-line:",
 	"ui_settings_about" : "About",
 	
 	"ui_settings_no_devices" : "No devices found",
@@ -230,7 +254,7 @@
 	"ui_settings_advanced_reset_config_modal_header" : "Confirm Reset",
 	"ui_settings_advanced_reset_config_modal_body" : "All your settings will be removed and the application needs to restart.",
 	"ui_settings_video_audio_label" : "Video audio output:",
-	"ui_settings_video_hardware_acceleration_label" : "Video hardware acceleration",
+	"ui_settings_video_hardware_acceleration_label" : "Video hardware acceleration:",
 	"ui_settings_process_priority" : "Process priority",
 	"ui_settings_process_priority_normal" : "Normal",
 	"ui_settings_process_priority_below_normal" : "Below normal",
@@ -289,6 +313,9 @@
 	"ui_editor_filemenu_show_stats" : "Show stats",
 	"ui_editor_filemenu_show_in_workshop" : "Show in Workshop",
 	"ui_editor_filemenu_prepare_for_publishing" : "Prepare for publishing",
+	
+	"ui_editor_delete_project_modal_header" : "Confirm Deletion",
+	"ui_editor_delete_project_modal_body" : "Are you sure that you want to delete the project: <br/><b>{{title}}</b> ?",
 
 	"ui_editor_treeview_header_files" : "Imported Files",
 	"ui_editor_tooltip_layers" : "Layers",
