@@ -14,7 +14,7 @@
 	
 	"core_balloon_info" : "Wallpaper Engine minimized to your tray. Double click the tray icon to select a wallpaper.",
 	"core_balloon_desktop_window_error" : "Failed preparing desktop for live wallpaper.",
-	"core_balloon_video_error" : "Video error occurred {{err}}. Click me for help.",
+	"core_balloon_video_error" : "Windows video error occurred {{err}}. Click me for help.",
 	"core_balloon_app_error" : "Failed loading application as wallpaper.",
 	
 	"core_msgboxtitle_error" : "Error",
