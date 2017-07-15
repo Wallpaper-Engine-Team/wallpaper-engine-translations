@@ -70,5 +70,7 @@
 	"core_updater_status_complete" : "Installation réussie",
 	"core_updater_status_complete_errors" : "Installation terminée avec des erreurs",
 	"core_updater_status_complete_starting" : "Démarrage de Wallpaper Engine...",
-	"core_updater_status_cancelled" : "Le processus a été annulé par l'utilisateur"
+	"core_updater_status_cancelled" : "Le processus a été annulé par l'utilisateur",
+	"core_updater_status_corrupted_system_module_message_box_title" : "Le module système n'a pas pu être chargé.",
+	"core_updater_status_corrupted_system_module_message_box_body" : "Un module système semble être corrompu et pourrait empècher le bon fonctionnement de Wallpaper Engine.\n\nDelete: {{modules}}\n\nReinstall: {{installers}}"
 }
