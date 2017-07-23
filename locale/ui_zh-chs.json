@@ -187,10 +187,11 @@
 	"ui_browse_context_menu_swap_wallpaper" : "交换壁纸",
 	"ui_browse_context_menu_replace_wallpaper" : "替换壁纸",
 
-	"ui_settings_playback": "回放",
+	"ui_settings_playback" : "回放",
 	"ui_settings_playback_focused" : "其他程序运行时:",
 	"ui_settings_playback_maximized" : "其他程序最大化时:",
 	"ui_settings_playback_fullscreen" : "其他程序全屏时:",
+	"ui_settings_playback_sleep" : "系统睡眠时:",
 	"ui_settings_playback_battery" : "笔记本电脑使用电池时:",
 
 	"ui_settings_gfx_quality" : "品质",
@@ -223,11 +224,13 @@
 	"ui_settings_register_service" : "设置管理员权限",
 	"ui_settings_advanced" : "高级选项",
 	"ui_settings_reset_advanced" : "重置到默认状态",
+	"ui_settings_advanced_monitor_identification" : "识别显示器方法",
 	"ui_settings_advanced_graphics_api" : "图形驱动:",
 	"ui_settings_advanced_video_read" : "视频缓存位置:",
 	"ui_settings_advanced_video_loop" : "视频循环:",
 	"ui_settings_advanced_log_level" : "日志记录:",
 	"ui_settings_advanced_cef_command_line" : "CEF命令行参数:",
+	"ui_settings_advanced_cef_devtools_port" : "CEF开发工具端口:",
 	"ui_settings_about" : "关于",
 
 	"ui_settings_no_devices" : "未找到设备",
@@ -562,7 +565,7 @@
 	"ui_editor_preset_fireflies_particles_title" : "萤火虫",
 	"ui_editor_preset_fireflies_particles_description" : "慢慢地移动群飞舞的萤火虫，避让鼠标光标。",
 	"ui_editor_preset_fireworks_title" : "烟花",
-	"ui_editor_preset_fireworks_description" : "多变的烟花发射器.",
+	"ui_editor_preset_fireworks_description" : "多种烟花发射器.",
 
 	"ui_editor_paint_overlay_value" : "值",
 	"ui_editor_paint_overlay_color" : "颜色",
