@@ -722,7 +722,7 @@
 	"ui_editor_properties_visible" : "可见",
 	"ui_editor_properties_water_normal" : "普通水",
 	"ui_editor_properties_width" : "宽度",
-	"ui_editor_properties_write_alpha" : "写入透明度"
+	"ui_editor_properties_write_alpha" : "写入透明度",
 
 	"ui_editor_particle_editor" : "粒子编辑器",
 	"ui_editor_particle_selected" : "已选择的:",
@@ -849,5 +849,5 @@
 	"ui_editor_particle_example_turbulence" : "湍流",
 
 	"ui_editor_select_material" : "选择材质",
-	"ui_editor_select_texture" : "选择纹理e"
+	"ui_editor_select_texture" : "选择纹理"
 }
