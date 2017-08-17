@@ -31,7 +31,7 @@
 	"ui_browse_steam_status_unavailable_cache" : "Steamは利用できません。<br/>ロードされた {{count}} 壁紙キャッシュから",
 	"ui_browse_steam_status_pending" : "Steamが応答するのを待っています...",
 	"ui_browse_steam_status_complete" : "Steamの更新が完了しました。<br/>ライト {{count}} 壁紙キャッシュへ",
-
+	"ui_browse_advertise_workshop" : "新しい壁紙をワークショップで閲覧するには、ここをクリックしてください！",
 	"ui_browse_details_title" : "タイトル:",
 	"ui_browse_details_author" : "作者:",
 	"ui_browse_details_type" : "タイプ:",
@@ -89,6 +89,8 @@
 	"ui_browse_modal_remove_local_body" : "<b>{{title}}</b> をディスクから削除しますか？",
 	"ui_browse_open_url_header" : "URLから壁紙を開く",
 	"ui_browse_modal_proceed" : "続行",
+	"ui_browse_modal_advertise_workshop_body" : "フィルターオプションを使用すると、簡単に見つけることができます。 ジャンルを2回クリックすると隠すことができます。<br/><br/>クリック <b>承認済み</b> <span class='fa fa-trophy browseWallpaperApproved'></span> は手動で選んだ壁紙を閲覧します。<br/><br/>高品質の投稿をお探しの場合は、「最も人気のあるコンテンツ」または「トップレート」のコンテンツを参照してください。",
+
 
 	"ui_browse_properties_scheme_color" : "ツールバーの色",
 	"ui_browse_properties_playback_rate" : "<span class='fa fa-play propertyIcon'></span>再生速度",
@@ -151,6 +153,8 @@
 	"ui_settings_playback_focused" : "他のアプリケーションが前面に出た場合:",
 	"ui_settings_playback_maximized" : "他のアプリケーションが全画面表示になった場合:",
 	"ui_settings_playback_fullscreen" : "他のアプリケーションがフルスクリーンになった場合:",
+	"ui_settings_playback_sleep" : "ディスプレイがスリープになった場合:",
+	"ui_settings_playback_battery" : "バッテリーで稼働している場合:",
 
 	"ui_settings_gfx_quality" : "画質設定",
 	"ui_settings_gfx_preset" : "プリセット:",
@@ -182,6 +186,7 @@
 	"ui_settings_register_service" : "優先的に起動",
 	"ui_settings_advanced" : "高度な設定",
 	"ui_settings_reset_advanced" : "推奨設定に戻す",
+	"ui_settings_advanced_monitor_identification" : "モニターの識別方法:",
 	"ui_settings_advanced_graphics_api" : "グラフィックのAPI:",
 	"ui_settings_advanced_video_read" : "ビデオのロード元:",
 	"ui_settings_advanced_video_loop" : "ビデオのループ:",
