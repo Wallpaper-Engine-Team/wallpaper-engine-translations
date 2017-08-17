@@ -14,7 +14,7 @@
 	
 	"core_balloon_info" : "Wallpaper Engine minimizado para a bandeja. Dê um duplo clique no ícone da bandeja para selecionar um plano de fundo.",
 	"core_balloon_desktop_window_error" : "Falha ao preparar área de trabalho.",
-	"core_balloon_video_error" : "Ocorreu um erro de vídeo: {{err}}. Clique para obter ajuda.",
+	"core_balloon_video_error" : "Ocorreu um erro de vídeo do Windows: {{err}}. Clique para obter ajuda.",
 	"core_balloon_app_error" : "Falha ao carregar aplicativo como plano de fundo.",
 	
 	"core_msgboxtitle_error" : "Erro",

@@ -8,13 +8,15 @@
 	"ui_back" : "Voltar",
 	"ui_close" : "Fechar",
 	"ui_retry" : "Tentar novamente",
-	
+	"ui_select" : "Selecionar",
+
 	"ui_modal_updaterequired_title" : "O Wallpaper Engine precisa ser atualizado",
 	"ui_modal_updaterequired_body" : "Por favor, feche o Wallpaper Engine (clique com o botão direito no ícone da barra de notificações e clique em \"Sair\") e reinicie-o no Steam para receber as atualizações mais recentes. Caso continue recebendo esse aviso, verifique os arquivos do locais no Steam.<br/><br/>Versão do aplicativo: <b>{{callerVersion}}</b>, Versão da IU: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "Nova atualização disponível",
 	"ui_modal_updateavailable_body_distro" : "Uma nova atualização para o Wallpaper Engine foi baixada pelo Steam (versão <b>{{distroVersion}}</b>). Deseja reiniciar o Wallpaper Engine agora para aplicar a atualização?",
 
 	"ui_browse_monitor" : "Monitor",
+	"ui_browse_split" : "Dividido",
 	"ui_browse_choose_monitor" : "(Escolher monitor)",
 	"ui_browse_filter_results" : "Filtrar resultados",
 	"ui_browse_sort_by" : "Ordenar por",
@@ -30,10 +32,15 @@
 	"ui_browse_steam_status_unavailable_cache" : "Steam indisponível.<br/>{{count}} planos de fundo carregados do cache.",
 	"ui_browse_steam_status_pending" : "Aguardando resposta do Steam...",
 	"ui_browse_steam_status_complete" : "Atualização do Steam concluída.<br/>{{count}} planos de fundo salvos em cache.",
-	
+	"ui_browse_header_option_settings" : "Configurações",
+	"ui_browse_header_option_monitors" : "Monitores",
+	"ui_browse_header_option_editor" : "Editor",
+	"ui_browse_advertise_workshop" : "Clique aqui para procurar planos de fundo na Oficina!",
+
 	"ui_browse_details_title" : "Título:",
 	"ui_browse_details_author" : "Autor:",
 	"ui_browse_details_type" : "Tipo:",
+	"ui_browse_details_tags" : "Marcadores:",
 	"ui_browse_details_rating" : "Avaliação:",
 	"ui_browse_details_rate" : "Avaliar",
 	"ui_browse_details_btn_workshop" : "Oficina",
@@ -45,20 +52,34 @@
 	"ui_browse_details_properties_nothing_imported" : "Nada importado",
 	"ui_browse_details_properties_select_directory" : "Selecionar diretório",
 	"ui_browse_details_properties_select_file" : "Selecionar arquivo",
-	
+	"ui_browse_details_properties_save" : "Salvar",
+	"ui_browse_details_properties_load" : "Carregar",
+	"ui_browse_details_properties_share_json" : "Compartilhar JSON",
+
 	"ui_browse_footer_btn_workshop" : "Oficina Steam",
+	"ui_browse_footer_btn_workshop_in_app" : "Aplicativo",
 	"ui_browse_footer_btn_store" : "Loja Steam",
 	"ui_browse_footer_btn_open_from_file" : "Abrir de arquivo",
 	"ui_browse_footer_btn_open_from_url" : "Abrir de URL",
 	
 	"ui_browse_monitors_choose_monitor" : "Escolher monitor",
 	"ui_browse_monitors_layout" : "Layout",
+	"ui_browse_monitors_profile" : "Perfil",
 	"ui_browse_monitors_monitors" : "Monitores",
 	"ui_browse_monitors_change_wallpaper" : "Alterar plano de fundo",
 	"ui_browse_monitors_remove_wallpaper" : "Remover plano de fundo",
 	"ui_browse_monitors_layout_per_monitor" : "Plano de fundo por monitor",
 	"ui_browse_monitors_layout_fit" : "Esticar plano de fundo",
-	
+	"ui_browse_monitors_split" : "Dividir",
+	"ui_browse_monitors_remove_split" : "Remover divisão",
+	"ui_browse_monitors_split_monitor" : "Dividir monitor: {{name}}",
+	"ui_browse_monitors_group" : "Agrupar",
+	"ui_browse_monitors_ungroup" : "Desagrupar",
+	"ui_browse_monitors_horizontal" : "Horizontal",
+	"ui_browse_monitors_vertical" : "Vertical",
+	"ui_browse_monitors_direction" : "Direção",
+	"ui_browse_monitors_posititon" : "Posição",
+
 	"ui_browse_sort_name" : "Nome",
 	"ui_browse_sort_rating" : "Avaliação",
 	"ui_browse_sort_favorite" : "Favoritos",
@@ -87,6 +108,8 @@
 	"ui_browse_modal_remove_local_body" : "Tem certeza de que deseja remover o plano de fundo local: <b>{{title}}</b>?",
 	"ui_browse_open_url_header" : "Abrir de URL",
 	"ui_browse_modal_proceed" : "Avançar",
+	"ui_browse_modal_advertise_workshop_header" : "Navegador da Oficina",
+	"ui_browse_modal_advertise_workshop_body" : "Use as opções de filtro para encontrar mais facilmente o que você procura do que no Steam. Clique duas vezes em um gênero para ocultá-lo.<br/><br/>Clique em <b>Approved</b> <span class='fa fa-trophy browseWallpaperApproved'></span> para procurar planos de fundo escolhidos a dedo.<br/><br/>Navegue pelos \"mais populares\" ou \"melhor classificados\" caso esteja procurando por envios de alta qualidade.",
 	
 	"ui_browse_properties_scheme_color" : "Esquema de cores",
 	"ui_browse_properties_playback_rate" : "<span class='fa fa-play propertyIcon'></span>Taxa de reprodução",
@@ -99,7 +122,7 @@
 	"ui_browse_properties_alignment_stretch" : "Esticar",
 	"ui_browse_properties_alignment_position" : "<span class='fa fa-arrows-h propertyIcon'></span>Posição",
 
-	"ui_browse_playlist_header" : "Reprodução",
+	"ui_browse_playlist_header" : "Lista de reprodução",
 	"ui_browse_playlist_modal_open_header" : "Abrir lista de reprodução",
 	"ui_browse_playlist_modal_open_delete" : "Excluir",
 	"ui_browse_playlist_modal_save_header" : "Salvar lista de reprodução",
@@ -124,13 +147,21 @@
 	"ui_browse_playlist_modal_settings_video_sequence" : "Alterar plano de fundo quando um vídeo acabar",
 	"ui_browse_playlist_modal_settings_update_on_pause" : "Permitir alteração de plano de fundo enquanto pausado",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "Exibir transição do plano de fundo",
-	
+
+	"ui_browse_preset_modal_save_header" : "Salvar predefinição",
+	"ui_browse_preset_modal_open_header" : "Carregar predefinição",
+	"ui_browse_preset_modal_share_header" : "Compartilhar predefinição",
+	"ui_browse_preset_modal_save_name" : "Nome",
+	"ui_browse_preset_modal_open_delete" : "Excluir",
+	"ui_browse_preset_modal_copy" : "Copiar",
+	"ui_browse_preset_modal_paste" : "Colar",
+
 	"ui_browse_list_source_title" : "Navegando por:",
 	"ui_browse_list_source_installed" : "Instalados",
 	"ui_browse_list_source_workshop" : "Oficina",
 	
 	"ui_browse_modal_no_steam_title" : "Erro do Steam",
-	"ui_browse_modal_no_steam_body" : "O Steamworks não pôde ser inicializado. Tente reiniciar o Steam e o Wallpaper Engine. Caso continue recebendo este erro, isso significa que o seu computador não está conseguindo se autenticar corretamente aos servidores Steam, verifique a sua conexão e se iniciou a sessão com a conta correta. Os servidores Steam também podem estar temporariamente inacessíveis.",
+	"ui_browse_modal_no_steam_body" : "O Steamworks não pôde ser inicializado. Tente reiniciar o Steam e o Wallpaper Engine. Caso continue recebendo este erro, isso significa que o seu computador não está conseguindo se autenticar corretamente aos servidores Steam, verifique a sua conexão e se iniciou a sessão com a conta correta. Os servidores Steam também podem estar temporariamente inacessíveis. Não inicie o Steam como administrador, isso impede que o Steamworks se conecte ao Steam.",
 	"ui_browse_query_error" : "Ocorreu um erro do STEAM: ",
 	
 	"ui_browse_query_sort_by_votes" : "Mais bem avaliados",
@@ -144,11 +175,23 @@
 	"ui_browse_query_sort_by_followed_users" : "Criados por usuários seguidos",
 	"ui_browse_query_sort_most_up_votes" : "Mais votos positivos",
 	"ui_browse_query_sort_most_subscriptions" : "Mais inscritos",
-	
+
+	"ui_browse_context_menu_add_to_playlist" : "Adicionar à lista de reprodução",
+	"ui_browse_context_menu_remove_from_playlist" : "Remover da lista de reprodução",
+	"ui_browse_context_menu_workshop" : "Abrir na Oficina",
+	"ui_browse_context_menu_unsubscribe" : "Cancelar inscrição",
+	"ui_browse_context_menu_subscribe" : "Inscrever-se",
+	"ui_browse_context_menu_view" : "Ver",
+	"ui_browse_context_menu_icon_medium" : "Ícones médios",
+	"ui_browse_context_menu_icon_large" : "Ícones grandes",
+	"ui_browse_context_menu_swap_wallpaper" : "Trocar plano de fundo",
+	"ui_browse_context_menu_replace_wallpaper" : "Substituir plano de fundo",
+
 	"ui_settings_playback": "Reprodução",
 	"ui_settings_playback_focused" : "Outro aplicativo focado:",
 	"ui_settings_playback_maximized" : "Outro aplicativo maximizado:",
 	"ui_settings_playback_fullscreen" : "Outro aplicativo em tela cheia:",
+	"ui_settings_playback_battery" : "Laptop na bateria:",
 
 	"ui_settings_gfx_quality" : "Qualidade",
 	"ui_settings_gfx_preset" : "Predefinição:",
@@ -184,6 +227,7 @@
 	"ui_settings_advanced_video_read" : "Carregamento de vídeo:",
 	"ui_settings_advanced_video_loop" : "Repetição de vídeo:",
 	"ui_settings_advanced_log_level" : "Nível dos registros:",
+	"ui_settings_advanced_cef_command_line" : "Linha de comando CEF:",
 	"ui_settings_about" : "Sobre",
 	
 	"ui_settings_no_devices" : "Nenhum dispositivo encontrado",
@@ -210,7 +254,7 @@
 	"ui_settings_advanced_reset_config_modal_header" : "Confirmação",
 	"ui_settings_advanced_reset_config_modal_body" : "Todas as configurações serão removidas e o aplicativo precisará ser reiniciado.",
 	"ui_settings_video_audio_label" : "Saída de áudio de vídeo:",
-	"ui_settings_video_hardware_acceleration_label" : "Aceleração de hardware de vídeo",
+	"ui_settings_video_hardware_acceleration_label" : "Aceleração de hardware de vídeo:",
 	"ui_settings_process_priority" : "Prioridade do processo",
 	"ui_settings_process_priority_normal" : "Normal",
 	"ui_settings_process_priority_below_normal" : "Abaixo do normal",
@@ -266,8 +310,12 @@
 	"ui_editor_filemenu_aspect_ratio_free" : "Livre",
 	"ui_editor_filemenu_reset_camera" : "Redefinir câmera",
 	"ui_editor_filemenu_show_grid" : "Exibir grade",
+	"ui_editor_filemenu_show_stats" : "Exibir estatísticas",
 	"ui_editor_filemenu_show_in_workshop" : "Exibir na Oficina",
 	"ui_editor_filemenu_prepare_for_publishing" : "Preparar para publicação",
+
+	"ui_editor_delete_project_modal_header" : "Confirmar eliminação",
+	"ui_editor_delete_project_modal_body" : "Tem certeza de que deseja excluir o projeto: <br/><b>{{title}}</b> ?",
 
 	"ui_editor_treeview_header_files" : "Arquivos importados",
 	"ui_editor_tooltip_layers" : "Camadas",
@@ -275,6 +323,7 @@
 
 	"ui_editor_camera_add_path" : "Adiciona caminho",
 	"ui_editor_camera_select_path" : "Por favor, selecione um caminho à esquerda.",
+	"ui_editor_camera_add_renderable" : "Adicionar",
 	"ui_editor_gizmo_translate" : "Traduzir",
 	"ui_editor_gizmo_rotate" : "Rotacionar",
 	"ui_editor_gizmo_scale" : "Escalar",
@@ -296,6 +345,7 @@
 	"ui_editor_welcome_modal_no_file_selected" : "Nenhum arquivo selecionado",
 	"ui_editor_welcome_modal_imported_files" : "Arquivos importados",
 	"ui_editor_welcome_modal_template" : "Modelo",
+	"ui_editor_welcome_modal_aspect" : "Proporção da tela",
 	"ui_editor_welcome_modal_title_new" : "Novo",
 	"ui_editor_welcome_modal_title_welcome" : "Bem-vindo(a)",
 
@@ -343,6 +393,8 @@
 	"ui_editor_project_settings_modal_clear_color" : "Cor do plano de fundo",
 	"ui_editor_project_settings_modal_ambient_color" : "Cor ambiente",
 	"ui_editor_project_settings_modal_skylight_color" : "Cor da luz do sol",
+	"ui_editor_project_settings_modal_resolution" : "Resolução",
+	"ui_editor_project_settings_modal_name" : "Nome",
 	
 	"ui_editor_help_header" : "Ajuda",
 	"ui_editor_help_tutorial_category_beginner_title" : "Tutoriais para iniciantes",
@@ -416,6 +468,7 @@
 	"ui_editor_scene_options_camera_shake_roughness" : "Instabilidade",
 	"ui_editor_scene_options_camera_parallax" : "Paralaxe da câmera",
 	"ui_editor_scene_options_camera_parallax_amount" : "Quantidade",
-	"ui_editor_scene_options_camera_parallax_delay" : "Demora",
-	"ui_editor_scene_options_camera_mouse_influence" : "Influência do mouse"
+	"ui_editor_scene_options_camera_parallax_delay" : "Atraso",
+	"ui_editor_scene_options_camera_mouse_influence" : "Influência do mouse",
+	"ui_editor_scene_options_camera_fade" : "Desaparecimento da câmera"
 }
