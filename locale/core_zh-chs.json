@@ -71,4 +71,6 @@
 	"core_updater_status_complete_errors" : "安装完成时出错",
 	"core_updater_status_complete_starting" : "启动Wallpaper Engine...",
 	"core_updater_status_cancelled" : "进程被用户取消"
+	"core_updater_status_corrupted_system_module_message_box_title" : "系统模块无法加载",
+	"core_updater_status_corrupted_system_module_message_box_body" : "系统模块出现错误，可能导致Wallpaper Engine产生故障。\n\n删除: {{modules}}\n\n重新安装: {{installers}}"
 }
