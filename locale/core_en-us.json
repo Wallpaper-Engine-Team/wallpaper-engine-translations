@@ -72,5 +72,6 @@
 	"core_updater_status_complete_starting" : "Starting Wallpaper Engine...",
 	"core_updater_status_cancelled" : "Process has been cancelled by the user",
 	"core_updater_status_corrupted_system_module_message_box_title" : "System module cannot be loaded",
-	"core_updater_status_corrupted_system_module_message_box_body" : "A system module appears to be corrupted and may cause Wallpaper Engine to malfunction.\n\nDelete: {{modules}}\n\nReinstall: {{installers}}"
+	"core_updater_status_corrupted_system_module_message_box_body" : "A system module appears to be corrupted and may cause Wallpaper Engine to malfunction.\n\nDelete: {{modules}}\n\nReinstall: {{installers}}",
+	"core_updater_prompt_close" : "Wallpaper Engine is still running, please close it first."
 }
