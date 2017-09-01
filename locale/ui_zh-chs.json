@@ -161,7 +161,7 @@
 	"ui_browse_list_source_workshop" : "创意工坊",
 
 	"ui_browse_modal_no_steam_title" : "Steam 错误",
-	"ui_browse_modal_no_steam_body" : "创意工坊无法初始化，如果重新启动Steam和Wallpaper Engine后，还能继续看到这个错误，这意味着您的电脑无法与Steam服务器认证正确，检查你的互联网连接和你是否记录进入正确的Steam帐户，Steam服务器也可能暂时无法访问。",
+	"ui_browse_modal_no_steam_body" : "Steamworks无法初始化，如果重新启动Steam和Wallpaper Engine后，仍旧提示相同错误，这意味着您的电脑无法正确地获得Steam服务器认证，检查你的互联网连接或察看是否登陆了正确的Steam帐户，Steam服务器也可能暂时无法访问。",
 	"ui_browse_query_error" : "发生STEAM错误: ",
 
 	"ui_browse_query_sort_by_votes" : "评分最高",
@@ -266,7 +266,7 @@
 	"ui_settings_thirdparty" : "第三方许可",
 
 	"ui_settings_highpriority_warning_header" : "高优先级信息",
-	"ui_settings_highpriority_warning" : "高优先级模式使用'Windows服务'将更快地启动应用程序。但是如果您遇到这个解决方案有问题,尝试没有高优先级，这会更可靠，但更慢。",
+	"ui_settings_highpriority_warning" : "高优先级模式使用'Windows服务'更快地启动应用程序。但是如果您使用这个解决方案时遇到问题,尝试关闭高优先级设定，这会降低程序启动速度，但能提高其稳定性。",
 
 	"ui_welcome_preferred_language" : "选择语言:",
 	"ui_welcome_header" : "欢迎使用 Wallpaper Engine",
@@ -276,7 +276,7 @@
 	"ui_welcome_quality_description_header" : "简介:",
 	"ui_welcome_quality_fps_limit" : "FPS 限制:",
 	"ui_welcome_quality_anti_aliasing" : "抗锯齿:",
-	"ui_welcome_quality_bloom" : "Bloom:",
+	"ui_welcome_quality_bloom" : "高光:",
 	"ui_welcome_quality_reflections" : "分辨率:",
 	"ui_welcome_windows_color_description" : "让 Windows 配色自动适应您的壁纸:",
 	"ui_welcome_windows_color_header" : "更改 Windows 配色",
@@ -395,7 +395,7 @@
 	"ui_editor_project_settings_modal_bloom" : "高光溢出效果",
 	"ui_editor_project_settings_modal_clear_color" : "背景色",
 	"ui_editor_project_settings_modal_ambient_color" : "环境色",
-	"ui_editor_project_settings_modal_skylight_color" : "天空光颜色",
+	"ui_editor_project_settings_modal_skylight_color" : "天空漫射光颜色",
 	"ui_editor_project_settings_modal_resolution" : "解像度",
 	"ui_editor_project_settings_modal_name" : "名称",
 
@@ -551,14 +551,14 @@
 	"ui_editor_preset_variant_small" : "小型",
 	"ui_editor_preset_variant_large" : "大型",
 	"ui_editor_preset_fern_title" : "蕨类",
-	"ui_editor_preset_fern_description" : "一个蕨类物体。",
+	"ui_editor_preset_fern_description" : "单个蕨类物体。",
 	"ui_editor_preset_light_shafts_title" : "光线",
 	"ui_editor_preset_light_shafts_description" : "将光线添加到壁纸。",
 	"ui_editor_preset_snow_particles_title" : "飘雪",
 	"ui_editor_preset_snow_particles_description" : "从屏幕顶部慢慢添加雪粒子。",
 	"ui_editor_preset_refractive_rain_title" : "折射雨",
 	"ui_editor_preset_refractive_rain_description" : "添加蓝色雨滴，并带有背景图像的折射效果。",
-	"ui_editor_preset_ember_title" : "余烬",
+	"ui_editor_preset_ember_title" : "灰烬",
 	"ui_editor_preset_ember_description" : "上升的灰烬.",
 	"ui_editor_preset_spark_title" : "火花",
 	"ui_editor_preset_spark_description" : "偶现火花。",
