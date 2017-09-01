@@ -86,6 +86,10 @@
 	"ui_browse_modal_remove_local_body" : "Bist du sicher, dass du folgende lokale Hintergrundbilder entfernen möchtest: <b>{{title}}</b>",
 	"ui_browse_open_url_header" : "Wallpaper durch URL öffnen",
 	"ui_browse_modal_proceed" : "Fortfahren",
+	"ui_browse_advertise_workshop" : "Klicke hier um neue Hintergrundbilder zu finden!",
+	"ui_browse_modal_advertise_workshop_header" : "Integrierter Workshop Browser",
+	"ui_browse_modal_advertise_workshop_body" : "Nutze die Filtereinstellungen links um den Workshop einfacher zu durchsuchen als auf Steam. Klicke eine Genre zweimal um es auszuschließen <span class='fa fa-minus-square dangerText'></span>.<br/><br/>Klicke auf <b>Empfohlen</b> <span class='fa fa-trophy browseWallpaperApproved'></span> um von Hand ausgewählte Hintergrundbilder anzuzeigen.<br/><br/>Durchsuche die beliebtesten oder am häufigsten abonnierten Hintergrundbilder um hochwertige Uploads anzuzeigen.",
+	"ui_browse_modal_advertise_workshop_footer" : "Welche Genres interessieren dich?",
 	
 	"ui_browse_properties_scheme_color" : "Fensterfarbe",
 	"ui_browse_properties_playback_rate" : "<span class='fa fa-play propertyIcon'></span>Geschwindigkeit",

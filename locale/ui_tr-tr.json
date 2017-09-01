@@ -83,6 +83,10 @@
 	"ui_browse_modal_remove_local_body": "Yerel duvar kağıdını kaldırmak istediğinizden emin misiniz: <b> {{title}} </ b>?",
 	"ui_browse_open_url_header": "URL'yi Duvar Kağıdından Aç",
 	"ui_browse_modal_proceed": "Devam et",
+	"ui_browse_advertise_workshop" : "Yeni duvar kağıtları indirmek için buraya tıklayın!",
+	"ui_browse_modal_advertise_workshop_header" : "Uygulama Duvar Kağıdı Tarayıcısı",
+	"ui_browse_modal_advertise_workshop_body" : "Aradığınız şeyi Steam'den daha kolay bulmak için filtre seçeneklerini kullanın. <span class='fa fa-minus-square dangerText'></span>'i gizlemek için bir türü iki kez tıklayın.<br/><br/>Elle seçilen duvar kağıtlarına göz atmak için <b>Onaylandı</b> <span class='fa fa-trophy browseWallpaperApproved'></span> düğmesini tıklayın.<br/><br/>En popüler kitleye göz atın. Yüksek kaliteli gönderimler arıyorsanız 'en beğenilen' içerik.",
+	"ui_browse_modal_advertise_workshop_footer" : "Hangi tür ilginizi çekiyorsunuz?",
 
 	"ui_browse_properties_scheme_color": "Şema rengi",
 	"ui_browse_properties_playback_rate" : "<span class='fa fa-play propertyIcon'></span>Oynatma hızı",

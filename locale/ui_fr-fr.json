@@ -15,7 +15,6 @@
 	"ui_modal_updateavailable_body_distro" : "Une nouvelle mise à jour de Wallpaper Engine a été téléchargée par Steam (version <b>{{distroVersion}}</b>). Voulez-vous redémarrer Wallpaper Engine maintenant afin d'appliquer la mise à jour?",
 	
 	"ui_browse_monitor" : "Moniteur",
-	"ui_browse_split" : "",
 	"ui_browse_choose_monitor" : "(Choisissez le Moniteur)",
 	"ui_browse_filter_results" : "Filtrer les resultats",
 	"ui_browse_sort_by" : "Trier par",
@@ -194,8 +193,8 @@
 	"ui_settings_skin_white" : "Blanc",
 	"ui_settings_skin_dark" : "Noir",
 	"ui_settings_antialiasing_none" : "Aucun",
-	"ui_settings_resolution_half" : "Moitié (50%)",
-	"ui_settings_resolution_full" : "Complète (100%)",
+	"ui_settings_resolution_half" : "Moitié",
+	"ui_settings_resolution_full" : "Complète",
 	"ui_settings_playback_keep_running" : "Continuer d'éxecuter le programme",
 	"ui_settings_playback_pause_per_monitor" : "Pause par écran",
 	"ui_settings_playback_pause_all" : "Pause à tous",

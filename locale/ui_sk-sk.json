@@ -840,5 +840,35 @@
 	"ui_browse_monitors_posititon" : "Pozícia",
 
 	"ui_browse_modal_advertise_workshop_header" : "In-App Workshop Prehliadač",
-	"ui_browse_modal_advertise_workshop_body" : "Použite in-app Workshop prehliadač na vynechanie žánrov pozadí Vľavo použitím možnosti filtra aby ste ľahšie našli to čo hľadáte na Steame. Kliknite na žáner aby ste ho schovali.<br/><br/>A uistite sa že prehliadate 'najviac populárne' alebo 'top hodnotenie' keď hľadáte vysokokvalitné príspevky."
+	"ui_browse_modal_advertise_workshop_body" : "Použite nastavenia filtrov pre ľahšie hladanie na Steame. Dvakrát kliknite na žáner pre schovanie.<br/><br/>Kliknite na <b>Schválené</b> <span class='fa fa-trophy browseWallpaperApproved'></span> na prehliadanie ručne vybraných pozadí.<br/><br/>Prehliadajte 'najpopulárnejší' alebo 'najlepšie hodnotený' obsah ak hľadáte vysoko-kvalitné príspevky.",
+	
+	"ui_browse_details_properties_save" : "Uložiť",
+	"ui_browse_details_properties_load" : "Načítať",
+	"ui_browse_details_properties_share_json" : "Zdieľať JSON",
+	
+	"ui_browse_preset_modal_save_header" : "Uložiť predvoľbu",
+	"ui_browse_preset_modal_open_header" : "Načítať predvoľbu",
+	"ui_browse_preset_modal_share_header" : "Zdieľať predvoľbu",
+	"ui_browse_preset_modal_save_name" : "Meno",
+	"ui_browse_preset_modal_open_delete" : "Zmazať",
+	"ui_browse_preset_modal_copy" : "Kopírovať",
+	"ui_browse_preset_modal_paste" : "Vložiť",
+	
+	"ui_browse_context_menu_add_to_playlist" : "Pridať do playlistu",
+	"ui_browse_context_menu_remove_from_playlist" : "Odstrániť z playlistu",
+	"ui_browse_context_menu_workshop" : "Otvoriť vo Workshope",
+	"ui_browse_context_menu_unsubscribe" : "Zrušiť odber",
+	"ui_browse_context_menu_subscribe" : "Odoberať",
+	"ui_browse_context_menu_view" : "Zobraziť",
+	"ui_browse_context_menu_icon_medium" : "Stredné ikony",
+	"ui_browse_context_menu_icon_large" : "Veľké ikony",
+	"ui_browse_context_menu_swap_wallpaper" : "Vymeniť pozadie",
+	"ui_browse_context_menu_replace_wallpaper" : "Zameniť pozadie",
+	
+	"ui_settings_playback_battery" : "Laptop na baterke:",
+	
+	"ui_settings_advanced_cef_command_line" : "CEF príkazový riadok:",
+	
+	"ui_editor_delete_project_modal_header" : "Potvrdiť zmazanie",
+	"ui_editor_delete_project_modal_body" : "Ste si istý že chcete zmazať projekt: <br/><b>{{title}}</b> ?"
 }
