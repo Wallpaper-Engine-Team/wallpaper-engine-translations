@@ -69,8 +69,9 @@
 	"core_updater_status_compat_message_box_body_item_update" : "{{name}}: 更新版本 {{version}}",
 	"core_updater_status_complete" : "安装成功",
 	"core_updater_status_complete_errors" : "安装完成时出错",
-	"core_updater_status_complete_starting" : "启动Wallpaper Engine...",
+	"core_updater_status_complete_starting" : "正在启动Wallpaper Engine...",
 	"core_updater_status_cancelled" : "进程被用户取消",
 	"core_updater_status_corrupted_system_module_message_box_title" : "系统模块无法加载",
 	"core_updater_status_corrupted_system_module_message_box_body" : "一个系统模块可能已损坏并会导致Wallpaper Engine出现问题.\n\n删除: {{modules}}\n\n重装: {{installers}}"
+	"core_updater_prompt_close" : "Wallpaper Engine 仍在运行中，请首先关闭它。"
 }
