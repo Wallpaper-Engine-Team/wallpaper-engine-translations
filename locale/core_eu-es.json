@@ -72,5 +72,6 @@
 	"core_updater_status_complete_starting" : "Wallpaper Engine hasieratzen...",
 	"core_updater_status_cancelled" : "Prozesua erabiltzailearengatik baliogabetua",
 	"core_updater_status_corrupted_system_module_message_box_title" : "Sistema modulua ezin da kargatu",
-	"core_updater_status_corrupted_system_module_message_box_body" : "Sistemaren modulu bat txarto dagoela dirudi eta Wallpaper Engine ondo ez funtzionatzea eragin dezake.\n\nEzabatu: {{modules}}\n\nBerrinstalatu: {{installers}}"
+	"core_updater_status_corrupted_system_module_message_box_body" : "Sistemaren modulu bat txarto dagoela dirudi eta Wallpaper Engine ondo ez funtzionatzea eragin dezake.\n\nEzabatu: {{modules}}\n\nBerrinstalatu: {{installers}}",
+	"core_updater_prompt_close" : "Wallpaper Engine oraindik funtzionamenduan dago, mesedez itxi ezazu."
 }
