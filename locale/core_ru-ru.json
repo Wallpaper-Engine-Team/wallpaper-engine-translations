@@ -72,5 +72,5 @@
 	"core_updater_status_complete_starting" : "Запуск Wallpaper Engine...",
 	"core_updater_status_cancelled" : "Процесс был отменен пользователем",
 	"core_updater_status_corrupted_system_module_message_box_title" : "Системный модуль не может быть загружен",
-	"core_updater_status_corrupted_system_module_message_box_body" : "Возможно, системный модуль повреждён и может повлечь за собой сбой в работе Wallpaper Engine.\n\nУдалите: {{modules}}\n\nПереустановите: {{installers}"
+	"core_updater_status_corrupted_system_module_message_box_body" : "Возможно, системный модуль повреждён и может повлечь за собой сбой в работе Wallpaper Engine.\n\nУдалите: {{modules}}\n\nПереустановите: {{installers}}"
 }

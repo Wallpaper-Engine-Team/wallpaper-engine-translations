@@ -93,14 +93,14 @@
 	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>Zvuky vypnuté v nastaveniach",
 	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>Nahrávanie zvuku",
 	
-	"ui_browse_playlist_header" : "Zoznam skladieb",
-	"ui_browse_playlist_modal_open_header" : "Otvoriť zoznam skladieb",
+	"ui_browse_playlist_header" : "Playlist",
+	"ui_browse_playlist_modal_open_header" : "Otvoriť playlist",
 	"ui_browse_playlist_modal_open_delete" : "Odstrániť",
-	"ui_browse_playlist_modal_save_header" : "Uložiť zoznam skladieb",
+	"ui_browse_playlist_modal_save_header" : "Uložiť playlist",
 	"ui_browse_playlist_modal_save_name" : "Meno", 
-	"ui_browse_playlist_modal_save_description" : "Keď zoznam skladieb s tým istým menom existuje, bude prepísaný.",
-	"ui_browse_playlist_modal_empty" : "Nenájdené žiadne zoznamy skladieb",
-	"ui_browse_playlist_modal_settings_header" : "Nastavenia zoznamu skladieb",
+	"ui_browse_playlist_modal_save_description" : "Keď playlist s tým istým menom existuje, bude prepísaný.",
+	"ui_browse_playlist_modal_empty" : "Nenájdené žiadne playlisty",
+	"ui_browse_playlist_modal_settings_header" : "Nastavenia playlistu",
 	"ui_browse_playlist_modal_settings_reset" : "Reštart",
 	"ui_browse_playlist_modal_settings_order_label" : "Poradie",
 	"ui_browse_playlist_modal_settings_order_random" : "Náhodné",
@@ -125,7 +125,7 @@
 	
 	"ui_browse_modal_no_steam_title" : "Steam Chyba",
 	"ui_browse_modal_no_steam_body" : "Steamworks nemohol byť načítaný. Prosím skúste reštartovať Steam a potom Wallpaper Engine. Keď nadalej dostávate túto chybu, to znamená, že váš počítač sa nemôže správne overiť so Steamovými servermi, skontrolujte si pripojenie k internetu a či ste prihlásený do správneho steamového účtu. Steamové servery môžu byť dočasne nedostupné.",
-	"ui_browse_query_error" : "Objavila sa STEAM chyba: ",
+	"ui_browse_query_error" : "Objavila sa chyba STEAM siete, prosím skúste to znova neskôr: ",
 	
 	"ui_browse_query_sort_by_votes" : "Top hodnotenie",
 	"ui_browse_query_sort_by_date" : "Najnovšie",
@@ -870,5 +870,84 @@
 	"ui_settings_advanced_cef_command_line" : "CEF príkazový riadok:",
 	
 	"ui_editor_delete_project_modal_header" : "Potvrdiť zmazanie",
-	"ui_editor_delete_project_modal_body" : "Ste si istý že chcete zmazať projekt: <br/><b>{{title}}</b> ?"
+	"ui_editor_delete_project_modal_body" : "Ste si istý že chcete zmazať projekt: <br/><b>{{title}}</b> ?",
+	
+	"ui_browse_monitors_add_split" : "Pridať rozdelenie",
+	"ui_browse_monitors_remove_split" : "Odstrániť rozdelenie",
+	"ui_browse_monitors_remove_all_splits" : "Odstrániť všetky rozdelenia",
+	"ui_browse_monitors_edit_split" : "Upraviť rozdelenie",
+	"ui_browse_monitors_auto_split" : "Automatiké rozdelenie NV Surround / Eyefinity",
+	"ui_browse_monitors_auto_split_error_header" : "Automatické rozdelenie zlyhao",
+
+	"ui_browse_monitors_add_group" : "Pridať skupinu",
+	"ui_browse_monitors_remove_group" : "Odstrániť skupinu",
+
+	"ui_browse_monitors_copy_to" : "Kopírovať do",
+	"ui_browse_monitors_swap_with" : "Vymeniť s",
+
+	"ui_browse_modal_advertise_workshop_footer" : "O aké žánre sa zaujímate?",
+
+	"ui_browse_preset_modal_show_all" : "Zobraziť všetky",
+
+	"ui_settings_playback_sleep" : "Displej spánok:",
+
+	"ui_settings_advanced_cef_devtools_port" : "CEF devtools port:",
+
+	"ui_settings_advanced_monitor_identification" : "Identifikácia monitoru:",
+	"ui_settings_advanced_restart_setting_modal_header" : "Potvrdiť reštart",
+	"ui_settings_advanced_restart_setting_modal_body" : "Program potrebuje byť reštartovaný pre aplikovanie tohto nastavenia. Reštartovať teraz?",
+	"ui_settings_windows_7_wallpaper_mode" : "Windows 7 mód",
+	"ui_settings_windows_7_wallpaper_mode_compatibility" : "Kompatibilita",
+	"ui_settings_windows_7_wallpaper_mode_block_background" : "Blokovať pozadie",
+
+	"ui_editor_welcome_modal_wiki" : "Dokumentácia",
+	"ui_editor_welcome_modal_tutorial" : "Začíname",
+
+	"ui_editor_help_tutorial_category_wiki" : "Wiki dokumentácia",
+
+	"ui_workshop_tags_approved" : "Prijaté",
+	"ui_workshop_tags_audio_responsive" : "Reagujúce na zvuk",
+
+	"ui_editor_import_adjust_projection_center" : "Pozmeniť veľkosť pozadia a pridať stred",
+
+	"ui_editor_effects_modal_solidlayer_name" : "Pevná vrstva",
+	"ui_editor_effects_modal_solidlayer_description" : "Pridá pevnú vrstvu s pozadím of jednoduchej farby. Môže byť použité v kombinácii s ostatnými efektami na precíznejšie pridanie špeciálnych transformácií, ako skreslenie perspektívy.",
+
+	"ui_editor_effect_fire_title" : "Oheň",
+	"ui_editor_effect_fire_description" : "Pridá prúd ohňa do obrázku. Farba môže byť voľne pozmenená.",
+
+	"ui_editor_preset_fog_title" : "Hmla",
+	"ui_editor_preset_fog_description" : "Jemná hmla/dym efekt.",
+	"ui_editor_preset_fire_title" : "Oheň",
+	"ui_editor_preset_fire_description" : "Malé a veľké ohnivé efekty.",
+	"ui_editor_preset_smoke_title" : "Dym",
+	"ui_editor_preset_smoke_description" : "Malé a veľké dymové efekty.",
+	"ui_editor_preset_leaves_title" : "Listy",
+	"ui_editor_preset_leaves_description" : "Padajúce listy v rôznych farbách.",
+	"ui_editor_preset_lightning_title" : "Blesk",
+	"ui_editor_preset_lightning_description" : "Zasiahnutie blesku.",
+	"ui_editor_preset_bubbles_title" : "Bubliny",
+	"ui_editor_preset_bubbles_description" : "Podvodné bubliny.",
+
+	"ui_editor_paint_overlay_brush_tooltip_spin" : "Točenie",
+
+	"ui_editor_properties_samples" : "Vzorky",
+
+	"ui_editor_properties_pulse_phase" : "Pulzová fáza",
+
+	"ui_editor_properties_spritesheet" : "Spritesheet",
+	"ui_editor_properties_frames" : "Snímky",
+	"ui_editor_properties_elliptical" : "Eliptické",
+	"ui_editor_properties_ratio" : "Pomer",
+	"ui_editor_properties_axis" : "Os",
+	"ui_editor_properties_perspective_warp" : "Zahnutie perspektívy",
+	"ui_editor_properties_perspective_padding" : "perspektívne polstrovanie",
+
+	"ui_editor_particle_element_sprite_sheet" : "Sprite sheet",
+	"ui_editor_particle_element_no_frame_blending" : "Žiadne snímkové splývanie",
+	"ui_editor_particle_element_animation_mode" : "Animačný mód",
+	"ui_editor_particle_element_sequence" : "Sekvencia",
+	"ui_editor_particle_element_sequence_multiplier" : "Násobiteľ sekvencie",
+	"ui_editor_particle_element_random_frame" : "Rôzna snímka",
+	"ui_editor_particle_element_perspective" : "Perspektíva"
 }
