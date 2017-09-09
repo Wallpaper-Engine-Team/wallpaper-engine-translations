@@ -17,7 +17,7 @@
 	"core_balloon_video_error" : "Kesalahan pada video {{err}}. Klik untuk membuka bantuan.",
 	"core_balloon_app_error" : "Gagal memuat aplikasi sebagai latar belakang.",
 
-	"core_msgboxtitle_error" : "Galat",
+	"core_msgboxtitle_error" : "Terjadi Kesalahan",
 	"core_msgboxtitle_app_conflict" : "Aplikasi Konflik",
 	"core_msgboxtitle_wpe" : "Wallpaper Engine",
 
