@@ -36,6 +36,8 @@
 	"ui_browse_header_option_monitors" : "Monitors",
 	"ui_browse_header_option_editor" : "Editor",
 	"ui_browse_advertise_workshop" : "Click here to browse the Workshop for new wallpapers!",
+	"ui_browse_no_service_header" : "Steam Services Unavailable",
+	"ui_browse_no_service_body" : "The <b>STEAM</b> Workshop services are currently not available. This is <i>not</i> an error in Wallpaper Engine. Please wait a few hours and try again.<br/><br/>The problem is with the <b>STEAM</b> servers and will be resolved soon.",
 	
 	"ui_browse_details_title" : "Title:",
 	"ui_browse_details_author" : "Author:",
@@ -602,6 +604,8 @@
 	"ui_editor_preset_lightning_description" : "Lightning strikes.",
 	"ui_editor_preset_bubbles_title" : "Bubbles",
 	"ui_editor_preset_bubbles_description" : "Underwater bubbles.",
+	"ui_editor_preset_stars_title" : "Stars",
+	"ui_editor_preset_stars_description" : "Star particle effects.",
 	
 	"ui_editor_paint_overlay_value" : "Value",
 	"ui_editor_paint_overlay_color" : "Color",
