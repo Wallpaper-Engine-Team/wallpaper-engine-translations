@@ -72,5 +72,6 @@
 	"core_updater_status_complete_starting" : "Wallpaper Engineを起動しています...",
 	"core_updater_status_cancelled" : "プロセスがユーザーによってキャンセルされました",
 	"core_updater_status_corrupted_system_module_message_box_title" : "システムモジュールが読み込めませんでした。",
-	"core_updater_status_corrupted_system_module_message_box_body" : "システムモジュールが破損しています。Wallpaper Engineが誤動作する場合があります。　\n\nDelete: {{modules}}\n\nReinstall: {{installers}}"
+	"core_updater_status_corrupted_system_module_message_box_body" : "システムモジュールが破損しています。Wallpaper Engineが誤動作する場合があります。　\n\nDelete: {{modules}}\n\nReinstall: {{installers}}",
+	"core_updater_prompt_close" : "Wallpaper Engineは動作中です, 最初に閉じてください."
 }
