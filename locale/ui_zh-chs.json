@@ -36,6 +36,8 @@
 	"ui_browse_header_option_monitors" : "显示器",
 	"ui_browse_header_option_editor" : "编辑器",
 	"ui_browse_advertise_workshop" : "点击此处浏览创意商店以获取新壁纸!",
+	"ui_browse_no_service_header" : "Steam 服务不可用",
+	"ui_browse_no_service_body" : "<b>STEAM</b> 创意工坊服务目前不可用。这是<i>不是</i>我们的错误。请等待几个小时，然后重试。<br/><br/>问题是使用<b>STEAM</b>服务器，并将尽快解决。",
 
 	"ui_browse_details_title" : "标题:",
 	"ui_browse_details_author" : "创作者:",

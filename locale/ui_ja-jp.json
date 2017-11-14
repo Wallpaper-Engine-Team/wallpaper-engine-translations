@@ -36,6 +36,8 @@
 	"ui_browse_header_option_monitors" : "モニタ",
 	"ui_browse_header_option_editor" : "エディタ",
 	"ui_browse_advertise_workshop" : "新しい壁紙のためワークショップを閲覧するには、ここをクリックしてください！",
+	"ui_browse_no_service_header" : "Steam サービスは利用できません",
+	"ui_browse_no_service_body" : "<b>STEAM</b> Workshopのサービスは現在利用できません. これはWallpaper Engineのエラーでは<i>ありません</i>. 数時間待ってからもう一度お試しください.<br/><br/>問題は<b>STEAM</b>サーバーで発生し、すぐに解決されます.",
 	
 	"ui_browse_details_title" : "タイトル:",
 	"ui_browse_details_author" : "作者:",
@@ -602,6 +604,8 @@
 	"ui_editor_preset_lightning_description" : "落雷.",
 	"ui_editor_preset_bubbles_title" : "泡",
 	"ui_editor_preset_bubbles_description" : "水中の泡.",
+	"ui_editor_preset_stars_title" : "星",
+	"ui_editor_preset_stars_description" : "スターパーティクルエフェクト.",
 	
 	"ui_editor_paint_overlay_value" : "値",
 	"ui_editor_paint_overlay_color" : "色",

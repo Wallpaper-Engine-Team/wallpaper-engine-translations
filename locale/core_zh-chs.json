@@ -64,7 +64,7 @@
 	"core_updater_status_compat_error" : "无法扫描进程",
 	"core_updater_status_compat_found" : "找到不兼容的进程: {{processname}}",
 	"core_updater_status_compat_message_box_title" : "找到不兼容的应用程序",
-	"core_updater_status_compat_message_box_body" : "您有以下应用程序运行，可能会导致Wallpaper Engine崩溃或使您的系统不稳定。他们注入代码到Wallpaper Engine而导致问题。请确保您已经添加wallpaper32.exe和wallpaper64.exe到这些程序的白名单或排除列表中。\n\n{{list}}",
+	"core_updater_status_compat_message_box_body" : "您有以下应用程序运行，可能会导致 Wallpaper Engine 崩溃或使您的系统不稳定。他们注入代码到 Wallpaper Engine 而导致问题。请确保您已经添加 wallpaper32.exe 和 wallpaper64.exe 到这些程序的白名单或排除列表中。\n\n{{list}}",
 	"core_updater_status_compat_message_box_body_item_exclude" : "{{name}}: 排除 Wallpaper Engine",
 	"core_updater_status_compat_message_box_body_item_update" : "{{name}}: 更新版本 {{version}}",
 	"core_updater_status_complete" : "安装成功",

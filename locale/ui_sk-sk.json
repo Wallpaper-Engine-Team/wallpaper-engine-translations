@@ -949,5 +949,11 @@
 	"ui_editor_particle_element_sequence" : "Sekvencia",
 	"ui_editor_particle_element_sequence_multiplier" : "Násobiteľ sekvencie",
 	"ui_editor_particle_element_random_frame" : "Rôzna snímka",
-	"ui_editor_particle_element_perspective" : "Perspektíva"
+	"ui_editor_particle_element_perspective" : "Perspektíva",
+	
+	"ui_browse_no_service_header" : "Steamové služby nedostupné",
+	"ui_browse_no_service_body" : "<b>STEAM</b> Workshop služby sú momentálne nedostupné. Toto <i>nie je</i> chyba vo Wallpaper Engine. Prosím počkajte niekoľko hodín a skúste znova.<br/><br/>Problém je so <b>STEAM</b> servermi a bude skoro vyriešený.",
+
+	"ui_editor_preset_stars_title" : "Hviezdy",
+	"ui_editor_preset_stars_description" : "Pridá častocivé efekty hviezd."
 }

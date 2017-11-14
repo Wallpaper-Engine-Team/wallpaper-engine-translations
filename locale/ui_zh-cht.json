@@ -30,6 +30,8 @@
 	"ui_browse_steam_status_unavailable_cache" : "Steam 不可用。<br/>從快取中載入 {{count}} 個桌面背景。",
 	"ui_browse_steam_status_pending" : "正在等待 Steam 響應...",
 	"ui_browse_steam_status_complete" : "Steam 更新完成。<br/>向快取中寫入了 {{count}} 個桌面背景。",
+	"ui_browse_no_service_header" : "Steam 服務不可用",
+	"ui_browse_no_service_body" : "<b>STEAM</b> 創意工坊服務目前不可用。這是<i>不是</i>我們的錯誤。請等待幾個小時，然後重試。 <br/><br/>問題是使用<b>STEAM</b>服務器，並將盡快解決。",
 	
 	"ui_browse_details_title" : "標題:",
 	"ui_browse_details_author" : "創作者:",
