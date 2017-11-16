@@ -177,6 +177,8 @@
 	"ui_browse_modal_no_steam_title" : "Steam Error",
 	"ui_browse_modal_no_steam_body" : "Steamworks could not be initialized. Please try to restart Steam and afterwards Wallpaper Engine. If you continue seeing this error, this means that your PC cannot correctly authenticate with the Steam servers, check your internet connection and whether you are logged into the correct Steam account. The Steam servers might also be unreachable temporarily. Don't launch Steam as administrator, that prevents Steamworks from connecting to Steam.",
 	"ui_browse_query_error" : "A STEAM network error occured, try again later: ",
+	"ui_browse_modal_safe_mode_header" : "Safe Start",
+	"ui_browse_modal_safe_mode_body" : "It looks like the program did not shut down correctly, the last wallpapers have not been loaded yet to prevent the issue from recurring.<br/><br/>Press OK to restore them now, or cancel to change them first.",
 	
 	"ui_browse_query_sort_by_votes" : "Top Rated",
 	"ui_browse_query_sort_by_date" : "Most Recent",
