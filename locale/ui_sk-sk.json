@@ -955,5 +955,35 @@
 	"ui_browse_no_service_body" : "<b>STEAM</b> Workshop služby sú momentálne nedostupné. Toto <i>nie je</i> chyba vo Wallpaper Engine. Prosím počkajte niekoľko hodín a skúste znova.<br/><br/>Problém je so <b>STEAM</b> servermi a bude skoro vyriešený.",
 
 	"ui_editor_preset_stars_title" : "Hviezdy",
-	"ui_editor_preset_stars_description" : "Pridá častocivé efekty hviezd."
+	"ui_editor_preset_stars_description" : "Pridá častocivé efekty hviezd.",
+	
+	"ui_browse_reload" : "Obnoviť",
+	
+	"ui_browse_context_menu_create_folder" : "Vytvoriť zložku",
+	"ui_browse_context_menu_rename" : "Premenovať",
+	"ui_browse_context_menu_remove" : "Odobrať",
+	"ui_browse_context_menu_remove_folder" : "Odstrániť zložku",
+	"ui_browse_context_menu_new_folder_name" : "Nová zložka",
+	"ui_browse_context_menu_move_to" : "Premiestniť do",
+	"ui_browse_context_menu_change_icon" : "Zmeniť ikonku",
+	"ui_browse_context_menu_change_color" : "Zmeniť farbu",
+	"ui_browse_context_menu_default" : "Štandartné",
+	
+	"ui_browse_modal_folder_create_title" : "Vytvoriť zložku",
+	"ui_browse_modal_folder_remove_title" : "Odstrániť zložku '{{title}}'",
+	"ui_browse_modal_folder_remove_body" : "Ste si istý že chceťe vymazať túto zložku?",
+	"ui_browse_modal_folder_remove_unsubscribe_and_remove_items" : "Prestať odoberať alebo vymazať pozadia v zložke",
+	
+	"ui_browse_navigation_top" : "Vrch",
+	
+	"ui_settings_playback_playing_audio" : "Iná aplikácia prehráva zvuk:",
+	
+	"ui_settings_media" : "Média",
+	
+	"ui_settings_advanced_video_framework" : "Video framework:",
+	
+	"ui_settings_playback_mute" : "Stíšiť",
+	
+	"ui_settings_video_framework_prefer_media_foundation" : "Preferovať Media Foundation",
+	"ui_settings_video_framework_prefer_directshow_lav" : "Preferovať DirectShow LAV"
 }

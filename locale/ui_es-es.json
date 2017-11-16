@@ -644,7 +644,7 @@
 	"ui_editor_properties_bounds" : "Límites",
 	"ui_editor_properties_browse" : "Buscar",
 	"ui_editor_properties_cast_type" : "Cast type",
-	"ui_editor_properties_samples" : "Ejemplos"
+	"ui_editor_properties_samples" : "Ejemplos",
 	"ui_editor_properties_center" : "Centro",
 	"ui_editor_properties_clamp_uvs" : "Clamp UVs",
 	"ui_editor_properties_color" : "Color",
