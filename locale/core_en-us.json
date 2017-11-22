@@ -24,6 +24,7 @@
 	"core_msgbox_deskscapes" : "It appears that DeskScapes is active. This may prevent Wallpaper Engine from functioning.",
 	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine needs to enable Aero in order to work. Enable Aero now?",
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine cannot run with a 'high contrast' theme. Reset theme now?",
+	"core_msgbox_prompt_high_contrast_was_enabled" : "Windows has just applied a 'high contrast' theme which does not allow Wallpaper Engine to work.",
 	"core_msgbox_dwm_disabled" : "Desktop composition is disabled.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine cannot work without Aero and will now quit.",
 	"core_msgbox_aero_failure" : "Failed to enable Aero. Wallpaper Engine will now quit.",
@@ -72,5 +73,6 @@
 	"core_updater_status_complete_starting" : "Starting Wallpaper Engine...",
 	"core_updater_status_cancelled" : "Process has been cancelled by the user",
 	"core_updater_status_corrupted_system_module_message_box_title" : "System module cannot be loaded",
-	"core_updater_status_corrupted_system_module_message_box_body" : "A system module appears to be corrupted and may cause Wallpaper Engine to malfunction.\n\nDelete: {{modules}}\n\nReinstall: {{installers}}"
+	"core_updater_status_corrupted_system_module_message_box_body" : "A system module appears to be corrupted and may cause Wallpaper Engine to malfunction.\n\nDelete: {{modules}}\n\nReinstall: {{installers}}",
+	"core_updater_prompt_close" : "Wallpaper Engine is still running, please close it first."
 }

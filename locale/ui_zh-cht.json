@@ -30,6 +30,8 @@
 	"ui_browse_steam_status_unavailable_cache" : "Steam 不可用。<br/>從快取中載入 {{count}} 個桌面背景。",
 	"ui_browse_steam_status_pending" : "正在等待 Steam 響應...",
 	"ui_browse_steam_status_complete" : "Steam 更新完成。<br/>向快取中寫入了 {{count}} 個桌面背景。",
+	"ui_browse_no_service_header" : "Steam 服務不可用",
+	"ui_browse_no_service_body" : "<b>STEAM</b> 創意工坊服務目前不可用。這是<i>不是</i>我們的錯誤。請等待幾個小時，然後重試。 <br/><br/>問題是使用<b>STEAM</b>服務器，並將盡快解決。",
 	
 	"ui_browse_details_title" : "標題:",
 	"ui_browse_details_author" : "創作者:",
@@ -87,6 +89,10 @@
 	"ui_browse_modal_remove_local_body" : "您確定要移除本地桌面背景: <b>{{title}}</b> 嗎?",
 	"ui_browse_open_url_header" : "從連結匯入桌面背景",
 	"ui_browse_modal_proceed" : "執行",
+	"ui_browse_advertise_workshop" : "點擊這裡下載新壁紙！",
+	"ui_browse_modal_advertise_workshop_header" : "應用壁紙瀏覽器",
+	"ui_browse_modal_advertise_workshop_body" : "使用過濾器選項可以更輕鬆地找到所需要的內容，而不是在Steam上。點擊類型兩次隱藏<span class='fa fa-minus-square dangerText'></span>它。<br/><br/>點擊<b>已批准</b> <span class='fa fa-trophy browseWallpaperApproved'></span>瀏覽精選壁紙。<br/><br/>瀏覽“最受歡迎”或如果您正在尋找高品質的提交內容，請參閱“最高評分”。",
+	"ui_browse_modal_advertise_workshop_footer" : "你對哪些流派感興趣？",
 
 	"ui_browse_properties_scheme_color" : "狀態欄配色",
 	"ui_browse_properties_playback_rate" : "<span class='fa fa-play propertyIcon'></span>回放速度",

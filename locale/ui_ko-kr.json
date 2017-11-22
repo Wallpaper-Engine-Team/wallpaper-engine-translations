@@ -87,6 +87,10 @@
 	"ui_browse_modal_remove_local_body" : "정말로 이 로컬 배경화면을 삭제할 것입니까?: <b>{{title}}</b>?",
 	"ui_browse_open_url_header" : "URL로부터 배경화면 불러오기",
 	"ui_browse_modal_proceed" : "확인",
+	"ui_browse_advertise_workshop" : "새로운 월페이퍼를 다운로드하려면 여기를 클릭하십시오!",
+	"ui_browse_modal_advertise_workshop_header" : "인앱 워크샵 브라우저",
+	"ui_browse_modal_advertise_workshop_body" : "필터 옵션을 사용하면 Steam보다 찾고있는 것을 더 쉽게 찾을 수 있습니다. 장르를 두 번 클릭하면 <span class='fa fa-minus-square dangerText'></span>이 숨겨집니다.<br/><br/><b>승인 된</b> <span class='fa fa-trophy browseWallpaperApproved'></span>를 클릭하면 손으로 선택한 월페이퍼를 찾아 볼 수 있습니다.<br/><br/>'가장 인기있는'또는 고품질 제출물을 찾고 있다면 '최고 평점'콘텐츠.",
+	"ui_browse_modal_advertise_workshop_footer" : "어떤 장르에 관심이 있습니까?",
 	
 	"ui_browse_properties_scheme_color" : "색체 계획",
 	"ui_browse_properties_playback_rate" : "<span class='fa fa-play propertyIcon'></span>재생 속도",
