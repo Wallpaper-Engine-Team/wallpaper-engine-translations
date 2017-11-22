@@ -24,6 +24,7 @@
 	"core_msgbox_deskscapes" : "DeskScapes 软件正在运行，它可能会妨碍 Wallpaper Engine 的正常运行。",
 	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine 需要启动 Aero 才能运行。 现在启用 Aero 吗?",
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine 不能在 '高对比度' 主题下运行。要马上切换主题吗?",
+	"core_msgbox_prompt_high_contrast_was_enabled" : "Windows 已经应用了 '高对比' 主题, 此主题不允许 Wallpaper Engine 正常运行.",
 	"core_msgbox_dwm_disabled" : "桌面窗口管理器已经被禁用。",
 	"core_msgbox_aero_denied" : "Wallpaper Engine 无法在没有 Aero 的环境中运行，正在退出。",
 	"core_msgbox_aero_failure" : "启动 Aero 失败。 Wallpaper Engine 现在会退出。",
