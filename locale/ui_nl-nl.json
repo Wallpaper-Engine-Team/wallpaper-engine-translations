@@ -283,5 +283,5 @@
     "ui_editor_help_tutorial_group_advanced_scene" : "Scène achtergronden",
     "ui_editor_help_tutorial_item_scene_shaders" : "Nieuwe shaders creëren",
 	
-	"ui_editor_snapshot_instructions" : "1. Draw a rectangle with the mouse.\n2. Press enter to take a snapshot.\n\nPress Space to pause.\nPress Escape to cancel."
+	"ui_editor_snapshot_instructions" : "1. Teken een rechthoek met je muis.\n2. Druk op enter om er een foto van te maken.\n\nDruk Space om te pauzeren.\nDruk Escape om te annuleren."
 }
