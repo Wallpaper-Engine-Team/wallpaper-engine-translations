@@ -134,6 +134,8 @@
 	"ui_browse_modal_no_steam_title" : "Steam Fehler",
 	"ui_browse_modal_no_steam_body" : "Steamworks konnte nicht initialisiert werden. Bitte starte Steam neu und anschließend Wallpaper Engine. Sollte der Fehler weiterhin auftreten, liegt vermutlich ein Verbindungsproblem zu den Servern von Steam vor. Überprüfe die Internetverbindung und stelle sicher, das Steam mit dem korrekten Account angemeldet ist. Die Server könnten auch temporär nicht erreichbar sein.",
 	"ui_browse_query_error" : "Ein STEAM Fehler trat auf: ",
+	"ui_browse_modal_safe_mode_header" : "Sicherer Start",
+	"ui_browse_modal_safe_mode_body" : "Wallpaper Engine scheint nicht korrekt geschlossen worden zu sein. Das Hintergrundbild wurde noch nicht geladen, um eine Wiederholung des Fehlers zu vermeiden.<br/><br/>Klicke auf OK um das letzte Hintergrundbild wieder zu öffnen oder auf Abbrechen um es vorher zu wechseln.",
 	
 	"ui_browse_query_sort_by_votes" : "Bestbewertet",
 	"ui_browse_query_sort_by_date" : "Neuste",

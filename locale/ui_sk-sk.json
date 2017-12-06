@@ -985,5 +985,8 @@
 	"ui_settings_playback_mute" : "Stíšiť",
 	
 	"ui_settings_video_framework_prefer_media_foundation" : "Preferovať Media Foundation",
-	"ui_settings_video_framework_prefer_directshow_lav" : "Preferovať DirectShow LAV"
+	"ui_settings_video_framework_prefer_directshow_lav" : "Preferovať DirectShow LAV",
+	
+	"ui_browse_modal_safe_mode_header" : "Bezpečný štart",
+	"ui_browse_modal_safe_mode_body" : "Vyzerá to, že program sa nevypol správne, posledné pozadianeboli ešte načítané aby sa predišlo opakovaniu tejto chyby.<br/><br/>Stlačte OK aby ste ich obnovili teraz, alebo zrušit aby ste ich najprv zmenili."
 }

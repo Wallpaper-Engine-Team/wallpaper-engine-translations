@@ -38,7 +38,8 @@
 	"ui_browse_advertise_workshop" : "新しい壁紙のためワークショップを閲覧するには、ここをクリックしてください！",
 	"ui_browse_no_service_header" : "Steam サービスは利用できません",
 	"ui_browse_no_service_body" : "<b>STEAM</b> Workshopのサービスは現在利用できません. これはWallpaper Engineのエラーでは<i>ありません</i>. 数時間待ってからもう一度お試しください.<br/><br/>問題は<b>STEAM</b>サーバーで発生し、すぐに解決されます.",
-	
+	"ui_browse_reload" : "リロード",
+		
 	"ui_browse_details_title" : "タイトル:",
 	"ui_browse_details_author" : "作者:",
 	"ui_browse_details_type" : "タイプ:",
@@ -176,6 +177,8 @@
 	"ui_browse_modal_no_steam_title" : "Steam エラー",
 	"ui_browse_modal_no_steam_body" : "Steamworksを初期化できませんでした。 SteamとWallpaper Engineを再起動してみてください。 このエラーが引き続き表示される場合は、お使いのPCがSteamで正しく認証されていないこと、インターネット接続を確認していること、および正しいSteamアカウントにログインしているかどうかを確認してください。 Steamサーバにも一時的に到達できない可能性があります。",
 	"ui_browse_query_error" : "Steamネットワークエラーが発生しました,後でやり直してください: ",
+	"ui_browse_modal_safe_mode_header" : "セーフスタート",
+	"ui_browse_modal_safe_mode_body" : "それはプログラムが正しくシャットダウンされなかったように見えますが、問題が再発するのを防ぐために最後の壁紙はまだロードされていません。<br/><br/>OKを押して今すぐ復元するか、キャンセルして最初に変更してください。",
 
 	"ui_browse_query_sort_by_votes" : "トップレート",
 	"ui_browse_query_sort_by_date" : "最近",
@@ -197,14 +200,32 @@
 	"ui_browse_context_menu_view" : "ビュー",
 	"ui_browse_context_menu_icon_medium" : "中アイコン",
 	"ui_browse_context_menu_icon_large" : "大アイコン",
-
+	"ui_browse_context_menu_create_folder" : "フォルダ作成",
+	"ui_browse_context_menu_rename" : "リネーム",
+	"ui_browse_context_menu_remove" : "削除",
+	"ui_browse_context_menu_remove_folder" : "フォルダ削除",
+	"ui_browse_context_menu_new_folder_name" : "新規フォルダ",
+	"ui_browse_context_menu_move_to" : "移動",
+	"ui_browse_context_menu_change_icon" : "アイコン変更",
+	"ui_browse_context_menu_change_color" : "色変更",
+	"ui_browse_context_menu_default" : "デフォルト",
+	"ui_browse_context_menu_play_in_window" : "ウィンドウで再生",
+	
+	"ui_browse_modal_folder_create_title" : "新規フォルダ",
+	"ui_browse_modal_folder_remove_title" : "フォルダ削除 '{{title}}'",
+	"ui_browse_modal_folder_remove_body" : "このフォルダを削除してもよろしいですか?",
+	"ui_browse_modal_folder_remove_unsubscribe_and_remove_items" : "フォルダ内の壁紙を登録解除または削除する",
+		
+	"ui_browse_navigation_top" : "トップ",
+	
 	"ui_settings_playback": "再生",
 	"ui_settings_playback_focused" : "他のアプリケーションが前面に出た場合:",
 	"ui_settings_playback_maximized" : "他のアプリケーションが全画面表示になった場合:",
 	"ui_settings_playback_fullscreen" : "他のアプリケーションがフルスクリーンになった場合:",
 	"ui_settings_playback_sleep" : "ディスプレイスリープ:",
 	"ui_settings_playback_battery" : "ノートパソコンのバッテリー:",
-
+	"ui_settings_playback_playing_audio" : "オーディオを再生する他のアプリケーション:",
+	
 	"ui_settings_gfx_quality" : "画質設定",
 	"ui_settings_gfx_preset" : "プリセット:",
 	"ui_settings_gfx_preset_low" : "低",
@@ -220,6 +241,7 @@
 	"ui_settings_performance" :  "パフォーマンス",
 	"ui_settings_general" : "一般",
 	"ui_settings_miscellaneous" : "その他",
+	"ui_settings_media" : "メディア",
 	"ui_settings_ui_language" : "UIの言語:",
 	"ui_settings_ui_skin" : "UIのスキン:",
 	"ui_settings_icon_opacity" : "デスクトップアイコンの不透明度:",
@@ -238,6 +260,7 @@
 	"ui_settings_advanced_graphics_api" : "グラフィックのAPI:",
 	"ui_settings_advanced_video_read" : "ビデオのロード元:",
 	"ui_settings_advanced_video_loop" : "ビデオのループ:",
+	"ui_settings_advanced_video_framework" : "ビデオフレームワーク:",
 	"ui_settings_advanced_log_level" : "ログ取得レベル:",
 	"ui_settings_advanced_cef_command_line" : "CEF コマンドライン:",
 	"ui_settings_advanced_cef_devtools_port" : "CEF devtools port:",
@@ -250,6 +273,7 @@
 	"ui_settings_resolution_half" : "半分",
 	"ui_settings_resolution_full" : "全体",
 	"ui_settings_playback_keep_running" : "再生を続ける",
+	"ui_settings_playback_mute" : "ミュート",
 	"ui_settings_playback_pause_per_monitor" : "モニタ毎に一時停止",
 	"ui_settings_playback_pause_all" : "すべて一時停止",
 	"ui_settings_playback_pause" : "一時停止",
@@ -277,6 +301,8 @@
 	"ui_settings_windows_7_wallpaper_mode" : "Windows 7 モード",
 	"ui_settings_windows_7_wallpaper_mode_compatibility" : "互換",
 	"ui_settings_windows_7_wallpaper_mode_block_background" : "ブロック背景",
+	"ui_settings_video_framework_prefer_media_foundation" : "Prefer Media Foundation",
+	"ui_settings_video_framework_prefer_directshow_lav" : "Prefer DirectShow LAV",
 	
 	"ui_settings_copyright" : "All rights reserved.",
 	"ui_settings_thirdparty" : "Thirdparty notices",

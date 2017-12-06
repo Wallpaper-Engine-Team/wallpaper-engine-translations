@@ -138,6 +138,8 @@
 	"ui_browse_modal_no_steam_title" : "Steam 錯誤",
 	"ui_browse_modal_no_steam_body" : "工作坊無法初始化，如果重啟Steam和Wallpaper Engine後，還有此錯誤，這代表您的電腦無法與Steam伺服器認證正确，請檢查您的網絡連接和你是否登入正確的Steam帳號，也是能是Steam伺服器暂时無法訪問。",
 	"ui_browse_query_error" : "Steam發生錯誤: ",
+	"ui_browse_modal_safe_mode_header" : "安全模式",
+	"ui_browse_modal_safe_mode_body" : "看起來程序沒有正常關閉，最後一個壁紙還沒有加載，以防止問題的複發。<br/><br/>現在按OK鍵恢復它們，或者先取消改變它們。",
 	
 	"ui_browse_query_sort_by_votes" : "有史以來最高評價",
 	"ui_browse_query_sort_by_date" : "最新",

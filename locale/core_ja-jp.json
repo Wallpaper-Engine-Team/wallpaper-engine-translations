@@ -24,6 +24,7 @@
 	"core_msgbox_deskscapes" : "DeskScapesがアクティブであるため、Wallpaper Engineを機能することができません。",
 	"core_msgbox_prompt_aero_win7" : "Wallpaper Engineは、動作するためにAeroを有効にする必要があります。今すぐAeroを有効にしますか？",
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engineは、「高コントラスト」のテーマで実行することはできません。 すぐにテーマをリセットしますか？",
+	"core_msgbox_prompt_high_contrast_was_enabled" : "Windowsは壁紙エンジンの動作を許可しない 'ハイコントラスト'テーマを適用しました。",
 	"core_msgbox_dwm_disabled" : "デスクトップ構成が無効です。",
 	"core_msgbox_aero_denied" : "Wallpaper EngineはAeroなしでは動作できないため終了します。",
 	"core_msgbox_aero_failure" : "Aeroを有効にできませんでした。 Wallpaper Engineは終了します。",
