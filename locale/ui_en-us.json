@@ -466,7 +466,7 @@
 	"ui_editor_workshop_options_rating" : "Rating",
 	"ui_editor_workshop_options_rating_change" : "Change",
 	"ui_editor_workshop_modal_rating_header" : "Choose a Rating",
-	"ui_editor_workshop_modal_rating_body" : "Please refer to this table to choose an appropriate content rating. If in doubt, choose the higher one. Submitting illegal content or rating your submission too low can get the submission banned and the account flagged. Keep in mind that you do not need to submit wallpapers to use them for yourself.",
+	"ui_editor_workshop_modal_rating_body" : "Please refer to this table to choose an appropriate content rating. If in doubt, choose a more restrictive rating. Submitting illegal content or rating your submission too low can get the submission banned and the account flagged. Keep in mind that you do not need to submit wallpapers to use them for yourself.",
 	"ui_editor_workshop_modal_rating_current" : "Current rating:",
 	
 	"ui_editor_open_modal_header" : "Open Wallpaper",
