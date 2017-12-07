@@ -362,7 +362,7 @@
 	"ui_editor_workshop_rules_modal_title" : "Pravidlá Workshopu",
 	"ui_editor_workshop_rules_modal_body" : "Pred predložením vášho pozadia na Workshop, uistite sa, že neporušuje žiadne pravidlá Steam ToS, inač bude odstránené:",
 	"ui_editor_workshop_rules_modal_list_header" : "Obzvlášť, nasledujúce pravidlá existujú rpe pozadia, náhľadný obrázok a popis:",
-	"ui_editor_workshop_rules_modal_rule_nudity" : "Žiadny pornografický obsah alebo nahota",
+	"ui_editor_workshop_rules_modal_rule_nudity" : "Žiadna fotografická/real life pornography or nudity",
 	"ui_editor_workshop_rules_modal_rule_offensive" : "Žiadny ofenzívny obsah násilie/krváky",
 	"ui_editor_workshop_rules_modal_rule_copyright" : "Žiadne porušovanie copyrightu",
 	"ui_editor_workshop_rules_modal_rule_ads" : "Žiadne reklamy",
@@ -988,5 +988,63 @@
 	"ui_settings_video_framework_prefer_directshow_lav" : "Preferovať DirectShow LAV",
 	
 	"ui_browse_modal_safe_mode_header" : "Bezpečný štart",
-	"ui_browse_modal_safe_mode_body" : "Vyzerá to, že program sa nevypol správne, posledné pozadianeboli ešte načítané aby sa predišlo opakovaniu tejto chyby.<br/><br/>Stlačte OK aby ste ich obnovili teraz, alebo zrušit aby ste ich najprv zmenili."
+	"ui_browse_modal_safe_mode_body" : "Vyzerá to, že program sa nevypol správne, posledné pozadianeboli ešte načítané aby sa predišlo opakovaniu tejto chyby.<br/><br/>Stlačte OK aby ste ich obnovili teraz, alebo zrušit aby ste ich najprv zmenili.",
+	
+	"ui_browse_use_safe_mode" : "Použiť bezpečný štart",
+	
+	"ui_browse_context_menu_play_in_window" : "Prehrať v okne",
+	"ui_browse_context_menu_report" : "Nahlásiť",
+	
+	"ui_browse_report_modal_header" : "Nahlásiť pozadie:",
+	"ui_browse_report_modal_submit" : "Poslať nahlásenie",
+	"ui_browse_report_modal_category_label" : "Dôvod pre nahlásenie",
+	"ui_browse_report_modal_category_genre" : "Nesprávny žáner",
+	"ui_browse_report_modal_category_genre_description" : "Nahlasujete toto pozadie za používanie nesprávneho žánru. Prosím premyslite si, ktorý žáner sedí k tomuto pozadiu vybraním toho čo môžete 'vidieť' nie toho čo 'viete' o tomto pozadí osobne.",
+	"ui_browse_report_modal_genre_current" : "Aktuálny žáner",
+	"ui_browse_report_modal_genre_label" : "Navrhnúť nový žáner",
+	"ui_browse_report_modal_category_rating" : "Nesprávne hodnotenie obsahu",
+	"ui_browse_report_modal_category_rating_description" : "Nahlasujete toto pozadie za nesprávne hodnotenie obsahu. Prosím použite túto možnosť iba ak by mal obsah pozadia byť označený 'diskutabilný' alebo 'dospelý' a naväzujte na tabuľku nižšie. Ak toto pozadie nepasuje do tejto tabuľky, najskôr vyberte príslušnú možnosť nahlásenia.",
+	"ui_browse_report_modal_rating_current" : "Aktuálne hodnotenie",
+	"ui_browse_report_modal_rating_label" : "Navrhnúť nové hodnotenie",
+	"ui_browse_report_modal_category_violation" : "Porušuje pravidlá o nahote/násilí",
+	"ui_browse_report_modal_category_violation_description" : "Nahlasujete toto pozadie za porušovanie pravidiel za povolené hodnotenie obsahu. Prosím naväzujte na túto tabuľku a nahláste ho s touto možnosťou iba ak by malo byť 'zabanované'. Ak pasuje do inakšieho hodnotenia, najskôr vyberte príslušnú možnosť nahlásenia.",
+	"ui_browse_report_modal_category_copyright" : "Porušuje copyright",
+	"ui_browse_report_modal_category_copyright_description" : "Prosím použite Valve DMCA formulár pre predloženie porušenia copyrightu, toto uistí že je to riešené správnym právnym spôsobom.",
+	"ui_browse_report_modal_copyright_dispute" : "Podať DMCA Dispute",
+	"ui_browse_report_modal_category_spam" : "Spam",
+	"ui_browse_report_modal_category_spam_description" : "Nahlasujete toto pozadie za spam autorom.",
+	"ui_browse_report_modal_category_offensive" : "Úražlivý obsah",
+	"ui_browse_report_modal_category_offensive_description" : "Nahlasujete toto pozadie za obsah úražlivého obsahu.",
+	"ui_browse_report_modal_category_notanimated" : "Neanimované",
+	"ui_browse_report_modal_category_notanimated_description" : "Nahlasujete toto pozadie pretože nemá animáciu, bude označené správne pre uľahčenie vyhľadávania pozadí.",
+	"ui_browse_report_modal_notes" : "Poznámky",
+	"ui_browse_report_modal_success" : "Nahlásenie úspešné odoslané!",
+	"ui_browse_report_modal_error" : "Odoslanie nahlásenia zlyhalo. Server môže byť offline, nedosiahnuteľný alebo pod údržbou. Skúste to znova neskôr.",
+
+	"ui_rating_table_suitable_for_everyone" : "Vhodné pre všetkých",
+	"ui_rating_table_partial_nudity_suggestive" : "Čiastočná nahota / sugestívne",
+	"ui_rating_table_nudity_explicit" : "Nahota / nevhodné",
+	"ui_rating_table_violence_mild_blood" : "Násilie / mierna krv",
+	"ui_rating_table_excessive_gore" : "Nadmerná krv",
+	"ui_rating_table_header_photographic" : "Fotografické / reálny život",
+	"ui_rating_table_header_cgi" : "CGI / kresby",
+	
+	"ui_settings_use_safe_mode" : "Použiť bezpečný štart:",
+	
+	"ui_editor_workshop_options_rating" : "Hodnotenie",
+	"ui_editor_workshop_options_rating_change" : "Zmeniť",
+	"ui_editor_workshop_modal_rating_header" : "Vyberte hodnotenie",
+	"ui_editor_workshop_modal_rating_body" : "Prosím naväzujte na túto tabuľku pre výber vhodného hodnotenia obsahu. ak máte pochybnosti, vyberte obmedzenejšie hodnotenie. Odosielanie nelegálneho obsahu alebo nízke hodnotenie vášho príspevku môže zabanovať váš príspevok a flagnúť váš účet. Majte na pamäti že nemusíte predložiť vaše pozadia aby ste ich mohli používať.",
+	"ui_editor_workshop_modal_rating_current" : "Aktuálne hodnotenie:",
+	
+	"ui_workshop_workshop_tags_rating" : "Hodnotenie",
+	"ui_workshop_workshop_tags_rating_not_set" : "< Nie je zadané >",
+	
+	"ui_workshop_tags_rating_everyone" : "Každý",
+	"ui_workshop_tags_rating_questionable" : "Diskutabilný",
+	"ui_workshop_tags_rating_mature" : "Dospelý",
+	"ui_workshop_tags_rating_ban" : "BAN",
+	"ui_workshop_tags_visibility_public" : "Verejný",
+	"ui_workshop_tags_visibility_friends_only" : "Iba priatelia",
+	"ui_workshop_tags_visibility_private" : "Súkromný"
 }
