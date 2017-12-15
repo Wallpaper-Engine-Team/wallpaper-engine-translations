@@ -197,6 +197,22 @@
 	"ui_browse_context_menu_view" : "Vue",
 	"ui_browse_context_menu_icon_medium" : "Icones Moyenne",
 	"ui_browse_context_menu_icon_large" : "Icones Large",
+	
+	"ui_browse_age_gate_modal_header" : "Vérification de l'âge",
+	"ui_browse_age_gate_modal_body" : "Veuillez indiquer votre date de naissance pour continuer:",
+	"ui_browse_age_gate_modal_sub" : "Ces données sont utilisées à des fins de vérification uniquement et ne seront pas conservées.",
+	"ui_browse_age_gate_modal_day" : "journée",
+	"ui_browse_age_gate_modal_month" : "mois",
+	"ui_browse_age_gate_modal_year" : "an",
+	
+	"ui_rating_table_suitable_for_everyone": "Convient à tout le monde",
+	"ui_rating_table_partial_nudity_suggestive": "Nudité partielle / suggestive",
+	"ui_rating_table_nudity_explicit": "Nudité / explicite",
+	"ui_rating_table_violence_mild_blood": "Violence / sang doux",
+	"ui_rating_table_hardcore_sexual_acts": "Les actes sexuels hardcore",
+	"ui_rating_table_excessive_gore": "Gore excessif",
+	"ui_rating_table_header_photographic": "Photographie / vie réelle",
+	"ui_rating_table_header_cgi": "CGI / dessins",
 
 	"ui_settings_playback": "Lecture",
 	"ui_settings_playback_focused" : "Autres applications actives:",
