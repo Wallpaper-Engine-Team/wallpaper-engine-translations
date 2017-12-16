@@ -24,6 +24,7 @@
 	"core_msgbox_deskscapes" : "Parece que o DeskScapes está ativo, o que pode impedir que o Wallpaper Engine funcione corretamente.",
 	"core_msgbox_prompt_aero_win7" : "O Wallpaper Engine precisa habilitar o Aero para funcionar. Ativar Aero agora?",
 	"core_msgbox_prompt_aero_win8" : "O Wallpaper Engine não pode ser executado com um tema de \"alto contraste\". Redefinir tema agora?",
+	"core_msgbox_prompt_high_contrast_was_enabled" : "O Windows aplicou um tema de \"alto contraste\" que impede que o Wallpaper Engine funcione corretamente.",
 	"core_msgbox_dwm_disabled" : "A composição da área de trabalho está desativada.",
 	"core_msgbox_aero_denied" : "O Wallpaper Engine não pode funcionar sem o Aero e será fechado agora.",
 	"core_msgbox_aero_failure" : "Falha ao habilitar Aero. O Wallpaper Engine será fechado agora.",
@@ -60,9 +61,9 @@
 	"core_updater_status_verify_success" : "Arquivo verificado: {{filepath}}",
 	"core_updater_status_verify_failed_message_box_title" : "Erros na verificação de arquivos",
 	"core_updater_status_verify_failed_message_box_body" : "Certifique-se de que o aplicativo está fechado durante a atualização (Feche através do ícone da bandeja ou do Gerenciador de Tarefas caso necessário). Falha ao verificar os seguintes arquivos. Verifique os arquivos no Steam (clique com o botão direito em Wallpaper Engine na biblioteca Steam, selecione \"Propriedades\" no menu, navegue até a aba \"Arquivos locais\" e clique em \"Verificar integridade dos arquivos...\"). Isso pode acontecer devido a erros de download no Steam ou programas antivírus detectando arquivos como falso positivo e causando problemas. Caso o seu antivírus não seja da Microsoft, verifique se ele não interfere com o Steam e o Wallpaper Engine.\n\n{{filenames}}",
-	"core_updater_status_compat" : "Buscando aplicativos incompatíveis...",
+	"core_updater_status_compat" : "Buscando por aplicativos incompatíveis...",
 	"core_updater_status_compat_error" : "Falha ao analisar processos",
-	"core_updater_status_compat_found" : "Encontrou um processo incompatível: {{processname}}",
+	"core_updater_status_compat_found" : "Processo incompatível encontrado: {{processname}}",
 	"core_updater_status_compat_message_box_title" : "Aplicativos incompatíveis encontrados",
 	"core_updater_status_compat_message_box_body" : "Os seguintes aplicativos em execução podem fazer com o Wallpaper Engine falhe ou torne seu sistema instável. Eles injetam código no Wallpaper Engine que causa problemas. Adicione o Wallpaper Engine à lista de exclusão, adicionando os executáveis wallpaper32.exe e wallpaper64.exe.\n\n{{list}}",
 	"core_updater_status_compat_message_box_body_item_exclude" : "{{name}}: exclui Wallpaper Engine",
@@ -72,6 +73,7 @@
 	"core_updater_status_complete_starting" : "Iniciando Wallpaper Engine...",
 	"core_updater_status_cancelled" : "O processo foi cancelado pelo usuário",
 	"core_updater_status_corrupted_system_module_message_box_title" : "O módulo do sistema não pode ser carregado",
-	"core_updater_status_corrupted_system_module_message_box_body" : "Um módulo do sistema parece estar corrompido e pode causar mau funcionamento do Wallpaper Engine.\n\nExcluir: {{modules}}\n\nReinstalar: {{installers}}"
+	"core_updater_status_corrupted_system_module_message_box_body" : "Um módulo do sistema parece estar corrompido e pode causar mau funcionamento do Wallpaper Engine.\n\nExcluir: {{modules}}\n\nReinstalar: {{installers}}",
+	"core_updater_prompt_close" : "O Wallpaper Engine ainda está em execução. Por favor, feche-o antes de continuar."
 }
 
