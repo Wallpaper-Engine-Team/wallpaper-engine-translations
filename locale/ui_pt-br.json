@@ -563,10 +563,11 @@
 	"ui_workshop_tags_television" : "Televisão",
 	"ui_workshop_tags_vehicle" : "Veículo",
 	"ui_workshop_tags_unspecified" : "Não especificado",
+	
 	"ui_workshop_tags_rating_everyone" : "Livre",
 	"ui_workshop_tags_rating_questionable" : "Questionável",
 	"ui_workshop_tags_rating_mature" : "Adulto",
-	"ui_workshop_tags_rating_ban" : "",
+	"ui_workshop_tags_rating_ban" : "BAN",
 	"ui_workshop_tags_visibility_public" : "Público",
 	"ui_workshop_tags_visibility_friends_only" : "Apenas amigos",
 	"ui_workshop_tags_visibility_private" : "Oculto",

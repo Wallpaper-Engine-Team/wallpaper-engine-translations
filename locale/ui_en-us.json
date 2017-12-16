@@ -246,6 +246,7 @@
 	"ui_browse_report_modal_notes" : "Notes",
 	"ui_browse_report_modal_success" : "Report successfully sent!",
 	"ui_browse_report_modal_error" : "The report failed to be sent. The server might be offline, unreachable or undergoing maintenance. Try again later.",
+	"ui_browse_report_modal_error_401" : "The report failed to be sent. Your Steam game ticket seems to have expired. Please try restarting Steam and the wallpaper browser to get a new ticket.",
 	
 	"ui_browse_modal_folder_create_title" : "Create Folder",
 	"ui_browse_modal_folder_remove_title" : "Remove Folder '{{title}}'",
@@ -563,6 +564,7 @@
 	"ui_workshop_tags_television" : "Television",
 	"ui_workshop_tags_vehicle" : "Vehicle",
 	"ui_workshop_tags_unspecified" : "Unspecified genre",
+	
 	"ui_workshop_tags_rating_everyone" : "Everyone",
 	"ui_workshop_tags_rating_questionable" : "Questionable",
 	"ui_workshop_tags_rating_mature" : "Mature",
