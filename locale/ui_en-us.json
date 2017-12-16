@@ -240,7 +240,7 @@
 	"ui_browse_report_modal_category_spam" : "Spam",
 	"ui_browse_report_modal_category_spam_description" : "You are reporting this wallpaper for spam by the author.",
 	"ui_browse_report_modal_category_offensive" : "Offensive submission",
-	"ui_browse_report_modal_category_offensive_description" : "You are reporting this wallpaper for containing offensive content.",
+	"ui_browse_report_modal_category_offensive_description" : "You are reporting this wallpaper for containing offensive content. Do not use this option to report nudity and instead choose the option 'wrong content rating'.",
 	"ui_browse_report_modal_category_notanimated" : "Not animated",
 	"ui_browse_report_modal_category_notanimated_description" : "You are reporting this wallpaper for not having an animation, it will be flagged accordingly to make finding wallpapers easier.",
 	"ui_browse_report_modal_notes" : "Notes",
