@@ -189,6 +189,13 @@
 	"ui_browse_query_sort_most_up_votes" : "Mejor Votados",
 	"ui_browse_query_sort_most_subscriptions" : "Más Suscritos",
 	
+	"ui_browse_age_gate_modal_header" : "Verificación de edad",
+	"ui_browse_age_gate_modal_body" : "Introduce tu fecha de nacimiento para continuar:",
+	"ui_browse_age_gate_modal_sub" : "Estos datos se utilizan solo como verificación y no se almacenarán.",
+	"ui_browse_age_gate_modal_day" : "día",
+	"ui_browse_age_gate_modal_month" : "mes",
+	"ui_browse_age_gate_modal_year" : "año",
+	
 	"ui_browse_context_menu_add_to_playlist" : "Añadir a una lista",
 	"ui_browse_context_menu_remove_from_playlist" : "Eliminar de la lista",
 	"ui_browse_context_menu_workshop" : "Abrir en Workshop",

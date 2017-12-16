@@ -191,6 +191,13 @@
 	"ui_browse_query_sort_by_followed_users" : "フォローユーザ作品",
 	"ui_browse_query_sort_most_up_votes" : "アップ投票順",
 	"ui_browse_query_sort_most_subscriptions" : "購読者順",
+	
+	"ui_browse_age_gate_modal_header" : "年齢確認",
+	"ui_browse_age_gate_modal_body" : "誕生日を入力して次に進んでください：",
+	"ui_browse_age_gate_modal_sub" : "この日付は年齢確認の目的のみに使用し、データとして保存されることはありません。",
+	"ui_browse_age_gate_modal_day" : "日",
+	"ui_browse_age_gate_modal_month" : "月",
+	"ui_browse_age_gate_modal_year" : "年",
 
 	"ui_browse_context_menu_add_to_playlist" : "プレイリストに追加",
 	"ui_browse_context_menu_remove_from_playlist" : "プレイリストから削除",
@@ -217,6 +224,15 @@
 	"ui_browse_modal_folder_remove_unsubscribe_and_remove_items" : "フォルダ内の壁紙を登録解除または削除する",
 		
 	"ui_browse_navigation_top" : "トップ",
+	
+	"ui_rating_table_suitable_for_everyone": "すべての人に適しています",
+	"ui_rating_table_partial_nudity_suggestive": "部分的ヌード/示唆",
+	"ui_rating_table_nudity_explicit": "ヌード/明示",
+	"ui_rating_table_violence_mild_blood": "暴力/穏やかな血",
+	"ui_rating_table_hardcore_sexual_acts": "ハードコア性行為",
+	"ui_rating_table_excessive_gore": "過剰なゴア",
+	"ui_rating_table_header_photographic": "写真/実生活",
+	"ui_rating_table_header_cgi": "CGI /図面",
 	
 	"ui_settings_playback": "再生",
 	"ui_settings_playback_focused" : "他のアプリケーションが前面に出た場合:",

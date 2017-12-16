@@ -146,6 +146,13 @@
 	"ui_browse_query_sort_by_followed_users" : "Създадени от юзъри, които следвате",
 	"ui_browse_query_sort_most_up_votes" : "Най-високо оценени вотове",
 	"ui_browse_query_sort_most_subscriptions" : "С най-много абонати",
+	
+	"ui_browse_age_gate_modal_header" : "Проверка на възрастта",
+	"ui_browse_age_gate_modal_body" : "Моля, въведете рождената си дата, за да продължите:",
+	"ui_browse_age_gate_modal_sub" : "Тези данни са единствено с цел потвърждаване и няма да бъдат запазени.",
+	"ui_browse_age_gate_modal_day" : "ден",
+	"ui_browse_age_gate_modal_month" : "месец",
+	"ui_browse_age_gate_modal_year" : "година",
 
 	"ui_settings_playback": "Възпроизвеждане",
 	"ui_settings_playback_focused" : "Други проложения, които са на фокус:",

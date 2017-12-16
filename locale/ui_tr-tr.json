@@ -189,6 +189,13 @@
 	"ui_browse_query_sort_most_up_votes" : "En Çok Oy",
 	"ui_browse_query_sort_most_subscriptions" : "En Çok Abone",
 	
+	"ui_browse_age_gate_modal_header" : "Yaş doğrulaması",
+	"ui_browse_age_gate_modal_body" : "Devam etmek için lütfen doğum tarihinizi giriniz:",
+	"ui_browse_age_gate_modal_sub" : "Bu bilgi yalnızca doğrulama amaçlıdır ve depolanmayacaktır.",
+	"ui_browse_age_gate_modal_day" : "gün",
+	"ui_browse_age_gate_modal_month" : "ay",
+	"ui_browse_age_gate_modal_year" : "yıl",
+	
 	"ui_browse_context_menu_add_to_playlist" : "Çalma Listesine Ekle",
 	"ui_browse_context_menu_remove_from_playlist" : "Çalma Listesinden Sil",
 	"ui_browse_context_menu_workshop" : "Atölyede aç",
