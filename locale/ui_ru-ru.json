@@ -564,6 +564,7 @@
 	"ui_editor_effects_modal_model_name" : "Модель",
 	"ui_editor_effects_modal_model_description" : "Импортировать 3D модель с вашего компьютера.",
 	"ui_editor_effects_modal_group_renderables" : "Визуализации",
+
 	"ui_editor_effects_modal_group_presets" : "Предустановки",
 	"ui_editor_effects_modal_group_animate" : "Анимировать",
 	"ui_editor_effects_modal_group_blur" : "Размытие",
