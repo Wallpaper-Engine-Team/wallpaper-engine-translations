@@ -1,5 +1,5 @@
 {
-	"core_tray_change_wallpaper" : "Changer de Fond d'écran",
+	"core_tray_change_wallpaper" : "Changer de fond d'écran",
 	"core_tray_browse_workshop" : "Rechercher sur le Workshop",
 	"core_tray_create_wallpaper" : "Créer un Fond d'écran",
 	"core_tray_settings" : "Paramètres",
@@ -12,7 +12,7 @@
 	"core_tray_recent_wallpapers_clear" : "Effacer la liste",
 	"core_tray_next_wallpaper" : "Fond d'écran suivant",
 	
-	"core_balloon_info" : "Wallpaper Engine sera réduit dans votre barre d'outils . Double cliquez sur l'icône pour sélectionner votre fond d'écran.",
+	"core_balloon_info" : "Wallpaper Engine sera réduit dans votre barre d'outils. Double cliquez sur l'icône pour sélectionner votre fond d'écran.",
 	"core_balloon_desktop_window_error" : "Echec de préparation du bureau pour le fond d'écran.",
 	"core_balloon_video_error" : "Une erreur vidéo est survenue {{err}}. Cliquez pour ouvrir l'aide.",
 	"core_balloon_app_error" : "Echec de chargement de l'application comme fond d'écran.",
