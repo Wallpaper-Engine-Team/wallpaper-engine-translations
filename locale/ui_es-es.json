@@ -895,7 +895,7 @@
 	"ui_editor_particle_element_initializer_sizerandom" : "Tamaño aleatorio",
 	"ui_editor_particle_element_initializer_turbulentvelocityrandom" : "Velocidad turbulenta aleatoria",
 	"ui_editor_particle_element_initializer_velocityrandom" : "Velocidad aleatoria",
-	"ui_editor_particle_element_operator_alphachange" : "Cabio de alfa",
+	"ui_editor_particle_element_operator_alphachange" : "Cambio de alfa",
 	"ui_editor_particle_element_operator_alphafade" : "Difuminación de alfa",
 	"ui_editor_particle_element_operator_angularmovement" : "Movimiento angular",
 	"ui_editor_particle_element_operator_colorchange" : "Cambio de color",
