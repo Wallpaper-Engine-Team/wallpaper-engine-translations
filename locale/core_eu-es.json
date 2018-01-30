@@ -14,7 +14,7 @@
 
 	"core_balloon_info" : "Wallpaper Engine zure jakinarazpen eremura minimizatu da. Egin klik bi aldiz ikonoan horma-papera aukeratzeko.",
 	"core_balloon_desktop_window_error" : "Errorea horma-papera animatua ezartzean.",
-	"core_balloon_video_error" : "{{err}} bideo errorea gertatu da. Klik informazio gehiagorako.",
+	"core_balloon_video_error" : "{{err}} Windows bideo errorea gertatu da. Klik egin informazio gehiagorako.",
 	"core_balloon_app_error" : "Errorea aplikazioa horma-paper bezala kargatzen.",
 
 	"core_msgboxtitle_error" : "Errorea",
@@ -24,6 +24,7 @@
 	"core_msgbox_deskscapes" : "DeskScapes aktibo dagoela dirudi. Honek Wallpaper Engine funtzionatzea galarazi dezake.",
 	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine Aero hasieratua egotea behar du funtzionatzeko. Aero orain hasieratu?",
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine ezin du 'kontraste altu'-ko tematan funtzionatu. Tema orain berrabiarazi?",
+	"core_msgbox_prompt_high_contrast_was_enabled" : "Windows 'kontraste altuko' tema bat ezarri du, honek ez du Wallpaper Engine funtzionatzen uzten.",
 	"core_msgbox_dwm_disabled" : "Mahaigaineko konposizioa desaktibatuta dago.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine ezin du Aero gabe funtzionatu eta irten egingo da.",
 	"core_msgbox_aero_failure" : "Ezin izan da Aero hasieratu. Wallpaper Engine irten egingo da.",
