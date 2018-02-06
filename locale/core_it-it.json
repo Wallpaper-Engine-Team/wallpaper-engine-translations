@@ -24,6 +24,7 @@
 	"core_msgbox_deskscapes" : "Sembra che DeskScapes sia attivo. Questo può impedire a Wallpaper Engine di funzionare.",
 	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine ha bisogno che Aero sia abilitato per funzionare. Abilitare Aero ora?",
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine non può essere eseguito con un tema ad 'alto contrasto'. Reimpostare il tema ora?",
+	"core_msgbox_prompt_high_contrast_was_enabled" : "Windows ha impostato un tema ad alto contrasto, questo non permette a Wallpaper Engine di funzionare.",
 	"core_msgbox_dwm_disabled" : "La composizione Desktop è disabilitata.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine non può essere eseguito senza Aero e quindi ora verrà chiuso.",
 	"core_msgbox_aero_failure" : "Impossibile attivare Aero. Wallpaper Engine verrà chiuso.",
@@ -72,5 +73,6 @@
 	"core_updater_status_complete_starting" : "Avvio di Wallpaper Engine in corso...",
 	"core_updater_status_cancelled" : "Il processo è stato annullato dall'utente",
 	"core_updater_status_corrupted_system_module_message_box_title" : "I moduli di sistema non possono essere caricati",
-	"core_updater_status_corrupted_system_module_message_box_body" : "Un modulo di sistema sembra essere corrotto e potrebbe causare malfunzionamenti a Wallpaper Engine.\n\nElimina: {{modules}}\n\nReinstalla: {{installers}}"
+	"core_updater_status_corrupted_system_module_message_box_body" : "Un modulo di sistema sembra essere corrotto e potrebbe causare malfunzionamenti a Wallpaper Engine.\n\nElimina: {{modules}}\n\nReinstalla: {{installers}}",
+	"core_updater_prompt_close" : "Wallpaper Engine è ancora in esecuzione, per favore chiudilo."
 }

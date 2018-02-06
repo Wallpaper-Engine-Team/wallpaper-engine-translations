@@ -148,6 +148,13 @@
 	"ui_browse_query_sort_by_followed_users" : "다음 유저들에 의해 만들어진",
 	"ui_browse_query_sort_most_up_votes" : "최다 평가",
 	"ui_browse_query_sort_most_subscriptions" : "최다 구독",
+	
+	"ui_browse_age_gate_modal_header" : "연령 확인",
+	"ui_browse_age_gate_modal_body" : "계속 진행하려면 생년월일을 입력하세요:",
+	"ui_browse_age_gate_modal_sub" : "이 데이터는 확인용이며 저장되지 않습니다.",
+	"ui_browse_age_gate_modal_day" : "일",
+	"ui_browse_age_gate_modal_month" : "달",
+	"ui_browse_age_gate_modal_year" : "년",
 
 	"ui_settings_playback": "재생",
 	"ui_settings_playback_focused" : "다른 응용프로그램 활성화:",

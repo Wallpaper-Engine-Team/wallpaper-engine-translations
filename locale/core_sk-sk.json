@@ -78,5 +78,7 @@
 	"core_updater_status_corrupted_system_module_message_box_title" : "Systémový modul nemôže byť načítaný",
 	"core_updater_status_corrupted_system_module_message_box_body" : "Systémový modul vyzerá že je poškodený a môže spôsobiť poruchu Wallpaper Engine.\n\nVymažte: {{modules}}\n\nReinštalujte: {{installers}}",
 	
-	"core_updater_prompt_close" : "Wallpaper Engine stále beží, prosím najprv ho vypnite."
+	"core_updater_prompt_close" : "Wallpaper Engine stále beží, prosím najprv ho vypnite.",
+	
+	"core_msgbox_prompt_high_contrast_was_enabled" : "Windows práve aplikoval tému 'vysoký kontrast' ktorá neumožnuje Wallpaper Engine fungovať."
 }

@@ -65,9 +65,9 @@
 	
 	"ui_browse_modal_application_warning_header" : "باز کردن برنامه ناشناخته",
 	"ui_browse_modal_application_warning_body" : "شما در حال باز کردن يک برنامه ناشناس به عنوان تصوير پس زمينه هستيد: <br/><b>{{filepath}}</b><br/>والپيپر انجين هيچ کنترلي بر روي اين فايل ندارد, شما بايد مطمئن شويد که آن را از يک منبع مشخص دريافت کرده ايد.<br/><br/>ممکن است به رايانه شما آسيب وارد کند.",
-	"ui_browse_modal_application_warning_timer" : "<br/><br/>لطفا {{زمان}} ثانيه صبر کنيد.",
+	"ui_browse_modal_application_warning_timer" : "<br/><br/>لطفا {{time}} ثانيه صبر کنيد.",
 	"ui_browse_modal_unsubscribe_header" : "لغو اشتراک",
-	"ui_browse_modal_unsubscribe_body" : "آيا مطمئن هستيد که ميخواهيد لغو اشتراک کنيد از: <b>{{عنوان}}</b>?",
+	"ui_browse_modal_unsubscribe_body" : "آيا مطمئن هستيد که ميخواهيد لغو اشتراک کنيد از: <b>{{title}}</b>?",
 	"ui_browse_modal_remove_local_header" : "حذف از تاريخچه",
 	"ui_browse_modal_remove_local_body" : "آيا مطمئن به حذف تصوير پس زمينه محلي هستيد؟: <b>{{title}}</b>?",
 	"ui_browse_open_url_header" : "باز کردم تصوير پس زمينه از وب",

@@ -24,6 +24,7 @@
 	"core_msgbox_deskscapes" : "It appears that DeskScapes is active. This may prevent Wallpaper Engine from functioning.",
 	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine needs to enable Aero in order to work. Enable Aero now?",
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine cannot run with a 'high contrast' theme. Reset theme now?",
+	"core_msgbox_prompt_high_contrast_was_enabled" : "Windows has just applied a 'high contrast' theme which does not allow Wallpaper Engine to work.",
 	"core_msgbox_dwm_disabled" : "Desktop composition is disabled.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine cannot work without Aero and will now quit.",
 	"core_msgbox_aero_failure" : "Failed to enable Aero. Wallpaper Engine will now quit.",
