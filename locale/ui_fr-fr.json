@@ -316,7 +316,7 @@
 	"ui_welcome_autostart_label" : "Démarrage automatique:",
 	"ui_welcome_finish_body" : "Tout a été configuré!<br/><br/>Wallpaper Engine est maintenant disponible dans votre zone de notification. <b>Double click</b> pour sélectionner un fond d'écran ou <b>click droit</b> accéder aux paramètres, au Workshop Steam ou à l'éditeur de fond d'écran.<div style='height:20px'></div>",
 	"ui_welcome_browse_wallpapers_now" : "Parcourir les fonds d'écran maintenant",
-	"ui_welcome_button_first_page" : "C'est partit",
+	"ui_welcome_button_first_page" : "C'est parti",
 	"ui_welcome_button_next_page" : "Suivant",
 	"ui_welcome_button_last_page" : "Terminé",
 
