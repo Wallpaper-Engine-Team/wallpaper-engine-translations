@@ -19,6 +19,7 @@
 	"ui_browse_split" : "分割",
 	"ui_browse_choose_monitor" : "(モニタ選択)",
 	"ui_browse_filter_results" : "結果をフィルター",
+	"ui_browse_filter_results_count" : "({{filtered}} of {{unfiltered}})",
 	"ui_browse_sort_by" : "並び替え",
 	"ui_browse_filter_type" : "タイプ",
 	"ui_browse_filter_source" : "ソース",
@@ -50,6 +51,7 @@
 	"ui_browse_details_btn_unsubscribe" : "登録解除",
 	"ui_browse_details_btn_download" : "ダウンロード",
 	"ui_browse_details_btn_remove_from_history" : "履歴から削除",
+	"ui_browse_details_btn_report" : "レポート",
 	"ui_browse_details_properties" : "プロパティ",
 	"ui_browse_details_properties_reset" : "リセット",
 	"ui_browse_details_properties_nothing_imported" : "インポートされていません",
@@ -64,7 +66,8 @@
 	"ui_browse_footer_btn_store" : "Store閲覧",
 	"ui_browse_footer_btn_open_from_file" : "ファイルから開く",
 	"ui_browse_footer_btn_open_from_url" : "URLから開く",
-
+	"ui_browse_footer_btn_create_wallpaper" : "壁紙作成",
+	
 	"ui_browse_monitors_choose_monitor" : "モニタ選択",
 	"ui_browse_monitors_layout" : "レイアウト",
 	"ui_browse_monitors_profile" : "プロフィール",
@@ -179,7 +182,8 @@
 	"ui_browse_query_error" : "Steamネットワークエラーが発生しました,後でやり直してください: ",
 	"ui_browse_modal_safe_mode_header" : "セーフスタート",
 	"ui_browse_modal_safe_mode_body" : "それはプログラムが正しくシャットダウンされなかったように見えますが、問題が再発するのを防ぐために最後の壁紙はまだロードされていません。<br/><br/>OKを押して今すぐ復元するか、キャンセルして最初に変更してください。",
-
+	"ui_browse_use_safe_mode" : "安全なスタートを使用",
+	
 	"ui_browse_query_sort_by_votes" : "トップレート",
 	"ui_browse_query_sort_by_date" : "最近",
 	"ui_browse_query_sort_by_trend_today" : "人気 (今日)",
@@ -217,7 +221,33 @@
 	"ui_browse_context_menu_change_color" : "色変更",
 	"ui_browse_context_menu_default" : "デフォルト",
 	"ui_browse_context_menu_play_in_window" : "ウィンドウで再生",
-	
+	"ui_browse_context_menu_report" : "リポート",
+
+    "ui_browse_report_modal_header" : "壁紙の報告:",
+    "ui_browse_report_modal_submit" : "報告を送信",
+    "ui_browse_report_modal_category_label" : "理由",
+    "ui_browse_report_modal_category_genre" : "間違ったジャンル",
+    "ui_browse_report_modal_category_genre_description" : "間違ったジャンルとして報告します。自分で知っているものではなく、大多数がわかるジャンルを選択してください。",
+    "ui_browse_report_modal_genre_current" : "現在のジャンル",
+    "ui_browse_report_modal_genre_label" : "新しいジャンル",
+    "ui_browse_report_modal_category_rating" : "不適切な壁紙",
+    "ui_browse_report_modal_category_rating_description" : "不適切な壁紙として報告します。壁紙に'疑わしい'または'ヌード'タグをつけることができない場合、'BAN'を選択して下さい。報告によっては削除されます。",
+    "ui_browse_report_modal_rating_current" : "現在のレート",
+    "ui_browse_report_modal_rating_label" : "新しいレート",
+    "ui_browse_report_modal_category_copyright" : "著作権の侵害",
+    "ui_browse_report_modal_category_copyright_description" : "バルブのDMCAのフォームを使用し、報告してください。法に基づき、対処されます。",
+    "ui_browse_report_modal_copyright_dispute" : "File DMCA Dispute",
+    "ui_browse_report_modal_category_spam" : "スパム",
+    "ui_browse_report_modal_category_spam_description" : "壁紙をスパムだとして報告します。",
+    "ui_browse_report_modal_category_offensive" : "攻撃的な投稿",
+    "ui_browse_report_modal_category_offensive_description" : "攻撃な壁紙だとして報告します。",
+    "ui_browse_report_modal_category_notanimated" : "動画ではない",
+    "ui_browse_report_modal_category_notanimated_description" : "動画ではないとフラグを立てます。これにより、ほかの使用者にもわかるようになります",
+    "ui_browse_report_modal_notes" : "ノート",
+    "ui_browse_report_modal_success" : "報告は送信されました。",
+    "ui_browse_report_modal_error" : "報告が送信できませんでした。サーバーがオフライン又はメンテナンス中です。もう一度お試しください。",
+    "ui_browse_report_modal_error_401" : "報告が送信できませんでした。チケットの有効期限が切れている可能性があります。Steam及びWallpaper Engineを再起動してみてください。",
+    	
 	"ui_browse_modal_folder_create_title" : "新規フォルダ",
 	"ui_browse_modal_folder_remove_title" : "フォルダ削除 '{{title}}'",
 	"ui_browse_modal_folder_remove_body" : "このフォルダを削除してもよろしいですか?",
@@ -319,6 +349,7 @@
 	"ui_settings_windows_7_wallpaper_mode_block_background" : "ブロック背景",
 	"ui_settings_video_framework_prefer_media_foundation" : "Prefer Media Foundation",
 	"ui_settings_video_framework_prefer_directshow_lav" : "Prefer DirectShow LAV",
+	"ui_settings_use_safe_mode" : "安全なスタートを使用:",
 	
 	"ui_settings_copyright" : "All rights reserved.",
 	"ui_settings_thirdparty" : "Thirdparty notices",
@@ -374,7 +405,8 @@
 	"ui_editor_filemenu_show_stats" : "統計情報を表示",
 	"ui_editor_filemenu_show_in_workshop" : "Workshopを閲覧",
 	"ui_editor_filemenu_prepare_for_publishing" : "公開の準備",
-
+	"ui_editor_filemenu_apply_wallpaper" : "壁紙適用",
+	
 	"ui_editor_delete_project_modal_header" : "削除確認",
 	"ui_editor_delete_project_modal_body" : "プロジェクトを削除してもよろしいですか: <br/><b>{{title}}</b> ?",
 
@@ -442,7 +474,12 @@
 	"ui_editor_workshop_options_preview_take_snapshot" : "スナップショットを撮る",
 	"ui_editor_workshop_options_preview_import_file" : "ファイルを選択",
 	"ui_editor_workshop_options_required" : " *必須",
-
+	"ui_editor_workshop_options_rating" : "評価",
+	"ui_editor_workshop_options_rating_change" : "変更",
+	"ui_editor_workshop_modal_rating_header" : "評価を選択",
+	"ui_editor_workshop_modal_rating_body" : "適切なコンテンツレーティングを選択するには、この表を参照してください。 不確かな場合は、より限定的な評価を選択してください。 違法なコンテンツを提出したり、あなたの投稿を低すぎると評価すると、投稿が禁止され、アカウントにフラグが立てられます。 あなた自身のためにそれらを使用するために壁紙を提出する必要はないことに留意してください。",
+	"ui_editor_workshop_modal_rating_current" : "現在の評価:",
+	
 	"ui_editor_open_modal_header" : "壁紙を開く",
 	"ui_editor_open_modal_delete" : " 削除",
 
@@ -496,7 +533,9 @@
 
 	"ui_editor_workshop_tags_limit" : "3つのタグのみが許可されています。",
 	"ui_editor_workshop_tags_placeholder" : "タグを追加",
-
+	"ui_workshop_workshop_tags_rating" : "評価",
+	"ui_workshop_workshop_tags_rating_not_set" : "< Not set >",
+	
 	"ui_workshop_tags_abstract" : "抽象",
 	"ui_workshop_tags_animal" : "動物",
 	"ui_workshop_tags_anime" : "アニメ",
@@ -506,7 +545,10 @@
 	"ui_workshop_tags_cgi" : "",
 	"ui_workshop_tags_cyberpunk" : "サイバーパンク",
 	"ui_workshop_tags_fantasy" : "ファンタジー",
+	"ui_workshop_tags_furry" : "Furry",
 	"ui_workshop_tags_game" : "ゲーム",
+	"ui_workshop_tags_girls" : "女の子",
+	"ui_workshop_tags_guys" : "男の子",
 	"ui_workshop_tags_landscape" : "風景",
 	"ui_workshop_tags_medieval" : "中世",
 	"ui_workshop_tags_mmd" : "",
@@ -517,11 +559,20 @@
 	"ui_workshop_tags_relaxing" : "リラックス",
 	"ui_workshop_tags_retro" : "レトロ",
 	"ui_workshop_tags_sci_fi" : "SF",
+	"ui_workshop_tags_sports" : "スポーツ",
 	"ui_workshop_tags_technology" : "テクノロジー",
 	"ui_workshop_tags_television" : "テレビ",
 	"ui_workshop_tags_vehicle" : "車両",
 	"ui_workshop_tags_unspecified" : "不特定ジャンル",
 
+	"ui_workshop_tags_rating_everyone" : "どれも",
+	"ui_workshop_tags_rating_questionable" : "問題のある",
+	"ui_workshop_tags_rating_mature" : "分別のある",
+	"ui_workshop_tags_rating_ban" : "BAN",
+	"ui_workshop_tags_visibility_public" : "公開",
+	"ui_workshop_tags_visibility_friends_only" : "フレンドのみ",
+	"ui_workshop_tags_visibility_private" : "プライベート",
+	
 	"ui_editor_scene_options_bloom" : "ブルーム",
 	"ui_editor_scene_options_bloom_strength" : "強さ",
 	"ui_editor_scene_options_bloom_threshold" : "閾値",

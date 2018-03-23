@@ -28,7 +28,7 @@
 	"ui_browse_steam_status_unavailable" : "Steam ist nicht erreichbar.",
 	"ui_browse_steam_status_unavailable_cache" : "Steam ist nicht erreichbar.<br/> {{count}} Hintergrundbilder wurden aus dem Cache geladen.",
 	"ui_browse_steam_status_pending" : "Warte auf Rückmeldung von Steam...",
-	"ui_browse_steam_status_complete" : "Steam Update fertiggestellt.<br/> {{count}} Hintergrundbilder wurden in den Zwischenspeicher geladen.",
+	"ui_browse_steam_status_complete" : "Steam Update fertiggestellt.<br/> {{count}} Hintergrundbilder wurden in den Cache geladen.",
 	
 	"ui_browse_details_title" : "Titel:",
 	"ui_browse_details_author" : "Autor:",
@@ -203,7 +203,7 @@
 	"ui_browse_modal_folder_create_title" : "Ordner Erstellen",
 	"ui_browse_modal_folder_remove_title" : "Ordner '{{title}}' Löschen",
 	"ui_browse_modal_folder_remove_body" : "Sind Sie sicher, dass Sie diesen Ordner entfernen möchten?",
-	"ui_browse_modal_folder_remove_unsubscribe_and_remove_items" : "Hintergrundbilder deabonnieren und entfernen", 
+	"ui_browse_modal_folder_remove_unsubscribe_and_remove_items" : "Hintergrundbilder deabonnieren und entfernen",
 	
 	"ui_browse_navigation_top" : "Top",
 	
@@ -456,7 +456,7 @@
 	"ui_workshop_tags_animal" : "Tiere",
 	"ui_workshop_tags_anime" : "",
 	"ui_workshop_tags_cartoon" : "",
-	"ui_workshop_tags_cgi" : "Mit dem Computer erstellt",
+	"ui_workshop_tags_cgi" : "",
 	"ui_workshop_tags_cyberpunk" : "",
 	"ui_workshop_tags_fantasy" : "Fantasie",
 	"ui_workshop_tags_game" : "Spiele",

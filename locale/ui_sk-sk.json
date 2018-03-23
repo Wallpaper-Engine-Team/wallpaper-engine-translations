@@ -1046,5 +1046,27 @@
 	"ui_workshop_tags_rating_ban" : "BAN",
 	"ui_workshop_tags_visibility_public" : "Verejný",
 	"ui_workshop_tags_visibility_friends_only" : "Iba priatelia",
-	"ui_workshop_tags_visibility_private" : "Súkromný"
+	"ui_workshop_tags_visibility_private" : "Súkromný",
+	
+	"ui_browse_filter_results_count" : "({{filtered}} z {{unfiltered}})",
+	
+	"ui_browse_details_btn_report" : "Nahlásiť",
+	
+	"ui_browse_footer_btn_create_wallpaper" : "Vytvoriť pozadie",
+	
+	"ui_browse_age_gate_modal_header" : "Overenie veku",
+	"ui_browse_age_gate_modal_body" : "Pre pokračovanie zadajte svoj dátum narodenia:",
+	"ui_browse_age_gate_modal_sub" : "Tieto dáta sú len pre overenie a nebudú uložené.",
+	"ui_browse_age_gate_modal_day" : "Deň",
+	"ui_browse_age_gate_modal_month" : "Mesiac",
+	"ui_browse_age_gate_modal_year" : "Rok",
+	
+	"ui_rating_table_hardcore_sexual_acts" : "Hardcore sexual acts",
+	
+	"ui_editor_filemenu_apply_wallpaper" : "Aplikovať pozadie",
+	
+	"ui_workshop_tags_furry" : "Srstnaté",
+	"ui_workshop_tags_girls" : "Dievčatá",
+	"ui_workshop_tags_guys" : "Chlapci",
+	"ui_workshop_tags_sports" : "Športy"
 }

@@ -189,13 +189,6 @@
 	"ui_browse_query_sort_most_up_votes" : "En Çok Oy",
 	"ui_browse_query_sort_most_subscriptions" : "En Çok Abone",
 	
-	"ui_browse_age_gate_modal_header" : "Yaş doğrulaması",
-	"ui_browse_age_gate_modal_body" : "Devam etmek için lütfen doğum tarihinizi giriniz:",
-	"ui_browse_age_gate_modal_sub" : "Bu bilgi yalnızca doğrulama amaçlıdır ve depolanmayacaktır.",
-	"ui_browse_age_gate_modal_day" : "gün",
-	"ui_browse_age_gate_modal_month" : "ay",
-	"ui_browse_age_gate_modal_year" : "yıl",
-	
 	"ui_browse_context_menu_add_to_playlist" : "Çalma Listesine Ekle",
 	"ui_browse_context_menu_remove_from_playlist" : "Çalma Listesinden Sil",
 	"ui_browse_context_menu_workshop" : "Atölyede aç",
@@ -917,5 +910,111 @@
 	"ui_editor_particle_example_turbulence" : "Türübülans",
 	
 	"ui_editor_select_material" : "Malzeme seç",
-	"ui_editor_select_texture" : "Doku Seç"
+	"ui_editor_select_texture" : "Doku Seç",
+	"ui_browse_reload" : "Tekrar Yükle",
+	
+	"ui_browse_context_menu_create_folder" : "Klasör Oluştur",
+	"ui_browse_context_menu_rename" : "Yeniden Adlandır",
+	"ui_browse_context_menu_remove" : "Sil",
+	"ui_browse_context_menu_remove_folder" : "Klasörü Sil",
+	"ui_browse_context_menu_new_folder_name" : "Yeni Klasör",
+	"ui_browse_context_menu_move_to" : "Şuraya Taşı",
+	"ui_browse_context_menu_change_icon" : "Simge Değiştir",
+	"ui_browse_context_menu_change_color" : "Renk Değiştir",
+	"ui_browse_context_menu_default" : "Varsayılan",
+	
+	"ui_browse_modal_folder_create_title" : "Yeni Klasör",
+	"ui_browse_modal_folder_remove_title" : "Klasör Sil '{{title}}'",
+	"ui_browse_modal_folder_remove_body" : "Bu klasörü silmeyi gerçekten istiyor musun ?",
+	"ui_browse_modal_folder_remove_unsubscribe_and_remove_items" : "Klasördeki aboneliği iptal et veya kaldır",
+	
+	"ui_browse_navigation_top" : "Üst",
+	
+	"ui_settings_playback_playing_audio" : "Diğer uygulamadan ses çalarken:",
+	
+	"ui_settings_media" : "Medya",
+	
+	"ui_settings_advanced_video_framework" : "Video karesi:",
+	
+	"ui_settings_playback_mute" : "Sessiz",
+	
+	"ui_settings_video_framework_prefer_media_foundation" : "Media Foundation'ı Aktif Et",
+	"ui_settings_video_framework_prefer_directshow_lav" : "DirectShow LAV'ı Aktif Et",
+	"ui_browse_modal_safe_mode_header" : "Güvenli Başlangıç",
+	"ui_browse_modal_safe_mode_body" : "Program düzgün kapatılmadı gibi görünüyor, son duvar kağıtları henüz yüklenmedi sorunu önlemek için yenileyin.<br/><br/>Programı geri yüklemek için Tamam düğmesine basın veya önce hatalı duvar kağıtlarını düzeltmek için iptal edin.",
+	"ui_browse_use_safe_mode" : "Güvenli başlangıcı kullan",
+	
+	"ui_browse_context_menu_play_in_window" : "Pencerede Oynat",
+	"ui_browse_context_menu_report" : "Şikayet Et",
+	
+	"ui_browse_report_modal_header" : "Duvar Kağıdını Şikayet Et:",
+	"ui_browse_report_modal_submit" : "Şikayeti Gönder",
+	"ui_browse_report_modal_category_label" : "Şikayetin Sebebi",
+	"ui_browse_report_modal_category_genre" : "Yanlış Tür",
+	"ui_browse_report_modal_category_genre_description" : "Bu duvar kağıdını yanlış bir tür etiketi kullandığı için bildiriyorsunuz. Lütfen hangi duvar kağıdıyla en iyi uyuştuğunu, bu duvar kağıdı hakkında kişisel olarak 'bildikleriniz' değil 'gördüklerinizi' baz alarak karar verin.",
+	"ui_browse_report_modal_genre_current" : "Şu anki tür",
+	"ui_browse_report_modal_genre_label" : "Önerdiğiniz yeni tür",
+	"ui_browse_report_modal_category_rating" : "Yanlış içerik derecelendirmesi",
+	"ui_browse_report_modal_category_rating_description" : "Yanlış bir derecelendirme kullandığı ve çıplaklık veya şiddet kurallarını ihlal ettiği için bu duvar kağıdını bildiriyorsunuz. Duvar kağıdı 'şüpheli' veya 'olgun' olarak etiketlenemezse lütfen duvar kağıdının kaldırılmasına neden olacak 'BAN' seçeneğini seçin.",
+	"ui_browse_report_modal_rating_current" : "Mevcut Derecelendirme",
+	"ui_browse_report_modal_rating_label" : "Önerilen yeni derecelendirme",
+	"ui_browse_report_modal_category_copyright" : "Telif Hakkı İhlali",
+	"ui_browse_report_modal_category_copyright_description" : "Telif hakkı ihallerini göndermek için lütfen Valve'nin DMCA formunu kullanın; bu, yasal olarak doğru bir şekilde ele alınmasını sağlar.",
+	"ui_browse_report_modal_copyright_dispute" : "Dosya DMCA anlaşmazlığı",
+	"ui_browse_report_modal_category_spam" : "İstenmeyen veya gereksiz içerik",
+	"ui_browse_report_modal_category_spam_description" : "Bu duvar kağıdını yazar tarafından gereksiz olduğu için bildiriyorsunuz.",
+	"ui_browse_report_modal_category_offensive" : "Rahatsız edici içerik",
+	"ui_browse_report_modal_category_offensive_description" : "Rahatsız edici içerikler içerdiği için bu duvar kağını bildiriyorsunuz.",
+	"ui_browse_report_modal_category_notanimated" : "Animasyonlu değil",
+	"ui_browse_report_modal_category_notanimated_description" : "Bir animasyona sahip olmadığı için bu duvar kağıdını bildiriyorsunuz, buna göre duvar kağıtları bulunacak şekilde işaretlenecektir.",
+	"ui_browse_report_modal_notes" : "Notlar",
+	"ui_browse_report_modal_success" : "Şikayet başarıyla gönderildi!",
+	"ui_browse_report_modal_error" : "Şikayet gönderilemedi. Sunucu çevrimdışı, erişilemiyor veya bakım yapılmaktadır. Lütfen daha sonra tekrar deneyin.",
+
+	"ui_rating_table_suitable_for_everyone" : "Herkes için uygun",
+	"ui_rating_table_partial_nudity_suggestive" : "Kısmi çıplaklık / Müstehcen",
+	"ui_rating_table_nudity_explicit" : "Çıplaklık / Açık",
+	"ui_rating_table_violence_mild_blood" : "Şiddet / Hafif kan",
+	"ui_rating_table_excessive_gore" : "Aşırı kan",
+	"ui_rating_table_header_photographic" : "Fotoğraf / Gerçek hayat",
+	"ui_rating_table_header_cgi" : "CGI motoru / Çizimler",
+	
+	"ui_settings_use_safe_mode" : "Güvenli başlangıcı kullan:",
+	
+	"ui_editor_workshop_options_rating" : "Derecelendirme",
+	"ui_editor_workshop_options_rating_change" : "Değiştir",
+	"ui_editor_workshop_modal_rating_header" : "Derecelendirme Seç",
+	"ui_editor_workshop_modal_rating_body" : "Uygun bir içerik derecelendirmesini seçmek için lütfen bu tabloya bakın. Şüpheniz varsa, daha kısıtlayıcı bir derecelendirme seçin. Yasa dışı içerik göndermek veya göndermenizi çok düşük derecelendirmek, gönderiminizi yasaklayabilir ve hesap işaretlenebilir. Bunları kendiniz kullanmak için duvar kağıtları göndermenizin gerekmediğini unutmayın.",
+	"ui_editor_workshop_modal_rating_current" : "Mevcut derecelendirme:",
+	
+	"ui_workshop_workshop_tags_rating" : "Derecelendirme",
+	"ui_workshop_workshop_tags_rating_not_set" : "< Ayarlı değil >",
+	
+	"ui_workshop_tags_rating_everyone" : "Herkes",
+	"ui_workshop_tags_rating_questionable" : "Şüpheli",
+	"ui_workshop_tags_rating_mature" : "Olgun",
+	"ui_workshop_tags_rating_ban" : "BAN",
+	"ui_workshop_tags_visibility_public" : "Genel",
+	"ui_workshop_tags_visibility_friends_only" : "Sadece arkadaşlar",
+	"ui_workshop_tags_visibility_private" : "Özel",
+	"ui_browse_filter_results_count" : "({{filtered}} of {{unfiltered}})",
+	
+	"ui_browse_details_btn_report" : "Şikayet Et",
+	
+	"ui_browse_footer_btn_create_wallpaper" : "Duvar Kağıdı Oluştur",
+	
+	"ui_browse_age_gate_modal_header" : "Yaş Doğrulaması",
+	"ui_browse_age_gate_modal_body" : "Lütfen yaşınızı girin ve devam edin:",
+	"ui_browse_age_gate_modal_sub" : "Bu veriler sadece doğrulama amaçlıdır, depolanmaz.",
+	"ui_browse_age_gate_modal_day" : "Gün",
+	"ui_browse_age_gate_modal_month" : "Ay",
+	"ui_browse_age_gate_modal_year" : "Yıl",
+	
+	"ui_rating_table_hardcore_sexual_acts" : "Hardcore cinsel içerikler",
+	
+	"ui_editor_filemenu_apply_wallpaper" : "Duvar Kağıdını Onayla",
+	
+	"ui_workshop_tags_girls" : "Kızlar",
+	"ui_workshop_tags_guys" : "Adamlar",
+	"ui_workshop_tags_sports" : "Sporlar"
 }
