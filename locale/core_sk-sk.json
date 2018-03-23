@@ -80,5 +80,13 @@
 	
 	"core_updater_prompt_close" : "Wallpaper Engine stále beží, prosím najprv ho vypnite.",
 	
-	"core_msgbox_prompt_high_contrast_was_enabled" : "Windows práve aplikoval tému 'vysoký kontrast' ktorá neumožnuje Wallpaper Engine fungovať."
+	"core_msgbox_prompt_high_contrast_was_enabled" : "Windows práve aplikoval tému 'vysoký kontrast' ktorá neumožnuje Wallpaper Engine fungovať.",
+
+	"core_tray_mute" : "Stíšiť",
+	"core_tray_unmute" : "Unmute",
+	
+	"core_balloon_pkg_version_error" : "Toto pozadie nemôže byť otvorené. Skúste aktualizovať Wallpaper Engine cez Steam.",
+	
+	"core_updater_status_directx_not_supported_title" : "DirectX 10 nie je podporovaný",
+	"core_updater_status_directx_not_supported_body" : "Vyzeráto že vaša grafická karta nepodporuje DirectX 10, ktorý je systémová požiadavka pre túto aplikáciu. Niektoré funkcie tohto programu budú limitované, nestabilné alebo nedostupné."
 }

@@ -1023,7 +1023,7 @@
 
 	"ui_rating_table_suitable_for_everyone" : "Vhodné pre všetkých",
 	"ui_rating_table_partial_nudity_suggestive" : "Čiastočná nahota / sugestívne",
-	"ui_rating_table_nudity_explicit" : "Nahota / nevhodné",
+	"ui_rating_table_nudity_explicit" : "Nahota",
 	"ui_rating_table_violence_mild_blood" : "Násilie / mierna krv",
 	"ui_rating_table_excessive_gore" : "Nadmerná krv",
 	"ui_rating_table_header_photographic" : "Fotografické / reálny život",
@@ -1034,7 +1034,7 @@
 	"ui_editor_workshop_options_rating" : "Hodnotenie",
 	"ui_editor_workshop_options_rating_change" : "Zmeniť",
 	"ui_editor_workshop_modal_rating_header" : "Vyberte hodnotenie",
-	"ui_editor_workshop_modal_rating_body" : "Prosím naväzujte na túto tabuľku pre výber vhodného hodnotenia obsahu. ak máte pochybnosti, vyberte obmedzenejšie hodnotenie. Odosielanie nelegálneho obsahu alebo nízke hodnotenie vášho príspevku môže zabanovať váš príspevok a flagnúť váš účet. Majte na pamäti že nemusíte predložiť vaše pozadia aby ste ich mohli používať.",
+	"ui_editor_workshop_modal_rating_body" : "Ukážkový obrázok musí byť vhodný pre všetkých. Prosím referujte k tejto tabuľke pre vybratie vhodného hodnotenia obsahu. Ak máte pochybnosti, vyberte si viac obmedzujúce hodnotenie. Predloženie ilegálneho obsahu alebo hodnotenie vášho obsahu príliš nízko môže spôsobiť zabanovanie vášho príspevku. Majte na mysli že nemusíte predložiť pozadia ktoré chcete používať sami.",
 	"ui_editor_workshop_modal_rating_current" : "Aktuálne hodnotenie:",
 	
 	"ui_workshop_workshop_tags_rating" : "Hodnotenie",
@@ -1061,12 +1061,57 @@
 	"ui_browse_age_gate_modal_month" : "Mesiac",
 	"ui_browse_age_gate_modal_year" : "Rok",
 	
-	"ui_rating_table_hardcore_sexual_acts" : "Hardcore sexual acts",
+	"ui_rating_table_hardcore_sexual_acts" : "Sexuálne akty",
 	
 	"ui_editor_filemenu_apply_wallpaper" : "Aplikovať pozadie",
 	
 	"ui_workshop_tags_furry" : "Srstnaté",
 	"ui_workshop_tags_girls" : "Dievčatá",
 	"ui_workshop_tags_guys" : "Chlapci",
-	"ui_workshop_tags_sports" : "Športy"
+	"ui_workshop_tags_sports" : "Športy",
+
+	"ui_browse_filter_results_filtered" : "(Filtrované)",
+	
+	"ui_browse_query_sort_my_favorites" : "Moje obľúbené",
+	"ui_browse_query_sort_voted_up" : "Hlasované hore",
+	
+	"ui_browse_report_modal_category_other" : "Ostatné",
+	"ui_browse_report_modal_category_other_description" : "Prosím vyberte si vhodnú kategóriu pred posielaním nahlásenia! Keď to nikde nezapadá, použite túto kategóriu.",
+	
+	"ui_browse_download_header" : "Steam stiahnutie",
+	
+	"ui_settings_disable_slideshow" : "Odstrániť system wallpaper fade:",
+	
+	"ui_editor_filemenu_import_sound" : "Importovať zvuk",
+	
+	"ui_editor_welcome_modal_create_wallpaper" : "Vytvoriť pozadie",
+	"ui_editor_welcome_modal_drop_background_file" : "Pustite pozadie sem",
+	"ui_editor_welcome_modal_supported_file_types" : "Podporované typy súboru:",
+	"ui_editor_welcome_modal_use_a_template" : "Použite šablónu",
+	
+	"ui_editor_welcome_modal_new_template_wallpaper" : "Nové pozadie zo šablóny",
+	
+	"ui_editor_welcome_modal_file" : "Súbor",
+	
+	"ui_editor_importer_please_wait" : "Prosím počkajte",
+	"ui_editor_importer_compiling_assets_for" : "Kompilujem assety pre",
+	"ui_editor_importer_compiling_file" : "Kompilovanie súboru",
+	
+	"ui_editor_effects_modal_sound_name" : "Zvuk",
+	"ui_editor_effects_modal_sound_description" : "Pridajte slučkovaciu hudbu alebo náhodné okolité zvuky.",
+	
+	"ui_editor_properties_count" : "Počet",
+	"ui_editor_properties_effects_reset" : "Reset",
+	"ui_editor_properties_lifetime" : "Životnosť",
+	"ui_editor_properties_loop" : "Slučka",
+	"ui_editor_properties_maxtime" : "Max čas",
+	"ui_editor_properties_mintime" : "Min čas",
+	"ui_editor_properties_noise_scale" : "Škála hluku",
+	"ui_editor_properties_opacity" : "Nepriehľadnosť",
+	"ui_editor_properties_particle_instance" : "Časticová inštancia",
+	"ui_editor_properties_playback" : "Playback",
+	"ui_editor_properties_mute_in_editor" : "Stíšiť v editore",
+	"ui_editor_properties_random" : "Náhodný",
+	"ui_editor_properties_sound" : "Zvuk",
+	"ui_editor_properties_volume" : "Hlasitosť"
 }
