@@ -11,11 +11,14 @@
 	"core_tray_faq" : "Support && FAQ",
 	"core_tray_recent_wallpapers_clear" : "Clear list",
 	"core_tray_next_wallpaper" : "Next Wallpaper",
+	"core_tray_mute" : "Mute",
+	"core_tray_unmute" : "Unmute",
 	
 	"core_balloon_info" : "Wallpaper Engine minimized to your tray. Double click the tray icon to select a wallpaper.",
 	"core_balloon_desktop_window_error" : "Failed preparing desktop for live wallpaper.",
 	"core_balloon_video_error" : "Windows video error occurred {{err}}. Click me for help.",
 	"core_balloon_app_error" : "Failed loading application as wallpaper.",
+	"core_balloon_pkg_version_error" : "This wallpaper cannot be opened. Try updating Wallpaper Engine over Steam.",
 	
 	"core_msgboxtitle_error" : "Error",
 	"core_msgboxtitle_app_conflict" : "Conflicting Application",
@@ -74,5 +77,7 @@
 	"core_updater_status_cancelled" : "Process has been cancelled by the user",
 	"core_updater_status_corrupted_system_module_message_box_title" : "System module cannot be loaded",
 	"core_updater_status_corrupted_system_module_message_box_body" : "A system module appears to be corrupted and may cause Wallpaper Engine to malfunction.\n\nDelete: {{modules}}\n\nReinstall: {{installers}}",
-	"core_updater_prompt_close" : "Wallpaper Engine is still running, please close it first."
+	"core_updater_prompt_close" : "Wallpaper Engine is still running, please close it first.",
+	"core_updater_status_directx_not_supported_title" : "DirectX 10 not supported",
+	"core_updater_status_directx_not_supported_body" : "It appears that your graphics card does not support DirectX 10, which is a system requirement for this application. Some functionality of the program will be limited, unstable or unavailable."
 }
