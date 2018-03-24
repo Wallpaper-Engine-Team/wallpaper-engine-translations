@@ -604,7 +604,7 @@
 	"ui_editor_scene_options_camera_parallax_amount" : "Quantidade",
 	"ui_editor_scene_options_camera_parallax_delay" : "Atraso",
 	"ui_editor_scene_options_camera_mouse_influence" : "Influência do mouse",
-	"ui_editor_scene_options_camera_fade" : "Desaparecimento da câmera"
+	"ui_editor_scene_options_camera_fade" : "Desaparecimento da câmera",
         
         "ui_editor_effects_modal_sound_name" : "Som",
 	"ui_editor_effects_modal_sound_description" : "Adicione repetição na música de fundo ou aleatoriamente tocando sons ambientes.",
@@ -622,6 +622,5 @@
 	"ui_editor_properties_mute_in_editor" : "Mudo no editor",
 	"ui_editor_properties_random" : "Aleatória",
 	"ui_editor_properties_sound" : "Som",
-	"ui_editor_properties_volume" : "Volume",
-
+	"ui_editor_properties_volume" : "Volume"
 }
