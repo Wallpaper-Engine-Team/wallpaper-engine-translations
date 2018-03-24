@@ -973,7 +973,7 @@
 
 	"ui_rating_table_suitable_for_everyone" : "Herkes için uygun",
 	"ui_rating_table_partial_nudity_suggestive" : "Kısmi çıplaklık / Müstehcen",
-	"ui_rating_table_nudity_explicit" : "Çıplaklık / Açık",
+	"ui_rating_table_nudity_explicit" : "Çıplaklık",
 	"ui_rating_table_violence_mild_blood" : "Şiddet / Hafif kan",
 	"ui_rating_table_excessive_gore" : "Aşırı kan",
 	"ui_rating_table_header_photographic" : "Fotoğraf / Gerçek hayat",
@@ -1010,11 +1010,55 @@
 	"ui_browse_age_gate_modal_month" : "Ay",
 	"ui_browse_age_gate_modal_year" : "Yıl",
 	
-	"ui_rating_table_hardcore_sexual_acts" : "Hardcore cinsel içerikler",
+	"ui_rating_table_hardcore_sexual_acts" : "Cinsel içerikler",
 	
 	"ui_editor_filemenu_apply_wallpaper" : "Duvar Kağıdını Onayla",
 	
 	"ui_workshop_tags_girls" : "Kızlar",
 	"ui_workshop_tags_guys" : "Adamlar",
-	"ui_workshop_tags_sports" : "Sporlar"
+	"ui_workshop_tags_sports" : "Sporlar",
+	"ui_browse_filter_results_filtered" : "(Filtreli)",
+	
+	"ui_browse_query_sort_my_favorites" : "Favorilerim",
+	"ui_browse_query_sort_voted_up" : "Oy Verildi",
+	
+	"ui_browse_report_modal_category_other" : "Diğer",
+	"ui_browse_report_modal_category_other_description" : "Lütfen raporunuzu göndermeden önce uygun kategoriyi seçin! Başka bir yere uymuyorsa, bu kategoriyi kullanın.",
+	
+	"ui_browse_download_header" : "Steam'den indir",
+	
+	"ui_settings_disable_slideshow" : "Sistemden duvar kağıdını sil:",
+	
+	"ui_editor_filemenu_import_sound" : "Sesi içeriye aktar",
+	
+	"ui_editor_welcome_modal_create_wallpaper" : "Duvar Kağıdı Oluştur",
+	"ui_editor_welcome_modal_drop_background_file" : "Duvar kağıdı buraya bırak ",
+	"ui_editor_welcome_modal_supported_file_types" : "Desteklenen dosya türleri:",
+	"ui_editor_welcome_modal_use_a_template" : "Şablon kullan",
+	
+	"ui_editor_welcome_modal_new_template_wallpaper" : "Şablondan yeni Duvar Kağıdı Oluştur",
+	
+	"ui_editor_welcome_modal_file" : "Dosya",
+	
+	"ui_editor_importer_please_wait" : "Lütfen Bekleyin",
+	"ui_editor_importer_compiling_assets_for" : "Varlıkları derleme",
+	"ui_editor_importer_compiling_file" : "Dosya Derleme",
+	
+	"ui_editor_effects_modal_sound_name" : "Ses",
+	"ui_editor_effects_modal_sound_description" : "Döngü fon müziği ekleyin veya ortam seslerini rastgele çalın.",
+	
+	"ui_editor_properties_count" : "Sayısı",
+	"ui_editor_properties_effects_reset" : "Sıfırla",
+	"ui_editor_properties_lifetime" : "Ömür",
+	"ui_editor_properties_loop" : "Döngü",
+	"ui_editor_properties_maxtime" : "Max Zaman",
+	"ui_editor_properties_mintime" : "Min Zaman",
+	"ui_editor_properties_noise_scale" : "Gürültü Ölçeği",
+	"ui_editor_properties_opacity" : "Opaklık",
+	"ui_editor_properties_particle_instance" : "Parçacık Örneği",
+	"ui_editor_properties_playback" : "Playback",
+	"ui_editor_properties_mute_in_editor" : "Düzenleyicinin Sesini Kapat",
+	"ui_editor_properties_random" : "Rastgele",
+	"ui_editor_properties_sound" : "Ses",
+	"ui_editor_properties_volume" : "Ses Düzeyi"
 }
