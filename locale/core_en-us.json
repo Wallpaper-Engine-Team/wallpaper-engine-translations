@@ -18,7 +18,8 @@
 	"core_balloon_desktop_window_error" : "Failed preparing desktop for live wallpaper.",
 	"core_balloon_video_error" : "Windows video error occurred {{err}}. Click me for help.",
 	"core_balloon_app_error" : "Failed loading application as wallpaper.",
-	"core_balloon_pkg_version_error" : "This wallpaper cannot be opened. Try updating Wallpaper Engine over Steam.",
+	"core_balloon_pkg_version_error" : "This wallpaper cannot be opened due to using a newer version. Try updating Wallpaper Engine over Steam.",
+	"core_balloon_wallpaper_file_missing" : "This wallpaper cannot be opened, because it's missing its files.",
 	
 	"core_msgboxtitle_error" : "Error",
 	"core_msgboxtitle_app_conflict" : "Conflicting Application",
