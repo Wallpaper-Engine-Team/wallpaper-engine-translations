@@ -37,6 +37,7 @@
 	"ui_browse_header_option_settings" : "Configurações",
 	"ui_browse_header_option_monitors" : "Monitores",
 	"ui_browse_header_option_editor" : "Editor",
+	"ui_browse_advertise_explore" : "Clique aqui para explorar planos de fundos temáticos variados!",
 	"ui_browse_advertise_workshop" : "Clique aqui para procurar planos de fundo na Oficina!",
 	"ui_browse_no_service_header" : "Serviços do Steam indisponíveis",
 	"ui_browse_no_service_body" : "Os serviços da Oficina <b>STEAM</b> estão indisponíveis no momento. Isso <i>não</i> é um erro no Wallpaper Engine. Por favor, tente novamente em algumas horas.<br/><br/>O problema é com os servidores do <b>STEAM</b> e serão resolvidos em breve.",
@@ -177,6 +178,7 @@
 	"ui_browse_list_source_title" : "Navegando por:",
 	"ui_browse_list_source_installed" : "Instalados",
 	"ui_browse_list_source_workshop" : "Oficina",
+	"ui_browse_list_source_explore" : "Explorar",
 	
 	"ui_browse_modal_no_steam_title" : "Erro do Steam",
 	"ui_browse_modal_no_steam_body" : "O Steamworks não pôde ser inicializado. Tente reiniciar o Steam e o Wallpaper Engine. Caso continue recebendo este erro, isso significa que o seu computador não está conseguindo se autenticar corretamente aos servidores do Steam, verifique a sua conexão e se iniciou a sessão com a conta correta. Os servidores do Steam também podem estar temporariamente inacessíveis. Não inicie o Steam como administrador, isso impede que o Steamworks se conecte ao Steam.",
@@ -233,7 +235,7 @@
 	"ui_browse_report_modal_category_genre_description" : "Você está denunciando este plano de fundo por usar um marcador de gênero incorreto. Por favor, considere escolher qual gênero combina melhor com o plano de fundo pelo que você \"vê\" não pelo que você \"sabe\" pessoalmente sobre este plano de fundo.",
 	"ui_browse_report_modal_genre_current" : "Gênero atual",
 	"ui_browse_report_modal_genre_label" : "Sugerir novo gênero",
-	"ui_browse_report_modal_category_rating" : "Classificação indicativa incorreta",
+	"ui_browse_report_modal_category_rating" : "Nudez ou violência ilegal",
 	"ui_browse_report_modal_category_rating_description" : "Você está denunciando este plano de fundo por usar uma classificação indicativa incorreta e por violar as regras de nudez e violência . Caso o plano de fundo não possa ser marcado como \"questionável\" ou \"adulto\", escolha a opção \"BAN\", que resultará na remoção do mesmo.",
 	"ui_browse_report_modal_rating_current" : "Classificação atual",
 	"ui_browse_report_modal_rating_label" : "Sugerir nova classificação",
@@ -356,6 +358,7 @@
 	"ui_settings_video_framework_prefer_directshow_lav" : "DirectShow LAV",
 	"ui_settings_use_safe_mode" : "Usar inicialização segura:",
         "ui_settings_disable_slideshow" : "Remova o sistema de desaparecimento do plano de fundo:",
+	"ui_settings_ui_hardware_acceleration" : "Aceleração de hardware na interface do usuário:",
 
 	"ui_settings_copyright" : "Todos os direitos reservados.",
 	"ui_settings_thirdparty" : "Avisos de terceiros",
@@ -608,8 +611,12 @@
 
 	"ui_editor_effects_modal_sound_name" : "Som",
 	"ui_editor_effects_modal_sound_description" : "Adicione repetição na música de fundo ou aleatoriamente tocando sons ambientes.",
-
-	"ui_editor_properties_count" : "Contagem",
+	"ui_editor_properties_audio_amount" : "Quantidade de áudio",
+	"ui_editor_properties_audio_bounds" : "Limites de áudio",
+	"ui_editor_properties_audio_exponent" : "Expoente de áudio",
+	"ui_editor_properties_audio_frequency" : "Frequência de áudio",
+	"ui_editor_properties_audio_response" : "Resposta de áudio",
+   "ui_editor_properties_count" : "Contagem",
 	"ui_editor_properties_effects_reset" : "Restaurar",
 	"ui_editor_properties_lifetime" : "Tempo de vida",
 	"ui_editor_properties_loop" : "Repetição",
@@ -620,7 +627,13 @@
 	"ui_editor_properties_particle_instance" : "Partícula de exemplo",
 	"ui_editor_properties_playback" : "Reprodução",
 	"ui_editor_properties_mute_in_editor" : "Mudo no editor",
+	"ui_editor_properties_none" : "Nenhum",
 	"ui_editor_properties_random" : "Aleatória",
 	"ui_editor_properties_sound" : "Som",
-	"ui_editor_properties_volume" : "Volume"
+	"ui_editor_properties_volume" : "Volume",
+	
+	"ui_editor_particle_element_frequency_end" : "Final de frequência",
+	"ui_editor_particle_element_frequency_start" : "Início de freqüência",
+	"ui_editor_particle_element_audio_response" : "Resposta de áudio",
+	
 }

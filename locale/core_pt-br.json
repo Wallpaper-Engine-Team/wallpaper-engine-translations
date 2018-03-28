@@ -18,7 +18,8 @@
 	"core_balloon_desktop_window_error" : "Falha ao preparar área de trabalho.",
 	"core_balloon_video_error" : "Ocorreu um erro de vídeo do Windows: {{err}}. Clique para obter ajuda.",
 	"core_balloon_app_error" : "Falha ao carregar aplicativo como plano de fundo.",
-	"core_balloon_pkg_version_error" : "Este papel de parede não pode ser aberto. Tente atualizar o Wallpaper Engine no Steam.",
+	"core_balloon_pkg_version_error" : "Este plano de fundo não pode ser aberto devido ao uso de uma versão mais recente. Tente atualizar o Wallpaper Engine no Steam.",
+	"core_balloon_wallpaper_file_missing" : "Este plano de fundo não pode ser aberto, porque está faltando arquivos.",
 	
 	"core_msgboxtitle_error" : "Erro",
 	"core_msgboxtitle_app_conflict" : "Aplicativo conflitante",
