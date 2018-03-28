@@ -631,7 +631,7 @@
 	"ui_editor_properties_none" : "Nenhum",
 	"ui_editor_properties_random" : "Aleatória",
 	"ui_editor_properties_sound" : "Som",
-	"ui_editor_properties_volume" : "Volume"
+	"ui_editor_properties_volume" : "Volume",
 	
 	"ui_editor_particle_element_frequency_end" : "Final de frequência",
 	"ui_editor_particle_element_frequency_start" : "Início de freqüência",
