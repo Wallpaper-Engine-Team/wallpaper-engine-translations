@@ -81,6 +81,7 @@
 	"core_balloon_pkg_version_error" : "Bu duvar kağıdı açılamadı. Steam üzerinde Wallpaper Engine'i güncellemeyi deneyin.",
 	
 	"core_updater_status_directx_not_supported_title" : "DirectX 10 desteklenmemektedir.",
-	"core_updater_status_directx_not_supported_body" : "Grafik kartınızın bu uygulama için bir sistem gereksinimi olan DirectX 10'u desteklemediği görülmektedir. Programın bazı işlevleri sınırlı, kararsız veya kullanılamaz."
+	"core_updater_status_directx_not_supported_body" : "Grafik kartınızın bu uygulama için bir sistem gereksinimi olan DirectX 10'u desteklemediği görülmektedir. Programın bazı işlevleri sınırlı, kararsız veya kullanılamaz.",
+	"core_balloon_wallpaper_file_missing" : "Bu duvar kağıdı açılamaz, çünkü dosyaları eksik."
 	
 }

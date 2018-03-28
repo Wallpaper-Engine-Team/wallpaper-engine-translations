@@ -954,7 +954,7 @@
 	"ui_browse_report_modal_category_genre_description" : "Bu duvar kağıdını yanlış bir tür etiketi kullandığı için bildiriyorsunuz. Lütfen hangi duvar kağıdıyla en iyi uyuştuğunu, bu duvar kağıdı hakkında kişisel olarak 'bildikleriniz' değil 'gördüklerinizi' baz alarak karar verin.",
 	"ui_browse_report_modal_genre_current" : "Şu anki tür",
 	"ui_browse_report_modal_genre_label" : "Önerdiğiniz yeni tür",
-	"ui_browse_report_modal_category_rating" : "Yanlış içerik derecelendirmesi",
+	"ui_browse_report_modal_category_rating" : "Yasadışı Çıplaklık veya şiddet",
 	"ui_browse_report_modal_category_rating_description" : "Yanlış bir derecelendirme kullandığı ve çıplaklık veya şiddet kurallarını ihlal ettiği için bu duvar kağıdını bildiriyorsunuz. Duvar kağıdı 'şüpheli' veya 'olgun' olarak etiketlenemezse lütfen duvar kağıdının kaldırılmasına neden olacak 'BAN' seçeneğini seçin.",
 	"ui_browse_report_modal_rating_current" : "Mevcut Derecelendirme",
 	"ui_browse_report_modal_rating_label" : "Önerilen yeni derecelendirme",
@@ -1014,6 +1014,7 @@
 	
 	"ui_editor_filemenu_apply_wallpaper" : "Duvar Kağıdını Onayla",
 	
+	"ui_workshop_tags_furry" : "Kürklü",
 	"ui_workshop_tags_girls" : "Kızlar",
 	"ui_workshop_tags_guys" : "Adamlar",
 	"ui_workshop_tags_sports" : "Sporlar",
@@ -1060,5 +1061,30 @@
 	"ui_editor_properties_mute_in_editor" : "Düzenleyicinin Sesini Kapat",
 	"ui_editor_properties_random" : "Rastgele",
 	"ui_editor_properties_sound" : "Ses",
-	"ui_editor_properties_volume" : "Ses Düzeyi"
+	"ui_editor_properties_volume" : "Ses Düzeyi",
+	"ui_browse_advertise_explore" : "Çeşitli tematik duvar kağıtlarını keşfetmek için tıklayın!",
+	
+	"ui_browse_list_source_explore" : "Keşfet",
+	
+	"ui_settings_ui_hardware_acceleration" : "UI donanım hızlandırma:",
+	
+	"ui_editor_properties_audio_amount" : "Ses miktarı",
+	"ui_editor_properties_audio_bounds" : "Ses sınırları",
+	"ui_editor_properties_audio_exponent" : "Ses üssü",
+	"ui_editor_properties_audio_frequency" : "Ses frekansı",
+	"ui_editor_properties_audio_response" : "Ses yanıtı",
+	"ui_editor_properties_none" : "Yok",
+	
+	"ui_editor_particle_element_frequency_end" : "Frekans sonu",
+	"ui_editor_particle_element_frequency_start" : "Frekans başlangıcı",
+	
+	"ui_editor_particle_element_audio_response" : "Ses yanıtı",
+	"ui_settings_skin_halloween" : "Cadılar Bayramı",
+	"ui_settings_skin_obsidian" : "Obsidyen",
+	"ui_settings_skin_mist" : "Sis",
+	"ui_settings_skin_rose" : "Gül",
+	"ui_settings_skin_moss" : "Yosun",
+	"ui_settings_skin_rust" : "Pas",
+	"ui_settings_skin_metal" : "Metal",
+	"ui_settings_skin_space" : "Uzay"
 }
