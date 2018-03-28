@@ -78,9 +78,8 @@
 	"core_updater_status_cancelled" : "O processo foi cancelado pelo usuário",
 	"core_updater_status_corrupted_system_module_message_box_title" : "O módulo do sistema não pode ser carregado",
 	"core_updater_status_corrupted_system_module_message_box_body" : "Um módulo do sistema parece estar corrompido e pode causar mau funcionamento do Wallpaper Engine.\n\nExcluir: {{modules}}\n\nReinstalar: {{installers}}",
-	"core_updater_prompt_close" : "O Wallpaper Engine ainda está em execução. Por favor, feche-o antes de continuar."
+	"core_updater_prompt_close" : "O Wallpaper Engine ainda está em execução. Por favor, feche-o antes de continuar.",
 	"core_updater_status_directx_not_supported_title" : "DirectX 10 não suportado",
 	"core_updater_status_directx_not_supported_body" : "Parece que a sua placa gráfica não suporta o DirectX 10, que é um requisito do sistema para esta aplicação. Algumas funcionalidades do programa serão limitadas, instáveis ou indisponíveis."
-	
 }
 

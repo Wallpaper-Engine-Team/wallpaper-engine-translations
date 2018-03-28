@@ -431,7 +431,7 @@
 	"ui_editor_gizmo_rotate" : "Rotacionar",
 	"ui_editor_gizmo_scale" : "Escalar",
 
-        "ui_editor_welcome_modal_create_wallpaper" : "Criar um Plano de Fundo",
+	"ui_editor_welcome_modal_create_wallpaper" : "Criar um Plano de Fundo",
 	"ui_editor_welcome_modal_drop_background_file" : "Solte o arquivo do plano de fundo aqui",
 	"ui_editor_welcome_modal_supported_file_types" : "Tipos de arquivo suportados:",
 	"ui_editor_welcome_modal_use_a_template" : "Use um modelo",
@@ -459,10 +459,10 @@
 	"ui_editor_welcome_modal_title_new" : "Novo",
 	"ui_editor_welcome_modal_title_welcome" : "Boas-vindas",
 
-       	"ui_editor_importer_please_wait" : "Por favor, espere",
+	"ui_editor_importer_please_wait" : "Por favor, espere",
 	"ui_editor_importer_compiling_assets_for" : "Compilando elementos para",
 	"ui_editor_importer_compiling_file" : "Compilando arquivo",
-        
+
 	"ui_editor_template_wizard_header" : "Assistente de modelo",
 	"ui_editor_template_wizard_select_option" : "Selecionar opção",
 	"ui_editor_template_wizard_details" : "Detalhes",
@@ -608,16 +608,15 @@
 	"ui_editor_scene_options_camera_parallax_delay" : "Atraso",
 	"ui_editor_scene_options_camera_mouse_influence" : "Influência do mouse",
 	"ui_editor_scene_options_camera_fade" : "Desaparecimento da câmera",
-        
-        "ui_editor_effects_modal_sound_name" : "Som",
+
+	"ui_editor_effects_modal_sound_name" : "Som",
 	"ui_editor_effects_modal_sound_description" : "Adicione repetição na música de fundo ou aleatoriamente tocando sons ambientes.",
-        
 	"ui_editor_properties_audio_amount" : "Quantidade de áudio",
 	"ui_editor_properties_audio_bounds" : "Limites de áudio",
 	"ui_editor_properties_audio_exponent" : "Expoente de áudio",
 	"ui_editor_properties_audio_frequency" : "Frequência de áudio",
 	"ui_editor_properties_audio_response" : "Resposta de áudio",
-        "ui_editor_properties_count" : "Contagem",
+   "ui_editor_properties_count" : "Contagem",
 	"ui_editor_properties_effects_reset" : "Restaurar",
 	"ui_editor_properties_lifetime" : "Tempo de vida",
 	"ui_editor_properties_loop" : "Repetição",

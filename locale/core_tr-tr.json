@@ -73,5 +73,14 @@
 	"core_updater_status_cancelled" : "İşlemler Kullanıcı Tarafından İptal Edildi",
 	"core_updater_status_corrupted_system_module_message_box_title" : "Sistem modülü yüklenemiyor",
 	"core_updater_status_corrupted_system_module_message_box_body" : "Sistem modülü bozulmuş gibi görünüyor ve wallpaper engine'in bozulmasına neden olabilir.\n\nDelete: {{modules}}\n\nReinstall: {{installers}}",
-	"core_updater_prompt_close" : "Wallpaper Engine halen çalışıyor, lütfen önce onu kapatın." 
+	"core_updater_prompt_close" : "Wallpaper Engine halen çalışıyor, lütfen önce onu kapatın.",
+	"core_msgbox_prompt_high_contrast_was_enabled" : "Windows yüksek kontrast teması uygulandığı için Wallpaper Engine'in çalışmasına izin vermiyor.",
+	"core_tray_mute" : "Sesi Kapat",
+	"core_tray_unmute" : "Sesi Aç",
+	
+	"core_balloon_pkg_version_error" : "Bu duvar kağıdı açılamadı. Steam üzerinde Wallpaper Engine'i güncellemeyi deneyin.",
+	
+	"core_updater_status_directx_not_supported_title" : "DirectX 10 desteklenmemektedir.",
+	"core_updater_status_directx_not_supported_body" : "Grafik kartınızın bu uygulama için bir sistem gereksinimi olan DirectX 10'u desteklemediği görülmektedir. Programın bazı işlevleri sınırlı, kararsız veya kullanılamaz."
+	
 }
