@@ -433,7 +433,7 @@
 
 	"ui_editor_welcome_modal_create_wallpaper" : "Criar plano de fundo",
 	"ui_editor_welcome_modal_drop_background_file" : "Solte os arquivos do plano de fundo aqui",
-	"ui_editor_welcome_modal_supported_file_types" : "Tipos de arquivo compatíveis:",
+	"ui_editor_welcome_modal_supported_file_types" : "Tipos de arquivo suportados:",
 	"ui_editor_welcome_modal_use_a_template" : "Usar um modelo",
 	"ui_editor_welcome_modal_new_scene_wallpaper" : "Plano de fundo de cena",
 	"ui_editor_welcome_modal_new_video_wallpaper" : "Plano de fundo de vídeo",
@@ -489,7 +489,7 @@
 	"ui_editor_workshop_options_monetization_hint_off" : " (O plano de fundo será disponibilizado gratuitamente)",
 	"ui_editor_workshop_options_preview_image" : "Pré-visualizar imagem",
 	"ui_editor_workshop_options_missing" : "Ausente",
-	"ui_editor_workshop_options_preview_take_snapshot" : "Tirar screenshot",
+	"ui_editor_workshop_options_preview_take_snapshot" : "Capturar tela",
 	"ui_editor_workshop_options_preview_import_file" : "Importar arquivo",
 	"ui_editor_workshop_options_required" : " *obrigatório",
 	"ui_editor_workshop_options_rating" : "Classificação",
@@ -603,5 +603,7 @@
 	"ui_editor_scene_options_camera_parallax_amount" : "Quantidade",
 	"ui_editor_scene_options_camera_parallax_delay" : "Atraso",
 	"ui_editor_scene_options_camera_mouse_influence" : "Influência do mouse",
-	"ui_editor_scene_options_camera_fade" : "Desaparecimento da câmera"
+	"ui_editor_scene_options_camera_fade" : "Esmaecimento da câmera",
+
+	"ui_editor_import_adjust_projection_center" : "Ajustar tamanho do plano de fundo e centralizar"
 }
