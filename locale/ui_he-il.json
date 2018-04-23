@@ -10,9 +10,9 @@
 	"ui_retry" : "נסה שוב",
 	
 	"ui_modal_updaterequired_title" : "האפליקציה צריכה להתעדכן",
-	"ui_modal_updaterequired_body" : "סגור את האפליקציה והפעל אותה מחדש דרך סטים בכדי לקבל את העדכונים החדשים ביותר, אם תקלה זאת ממשיכה להופיע, אנא בדוק את תקינות הקבצים בסטים.<br/><br/>Application version: <b>{{callerVersion}}</b>, UI version: <b>{{appVersion}}</b>.",
+	"ui_modal_updaterequired_body" : "סגור את האפליקציה והפעל אותה מחדש דרך Steam בכדי לקבל את העדכונים החדשים ביותר, אם תקלה זאת ממשיכה להופיע, אנא בדוק את תקינות הקבצים ב-Steam.<br/><br/>Application version: <b>{{callerVersion}}</b>, UI version: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "עדכון חדש זמין",
-	"ui_modal_updateavailable_body" : "עדכון חדש ליישום זמין בסטים: <b>{{updateVersion}}</b><br/>אנא סגור את היישום בכדי שתוכל להתעדכן.",
+	"ui_modal_updateavailable_body" : "עדכון חדש ליישום זמין ב-Steam: <b>{{updateVersion}}</b><br/>אנא סגור את היישום בכדי שתוכל להתעדכן.",
 
 	"ui_browse_monitor" : "צג",
 	"ui_browse_choose_monitor" : "(בחר צג)",
@@ -24,9 +24,9 @@
 	"ui_browse_grid_no_results" : "אין רקעים אשר תואמים את הקריטריונים",
 	"ui_browse_status_error" : "תקלה",
 	"ui_browse_select_prompt" : "בחר רקע",
-	"ui_browse_steam_status_unavailable" : "סטים לא נגיש",
-	"ui_browse_steam_status_unavailable_cache" : "סטים לא נגיש.<br/>נטענו {{count}} רקעים מהמטמון .",
-	"ui_browse_steam_status_pending" : "ממתין לתגובה מסטים",
+	"ui_browse_steam_status_unavailable" : "Steam לא נגיש",
+	"ui_browse_steam_status_unavailable_cache" : "Steam לא נגיש.<br/>נטענו {{count}} רקעים מהמטמון .",
+	"ui_browse_steam_status_pending" : "ממתין לתגובה מ-Steam",
 	"ui_browse_steam_status_complete" : "עדכון הושלם.<br/>נכתבו {{count}} רקעים למטמון.",
 	
 	"ui_browse_details_title" : "כותרת:",
@@ -274,13 +274,13 @@
 	"ui_editor_template_wizard_compiling_assets_for" : "מכין נכסים עבור",
 	
 	"ui_editor_publish_modal_header" : "פרסם לסדנה",
-	"ui_editor_publish_modal_header_upload" : "מעלה לסטים",
+	"ui_editor_publish_modal_header_upload" : "מעלה ל-Steam",
 	"ui_editor_publish_modal_button_publish" : "פרסם",
 	"ui_editor_publish_modal_button_publish_update" : "פרסם עדכון",
 	"ui_editor_publish_modal_button_show_in_workshop" : "הראה רקע בסדנה",
-	"ui_editor_publish_modal_steam_error" : "קרתה תקלה בסטים:",
+	"ui_editor_publish_modal_steam_error" : "קרתה תקלה ב-Steam:",
 	"ui_editor_publish_modal_publish_successful" : "פריט פורסם בהצלחה:",
-	"ui_editor_publish_modal_publish_prompt_agreement" : "עלייך לקבל את הסכם הסדנה של סטים בכדי שהרקע שלך יהיה נגיש לאחרים, בקר ברקע שלך בסדנה עכשיו:",
+	"ui_editor_publish_modal_publish_prompt_agreement" : "עלייך לקבל את הסכם הסדנה של Steam בכדי שהרקע שלך יהיה נגיש לאחרים, בקר ברקע שלך בסדנה עכשיו:",
 	
 	"ui_editor_workshop_options_title" : "כותרת",
 	"ui_editor_workshop_options_description" : "תיאור",
@@ -338,7 +338,7 @@
 	"ui_editor_snapshot_instructions" : "1. צייר מלבן עם העכבר\n2. לחץ על אנטר לצילום תמונה\n\nלחץ על רווח להשהיה\nלחץ אסקייפ לביטול",
 	
 	"ui_editor_workshop_rules_modal_title" : "חוקי הסדנה",
-	"ui_editor_workshop_rules_modal_body" : "לפני שהינך מעלה רקע לסדנה אנא וודא שהיא אינה עוברת על כללי השירות של סטים או שהיא תוסר",
+	"ui_editor_workshop_rules_modal_body" : "לפני שהינך מעלה רקע לסדנה אנא וודא שהיא אינה עוברת על כללי השירות של Steam או שהיא תוסר",
 	"ui_editor_workshop_rules_modal_list_header" : "החוקים הבאים תקפים לרקע, כותרתו ותקדימו",
 	"ui_editor_workshop_rules_modal_rule_nudity" : "תוכן פורנוגרפי או עירום אסורים",
 	"ui_editor_workshop_rules_modal_rule_offensive" : "תוכן פוגעני או אלים אסור",
