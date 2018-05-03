@@ -120,7 +120,7 @@
 	"ui_browse_open_url_header" : "Duvar Kağıdını Bağlantıdan Aç",
 	"ui_browse_modal_proceed" : "Devam et",
 	"ui_browse_modal_advertise_workshop_header" : "Uygulama İçi Atölye Tarayıcısı",
-	"ui_browse_modal_advertise_workshop_body" : "Aradığınız şeyi Steam'den daha kolay bulmak için filtre seçeneklerini kullanın. <span class='fa fa-minus-square dangerText'></span>'i gizlemek için bir türü iki kez tıklayın.<br/><br/>Elle seçilen duvar kağıtlarına göz atmak için <b>Onaylandı</b> <span class='fa fa-trophy browseWallpaperApproved'></span> düğmesini tıklayın.<br/><br/>En popüler kitleye göz atın. Yüksek kaliteli gönderimler arıyorsanız 'en beğenilen' içerikleri seçin.",
+	"ui_browse_modal_advertise_workshop_body" : "Aradığınız duvar kağıdını Steam'de daha kolay bulmak için filtre seçeneklerini kullanın. Bir kategoriyi gizlemek için <span class='fa fa-minus-square dangerText'></span>'a iki kez tıklayın.<br/><br/>Sizin için seçilen duvar kağıtlarına göz atmak için <b>Onaylandı</b> <span class='fa fa-trophy browseWallpaperApproved'></span> butonuna tıklayın.<br/><br/>Popüler içeriklere gözatın. Daha çok kaliteli içerikler arıyorsanız 'Çok Beğenilen' kategorisini seçin.",
 	"ui_browse_modal_advertise_workshop_footer" : "Hangi tür ilginizi çekiyor ?",
 	
 	"ui_browse_properties_scheme_color" : "Şema rengi",
@@ -177,17 +177,17 @@
 	"ui_browse_modal_no_steam_body" : "Steamworks başlatılamadı. Lütfen steam ve sonra Wallpaper Engine uygulamasını yeniden başlatın.",
 	"ui_browse_query_error" : "Bir steam ağ hatası oluştu, daha sonra yeniden deneyin: ",
 	
-	"ui_browse_query_sort_by_votes" : "En Beğenilen",
-	"ui_browse_query_sort_by_date" : "En Son Yüklenen",
-	"ui_browse_query_sort_by_trend_today" : "En Ünlüler (Bugün)",
-	"ui_browse_query_sort_by_trend_last_week" : "En Ünlüler (Bu Hafta)",
-	"ui_browse_query_sort_by_trend_last_month" : "En Ünlüler (Bu Ay)",
-	"ui_browse_query_sort_by_trend_year" : "En Ünlüler (Bu Yıl)",
+	"ui_browse_query_sort_by_votes" : "Çok Beğenilen",
+	"ui_browse_query_sort_by_date" : "Son Yüklenenler",
+	"ui_browse_query_sort_by_trend_today" : "Popüler (Bugün)",
+	"ui_browse_query_sort_by_trend_last_week" : "Popüler (Bu Hafta)",
+	"ui_browse_query_sort_by_trend_last_month" : "Popüler (Bu Ay)",
+	"ui_browse_query_sort_by_trend_year" : "Popüler (Bu Yıl)",
 	"ui_browse_query_sort_friends_favorites" : "Arkadaşların Favorileri",
 	"ui_browse_query_sort_friends_created" : "Arkadaşların Yaptıkları",
 	"ui_browse_query_sort_by_followed_users" : "Takip Edilenler",
-	"ui_browse_query_sort_most_up_votes" : "En Çok Oy",
-	"ui_browse_query_sort_most_subscriptions" : "En Çok Abone",
+	"ui_browse_query_sort_most_up_votes" : "Çok Oy Alanlar",
+	"ui_browse_query_sort_most_subscriptions" : "Çok Abonesi Olanlar",
 	
 	"ui_browse_context_menu_add_to_playlist" : "Çalma Listesine Ekle",
 	"ui_browse_context_menu_remove_from_playlist" : "Çalma Listesinden Sil",
@@ -938,7 +938,7 @@
 	
 	"ui_settings_playback_mute" : "Sessiz",
 	
-	"ui_settings_video_framework_prefer_media_foundation" : "Media Foundation'ı Aktif Et",
+	"ui_settings_video_framework_prefer_media_foundation" : "Foundation'ı Aktif Et",
 	"ui_settings_video_framework_prefer_directshow_lav" : "DirectShow LAV'ı Aktif Et",
 	"ui_browse_modal_safe_mode_header" : "Güvenli Başlangıç",
 	"ui_browse_modal_safe_mode_body" : "Program düzgün kapatılmadı gibi görünüyor, son duvar kağıtları henüz yüklenmedi sorunu önlemek için yenileyin.<br/><br/>Programı geri yüklemek için Tamam düğmesine basın veya önce hatalı duvar kağıtlarını düzeltmek için iptal edin.",
@@ -1001,7 +1001,7 @@
 	
 	"ui_browse_details_btn_report" : "Şikayet Et",
 	
-	"ui_browse_footer_btn_create_wallpaper" : "Duvar Kağıdı Oluştur",
+	"ui_browse_footer_btn_create_wallpaper" : "Duvar Kağıdı Yap",
 	
 	"ui_browse_age_gate_modal_header" : "Yaş Doğrulaması",
 	"ui_browse_age_gate_modal_body" : "Lütfen yaşınızı girin ve devam edin:",
@@ -1021,7 +1021,7 @@
 	"ui_browse_filter_results_filtered" : "(Filtreli)",
 	
 	"ui_browse_query_sort_my_favorites" : "Favorilerim",
-	"ui_browse_query_sort_voted_up" : "Oy Verildi",
+	"ui_browse_query_sort_voted_up" : "Oy Verilenler",
 	
 	"ui_browse_report_modal_category_other" : "Diğer",
 	"ui_browse_report_modal_category_other_description" : "Lütfen raporunuzu göndermeden önce uygun kategoriyi seçin! Başka bir yere uymuyorsa, bu kategoriyi kullanın.",
@@ -1086,5 +1086,9 @@
 	"ui_settings_skin_moss" : "Yosun",
 	"ui_settings_skin_rust" : "Pas",
 	"ui_settings_skin_metal" : "Metal",
-	"ui_settings_skin_space" : "Uzay"
+	"ui_settings_skin_space" : "Uzay",
+	"ui_browse_monitors_layout_clone_wallpaper" : "Duvar Kağıdını Döşe",
+	"ui_browse_filter_all" : "Hepsi",
+	"ui_browse_filter_none" : "Hiçbiri",
+	"ui_browse_filter_suggestions" : "Öneriler"
 }

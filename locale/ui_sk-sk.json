@@ -990,7 +990,7 @@
 	"ui_browse_modal_safe_mode_header" : "Bezpečný štart",
 	"ui_browse_modal_safe_mode_body" : "Vyzerá to, že program sa nevypol správne, posledné pozadianeboli ešte načítané aby sa predišlo opakovaniu tejto chyby.<br/><br/>Stlačte OK aby ste ich obnovili teraz, alebo zrušit aby ste ich najprv zmenili.",
 	
-	"ui_browse_use_safe_mode" : "Použiť bezpečný štart",
+		"ui_browse_use_safe_mode" : "Použiť bezpečný štart",
 	
 	"ui_browse_context_menu_play_in_window" : "Prehrať v okne",
 	"ui_browse_context_menu_report" : "Nahlásiť",
@@ -1113,5 +1113,23 @@
 	"ui_editor_properties_mute_in_editor" : "Stíšiť v editore",
 	"ui_editor_properties_random" : "Náhodný",
 	"ui_editor_properties_sound" : "Zvuk",
-	"ui_editor_properties_volume" : "Hlasitosť"
+	"ui_editor_properties_volume" : "Hlasitosť",
+
+	"ui_browse_advertise_explore" : "Kliknite sem pre prehľadanie roztriedených tematických pozadí!",
+	
+	"ui_browse_list_source_explore" : "Prehľadať",
+	
+	"ui_settings_ui_hardware_acceleration" : "UI hardware akcelerácia:",
+	
+	"ui_editor_properties_audio_amount" : "Množstvo zvuku",
+	"ui_editor_properties_audio_bounds" : "Hranice zvuku",
+	"ui_editor_properties_audio_exponent" : "Exponent zvuku",
+	"ui_editor_properties_audio_frequency" : "Frekvencia zvuku",
+	"ui_editor_properties_audio_response" : "Odozva zvuku",
+	"ui_editor_properties_none" : "Žiadny",
+	
+	"ui_editor_particle_element_frequency_end" : "Koniec frekvencie",
+	"ui_editor_particle_element_frequency_start" : "Štart frekvencie",
+	
+	"ui_editor_particle_element_audio_response" : "Odozva zvuku"
 }
