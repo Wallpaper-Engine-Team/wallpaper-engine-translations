@@ -3,7 +3,7 @@
 	"core_tray_browse_workshop" : "Navegar pela Oficina",
 	"core_tray_create_wallpaper" : "Criar plano de fundo",
 	"core_tray_settings" : "Configurações",
-	"core_tray_take_screenshot" : "Tirar screenshot",
+	"core_tray_take_screenshot" : "Capturar tela",
 	"core_tray_pause" : "Pausar",
 	"core_tray_unpause" : "Despausar",
 	"core_tray_recent_wallpapers" : "Planos de fundo recentes",
@@ -11,16 +11,16 @@
 	"core_tray_faq" : "Suporte e perguntas frequentes",
 	"core_tray_recent_wallpapers_clear" : "Limpar lista",
 	"core_tray_next_wallpaper" : "Próximo plano de fundo",
-	"core_tray_mute" : "Mudo",
-	"core_tray_unmute" : "Desativar Mudo",
-	
+	"core_tray_mute" : "Silenciar",
+	"core_tray_unmute" : "Remover silêncio",
+
 	"core_balloon_info" : "Wallpaper Engine minimizado para a bandeja. Dê um duplo clique no ícone da bandeja para selecionar um plano de fundo.",
 	"core_balloon_desktop_window_error" : "Falha ao preparar área de trabalho.",
 	"core_balloon_video_error" : "Ocorreu um erro de vídeo do Windows: {{err}}. Clique para obter ajuda.",
 	"core_balloon_app_error" : "Falha ao carregar aplicativo como plano de fundo.",
-	"core_balloon_pkg_version_error" : "Este plano de fundo não pode ser aberto devido ao uso de uma versão mais recente. Tente atualizar o Wallpaper Engine no Steam.",
-	"core_balloon_wallpaper_file_missing" : "Este plano de fundo não pode ser aberto, porque está faltando arquivos.",
-	
+	"core_balloon_pkg_version_error" : "Este plano de fundo não pode ser aberto nesta versão. Tente atualizar o Wallpaper Engine para uma versão mais recente no Steam.",
+	"core_balloon_wallpaper_file_missing" : "Este plano de fundo não pode ser aberto porque alguns arquivos necessários estão ausentes.",
+
 	"core_msgboxtitle_error" : "Erro",
 	"core_msgboxtitle_app_conflict" : "Aplicativo conflitante",
 	"core_msgboxtitle_wpe" : "Wallpaper Engine",
@@ -80,6 +80,5 @@
 	"core_updater_status_corrupted_system_module_message_box_body" : "Um módulo do sistema parece estar corrompido e pode causar mau funcionamento do Wallpaper Engine.\n\nExcluir: {{modules}}\n\nReinstalar: {{installers}}",
 	"core_updater_prompt_close" : "O Wallpaper Engine ainda está em execução. Por favor, feche-o antes de continuar.",
 	"core_updater_status_directx_not_supported_title" : "DirectX 10 não suportado",
-	"core_updater_status_directx_not_supported_body" : "Parece que a sua placa gráfica não suporta o DirectX 10, que é um requisito do sistema para esta aplicação. Algumas funcionalidades do programa serão limitadas, instáveis ou indisponíveis."
+	"core_updater_status_directx_not_supported_body" : "Parece que a sua placa de vídeo não é compatível com o DirectX 10, que é um requisito do sistema para este aplicativo. Algumas funcionalidades do programa serão limitadas, instáveis ou indisponíveis."
 }
-
