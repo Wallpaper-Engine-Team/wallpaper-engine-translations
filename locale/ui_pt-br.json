@@ -2,7 +2,7 @@
 	"ui_caption_browse" : "Nevegador de planos de fundo",
 	"ui_caption_settings" : "Configurações",
 	"ui_caption_editor" : "Editor de plano de fundo",
-	
+
 	"ui_ok" : "OK",
 	"ui_cancel" : "Cancelar",
 	"ui_back" : "Voltar",
@@ -26,6 +26,9 @@
 	"ui_browse_filter_source" : "Fonte",
 	"ui_browse_filter_resolution" : "Resolução",
 	"ui_browse_filter_tags" : "Marcadores",
+	"ui_browse_filter_all" : "Todos",
+	"ui_browse_filter_none" : "Nenhum",
+	"ui_browse_filter_suggestions" : "Sugeridos",
 	"ui_browse_grid_no_results" : "Nenhum plano de fundo que corresponda aos critérios",
 	"ui_browse_grid_no_results_refreshing" : "Aguardando resposta do Steam...",
 	"ui_browse_status_error" : "Erro",
@@ -51,8 +54,8 @@
 	"ui_browse_details_rate" : "Avaliar",
 	"ui_browse_details_btn_workshop" : "Oficina",
 	"ui_browse_details_btn_unsubscribe" : "Cancelar inscrição",
-	"ui_browse_details_btn_download" : "Baixar",
-	"ui_browse_details_btn_remove_from_history" : "Remover do histórico",
+	"ui_browse_details_btn_download" : "Inscrever-se",
+	"ui_browse_details_btn_remove_from_history" : "Remover",
 	"ui_browse_details_btn_report" : "Denunciar",
 	"ui_browse_details_properties" : "Propriedades",
 	"ui_browse_details_properties_reset" : "Restaurar",
@@ -69,7 +72,7 @@
 	"ui_browse_footer_btn_open_from_file" : "Abrir de arquivo",
 	"ui_browse_footer_btn_open_from_url" : "Abrir de URL",
 	"ui_browse_footer_btn_create_wallpaper" : "Criar plano de fundo",
-	
+
 	"ui_browse_monitors_choose_monitor" : "Escolher monitor",
 	"ui_browse_monitors_layout" : "Layout",
 	"ui_browse_monitors_profile" : "Perfil",
@@ -78,6 +81,7 @@
 	"ui_browse_monitors_remove_wallpaper" : "Remover plano de fundo",
 	"ui_browse_monitors_layout_per_monitor" : "Plano de fundo por monitor",
 	"ui_browse_monitors_layout_fit" : "Esticar plano de fundo",
+	"ui_browse_monitors_layout_clone_wallpaper" : "Clonar plano de fundo",
 	"ui_browse_monitors_split" : "Dividir",
 	"ui_browse_monitors_add_split" : "Adicionar divisão",
 	"ui_browse_monitors_remove_split" : "Remover divisão",
@@ -88,14 +92,18 @@
 	"ui_browse_monitors_split_monitor" : "Dividir monitor: {{name}}",
 	"ui_browse_monitors_group" : "Agrupar",
 	"ui_browse_monitors_ungroup" : "Desagrupar",
-	"ui_browse_monitors_add_group" : "Adicionar grupo",
+	"ui_browse_monitors_add_stretch_group" : "Adicionar grupo de extensão",
+	"ui_browse_monitors_add_clone_group" : "Adicionar grupo de clonagem",
 	"ui_browse_monitors_remove_group" : "Remover grupo",
+	"ui_browse_monitors_remove_from_group" : "Remover do grupo",
 	"ui_browse_monitors_horizontal" : "Horizontal",
 	"ui_browse_monitors_vertical" : "Vertical",
 	"ui_browse_monitors_direction" : "Direção",
 	"ui_browse_monitors_posititon" : "Posição",
 	"ui_browse_monitors_copy_to" : "Copiar para",
 	"ui_browse_monitors_swap_with" : "Trocar por",
+	"ui_browse_monitors_stretch" : "Eticar",
+	"ui_browse_monitors_clone" : "Clonar",
 
 	"ui_browse_sort_name" : "Nome",
 	"ui_browse_sort_rating" : "Avaliação",
@@ -103,7 +111,7 @@
 	"ui_browse_sort_filesize" : "Tamanho do arquivo",
 	"ui_browse_sort_subscription_date" : "Data de inscrição",
 	"ui_browse_sort_last_updated" : "Última atualização",
-	
+
 	"ui_browse_search_placeholder" : "Buscar",
 	"ui_browse_filter_type_any" : "Qualquer",
 	"ui_browse_filter_type_scene" : "Cena",
@@ -115,7 +123,7 @@
 	"ui_browse_filter_source_workshop" : "Oficina",
 	"ui_browse_filter_source_my_wallpapers" : "Meus",
 	"ui_browse_filter_parse_title" : "Filtrar título",
-	
+
 	"ui_browse_modal_application_warning_header" : "Abrindo aplicativo desconhecido",
 	"ui_browse_modal_application_warning_body" : "Você está prestes a abrir um aplicativo externo desconhecido como plano de fundo: <br/><b>{{filepath}}</b><br/>O Wallpaper Engine não tem controle sobre esse arquivo, garanta que ele vem de uma fonte confiável antes de prosseguir.",
 	"ui_browse_modal_application_warning_timer" : "<br/><br/>Por favor, aguarde {{time}} segundos.",
@@ -144,7 +152,7 @@
 	"ui_browse_playlist_modal_open_header" : "Abrir lista",
 	"ui_browse_playlist_modal_open_delete" : "Excluir",
 	"ui_browse_playlist_modal_save_header" : "Salvar lista",
-	"ui_browse_playlist_modal_save_name" : "Nome", 
+	"ui_browse_playlist_modal_save_name" : "Nome",
 	"ui_browse_playlist_modal_save_description" : "Listas com o mesmo nome serão substituídas.",
 	"ui_browse_playlist_modal_empty" : "Nenhuma lista encontrada",
 	"ui_browse_playlist_modal_settings_header" : "Configurações",
@@ -179,7 +187,7 @@
 	"ui_browse_list_source_installed" : "Instalados",
 	"ui_browse_list_source_workshop" : "Oficina",
 	"ui_browse_list_source_explore" : "Explorar",
-	
+
 	"ui_browse_modal_no_steam_title" : "Erro do Steam",
 	"ui_browse_modal_no_steam_body" : "O Steamworks não pôde ser inicializado. Tente reiniciar o Steam e o Wallpaper Engine. Caso continue recebendo este erro, isso significa que o seu computador não está conseguindo se autenticar corretamente aos servidores do Steam, verifique a sua conexão e se iniciou a sessão com a conta correta. Os servidores do Steam também podem estar temporariamente inacessíveis. Não inicie o Steam como administrador, isso impede que o Steamworks se conecte ao Steam.",
 	"ui_browse_query_error" : "Ocorreu um erro com a rede STEAM, tente novamente mais tarde: ",
@@ -235,7 +243,7 @@
 	"ui_browse_report_modal_category_genre_description" : "Você está denunciando este plano de fundo por usar um marcador de gênero incorreto. Por favor, considere escolher qual gênero combina melhor com o plano de fundo pelo que você \"vê\" não pelo que você \"sabe\" pessoalmente sobre este plano de fundo.",
 	"ui_browse_report_modal_genre_current" : "Gênero atual",
 	"ui_browse_report_modal_genre_label" : "Sugerir novo gênero",
-	"ui_browse_report_modal_category_rating" : "Nudez ou violência ilegal",
+	"ui_browse_report_modal_category_rating" : "Nudez ou violência",
 	"ui_browse_report_modal_category_rating_description" : "Você está denunciando este plano de fundo por usar uma classificação indicativa incorreta e por violar as regras de nudez e violência . Caso o plano de fundo não possa ser marcado como \"questionável\" ou \"adulto\", escolha a opção \"BAN\", que resultará na remoção do mesmo.",
 	"ui_browse_report_modal_rating_current" : "Classificação atual",
 	"ui_browse_report_modal_rating_label" : "Sugerir nova classificação",
@@ -253,12 +261,12 @@
 	"ui_browse_report_modal_notes" : "Observações",
 	"ui_browse_report_modal_success" : "Denúncia enviada com sucesso!",
 	"ui_browse_report_modal_error" : "A denúncia não foi enviada. O servidor pode estar offline, inacessível ou em manutenção. Tente novamente mais tarde.",
-	
+
 	"ui_browse_modal_folder_create_title" : "Criar pasta",
 	"ui_browse_modal_folder_remove_title" : "Remover pasta \"{{title}}\"",
 	"ui_browse_modal_folder_remove_body" : "Tem certeza de que deseja remover esta pasta?",
 	"ui_browse_modal_folder_remove_unsubscribe_and_remove_items" : "Cancelar inscrição ou remover planos de fundo na pasta",
-	
+
 	"ui_browse_navigation_top" : "Raiz",
 	"ui_browse_download_header" : "Download do Steam",
 
@@ -271,7 +279,7 @@
 	"ui_rating_table_header_photographic" : "Fotográfico / vida real",
 	"ui_rating_table_header_cgi" : "CGI / desenhos",
 
-	"ui_settings_playback": "Reprodução",
+	"ui_settings_playback" : "Reprodução",
 	"ui_settings_playback_focused" : "Outro aplicativo focado:",
 	"ui_settings_playback_maximized" : "Outro aplicativo maximizado:",
 	"ui_settings_playback_fullscreen" : "Outro aplicativo em tela cheia:",
@@ -318,7 +326,7 @@
 	"ui_settings_advanced_cef_command_line" : "Linha de comando CEF:",
 	"ui_settings_advanced_cef_devtools_port" : "Porta das DevTools CEF:",
 	"ui_settings_about" : "Sobre",
-	
+
 	"ui_settings_no_devices" : "Nenhum dispositivo encontrado",
 	"ui_settings_skin_white" : "Claro",
 	"ui_settings_skin_dark" : "Escuro",
@@ -343,7 +351,7 @@
 	"ui_settings_advanced_reset_config_button" : "RESTAURAR",
 	"ui_settings_advanced_reset_config_modal_header" : "Confirmar restauração",
 	"ui_settings_advanced_reset_config_modal_body" : "Todas as configurações serão removidas e o aplicativo precisará ser reiniciado.",
-	"ui_settings_video_audio_label" : "Saída de áudio de vídeo:",
+	"ui_settings_video_audio_label" : "Saída de áudio:",
 	"ui_settings_video_hardware_acceleration_label" : "Aceleração por hardware de vídeo:",
 	"ui_settings_process_priority" : "Prioridade do processo",
 	"ui_settings_process_priority_normal" : "Normal",
@@ -362,10 +370,10 @@
 
 	"ui_settings_copyright" : "Todos os direitos reservados.",
 	"ui_settings_thirdparty" : "Avisos de terceiros",
-	
+
 	"ui_settings_highpriority_warning_header" : "Informações sobre a prioridade alta",
 	"ui_settings_highpriority_warning" : "O modo de prioridade alta iniciará o aplicativo mais rapidamente usando um \"serviço do Windows\". Caso esteja enfrentando problemas com esta solução, experimente-a sem a prioridade alta, que será mais confiável, mas mais lenta.",
-	
+
 	"ui_welcome_preferred_language" : "Idioma de preferência (WIP):",
 	"ui_welcome_header" : "Boas-vindas ao Wallpaper Engine",
 	"ui_welcome_intro" : "Esta é uma breve introdução para ensinar a você como usar e configurar algumas opções importantes.<br/><br/>Tudo que você ajustar aqui poderá ser alterado mais tarde!",
@@ -385,12 +393,12 @@
 	"ui_welcome_button_first_page" : "Vamos",
 	"ui_welcome_button_next_page" : "Próximo",
 	"ui_welcome_button_last_page" : "Tudo feito",
-	
+
 	"ui_editor_pane_header_camera" : "Câmera",
 	"ui_editor_pane_header_preview" : "Pré-visualização",
 	"ui_editor_pane_header_properties" : "Propriedades",
 	"ui_editor_pane_header_assets" : "Elementos",
-	
+
 	"ui_editor_filemenu_file" : "Arquivo",
 	"ui_editor_filemenu_new" : "Novo",
 	"ui_editor_filemenu_open" : "Abrir",
@@ -398,6 +406,8 @@
 	"ui_editor_filemenu_save" : "Salvar",
 	"ui_editor_filemenu_quit" : "Sair",
 	"ui_editor_filemenu_edit" : "Editar",
+	"ui_editor_filemenu_undo" : "Desfazer",
+	"ui_editor_filemenu_redo" : "Refazer",
 	"ui_editor_filemenu_change_video_file" : "Alterar arquivo de vídeo",
 	"ui_editor_filemenu_import_model" : "Importar modelo",
 	"ui_editor_filemenu_add_light" : "Adicionar iluminação",
@@ -467,7 +477,7 @@
 	"ui_editor_template_wizard_last_import" : "Última importação:",
 	"ui_editor_template_wizard_import_image" : "Importar imagem",
 	"ui_editor_template_wizard_compiling_assets_for" : "Compilando recursos para",
-	
+
 	"ui_editor_publish_modal_header" : "Publicar na Oficina",
 	"ui_editor_publish_modal_header_upload" : "Enviando para o Steam",
 	"ui_editor_publish_modal_button_publish" : "Publicar",
@@ -476,7 +486,7 @@
 	"ui_editor_publish_modal_steam_error" : "Ocorreu um erro do STEAM: ",
 	"ui_editor_publish_modal_publish_successful" : "Item publicado com sucesso.",
 	"ui_editor_publish_modal_publish_prompt_agreement" : "Você precisa aceitar o Acordo da Oficina Steam antes do seu item ser publicado na Oficina Steam. Visite o seu plano de fundo na Oficina Steam agora:",
-	
+
 	"ui_editor_workshop_options_title" : "Título",
 	"ui_editor_workshop_options_description" : "Descrição",
 	"ui_editor_workshop_options_tags" : "Marcadores",
@@ -484,9 +494,8 @@
 	"ui_editor_workshop_genre_empty" : "< Escolha um gênero >",
 	"ui_editor_workshop_options_scheme_color" : "Esquema de cores",
 	"ui_editor_workshop_options_visibility" : "Visibilidade",
-	"ui_editor_workshop_options_monetization" : "Monetização (Curadoria da Oficina)",
-	"ui_editor_workshop_options_monetization_hint_on" : " (O plano de fundo será votado por usuários)",
-	"ui_editor_workshop_options_monetization_hint_off" : " (O plano de fundo será disponibilizado gratuitamente)",
+	"ui_editor_workshop_options_monetization" : "Monetização (DESATIVA DOWNLOADS)",
+	"ui_editor_workshop_options_monetization_hint_on" : " (O plano de fundo estará disponível SOMENTE na loja.)",
 	"ui_editor_workshop_options_preview_image" : "Pré-visualizar imagem",
 	"ui_editor_workshop_options_missing" : "Ausente",
 	"ui_editor_workshop_options_preview_take_snapshot" : "Capturar tela",
@@ -500,7 +509,7 @@
 
 	"ui_editor_open_modal_header" : "Abrir plano de fundo",
 	"ui_editor_open_modal_delete" : " Excluir",
-	
+
 	"ui_editor_project_settings_modal_header" : "Configurações do projeto",
 	"ui_editor_project_settings_modal_header_general" : "Geral",
 	"ui_editor_project_settings_modal_title" : "Título",
@@ -512,7 +521,7 @@
 	"ui_editor_project_settings_modal_skylight_color" : "Cor da luz do sol",
 	"ui_editor_project_settings_modal_resolution" : "Resolução",
 	"ui_editor_project_settings_modal_name" : "Nome",
-	
+
 	"ui_editor_help_header" : "Ajuda",
 	"ui_editor_help_tutorial_category_wiki" : "Documentação na wiki",
 	"ui_editor_help_tutorial_category_beginner_title" : "Tutoriais para iniciantes",
@@ -525,21 +534,21 @@
 	"ui_editor_help_tutorial_item_wallpaper_web_based" : "Da web",
 	"ui_editor_help_tutorial_item_wallpaper_scene_3d" : "Plano de fundo de cena 3D",
 	"ui_editor_help_tutorial_item_wallpaper_scene_2d" : "Plano de fundo de cena 2D",
-	
+
 	"ui_editor_help_tutorial_group_advanced_general" : "Geral",
 	"ui_editor_help_tutorial_item_project_structure" : "Arquivos do projeto e estrutura",
-	
+
 	"ui_editor_help_tutorial_group_advanced_web" : "Recursos web",
 	"ui_editor_help_tutorial_item_web_properties" : "Propriedades personalizadas",
 	"ui_editor_help_tutorial_item_web_audio" : "Visualizador de áudio",
 	"ui_editor_help_tutorial_item_web_images" : "Importando imagens de usuários",
 	"ui_editor_help_tutorial_item_web_fps_limit" : "Limite de QPS",
-	
+
 	"ui_editor_help_tutorial_group_advanced_scene" : "Planos de fundo de cena",
 	"ui_editor_help_tutorial_item_scene_shaders" : "Criando sombras",
-	
+
 	"ui_editor_snapshot_instructions" : "1. Desenhe um retângulo com o mouse.\n2. Pressione Enter para tirar uma snapshot.\n\nPressione Espaço para pausar.\nPressione Esc para cancelar.",
-	
+
 	"ui_editor_workshop_rules_modal_title" : "Regras da Oficina",
 	"ui_editor_workshop_rules_modal_body" : "Antes de enviar o seu plano de fundo para a Oficina, certifique-se de que ele não viola os Termos de Serviço do Steam, senão ele será removido:",
 	"ui_editor_workshop_rules_modal_list_header" : "Em particular, as seguintes regras existem para o plano de fundo, a imagem de pré-visualização e a descrição:",
@@ -548,12 +557,12 @@
 	"ui_editor_workshop_rules_modal_rule_copyright" : "Sem violações de direitos autorais",
 	"ui_editor_workshop_rules_modal_rule_ads" : "Sem anúncios",
 	"ui_editor_workshop_rules_modal_rule_misleading" : "Sem pré-visualizações enganosas",
-	
+
 	"ui_editor_workshop_tags_limit" : "Apenas 3 marcadores são permitidos.",
-	"ui_editor_workshop_tags_placeholder": "Adicionar um marcador",
+	"ui_editor_workshop_tags_placeholder" : "Adicionar um marcador",
 	"ui_workshop_workshop_tags_rating" : "Classificação",
 	"ui_workshop_workshop_tags_rating_not_set" : "< Não definida >",
-	
+
 	"ui_workshop_tags_abstract" : "Abstrato",
 	"ui_workshop_tags_animal" : "",
 	"ui_workshop_tags_anime" : "",
@@ -627,8 +636,8 @@
 	"ui_editor_properties_sound" : "Som",
 	"ui_editor_properties_volume" : "Volume",
 
-	"ui_editor_particle_element_frequency_end" : "Final de frequência",	
-	"ui_editor_particle_element_frequency_start" : "Início de freqüência",	
+	"ui_editor_particle_element_frequency_end" : "Final de frequência",
+	"ui_editor_particle_element_frequency_start" : "Início de freqüência",
 	"ui_editor_particle_element_audio_response" : "Resposta de áudio",
 
 	"ui_editor_import_adjust_projection_center" : "Ajustar tamanho do plano de fundo e centralizar"
