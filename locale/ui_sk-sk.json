@@ -37,8 +37,8 @@
 	"ui_browse_details_rate" : "Hodnotiť",
 	"ui_browse_details_btn_workshop" : "Workshop",
 	"ui_browse_details_btn_unsubscribe" : "Zrušiť odber",
-	"ui_browse_details_btn_download" : "Stiahnuť",
-	"ui_browse_details_btn_remove_from_history" : "Zmazať z histórie",
+	"ui_browse_details_btn_download" : "Odoberať",
+	"ui_browse_details_btn_remove_from_history" : "Zmazať",
 	"ui_browse_details_properties" : "Vlastnosti",
 	"ui_browse_details_properties_reset" : "Reštart",
 	"ui_browse_details_properties_nothing_imported" : "Nič nebolo importované",
@@ -203,7 +203,7 @@
 	"ui_settings_advanced_reset_config_button" : "RESET",
 	"ui_settings_advanced_reset_config_modal_header" : "Potvrdiť Reset",
 	"ui_settings_advanced_reset_config_modal_body" : "Všetky vaše nastavenia budú zresetované a aplikácia potrebuje reštart.",
-	"ui_settings_video_audio_label" : "Video audio výstup:",
+	"ui_settings_video_audio_label" : "Audio výstup:",
 	
 	"ui_settings_copyright" : "Všetky práva vyhradené.",
 	"ui_settings_thirdparty" : "Oznámenia tretej strany",
@@ -311,8 +311,8 @@
 	"ui_editor_workshop_genre_empty" : "< Vyberte žáner >",
 	"ui_editor_workshop_options_scheme_color" : "Farba schémy",
 	"ui_editor_workshop_options_visibility" : "Viditeľnosť",
-	"ui_editor_workshop_options_monetization" : "Speňažnenie (Kurátor Workshop)",
-	"ui_editor_workshop_options_monetization_hint_on" : " (Za pozadie bude hlasované a bude predané.)",
+	"ui_editor_workshop_options_monetization" : "Speňažnenie (VYPNE SŤAHOVANIE)",
+	"ui_editor_workshop_options_monetization_hint_on" : " (Pozadie sa bude predávať IBA v obchode.)",
 	"ui_editor_workshop_options_monetization_hint_off" : " (Pozadie bude ihneď k dispozícii, zdarma.)",
 	"ui_editor_workshop_options_preview_image" : "Náhľad obrázku",
 	"ui_editor_workshop_options_missing" : "Chýba",
@@ -1002,7 +1002,7 @@
 	"ui_browse_report_modal_category_genre_description" : "Nahlasujete toto pozadie za používanie nesprávneho žánru. Prosím premyslite si, ktorý žáner sedí k tomuto pozadiu vybraním toho čo môžete 'vidieť' nie toho čo 'viete' o tomto pozadí osobne.",
 	"ui_browse_report_modal_genre_current" : "Aktuálny žáner",
 	"ui_browse_report_modal_genre_label" : "Navrhnúť nový žáner",
-	"ui_browse_report_modal_category_rating" : "Nesprávne hodnotenie obsahu",
+	"ui_browse_report_modal_category_rating" : "Nahota alebo násilie",
 	"ui_browse_report_modal_category_rating_description" : "Nahlasujete toto pozadie za nesprávne hodnotenie obsahu. Prosím použite túto možnosť iba ak by mal obsah pozadia byť označený 'diskutabilný' alebo 'dospelý' a naväzujte na tabuľku nižšie. Ak toto pozadie nepasuje do tejto tabuľky, najskôr vyberte príslušnú možnosť nahlásenia.",
 	"ui_browse_report_modal_rating_current" : "Aktuálne hodnotenie",
 	"ui_browse_report_modal_rating_label" : "Navrhnúť nové hodnotenie",
@@ -1131,5 +1131,38 @@
 	"ui_editor_particle_element_frequency_end" : "Koniec frekvencie",
 	"ui_editor_particle_element_frequency_start" : "Štart frekvencie",
 	
-	"ui_editor_particle_element_audio_response" : "Odozva zvuku"
+	"ui_editor_particle_element_audio_response" : "Odozva zvuku",
+
+	"ui_browse_filter_all" : "Všetko",
+	"ui_browse_filter_none" : "Žiadny",
+	"ui_browse_filter_suggestions" : "Návrhy",
+	
+	"ui_browse_monitors_layout_clone_wallpaper" : "Klonovať jedno pozadie",
+	
+	"ui_browse_monitors_add_stretch_group" : "Pridať rozťahovaciu skupinu",
+	"ui_browse_monitors_add_clone_group" : "Pridať klonovaciu skupinu",
+	"ui_browse_monitors_remove_from_group" : "Odstrániť zo skupiny",
+	
+	"ui_browse_monitors_stretch" : "Natiahnuť",
+	"ui_browse_monitors_clone" : "Klonovať",
+	
+	"ui_settings_plugins" : "Pluginy",
+	
+	"ui_editor_filemenu_undo" : "Späť",
+	"ui_editor_filemenu_redo" : "Znova",
+	
+	"ui_editor_no_animation_modal_header" : "Pozadie nie je animované",
+	"ui_editor_no_animation_modal_body" : "Vyzerá to že sa snažíte nahrať scénu pozadia bez animácie. <b>Toto nie je odporúčané.</b><br/><br/>Wallpaper Engine je optimalizovaný pre animované pozadia, takže ked chcete použiť nepohyblivé pozadie, je vhodné použiť váš operačný systém v tomto prípade.<br/><br/>Chcete aj tak pokračovať?",
+
+	"ui_editor_context_menu_center" : "Centrovať",
+	"ui_editor_context_menu_rotate_clockwise" : "Otočiť SHR",
+	"ui_editor_context_menu_rotate_counterclockwise" : "Otočiť PSHR",
+	"ui_editor_context_menu_copy_transforms" : "Kopírovať pretvorenia",
+	"ui_editor_context_menu_paste_transforms" : "Prilepiť pretvorenia",
+	"ui_editor_context_menu_duplicate" : "Duplikovať",
+
+	"ui_editor_effect_xray_title" : "X-Ray",
+	"ui_editor_effect_xray_description" : "Zmiešava medzi dvoma obrázkami na základe pozície kurzoru.",
+	
+	"ui_editor_properties_reset" : "Reset"
 }

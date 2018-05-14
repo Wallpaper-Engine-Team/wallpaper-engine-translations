@@ -78,15 +78,17 @@
 	"core_updater_status_corrupted_system_module_message_box_title" : "Systémový modul nemôže byť načítaný",
 	"core_updater_status_corrupted_system_module_message_box_body" : "Systémový modul vyzerá že je poškodený a môže spôsobiť poruchu Wallpaper Engine.\n\nVymažte: {{modules}}\n\nReinštalujte: {{installers}}",
 	
-	"core_updater_prompt_close" : "Wallpaper Engine stále beží, prosím najprv ho vypnite.",
+	"core_updater_prompt_close" : "Wallpaper Engine stále beží, najprv ho prosím vypnite. Čakanie na vypnutie týchto procesov:",
 	
 	"core_msgbox_prompt_high_contrast_was_enabled" : "Windows práve aplikoval tému 'vysoký kontrast' ktorá neumožnuje Wallpaper Engine fungovať.",
 
 	"core_tray_mute" : "Stíšiť",
 	"core_tray_unmute" : "Unmute",
 	
-	"core_balloon_pkg_version_error" : "Toto pozadie nemôže byť otvorené. Skúste aktualizovať Wallpaper Engine cez Steam.",
+	"core_balloon_pkg_version_error" : "Toto pozadie nemohlo byť orvorené pretože používa novšiu verziu. Skúste aktualizovať Wallpaper Engine cez Steam.",
 	
 	"core_updater_status_directx_not_supported_title" : "DirectX 10 nie je podporovaný",
-	"core_updater_status_directx_not_supported_body" : "Vyzeráto že vaša grafická karta nepodporuje DirectX 10, ktorý je systémová požiadavka pre túto aplikáciu. Niektoré funkcie tohto programu budú limitované, nestabilné alebo nedostupné."
+	"core_updater_status_directx_not_supported_body" : "Vyzerá to, že vaša grafická karta nepodporuje DirectX 10 alebo je váš grafický driver poškodený. DirectX 10 je systémový požiadavok pre túto aplikáciu. Niektoré funkcie programu budú limitované, nestabilné alebo nedostupné.\n\nKeď vaša grafická karta má podporrovať DirectX 10, váš aktívny grafický driver môže byť poškodený.",
+
+	"core_balloon_wallpaper_file_missing" : "Toto pozadie nemôže byť otvorené, pretože mu chýbajú súbory."
 }
