@@ -160,6 +160,7 @@
 	"ui_settings_playback_focused" : "다른 응용프로그램 활성화:",
 	"ui_settings_playback_maximized" : "다른 응용프로그램 최대화:",
 	"ui_settings_playback_fullscreen" : "다른 응용프로그램 전체 화면:",
+	"ui_settings_playback_mute" : "음소거",
 
 	"ui_settings_gfx_quality" : "품질",
 	"ui_settings_gfx_preset" : "프리셋:",
@@ -195,6 +196,8 @@
 	"ui_settings_advanced_video_read" : "영상 로딩:",
 	"ui_settings_advanced_video_loop" : "영상 반복:",
 	"ui_settings_advanced_log_level" : "로그 세부수준:",
+	"ui_settings_advanced_monitor_identification" : "모니터 식별자:",
+	"ui_settings_advanced_video_framework" : "비디오 :",
 	"ui_settings_about" : "이 프로그램은?",
 	
 	"ui_settings_no_devices" : "사용 가능한 장치 없음",
