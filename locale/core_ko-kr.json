@@ -11,6 +11,8 @@
 	"core_tray_faq" : "지원 && 자주하는 질문",
 	"core_tray_recent_wallpapers_clear" : "리스트 초기화",
 	"core_tray_next_wallpaper" : "다음 바탕화면",
+	"core_tray_mute" : "음소거",
+	"core_tray_unmute" : "음소거 해제",
 	
 	"core_balloon_info" : "Wallpapaer Engine이 트레이로 최소화합니다. 배경화면을 선택하려면 트레이 아이콘을 더블클릭해주세요.",
 	"core_balloon_desktop_window_error" : "라이브 배경화면을 준비하는데 실패했습니다.",
