@@ -57,6 +57,7 @@
 	"core_updater_status_distro_file_directory" : "Creating directory: {{filepath}}",
 	"core_updater_status_distro_file_directory_error" : "Failed to create directory: {{error}}",
 	"core_updater_status_distro_file_copy" : "Copying file: {{filepath}}",
+	"core_updater_status_distro_file_skip" : "Skipping equal file: {{filepath}}",
 	"core_updater_status_distro_file_copy_error" : "Failed to copy file: {{error}}",
 	"core_updater_status_verify" : "Verifying installation...",
 	"core_updater_status_verify_file_missing" : "Missing file: {{filepath}}",
