@@ -217,7 +217,7 @@
 	"ui_browse_explore_category_genre_popular" : "Popular <b>{{genre}}</b> wallpapers",
 	"ui_browse_explore_category_genre_recent" : "Recent <b>{{genre}}</b> wallpapers",
 	"ui_browse_explore_category_genre_new" : "New <b>{{genre}}</b> wallpapers",
-	"ui_browse_explore_category_genre_most_subscribed" : "New <b>{{genre}}</b> wallpapers",
+	"ui_browse_explore_category_genre_most_subscribed" : "Most subscribed <b>{{genre}}</b> wallpapers",
 	"ui_browse_explore_category_creator_recent" : "<b>{{user}}</b>'s latest wallpapers",
 	"ui_browse_explore_category_creator_popular" : "<b>{{user}}</b>'s popular wallpapers",
 	"ui_browse_explore_category_collection" : "Collection <b>{{collectiontitle}}</b>",
