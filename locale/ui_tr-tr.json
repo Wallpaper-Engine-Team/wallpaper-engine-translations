@@ -120,7 +120,7 @@
 	"ui_browse_open_url_header" : "Duvar Kağıdını Bağlantıdan Aç",
 	"ui_browse_modal_proceed" : "Devam et",
 	"ui_browse_modal_advertise_workshop_header" : "Uygulama İçi Atölye Tarayıcısı",
-	"ui_browse_modal_advertise_workshop_body" : "Aradığınız duvar kağıdını Steam'de daha kolay bulmak için filtre seçeneklerini kullanın. Bir kategoriyi gizlemek için <span class='fa fa-minus-square dangerText'></span>'a iki kez tıklayın.<br/><br/>Sizin için seçilen duvar kağıtlarına göz atmak için <b>Onaylandı</b> <span class='fa fa-trophy browseWallpaperApproved'></span> butonuna tıklayın.<br/><br/>Popüler içeriklere gözatın. Daha çok kaliteli içerikler arıyorsanız 'Çok Beğenilen' kategorisini seçin.",
+	"ui_browse_modal_advertise_workshop_body" : "Aradığınız duvar kağıdını Steam'de daha kolay bulmak için filtre seçeneklerini kullanın.<br/><br/>Sizin için seçilen duvar kağıtlarına göz atmak için <b>Onaylandı</b> <span class='fa fa-trophy browseWallpaperApproved'></span> butonuna tıklayın. Popüler içeriklere gözatın. Daha çok kaliteli içerikler arıyorsanız 'Çok Beğenilen' kategorisini seçin.",
 	"ui_browse_modal_advertise_workshop_footer" : "Hangi tür ilginizi çekiyor ?",
 	
 	"ui_browse_properties_scheme_color" : "Şema rengi",

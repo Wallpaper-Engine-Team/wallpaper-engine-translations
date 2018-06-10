@@ -124,7 +124,7 @@
 	"ui_browse_open_url_header" : "URLから壁紙を開く",
 	"ui_browse_modal_proceed" : "続行",
 	"ui_browse_modal_advertise_workshop_header" : "In-App ワークショップブラウザ",
-	"ui_browse_modal_advertise_workshop_body" : "フィルターオプションを使用すると、簡単に見つけることができます。 ジャンルを2回クリックすると、それを隠すことができます。<br/><br/>クリック <b>承認済み</b> <span class='fa fa-trophy browseWallpaperApproved'></span> は手動で選んだ壁紙を閲覧します。<br/><br/>高品質の投稿をお探しの場合は、「最も人気のあるコンテンツ」または「トップレート」のコンテンツを参照してください。",
+	"ui_browse_modal_advertise_workshop_body" : "フィルターオプションを使用すると、簡単に見つけることができます。<br/><br/>クリック <b>承認済み</b> <span class='fa fa-trophy browseWallpaperApproved'></span> は手動で選んだ壁紙を閲覧します。高品質の投稿をお探しの場合は、「最も人気のあるコンテンツ」または「トップレート」のコンテンツを参照してください。",
 	"ui_browse_modal_advertise_workshop_footer" : "どのジャンルに興味がありますか?",
 	
 	"ui_browse_properties_scheme_color" : "ツールバーの色",

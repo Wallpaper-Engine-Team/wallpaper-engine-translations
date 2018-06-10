@@ -120,7 +120,7 @@
 	"ui_browse_open_url_header" : "Ouvrir un fond d'écran à partir d'une URL",
 	"ui_browse_modal_proceed" : "Continuer",
 	"ui_browse_modal_advertise_workshop_header" : "Navigateur Workshop Intégré",
-	"ui_browse_modal_advertise_workshop_body" : "Utilisez les filtres pour trouver plus facilement ce que vous recherchez sur Steam. Double cliquez sur un genre pour le cacher <span class='fa fa-minus-square dangerText'></span>.<br/><br/>Cliquez sur <b>Approuver/b> <span class='fa fa-trophy browseWallpaperApproved'></span> pour naviguer vos fonds d'écrans choisis.<br/><br/>Rechercher les catégories 'Populaires' ou 'Mieux Notés' si vous cherchez des soumissions de meilleur qualité.",
+	"ui_browse_modal_advertise_workshop_body" : "Utilisez les filtres pour trouver plus facilement ce que vous recherchez sur Steam.<br/><br/>Cliquez sur <b>Approuver</b> <span class='fa fa-trophy browseWallpaperApproved'></span> pour naviguer vos fonds d'écrans choisis. Rechercher les catégories 'Populaires' ou 'Mieux Notés' si vous cherchez des soumissions de meilleur qualité.",
 	"ui_browse_modal_advertise_workshop_footer" : "Quel genre vous intéressent?",
 	
 	"ui_browse_properties_scheme_color" : "Couleur du Thème Windows",

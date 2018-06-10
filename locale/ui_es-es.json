@@ -120,7 +120,7 @@
 	"ui_browse_open_url_header" : "Abrir fondo desde URL",
 	"ui_browse_modal_proceed" : "Continuar",
 	"ui_browse_modal_advertise_workshop_header" : "Buscador In-app de la Workshop",
-	"ui_browse_modal_advertise_workshop_body" : "Usa las opciones de filtración para encontrár fácilmente lo que estás buscando. Haz click dos veces en un género para <span class='fa fa-minus-square dangerText'></span> ocultarlo.<br/><br/>Haz click en <b>Aprobado</b> <span class='fa fa-trophy browseWallpaperApproved'></span> para buscar fondos selectos.<br/><br/>Busca los 'Más populares' o los 'Mejor calificados' si estás buscando fondos de alta calidad.",
+	"ui_browse_modal_advertise_workshop_body" : "Usa las opciones de filtración para encontrár fácilmente lo que estás buscando.<br/><br/>Haz click en <b>Aprobado</b> <span class='fa fa-trophy browseWallpaperApproved'></span> para buscar fondos selectos. Busca los 'Más populares' o los 'Mejor calificados' si estás buscando fondos de alta calidad.",
 	"ui_browse_modal_advertise_workshop_footer" : "¿En qué generos estás interesad@?",
 	
 	"ui_browse_properties_scheme_color" : "Color de tema",

@@ -121,7 +121,7 @@
 	"ui_browse_open_url_header" : "Open Achtergrond van URL",
 	"ui_browse_modal_proceed" : "Verdergaan",
 	"ui_browse_modal_advertise_workshop_header" : "In-App Workshop verkenner",
-	"ui_browse_modal_advertise_workshop_body" : "Maak gebruik van de filter optie om makkelijker te vinden wat je zoekt in plaats van op Steam. Klik tweemaal op een genre om <span class='fa fa-minus-square dangerText'></span> het te verbergen.<br/><br/>Click on <b>Approved</b> <span class='fa fa-trophy browseWallpaperApproved'></span> to browse hand-picked wallpapers.<br/><br/>Browse the 'most popular' or 'top rated' content if you are looking for high quality submissions.",
+	"ui_browse_modal_advertise_workshop_body" : "Maak gebruik van de filter optie om makkelijker te vinden wat je zoekt in plaats van op Steam.<br/><br/>Click on <b>Approved</b> <span class='fa fa-trophy browseWallpaperApproved'></span> to browse hand-picked wallpapers. Browse the 'most popular' or 'top rated' content if you are looking for high quality submissions.",
 	"ui_browse_modal_advertise_workshop_footer" : "Welke genres spreken je aan?",
 	
 	"ui_browse_properties_scheme_color" : "Schemakleur",

@@ -124,7 +124,7 @@
 	"ui_browse_open_url_header" : "Apri Sfondo da URL",
 	"ui_browse_modal_proceed" : "Procedi",
 	"ui_browse_modal_advertise_workshop_header" : "Filtri del Workshop",
-	"ui_browse_modal_advertise_workshop_body" : "Usa i filtri del workshop all'interno di Wallpaper Engine per trovare più facilmente gli sfondi rispetto al workshop di Steam. Clicca su un genere due volte per <span class='fa fa-minus-square dangerText'></span> <b>nasconderlo.</b><br/><br/>Clicca su <b>Approvati</b> <span class='fa fa-trophy browseWallpaperApproved'></span> per scoprire gli sfondi scelti per te.<br/><br/>Sfoglia 'I più popolari' o 'I più votati' se stai cercando contenuti di alta qualità.",
+	"ui_browse_modal_advertise_workshop_body" : "Usa i filtri del workshop all'interno di Wallpaper Engine per trovare più facilmente gli sfondi rispetto al workshop di Steam.</b><br/><br/>Clicca su <b>Approvati</b> <span class='fa fa-trophy browseWallpaperApproved'></span> per scoprire gli sfondi scelti per te. Sfoglia 'I più popolari' o 'I più votati' se stai cercando contenuti di alta qualità.",
 	"ui_browse_modal_advertise_workshop_footer" : "Quali sono i generi che ti piacciono?",
 	
 	"ui_browse_properties_scheme_color" : "Colore delle finestre di Windows",

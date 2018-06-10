@@ -134,7 +134,7 @@
 	"ui_browse_open_url_header" : "Abrir de URL",
 	"ui_browse_modal_proceed" : "Avançar",
 	"ui_browse_modal_advertise_workshop_header" : "Navegador da Oficina",
-	"ui_browse_modal_advertise_workshop_body" : "Use as opções de filtro para encontrar o que você procura mais facilmente do que no Steam. Clique duas vezes em um gênero para ocultá-lo <span class='fa fa-minus-square dangerText'></span>.<br/><br/>Clique em <b>Aprovado</b> <span class='fa fa-trophy browseWallpaperApproved'></span> para ver planos de fundo escolhidos a dedo.<br/><br/>Navegue pelos \"mais populares\" ou \"melhor classificados\" caso esteja procurando por envios de alta qualidade.",
+	"ui_browse_modal_advertise_workshop_body" : "Use as opções de filtro para encontrar o que você procura mais facilmente do que no Steam.<br/><br/>Clique em <b>Aprovado</b> <span class='fa fa-trophy browseWallpaperApproved'></span> para ver planos de fundo escolhidos a dedo. Navegue pelos \"mais populares\" ou \"melhor classificados\" caso esteja procurando por envios de alta qualidade.",
 	"ui_browse_modal_advertise_workshop_footer" : "Em quais gêneros você está interessado?",
 
 	"ui_browse_properties_scheme_color" : "Esquema de cores",

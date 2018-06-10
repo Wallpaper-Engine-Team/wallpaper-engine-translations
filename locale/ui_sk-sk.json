@@ -840,7 +840,7 @@
 	"ui_browse_monitors_posititon" : "Pozícia",
 
 	"ui_browse_modal_advertise_workshop_header" : "In-App Workshop Prehliadač",
-	"ui_browse_modal_advertise_workshop_body" : "Použite nastavenia filtrov pre ľahšie hladanie na Steame. Dvakrát kliknite na žáner pre schovanie.<br/><br/>Kliknite na <b>Schválené</b> <span class='fa fa-trophy browseWallpaperApproved'></span> na prehliadanie ručne vybraných pozadí.<br/><br/>Prehliadajte 'najpopulárnejší' alebo 'najlepšie hodnotený' obsah ak hľadáte vysoko-kvalitné príspevky.",
+	"ui_browse_modal_advertise_workshop_body" : "Použite nastavenia filtrov pre ľahšie hladanie na Steame.<br/><br/>Kliknite na <b>Schválené</b> <span class='fa fa-trophy browseWallpaperApproved'></span> na prehliadanie ručne vybraných pozadí. Prehliadajte 'najpopulárnejší' alebo 'najlepšie hodnotený' obsah ak hľadáte vysoko-kvalitné príspevky.",
 	
 	"ui_browse_details_properties_save" : "Uložiť",
 	"ui_browse_details_properties_load" : "Načítať",

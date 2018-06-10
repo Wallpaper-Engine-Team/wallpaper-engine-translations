@@ -124,7 +124,7 @@
 	"ui_browse_open_url_header" : "Horma-papera URL-tik zabaldu",
 	"ui_browse_modal_proceed" : "Jarraitu",
 	"ui_browse_modal_advertise_workshop_header" : "Aplikazioko Workshop Bilatzailea",
-	"ui_browse_modal_advertise_workshop_body" : "Erabili filtroak Steam-en baino errazago bilatzen ari zarena aurkitzeko. Genero bati bi klik egin <span class='fa fa-minus-square dangerText'></span> ezkutatzeko.<br/><br/>Klik egin <b>Aprobatuta</b> <span class='fa fa-trophy browseWallpaperApproved'></span> eskuz aukeratutako horma-paperak bilatzeko.<br/><br/>Bilatu 'ospetsuenak' edo 'puntuazio altua' kalitate handiko edukiak ikusi nahi badituzu.",
+	"ui_browse_modal_advertise_workshop_body" : "Erabili filtroak Steam-en baino errazago bilatzen ari zarena aurkitzeko.<br/><br/>Klik egin <b>Aprobatuta</b> <span class='fa fa-trophy browseWallpaperApproved'></span> eskuz aukeratutako horma-paperak bilatzeko. Bilatu 'ospetsuenak' edo 'puntuazio altua' kalitate handiko edukiak ikusi nahi badituzu.",
 	"ui_browse_modal_advertise_workshop_footer" : "Ze generotan zaude interesatuta?",
 
 	"ui_browse_properties_scheme_color" : "Eskema kolorea",
