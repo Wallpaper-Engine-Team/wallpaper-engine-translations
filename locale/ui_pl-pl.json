@@ -125,9 +125,9 @@
 	"ui_browse_open_url_header" : "Otwórz tapetę z adresu URL",
 	"ui_browse_modal_proceed" : "Kontynuuj",
 	"ui_browse_properties_scheme_color" : "Kolor schematu",
-	"ui_browse_properties_playback_rate" : "<span class='fa fa-play propertyIcon'></span>Szybkość odtwarzania",
-	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>Głośność",
-	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>Nagrywanie audio",
+	"ui_browse_properties_playback_rate" : "<span class='fas fa-play propertyIcon'></span>Szybkość odtwarzania",
+	"ui_browse_properties_volume" : "<span class='fas fa-volume-up propertyIcon'></span>Głośność",
+	"ui_browse_properties_audio_recording" : "<span class='fas fa-microphone propertyIcon'></span>Nagrywanie audio",
 	
 	"ui_browse_steam_status_unavailable" : "Steam jest niedostępny.",
 	"ui_browse_steam_status_unavailable_cache" : "Steam jest niedostępny.<br/>Załadowano {{count}} tapet z pamięci podręcznej.",
@@ -168,12 +168,12 @@
 	"ui_browse_list_source_installed" : "Zainstalowane",
 	"ui_browse_list_source_workshop" : "Warsztat",
 	
-	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>Dźwięk jest wyłączony w ustawieniach",
-	"ui_browse_properties_alignment" : "<span class='fa fa-image propertyIcon'></span>Wyrównanie",
+	"ui_browse_properties_volume_disabled" : "<span class='fas fa-volume-up propertyIcon dangerText'></span>Dźwięk jest wyłączony w ustawieniach",
+	"ui_browse_properties_alignment" : "<span class='fas fa-image propertyIcon'></span>Wyrównanie",
 	"ui_browse_properties_alignment_cover" : "Pokrycie",
 	"ui_browse_properties_alignment_center" : "Wyśrodkowanie",
 	"ui_browse_properties_alignment_stretch" : "Rozciągnięcie",
-	"ui_browse_properties_alignment_position" : "<span class='fa fa-arrows-h propertyIcon'></span>Pozycja",
+	"ui_browse_properties_alignment_position" : "<span class='fas fa-arrows-alt-h propertyIcon'></span>Pozycja",
 	
 	"ui_settings_playback": "Działanie w tle",
 	"ui_settings_playback_focused" : "Aktywne okno innej aplikacji:",

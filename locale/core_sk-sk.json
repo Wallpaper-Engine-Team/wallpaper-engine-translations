@@ -90,5 +90,7 @@
 	"core_updater_status_directx_not_supported_title" : "DirectX 10 nie je podporovaný",
 	"core_updater_status_directx_not_supported_body" : "Vyzerá to, že vaša grafická karta nepodporuje DirectX 10 alebo je váš grafický driver poškodený. DirectX 10 je systémový požiadavok pre túto aplikáciu. Niektoré funkcie programu budú limitované, nestabilné alebo nedostupné.\n\nKeď vaša grafická karta má podporrovať DirectX 10, váš aktívny grafický driver môže byť poškodený.",
 
-	"core_balloon_wallpaper_file_missing" : "Toto pozadie nemôže byť otvorené, pretože mu chýbajú súbory."
+	"core_balloon_wallpaper_file_missing" : "Toto pozadie nemôže byť otvorené, pretože mu chýbajú súbory.",
+
+	"core_updater_status_distro_file_skip" : "Preskakujem rovnaký súbor: {{filepath}}"
 }

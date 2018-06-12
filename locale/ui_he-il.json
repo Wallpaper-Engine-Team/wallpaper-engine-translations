@@ -86,10 +86,10 @@
 	"ui_browse_modal_proceed" : "המשך",
 	
 	"ui_browse_properties_scheme_color" : "סכמת צבע",
-	"ui_browse_properties_playback_rate" : "<span class='fa fa-play propertyIcon'></span>קצב השמעה",
-	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>רמת שמע",
-	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>קול כבוי בהגדרות",
-	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>הקלטת קול",
+	"ui_browse_properties_playback_rate" : "<span class='fas fa-play propertyIcon'></span>קצב השמעה",
+	"ui_browse_properties_volume" : "<span class='fas fa-volume-up propertyIcon'></span>רמת שמע",
+	"ui_browse_properties_volume_disabled" : "<span class='fas fa-volume-up propertyIcon dangerText'></span>קול כבוי בהגדרות",
+	"ui_browse_properties_audio_recording" : "<span class='fas fa-microphone propertyIcon'></span>הקלטת קול",
 	
 	"ui_browse_playlist_header" : "רשימת השמעה",
 	"ui_browse_playlist_modal_open_header" : "פתח רשימת השמעה",

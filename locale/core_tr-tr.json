@@ -82,6 +82,6 @@
 	
 	"core_updater_status_directx_not_supported_title" : "DirectX 10 desteklenmemektedir.",
 	"core_updater_status_directx_not_supported_body" : "Grafik kartınızın bu uygulama için gereksinimi olan DirectX 10'u desteklemediği görülmektedir. Programın bazı işlevleri sınırlı, kararsız veya kullanılamaz.",
-	"core_balloon_wallpaper_file_missing" : "Bu duvar kağıdı açılamaz, çünkü dosyaları eksik."
-	
+	"core_balloon_wallpaper_file_missing" : "Bu duvar kağıdı açılamaz, çünkü dosyaları eksik.",
+	"core_updater_status_distro_file_skip" : "Eşdeğer dosya atlanıyor: {{filepath}}"
 }

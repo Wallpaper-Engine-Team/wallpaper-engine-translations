@@ -88,10 +88,10 @@
 	"ui_browse_modal_proceed" : "Pokračovať",
 	
 	"ui_browse_properties_scheme_color" : "Farba schémy",
-	"ui_browse_properties_playback_rate" : "<span class='fa fa-play propertyIcon'></span>Rýchlosť prehrávania",
-	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>Hlasitosť",
-	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>Zvuky vypnuté v nastaveniach",
-	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>Nahrávanie zvuku",
+	"ui_browse_properties_playback_rate" : "<span class='fas fa-play propertyIcon'></span>Rýchlosť prehrávania",
+	"ui_browse_properties_volume" : "<span class='fas fa-volume-up propertyIcon'></span>Hlasitosť",
+	"ui_browse_properties_volume_disabled" : "<span class='fas fa-volume-up propertyIcon dangerText'></span>Zvuky vypnuté v nastaveniach",
+	"ui_browse_properties_audio_recording" : "<span class='fas fa-microphone propertyIcon'></span>Nahrávanie zvuku",
 	
 	"ui_browse_playlist_header" : "Playlist",
 	"ui_browse_playlist_modal_open_header" : "Otvoriť playlist",
@@ -396,11 +396,11 @@
 
 	"ui_browse_filter_resolution" : "Rozlíšenie",
 
-	"ui_browse_properties_alignment" : "<span class='fa fa-image propertyIcon'></span>Zarovnanie",
+	"ui_browse_properties_alignment" : "<span class='fas fa-image propertyIcon'></span>Zarovnanie",
 	"ui_browse_properties_alignment_cover" : "Prekryť",
 	"ui_browse_properties_alignment_center" : "Doprostred",
 	"ui_browse_properties_alignment_stretch" : "Natiahnuť",
-	"ui_browse_properties_alignment_position" : "<span class='fa fa-arrows-h propertyIcon'></span>Pozícia",
+	"ui_browse_properties_alignment_position" : "<span class='fas fa-arrows-alt-h propertyIcon'></span>Pozícia",
 
 	"ui_settings_video_hardware_acceleration_label" : "Video hardware akcelerácia",
 	"ui_settings_process_priority" : "Priorita procesu",
@@ -825,7 +825,7 @@
 	"ui_browse_header_option_settings" : "Možnosti",
 	"ui_browse_header_option_monitors" : "Monitory",
 	"ui_browse_header_option_editor" : "Editor",
-	"ui_browse_advertise_workshop" : "Kliknite sem pre prehliadavanie Workshopu pre nové pozadia!",
+	"ui_browse_advertise_workshop" : "Kliknite sem pre prehliadanie Workshopu detailne!",
 
 	"ui_browse_monitors_profile" : "Profil",
 
@@ -840,7 +840,7 @@
 	"ui_browse_monitors_posititon" : "Pozícia",
 
 	"ui_browse_modal_advertise_workshop_header" : "In-App Workshop Prehliadač",
-	"ui_browse_modal_advertise_workshop_body" : "Použite nastavenia filtrov pre ľahšie hladanie na Steame.<br/><br/>Kliknite na <b>Schválené</b> <span class='fa fa-trophy browseWallpaperApproved'></span> na prehliadanie ručne vybraných pozadí. Prehliadajte 'najpopulárnejší' alebo 'najlepšie hodnotený' obsah ak hľadáte vysoko-kvalitné príspevky.",
+	"ui_browse_modal_advertise_workshop_body" : "Použite nastavenia filtrov pre ľahšie hladanie na Steame.<br/><br/>Kliknite na <b>Schválené</b> <span class='fas fa-trophy browseWallpaperApproved'></span> na prehliadanie ručne vybraných pozadí. Prehliadajte 'najpopulárnejší' alebo 'najlepšie hodnotený' obsah ak hľadáte vysoko-kvalitné príspevky.",
 	
 	"ui_browse_details_properties_save" : "Uložiť",
 	"ui_browse_details_properties_load" : "Načítať",
@@ -1031,13 +1031,13 @@
 	
 	"ui_settings_use_safe_mode" : "Použiť bezpečný štart:",
 	
-	"ui_editor_workshop_options_rating" : "Hodnotenie",
+	"ui_editor_workshop_options_rating" : "Vekové hodnotenie",
 	"ui_editor_workshop_options_rating_change" : "Zmeniť",
 	"ui_editor_workshop_modal_rating_header" : "Vyberte hodnotenie",
 	"ui_editor_workshop_modal_rating_body" : "Ukážkový obrázok musí byť vhodný pre všetkých. Prosím referujte k tejto tabuľke pre vybratie vhodného hodnotenia obsahu. Ak máte pochybnosti, vyberte si viac obmedzujúce hodnotenie. Predloženie ilegálneho obsahu alebo hodnotenie vášho obsahu príliš nízko môže spôsobiť zabanovanie vášho príspevku. Majte na mysli že nemusíte predložiť pozadia ktoré chcete používať sami.",
 	"ui_editor_workshop_modal_rating_current" : "Aktuálne hodnotenie:",
 	
-	"ui_workshop_workshop_tags_rating" : "Hodnotenie",
+	"ui_workshop_workshop_tags_rating" : "Vekové hodnotenie",
 	"ui_workshop_workshop_tags_rating_not_set" : "< Nie je zadané >",
 	
 	"ui_workshop_tags_rating_everyone" : "Každý",
@@ -1056,7 +1056,7 @@
 	
 	"ui_browse_age_gate_modal_header" : "Overenie veku",
 	"ui_browse_age_gate_modal_body" : "Pre pokračovanie zadajte svoj dátum narodenia:",
-	"ui_browse_age_gate_modal_sub" : "Tieto dáta sú len pre overenie a nebudú uložené.",
+	"ui_browse_age_gate_modal_sub" : "Tieto dáta sú len pre overovacie dôvody a nebudú uložené, nahrané alebo zdieľané.",
 	"ui_browse_age_gate_modal_day" : "Deň",
 	"ui_browse_age_gate_modal_month" : "Mesiac",
 	"ui_browse_age_gate_modal_year" : "Rok",
@@ -1115,9 +1115,9 @@
 	"ui_editor_properties_sound" : "Zvuk",
 	"ui_editor_properties_volume" : "Hlasitosť",
 
-	"ui_browse_advertise_explore" : "Kliknite sem pre prehľadanie roztriedených tematických pozadí!",
+	"ui_browse_advertise_explore" : "Kliknite sem pre nájdenie nových pozadí z Workshopu!",
 	
-	"ui_browse_list_source_explore" : "Prehľadať",
+	"ui_browse_list_source_explore" : "Objavujte",
 	
 	"ui_settings_ui_hardware_acceleration" : "UI hardware akcelerácia:",
 	
@@ -1164,5 +1164,69 @@
 	"ui_editor_effect_xray_title" : "X-Ray",
 	"ui_editor_effect_xray_description" : "Zmiešava medzi dvoma obrázkami na základe pozície kurzoru.",
 	
-	"ui_editor_properties_reset" : "Reset"
+	"ui_editor_properties_reset" : "Reset",
+
+	"ui_browse_clear_filters" : "Vyčistiť filtre",
+	
+	"ui_browse_explore_home" : "Domov",
+	"ui_browse_explore_favorites" : "Obľúbené",
+	"ui_browse_explore_disliked" : "Dislikované",
+	"ui_browse_explore_see_more" : "vidieť viac",
+	"ui_browse_explore_category_genre_popular" : "Populárne <b>{{genre}}</b> pozadia",
+	"ui_browse_explore_category_genre_recent" : "Nedávne <b>{{genre}}</b> pozadia",
+	"ui_browse_explore_category_genre_new" : "Nové <b>{{genre}}</b> pozadia",
+	"ui_browse_explore_category_genre_most_subscribed" : "Nové <b>{{genre}}</b> pozadia",
+	"ui_browse_explore_category_creator_recent" : "Najnovšie pozadia <b>{{user}}</b>",
+	"ui_browse_explore_category_creator_popular" : "Pozadia <b>{{user}}</b>",
+	"ui_browse_explore_category_collection" : "Kolekcia <b>{{collectiontitle}}</b>",
+	"ui_browse_explore_category_keyword_popular" : "Populárne <b>{{keyword}}</b> pozadia",
+	"ui_browse_explore_category_keyword_recent" : "Nedávne <b>{{keyword}}</b> pozadia",
+	"ui_browse_explore_category_keyword_new" : "Nové <b>{{keyword}}</b> pozadia",
+	"ui_browse_explore_category_followed" : "Vyrobené sledovanými uživateľmi",
+	"ui_browse_explore_category_friends_created" : "Vyrobené priateľmi",
+	"ui_browse_explore_category_friends_favorites" : "Obľúbené pozadia priateľov",
+	"ui_browse_explore_category_user_favorites" : "Vaše obľúbené pozadia",
+	"ui_browse_explore_category_user_up_voted" : "Vaše ohlasované pozadia",
+	"ui_browse_explore_server_error" : "Nedá sa pripojiť k Wallpaper Engine serveru pre načítanie ďalšieho obsahu.",
+	"ui_browse_explore_create_query_modal_header_new" : "Vytvoriť nový dopyt",
+	"ui_browse_explore_create_query_modal_header_edit" : "Upraviť dopyt",
+	"ui_browse_explore_create_query_modal_category" : "Kategória",
+	"ui_browse_explore_create_query_modal_type" : "Triedenie",
+	"ui_browse_explore_create_query_modal_keyword" : "ˇKľúčové slovo",
+	"ui_browse_explore_create_query_modal_user_steam_id" : "Steam ID uživateľa",
+	"ui_browse_explore_create_query_modal_collection_id" : "ID Kolekcie",
+	"ui_browse_explore_create_query_modal_creator" : "Tvorca",
+	"ui_browse_explore_create_query_modal_collection" : "Kolekcia",
+	"ui_browse_explore_tooltip_favorite" : "Pridať medzi obľúbené",
+	"ui_browse_explore_tooltip_like" : "Like",
+	"ui_browse_explore_tooltip_dislike" : "Dislike",
+	"ui_browse_explore_tooltip_remove" : "Odstrániť",
+	"ui_browse_explore_prompt_to_vote" : "Hlasujte tu a pomôžte nám nájst pozadia ktoré sa vám páčia!",
+	
+	"ui_browse_download_pending" : "Pending",
+	
+	"ui_settings_plugins_status_loaded" : "Načítané",
+	"ui_settings_plugins_status_not_loaded" : "Nenačítané",
+	
+	"ui_settings_skin_halloween" : "Halloween",
+	"ui_settings_skin_obsidian" : "Obsidian",
+	"ui_settings_skin_mist" : "Hmla",
+	"ui_settings_skin_rose" : "Ružové",
+	"ui_settings_skin_moss" : "Mach",
+	"ui_settings_skin_rust" : "Hrdza",
+	"ui_settings_skin_metal" : "Kov",
+	"ui_settings_skin_space" : "Vesmír",
+	
+	"ui_editor_filemenu_show_selection_box" : "Zobraziť box výberu",
+	
+	"ui_workshop_tags_memes" : "Memes",
+	
+	"ui_editor_effect_shine_title" : "Svietenie",
+	"ui_editor_effect_shine_description" : "Aplikuje svietiaci efekt na svetlé časti obrázku s premenlivým počtom okrajov.",
+	
+	"ui_editor_properties_edges" : "Okraje",
+	
+	"ui_editor_properties_noise_smoothness" : "Hladkosť zrnenia",
+	
+	"ui_editor_properties_quality" : "Kvalita"
 }

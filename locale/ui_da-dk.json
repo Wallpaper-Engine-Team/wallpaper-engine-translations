@@ -85,10 +85,10 @@
 	"ui_browse_modal_proceed" : "Fortsæt",
 	
 	"ui_browse_properties_scheme_color" : "Farveskema",
-	"ui_browse_properties_playback_rate" : "<span class='fa fa-play propertyIcon'></span>Afspilnings hastighed",
-	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>Lydstyrke",
-	"ui_browse_properties_volume_disabled" : "<span class='fa fa-volume-up propertyIcon dangerText'></span>Lyd deaktiveret i indstillingerne",
-	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>Optager lyd",
+	"ui_browse_properties_playback_rate" : "<span class='fas fa-play propertyIcon'></span>Afspilnings hastighed",
+	"ui_browse_properties_volume" : "<span class='fas fa-volume-up propertyIcon'></span>Lydstyrke",
+	"ui_browse_properties_volume_disabled" : "<span class='fas fa-volume-up propertyIcon dangerText'></span>Lyd deaktiveret i indstillingerne",
+	"ui_browse_properties_audio_recording" : "<span class='fas fa-microphone propertyIcon'></span>Optager lyd",
 	
 	"ui_browse_playlist_header" : "Afspilningsliste",
 	"ui_browse_playlist_modal_open_header" : "Åben afspilningsliste",

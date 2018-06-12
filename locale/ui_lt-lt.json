@@ -84,9 +84,9 @@
 	"ui_browse_modal_proceed" : "Tęsti",
 	
 	"ui_browse_properties_scheme_color" : "Schemos spalva",
-	"ui_browse_properties_playback_rate" : "<span class='fa fa-play propertyIcon'></span>Atkūrimo tempas",
-	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>Garsumas",
-	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>Garso įrašymas",
+	"ui_browse_properties_playback_rate" : "<span class='fas fa-play propertyIcon'></span>Atkūrimo tempas",
+	"ui_browse_properties_volume" : "<span class='fas fa-volume-up propertyIcon'></span>Garsumas",
+	"ui_browse_properties_audio_recording" : "<span class='fas fa-microphone propertyIcon'></span>Garso įrašymas",
 
 	"ui_settings_playback": "Atkūrimas",
 	"ui_settings_playback_focused" : "Kai fokusuojama kita programa:",

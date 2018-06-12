@@ -85,9 +85,9 @@
 	"ui_browse_modal_proceed" : "Tovább",
 	
 	"ui_browse_properties_scheme_color" : "Séma szín",
-	"ui_browse_properties_playback_rate" : "<span class='fa fa-play propertyIcon'></span>Lejátszás sebessége",
-	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>Hangerő",
-	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>Hang rögzítés",
+	"ui_browse_properties_playback_rate" : "<span class='fas fa-play propertyIcon'></span>Lejátszás sebessége",
+	"ui_browse_properties_volume" : "<span class='fas fa-volume-up propertyIcon'></span>Hangerő",
+	"ui_browse_properties_audio_recording" : "<span class='fas fa-microphone propertyIcon'></span>Hang rögzítés",
 	
 	"ui_browse_playlist_header" : "Lejátszási lista",
 	"ui_browse_playlist_modal_open_header" : "Lejátszási lista megnyitása",

@@ -84,9 +84,9 @@
 	"ui_browse_modal_proceed" : "Fortsätt",
 	
 	"ui_browse_properties_scheme_color" : "Schemafärg",
-	"ui_browse_properties_playback_rate" : "<span class='fa fa-play propertyIcon'></span>Uppspelningsfart",
-	"ui_browse_properties_volume" : "<span class='fa fa-volume-up propertyIcon'></span>Volym",
-	"ui_browse_properties_audio_recording" : "<span class='fa fa-microphone propertyIcon'></span>Ljudinspelning",
+	"ui_browse_properties_playback_rate" : "<span class='fas fa-play propertyIcon'></span>Uppspelningsfart",
+	"ui_browse_properties_volume" : "<span class='fas fa-volume-up propertyIcon'></span>Volym",
+	"ui_browse_properties_audio_recording" : "<span class='fas fa-microphone propertyIcon'></span>Ljudinspelning",
 
 	"ui_settings_playback": "Uppspelning",
 	"ui_settings_playback_focused" : "Annat program i fokus:",
