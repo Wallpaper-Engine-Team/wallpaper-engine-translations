@@ -81,5 +81,5 @@
 	"core_updater_status_corrupted_system_module_message_box_body" : "A system module appears to be corrupted and may cause Wallpaper Engine to malfunction.\n\nDelete: {{modules}}\n\nReinstall: {{installers}}",
 	"core_updater_prompt_close" : "Wallpaper Engine is still running, please close it first. Waiting for these processes to close:",
 	"core_updater_status_directx_not_supported_title" : "DirectX 10 not supported",
-	"core_updater_status_directx_not_supported_body" : "It appears that your graphics card does not support DirectX 10 or that your graphics driver is broken. DirectX 10 is a system requirement for this application. Some functionality of the program will be limited, unstable or unavailable.\n\nIf your graphics card is supposed to support DirectX 10, your current graphics driver could be damaged."
+	"core_updater_status_directx_not_supported_body" : "It appears that your graphics card does not support DirectX 10 or that your graphics driver has an issue. DirectX 10 is a system requirement for this application to work correctly.\n\nIf your graphics card is supposed to support DirectX 10, your current graphics driver could just be damaged. You can try reinstalling the driver or getting in touch with the vendor of your hardware (Nvidia, AMD, Intel) to solve this."
 }
