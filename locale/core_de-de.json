@@ -11,6 +11,8 @@
 	"core_tray_faq" : "Hilfe && FAQ",
 	"core_tray_recent_wallpapers_clear" : "Liste leeren",
 	"core_tray_next_wallpaper" : "Nächstes Hintergrundbild",
+	"core_tray_mute" : "Stumm schalten",
+	"core_tray_unmute" : "Laut schalten",
 	
 	"core_balloon_info" : "Wallpaper Engine befindet sich nun im Tray. Klicke doppelt auf das Tray Icon, um das Hintergrundbild zu ändern.",
 	"core_balloon_desktop_window_error" : "Beim Erstellen des Hintergrundbildes trat ein unerwarteter Fehler auf.",

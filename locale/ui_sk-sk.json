@@ -1175,7 +1175,7 @@
 	"ui_browse_explore_category_genre_popular" : "Populárne <b>{{genre}}</b> pozadia",
 	"ui_browse_explore_category_genre_recent" : "Nedávne <b>{{genre}}</b> pozadia",
 	"ui_browse_explore_category_genre_new" : "Nové <b>{{genre}}</b> pozadia",
-	"ui_browse_explore_category_genre_most_subscribed" : "Nové <b>{{genre}}</b> pozadia",
+	"ui_browse_explore_category_genre_most_subscribed" : "Najviac odoberané <b>{{genre}}</b> pozadia",
 	"ui_browse_explore_category_creator_recent" : "Najnovšie pozadia <b>{{user}}</b>",
 	"ui_browse_explore_category_creator_popular" : "Pozadia <b>{{user}}</b>",
 	"ui_browse_explore_category_collection" : "Kolekcia <b>{{collectiontitle}}</b>",
@@ -1228,5 +1228,10 @@
 	
 	"ui_editor_properties_noise_smoothness" : "Hladkosť zrnenia",
 	
-	"ui_editor_properties_quality" : "Kvalita"
+	"ui_editor_properties_quality" : "Kvalita",
+
+	"ui_browse_explore_category_creator_genre_recent" : "Najnovšie pozadia <b>{{user}}</b> <b>{{genre}}</b>",
+	"ui_browse_explore_category_creator_genre_popular" : "Najpopulárnejšie pozadia <b>{{user}}</b> <b>{{genre}}</b>",
+	
+	"ui_browse_explore_category_keyword_most_subscribed" : "Najviac odoberané <b>{{keyword}}</b> pozadia"
 }
