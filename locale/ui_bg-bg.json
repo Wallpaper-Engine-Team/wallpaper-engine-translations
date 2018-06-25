@@ -36,7 +36,7 @@
 	"ui_browse_steam_status_unavailable" : "Steam е НЕдостъпен.",
 	"ui_browse_steam_status_unavailable_cache" : "Steam е НЕдостъпен.<br/>{{count}} тапета бяха заредени от кеш-паметта.",
 	"ui_browse_steam_status_pending" : "В очакване на Steam да отговори...",
-	"ui_browse_steam_status_complete" : "Steam обновяването е завършено.<br/>{{count}} бяха записани в кеш-паметта.",
+	"ui_browse_steam_status_complete" : "Steam обновяването е завършено.<br/>{{count}} тапета бяха записани в кеш-паметта.",
 	"ui_browse_header_option_settings" : "Настройки",
 	"ui_browse_header_option_monitors" : "Монитори",
 	"ui_browse_header_option_editor" : "Редактор",
