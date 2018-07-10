@@ -26,16 +26,16 @@
 	"core_msgboxtitle_wpe" : "Wallpaper Engine",
 
 	"core_msgbox_deskscapes" : "Parece que o DeskScapes está ativo, o que pode impedir que o Wallpaper Engine funcione corretamente.",
-	"core_msgbox_prompt_aero_win7" : "O Wallpaper Engine precisa habilitar o Aero para funcionar. Ativar Aero agora?",
-	"core_msgbox_prompt_aero_win8" : "O Wallpaper Engine não pode ser executado com um tema de \"alto contraste\". Redefinir tema agora?",
+	"core_msgbox_prompt_aero_win7" : "O Wallpaper Engine precisa habilitar o Aero para funcionar. Deseja que o Wallpaper Engine tente ativar Aero?",
+	"core_msgbox_prompt_aero_win8" : "O Wallpaper Engine não pode ser executado com um tema de \"alto contraste\". Deseja que o Wallpaper Engine redefina o tema?",
 	"core_msgbox_prompt_high_contrast_was_enabled" : "O Windows aplicou um tema de \"alto contraste\" que impede que o Wallpaper Engine funcione corretamente.",
 	"core_msgbox_dwm_disabled" : "A composição da área de trabalho está desativada.",
 	"core_msgbox_aero_denied" : "O Wallpaper Engine não pode funcionar sem o Aero e será fechado agora.",
-	"core_msgbox_aero_failure" : "Falha ao habilitar Aero. O Wallpaper Engine será fechado agora.",
-	"core_msgbox_aero_failure_no_support" : "Falha ao habilitar Aero. Parece que você está usando uma versão Starter ou Basic do Windows 7, que não suporta Aero e não cumpre os requisitos mínimos de sistema. O Wallpaper Engine será fechado agora.",
+	"core_msgbox_aero_failure" : "Falha ao habilitar Aero.\n\nParece que o Windows está impedindo que o Aero seja habilitado, infelizmente o Aero é um requisito importante para que o Wallpaper Engine funcione.\n\nTente habilitar diretamente o Aero nas opções de tema do Windows e inicie o Wallpaper Engine novamente.",
+	"core_msgbox_aero_failure_no_support" : "Falha ao habilitar Aero. Parece que você está usando uma versão Starter ou Basic do Windows 7, que não suporta Aero e não cumpre os requisitos mínimos de sistema. Caso consiga habilitar o Aero mesmo assim, o Wallpaper Engine também funcionará.",
 	"core_msgbox_init_secondinstance_ask_quit" : "O Wallpaper Engine já está sendo executado mas não responde.\n\nDeseja forçar uma reinicialização?",
 	"core_msgbox_init_secondinstance_failed" : "Falha ao reiniciar, código do erro:",
-	"core_msgbox_below_win_7" : "O Wallpaper Engine requer Windows 7 ou posterior, como indicado pelos requisitos de sistema no Steam.\n\nParece que você está rodando uma versão sem suporte do Windows e o Wallpaper Engine pode não funcionar.",
+	"core_msgbox_below_win_7" : "O Wallpaper Engine requer Windows 7 ou posterior, como indicado pelos requisitos de sistema no Steam.\n\nParece que você está rodando uma versão do Windows sem suporte e o Wallpaper Engine pode não funcionar.",
 	"core_msgbox_media_feature_pack_missing" : "mfplat.dll ausente!\nVocê possivelmente possui uma edição N do Windows. Por favor, instale o Media Feature Pack da Microsoft para ativar suporte a vídeos! (Google: Media Feature Pack Windows 10/8.1/7)",
 
 	"core_updater_headline_init" : "Preparando Wallpaper Engine...",
@@ -57,6 +57,7 @@
 	"core_updater_status_distro_file_directory" : "Criando diretório: {{filepath}}",
 	"core_updater_status_distro_file_directory_error" : "Falhao ao criar diretório: {{error}}",
 	"core_updater_status_distro_file_copy" : "Copiando arquivo: {{filepath}}",
+	"core_updater_status_distro_file_skip" : "Pulando arquivo idêntico: {{filepath}}",
 	"core_updater_status_distro_file_copy_error" : "Falha ao copiar arquivo: {{error}}",
 	"core_updater_status_verify" : "Verificando instalação...",
 	"core_updater_status_verify_file_missing" : "Arquivo ausente: {{filepath}}",
@@ -80,5 +81,5 @@
 	"core_updater_status_corrupted_system_module_message_box_body" : "Um módulo do sistema parece estar corrompido e pode causar mau funcionamento do Wallpaper Engine.\n\nExcluir: {{modules}}\n\nReinstalar: {{installers}}",
 	"core_updater_prompt_close" : "O Wallpaper Engine ainda está em execução. Por favor, feche-o antes de continuar. Aguardando o encerramento dos seguintes processos:",
 	"core_updater_status_directx_not_supported_title" : "DirectX 10 não suportado",
-	"core_updater_status_directx_not_supported_body" : "Parece que a sua placa de vídeo não é compatível com o DirectX 10 ou o seu driver de vídeo não está funcionando corretamente. O DirectX 10 é um requisito do sistema para este aplicativo. Algumas funcionalidades do programa serão limitadas, instáveis ou indisponíveis."
+	"core_updater_status_directx_not_supported_body" : "Parece que a sua placa de vídeo não é compatível com o DirectX 10 ou o seu driver de vídeo não está funcionando corretamente. O DirectX 10 é um requisito do sistema para este aplicativo.\n\nCaso a sua placa de vídeo suporte o DirectX 10, isso pode significar que o seu driver gráfico atual possa estar danificado. Você pode tentar reinstalar o driver ou entrar em contato com o fornecedor do seu hardware (Nvidia, AMD, Intel) para resolver isso."
 }
