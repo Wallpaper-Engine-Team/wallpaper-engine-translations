@@ -310,7 +310,7 @@
 
 	"ui_browse_navigation_top" : "Raiz",
 	"ui_browse_download_header" : "Download do Steam",
-	"ui_browse_download_pending" : "Pendendo",
+	"ui_browse_download_pending" : "Pendente",
 	"ui_browse_download_waiting" : "Aguardando Steam",
 	"ui_browse_download_missing_files" : "Arquivos ausentes. Verifique o programa no Steam.",
 
