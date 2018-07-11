@@ -1168,5 +1168,36 @@
 	"ui_browse_explore_category_creator_genre_recent" : "<b>{{user}}</b>'in Son <b>{{genre}}</b> duvar kağıtları",
 	"ui_browse_explore_category_creator_genre_popular" : "<b>{{user}}</b>'in Popüler <b>{{genre}}</b> duvar kağıtları",
 	
-	"ui_browse_explore_category_keyword_most_subscribed" : "Çok indirilen <b>{{keyword}}</b> duvar kağıtları"
+	"ui_browse_explore_category_keyword_most_subscribed" : "Çok indirilen <b>{{keyword}}</b> duvar kağıtları",
+	"ui_browse_details_author_pending" : "< Bekliyor >",
+	
+	"ui_browse_context_menu_icon_small" : "Küçük Simgeler",
+	
+	"ui_browse_download_waiting" : "Steam için bekleniyor",
+	"ui_browse_download_missing_files" : "Eksik dosyalar tespit edildi. Programı Steam'den doğrulayın.",
+	
+	"ui_settings_show_tray_icon" : "Tepsi simgesini göster:",
+	
+	"ui_editor_preset_magic_title" : "Sihir",
+	"ui_editor_preset_magic_description" : "Çeşitli sihir efektli animasyonlar.",
+	"ui_editor_preset_interactive_title" : "Etkileşimli",
+	"ui_editor_preset_interactive_description" : "İmlecin etkilediği etkileşimli parçacıklar.",
+	"ui_editor_preset_abstract_title" : "Parçacık",
+	"ui_editor_preset_abstract_description" : "Genel parçacık efektleri.",
+	
+	"ui_editor_particle_element_control_point_end" : "Denetim noktası sonu",
+	"ui_editor_particle_element_control_point_start" : "Denetim noktası başlangıcı",
+	"ui_editor_particle_element_fixed" : "Sabit",
+	"ui_editor_particle_element_mirror" : "Ayna",
+	"ui_editor_particle_element_orientation" : "Yönlendirme",
+	"ui_editor_particle_element_repeat" : "Tekrar et",
+	"ui_editor_particle_element_screen" : "Ekran",
+	"ui_editor_particle_element_upright" : "Dik",
+	"ui_editor_particle_element_segments" : "Kesimler",
+	"ui_editor_particle_element_subdivision" : "Alt bölüm",
+	"ui_editor_particle_element_infinite_axis" : "Sonsuz eksen",
+	"ui_editor_particle_element_initializer_mapsequencearoundcontrolpoint" : "Denetim noktası etrafında harita sırası",
+	"ui_editor_particle_element_initializer_mapsequencebetweencontrolpoints" : "Denetim noktaları arasında harita sırası",
+	"ui_editor_particle_element_renderer_rope" : "Halat",
+	"ui_editor_particle_element_renderer_ropetrail" : "Halat izi"
 }

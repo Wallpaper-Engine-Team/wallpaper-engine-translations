@@ -1233,5 +1233,37 @@
 	"ui_browse_explore_category_creator_genre_recent" : "Najnovšie pozadia <b>{{user}}</b> <b>{{genre}}</b>",
 	"ui_browse_explore_category_creator_genre_popular" : "Najpopulárnejšie pozadia <b>{{user}}</b> <b>{{genre}}</b>",
 	
-	"ui_browse_explore_category_keyword_most_subscribed" : "Najviac odoberané <b>{{keyword}}</b> pozadia"
+	"ui_browse_explore_category_keyword_most_subscribed" : "Najviac odoberané <b>{{keyword}}</b> pozadia",
+
+	"ui_browse_details_author_pending" : "< Pending >",
+	
+	"ui_browse_context_menu_icon_small" : "Malé ikony",
+	
+	"ui_browse_download_waiting" : "Čaká sa na Steam",
+	"ui_browse_download_missing_files" : "Chýbajúce súbory. Overte program na Steamu.",
+	
+	"ui_settings_show_tray_icon" : "Zobraziť lištovú ikonku:",
+	
+	"ui_editor_preset_magic_title" : "Mágia",
+	"ui_editor_preset_magic_description" : "Rôzne animácie magických efektov.",
+	"ui_editor_preset_interactive_title" : "Interaktívne",
+	"ui_editor_preset_interactive_description" : "Interaktívne častice ktoré sú ovplyvnené kurzorom.",
+	"ui_editor_preset_abstract_title" : "Abstrakt",
+	"ui_editor_preset_abstract_description" : "Všeobecné časticové efekty.",
+	
+	"ui_editor_particle_element_control_point_end" : "Kontrolný bod koniec",
+	"ui_editor_particle_element_control_point_start" : "Kontrolný bod začiatok",
+	"ui_editor_particle_element_fixed" : "Pevné",
+	"ui_editor_particle_element_mirror" : "Zrkadlové",
+	"ui_editor_particle_element_orientation" : "Orientácia",
+	"ui_editor_particle_element_repeat" : "Opakovať",
+	"ui_editor_particle_element_screen" : "Obrazovka",
+	"ui_editor_particle_element_upright" : "Zvislo",
+	"ui_editor_particle_element_segments" : "Segmenty",
+	"ui_editor_particle_element_subdivision" : "Pododdelenia",
+	"ui_editor_particle_element_infinite_axis" : "Nekonečná os",
+	"ui_editor_particle_element_initializer_mapsequencearoundcontrolpoint" : "Mapové sekvencie okolo kontrolného bodmu",
+	"ui_editor_particle_element_initializer_mapsequencebetweencontrolpoints" : "Mapové sekvencie medzi kontrolnými bodami",
+	"ui_editor_particle_element_renderer_rope" : "Lano",
+	"ui_editor_particle_element_renderer_ropetrail" : "Lanový pás"
 }
