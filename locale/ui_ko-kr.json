@@ -160,6 +160,7 @@
 	"ui_settings_playback_focused" : "다른 응용프로그램 활성화:",
 	"ui_settings_playback_maximized" : "다른 응용프로그램 최대화:",
 	"ui_settings_playback_fullscreen" : "다른 응용프로그램 전체 화면:",
+	"ui_settings_playback_playing_audio" : "다른 응용프로그램 오디오 재생:",
 	"ui_settings_playback_mute" : "음소거",
 
 	"ui_settings_gfx_quality" : "품질",
@@ -246,11 +247,11 @@
 	"ui_welcome_windows_color_header" : "윈도우 색상 조정",
 	"ui_welcome_autostart_description" : "Wallpaper Engine을 윈도우와 함께 실행합니다:",
 	"ui_welcome_autostart_label" : "자동 실행:",
-	"ui_welcome_finish_body" : "전부 설정하셨습니다!<br/><br/>Wallpaper Engine은 이제 시스템 트레이에서 사용가능합니다. 배경화면을 선택하기 위해<b>두번 클릭</b> 혹은 <b>오른쪽 클릭</b> 을 통해 설정에서 Steam 창작마당이나 배경화면 에디터를 사용하시길 바랍니다.<div style='height:20px'></div>",
+	"ui_welcome_finish_body" : "모두 설정하셨습니다!<br/><br/>Wallpaper Engine은 이제 시스템 트레이에서 사용가능합니다. 배경화면을 선택하기 위해<b>두번 클릭</b> 혹은 <b>오른쪽 클릭</b> 을 통해 설정에서 Steam 창작마당이나 배경화면 에디터를 사용하시길 바랍니다.<div style='height:20px'></div>",
 	"ui_welcome_browse_wallpapers_now" : "지금 배경화면 탐색",
 	"ui_welcome_button_first_page" : "출발!",
 	"ui_welcome_button_next_page" : "다음",
-	"ui_welcome_button_last_page" : "전부 완료",
+	"ui_welcome_button_last_page" : "모두 완료됨",
 	
 	"ui_editor_pane_header_camera" : "카메라",
 	"ui_editor_pane_header_preview" : "미리보기",
