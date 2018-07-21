@@ -160,6 +160,7 @@
 	"ui_settings_playback_focused" : "다른 응용프로그램 활성화:",
 	"ui_settings_playback_maximized" : "다른 응용프로그램 최대화:",
 	"ui_settings_playback_fullscreen" : "다른 응용프로그램 전체 화면:",
+	"ui_settings_playback_sleep" : "디스플레이 절전 상태:",
 	"ui_settings_playback_mute" : "음소거",
 
 	"ui_settings_gfx_quality" : "품질",
