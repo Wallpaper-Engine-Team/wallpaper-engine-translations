@@ -11,11 +11,14 @@
 	"core_tray_faq" : "Помощь и FAQ",
 	"core_tray_recent_wallpapers_clear" : "Очистить список",
 	"core_tray_next_wallpaper" : "Следующие обои",
+	"core_tray_mute" : "Выкл. звук",
+	"core_tray_unmute" : "Вкл. звук",
 	
 	"core_balloon_info" : "Чтобы выбрать обои щёлкните два раза по иконке Wallpaper Engine в области уведомлений.",
 	"core_balloon_desktop_window_error" : "Ошибка подготовки рабочего стола к живым обоям.",
 	"core_balloon_video_error" : "Произошла ошибка видео: {{err}}",
 	"core_balloon_app_error" : "Ошибка загрузки приложения в качестве фона рабочего стола.",
+	"core_balloon_pkg_version_error" : "Эти обои не могут быть открыты: нет файлов",
 	
 	"core_msgboxtitle_error" : "Ошибка",
 	"core_msgboxtitle_app_conflict" : "Конфликтующие приложения",
@@ -24,6 +27,7 @@
 	"core_msgbox_deskscapes" : "Похоже, что запущен DeskScapes. Это может блокировать работу Wallpaper Engine.",
 	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine требует для работы включенный режим Aero. Включить Aero сейчас?",
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine не может быть запущен вместе с темой 'высокая контрастность'. Сбросить тему сейчас?",
+	"core_msgbox_prompt_high_contrast_was_enabled" : "Windows использует тему 'высокого контраста', что препятствует работе Wallpaper",
 	"core_msgbox_dwm_disabled" : "Диспетчер рабочего стола отключён.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine не может работать без Aero и сейчас будет выключен.",
 	"core_msgbox_aero_failure_no_support" : "Ошибка включения Aero. Кажется вы используете Начальную или Базовую редакцию Windows 7, которая не поддерживает Aero и не отвечает минимальным системным требованиям. Wallpaper Engine будет выключен.",
@@ -70,5 +74,7 @@
 	"core_updater_status_complete_starting" : "Запуск Wallpaper Engine...",
 	"core_updater_status_cancelled" : "Процесс был отменен пользователем",
 	"core_updater_status_corrupted_system_module_message_box_title" : "Системный модуль не может быть загружен",
-	"core_updater_status_corrupted_system_module_message_box_body" : "Возможно, системный модуль повреждён и может повлечь за собой сбой в работе Wallpaper Engine.\n\nУдалите: {{modules}}\n\nПереустановите: {{installers}}"
+	"core_updater_status_corrupted_system_module_message_box_body" : "Возможно, системный модуль повреждён и может повлечь за собой сбой в работе Wallpaper Engine.\n\nУдалите: {{modules}}\n\nПереустановите: {{installers}}",
+	"core_updater_status_directx_not_supported_title" : "DirectX 10 не поддерживается",
+	"core_updater_status_directx_not_supported_body" : "Кажется, видеокарта не поддерживает DirectX 10, или графические драйвера повреждены. DirectX 10 - это системное требование данного приложения.\n\nЕсли ваша видеокарта должна поддерживать DirectX 10, ваши драйвера могут быть повреждены. Попробуйте переустановить драйвера или обратитесь к поставщиком вашей видеокарты (Nvidia, AMD, Intel), чтобы решить проблему."
 }
