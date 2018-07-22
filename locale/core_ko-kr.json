@@ -28,7 +28,6 @@
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine은 '높은 대비'의 테마에서 작동하지 않습니다. 지금 테마를 초기화하겠습니까?",
 	"core_msgbox_dwm_disabled" : "바탕화면 구성 옵션이 비활성화되었습니다.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine은 Aero 옵션 없이 작동할 수 없어 곧 종료됩니다.",
-	"core_msgbox_aero_failure" : "Aero 옵션을 활성화하는데 실패했습니다. Wallpaper Engine이 곧 종료됩니다.",
 	"core_msgbox_aero_failure_no_support" : "Aero를 활성화하는데 실패했습니다. 스타터나 베이직 버전의 윈도우즈 7는 Aero를 지원하지 않습니다. Wallpaper Engine이 이제 종료됩니다.",
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine이 이미 작동중으로 나타나 응답하지 않습니다.\n\n강제로 Wallpaper Engine을 재시작하겠습니까?",
 	"core_msgbox_init_secondinstance_failed" : "재시작 실패, 에러 코드:",

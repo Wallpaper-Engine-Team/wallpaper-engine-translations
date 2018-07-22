@@ -27,7 +27,6 @@
 	"core_msgbox_prompt_high_contrast_was_enabled" : "Windows ha impostato un tema ad alto contrasto, questo non permette a Wallpaper Engine di funzionare.",
 	"core_msgbox_dwm_disabled" : "La composizione Desktop è disabilitata.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine non può essere eseguito senza Aero e quindi ora verrà chiuso.",
-	"core_msgbox_aero_failure" : "Impossibile attivare Aero. Wallpaper Engine verrà chiuso.",
 	"core_msgbox_aero_failure_no_support" : "Impossibile abilitare Aero. Sembra che tu stia usando una versione Starter o Basic di Windows 7, che non supporta Aero e non dispone dei requisiti minimi di sistema. Wallpaper Engine verrà chiuso.",
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine è già in esecuzione e non sembra rispondere.\n\nVuoi riavviarlo in modo forzato?",
 	"core_msgbox_init_secondinstance_failed" : "Riavvio fallito, codice errore:",

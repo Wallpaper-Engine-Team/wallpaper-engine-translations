@@ -26,7 +26,6 @@
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine ei pysty suorittamaan suuren kontrastin teemaa. Resetoi teema nyt?",
 	"core_msgbox_dwm_disabled" : "DWM on pois käytöstä.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine tarvitsee Windowsin Aero-ominaisuutta.",
-	"core_msgbox_aero_failure" : "Aeron käynnistäminen epäonnistui. Wallpaper Engine sulkeutuu.",
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine on käynnissä, muttei vastaa.\n\nHaluatko pakottaa sulkemisen?",
 	"core_msgbox_init_secondinstance_failed" : "Uudelleenkäynnistys epäonnistui. Virhekoodi:",
 	"core_msgbox_below_win_7" : "Wallpaper Engine edellyttää Windows 7:ää tai uudempaa.\n\nNäyttää siltä, että käytät vanhaa versiota ja Wallpaper Engine ei välttämättä toimi.",

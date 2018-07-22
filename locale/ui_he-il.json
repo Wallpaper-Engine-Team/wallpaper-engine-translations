@@ -12,8 +12,6 @@
 	"ui_modal_updaterequired_title" : "האפליקציה צריכה להתעדכן",
 	"ui_modal_updaterequired_body" : "סגור את האפליקציה והפעל אותה מחדש דרך Steam בכדי לקבל את העדכונים החדשים ביותר, אם תקלה זאת ממשיכה להופיע, אנא בדוק את תקינות הקבצים ב-Steam.<br/><br/>Application version: <b>{{callerVersion}}</b>, UI version: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "עדכון חדש זמין",
-	"ui_modal_updateavailable_body" : "עדכון חדש ליישום זמין ב-Steam: <b>{{updateVersion}}</b><br/>אנא סגור את היישום בכדי שתוכל להתעדכן.",
-
 	"ui_browse_monitor" : "צג",
 	"ui_browse_choose_monitor" : "(בחר צג)",
 	"ui_browse_filter_results" : "סנן תוצאות",
@@ -237,7 +235,6 @@
 	"ui_editor_filemenu_show_in_workshop" : "הראה בסדנה",
 	"ui_editor_filemenu_prepare_for_publishing" : "התכונן לפרסום",
 
-	"ui_editor_treeview_header_scene" : "גרף סצנה",
 	"ui_editor_treeview_header_files" : "ייבא קבצים",
 
 	"ui_editor_camera_add_path" : "הוסף נתיב",
@@ -247,8 +244,6 @@
 	"ui_editor_gizmo_scale" : "שנה גודל",
 
 	"ui_editor_welcome_modal_new_scene_wallpaper" : "רקע סצנה חדש",
-	"ui_editor_welcome_modal_new_scene3d_wallpaper" : "רקע סצנה תלת מימדית חדש",
-	"ui_editor_welcome_modal_new_scene2d_wallpaper" : "רקע סצנה דו מימדית חדש",
 	"ui_editor_welcome_modal_new_video_wallpaper" : "רקע וידאו חדש",
 	"ui_editor_welcome_modal_new_web_wallpaper" : "רקע רשת חדש",
 	"ui_editor_welcome_modal_new_application_wallpaper" : "רקע אפליקציה חדש",
@@ -286,12 +281,10 @@
 	"ui_editor_workshop_options_description" : "תיאור",
 	"ui_editor_workshop_options_tags" : "תגיות",
 	"ui_editor_workshop_options_genre" : "ז'אנר",
-	"ui_editor_workshop_genre_empty" : "<בחר ז'אנר>",
 	"ui_editor_workshop_options_scheme_color" : "סכמת צבע",
 	"ui_editor_workshop_options_visibility" : "נראות",
 	"ui_editor_workshop_options_monetization" : "מונטיזציה",
 	"ui_editor_workshop_options_monetization_hint_on" : " (הרקע יקבל דירוג וימכר)",
-	"ui_editor_workshop_options_monetization_hint_off" : " (הרקע יופי מיד ויהיה חינמי)",
 	"ui_editor_workshop_options_preview_image" : "תקדים תמונה",
 	"ui_editor_workshop_options_missing" : "חסר",
 	"ui_editor_workshop_options_preview_take_snapshot" : "צלם תמונה",

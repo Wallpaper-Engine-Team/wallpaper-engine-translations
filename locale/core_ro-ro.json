@@ -26,7 +26,6 @@
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine nu poate funcționa cu o temă „contrast ridicat”. Repornești tema acum?",
 	"core_msgbox_dwm_disabled" : "Compoziția spațiu de lucru este dezactivată.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine nu poate funcționa cu Aero și se va închide.",
-	"core_msgbox_aero_failure" : "Activarea Aero a eșuat. Wallpaper Engine se va închide.",
 	"core_msgbox_aero_failure_no_support" : "Activarea Aero a eșuat. Se pare că folosești o versiune Starter sau Basic a Windows 7, care nu suportă Aero și nu îndeplinește cerințele minime de sistem. Wallpaper Engine se va închide.",
 	"core_msgbox_init_secondinstance_ask_quit" : "Se pare că Wallpaper Engine rulează deja în fundal și nu răspunde.\n\nVrei șă îl repornești forțat?",
 	"core_msgbox_init_secondinstance_failed" : "Repornire eșuată, codul erorii:",

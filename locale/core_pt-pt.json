@@ -26,7 +26,6 @@
 	"core_msgbox_prompt_aero_win8" : "O Wallpaper Engine não consegue executar com um tema de alto contraste. Repor o tema agora?",
 	"core_msgbox_dwm_disabled" : "A composição do ambiente de trabalho está desativada.",
 	"core_msgbox_aero_denied" : "O Wallpaper Engine não funciona sem o Aero e vai agora fechar.",
-	"core_msgbox_aero_failure" : "Falha ao ativar o Aero. O Wallpaper Engine vai agora fechar.",
 	"core_msgbox_aero_failure_no_support" : "Falha ao ativar o Aero. Parece que está a utilizar a edição Starter ou Basic do Windows 7, que não suporta o Aero e não cumpre com os requisitos mínimos do sistema. O Wallpaper Engine vai agora fechar.",
 	"core_msgbox_init_secondinstance_ask_quit" : "Parece que o Wallpaper Engine já está a executar mas não responde.\n\nPretende reiniciá-lo de forma forçada?",
 	"core_msgbox_init_secondinstance_failed" : "O reinício falhou. Código do erro:",

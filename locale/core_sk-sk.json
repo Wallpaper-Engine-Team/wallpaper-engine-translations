@@ -71,7 +71,6 @@
 	"core_updater_headline_cancelled" : "Nastavovanie zrušené.",
 
 	"core_updater_status_distro_prepare_error" : "Boost chyba pri skenovaní adresára {{error}}",
-	"core_updater_status_distro_copy_error" : "Boost chyba pri kopírovaní súborov",
 
 	"core_updater_status_cancelled" : "Proces bol zrušený užívateľom",
 

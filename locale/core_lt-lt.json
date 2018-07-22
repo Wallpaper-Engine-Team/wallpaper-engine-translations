@@ -24,7 +24,6 @@
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine nesuderinama su aukšto kontrasto režimu. Atstatyti režimą dabar?",
 	"core_msgbox_dwm_disabled" : "Darbalaukio komponavimas išjungtas.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine negali veikti be Aero ir dabar bus išjungta.",
-	"core_msgbox_aero_failure" : "Nepavyko įgalinti Aero. Wallpaper Engine bus uždaryta.",
 	"core_msgbox_init_secondinstance_ask_quit" : "Atrodo kad Wallpaper Engine jau yra atidaryta ir neatsako.\n\nAr norite ją priverstinai perkrauti?",
 	"core_msgbox_init_secondinstance_failed" : "Perkrovimas nepavyko, klaidos kodas:",
 	"core_msgbox_below_win_7" : "Wallpaper Engine reikalauja Windows 7 ar naujesnės versijos, kaip nurodyta minimaliuose reikalavimuose Steam platformoje.\n\nAtrodo kad naudojate nepalaikomą Windows versiją, todėl Wallpaper Engine gali neveikti."

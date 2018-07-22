@@ -27,7 +27,6 @@
 	"core_msgbox_prompt_high_contrast_was_enabled" : "Windows 'kontraste altuko' tema bat ezarri du, honek ez du Wallpaper Engine funtzionatzen uzten.",
 	"core_msgbox_dwm_disabled" : "Mahaigaineko konposizioa desaktibatuta dago.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine ezin du Aero gabe funtzionatu eta irten egingo da.",
-	"core_msgbox_aero_failure" : "Ezin izan da Aero hasieratu. Wallpaper Engine irten egingo da.",
 	"core_msgbox_aero_failure_no_support" : "Ezin izan da Aero hasieratu. Windows 7-ko Starter edo Basic bertsioa duzula dirudi, Aero ez dutenak eta beraz sistemaren baldintza minimoak betetzen ez dituztenak. Wallpaper Engine irten egingo da.",
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine exekutatzen ari dela baina erantzuten ez duela dirudi.\n\nIndarrez berrabiarazi nahi duzu?",
 	"core_msgbox_init_secondinstance_failed" : "Berrabiarazpen errorea, kodea:",

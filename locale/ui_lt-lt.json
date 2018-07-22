@@ -197,7 +197,6 @@
 	"ui_editor_filemenu_show_in_workshop" : "Rodyti per Workshop",
 	"ui_editor_filemenu_prepare_for_publishing" : "Parengti išleidimui",
 
-	"ui_editor_treeview_header_scene" : "Elementai",
 	"ui_editor_treeview_header_files" : "Importuoti failai",
 
 	"ui_editor_camera_add_path" : "Pridėti nuorodą",
@@ -207,8 +206,6 @@
 	"ui_editor_gizmo_scale" : "Keisti dydį",
 
 	"ui_editor_welcome_modal_new_scene_wallpaper" : "Naujas scenos fonas",
-	"ui_editor_welcome_modal_new_scene3d_wallpaper" : "Naujas 3D scenos fonas",
-	"ui_editor_welcome_modal_new_scene2d_wallpaper" : "Naujas 2D scenos fonas",
 	"ui_editor_welcome_modal_new_video_wallpaper" : "Naujas video fonas",
 	"ui_editor_welcome_modal_new_web_wallpaper" : "Naujas interneto svetainės fonas",
 	"ui_editor_welcome_modal_new_application_wallpaper" : "Naujas programos fonas",
@@ -249,7 +246,6 @@
 	"ui_editor_workshop_options_visibility" : "Matomumas",
 	"ui_editor_workshop_options_monetization" : "Monetizavimas (Curated Workshop)",
 	"ui_editor_workshop_options_monetization_hint_on" : " (Vyks balsavimas dėl fono pardavimo.)",
-	"ui_editor_workshop_options_monetization_hint_off" : " (Fonas bus iš karto pasiekiamas, nemokamai.)",
 	"ui_editor_workshop_options_preview_image" : "Peržiūrėti paveikslėlį",
 	"ui_editor_workshop_options_missing" : "Trūksta",
 	"ui_editor_workshop_options_preview_take_snapshot" : "Nufotografuoti",

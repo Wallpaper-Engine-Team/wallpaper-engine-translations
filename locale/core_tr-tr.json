@@ -26,7 +26,6 @@
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine, 'yüksek kontrastlı' bir temayla çalıştırılamaz. Şimdi tema sıfırlansın mı ?",
 	"core_msgbox_dwm_disabled" : "Masaüstü bileşimi devre dışı.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine Aero olmadan çalışamaz ve şimdi kapanacak.",
-	"core_msgbox_aero_failure" : "Aero'yu etkinleştirme başarısız oldu. Wallpaper Engine şimdi kapanacak.",
 	"core_msgbox_aero_failure_no_support" : "Aero'yu etkinleştirme başarısız oldu. Windows 7'nin Aero'yu desteklemeyen Starter veya Basic sürümünü kullanıyor görünüyorsunuz. Wallpaper Engine şimdi kapanacak.",
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine zaten çalışıyor veya yanıt vermiyor gibi görünüyor.\n\nZorla yeniden başlatmak istiyor musunuz ?",
 	"core_msgbox_init_secondinstance_failed" : "Yeniden başlatma başarısız, hata kodu:",
@@ -81,7 +80,6 @@
 	"core_balloon_pkg_version_error" : "Bu duvar kağıdı açılamadı. Steam üzerinde Wallpaper Engine'i güncellemeyi deneyin.",
 	
 	"core_updater_status_directx_not_supported_title" : "DirectX 10 desteklenmemektedir.",
-	"core_updater_status_directx_not_supported_body" : "Grafik kartınızın bu uygulama için gereksinimi olan DirectX 10'u desteklemediği görülmektedir. Programın bazı işlevleri sınırlı, kararsız veya kullanılamaz.",
 	"core_balloon_wallpaper_file_missing" : "Bu duvar kağıdı açılamaz, çünkü dosyaları eksik.",
 	"core_updater_status_distro_file_skip" : "Eşdeğer dosya atlanıyor: {{filepath}}"
 }

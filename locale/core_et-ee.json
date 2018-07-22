@@ -31,7 +31,6 @@
 	"core_msgbox_prompt_high_contrast_was_enabled" : "Windows rakendas just 'high contrast' teema mis ei luba Wallpaper Enginel töötada.",
 	"core_msgbox_dwm_disabled" : "Desktop composition on keelatud.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine ei saa töötada ilma Aero-ta ja sulgub.",
-	"core_msgbox_aero_failure" : "Aero aktiveerimine ebaõnnestus. Wallpaper Engine sulgub.",
 	"core_msgbox_aero_failure_no_support" : "Aero aktiveerimine ebaõnnestus. Tundub, et kasutad Starter või Basic Windows 7 versiooni, mis ei toeta Aerot ja mis ei vasta minimaalsetele süsteeminõuetele. Wallpaper Engine sulgub.",
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine juba töötab, aga ei vasta.\n\nKas soovid sundida taaskäivituse?",
 	"core_msgbox_init_secondinstance_failed" : "Taaskäivitus ebaõnnestus, veakood:",
@@ -79,6 +78,5 @@
 	"core_updater_status_corrupted_system_module_message_box_title" : "Süsteemi moodulit ei saa laadida",
 	"core_updater_status_corrupted_system_module_message_box_body" : "Süsteemi moodul tundub olevat kahjustatud ja võib Wallpaper Engine tööd takistada.\n\nKustuta: {{modules}}\n\nTaasinstalli: {{installers}}",
 	"core_updater_prompt_close" : "Wallpaper Engine töötab, palun sulge see kõigepealt.",
-	"core_updater_status_directx_not_supported_title" : "DirectX 10 ei toetata",
-	"core_updater_status_directx_not_supported_body" : "Tundub, et Teie graafikakaart ei toeta DirectX10, mis on selle rakenduse töötamise jaoks vajalik. Mõni funktsionaalsus on limiteeritud."
+	"core_updater_status_directx_not_supported_title" : "DirectX 10 ei toetata"
 }

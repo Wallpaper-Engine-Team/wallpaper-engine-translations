@@ -12,7 +12,6 @@
 	"ui_modal_updaterequired_title" : "Wallpaper Engine trenger å bli oppdatert",
 	"ui_modal_updaterequired_body" : "Vær så snill lukk Wallpaper Engine (høyre klikk ikonet og trykk Avslutt) og restart det over Steam for å få de senste oppdateringene. hvis du fremdeles får disse advarslene, vennligst verifiser Applikasjonsfilene gjennom Steam.<br/><br/>Application version: <b>{{callerVersion}}</b>, UI version: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "New Update Available",
-	"ui_modal_updateavailable_body" : "En  ny oppdatering for Wallpaper Engine er tilgjengelig på Steam: <b>{{updateVersion}}</b><br/>Vennligst Avslutt Wallpaper Engine så Steam kan oppdatere det riktig.",
 
 	"ui_browse_monitor" : "Skjerm",
 	"ui_browse_choose_monitor" : "(Velg Skjerm)",
@@ -237,7 +236,6 @@
 	"ui_editor_filemenu_show_in_workshop" : "Vis i Verkstedet",
 	"ui_editor_filemenu_prepare_for_publishing" : "Forbered for publisering",
 
-	"ui_editor_treeview_header_scene" : "Scene graf",
 	"ui_editor_treeview_header_files" : "Importerte Filer",
 
 	"ui_editor_camera_add_path" : "Legg til sti",
@@ -247,8 +245,6 @@
 	"ui_editor_gizmo_scale" : "Skala",
 
 	"ui_editor_welcome_modal_new_scene_wallpaper" : "Ny Scene Bakgrunnsbilde",
-	"ui_editor_welcome_modal_new_scene3d_wallpaper" : "Ny 3D Scene Bakgrunnsbilde",
-	"ui_editor_welcome_modal_new_scene2d_wallpaper" : "Ny 2D Scene Bakgrunnsbilde",
 	"ui_editor_welcome_modal_new_video_wallpaper" : "Nytt video bakgrunnsbilde",
 	"ui_editor_welcome_modal_new_web_wallpaper" : "Nytt web bakgrunnsbilde",
 	"ui_editor_welcome_modal_new_application_wallpaper" : "Nytt Applikasjons bakgrunnsbilde",
@@ -286,12 +282,10 @@
 	"ui_editor_workshop_options_description" : "Beskrivelse",
 	"ui_editor_workshop_options_tags" : "Tags",
 	"ui_editor_workshop_options_genre" : "Sjanger",
-	"ui_editor_workshop_genre_empty" : "< Velg en sjanger >",
 	"ui_editor_workshop_options_scheme_color" : "Ordnings farge",
 	"ui_editor_workshop_options_visibility" : "Synlighet",
 	"ui_editor_workshop_options_monetization" : "Inntjenings (kuratert Verksted)",
 	"ui_editor_workshop_options_monetization_hint_on" : " (Bakgrunnsbilde vil bli stemt på og solgt.)",
-	"ui_editor_workshop_options_monetization_hint_off" : " (Bakgrunnsbilde vil umiddelbart bli tilgjengelig, gratis.)",
 	"ui_editor_workshop_options_preview_image" : "Forhåndsvis bilde",
 	"ui_editor_workshop_options_missing" : "Mangler",
 	"ui_editor_workshop_options_preview_take_snapshot" : "Ta et øyeblikksbilde",

@@ -83,7 +83,6 @@
 	"ui_browse_monitors_split_monitor" : "Split scherm: {{name}}",
 	"ui_browse_monitors_group" : "Groepeer",
 	"ui_browse_monitors_ungroup" : "Maak los van groep",
-	"ui_browse_monitors_add_group" : "Voeg groep toe",
 	"ui_browse_monitors_remove_group" : "Verwijder groep",
 	"ui_browse_monitors_horizontal" : "Horizontaal",
 	"ui_browse_monitors_vertical" : "Verticaal",
@@ -322,7 +321,6 @@
 	"ui_editor_filemenu_show_in_workshop" : "Toon in Workshop",
 	"ui_editor_filemenu_prepare_for_publishing" : "Publiceren voorbereiden",
 
-	"ui_editor_treeview_header_scene" : "Scene graph",
 	"ui_editor_treeview_header_files" : "Geïmporteerde bestanden",
 
 	"ui_editor_camera_add_path" : "Pad toevoegen",
@@ -332,9 +330,6 @@
 	"ui_editor_gizmo_scale" : "Schalen",
 
 	"ui_editor_welcome_modal_new_scene_wallpaper" : "Nieuwe Scène Achtergrond",
-	"ui_editor_welcome_modal_new_scene_wallpaper" : "Nieuwe Scène Achtergrond",
-	"ui_editor_welcome_modal_new_scene3d_wallpaper" : "Nieuwe 3D Scène Achtergrond",
-	"ui_editor_welcome_modal_new_scene2d_wallpaper" : "Nieuwe 2D Scène Achtergrond",
 	"ui_editor_welcome_modal_new_video_wallpaper" : "Nieuwe Video Achtergrond",
 	"ui_editor_welcome_modal_new_web_wallpaper" : "Nieuwe Web Achtergrond",
 	"ui_editor_welcome_modal_new_application_wallpaper" : "Nieuwe Applicatie Achtergrond",
@@ -375,7 +370,6 @@
 	"ui_editor_workshop_options_visibility" : "Zichtbaarheid",
 	"ui_editor_workshop_options_monetization" : "Tegeldemaking (geselecteerde Workshop)",
 	"ui_editor_workshop_options_monetization_hint_on" : " (Er zal op uw achtergrond gestemd worden en daarna zal hij verkocht worden.)",
-	"ui_editor_workshop_options_monetization_hint_off" : " (De achtergrond is onmiddelijk gratis beschikbaar.)",
 	"ui_editor_workshop_options_preview_image" : "Preview Afbeelding",
 	"ui_editor_workshop_options_missing" : "Missend",
 	"ui_editor_workshop_options_preview_take_snapshot" : "Neem momentopname",

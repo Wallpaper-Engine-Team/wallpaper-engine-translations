@@ -22,7 +22,6 @@
 	"core_msgbox_prompt_aero_win8" : "والپيپر انجين نميتواند با کنتراست بالا فعاليت کند.تنظيم مجدد شود؟",
 	"core_msgbox_dwm_disabled" : "ترکيب دسکتاب غيرفال است.",
 	"core_msgbox_aero_denied" : "نميتواند فعاليت کند در حال خروجaero والپيپر انجين بدون .",
-	"core_msgbox_aero_failure" : " درحال خروج aero ناموفق در فعال کردن .",
 	"core_msgbox_init_secondinstance_ask_quit" : "به نظر ميرسد والپيپر انجين در حال حاضر در حال اجرا است و پاسخي دريافت نميکند.\n\nDo شما بايد با اجبار آن را راه اندازي مجدد کنيد",
 	"core_msgbox_init_secondinstance_failed" : "راه اندازي مجدد ناموفق کد خطا:"
 }
