@@ -51,7 +51,6 @@
 	"core_updater_status_closing_processes_wait_quit_terminate_error" : "Falha ao fechar {{program}}",
 	"core_updater_status_distro" : "Desempacotando arquivos...",
 	"core_updater_status_distro_prepare_error" : "Erro de boost ao escanear o diretório de origem {{error}}",
-	"core_updater_status_distro_copy_error" : "Erro de boost ao copiar arquivos",
 	"core_updater_status_distro_missing" : "Diretório de distribuição ausente",
 	"core_updater_status_distro_file_path_error" : "Falha ao converter caminho do arquivo: {{error}}",
 	"core_updater_status_distro_file_directory" : "Criando diretório: {{filepath}}",

@@ -26,13 +26,11 @@
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine kan ikke kjøre med et 'høy kontrast' Tema. Reset tema nå?",
 	"core_msgbox_dwm_disabled" : "Skrivebord komposisjon er skrudd av.",
 	"core_msgbox_aero_denied" : " Wallpaper Engine kan ikke funke uten Aero og vil nå avslutte.",
-	"core_msgbox_aero_failure" : "Mislyktes å skru på Aero. Wallpaper Engine vil nå avslutte.",
 	"core_msgbox_aero_failure_no_support" : "Mislyktes å skru på Aero. Det ser ut som at du bruker en starter eller grunnleggende versjon av windows 7, som ikke støtter Aero og kan ikke overholde de minste system kravene. Wallpaper Engine vil nå avslutte.",
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine ser ut til at det allerede kjører og ikke svarer.\n\nVil du starte det på nytt med makt?",
 	"core_msgbox_init_secondinstance_failed" : "Restart mislyktes, feilkode:",
 	"core_msgbox_below_win_7" : "Wallpaper Engine krever Windows 7 eller høyere, som indikert av systemets krav på Steam.\n\nDet ser ut som at det du kjører er en ikke støttet versjon av Windows og Wallpaper Engine kanskje ikke fungerer.",
 	"core_msgbox_media_feature_pack_missing" : "mfplat.dll mangler!\nDu har muligens Windows N. Vennligst og installer Mediafunksjonspakken av Microsoft for å skru på videostøtte! (Google: Media Feature Pack Windows 10/8.1/7)",
-	"core_msgbox_file_inconsistency" : "Fil konsekvens oppdaget!\n\nVennligst start applikasjonen om igjen gjennom Steam. Hvis du fortsetter å se denne feilmeldingen, verifiser filene gjennom Steam også (høyre klikk Wallpaper, trykk på egenskaper, lokale filer, verifiser). Dette kan skje når Steam oppdaterer aplikasjonen mens den kjører.\n\nRestart nå?",
 
 	"core_updater_headline_init" : "Setter opp Wallpaper Engine...",
 	"core_updater_headline_update" : "Oppdaterer Wallpaper Engine til versjon {{version}}...",

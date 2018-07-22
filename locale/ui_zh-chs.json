@@ -551,7 +551,6 @@
 	"ui_editor_workshop_options_description" : "简介",
 	"ui_editor_workshop_options_tags" : "标签",
 	"ui_editor_workshop_options_genre" : "类型",
-	"ui_editor_workshop_genre_empty" : "< 请选择一个类型 >",
 	"ui_editor_workshop_options_scheme_color" : "色彩方案",
 	"ui_editor_workshop_options_visibility" : "可见性",
 	"ui_editor_workshop_options_monetization" : "盈利（禁用下载）",

@@ -26,7 +26,6 @@
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine kan ikke køre med et 'højt kontrast' tema. Nulstil tema nu?",
 	"core_msgbox_dwm_disabled" : "Skrivebords komposition er slået fra.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine kan ikke virke uden Aero og vil nu lukke ned.",
-	"core_msgbox_aero_failure" : " Aktivering af Aero mislykkede. Wallpaper Engine vil nu lukke.",
 	"core_msgbox_aero_failure_no_support" : "Aktivering af Aero mislykkede. Du virker til at bruge en Starter eller Basisk version Windows 7, hvilket ikke understøtter Aero og opfylder ikke minimums systemkrav. Wallpaper Engine vil nu lukke ned.",
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine appears to be running already and doesn't respond.\n\nDo you want to restart it forcefully?",
 	"core_msgbox_init_secondinstance_failed" : "Genstart mislykkede, fejl kode:",

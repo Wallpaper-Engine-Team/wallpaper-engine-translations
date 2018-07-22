@@ -27,7 +27,6 @@
 	"core_msgbox_prompt_high_contrast_was_enabled": "Windows vừa kích hoạt chế độ chủ đề 'tương phản cao', vì thế mọi hoạt động của Wallpaper Engine không thể tiếp tục tiến hành.",
 	"core_msgbox_dwm_disabled": "Desktop composition được vô hiệu hóa.",
 	"core_msgbox_aero_denied": "Wallpaper Engine không thể hoạt động khi tính năng Aero đang bị vô hiệu hóa. Phần mềm sẽ thoát ngay bây giờ.",
-	"core_msgbox_aero_failure": "Không thể kích hoạt tính năng Aero. Wallpaper Engine sẽ thoát ngay bây giờ.",
 	"core_msgbox_aero_failure_no_support": "Không thể kích hoạt tính năng Aero. Bạn dường như đang sử dụng một phiên bản Starter hoặc Basic của Windows 7, vì chúng không hỗ trợ Aero và không đáp ứng các yêu cầu hệ thống tối thiểu. Wallpaper Engine hiện sẽ thoát.",
 	"core_msgbox_init_secondinstance_ask_quit": "Wallpaper Engine có thể đang hoạt động và không thấy phản hồi.\n\nBạn có muốn buộc phần mềm khởi động lại?",
 	"core_msgbox_init_secondinstance_failed": "Không thể khởi chạy lại phần mềm, với mã lỗi:",

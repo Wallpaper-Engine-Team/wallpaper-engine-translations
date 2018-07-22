@@ -197,7 +197,6 @@
 	"ui_editor_filemenu_show_in_workshop" : "Visa i Workshop",
 	"ui_editor_filemenu_prepare_for_publishing" : "Förbered för publicering",
 
-	"ui_editor_treeview_header_scene" : "Scendiagram",
 	"ui_editor_treeview_header_files" : "Importerade filer",
 
 	"ui_editor_camera_add_path" : "Lägg till sökväg",
@@ -207,8 +206,6 @@
 	"ui_editor_gizmo_scale" : "Skala",
 
 	"ui_editor_welcome_modal_new_scene_wallpaper" : "Ny Scenbakgrund",
-	"ui_editor_welcome_modal_new_scene3d_wallpaper" : "Ny 3D Scenbakgrund",
-	"ui_editor_welcome_modal_new_scene2d_wallpaper" : "Ny 2D Scenbakgrund",
 	"ui_editor_welcome_modal_new_video_wallpaper" : "Ny Videbakgrund",
 	"ui_editor_welcome_modal_new_web_wallpaper" : "Ny Webbakgrund",
 	"ui_editor_welcome_modal_new_application_wallpaper" : "Ny Programbakgrund",
@@ -249,7 +246,6 @@
 	"ui_editor_workshop_options_visibility" : "Synlighet",
 	"ui_editor_workshop_options_monetization" : "Intäktsgenerering (Curated Workshop)",
 	"ui_editor_workshop_options_monetization_hint_on" : " (Bakgrund kommer bli röstad på och såld.)",
-	"ui_editor_workshop_options_monetization_hint_off" : " (Bakgrund kommer omedelbart bli tillgänglig, gratis.)",
 	"ui_editor_workshop_options_preview_image" : "Förhandsvisa bild",
 	"ui_editor_workshop_options_missing" : "Fattas",
 	"ui_editor_workshop_options_preview_take_snapshot" : "Ta skärmbild",

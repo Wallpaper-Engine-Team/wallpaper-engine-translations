@@ -31,7 +31,6 @@
 	"core_msgbox_prompt_high_contrast_was_enabled" : "Windows туко-що приложи тема с 'висок контраст', която не позволява на Wallpaper Engine да работи.",
 	"core_msgbox_dwm_disabled" : "Десктоп композиция е деактивирана.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine НЕ може да работи без Aero и програмата ще се затвори сега.",
-	"core_msgbox_aero_failure" : "Неуспешен опит да се активира Aero. Wallpaper Engine ще се затвори.",
 	"core_msgbox_aero_failure_no_support" : "Неуспешен опит да се активира Aero. Най-вероятно използвате Starter или Basic версия на Windows 7, тези версии НЕ поддържат Aero и НЕ покриват минималните системни изисквания. Wallpaper Engine ще се затвори сега.",
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine вече е стартиран и не отговаря.\n\nЖелаете ли да рестартирате Wallpaper Engine принудително?",
 	"core_msgbox_init_secondinstance_failed" : "Рестарт НЕуспешен, грешка:",

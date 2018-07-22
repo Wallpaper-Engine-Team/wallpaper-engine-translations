@@ -14,7 +14,6 @@
 	
 	"core_balloon_info" : "היישום כווצה למגש המערכת, לחץ פעמיים על הסמל לבחירת רקע אחר",
 	"core_balloon_desktop_window_error" : "הכנת שולחן העבודה לאפליקציה נכשלה",
-	"core_balloon_video_error" : "תקלת וידאו התאחשה, לחץ עליי לעזרה",
 	"core_balloon_app_error" : "טעינת אפליקציה כרקע נכשלה",
 	
 	"core_msgboxtitle_error" : "תקלה",
@@ -26,11 +25,6 @@
 	"core_msgbox_prompt_aero_win8" : "?היישום לא יכולה לרוץ עם ערכת נושא בעלת ניגודיות גבוהה, לשנות ערכת נושא עכשיו",
 	"core_msgbox_dwm_disabled" : "הרכב שולחן העבודה כבוי",
 	"core_msgbox_aero_denied" : "היישום לא יכולה לעבוד ללא aero ותיסגר עכשיו",
-	"core_msgbox_aero_failure" : "הפעלת aero נכשלה, היישום תיסגר עכשיו",
 	"core_msgbox_aero_failure_no_support" : "הפעלת aero נכשלה, נראה שהינך משתמש בגרסא בסיסית של ווינדוס אשר לא עונה על הדרישות המינימליות של האפליקציה. היישום תיסגר עכשיו",
-	"core_msgbox_init_secondinstance_ask_quit" : "נראה שהיישום כבר רצה ואינה מגיבה, האם להתחיל את האפליקציה מחדש?",
-	"core_msgbox_init_secondinstance_failed" : "הפעלה מחדש נכשלה, קוד תקלה:",
-	"core_msgbox_below_win_7" : "היישום דורשת ווינדוס 7 ומעלה נראה שהמערכת שלך רצה על מערת הפעלה לא נתמכת, האפליקציה עלולה לא לפעול בצורה תקינה",
-	"core_msgbox_media_feature_pack_missing" : "קובץ mfplat.dll חסר, התקן חבילת מדיה בכדי לאפשר וידאו",
-	"core_msgbox_file_inconsistency" : "חוסר עקביות בקבצים נמצאה, הפעל את האפליקציה מחדש. אם תקלה זאת ממשיכה להופיע, בדוק את תקינות הקבצים של התוכנה. האם להפעיל את היישום מחדש?"
+	"core_msgbox_init_secondinstance_failed" : "הפעלה מחדש נכשלה, קוד תקלה:"
 }

@@ -26,7 +26,6 @@
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine nemůže spustit téma s 'vysokým kontrastem'. Obnovit téma nyní?",
 	"core_msgbox_dwm_disabled" : "Kompozice na ploše je vypnutá.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine nemůže pracovat bez Aero a nyní se ukončí.",
-	"core_msgbox_aero_failure" : "Nepovedlo se zapnout Aero. Wallpaper Engine se nyní ukončí.",
 	"core_msgbox_aero_failure_no_support" : "Nepovedlo se zapnout Aero. Zdá se, že používáte edici Windows 7 Start nebo Basic, které npodporují Aero a nesplňují minimální požadavky systému. Wallpaper Engine se nyní ukončí.",
 	"core_msgbox_init_secondinstance_ask_quit" : "Zdá se, že Wallpaper Engine je již spuštěn a neodpovídá.\n\nChcete ho nuceně restartovat?",
 	"core_msgbox_init_secondinstance_failed" : "Restar se nezdařil, kód chyby:",

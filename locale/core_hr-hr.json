@@ -26,7 +26,6 @@
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine ne može raditi sa 'high contrast' temom. Resetiraj temu sada?",
 	"core_msgbox_dwm_disabled" : "Desktop kompozicija je isključena.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine ne može raditi bez Aeroa i sada će se zatvoriti.",
-	"core_msgbox_aero_failure" : "Neuspjeh u uključenju Aeroa. Wallpaper Engine će se zatvoriti.",
 	"core_msgbox_aero_failure_no_support" : "Neuspjeh u uključenju Aeroa. Čini se da koristite Starter ili Basic verziju Windows 7 , koja ne podržava Aero i ne ispunjuje minimalne potrebe sistema . Wallpaper Engine će se zatvoriti.",
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine se čini da radi ali ne reagira .\n\nŽelite li ga ponovno pokrenuti prisilno?",
 	"core_msgbox_init_secondinstance_failed" : "Neuspjeh u ponovnom pokretanju, Kod greške:",

@@ -26,7 +26,6 @@
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine ไม่สามารถทำงานได้กับธีมที่มี 'high contrast' . ตั้งค่าธีมใหม่หรือไม่?",
 	"core_msgbox_dwm_disabled" : "องค์ประกอบเดสก์ทอปถูกปิดใช้งาน",
 	"core_msgbox_aero_denied" : "Wallpaper Engine ไม่สามารถทำงานได้หากไม่เปิดคุณสมบัติโปร่งใส และจะหยุดการทำงาน",
-	"core_msgbox_aero_failure" : "การเปิดใช้งานคุณสมบัติโปร่งใสล้มเหลว. Wallpaper Engine จะหยุดการทำงาน",
 	"core_msgbox_aero_failure_no_support" : "การเปิดใช้งานคุณสมบัติโปร่งใสล้มเหลว. ดูเหมือนว่าคุณจะใช้ Windows 7 แบบเริ่มต้น, มันไม่สนับสนุนคุณสมบัติโปร่งใส. Wallpaper Engine จะปิดการทำงาน",
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine ดูเหมือนจะทำงานอยู่ และไม่ตอบสนอง.\n\nคุณต้องการเริ่มต้นโปรแกรมใหม่เดี๋ยวนี้หรือไม่?",
 	"core_msgbox_init_secondinstance_failed" : "การเริ่มใหม่ล้มเหลว, รหัสความผิดพลาด:",

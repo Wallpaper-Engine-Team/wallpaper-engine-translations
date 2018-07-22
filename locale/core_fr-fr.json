@@ -26,7 +26,6 @@
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine ne peut fonctionner avec un thème 'haute résolution'. Voulez-vous restaurer le thème?",
 	"core_msgbox_dwm_disabled" : "La Composition du Bureau n'est pas activée.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine ne peut fonctionner sans Aero et va maintenant fermer.",
-	"core_msgbox_aero_failure" : "Impossible de démarrer Aero. Wallpaper Engine va maintenant fermer.",
 	"core_msgbox_aero_failure_no_support" : "Impossible de démarrer Aero. Il semble que vous utilisez une version Starter ou Basique de Windows 7 qui ne supporte pas Aero et ne répond pas aux exigences minimales du système. Wallpaper Engine va maintenant fermer.",
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine est déjà en cours d'exécution et ne répond pas.\n\nVoulez-vous forcer son redémarrage?",
 	"core_msgbox_init_secondinstance_failed" : "Echec du redémarrage, code d'erreur:",

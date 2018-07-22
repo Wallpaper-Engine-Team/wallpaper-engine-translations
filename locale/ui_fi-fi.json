@@ -142,8 +142,6 @@
 	"ui_browse_query_sort_friends_favorites" : "Ystävien suosikit",
 	"ui_browse_query_sort_friends_created" : "Ystävien luomat",
 	"ui_browse_query_sort_by_followed_users" : "Seraavien käyttäjien luomat",
-	"ui_browse_query_sort_Kaikkein_up_votes" : "Tykätyin",
-	"ui_browse_query_sort_Kaikkein_subscriptions" : "Tilatuin",
 
 	"ui_settings_playback": "Toisto",
 	"ui_settings_playback_focused" : "Toinen sovellus keskitetty:",
@@ -277,8 +275,6 @@
 	"ui_editor_gizmo_scale" : "Venytä",
 
 	"ui_editor_welcome_modal_new_scene_wallpaper" : "Uusi kohtaus taustakuvaan",
-	"ui_editor_welcome_modal_new_scene3d_wallpaper" : "Uusi 3D-kohtaus taustakuvaan",
-	"ui_editor_welcome_modal_new_scene2d_wallpaper" : "Uusi 2D-kohtaus taustakuvaan",
 	"ui_editor_welcome_modal_new_video_wallpaper" : "Uusi videotaustakuva",
 	"ui_editor_welcome_modal_new_web_wallpaper" : "Uusi nettitaustakuva",
 	"ui_editor_welcome_modal_new_application_wallpaper" : "Uusi sovellus taustakuvaan",
@@ -319,7 +315,6 @@
 	"ui_editor_workshop_options_visibility" : "Näkyvyys",
 	"ui_editor_workshop_options_monetization" : "Kaupallistaminen (Steam Workshop)",
 	"ui_editor_workshop_options_monetization_hint_on" : " (Taustakuva tullaan äänestämään myyntiin.)",
-	"ui_editor_workshop_options_monetization_hint_off" : " (Taustakuva tulee heti saatavaksi, ilmaiseksi.)",
 	"ui_editor_workshop_options_preview_image" : "Esikatsele kuvaa",
 	"ui_editor_workshop_options_missing" : "Puuttuu",
 	"ui_editor_workshop_options_preview_take_snapshot" : "Ota valokuva",

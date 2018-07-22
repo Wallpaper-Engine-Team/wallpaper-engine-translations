@@ -27,7 +27,6 @@
 	"core_msgbox_prompt_high_contrast_was_enabled" : "Wallpaper Engine無法工作，因爲Windows已應用“高對比度”主題。",
 	"core_msgbox_dwm_disabled" : "桌面視窗管理員已經被禁用。",
 	"core_msgbox_aero_denied" : "Wallpaper Engine 無法在沒有 Aero 的環境中執行，程式將終止執行。",
-	"core_msgbox_aero_failure" : "啟動 Aero 失敗。 Wallpaper Engine 將終止執行。",
 	"core_msgbox_aero_failure_no_support" : "無法啟動Aero。 您可能使用 Windows 7 入門版或 Basic 版, 它不支援 Aero。 Wallpaper Engine 將終止執行。",
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine 停止回應。\n\n要強制重啟 Wallpaper Engine嗎?",
 	"core_msgbox_init_secondinstance_failed" : "重新啟動失敗，錯誤代碼:",

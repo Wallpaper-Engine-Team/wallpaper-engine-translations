@@ -26,7 +26,6 @@
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine не може працювати з 'високо контрасною' темою. Скинути тему?",
 	"core_msgbox_dwm_disabled" : "Композиція робочого столу відключена.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine не може працювати юез Aero і тепер закривається.",
-	"core_msgbox_aero_failure" : "Помилка включити Aero. Wallpaper Engine закривається.",
 	"core_msgbox_aero_failure_no_support" : "Помилка включити Aero. Схоже, що Ви використовуєте Початкову або Базову версію Windows 7, яка не підтримує Aero і не виконує мінімальні вимоги до системи. Wallpaper Engine will now quit.",
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine не відповідає.\n\nХоче перезапустити його вручну?",
 	"core_msgbox_init_secondinstance_failed" : "Перезавантаження не вдалося, код помилки:",
