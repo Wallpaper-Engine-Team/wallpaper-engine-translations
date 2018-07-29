@@ -444,7 +444,7 @@
 	"ui_editor_snapshot_instructions" : "1. Dibuja un rectángulo con el mouse.\n2. Presiona ENTER para tomar una captura.\n\nPreciona ESPACIO para pausar.\nPresiona ESCAPE para cancelar.",
 	
 	"ui_editor_workshop_rules_modal_title" : "Reglas de la Workshop",
-	"ui_editor_workshop_rules_modal_body" : "Antes de compartir tu fondo en Workshop, asegurate de que cumpre con las Condiciones y Términos de Uso de Steam, si no es así será eliminado:",
+	"ui_editor_workshop_rules_modal_body" : "Antes de compartir tu fondo en Workshop, asegurate de que cumple con las Condiciones y Términos de Uso de Steam, si no es así será eliminado:",
 	"ui_editor_workshop_rules_modal_list_header" : "En particular, las siguientes reglas se aplican para los fondos, las imágenes previas, y las descripciones:",
 	"ui_editor_workshop_rules_modal_rule_nudity" : "Contenido no pornográfico ni nudismo",
 	"ui_editor_workshop_rules_modal_rule_offensive" : "Contenido no ofensivo o violento/gore",
