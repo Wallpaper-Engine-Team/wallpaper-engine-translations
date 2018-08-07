@@ -2,7 +2,7 @@
 	"ui_caption_browse" : "浏览壁纸",
 	"ui_caption_settings" : "设置",
 	"ui_caption_editor" : "壁纸编辑器",
-
+	
 	"ui_ok" : "确认",
 	"ui_cancel" : "取消",
 	"ui_back" : "返回",
@@ -10,7 +10,7 @@
 	"ui_retry" : "重试",
 	"ui_select" : "选择",
 	"ui_create" : "创建",
-
+	
 	"ui_modal_updaterequired_title" : "Wallpaper Engine 需要更新",
 	"ui_modal_updaterequired_body" : "请关闭 Wallpaper Engine（右键单击通知区域图标选择退出），然后通过 Steam 重新启动 Wallpaper Engine 来获取最新的更新。如果该警告仍然出现，请通过 Steam 验证应用程序的完整性。<br/><br/>程序版本： <b>{{callerVersion}}</b>，UI 版本： <b>{{appVersion}}</b>",
 	"ui_modal_updateavailable_title" : "有可用更新",
@@ -574,7 +574,6 @@
 	"ui_editor_workshop_options_description" : "简介",
 	"ui_editor_workshop_options_tags" : "标签",
 	"ui_editor_workshop_options_genre" : "类型",
-	"ui_editor_workshop_genre_empty" : "< 请选择一个类型 >",
 	"ui_editor_workshop_options_scheme_color" : "色彩方案",
 	"ui_editor_workshop_options_visibility" : "可见性",
 	"ui_editor_workshop_options_monetization" : "盈利（禁用下载）",
