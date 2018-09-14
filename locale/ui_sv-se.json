@@ -103,7 +103,7 @@
 	"ui_settings_gfx_fps" : "FPS:",
 	"ui_settings_gfx_reflections" : "Reflektioner:",
 	"ui_settings_gfx_post_processing" : "Post-processing:",
-	"ui_settings_gfx_fps_warning" : "Hög FPS kan söla ner din PC!",
+	"ui_settings_gfx_fps_warning" : "Hög FPS kan slöa ner din PC!",
 
 	"ui_settings_performance" :  "Prestanda",
 	"ui_settings_general" : "Allmänt",
