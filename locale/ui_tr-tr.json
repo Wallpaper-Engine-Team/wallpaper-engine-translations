@@ -82,6 +82,7 @@
 	"ui_browse_monitors_split_monitor" : "Monitörü Böl: {{name}}",
 	"ui_browse_monitors_group" : "Grupla",
 	"ui_browse_monitors_ungroup" : "Çöz",
+	"ui_browse_monitors_add_group" : "Grup Ekle",
 	"ui_browse_monitors_remove_group" : "Grup Sil",
 	"ui_browse_monitors_horizontal" : "Yatay",
 	"ui_browse_monitors_vertical" : "Dikey",
@@ -147,6 +148,14 @@
 	"ui_browse_playlist_modal_settings_order_sorted" : "Sıralandı",
 	"ui_browse_playlist_modal_settings_timing_label" : "Duvar kağıdını değiştir",
 	"ui_browse_playlist_modal_settings_timing_on_logon" : "Oturum açarken",
+	"ui_browse_playlist_modal_settings_timing_after_5_minutes" : "5 dakika sonra",
+	"ui_browse_playlist_modal_settings_timing_after_10_minutes" : "10 dakika sonra",
+	"ui_browse_playlist_modal_settings_timing_after_30_minutes" : "30 dakika sonra",
+	"ui_browse_playlist_modal_settings_timing_after_60_minutes" : "1 saat sonra",
+	"ui_browse_playlist_modal_settings_timing_after_180_minutes" : "3 saat sonra",
+	"ui_browse_playlist_modal_settings_timing_after_360_minutes" : "6 saat sonra",
+	"ui_browse_playlist_modal_settings_timing_after_720_minutes" : "12 saat sonra",
+	"ui_browse_playlist_modal_settings_timing_after_1440_minutes" : "24 saat sonra",
 	"ui_browse_playlist_modal_settings_video_sequence" : "Sırayla videoları oynat",
 	"ui_browse_playlist_modal_settings_update_on_pause" : "Duraklatıldığında oynatma listesini güncelle",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "Duvar kağıdı geçişini göster",
@@ -289,7 +298,7 @@
 	"ui_welcome_windows_color_header" : "Windows rengini ayarla",
 	"ui_welcome_autostart_description" : "Wallpaper Engine'i Windows'la başlat:",
 	"ui_welcome_autostart_label" : "Otomatik başlat:",
-	"ui_welcome_finish_body" : "Her şey yapılandırıldı! <br/> <br/> Wallpaper Engine artık sistem tepsisinde bulunacak. Bir duvar kağıdı seçmek için <b>çift tıklayın</b>. Steam Atölyesi veya Duvar Kağıdı Düzenleyici ayarlarına erişmek için <b>sağ tıklayın</b>.<div style='height:20px'></div>",
+	"ui_welcome_finish_body" : "Her şey yapılandırıldı! <br/> <br/> Wallpaper Engine artık sistem tepsisinde bulunacak. Bir duvar kağıdı seçmek için <b> çift tıklayın</ b>. Steam Atölyesi veya Duvar Kağıdı Düzenleyici ayarlarına erişmek için <b> sağ tıklayın</ b>. <Div style = 'height: 20px'> </ div> ",
 	"ui_welcome_browse_wallpapers_now" : "Şimdi duvar kağıtlarına göz at",
 	"ui_welcome_button_first_page" : "Haydi başlayalım",
 	"ui_welcome_button_next_page" : "Sonraki",
@@ -339,6 +348,8 @@
 	"ui_editor_gizmo_scale" : "Ölçekle",
 
 	"ui_editor_welcome_modal_new_scene_wallpaper" : "Yeni Duvar Kağıdı",
+	"ui_editor_welcome_modal_new_scene3d_wallpaper" : "Yeni 3D Duvar Kağıdı",
+	"ui_editor_welcome_modal_new_scene2d_wallpaper" : "Yeni 2D Duvar Kağıdı",
 	"ui_editor_welcome_modal_new_video_wallpaper" : "Yeni Video Duvar Kağıdı",
 	"ui_editor_welcome_modal_new_web_wallpaper" : "Yeni Ağ Duvar Kağıdı",
 	"ui_editor_welcome_modal_new_application_wallpaper" : "Yeni Uygulama Duvar Kağıdı",
@@ -378,10 +389,12 @@
 	"ui_editor_workshop_options_description" : "Açıklama",
 	"ui_editor_workshop_options_tags" : "Etiketler",
 	"ui_editor_workshop_options_genre" : "Tür",
+	"ui_editor_workshop_genre_empty" : "< Bir tür seçin >",
 	"ui_editor_workshop_options_scheme_color" : "Şema rengi",
 	"ui_editor_workshop_options_visibility" : "Görünürlük",
 	"ui_editor_workshop_options_monetization" : "Para kazanma (İndirmeyi Devre Dışı Bırakır)",
 	"ui_editor_workshop_options_monetization_hint_on" : " (Duvar kağıdı sadece mağazada satılacak.)",
+	"ui_editor_workshop_options_monetization_hint_off" : " (Duvar kağıdı hemen kullanılabilir, ücretsiz olacak.)",
 	"ui_editor_workshop_options_preview_image" : "Önizleme Resmi",
 	"ui_editor_workshop_options_missing" : "Kayıp",
 	"ui_editor_workshop_options_preview_take_snapshot" : "Ekran görüntüsü al",
@@ -576,6 +589,8 @@
 	"ui_editor_preset_ember_description" : "Yükselen kor parçacıkları.",
 	"ui_editor_preset_spark_title" : "Kıvılcım",
 	"ui_editor_preset_spark_description" : "Seyrek kıvılcım.",
+	"ui_editor_preset_fireflies_particles_title" : "Ateşböcekleri",
+	"ui_editor_preset_fireflies_particles_description" : "Fare imlecinden kaçınan yavaş yavaş hareket eden ateşböcekleri",
 	"ui_editor_preset_fireworks_title" : "Havai fişek",
 	"ui_editor_preset_fireworks_description" : "Daha fazla havai fişek yayıcı.",
 	"ui_editor_preset_fog_title" : "Sis",
@@ -998,7 +1013,8 @@
 	"ui_rating_table_hardcore_sexual_acts" : "Cinsel içerikler",
 	
 	"ui_editor_filemenu_apply_wallpaper" : "Duvar Kağıdını Onayla",
-
+	
+	"ui_workshop_tags_furry" : "Kürklü",
 	"ui_workshop_tags_girls" : "Kızlar",
 	"ui_workshop_tags_guys" : "Adamlar",
 	"ui_workshop_tags_sports" : "Spor",
@@ -1013,7 +1029,7 @@
 	"ui_browse_download_header" : "Atölye'den indiriliyor",
 	"ui_browse_download_pending" : "Kuyrukta",
 	
-	"ui_settings_disable_slideshow" : "Sistemden duvar kağıdını sil:",
+	"ui_settings_disable_slideshow" : "Windows duvar kağıdı solmasını kaldır:",
 	
 	"ui_editor_filemenu_import_sound" : "Sesi içeriye aktar",
 	
@@ -1145,6 +1161,10 @@
 	"ui_editor_properties_edges" : "Kenarlar",
 	"ui_editor_properties_noise_smoothness" : "Gürültü Düzgünlüğü",
 	"ui_editor_properties_quality" : "Kalite",
+	"ui_workshop_tags_soldier" : "Asker",
+	"ui_workshop_tags_cat" : "Kedi",
+	"ui_workshop_tags_dog" : "Köpek",
+	"ui_workshop_tags_samurai" : "Samuray",
 	"ui_browse_explore_category_creator_genre_recent" : "<b>{{user}}</b>'in Son <b>{{genre}}</b> duvar kağıtları",
 	"ui_browse_explore_category_creator_genre_popular" : "<b>{{user}}</b>'in Popüler <b>{{genre}}</b> duvar kağıtları",
 	
@@ -1179,5 +1199,57 @@
 	"ui_editor_particle_element_initializer_mapsequencearoundcontrolpoint" : "Denetim noktası etrafında harita sırası",
 	"ui_editor_particle_element_initializer_mapsequencebetweencontrolpoints" : "Denetim noktaları arasında harita sırası",
 	"ui_editor_particle_element_renderer_rope" : "Halat",
-	"ui_editor_particle_element_renderer_ropetrail" : "Halat izi"
+	"ui_editor_particle_element_renderer_ropetrail" : "Halat izi",
+	"ui_create" : "Oluştur",
+	
+	"ui_settings_playback_application_rules" : "Uygulama kuralları:",
+	"ui_settings_playback_application_rules_header" : "Uygulama Kuralları",
+	"ui_settings_playback_application_rules_edit" : "Düzenle",
+	"ui_settings_playback_active_rules" : "Aktif Kurallar",
+	"ui_settings_playback_new_rule" : "Yeni kural oluştur",
+	"ui_settings_playback_new_rule_application_name" : "Uygulama ismi",
+	"ui_settings_playback_new_rule_condition" : "Koşul",
+	"ui_settings_playback_new_rule_action" : "Duvar kağıdını yeniden oynat",
+	"ui_settings_playback_condition_is_running" : "Çalışıyor",
+	"ui_settings_playback_condition_is_focused" : "Odaklanıyor",
+	"ui_settings_playback_condition_is_maximized" : "Maksimize ediliyor",
+	"ui_settings_playback_condition_is_fullscreen" : "Tam ekran",
+	"ui_settings_playback_condition_is_playing_audio" : "Ses oynatılıyor",
+	"ui_settings_playback_rule_remove" : "Kaldır",
+	"ui_settings_playback_rule_edit" : "Düzenle",
+	
+	"ui_settings_advanced_unpause_during_aero_peek" : "Aero Peek sırasında duraklama:",
+	
+	"ui_settings_about_changelog" : "Değişiklikler",
+	
+	"ui_settings_playback_stop_all" : "Hepsini durdur",
+	"ui_settings_playback_stop_per_monitor" : "Monitör başına durdur",
+	
+	"ui_editor_filemenu_close_wallpaper" : "Projeyi Kapat",
+	
+	"ui_editor_context_menu_lock" : "Kilitle",
+	"ui_editor_context_menu_unlock" : "Kilidi Aç",
+	
+	"ui_editor_properties_locked" : "Kilitli",
+	
+	"ui_editor_properties_playback_rate" : "Oynatma hızı",
+	
+	"ui_editor_particle_element_count" : "Sayısı",
+	
+	"ui_editor_particle_element_not_more_than_one_per_frame" : "Kare başına limit",
+	
+	"ui_browse_playlist_modal_settings_timing_on_timer" : "Bir zamanlayıcıda",
+	"ui_browse_playlist_modal_settings_timing_on_logon" : "Giriş yaparken",
+	"ui_browse_playlist_modal_settings_timing_daytime" : "Günün saati",
+	"ui_browse_playlist_modal_settings_timing_never" : "Asla",
+	"ui_browse_playlist_modal_settings_timing_hours" : "Saatler",
+	"ui_browse_playlist_modal_settings_timing_minutes" : "Dakikalar",
+	
+	"ui_browse_playlist_modal_settings_daytime_clock" : "Saat",
+	"ui_browse_playlist_modal_settings_clock_12" : "12 Saat",
+	"ui_browse_playlist_modal_settings_clock_24" : "24 Saat",
+	
+	"ui_browse_context_menu_replace_with_selection" : "Seçilenle değiştir"
+	
+	
 }
