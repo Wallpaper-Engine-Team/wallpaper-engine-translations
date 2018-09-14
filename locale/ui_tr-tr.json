@@ -1239,7 +1239,6 @@
 	"ui_editor_particle_element_not_more_than_one_per_frame" : "Kare başına limit",
 	
 	"ui_browse_playlist_modal_settings_timing_on_timer" : "Bir zamanlayıcıda",
-	"ui_browse_playlist_modal_settings_timing_on_logon" : "Giriş yaparken",
 	"ui_browse_playlist_modal_settings_timing_daytime" : "Günün saati",
 	"ui_browse_playlist_modal_settings_timing_never" : "Asla",
 	"ui_browse_playlist_modal_settings_timing_hours" : "Saatler",
