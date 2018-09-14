@@ -83,5 +83,5 @@
 	"core_updater_prompt_close" : "Wallpaper Engineは動作中です, 最初に閉じてください.",
 	"core_updater_prompt_close_foreign" : "Wallpaper Engineの更新を続行できません。続行するにはこれらのプログラムを終了してください:",
 	"core_updater_status_directx_not_supported_title" : "DirectX 10はサポートされていません。",
-	"core_updater_status_directx_not_supported_body" : "あなたのグラフィックカードはDirectX 10に対応していないか、ドライバに問題があります。Wallpaper EngineはDirectX 10が必要です。/n/nもし対応している場合は、グラフィックカードの問題またはドライバの再インストールが必要です。ハードウェアの提供元からドライバを再インストールすると、解決する可能性があります。"
+	"core_updater_status_directx_not_supported_body" : "あなたのグラフィックカードはDirectX 10に対応していないか、ドライバに問題があります。Wallpaper EngineはDirectX 10が必要です。\n\nもし対応している場合は、グラフィックカードの問題またはドライバの再インストールが必要です。ハードウェアの提供元からドライバを再インストールすると、解決する可能性があります。"
 }
