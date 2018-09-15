@@ -833,7 +833,6 @@
 	"ui_editor_properties_normal" : "Нормальная",
 	"ui_editor_properties_nothing_to_configure" : "Нечего настраивать",
 	"ui_editor_properties_offset" : "Отступ",
-	"ui_editor_properties_offset" : "Смещение",
 	"ui_editor_properties_opacity_mask" : "Маска непрозрачности",
 	"ui_editor_properties_operator_blending" : "Смещение оператора",
 	"ui_editor_properties_origin" : "Начало",
