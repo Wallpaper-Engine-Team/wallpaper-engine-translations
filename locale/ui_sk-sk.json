@@ -907,7 +907,6 @@
 	"ui_editor_properties_frames" : "Snímky",
 	"ui_editor_properties_elliptical" : "Eliptické",
 	"ui_editor_properties_ratio" : "Pomer",
-	"ui_editor_properties_axis" : "Os",
 	"ui_editor_properties_perspective_warp" : "Zahnutie perspektívy",
 	"ui_editor_properties_perspective_padding" : "perspektívne polstrovanie",
 
@@ -917,7 +916,6 @@
 	"ui_editor_properties_sequence" : "Sekvencia",
 	"ui_editor_properties_sequence_multiplier" : "Násobiteľ sekvencie",
 	"ui_editor_properties_random_frame" : "Rôzna snímka",
-	"ui_editor_properties_perspective" : "Perspektíva",
 	
 	"ui_browse_no_service_header" : "Steamové služby nedostupné",
 	"ui_browse_no_service_body" : "<b>STEAM</b> Workshop služby sú momentálne nedostupné. Toto <i>nie je</i> chyba vo Wallpaper Engine. Prosím počkajte niekoľko hodín a skúste znova.<br/><br/>Problém je so <b>STEAM</b> servermi a bude skoro vyriešený.",
