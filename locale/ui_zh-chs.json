@@ -1087,7 +1087,6 @@
 	"ui_editor_properties_write_alpha" : "写入透明度",
  	"ui_editor_properties_animation_mode" : "动画模式",
  	"ui_editor_properties_no_frame_blending" : "禁止帧融合",
- 	"ui_editor_properties_perspective" : "透视",
  	"ui_editor_properties_random_frame" : "随机帧",
  	"ui_editor_properties_sequence" : "连续镜头",
  	"ui_editor_properties_sequence_multiplier" : "连续镜头倍增",
