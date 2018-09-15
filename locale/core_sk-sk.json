@@ -56,7 +56,7 @@
 	"core_updater_status_verify_hash_failed" : "Nepodarilo sa overenie súboru: {{filepath}}",
 	"core_updater_status_verify_success" : "Overenie súboru: {{filepath}}",
 	"core_updater_status_verify_failed_message_box_title" : "Chyby s overovaním súborov",
-	"core_updater_status_verify_failed_message_box_body" : "Uistite sa že aplikácia je zavretá pri aktualizovaní (Vypnite cez ikonku na lište alebo správcu úloh ak je potreba). Overenie nasledujúcich súborov zlyhalo. Prosím súbory overte cez Steam (kliknite pravým, vlastnosti, miestne súbory, overiť). Toto sa môže stať kvôli chybám v sťahovaní na Steame alebo anti-vírusovým programom nepravdivo detekujúcim súbory a spôsobujúcim problémy. Keď máte anti-vírus, ktorý nie je od Microsoftu, uistite sa, že nezasahuje do Wallpaper Engine a do Steamu.\n\n{{filenames}}",
+	"core_updater_status_verify_failed_message_box_body" : "Vyzeráto že niektoré súbory pre Wallpaper Engine nemohli byť nainštalované. Toto sa môže stať kvôli chybám pri sťahovaní v Steamu alebo anti-vírus programom nesprávnym detekovaním súborov a spôsobením problémov. Ak máte anti-vírus ktorý nie je od Microsoft, uistite sa že neprekáža Steamu a Wallpaper Engine.\n\nUistite sa že aplikácia nebeží počas aktualizovania (vypnize cez lištovú ikonku alebo správcu úloh ak treba) a žiadny anti-vírus nebráni vášmu počítaču aby správne pracoval.",
 	"core_updater_status_compat" : "Hladanie nekompatibilných verzií...",
 	"core_updater_status_compat_error" : "Nepodarilo sa oskenovať procesy",
 	"core_updater_status_compat_found" : "Nalezené nekompatibilné proces: {{processname}}",
@@ -71,6 +71,7 @@
 	"core_updater_headline_cancelled" : "Nastavovanie zrušené.",
 
 	"core_updater_status_distro_prepare_error" : "Boost chyba pri skenovaní adresára {{error}}",
+	"core_updater_status_distro_copy_error" : "Boost chyba pri kopírovaní súborov",
 
 	"core_updater_status_cancelled" : "Proces bol zrušený užívateľom",
 
@@ -91,5 +92,9 @@
 
 	"core_balloon_wallpaper_file_missing" : "Toto pozadie nemôže byť otvorené, pretože mu chýbajú súbory.",
 
-	"core_updater_status_distro_file_skip" : "Preskakujem rovnaký súbor: {{filepath}}"
+	"core_updater_status_distro_file_skip" : "Preskakujem rovnaký súbor: {{filepath}}",
+
+	"core_tray_saved_playlists" : "Uložené playlisty",
+
+	"core_tray_saved_profiles" : "Uložené profily"
 }
