@@ -634,7 +634,7 @@
 	"ui_browse_context_menu_remove" : "Sil",
 	"ui_browse_context_menu_remove_folder" : "Klasörü Sil",
 	"ui_browse_context_menu_rename" : "Yeniden Adlandır",
-	"ui_browse_context_menu_replace_with_selection" : "Seçilenle değiştir"
+	"ui_browse_context_menu_replace_with_selection" : "Seçilenle değiştir",
 	"ui_browse_context_menu_report" : "Şikayet Et",
 	"ui_browse_details_author_pending" : "< Bekliyor >",
 	"ui_browse_details_btn_report" : "Şikayet Et",
@@ -1146,5 +1146,5 @@
 	"ui_workshop_tags_visibility_private" : "Özel",
 	"ui_workshop_tags_visibility_public" : "Genel",
 	"ui_workshop_workshop_tags_rating" : "Yaş Derecelendirmesi",
-	"ui_workshop_workshop_tags_rating_not_set" : "< Ayarlı değil >",
+	"ui_workshop_workshop_tags_rating_not_set" : "< Ayarlı değil >"
 }
