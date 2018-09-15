@@ -1148,7 +1148,6 @@
 	"ui_editor_particle_element_renderer_ropetrail" : "绳索拖尾",
 	"ui_editor_particle_element_renderer_sprite" : "精灵",
 	"ui_editor_particle_element_renderer_spritetrail" : "精灵拖尾",
-	"ui_editor_particle_element_audio_response" : "音频响应",
 
 	"ui_editor_particle_example_basic" : "基本",
 	"ui_editor_particle_example_cursor_follow" : "跟随光标",

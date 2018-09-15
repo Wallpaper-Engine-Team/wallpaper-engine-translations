@@ -1161,7 +1161,6 @@
 	"ui_editor_particle_element_renderer_ropetrail" : "ロープトレイル",
 	"ui_editor_particle_element_renderer_sprite" : "スプライト",
 	"ui_editor_particle_element_renderer_spritetrail" : "スプライトトレイル",
-	"ui_editor_particle_element_audio_response" : "オーディオレスポンス",
 
 	"ui_editor_particle_example_basic" : "基本",
 	"ui_editor_particle_example_cursor_follow" : "カーソルに従う",

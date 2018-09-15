@@ -1198,7 +1198,6 @@
 	"ui_editor_particle_element_renderer_ropetrail" : "Rope trail",
 	"ui_editor_particle_element_renderer_sprite" : "Sprite",
 	"ui_editor_particle_element_renderer_spritetrail" : "Sprite trail",
-	"ui_editor_particle_element_audio_response" : "Audio response",
 	
 	"ui_editor_particle_example_basic" : "Basic",
 	"ui_editor_particle_example_cursor_follow" : "Follow cursor",

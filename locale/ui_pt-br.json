@@ -688,7 +688,6 @@
 
 	"ui_editor_properties_frequency_end" : "Final de frequência",
 	"ui_editor_properties_frequency_start" : "Início de freqüência",
-	"ui_editor_properties_audio_response" : "Resposta de áudio",
 
 	"ui_editor_import_adjust_projection_center" : "Ajustar tamanho do plano de fundo e centralizar"
 }
