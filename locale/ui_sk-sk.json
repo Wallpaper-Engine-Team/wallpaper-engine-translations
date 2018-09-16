@@ -55,7 +55,7 @@
 	"ui_browse_monitors_monitors" : "Monitory",
 	"ui_browse_monitors_change_wallpaper" : "Zmeniť pozadie",
 	"ui_browse_monitors_remove_wallpaper" : "Odstrániť pozadie",
-	"ui_browse_monitors_layout_per_monitor" : "Pozadie za monitor",
+	"ui_browse_monitors_layout_per_monitor" : "Pozadie pre monitor",
 	"ui_browse_monitors_layout_fit" : "Roztiahnuť jedno pozadie",
 	
 	"ui_browse_sort_name" : "Meno",
@@ -1225,5 +1225,95 @@
 	"ui_editor_particle_element_initializer_mapsequencearoundcontrolpoint" : "Mapové sekvencie okolo kontrolného bodmu",
 	"ui_editor_particle_element_initializer_mapsequencebetweencontrolpoints" : "Mapové sekvencie medzi kontrolnými bodami",
 	"ui_editor_particle_element_renderer_rope" : "Lano",
-	"ui_editor_particle_element_renderer_ropetrail" : "Lanový pás"
+	"ui_editor_particle_element_renderer_ropetrail" : "Lanový pás",
+
+	"ui_create" : "Vytvoriť",
+	
+	"ui_settings_playback_application_rules" : "Pravidlá aplikácie:",
+	"ui_settings_playback_application_rules_header" : "Pravidlá aplikácie",
+	"ui_settings_playback_application_rules_edit" : "Upraviť",
+	"ui_settings_playback_active_rules" : "Aktívne pravidlá",
+	"ui_settings_playback_new_rule" : "Vytvoriť nové pravidlo",
+	"ui_settings_playback_new_rule_application_name" : "Meno aplikácie",
+	"ui_settings_playback_new_rule_condition" : "Kondícia",
+	"ui_settings_playback_new_rule_action" : "Wallpaper playback",
+	"ui_settings_playback_condition_is_running" : "Beží",
+	"ui_settings_playback_condition_is_focused" : "Je zaostrená",
+	"ui_settings_playback_condition_is_maximized" : "Je maximalizovaná",
+	"ui_settings_playback_condition_is_fullscreen" : "Je fullscreen",
+	"ui_settings_playback_condition_is_playing_audio" : "Prehráva zvuk",
+	"ui_settings_playback_rule_remove" : "Odstrániť",
+	"ui_settings_playback_rule_edit" : "Upraviť",
+	
+	"ui_settings_advanced_unpause_during_aero_peek" : "Spustiť počas Aero Peek:",
+	
+	"ui_settings_about_changelog" : "Log zmien",
+	
+	"ui_settings_playback_stop_all" : "Zastaviť všetko",
+	"ui_settings_playback_stop_per_monitor" : "Zastaviť pre monitor",
+	
+	"ui_editor_filemenu_close_wallpaper" : "Zavrieť projekt",
+	
+	"ui_editor_context_menu_lock" : "Zamknúť",
+	"ui_editor_context_menu_unlock" : "Odomknúť",
+	
+	"ui_editor_properties_locked" : "Zamknuté",
+	
+	"ui_editor_properties_playback_rate" : "Playback rate",
+	
+	"ui_editor_particle_element_count" : "Počet",
+	
+	"ui_editor_particle_element_not_more_than_one_per_frame" : "Limitovať na jednu za snímku",
+
+	"ui_browse_playlist_modal_settings_timing_on_timer" : "Na časovač",
+	"ui_browse_playlist_modal_settings_timing_daytime" : "Čas dňa",
+	"ui_browse_playlist_modal_settings_timing_never" : "Nikdy",
+	"ui_browse_playlist_modal_settings_timing_hours" : "Hodiny",
+	"ui_browse_playlist_modal_settings_timing_minutes" : "Minúty",
+	
+	"ui_browse_playlist_modal_settings_daytime_clock" : "Hodiny",
+	"ui_browse_playlist_modal_settings_clock_12" : "12 Hodín",
+	"ui_browse_playlist_modal_settings_clock_24" : "24 Hodín",
+	
+	"ui_browse_context_menu_replace_with_selection" : "Vymeniť s výberom",
+
+	"ui_browse_monitors_save_profile" : "Uložiť profil",
+	"ui_browse_monitors_load_profile" : "Načítať profil",
+	
+	"ui_browse_profiles_modal_open_header" : "Načítať profil",
+	"ui_browse_profiles_modal_save_header" : "Uložiť profil",
+	"ui_browse_profiles_modal_save_name" : "Meno", 
+	"ui_browse_profiles_modal_save_description" : "Ak profil s tým istým menom existuje, bude prepísaný.",
+	
+	"ui_browse_context_menu_hotkey" : "Klávesová skratka",
+	"ui_browse_context_menu_assign_hotkey" : "Priradiť KS",
+	"ui_browse_context_menu_remove_hotkey" : "Odstrániť KS",
+	
+	"ui_browse_modal_hotkey_assign_wallpaper" : "Priradiť KS k pozadiu {{name}}",
+	"ui_browse_modal_hotkey_assign_playlist" : "Priradiť KS k playlistu {{name}}",
+	"ui_browse_modal_hotkey_assign_profile" : "Priradiť KS k profilu {{name}}",
+	"ui_browse_modal_hotkey_enter_hotkey" : "Zadajte KS:",
+	
+	"ui_settings_hotkeys" : "Klávesové skratky:",
+	"ui_settings_hotkeys_header" : "Klávesové skratky",
+	"ui_settings_hotkeys_group_playback" : "Prehrávanie",
+	"ui_settings_hotkeys_group_general" : "Všeobecné",
+	"ui_settings_hotkeys_group_windows" : "Windows",
+	"ui_settings_hotkeys_group_wallpaper" : "Zmeniť pozadie",
+	"ui_settings_hotkeys_group_wallpaper_stub" : "Môžete priradiť klávesové skratky k pozadiam, playilistom alebo profilom v prehliadači pozadí.",
+	"ui_settings_hotkeys_action_pause" : "Pozastaviť pozadia",
+	"ui_settings_hotkeys_action_stop" : "Zastaviť pozadia",
+	"ui_settings_hotkeys_action_mute" : "Stíšiť pozadia",
+	"ui_settings_hotkeys_action_recording" : "Prepnúť nahrávanie zvuku",
+	"ui_settings_hotkeys_action_hide_icons" : "Skryť ikonky na ploche",
+	"ui_settings_hotkeys_action_take_screenshot" : "Screenshot",
+	"ui_settings_hotkeys_action_next_wallpaper" : "Ďalšie pozadie",
+	"ui_settings_hotkeys_action_window_browser" : "Prehliadať pozadia",
+	"ui_settings_hotkeys_action_window_settings" : "Nastavenia",
+	"ui_settings_hotkeys_action_window_editor" : "Editor",
+	"ui_settings_hotkeys_action_user_wallpaper" : "Vybrať pozadie",
+	"ui_settings_hotkeys_action_user_playlist" : "Vybrať playlist",
+	"ui_settings_hotkeys_action_user_profile" : "Vybrať profil",
+	"ui_settings_hotkeys_modal_prompt_override_header" : "Prenastaviť KS",
+	"ui_settings_hotkeys_modal_prompt_override_body" : "Táto klávesa už je nastavená na '{{action}}'. Chcete ju nastaviť sem?"
 }
