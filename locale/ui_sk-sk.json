@@ -1266,7 +1266,6 @@
 	"ui_editor_particle_element_not_more_than_one_per_frame" : "Limitovať na jednu za snímku",
 
 	"ui_browse_playlist_modal_settings_timing_on_timer" : "Na časovač",
-	"ui_browse_playlist_modal_settings_timing_on_logon" : "Pri prihlasovaní sa",
 	"ui_browse_playlist_modal_settings_timing_daytime" : "Čas dňa",
 	"ui_browse_playlist_modal_settings_timing_never" : "Nikdy",
 	"ui_browse_playlist_modal_settings_timing_hours" : "Hodiny",
