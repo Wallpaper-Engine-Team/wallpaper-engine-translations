@@ -1260,10 +1260,6 @@
 	"ui_editor_properties_locked" : "Zamknuté",
 	
 	"ui_editor_properties_playback_rate" : "Playback rate",
-	
-	"ui_editor_particle_element_count" : "Počet",
-	
-	"ui_editor_particle_element_not_more_than_one_per_frame" : "Limitovať na jednu za snímku",
 
 	"ui_browse_playlist_modal_settings_timing_on_timer" : "Na časovač",
 	"ui_browse_playlist_modal_settings_timing_daytime" : "Čas dňa",
