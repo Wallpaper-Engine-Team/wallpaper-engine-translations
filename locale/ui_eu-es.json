@@ -62,7 +62,6 @@
 	"ui_browse_details_properties_share_json" : "Partekatu JSON-a",
 
 	"ui_browse_footer_btn_workshop" : "Steam Workshop",
-	"ui_browse_footer_btn_workshop_in_app" : "Aplikazioan",
 	"ui_browse_footer_btn_store" : "Steam Denda",
 	"ui_browse_footer_btn_open_from_file" : "Zabaldu fitxategitik",
 	"ui_browse_footer_btn_open_from_url" : "Zabaldu URL-tik",
@@ -111,7 +110,6 @@
 	"ui_browse_filter_source_official" : "Ofiziala",
 	"ui_browse_filter_source_workshop" : "Workshop",
 	"ui_browse_filter_source_my_wallpapers" : "Nire Horma-paperak",
-	"ui_browse_filter_parse_title" : "Filtro izenburua",
 
 	"ui_browse_modal_application_warning_header" : "Aplikazio ezezaguna zabaltzen",
 	"ui_browse_modal_application_warning_body" : "Aplikazio ezezagun bat horma-paper bezala zabaltzera zoaz: <br/><b>{{filepath}}</b><br/>Wallpaper Engine ez du kontrolik fitxategi honen gainean, bere jatorria fidagarria dela ziurtatu.<br/><br/>ZURE ORDENAGAILUA KALTETU DEZAKE.",
@@ -164,7 +162,6 @@
 	"ui_browse_preset_modal_paste" : "Itsatsi",
 	"ui_browse_preset_modal_show_all" : "Erakutsi dena",
 
-	"ui_browse_list_source_title" : "Bilatzen:",
 	"ui_browse_list_source_installed" : "Instalatuak",
 	"ui_browse_list_source_workshop" : "Workshopekoak",
 
@@ -232,8 +229,6 @@
 	"ui_browse_report_modal_category_spam_description" : "Horma-paper hau salatzen ari zara bere egilea spameatzen ari delako.",
 	"ui_browse_report_modal_category_offensive" : "Bidalketa iraingarria",
 	"ui_browse_report_modal_category_offensive_description" : "Horma-paper hau salatzen ari zara iraingarria delako. Ez erabili aukera hau nudismoa salatzeko eta aukeratu 'kalifikazio desegokia' kasu horretarako.",
-	"ui_browse_report_modal_category_notanimated" : "Ez animatua",
-	"ui_browse_report_modal_category_notanimated_description" : "Horma-paper hau salatzen ari zara animaziorik ez edukitzeagatik, horma-paperak errazago aurkitzeko lekuz aldatuko da.",
 	"ui_browse_report_modal_notes" : "Notak",
 	"ui_browse_report_modal_success" : "Salaketa bidalita!",
 	"ui_browse_report_modal_error" : "Salaketa ez da bidali. Zerbitzaria erorita egon daiteke, ezin da konektatu edo mantenimendu lanetan dago. Saiatu berriro beranduago.",
@@ -437,7 +432,6 @@
 	"ui_editor_template_wizard_details" : "Zehaztasunak",
 	"ui_editor_template_wizard_last_import" : "Azken inportazioa:",
 	"ui_editor_template_wizard_import_image" : "Inportatu irudia",
-	"ui_editor_template_wizard_compiling_assets_for" : "Baliabideak konpilatzen...",
 
 	"ui_editor_publish_modal_header" : "Publikatu Workshop-en",
 	"ui_editor_publish_modal_header_upload" : "Steam-era igotzen",

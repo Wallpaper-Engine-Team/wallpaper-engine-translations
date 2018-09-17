@@ -84,7 +84,6 @@
 	"ui_browse_filter_resolution" : "Rozdzielczość",
 	"ui_browse_filter_type" : "Typ",
 	"ui_browse_filter_source" : "Źródło",
-	"ui_browse_filter_parse_title" : "Filtruj tytuł",
 	"ui_browse_filter_tags" : "Tagi",
 	"ui_browse_grid_no_results" : "Żadna tapeta nie spełnia kryteriów wyszukiwania",
 	"ui_browse_grid_no_results_refreshing" : "Oczekiwanie na odpowiedź Steam...",
@@ -235,7 +234,6 @@
 	"ui_browse_profiles_modal_save_name" : "Nazwa", 
 	"ui_browse_profiles_modal_save_description" : "Jeżeli istnieje profil z taką samą nazwą, zostanie on nadpisany.",
 	
-	"ui_browse_list_source_title" : "Wyszukiwanie:",
 	"ui_browse_list_source_installed" : "Zainstalowane",
 	"ui_browse_list_source_workshop" : "Warsztat",
 	"ui_browse_list_source_explore" : "Odkryj",
@@ -451,7 +449,6 @@
 	"ui_editor_template_wizard_details" : "Detale",
 	"ui_editor_template_wizard_last_import" : "Ostatnio zaimportowany plik:",
 	"ui_editor_template_wizard_import_image" : "Importuj obraz",
-	"ui_editor_template_wizard_compiling_assets_for" : "Kompilowanie zasobów dla",
 
 	"ui_editor_publish_modal_header" : "Publikacja do Warsztatu",
 	"ui_editor_publish_modal_header_upload" : "Wysyłanie do Steam",

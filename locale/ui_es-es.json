@@ -59,7 +59,6 @@
 	"ui_browse_details_properties_share_json" : "Compartir JSON",
 	
 	"ui_browse_footer_btn_workshop" : "Buscar en Workshop",
-	"ui_browse_footer_btn_workshop_in_app" : "Buscar en la aplicación",
 	"ui_browse_footer_btn_store" : "Buscar en la tienda",
 	"ui_browse_footer_btn_open_from_file" : "Abrir desde archivo",
 	"ui_browse_footer_btn_open_from_url" : "Abrir desde URL",
@@ -107,7 +106,6 @@
 	"ui_browse_filter_source_official" : "Oficial",
 	"ui_browse_filter_source_workshop" : "Workshop",
 	"ui_browse_filter_source_my_wallpapers" : "Mis fondos",
-	"ui_browse_filter_parse_title" : "Filtrar título",
 	
 	"ui_browse_modal_application_warning_header" : "Abriendo aplicación desconocida",
 	"ui_browse_modal_application_warning_body" : "Estás por abrir una aplicación externa desconocida como fondo: <br/><b>{{filepath}}</b><br/>Wallpaper Engine no tiene control sobre este archivo, debes asegurarte que es de un origen confiable antes de proseguir.<br/><br/>PODRÍA PERJUDICAR TU ORDENADOR.",
@@ -160,7 +158,6 @@
 	"ui_browse_preset_modal_paste" : "Pegar",
 	"ui_browse_preset_modal_show_all" : "Mostar todo",
 	
-	"ui_browse_list_source_title" : "Buscar en:",
 	"ui_browse_list_source_installed" : "Instalados",
 	"ui_browse_list_source_workshop" : "Workshop",
 	
@@ -368,7 +365,6 @@
 	"ui_editor_template_wizard_details" : "Detalles",
 	"ui_editor_template_wizard_last_import" : "Última importación:",
 	"ui_editor_template_wizard_import_image" : "Importar imagen",
-	"ui_editor_template_wizard_compiling_assets_for" : "Compilación de recursos para",
 	
 	"ui_editor_publish_modal_header" : "Publicar en Workshop",
 	"ui_editor_publish_modal_header_upload" : "Subiendo a Steam",

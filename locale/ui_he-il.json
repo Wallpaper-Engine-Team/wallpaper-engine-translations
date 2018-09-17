@@ -258,7 +258,6 @@
 	"ui_editor_template_wizard_details" : "פרטים",
 	"ui_editor_template_wizard_last_import" : "יובא לאחרונה:",
 	"ui_editor_template_wizard_import_image" : "ייבא תמונה",
-	"ui_editor_template_wizard_compiling_assets_for" : "מכין נכסים עבור",
 	
 	"ui_editor_publish_modal_header" : "פרסם לסדנה",
 	"ui_editor_publish_modal_header_upload" : "מעלה ל-Steam",

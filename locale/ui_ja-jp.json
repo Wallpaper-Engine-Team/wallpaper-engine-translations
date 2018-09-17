@@ -70,7 +70,6 @@
 	"ui_browse_details_properties_share_json" : "JSON共有",
 
 	"ui_browse_footer_btn_workshop" : "Workshop閲覧",
-	"ui_browse_footer_btn_workshop_in_app" : "In-App",
 	"ui_browse_footer_btn_store" : "Store閲覧",
 	"ui_browse_footer_btn_open_from_file" : "ファイルから開く",
 	"ui_browse_footer_btn_open_from_url" : "URLから開く",
@@ -125,7 +124,6 @@
 	"ui_browse_filter_source_official" : "オフィシャル",
 	"ui_browse_filter_source_workshop" : "Workshop",
 	"ui_browse_filter_source_my_wallpapers" : "マイ壁紙",
-	"ui_browse_filter_parse_title" : "タイトルフィルター",
 
 	"ui_browse_modal_application_warning_header" : "不明なアプリケーションを開く",
 	"ui_browse_modal_application_warning_body" : "未知の外部アプリケーションを壁紙として開こうとしています: <br/><b>{{filepath}}</b><br/>Wallpaper Engineはこのファイルを制御できません。続行する前に、信頼できるソースからのものであることを確認する必要があります。<br/><br/>それは、あなたのコンピュータを害するかもしれません。",
@@ -187,7 +185,6 @@
 	"ui_browse_preset_modal_paste" : "ペースト",
 	"ui_browse_preset_modal_show_all" : "すべて表示",
 	
-	"ui_browse_list_source_title" : "ブラウジング:",
 	"ui_browse_list_source_installed" : "インストール済み",
 	"ui_browse_list_source_workshop" : "Workshop",
 	"ui_browse_list_source_explore" : "発見",
@@ -304,8 +301,6 @@
     "ui_browse_report_modal_category_spam_description" : "壁紙をスパムだとして報告します。",
     "ui_browse_report_modal_category_offensive" : "攻撃的な投稿",
     "ui_browse_report_modal_category_offensive_description" : "攻撃な壁紙だとして報告します。",
-    "ui_browse_report_modal_category_notanimated" : "動画ではない",
-    "ui_browse_report_modal_category_notanimated_description" : "動画ではないとフラグを立てます。これにより、ほかの使用者にもわかるようになります",
 	"ui_browse_report_modal_category_other" : "その他",
 	"ui_browse_report_modal_category_other_description" : "レポートを提出する前に適切なカテゴリを選択してください。それ以外の場合は、このカテゴリを選択してください。",
     "ui_browse_report_modal_notes" : "ノート",
@@ -566,7 +561,6 @@
 	"ui_editor_template_wizard_details" : "詳細",
 	"ui_editor_template_wizard_last_import" : "最後のインポート:",
 	"ui_editor_template_wizard_import_image" : "インポートイメージ",
-	"ui_editor_template_wizard_compiling_assets_for" : "アセットのコンパイルのため",
 
 	"ui_editor_publish_modal_header" : "Workshopへの公開",
 	"ui_editor_publish_modal_header_upload" : "Steamへアップロード",

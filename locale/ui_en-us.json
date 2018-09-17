@@ -70,7 +70,6 @@
 	"ui_browse_details_properties_share_json" : "Share JSON",
 	
 	"ui_browse_footer_btn_workshop" : "Steam Workshop",
-	"ui_browse_footer_btn_workshop_in_app" : "In-App",
 	"ui_browse_footer_btn_store" : "Steam Store",
 	"ui_browse_footer_btn_open_from_file" : "Open from File",
 	"ui_browse_footer_btn_open_from_url" : "Open from URL",
@@ -127,7 +126,6 @@
 	"ui_browse_filter_source_official" : "Official",
 	"ui_browse_filter_source_workshop" : "Workshop",
 	"ui_browse_filter_source_my_wallpapers" : "My Wallpapers",
-	"ui_browse_filter_parse_title" : "Filter title",
 	
 	"ui_browse_modal_application_warning_header" : "Opening Unknown Application",
 	"ui_browse_modal_application_warning_body" : "You are about to open an external application as a wallpaper: <br/><b>{{filepath}}</b><br/>Wallpaper Engine has no control over this file, you must ensure that it comes from a reliable source before proceeding.",
@@ -194,7 +192,6 @@
 	"ui_browse_preset_modal_paste" : "Paste",
 	"ui_browse_preset_modal_show_all" : "Show all",
 	
-	"ui_browse_list_source_title" : "Browsing:",
 	"ui_browse_list_source_installed" : "Installed",
 	"ui_browse_list_source_workshop" : "Workshop",
 	"ui_browse_list_source_explore" : "Discover",
@@ -314,8 +311,6 @@
 	"ui_browse_report_modal_category_spam_description" : "You are reporting this wallpaper for spam by the author.",
 	"ui_browse_report_modal_category_offensive" : "Offensive submission",
 	"ui_browse_report_modal_category_offensive_description" : "You are reporting this wallpaper for containing offensive content. Do not use this option to report nudity and instead choose the option 'wrong content rating'.",
-	"ui_browse_report_modal_category_notanimated" : "Not animated",
-	"ui_browse_report_modal_category_notanimated_description" : "You are reporting this wallpaper for not having an animation, it will be flagged accordingly to make finding wallpapers easier.",
 	"ui_browse_report_modal_category_other" : "Other",
 	"ui_browse_report_modal_category_other_description" : "Please choose the proper category before submitting your report! If it does not fit anywhere else, use this category.",
 	"ui_browse_report_modal_notes" : "Notes",
@@ -437,6 +432,7 @@
 	"ui_settings_plugins" : "Plugins",
 	"ui_settings_plugins_status_loaded" : "Loaded",
 	"ui_settings_plugins_status_not_loaded" : "Not loaded",
+	"ui_settings_plugins_options_modal_header" : "{{name}} Options",
 	
 	"ui_settings_no_devices" : "No devices found",
 	"ui_settings_skin_white" : "White",
@@ -603,7 +599,6 @@
 	"ui_editor_template_wizard_details" : "Details",
 	"ui_editor_template_wizard_last_import" : "Last import:",
 	"ui_editor_template_wizard_import_image" : "Import image",
-	"ui_editor_template_wizard_compiling_assets_for" : "Compiling assets for",
 	
 	"ui_editor_publish_modal_header" : "Publish to Workshop",
 	"ui_editor_publish_modal_header_upload" : "Uploading to Steam",

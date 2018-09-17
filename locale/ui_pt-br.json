@@ -69,7 +69,6 @@
 	"ui_browse_details_properties_share_json" : "Compartilhar JSON",
 
 	"ui_browse_footer_btn_workshop" : "Oficina Steam",
-	"ui_browse_footer_btn_workshop_in_app" : "Aplicativo",
 	"ui_browse_footer_btn_store" : "Loja Steam",
 	"ui_browse_footer_btn_open_from_file" : "Abrir de arquivo",
 	"ui_browse_footer_btn_open_from_url" : "Abrir de URL",
@@ -124,7 +123,6 @@
 	"ui_browse_filter_source_official" : "Oficial",
 	"ui_browse_filter_source_workshop" : "Oficina",
 	"ui_browse_filter_source_my_wallpapers" : "Meus",
-	"ui_browse_filter_parse_title" : "Filtrar título",
 
 	"ui_browse_modal_application_warning_header" : "Abrindo aplicativo desconhecido",
 	"ui_browse_modal_application_warning_body" : "Você está prestes a abrir um aplicativo externo desconhecido como plano de fundo: <br/><b>{{filepath}}</b><br/>O Wallpaper Engine não tem controle sobre esse arquivo, garanta que ele vem de uma fonte confiável antes de prosseguir.",
@@ -177,7 +175,6 @@
 	"ui_browse_preset_modal_paste" : "Colar",
 	"ui_browse_preset_modal_show_all" : "Exibir todas",
 
-	"ui_browse_list_source_title" : "Navegando por:",
 	"ui_browse_list_source_installed" : "Instalados",
 	"ui_browse_list_source_workshop" : "Oficina",
 	"ui_browse_list_source_explore" : "Descobrir",
@@ -287,8 +284,6 @@
 	"ui_browse_report_modal_category_spam_description" : "Você está denunciando este plano de fundo por spam pelo autor.",
 	"ui_browse_report_modal_category_offensive" : "Envio ofensivo",
 	"ui_browse_report_modal_category_offensive_description" : "Você está denunciando este plano de fundo por conter conteúdo ofensivo.",
-	"ui_browse_report_modal_category_notanimated" : "Não possui animação",
-	"ui_browse_report_modal_category_notanimated_description" : "Você está denunciando este plano de fundo por não ser animado, ele será marcado de acordo com o objetivo de facilitar a busca de planos de fundo.",
 	"ui_browse_report_modal_category_other" : "Outro",
 	"ui_browse_report_modal_category_other_description" : "Por favor, escolha uma categoria adequada antes de enviar a sua denúncia! Caso não encaixe em nenhuma, use esta categoria no lugar.",
 	"ui_browse_report_modal_notes" : "Observações",
@@ -527,7 +522,6 @@
 	"ui_editor_template_wizard_details" : "Detalhes",
 	"ui_editor_template_wizard_last_import" : "Última importação:",
 	"ui_editor_template_wizard_import_image" : "Importar imagem",
-	"ui_editor_template_wizard_compiling_assets_for" : "Compilando recursos para",
 
 	"ui_editor_publish_modal_header" : "Publicar na Oficina",
 	"ui_editor_publish_modal_header_upload" : "Enviando para o Steam",

@@ -75,7 +75,6 @@
 	"ui_browse_filter_source_official" : "Oficiálne",
 	"ui_browse_filter_source_workshop" : "Workshop",
 	"ui_browse_filter_source_my_wallpapers" : "Moje pozadia",
-	"ui_browse_filter_parse_title" : "Meno filtru",
 	
 	"ui_browse_modal_application_warning_header" : "Otváranie neznámej aplikácie",
 	"ui_browse_modal_application_warning_body" : "Práve idete otvoriť neznámu externú aplikáciu ako pozadie: <br/><b>{{filepath}}</b><br/>Wallpaper Engine nemá žiadne pravomoci nad týmto súborom, musíte sa uistiť, že pochádza zo spoľahlivých zdrojov pred pokračovaním.<br/><br/>MôŽE TO POŠKODIŤ VÁŠ POČÍTAČ.",
@@ -111,7 +110,6 @@
 	"ui_browse_playlist_modal_settings_update_on_pause" : "Povoliť zmenu pozadie, ked je pozastavené",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "Zobraziť prechod pozadia",
 	
-	"ui_browse_list_source_title" : "Prehliadanie:",
 	"ui_browse_list_source_installed" : "Inštalované",
 	"ui_browse_list_source_workshop" : "Workshop",
 	
@@ -281,7 +279,6 @@
 	"ui_editor_template_wizard_details" : "Detaily",
 	"ui_editor_template_wizard_last_import" : "Posledný import:",
 	"ui_editor_template_wizard_import_image" : "Importovať obrázok",
-	"ui_editor_template_wizard_compiling_assets_for" : "Kompilovanie assetov pre",
 	
 	"ui_editor_publish_modal_header" : "Publikovať na Workshop",
 	"ui_editor_publish_modal_header_upload" : "Nahrávanie na Steam",
@@ -792,8 +789,6 @@
 	
 	"ui_browse_split" : "Rozdeliť",
 
-	"ui_browse_footer_btn_workshop_in_app" : "In-App",
-
 	"ui_browse_header_option_settings" : "Možnosti",
 	"ui_browse_header_option_monitors" : "Monitory",
 	"ui_browse_header_option_editor" : "Editor",
@@ -979,8 +974,6 @@
 	"ui_browse_report_modal_category_spam_description" : "Nahlasujete toto pozadie za spam autorom.",
 	"ui_browse_report_modal_category_offensive" : "Úražlivý obsah",
 	"ui_browse_report_modal_category_offensive_description" : "Nahlasujete toto pozadie za obsah úražlivého obsahu.",
-	"ui_browse_report_modal_category_notanimated" : "Neanimované",
-	"ui_browse_report_modal_category_notanimated_description" : "Nahlasujete toto pozadie pretože nemá animáciu, bude označené správne pre uľahčenie vyhľadávania pozadí.",
 	"ui_browse_report_modal_notes" : "Poznámky",
 	"ui_browse_report_modal_success" : "Nahlásenie úspešné odoslané!",
 	"ui_browse_report_modal_error" : "Odoslanie nahlásenia zlyhalo. Server môže byť offline, nedosiahnuteľný alebo pod údržbou. Skúste to znova neskôr.",

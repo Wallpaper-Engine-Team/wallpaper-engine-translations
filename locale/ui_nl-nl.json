@@ -60,7 +60,6 @@
 	"ui_browse_details_properties_share_json" : "Deel JSON",
 
 	"ui_browse_footer_btn_workshop" : "Open de Workshop",
-	"ui_browse_footer_btn_workshop_in_app" : "In-App",
 	"ui_browse_footer_btn_store" : "Bekijk de Winkel",
 	"ui_browse_footer_btn_open_from_file" : "Open Bestand",
 	"ui_browse_footer_btn_open_from_url" : "Open URL",
@@ -108,7 +107,6 @@
 	"ui_browse_filter_source_official" : "Officieel",
 	"ui_browse_filter_source_workshop" : "Workshop",
 	"ui_browse_filter_source_my_wallpapers" : "Mijn Achtergronden",
-	"ui_browse_filter_parse_title" : "Filter titel",
 	
 	"ui_browse_modal_application_warning_header" : "Er wordt een onbekende applicatie geopend",
 	"ui_browse_modal_application_warning_body" : "U staat op het punt om een onbekende externe applicatie te openen als achtergrond: <br/><b>{{filepath}}</b><br/>Wallpaper Engine heeft geen controle over dit bestand, U moet zich ervan verzekeren dat het van een betrouwbare bron afkomstig is.<br/><br/>HET KAN UW COMPUTER BESCHADIGEN.",
@@ -161,7 +159,6 @@
 	"ui_browse_preset_modal_paste" : "Plak",
 	"ui_browse_preset_modal_show_all" : "Laat alles zien",
 	
-	"ui_browse_list_source_title" : "Verkennen:",
 	"ui_browse_list_source_installed" : "Geïnstalleerd",
 	"ui_browse_list_source_workshop" : "Workshop",
 	
@@ -344,7 +341,6 @@
 	"ui_editor_template_wizard_details" : "Details",
 	"ui_editor_template_wizard_last_import" : "Laatste import:",
 	"ui_editor_template_wizard_import_image" : "Importeer afbeelding",
-	"ui_editor_template_wizard_compiling_assets_for" : "Bronnen compileren voor",
 	
 	"ui_editor_publish_modal_header" : "Publiceer naar de Workshop",
 	"ui_editor_publish_modal_header_upload" : "Bezig met uploaden naar Steam",

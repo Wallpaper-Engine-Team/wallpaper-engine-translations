@@ -76,7 +76,6 @@
 	"ui_browse_filter_source_official" : "Офіційний",
 	"ui_browse_filter_source_workshop" : "Майстерня",
 	"ui_browse_filter_source_my_wallpapers" : "Мої шпалери",
-	"ui_browse_filter_parse_title" : "Фільтр за назвою",
 
 	"ui_browse_modal_application_warning_header" : "Відкриття невідомого додатку",
 	"ui_browse_modal_application_warning_body" : "Ви збираєтеся відкрити невідоме зовнішню програму в якості шпалер: <br/><b>{{filepath}}</b><br/>Wallpaper Engine не має ніякого контролю над цим файлом, ви повинні переконатися, що це відбувається з надійного джерела, перш ніж приступити.<br/><br/>ЦЕ МОЖЕ ПОШКОДИТИ ВАШ ПК.",
@@ -117,7 +116,6 @@
 	"ui_browse_playlist_modal_settings_update_on_pause" : "Дозволити шпалери міняти під час паузи",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "Показати шпалери перехід",
 
-	"ui_browse_list_source_title" : "Переглянути:",
 	"ui_browse_list_source_installed" : "Встановити",
 	"ui_browse_list_source_workshop" : "Майстерня",
 
@@ -297,7 +295,6 @@
 	"ui_editor_template_wizard_details" : "Деталі",
 	"ui_editor_template_wizard_last_import" : "Останній імпорт:",
 	"ui_editor_template_wizard_import_image" : "Імпорт зображення",
-	"ui_editor_template_wizard_compiling_assets_for" : "Компіляція вмісту",
 
 	"ui_editor_publish_modal_header" : "Публікація до Крамниці",
 	"ui_editor_publish_modal_header_upload" : "Вивантажити у Steam",

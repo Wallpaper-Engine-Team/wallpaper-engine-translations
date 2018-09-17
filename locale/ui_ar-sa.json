@@ -76,7 +76,6 @@
 	"ui_browse_filter_source_official" : "رسمي",
 	"ui_browse_filter_source_workshop" : "المعمل",
 	"ui_browse_filter_source_my_wallpapers" : "خلفياتي",
-	"ui_browse_filter_parse_title" : "تصفية العنوان",
 	
 	"ui_browse_modal_application_warning_header" : "جاري فتح برنامج غير معروف",
 	"ui_browse_modal_application_warning_body" : "أنت على وشك فتح برنامج خارجي غير معروف كخلفية: <br/><b>{{filepath}}</b><br/>محرك الخلفيات لا يملك السيطرة على الملف تاكد من ان مصدر الملف موثوق قبل المواصلة<br/><br/>قد يسبب اضرار",
@@ -117,7 +116,6 @@
 	"ui_browse_playlist_modal_settings_update_on_pause" : "السماح للخلفية بالتغيير اثناء توقفها",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "اظهر انتقال الخلفية",
 	
-	"ui_browse_list_source_title" : "تصفح:",
 	"ui_browse_list_source_installed" : "المثبت",
 	"ui_browse_list_source_workshop" : "المعمل",
 	
@@ -294,7 +292,6 @@
 	"ui_editor_template_wizard_details" : "تفاصيل",
 	"ui_editor_template_wizard_last_import" : ":اخر استيراد",
 	"ui_editor_template_wizard_import_image" : "استيراد صورة",
-	"ui_editor_template_wizard_compiling_assets_for" : "تجميع اصول لـ",
 	
 	"ui_editor_publish_modal_header" : "انشر للمعمل",
 	"ui_editor_publish_modal_header_upload" : "جاري الرفع الى ستيم",

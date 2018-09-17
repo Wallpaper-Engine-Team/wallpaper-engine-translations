@@ -76,7 +76,6 @@
 	"ui_browse_filter_source_official" : "Resmi",
 	"ui_browse_filter_source_workshop" : "Workshop",
 	"ui_browse_filter_source_my_wallpapers" : "Lokal",
-	"ui_browse_filter_parse_title" : "Filter Judul",
    
 	"ui_browse_modal_application_warning_header" : "Membuka aplikasi yang tidak diketahui",
 	"ui_browse_modal_application_warning_body" : "Anda akan membuka aplikasi eksternal yang tidak diketahui sebagai latar belakang: <br/><b>{{filepath}}</b><br/>Wallpaper Engine tidak mempunyai akses kontrol terhadap berkas ini, anda harus pastikan bahwa ini berasal dari sumber yang terpercaya sebelum melanjutkan.<br/><br/>INI DAPAT MEMBAHAYAKAN KOMPUTER ANDA.",
@@ -117,7 +116,6 @@
 	"ui_browse_playlist_modal_settings_update_on_pause" : "Ijinkan Wallpaper berganti ketika di jeda",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "Tampilkan transisi latar belakang",
 	
-	"ui_browse_list_source_title" : "Menjelajahi:",
 	"ui_browse_list_source_installed" : "Terinstal",
 	"ui_browse_list_source_workshop" : "Workshop",
 	
@@ -297,7 +295,6 @@
 	"ui_editor_template_wizard_details" : "Detil",
 	"ui_editor_template_wizard_last_import" : "Impor terakhir:",
 	"ui_editor_template_wizard_import_image" : "Impor gambar",
-	"ui_editor_template_wizard_compiling_assets_for" : "Menyiapkan aset untuk",
    
 	"ui_editor_publish_modal_header" : "Terbitkan ke Workshop",
 	"ui_editor_publish_modal_header_upload" : "Mengunggah ke Steam",

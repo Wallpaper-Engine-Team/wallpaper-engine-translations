@@ -258,7 +258,6 @@
 	"ui_editor_template_wizard_details" : "Részletek",
 	"ui_editor_template_wizard_last_import" : "Legutóbb importálva:",
 	"ui_editor_template_wizard_import_image" : "Kép importálása",
-	"ui_editor_template_wizard_compiling_assets_for" : "Eszközök konvertálása",
 	
 	"ui_editor_publish_modal_header" : "Műhelybe közzététel",
 	"ui_editor_publish_modal_header_upload" : "Feltöltés a Steam-be",

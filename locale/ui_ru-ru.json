@@ -68,7 +68,6 @@
 	"ui_browse_details_properties_share_json" : "Поделиться JSON'ом",
 
 	"ui_browse_footer_btn_workshop" : "Мастерская",
-	"ui_browse_footer_btn_workshop_in_app" : "Встроенный",
 	"ui_browse_footer_btn_store" : "Магазин",
 	"ui_browse_footer_btn_open_from_file" : "Открыть файл",
 	"ui_browse_footer_btn_open_from_url" : "Открыть URL",
@@ -123,7 +122,6 @@
 	"ui_browse_filter_source_official" : "Официальный",
 	"ui_browse_filter_source_workshop" : "Мастерская",
 	"ui_browse_filter_source_my_wallpapers" : "Мои обои",
-	"ui_browse_filter_parse_title" : "Фильтр заголовка",
 
 	"ui_browse_modal_application_warning_header" : "Открытие неизвестного приложения",
 	"ui_browse_modal_application_warning_body" : "Вы собираетесь открыть неизвестное приложение в качестве обоев: <br/><b>{{filepath}}</b><br/>Wallpaper Engine не контролирует этот файл, вы должны убедиться, что он получен из надежного источника, прежде чем продолжить.<br/><br/>ЭТО МОЖЕТ НАНЕСТИ ВРЕД ВАШЕМУ КОМПЬЮТЕРУ.",
@@ -176,7 +174,6 @@
 	"ui_browse_preset_modal_paste" : "Вставить",
 	"ui_browse_preset_modal_show_all" : "Показать все",
 	
-	"ui_browse_list_source_title" : "Просмотр:",
 	"ui_browse_list_source_installed" : "Установлено",
 	"ui_browse_list_source_workshop" : "Мастерская",
 	"ui_browse_list_source_explore" : "Лента",
@@ -247,8 +244,6 @@
 	"ui_browse_report_modal_category_spam_description" : "Вы сообщаете о спаме со стороны автора.",
 	"ui_browse_report_modal_category_offensive" : "Оскорбительный контент",
 	"ui_browse_report_modal_category_offensive_description" : "Вы сообщаете о содержании оскорбительного контента. Не используйте эту опцию для сообщения о содержимом откровенного характера (наготе), вместо этого используйте опцию «Неверный возрастной рейтинг».",
-	"ui_browse_report_modal_category_notanimated" : "Не анимированно",
-	"ui_browse_report_modal_category_notanimated_description" : "Вы сообщаете об отсутствии анимации у данных обоев. Они будут соответствующе отмечены, чтобы облегчить поиск.",
 	"ui_browse_report_modal_notes" : "Примечания",
 	"ui_browse_report_modal_success" : "Жалоба успешно отправлена!",
 	"ui_browse_report_modal_error" : "Не удалось отправить жалобу. Сервер может быть недоступен или проходить обслуживание. Попробуйте позже.",
@@ -452,7 +447,6 @@
 	"ui_editor_template_wizard_details" : "Детали",
 	"ui_editor_template_wizard_last_import" : "Последний импорт:",
 	"ui_editor_template_wizard_import_image" : "Импорт изображения",
-	"ui_editor_template_wizard_compiling_assets_for" : "Компиляция активов для",
 	
 	"ui_editor_publish_modal_header" : "Опубликовать в Мастерской",
 	"ui_editor_publish_modal_header_upload" : "Загрузка в Steam",

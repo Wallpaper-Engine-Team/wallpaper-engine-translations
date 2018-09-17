@@ -78,7 +78,6 @@
 	"ui_browse_filter_source_official" : "官方",
 	"ui_browse_filter_source_workshop" : "工作坊",
 	"ui_browse_filter_source_my_wallpapers" : "我的桌面背景",
-	"ui_browse_filter_parse_title" : "過濾",
 	
 	"ui_browse_modal_application_warning_header" : "正在打開未知應用程式",
 	"ui_browse_modal_application_warning_body" : "您正在使用一個未知的外部應用程式作為桌面背景使用: <br/><b>{{filepath}}</b><br/>Wallpaper Engine 不會對這個應用程式加以限制, 您必須在選定這個程式前確定它是安全可信的。<br/><br/> <b>可能會損害您的電腦！！！</b>",
@@ -123,7 +122,6 @@
 	"ui_browse_playlist_modal_settings_update_on_pause" : "允許壁紙在更改時暫停",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "顯示壁紙過渡",
 	
-	"ui_browse_list_source_title" : "瀏覽:",
 	"ui_browse_list_source_installed" : "已安装",
 	"ui_browse_list_source_workshop" : "工作坊",
 	
@@ -170,8 +168,6 @@
 	"ui_browse_report_modal_category_spam_description":"你正在報告作者發送垃圾郵件的壁紙。",
 	"ui_browse_report_modal_category_offensive":"冒犯性提交",
 	"ui_browse_report_modal_category_offensive_description":"您正在報告包含冒犯性內容的壁紙。",
-	"ui_browse_report_modal_category_notanimated":"沒有動畫",
-	"ui_browse_report_modal_category_notanimated_description":"你正在報告這個壁紙沒有動畫,它會被標記,使查找壁紙更容易。",
 	"ui_browse_report_modal_notes":"註釋",
 	"ui_browse_report_modal_success":"報告成功發送！",
 	"ui_browse_report_modal_error":"報告發送失敗,服務器可能離線,無法訪問或正在進行維護,請稍後重試。",
@@ -345,7 +341,6 @@
 	"ui_editor_template_wizard_details" : "詳情",
 	"ui_editor_template_wizard_last_import" : "最後導入:",
 	"ui_editor_template_wizard_import_image" : "匯入圖片",
-	"ui_editor_template_wizard_compiling_assets_for" : "編譯資源",
 
 	"ui_editor_publish_modal_header" : "發佈到工作坊",
 	"ui_editor_publish_modal_header_upload" : "上傳到 Steam",

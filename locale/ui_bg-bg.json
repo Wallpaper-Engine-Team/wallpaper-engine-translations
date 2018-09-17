@@ -68,7 +68,6 @@
 	"ui_browse_details_properties_share_json" : "Сподели JSON",
 	
 	"ui_browse_footer_btn_workshop" : "Steam Работилница",
-	"ui_browse_footer_btn_workshop_in_app" : "В Приложение",
 	"ui_browse_footer_btn_store" : "Steam Магазин",
 	"ui_browse_footer_btn_open_from_file" : "Отвори от файл",
 	"ui_browse_footer_btn_open_from_url" : "Зареди от Web",
@@ -123,7 +122,6 @@
 	"ui_browse_filter_source_official" : "Официални",
 	"ui_browse_filter_source_workshop" : "Работилница",
 	"ui_browse_filter_source_my_wallpapers" : "Моите тапети",
-	"ui_browse_filter_parse_title" : "Заглавие на филтъра",
 	
 	"ui_browse_modal_application_warning_header" : "Отваряне на НЕизвестно приложение",
 	"ui_browse_modal_application_warning_body" : "На път сте да отворите НЕизвестно външно приложение като тапет: <br/><b>{{filepath}}</b><br/>Wallpaper Engine няма контрол върху този файл, трябва да се уверите, че файлът принадлежи на достоверен източник преди да продължите.<br/><br/>ФАЙЛЪТ МОЖЕ ДА ПОВРЕДИ ВАШИЯТ КОМПЮТЪР.",
@@ -176,7 +174,6 @@
 	"ui_browse_preset_modal_paste" : "Постави",
 	"ui_browse_preset_modal_show_all" : "Покажи всички",
 	
-	"ui_browse_list_source_title" : "Преглеждане:",
 	"ui_browse_list_source_installed" : "Инсталирани",
 	"ui_browse_list_source_workshop" : "Работилница",
 	"ui_browse_list_source_explore" : "Открий",
@@ -285,8 +282,6 @@
 	"ui_browse_report_modal_category_spam_description" : "Вие докладвате този тапет за спам от автора.",
 	"ui_browse_report_modal_category_offensive" : "Обидна публикация",
 	"ui_browse_report_modal_category_offensive_description" : "Вие докладвате този тапет за наличието на обидно съдържание. Не използвайте тази опция за докладването на голота - вместо това изберете опцията 'грешен рейтинг на съдържанието'.",
-	"ui_browse_report_modal_category_notanimated" : "Не анимирани",
-	"ui_browse_report_modal_category_notanimated_description" : "Вие докладвате този тапет за липсата на анимация, съответно той ще бъде маркиран, за да направи намирането на тапети по-лесно.",
 	"ui_browse_report_modal_category_other" : "Друго",
 	"ui_browse_report_modal_category_other_description" : "Моля, изберете подходящата категория преди да изпратите доклада си! Използвайте тази категория, само и единствено ако нито една от другите категории не са подходящи.",
 	"ui_browse_report_modal_notes" : "Забележки",
@@ -524,7 +519,6 @@
 	"ui_editor_template_wizard_details" : "Детайли",
 	"ui_editor_template_wizard_last_import" : "Последно импортиран:",
 	"ui_editor_template_wizard_import_image" : "Импортирай изображение",
-	"ui_editor_template_wizard_compiling_assets_for" : "Съставяне на активи за",
 	
 	"ui_editor_publish_modal_header" : "Публикувай в Работилницата",
 	"ui_editor_publish_modal_header_upload" : "Качване в Steam",

@@ -59,7 +59,6 @@
 	"ui_browse_details_properties_share_json" : "Ayarı paylaş",
 	
 	"ui_browse_footer_btn_workshop" : "Atölyeye Gözat",
-	"ui_browse_footer_btn_workshop_in_app" : "Uygulama İçinde",
 	"ui_browse_footer_btn_store" : "Mağazaya Gözat",
 	"ui_browse_footer_btn_open_from_file" : "Dosyadan Aç",
 	"ui_browse_footer_btn_open_from_url" : "Bağlantıdan Aç",
@@ -107,7 +106,6 @@
 	"ui_browse_filter_source_official" : "Resmi",
 	"ui_browse_filter_source_workshop" : "Atölye",
 	"ui_browse_filter_source_my_wallpapers" : "Benim Oluşturduklarım",
-	"ui_browse_filter_parse_title" : "Filtre başlığı",
 	
 	"ui_browse_modal_application_warning_header" : "Bilinmeyen Uygulamayı Açma",
 	"ui_browse_modal_application_warning_body" : "Harici bir uygulamayı duvar kağıdı olarak açmak üzeresiniz: <br/> <b> {{filepath}} </ b> <br/> Wallpaper Engine, bu dosyanın üzerinde herhangi bir denetime sahip değildir, devam etmeden önce güvenilir bir kaynaktan geldiğinden emin olmalısınız. <br/> <br/> BİLGİSAYARINIZA ZARAR VEREBİLİR.",
@@ -160,7 +158,6 @@
 	"ui_browse_preset_modal_paste" : "Yapıştır",
 	"ui_browse_preset_modal_show_all" : "Hepsini Göster",
 	
-	"ui_browse_list_source_title" : "Gözat:",
 	"ui_browse_list_source_installed" : "Yüklenenler",
 	"ui_browse_list_source_workshop" : "Atölye",
 	
@@ -363,7 +360,6 @@
 	"ui_editor_template_wizard_details" : "Detaylar",
 	"ui_editor_template_wizard_last_import" : "Son Aktarılan:",
 	"ui_editor_template_wizard_import_image" : "İçe Resim Aktar",
-	"ui_editor_template_wizard_compiling_assets_for" : "İçerikler derleniyor",
 	
 	"ui_editor_publish_modal_header" : "Atölyede Yayınla",
 	"ui_editor_publish_modal_header_upload" : "Steam'e yükleniyor",
@@ -715,8 +711,6 @@
 	"ui_browse_report_modal_category_genre" : "Yanlış Tür",
 	"ui_browse_report_modal_category_genre_description" : "Bu duvar kağıdını yanlış bir tür etiketi kullandığı için bildiriyorsunuz. Lütfen hangi duvar kağıdıyla en iyi uyuştuğunu, bu duvar kağıdı hakkında kişisel olarak 'bildikleriniz' değil 'gördüklerinizi' baz alarak karar verin.",
 	"ui_browse_report_modal_category_label" : "Şikayetin Sebebi",
-	"ui_browse_report_modal_category_notanimated" : "Animasyonlu değil",
-	"ui_browse_report_modal_category_notanimated_description" : "Bir animasyona sahip olmadığı için bu duvar kağıdını bildiriyorsunuz, buna göre duvar kağıtları bulunacak şekilde işaretlenecektir.",
 	"ui_browse_report_modal_category_offensive" : "Rahatsız edici içerik",
 	"ui_browse_report_modal_category_offensive_description" : "Rahatsız edici içerikler içerdiği için bu duvar kağını bildiriyorsunuz.",
 	"ui_browse_report_modal_category_other" : "Diğer",

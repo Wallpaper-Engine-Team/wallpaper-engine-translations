@@ -76,7 +76,6 @@
 	"ui_browse_filter_source_official" : "Viralliset",
 	"ui_browse_filter_source_workshop" : "Workshop",
 	"ui_browse_filter_source_my_wallpapers" : "Omat taustakuvat",
-	"ui_browse_filter_parse_title" : "Suodattimen otsikko",
 	
 	"ui_browse_modal_application_warning_header" : "Avataan tuntematonta sovellusta",
 	"ui_browse_modal_application_warning_body" : "Olet avaamassa tuntematonta, ulkoista sovellusta tustakuvaksi: <br/><b>{{filepath}}</b><br/>Wallpaper Enginellä ei ole kontrollia tähän tiedostoon, varmista että tiedosto on varmasti turvallinen ja että sitä voi käyttää.<br/><br/>SE VOI VAHINGOITTAA KONETTASI.",
@@ -117,7 +116,6 @@
 	"ui_browse_playlist_modal_settings_update_on_pause" : "Salli taustakuvan vaihto tauon aikana",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "Näytä taustakuvan siirtyminen",
 	
-	"ui_browse_list_source_title" : "Selaa:",
 	"ui_browse_list_source_installed" : "Asennettu",
 	"ui_browse_list_source_workshop" : "Workshop",
 	
@@ -289,7 +287,6 @@
 	"ui_editor_template_wizard_details" : "Yksityiskohdat",
 	"ui_editor_template_wizard_last_import" : "Viimeksi tuotu:",
 	"ui_editor_template_wizard_import_image" : "Tuo kuva",
-	"ui_editor_template_wizard_compiling_assets_for" : "Käännä assetti",
 	
 	"ui_editor_publish_modal_header" : "Julkaise Workshopissa",
 	"ui_editor_publish_modal_header_upload" : "Lataa Steamiin",

@@ -259,7 +259,6 @@
 	"ui_editor_template_wizard_details" : "Detaljer",
 	"ui_editor_template_wizard_last_import" : "Sist importert:",
 	"ui_editor_template_wizard_import_image" : "Importer bilde",
-	"ui_editor_template_wizard_compiling_assets_for" : "Kompilerer einedelger for",
 	
 	"ui_editor_publish_modal_header" : "Publiser til Verkstedet",
 	"ui_editor_publish_modal_header_upload" : "Laster opp til Steam",
