@@ -104,7 +104,6 @@
 	"ui_browse_playlist_modal_save_header" : "حفظ قائمة التشغيل",
 	"ui_browse_playlist_modal_save_name" : "اسم", 
 	"ui_browse_playlist_modal_save_description" : "اذا وجد قائمة تشغيل بنفس الاسم سيتم استبدالها",
-	"ui_browse_playlist_modal_empty" : "لم يتم ايجاد قائمة تشغيل",
 	"ui_browse_playlist_modal_settings_header" : "اعدادات قائمة التشغيل",
 	"ui_browse_playlist_modal_settings_reset" : "اعادة ضبط",
 	"ui_browse_playlist_modal_settings_order_label" : "ترتيب",

@@ -141,7 +141,6 @@
 	"ui_browse_playlist_modal_save_header" : "Erreprodukzio-zerrenda gorde",
 	"ui_browse_playlist_modal_save_name" : "Izena",
 	"ui_browse_playlist_modal_save_description" : "Erreprodukzio-zerrenda bat izen berdina badu, bere gainean idatziko da.",
-	"ui_browse_playlist_modal_empty" : "Ez da erreprodukzio-zerrendarik aurkitu",
 	"ui_browse_playlist_modal_settings_header" : "Erreprodukzio-zerrenda Ezarpenak",
 	"ui_browse_playlist_modal_settings_reset" : "Berrabiarazi",
 	"ui_browse_playlist_modal_settings_order_label" : "Ordena",

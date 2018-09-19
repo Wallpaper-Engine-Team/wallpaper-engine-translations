@@ -137,7 +137,6 @@
 	"ui_browse_playlist_modal_save_header" : "Oynatma Listesini Kaydet",
 	"ui_browse_playlist_modal_save_name" : "İsim", 
 	"ui_browse_playlist_modal_save_description" : "Aynı ada sahip bir oynatma listesi zaten varsa, üzerine yazılır.",
-	"ui_browse_playlist_modal_empty" : "Oynatma listesi bulunamadı",
 	"ui_browse_playlist_modal_settings_header" : "Oynatma listesi ayarları",
 	"ui_browse_playlist_modal_settings_reset" : "Sıfırla",
 	"ui_browse_playlist_modal_settings_order_label" : "Sıra",

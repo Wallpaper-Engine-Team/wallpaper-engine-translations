@@ -96,7 +96,6 @@
 	"ui_browse_playlist_modal_save_header" : "Guardar Lista de Reprodução",
 	"ui_browse_playlist_modal_save_name" : "Nome", 
 	"ui_browse_playlist_modal_save_description" : "Se uma lista de reprodução com o mesmo nome já existir, será substituída.",
-	"ui_browse_playlist_modal_empty" : "Não foram encontradas listas de reprodução",
 	"ui_browse_playlist_modal_settings_header" : "Definições da Lista de Reprodução",
 	"ui_browse_playlist_modal_settings_reset" : "Repor",
 	"ui_browse_playlist_modal_settings_order_label" : "Ordenação",

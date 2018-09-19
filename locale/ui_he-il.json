@@ -95,7 +95,6 @@
 	"ui_browse_playlist_modal_save_header" : "שמור רשימת השמעה",
 	"ui_browse_playlist_modal_save_name" : "שם", 
 	"ui_browse_playlist_modal_save_description" : "אם רשימת השמעה עם השם הזה קיימת היא תימחק ותוחלף",
-	"ui_browse_playlist_modal_empty" : "לא נמצאו רשימות נשמעה",
 	"ui_browse_playlist_modal_settings_header" : "הגרות רשימת השמעה",
 	"ui_browse_playlist_modal_settings_reset" : "אתחל",
 	"ui_browse_playlist_modal_settings_order_label" : "סדר",

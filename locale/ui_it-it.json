@@ -141,7 +141,6 @@
 	"ui_browse_playlist_modal_save_header" : "Salva Playlist",
 	"ui_browse_playlist_modal_save_name" : "Nome", 
 	"ui_browse_playlist_modal_save_description" : "Se esiste già una playlist con lo stesso nome, sarà sovrascritta.",
-	"ui_browse_playlist_modal_empty" : "Nessuna playlist trovata",
 	"ui_browse_playlist_modal_settings_header" : "Impostazioni Playlist",
 	"ui_browse_playlist_modal_settings_reset" : "Reimposta",
 	"ui_browse_playlist_modal_settings_order_label" : "Ordine",

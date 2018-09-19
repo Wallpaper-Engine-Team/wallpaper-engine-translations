@@ -104,7 +104,6 @@
 	"ui_browse_playlist_modal_save_header" : "Salvează lista de redare",
 	"ui_browse_playlist_modal_save_name" : "Nume", 
 	"ui_browse_playlist_modal_save_description" : "Dacă o listă de redare cu același nume există deja, aceasta va fi suprascris.",
-	"ui_browse_playlist_modal_empty" : "Nicio listă de readre găsită",
 	"ui_browse_playlist_modal_settings_header" : "Setări listă de redare ",
 	"ui_browse_playlist_modal_settings_reset" : "Resetați",
 	"ui_browse_playlist_modal_settings_order_label" : "Ordine",

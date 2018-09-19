@@ -96,7 +96,6 @@
 	"ui_browse_playlist_modal_save_header" : "Lagre Spilleliste",
 	"ui_browse_playlist_modal_save_name" : "Navn", 
 	"ui_browse_playlist_modal_save_description" : "Hvis en spilleliste med samme navn eksisterer, vil den bli overskrevet.",
-	"ui_browse_playlist_modal_empty" : "Ingen spillelister funnet",
 	"ui_browse_playlist_modal_settings_header" : "Spilleliste innstillinger",
 	"ui_browse_playlist_modal_settings_reset" : "Tilbakestille",
 	"ui_browse_playlist_modal_settings_order_label" : "Rekkefølge",

@@ -104,7 +104,6 @@
 	"ui_browse_playlist_modal_save_header" : "Uložit Playlist",
 	"ui_browse_playlist_modal_save_name" : "Název", 
 	"ui_browse_playlist_modal_save_description" : "Pokud již existuje playlist se stejným názvem, tak bude přepsán.",
-	"ui_browse_playlist_modal_empty" : "Nenalezen žádný playlist",
 	"ui_browse_playlist_modal_settings_header" : "Nastavení Playlistu",
 	"ui_browse_playlist_modal_settings_reset" : "Resetovat",
 	"ui_browse_playlist_modal_settings_order_label" : "Pořadí",

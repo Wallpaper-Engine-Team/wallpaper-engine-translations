@@ -110,7 +110,6 @@
 	"ui_browse_playlist_modal_save_header" : "保存播放清單",
 	"ui_browse_playlist_modal_save_name" : "播放清單名稱", 
 	"ui_browse_playlist_modal_save_description" : "如果存在相同名稱的播放清單，將會被覆蓋。",
-	"ui_browse_playlist_modal_empty" : "找不到播放清單",
 	"ui_browse_playlist_modal_settings_header" : "播放清單設置",
 	"ui_browse_playlist_modal_settings_reset" : "重設",
 	"ui_browse_playlist_modal_settings_order_label" : "播放規則",

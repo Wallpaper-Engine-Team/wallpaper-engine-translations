@@ -110,8 +110,6 @@
 	"ui_browse_playlist_modal_save_name" : "Tên",
 	"ui_browse_playlist_modal_save_description" : "Nếu danh sách bị trùng tên, nó sẽ bị ghi đè.",
 
-
-	"ui_browse_playlist_modal_empty" : "Không tìm thấy danh sách",
 	"ui_browse_playlist_modal_settings_header" : "Cài đặt danh sách",
 	"ui_browse_playlist_modal_settings_reset" : "Mặc định",
 	"ui_browse_playlist_modal_settings_order_label" : "Order",

@@ -153,7 +153,6 @@
 	"ui_browse_playlist_modal_save_header" : "Сохранить Плейлист",
 	"ui_browse_playlist_modal_save_name" : "Название", 
 	"ui_browse_playlist_modal_save_description" : "Если плейлист с тем же именем уже существует, он будет перезаписан.",
-	"ui_browse_playlist_modal_empty" : "Плейлисты не найдены",
 	"ui_browse_playlist_modal_settings_header" : "Настройка Плейлиста",
 	"ui_browse_playlist_modal_settings_reset" : "Сброс",
 	"ui_browse_playlist_modal_settings_order_label" : "Порядок",

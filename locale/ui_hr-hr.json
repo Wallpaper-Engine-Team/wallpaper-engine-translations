@@ -96,7 +96,6 @@
 	"ui_browse_playlist_modal_save_header" : "Spremi Playlistu",
 	"ui_browse_playlist_modal_save_name" : "Ime", 
 	"ui_browse_playlist_modal_save_description" : "Ako Playlista sa istim imenom već postoji, bit će promijenjena u ovu.",
-	"ui_browse_playlist_modal_empty" : "Nema nađene Playliste",
 	"ui_browse_playlist_modal_settings_header" : "Postavke Playliste",
 	"ui_browse_playlist_modal_settings_reset" : "Resetiraj",
 	"ui_browse_playlist_modal_settings_order_label" : "Redoslijed",

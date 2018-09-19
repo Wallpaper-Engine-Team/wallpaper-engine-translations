@@ -104,7 +104,6 @@
 	"ui_browse_playlist_modal_save_header" : "Зберегти Список відтворення",
 	"ui_browse_playlist_modal_save_name" : "Назва",
 	"ui_browse_playlist_modal_save_description" : "Якщо список відтворення з таким же ім'ям вже існує, його буде перезаписано.",
-	"ui_browse_playlist_modal_empty" : "Список відтворення порожній",
 	"ui_browse_playlist_modal_settings_header" : "Налаштування списку відтворення",
 	"ui_browse_playlist_modal_settings_reset" : "Перезапуск",
 	"ui_browse_playlist_modal_settings_order_label" : "Замовлення",

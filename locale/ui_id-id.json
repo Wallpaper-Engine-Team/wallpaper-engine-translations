@@ -104,7 +104,6 @@
 	"ui_browse_playlist_modal_save_header" : "Simpan Daftar Putar",
 	"ui_browse_playlist_modal_save_name" : "Nama", 
 	"ui_browse_playlist_modal_save_description" : "Jika sebelumnya sudah ada playlist dengan nama yang sama, playlist tersebut akan ditimpa.",
-	"ui_browse_playlist_modal_empty" : "Tidak ada daftar putar ditemukan",
 	"ui_browse_playlist_modal_settings_header" : "Pengaturan Daftar Putar",
 	"ui_browse_playlist_modal_settings_reset" : "Atur ulang",
 	"ui_browse_playlist_modal_settings_order_label" : "Urutan",

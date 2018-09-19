@@ -154,7 +154,6 @@
 	"ui_browse_playlist_modal_save_header" : "Salvar lista",
 	"ui_browse_playlist_modal_save_name" : "Nome",
 	"ui_browse_playlist_modal_save_description" : "Listas com o mesmo nome serão substituídas.",
-	"ui_browse_playlist_modal_empty" : "Nenhuma lista encontrada",
 	"ui_browse_playlist_modal_settings_header" : "Configurações",
 	"ui_browse_playlist_modal_settings_reset" : "Restaurar",
 	"ui_browse_playlist_modal_settings_order_label" : "Ordem",

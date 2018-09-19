@@ -98,7 +98,6 @@
 	"ui_browse_playlist_modal_save_header" : "Uložiť playlist",
 	"ui_browse_playlist_modal_save_name" : "Meno", 
 	"ui_browse_playlist_modal_save_description" : "Keď playlist s tým istým menom existuje, bude prepísaný.",
-	"ui_browse_playlist_modal_empty" : "Nenájdené žiadne playlisty",
 	"ui_browse_playlist_modal_settings_header" : "Nastavenia playlistu",
 	"ui_browse_playlist_modal_settings_reset" : "Reštart",
 	"ui_browse_playlist_modal_settings_order_label" : "Poradie",

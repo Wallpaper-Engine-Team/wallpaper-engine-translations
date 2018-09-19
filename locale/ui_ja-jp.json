@@ -156,7 +156,6 @@
 	"ui_browse_playlist_modal_save_header" : "プレイリストをセーブ",
 	"ui_browse_playlist_modal_save_name" : "名前",
 	"ui_browse_playlist_modal_save_description" : "もしも同じ名前のプレイリストがあった場合は、上書きされます。",
-	"ui_browse_playlist_modal_empty" : "プレイリストがありません",
 	"ui_browse_playlist_modal_settings_header" : "プレイリスト設定",
 	"ui_browse_playlist_modal_settings_reset" : "リセット",
 	"ui_browse_playlist_modal_settings_order_label" : "オーダー",

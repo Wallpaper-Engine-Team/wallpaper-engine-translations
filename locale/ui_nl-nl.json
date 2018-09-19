@@ -138,7 +138,6 @@
 	"ui_browse_playlist_modal_save_header" : "Afspeellijst opslaan",
 	"ui_browse_playlist_modal_save_name" : "Naam", 
 	"ui_browse_playlist_modal_save_description" : "Als er al een afspeellijst met dezelfde naam bestaat, dan zal die overschreven worden.",
-	"ui_browse_playlist_modal_empty" : "Geen afspeellijst gevonden",
 	"ui_browse_playlist_modal_settings_header" : "Instellingen afspeellijst",
 	"ui_browse_playlist_modal_settings_reset" : "Reset",
 	"ui_browse_playlist_modal_settings_order_label" : "Volgorde",

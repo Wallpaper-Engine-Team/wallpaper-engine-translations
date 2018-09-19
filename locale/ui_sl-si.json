@@ -107,7 +107,6 @@
 	"ui_browse_playlist_modal_save_header" : "Shrani seznam predvajanja",
 	"ui_browse_playlist_modal_save_name" : "Ime", 
 	"ui_browse_playlist_modal_save_description" : "Če že obstaja seznam predvajanja z istim imenom, bo prepisan.",
-	"ui_browse_playlist_modal_empty" : "Najden ni bil noben seznam predvajanja",
 	"ui_browse_playlist_modal_settings_header" : "Nastavitve seznama predvajanja",
 	"ui_browse_playlist_modal_settings_reset" : "Ponastavi",
 	"ui_browse_playlist_modal_settings_order_label" : "Vrstnir ed",

@@ -104,7 +104,6 @@
 	"ui_browse_playlist_modal_save_header" : "Tallenna soittolista",
 	"ui_browse_playlist_modal_save_name" : "Nimi", 
 	"ui_browse_playlist_modal_save_description" : "Jos samalla nimellä on jo soittolista se ylikirjoitetaan",
-	"ui_browse_playlist_modal_empty" : "Soittolistoja ei löytynyt",
 	"ui_browse_playlist_modal_settings_header" : "Soittolista asetukset",
 	"ui_browse_playlist_modal_settings_reset" : "Resetoi",
 	"ui_browse_playlist_modal_settings_order_label" : "Järjestys",

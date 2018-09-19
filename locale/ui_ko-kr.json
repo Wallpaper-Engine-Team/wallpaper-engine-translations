@@ -108,7 +108,6 @@
 	"ui_browse_playlist_modal_save_header" : "재생목록 저장",
 	"ui_browse_playlist_modal_save_name" : "이름", 
 	"ui_browse_playlist_modal_save_description" : "이미 같은 이름의 재생목록이 존재하면, 그 재생목록에 덮어씌워질 것입니다.",
-	"ui_browse_playlist_modal_empty" : "재생목록 없음",
 	"ui_browse_playlist_modal_settings_header" : "재생목록 설정",
 	"ui_browse_playlist_modal_settings_reset" : "초기화",
 	"ui_browse_playlist_modal_settings_order_label" : "순서",

@@ -95,7 +95,6 @@
 	"ui_browse_playlist_modal_save_header" : "Lejátszási lista mentése",
 	"ui_browse_playlist_modal_save_name" : "Név", 
 	"ui_browse_playlist_modal_save_description" : "Ha egy lista ugyan azzal a névvel már szerepel akkor az felül lesz írva.",
-	"ui_browse_playlist_modal_empty" : "Lejátszási lista üres",
 	"ui_browse_playlist_modal_settings_header" : "Lejátszási lista beállításai",
 	"ui_browse_playlist_modal_settings_reset" : "Visszaállít",
 	"ui_browse_playlist_modal_settings_order_label" : "Sorrend",

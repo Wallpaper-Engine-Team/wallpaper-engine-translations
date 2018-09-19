@@ -96,7 +96,6 @@
 	"ui_browse_playlist_modal_save_header" : "Gem afspilningsliste",
 	"ui_browse_playlist_modal_save_name" : "Navn", 
 	"ui_browse_playlist_modal_save_description" : "Hvis en afspilningsliste med samme navn allerede eksistere, vil den blive overlappet.",
-	"ui_browse_playlist_modal_empty" : "Ingen afspilningsliste fundet",
 	"ui_browse_playlist_modal_settings_header" : "Indstillinger for afspilningsliste",
 	"ui_browse_playlist_modal_settings_reset" : "Nulstil",
 	"ui_browse_playlist_modal_settings_order_label" : "Rækkefølge",

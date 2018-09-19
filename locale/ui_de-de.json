@@ -123,7 +123,6 @@
 	"ui_browse_playlist_modal_save_header" : "Wiedergabeliste Speichern",
 	"ui_browse_playlist_modal_save_name" : "Name", 
 	"ui_browse_playlist_modal_save_description" : "Falls es bereits eine Wiedergabeliste mit dem selben Namen gibt, wird sie überschrieben.",
-	"ui_browse_playlist_modal_empty" : "Keine Wiedergabelisten gefunden",
 	"ui_browse_playlist_modal_settings_header" : "Wiedergabelisten Einstellungen",
 	"ui_browse_playlist_modal_settings_reset" : "Zurücksetzen",
 	"ui_browse_playlist_modal_settings_order_label" : "Reihenfolge",

@@ -209,7 +209,6 @@
 	"ui_browse_playlist_modal_save_header" : "Zapisz playlistę",
 	"ui_browse_playlist_modal_save_name" : "Nazwa", 
 	"ui_browse_playlist_modal_save_description" : "Playlista z taką samą nazwą zostanie nadpisana.",
-	"ui_browse_playlist_modal_empty" : "Nie znaleziono playlisty",
 	"ui_browse_playlist_modal_settings_header" : "Ustawienia playlisty",
 	"ui_browse_playlist_modal_settings_reset" : "Resetuj",
 	"ui_browse_playlist_modal_settings_order_label" : "Kolejność",
