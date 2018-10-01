@@ -322,20 +322,20 @@
 	
 	"ui_editor_workshop_rules_modal_title" : "Műhely Szabályzat",
 	"ui_editor_workshop_rules_modal_body" : "Közzététel előtt kérjük ellenőrizze hogy a háttér nem sérti-e a Steam szabályzatát, ellenkező esetben az el lesz távolítva:",
-	"ui_editor_workshop_rules_modal_list_header" : "In particular, the following rules exist for wallpapers, the preview image and description:",
+	"ui_editor_workshop_rules_modal_list_header" : "A következő szabályok érvényesek a hátterekre, előnézeti képre és leírásra:",
 	"ui_editor_workshop_rules_modal_rule_nudity" : "Tilos a pornográf vagy meztelen tartalom.",
 	"ui_editor_workshop_rules_modal_rule_offensive" : "Tilos a támadó jellegű vagy az erőszak illetve véres tartalom",
 	"ui_editor_workshop_rules_modal_rule_copyright" : "Tilos a más tulajdonában lévő tartalom",
 	"ui_editor_workshop_rules_modal_rule_ads" : "Tilos a reklám",
 	"ui_editor_workshop_rules_modal_rule_misleading" : "Tilos a félrevezető leírás",
 	
-	"ui_editor_workshop_tags_limit" : "Mindössze 3 címke engedett.",
+	"ui_editor_workshop_tags_limit" : "Maximum 3 címke engedélyezett.",
 	"ui_editor_workshop_tags_placeholder": "Címke hozzáadása",
 	
 	"ui_workshop_tags_abstract" : "Absztrakt",
 	"ui_workshop_tags_animal" : "Állat",
 	"ui_workshop_tags_cartoon" : "Rajzfilm",
-	"ui_workshop_tags_fantasy" : "Fantazi",
+	"ui_workshop_tags_fantasy" : "Fantasy",
 	"ui_workshop_tags_game" : "Játék",
 	"ui_workshop_tags_landscape" : "Tájkép",
 	"ui_workshop_tags_medieval" : "Középkori",
