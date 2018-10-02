@@ -80,7 +80,6 @@
 	"core_updater_status_cancelled" : "Prozesua erabiltzailearengatik baliogabetua",
 	"core_updater_status_corrupted_system_module_message_box_title" : "Sistema modulua ezin da kargatu",
 	"core_updater_status_corrupted_system_module_message_box_body" : "Sistemaren modulu bat txarto dagoela dirudi eta Wallpaper Engine ondo ez funtzionatzea eragin dezake.\n\nEzabatu: {{modules}}\n\nBerrinstalatu: {{installers}}",
-	"core_updater_prompt_close" : "Wallpaper Engine oraindik funtzionamenduan dago, mesedez itxi ezazu."
 	"core_updater_prompt_close" : "Wallpaper Engine oraindik funtzionamenduan dago, mesedez itxi ezazu. Prozesu hauen ixtea itxaroten:",
 	"core_updater_prompt_close_foreign" : "Wallpaper Engine ezin du eguneraketa jarraitu beste programa batek bere fitxategiak blokeatzen ari delako. Mesedez itxi programa hauek jarraitzeko:",
 	"core_updater_status_directx_not_supported_title" : "DirectX 10 ez dauka euskarririk",
