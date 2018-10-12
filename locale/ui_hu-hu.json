@@ -8,11 +8,14 @@
 	"ui_back" : "Vissza",
 	"ui_close" : "Bezárás",
 	"ui_retry" : "Újra",
+	"ui_select" : "Kiválasztás",
+	"ui_create" : "Létrehozás",
 	
 	"ui_modal_updaterequired_title" : "Frissíteni kell a Wallpaper Engine-t",
 	"ui_modal_updaterequired_body" : "Kérem zárja be a Wallpaper Engine-t (jobb klikk a tálca értesítési területén a program ikonjára és Bezárás) és indítsa újra a Steam könyvtárból, hogy letöltse a frissítéseket. Ha továbbra is ezt a hibaüzenetet kapja akkor a Steam-en belül futtassa az alkalmazásfájlok épségének ellenőrzését.<br/><br/>A program verziója: <b>{{callerVersion}}</b>, Felület verziója: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "Új Frissítés Elérhető",
-
+	"ui_modal_updateavailable_body_distro" : "A Steam letöltötte a Wallpaper Engine egy újabb verzióját (<b>{{distroVersion}}</b> verzió). Szeretnéd újraindítani a Wallpaper Engine-t a frissítés aktiválásához?",
+	
 	"ui_browse_monitor" : "Képernyő",
 	"ui_browse_choose_monitor" : "(Képernyő kiválasztása)",
 	"ui_browse_filter_results" : "Keresés szűrése",
@@ -45,8 +48,9 @@
 	
 	"ui_browse_footer_btn_workshop" : "Műhely",
 	"ui_browse_footer_btn_store" : "Áruház",
-	"ui_browse_footer_btn_open_from_file" : "Fájl megnyitása",
-	"ui_browse_footer_btn_open_from_url" : "Honlap megnyitása",
+	"ui_browse_footer_btn_open_from_file" : "Megnyitás fájlból",
+	"ui_browse_footer_btn_open_from_url" : "Megnyitás URL-ből",
+	"ui_browse_footer_btn_create_wallpaper" : "Háttér létrehozása",
 	
 	"ui_browse_monitors_choose_monitor" : "Képernyő kiválasztása",
 	"ui_browse_monitors_layout" : "Elrendezés",
