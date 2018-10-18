@@ -75,12 +75,13 @@
 	"ui_browse_filter_source_official" : "Oficiálne",
 	"ui_browse_filter_source_workshop" : "Workshop",
 	"ui_browse_filter_source_my_wallpapers" : "Moje pozadia",
+	"ui_browse_filter_parse_title" : "Meno filtru",
 	
 	"ui_browse_modal_application_warning_header" : "Otváranie neznámej aplikácie",
 	"ui_browse_modal_application_warning_body" : "Práve idete otvoriť neznámu externú aplikáciu ako pozadie: <br/><b>{{filepath}}</b><br/>Wallpaper Engine nemá žiadne pravomoci nad týmto súborom, musíte sa uistiť, že pochádza zo spoľahlivých zdrojov pred pokračovaním.<br/><br/>MôŽE TO POŠKODIŤ VÁŠ POČÍTAČ.",
 	"ui_browse_modal_application_warning_timer" : "<br/><br/>Prosím počkajte {{time}} sekúnd.",
 	"ui_browse_modal_unsubscribe_header" : "Zrušiť odber",
-	"ui_browse_modal_unsubscribe_body" : "Ste si istý, že chcete zrušiť odber na: <b>{{title}}</b>?",
+	"ui_browse_modal_unsubscribe_body" : "Ste si istí, že chcete zrušiť odber u: <b>{{title}}</b>?<br/><br/>Po zrušení odberu, Steam automaticky vymaže súbory pozadia po zatvorení prehliadača pozadí. Steam zdržiava odstraňovanie pozadí pokým nezatvoríte prehiadač pozadí.",
 	"ui_browse_modal_remove_local_header" : "Zmazať z histórie",
 	"ui_browse_modal_remove_local_body" : "Ste si istý, že chcete odstrániť lokálne pozadie: <b>{{title}}</b>?",
 	"ui_browse_open_url_header" : "Otvoriť pozadie z URL",
@@ -98,6 +99,7 @@
 	"ui_browse_playlist_modal_save_header" : "Uložiť playlist",
 	"ui_browse_playlist_modal_save_name" : "Meno", 
 	"ui_browse_playlist_modal_save_description" : "Keď playlist s tým istým menom existuje, bude prepísaný.",
+	"ui_browse_playlist_modal_empty" : "Nenájdené žiadne playlisty",
 	"ui_browse_playlist_modal_settings_header" : "Nastavenia playlistu",
 	"ui_browse_playlist_modal_settings_reset" : "Reštart",
 	"ui_browse_playlist_modal_settings_order_label" : "Poradie",
@@ -109,6 +111,7 @@
 	"ui_browse_playlist_modal_settings_update_on_pause" : "Povoliť zmenu pozadie, ked je pozastavené",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "Zobraziť prechod pozadia",
 	
+	"ui_browse_list_source_title" : "Prehliadanie:",
 	"ui_browse_list_source_installed" : "Inštalované",
 	"ui_browse_list_source_workshop" : "Workshop",
 	
@@ -278,6 +281,7 @@
 	"ui_editor_template_wizard_details" : "Detaily",
 	"ui_editor_template_wizard_last_import" : "Posledný import:",
 	"ui_editor_template_wizard_import_image" : "Importovať obrázok",
+	"ui_editor_template_wizard_compiling_assets_for" : "Kompilovanie assetov pre",
 	
 	"ui_editor_publish_modal_header" : "Publikovať na Workshop",
 	"ui_editor_publish_modal_header_upload" : "Nahrávanie na Steam",
@@ -788,6 +792,8 @@
 	
 	"ui_browse_split" : "Rozdeliť",
 
+	"ui_browse_footer_btn_workshop_in_app" : "In-App",
+
 	"ui_browse_header_option_settings" : "Možnosti",
 	"ui_browse_header_option_monitors" : "Monitory",
 	"ui_browse_header_option_editor" : "Editor",
@@ -973,6 +979,8 @@
 	"ui_browse_report_modal_category_spam_description" : "Nahlasujete toto pozadie za spam autorom.",
 	"ui_browse_report_modal_category_offensive" : "Úražlivý obsah",
 	"ui_browse_report_modal_category_offensive_description" : "Nahlasujete toto pozadie za obsah úražlivého obsahu.",
+	"ui_browse_report_modal_category_notanimated" : "Neanimované",
+	"ui_browse_report_modal_category_notanimated_description" : "Nahlasujete toto pozadie pretože nemá animáciu, bude označené správne pre uľahčenie vyhľadávania pozadí.",
 	"ui_browse_report_modal_notes" : "Poznámky",
 	"ui_browse_report_modal_success" : "Nahlásenie úspešné odoslané!",
 	"ui_browse_report_modal_error" : "Odoslanie nahlásenia zlyhalo. Server môže byť offline, nedosiahnuteľný alebo pod údržbou. Skúste to znova neskôr.",
@@ -1303,5 +1311,49 @@
 	"ui_settings_hotkeys_action_user_playlist" : "Vybrať playlist",
 	"ui_settings_hotkeys_action_user_profile" : "Vybrať profil",
 	"ui_settings_hotkeys_modal_prompt_override_header" : "Prenastaviť KS",
-	"ui_settings_hotkeys_modal_prompt_override_body" : "Táto klávesa už je nastavená na '{{action}}'. Chcete ju nastaviť sem?"
+	"ui_settings_hotkeys_modal_prompt_override_body" : "Táto klávesa už je nastavená na '{{action}}'. Chcete ju nastaviť sem?",
+
+	"ui_browse_variant_filter_notice" : "Prehliadanie variánt pre: {{title}}",
+	
+	"ui_browse_details_properties_reset_prompt_header" : "Resetovať podrobnosti",
+	"ui_browse_details_properties_reset_prompt_body" : "Chcete resetovať podrobnosti a nastaviť ich späť na základné?",
+	
+	"ui_browse_details_properties_publish_to_workshop" : "Publikovať variantu",
+	"ui_browse_details_properties_browse_workshop" : "Prehliadať varianty",
+	"ui_browse_details_properties_variant_hint_header" : "Varianty pozadí",
+	"ui_browse_details_properties_variant_hint_body" : "<b>Varianta</b> zahŕňa všetky vaše custom nastavenia pozadia a všetky obrázky a videá ktoré ste mohli importovať do pozadia.<br/><br/><b>Varianty</b> môžete zdieľať na Steam Workshope ako normálne pozadia, čo umožňuje iným používateľom zažiť výzor a pocit nastavení ktoré ste vytvorili. Taktiež môžete použiť <b>varianty</b> ktoré nahrali ostatní používatelia.",
+	"ui_browse_details_header_presets" : "Predvoľby",
+	"ui_browse_details_header_variants" : "Varianty",
+	
+	"ui_browse_filter_category_wallpaper" : "Pozadie",
+	"ui_browse_filter_category_variant" : "Varianta",
+	
+	"ui_browse_modal_remove_variant_info" : "<br/><br/>Nasledujúce pozadia závisia na pozadí(ach) u ktorých sa snažíte zrušiť odber a budú tiež odstránené: <b>{{variants}}</b>",
+	"ui_browse_modal_subscribe_variant_header" : "Odoberanie závislosti pozadia",
+	"ui_browse_modal_subscribe_variant_body" : "Pozadie <b>{{title}}</b> je varianta iného pozadia ktoré musíte tiež odoberať pre použitie.<br/><br/>Odoberať obe?",
+	"ui_browse_modal_subscribe_variant_open_dependency" : "Otvoriť závislosť",
+	
+	"ui_browse_preset_modal_save_description" : "Ak predvoľba s tým istým menom existuje, bude prepísaná.",
+	
+	"ui_browse_preset_modal_empty" : "Ešte ste nevytvorili žiadne predvoľby pre toto pozadie.",
+	
+	"ui_browse_context_menu_choose_preset" : "Vybrať predvoľbu",
+	"ui_browse_context_menu_remove_preset" : "Odstrániť predvoľbu",
+	
+	"ui_settings_hotkeys_prompt_enter_combination" : "Stlačte kombináciu kláves",
+	
+	"ui_editor_publish_modal_progress_validate" : "Overovanie Workshop Itemu...",
+	"ui_editor_publish_modal_progress_create" : "Vytváranie Workshop Itemu...",
+	"ui_editor_publish_modal_progress_prepare_data" : "Aktualizovanie Workshop item dát...",
+	"ui_editor_publish_modal_progress_prepare_item" : "Odovzdávanie Workshop itemu...",
+	"ui_editor_publish_modal_progress_prepare_config" : "Odovzdávanie Workshop itemu, procesovanie komfigurácie ...",
+	"ui_editor_publish_modal_progress_prepare_content" : "Odovzdávanie Workshop itemu, procesovanie obsahu...",
+	"ui_editor_publish_modal_progress_uploading_content" : "Odovzdávanie Workshop itemu, nahrávanie obsahu...",
+	"ui_editor_publish_modal_progress_uploading_preview" : "Odovzdávanie Workshop itemu, nahrávanie ukážkového obrázku...",
+	"ui_editor_publish_modal_progress_final" : "Odovzdávanie Workshop itemu, vykonávanie zmien...",
+	
+	"ui_editor_workshop_options_upload_as" : "Nahrať ako",
+	"ui_editor_workshop_options_upload_as_new_item" : "Vytváranie nového itemu",
+	"ui_editor_workshop_options_upload_as_update" : "Aktualizovať existujúci item {{name}}",
+	"ui_editor_workshop_options_upload_as_pending" : "Čakanie na odpoveď Steamu..."
 }
