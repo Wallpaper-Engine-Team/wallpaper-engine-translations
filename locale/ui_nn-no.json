@@ -96,7 +96,6 @@
 	"ui_browse_playlist_modal_save_header" : "Lagre Spilleliste",
 	"ui_browse_playlist_modal_save_name" : "Navn", 
 	"ui_browse_playlist_modal_save_description" : "Hvis en spilleliste med samme navn eksisterer, vil den bli overskrevet.",
-	"ui_browse_playlist_modal_empty" : "Ingen spillelister funnet",
 	"ui_browse_playlist_modal_settings_header" : "Spilleliste innstillinger",
 	"ui_browse_playlist_modal_settings_reset" : "Tilbakestille",
 	"ui_browse_playlist_modal_settings_order_label" : "Rekkefølge",
@@ -259,7 +258,6 @@
 	"ui_editor_template_wizard_details" : "Detaljer",
 	"ui_editor_template_wizard_last_import" : "Sist importert:",
 	"ui_editor_template_wizard_import_image" : "Importer bilde",
-	"ui_editor_template_wizard_compiling_assets_for" : "Kompilerer einedelger for",
 	
 	"ui_editor_publish_modal_header" : "Publiser til Verkstedet",
 	"ui_editor_publish_modal_header_upload" : "Laster opp til Steam",

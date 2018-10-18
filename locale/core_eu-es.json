@@ -7,15 +7,21 @@
 	"core_tray_pause" : "Gelditu",
 	"core_tray_unpause" : "Erreproduzitu",
 	"core_tray_recent_wallpapers" : "Duela gutxiko horma-paperak",
+	"core_tray_saved_playlists" : "Gordetako erreprodukzio-zerrendak",
+	"core_tray_saved_profiles" : "Gordetako profilak",
 	"core_tray_quit" : "Irten",
 	"core_tray_faq" : "FAQ eta euskarria",
 	"core_tray_recent_wallpapers_clear" : "Zerrenda garbitu",
 	"core_tray_next_wallpaper" : "Hurrengo horma-papera",
+	"core_tray_mute" : "Isilarazi",
+	"core_tray_unmute" : "Kendu isilarazpena",
 
 	"core_balloon_info" : "Wallpaper Engine zure jakinarazpen eremura minimizatu da. Egin klik bi aldiz ikonoan horma-papera aukeratzeko.",
 	"core_balloon_desktop_window_error" : "Errorea horma-papera animatua ezartzean.",
 	"core_balloon_video_error" : "{{err}} Windows bideo errorea gertatu da. Klik egin informazio gehiagorako.",
 	"core_balloon_app_error" : "Errorea aplikazioa horma-paper bezala kargatzen.",
+	"core_balloon_pkg_version_error" : "Horma-paper hau ezin da zabaldu Wallpaper Engine bertsio berriago bat behar duelako. Saiatu azken bertsioa lortzen Steam bidez.",
+	"core_balloon_wallpaper_file_missing" : "Horma-paper hau ezin da zabaldu bere fitxategiak ez daudelako.",
 
 	"core_msgboxtitle_error" : "Errorea",
 	"core_msgboxtitle_app_conflict" : "Aplikazio jazarria",
@@ -27,7 +33,8 @@
 	"core_msgbox_prompt_high_contrast_was_enabled" : "Windows 'kontraste altuko' tema bat ezarri du, honek ez du Wallpaper Engine funtzionatzen uzten.",
 	"core_msgbox_dwm_disabled" : "Mahaigaineko konposizioa desaktibatuta dago.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine ezin du Aero gabe funtzionatu eta irten egingo da.",
-	"core_msgbox_aero_failure_no_support" : "Ezin izan da Aero hasieratu. Windows 7-ko Starter edo Basic bertsioa duzula dirudi, Aero ez dutenak eta beraz sistemaren baldintza minimoak betetzen ez dituztenak. Wallpaper Engine irten egingo da.",
+	"core_msgbox_aero_failure" : "Ezin izan da Aero hasieratu.\n\nbadirudi Windows Aero gaitzea galarazten ari dela, Tamalez betekizun garrantzitsua da eta Wallpaper Engine ezin du bera gabe funtzionatu.\n\nSaiatu Aero abiarazten Windowseko tema ezarpenetan eta hasieratu Wallpaper Engine berriro.",
+	"core_msgbox_aero_failure_no_support" : "Ezin izan da Aero hasieratu. Windows 7 Starter edo Basic bertsioa duzula dirudi, Aero ez dutenak eta beraz sistemaren baldintza minimoak betetzen ez dituztenak. Wallpaper Engine irten egingo da.",
 	"core_msgbox_init_secondinstance_ask_quit" : "Wallpaper Engine exekutatzen ari dela baina erantzuten ez duela dirudi.\n\nIndarrez berrabiarazi nahi duzu?",
 	"core_msgbox_init_secondinstance_failed" : "Berrabiarazpen errorea, kodea:",
 	"core_msgbox_below_win_7" : "Wallpaper Engine Windows 7 edo gehiago behar du, Steam-en dauden sistema baldintzak adierazten duten bezala.\n\nEuskarri gabeko Windows bertsio bat exekutatzen ari zarela dirudi eta posible da Wallpaper Engine ez funtzionatzea.",
@@ -73,5 +80,8 @@
 	"core_updater_status_cancelled" : "Prozesua erabiltzailearengatik baliogabetua",
 	"core_updater_status_corrupted_system_module_message_box_title" : "Sistema modulua ezin da kargatu",
 	"core_updater_status_corrupted_system_module_message_box_body" : "Sistemaren modulu bat txarto dagoela dirudi eta Wallpaper Engine ondo ez funtzionatzea eragin dezake.\n\nEzabatu: {{modules}}\n\nBerrinstalatu: {{installers}}",
-	"core_updater_prompt_close" : "Wallpaper Engine oraindik funtzionamenduan dago, mesedez itxi ezazu."
+	"core_updater_prompt_close" : "Wallpaper Engine oraindik funtzionamenduan dago, mesedez itxi ezazu. Prozesu hauen ixtea itxaroten:",
+	"core_updater_prompt_close_foreign" : "Wallpaper Engine ezin du eguneraketa jarraitu beste programa batek bere fitxategiak blokeatzen ari delako. Mesedez itxi programa hauek jarraitzeko:",
+	"core_updater_status_directx_not_supported_title" : "DirectX 10 ez dauka euskarririk",
+	"core_updater_status_directx_not_supported_body" : "Badirudi zure bideo-txartelak ez duela DirectX 10 euskarririk edo driverrak arazo bat duela. DirectX 10 euskarria aplikazio honek ondo funtzionatzeko sistemaren betekizuna da.\n\nZure bideo-txartelak DirectX 10 euskarria badauka, zure bideo driverrak kaltetuta egon daitezke. Driverra berriro instalatzen edo zure hardwarrearen saltzailearekin (Nvidia, AMD, Intel) hitz egiten konpondu dezakezu arazo hau."
 }

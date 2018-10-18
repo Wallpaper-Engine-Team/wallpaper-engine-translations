@@ -228,7 +228,6 @@
 	"ui_editor_template_wizard_details" : "Detalės",
 	"ui_editor_template_wizard_last_import" : "Paskutinis importuotas failas:",
 	"ui_editor_template_wizard_import_image" : "Importuoti paveikslėlį",
-	"ui_editor_template_wizard_compiling_assets_for" : "Surenkami ištekliai skirti",
 	
 	"ui_editor_publish_modal_header" : "Išleisti per Workshop",
 	"ui_editor_publish_modal_header_upload" : "Įkeliama į Steam",

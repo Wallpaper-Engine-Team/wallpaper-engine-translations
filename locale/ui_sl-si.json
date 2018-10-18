@@ -79,7 +79,6 @@
 	"ui_browse_filter_source_official" : "Official",
 	"ui_browse_filter_source_workshop" : "Delavnica",
 	"ui_browse_filter_source_my_wallpapers" : "Moja ozadja",
-	"ui_browse_filter_parse_title" : "Filtriraj rezultate",
 	
 	"ui_browse_modal_application_warning_header" : "Odpiranje neznane aplikacije",
 	"ui_browse_modal_application_warning_body" : "Pozor! Odpirate neznano zunanjo aplikacijo kot ozadje: <br/><b>{{filepath}}</b><br/>Program Wallpaper Engine nima nobenega nadzora nad to datoteko, vi morate zagotoviti da je datoteka prišla od zanesljivega vira pred nadaljevanjem.<br/><br/>IT MAY HARM YOUR COMPUTER.",
@@ -108,7 +107,6 @@
 	"ui_browse_playlist_modal_save_header" : "Shrani seznam predvajanja",
 	"ui_browse_playlist_modal_save_name" : "Ime", 
 	"ui_browse_playlist_modal_save_description" : "Če že obstaja seznam predvajanja z istim imenom, bo prepisan.",
-	"ui_browse_playlist_modal_empty" : "Najden ni bil noben seznam predvajanja",
 	"ui_browse_playlist_modal_settings_header" : "Nastavitve seznama predvajanja",
 	"ui_browse_playlist_modal_settings_reset" : "Ponastavi",
 	"ui_browse_playlist_modal_settings_order_label" : "Vrstnir ed",
@@ -120,7 +118,6 @@
 	"ui_browse_playlist_modal_settings_update_on_pause" : "Dovolute spremembo ozadja med pavzo",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "Prikaži prehod med ozadji",
 	
-	"ui_browse_list_source_title" : "Iskanje:",
 	"ui_browse_list_source_installed" : "Nameščeno",
 	"ui_browse_list_source_workshop" : "Delavnica",
 	
@@ -297,7 +294,6 @@
 	"ui_editor_template_wizard_details" : "Podrobnosti",
 	"ui_editor_template_wizard_last_import" : "Zadnji uvoz:",
 	"ui_editor_template_wizard_import_image" : "Uvozi sliko",
-	"ui_editor_template_wizard_compiling_assets_for" : "Zberi sredstva za",
 	
 	"ui_editor_publish_modal_header" : "Objavite v delavnico",
 	"ui_editor_publish_modal_header_upload" : "Naložite na Steam",

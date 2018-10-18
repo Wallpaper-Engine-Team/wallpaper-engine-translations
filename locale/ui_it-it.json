@@ -62,7 +62,6 @@
 	"ui_browse_details_properties_share_json" : "Condividi JSON",
 	
 	"ui_browse_footer_btn_workshop" : "Sfoglia Workshop",
-	"ui_browse_footer_btn_workshop_in_app" : "Nell'App",
 	"ui_browse_footer_btn_store" : "Sfoglia Negozio",
 	"ui_browse_footer_btn_open_from_file" : "Apri da file",
 	"ui_browse_footer_btn_open_from_url" : "Apri da URL",
@@ -111,7 +110,6 @@
 	"ui_browse_filter_source_official" : "Ufficiali",
 	"ui_browse_filter_source_workshop" : "Workshop",
 	"ui_browse_filter_source_my_wallpapers" : "Creati da me",
-	"ui_browse_filter_parse_title" : "Filtra titolo",
 	
 	"ui_browse_modal_application_warning_header" : "Apertura Applicazione Sconosciuta",
 	"ui_browse_modal_application_warning_body" : "Stai per aprire un'applicazione esterna sconosciuta come se fosse uno sfondo: <br/><b>{{filepath}}</b><br/>Wallpaper Engine non ha nessun controllo su questo file, assicurati che provenga da una fonte attendibile prima di proseguire.",
@@ -143,7 +141,6 @@
 	"ui_browse_playlist_modal_save_header" : "Salva Playlist",
 	"ui_browse_playlist_modal_save_name" : "Nome", 
 	"ui_browse_playlist_modal_save_description" : "Se esiste già una playlist con lo stesso nome, sarà sovrascritta.",
-	"ui_browse_playlist_modal_empty" : "Nessuna playlist trovata",
 	"ui_browse_playlist_modal_settings_header" : "Impostazioni Playlist",
 	"ui_browse_playlist_modal_settings_reset" : "Reimposta",
 	"ui_browse_playlist_modal_settings_order_label" : "Ordine",
@@ -164,7 +161,6 @@
 	"ui_browse_preset_modal_paste" : "Incolla",
 	"ui_browse_preset_modal_show_all" : "Mostra tutti",
 	
-	"ui_browse_list_source_title" : "Stai sfogliando:",
 	"ui_browse_list_source_installed" : "Sfondi Installati",
 	"ui_browse_list_source_workshop" : "Sfondi nel Workshop",
 	
@@ -232,8 +228,6 @@
 	"ui_browse_report_modal_category_spam_description" : "Stai segnalando questo sfondo per spam da parte dell'autore.",
 	"ui_browse_report_modal_category_offensive" : "Contenuti offensivi",
 	"ui_browse_report_modal_category_offensive_description" : "Stai segnalando questo sfondo perché contiene materiale offensivo. Non usare questo motivo per segnalare nudità, per fare ciò, usa il motivo 'Classificazione errata del contenuto'.",
-	"ui_browse_report_modal_category_notanimated" : "Non è animato",
-	"ui_browse_report_modal_category_notanimated_description" : "Stai segnalando questo sfondo perché non ha animazioni, sarà contrassegnato come non animato per rendere la ricerca di sfondi migliore.",
 	"ui_browse_report_modal_notes" : "Note aggiuntive",
 	"ui_browse_report_modal_success" : "Segnalazione inviata con successo!",
 	"ui_browse_report_modal_error" : "Errore nell'invio della segnalazione. Il server potrebbe essere offline, non raggiungibile o in manutenzione ordinaria. Riprova più tardi.",
@@ -437,7 +431,6 @@
 	"ui_editor_template_wizard_details" : "Dettagli",
 	"ui_editor_template_wizard_last_import" : "Ultima importazione",
 	"ui_editor_template_wizard_import_image" : "Importa immagine",
-	"ui_editor_template_wizard_compiling_assets_for" : "Compilando la risorsa: ",
 	
 	"ui_editor_publish_modal_header" : "Pubblica progetto nel Workshop",
 	"ui_editor_publish_modal_header_upload" : "Caricamento su Steam in corso",

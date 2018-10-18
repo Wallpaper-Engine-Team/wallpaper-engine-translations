@@ -8,11 +8,14 @@
 	"ui_back" : "Vissza",
 	"ui_close" : "Bezárás",
 	"ui_retry" : "Újra",
+	"ui_select" : "Kiválasztás",
+	"ui_create" : "Létrehozás",
 	
 	"ui_modal_updaterequired_title" : "Frissíteni kell a Wallpaper Engine-t",
 	"ui_modal_updaterequired_body" : "Kérem zárja be a Wallpaper Engine-t (jobb klikk a tálca értesítési területén a program ikonjára és Bezárás) és indítsa újra a Steam könyvtárból, hogy letöltse a frissítéseket. Ha továbbra is ezt a hibaüzenetet kapja akkor a Steam-en belül futtassa az alkalmazásfájlok épségének ellenőrzését.<br/><br/>A program verziója: <b>{{callerVersion}}</b>, Felület verziója: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "Új Frissítés Elérhető",
-
+	"ui_modal_updateavailable_body_distro" : "A Steam letöltötte a Wallpaper Engine egy újabb verzióját (<b>{{distroVersion}}</b> verzió). Szeretnéd újraindítani a Wallpaper Engine-t a frissítés aktiválásához?",
+	
 	"ui_browse_monitor" : "Képernyő",
 	"ui_browse_choose_monitor" : "(Képernyő kiválasztása)",
 	"ui_browse_filter_results" : "Keresés szűrése",
@@ -45,8 +48,9 @@
 	
 	"ui_browse_footer_btn_workshop" : "Műhely",
 	"ui_browse_footer_btn_store" : "Áruház",
-	"ui_browse_footer_btn_open_from_file" : "Fájl megnyitása",
-	"ui_browse_footer_btn_open_from_url" : "Honlap megnyitása",
+	"ui_browse_footer_btn_open_from_file" : "Megnyitás fájlból",
+	"ui_browse_footer_btn_open_from_url" : "Megnyitás URL-ből",
+	"ui_browse_footer_btn_create_wallpaper" : "Háttér létrehozása",
 	
 	"ui_browse_monitors_choose_monitor" : "Képernyő kiválasztása",
 	"ui_browse_monitors_layout" : "Elrendezés",
@@ -95,7 +99,6 @@
 	"ui_browse_playlist_modal_save_header" : "Lejátszási lista mentése",
 	"ui_browse_playlist_modal_save_name" : "Név", 
 	"ui_browse_playlist_modal_save_description" : "Ha egy lista ugyan azzal a névvel már szerepel akkor az felül lesz írva.",
-	"ui_browse_playlist_modal_empty" : "Lejátszási lista üres",
 	"ui_browse_playlist_modal_settings_header" : "Lejátszási lista beállításai",
 	"ui_browse_playlist_modal_settings_reset" : "Visszaállít",
 	"ui_browse_playlist_modal_settings_order_label" : "Sorrend",
@@ -258,7 +261,6 @@
 	"ui_editor_template_wizard_details" : "Részletek",
 	"ui_editor_template_wizard_last_import" : "Legutóbb importálva:",
 	"ui_editor_template_wizard_import_image" : "Kép importálása",
-	"ui_editor_template_wizard_compiling_assets_for" : "Eszközök konvertálása",
 	
 	"ui_editor_publish_modal_header" : "Műhelybe közzététel",
 	"ui_editor_publish_modal_header_upload" : "Feltöltés a Steam-be",
@@ -324,20 +326,20 @@
 	
 	"ui_editor_workshop_rules_modal_title" : "Műhely Szabályzat",
 	"ui_editor_workshop_rules_modal_body" : "Közzététel előtt kérjük ellenőrizze hogy a háttér nem sérti-e a Steam szabályzatát, ellenkező esetben az el lesz távolítva:",
-	"ui_editor_workshop_rules_modal_list_header" : "In particular, the following rules exist for wallpapers, the preview image and description:",
+	"ui_editor_workshop_rules_modal_list_header" : "A következő szabályok érvényesek a hátterekre, előnézeti képre és leírásra:",
 	"ui_editor_workshop_rules_modal_rule_nudity" : "Tilos a pornográf vagy meztelen tartalom.",
 	"ui_editor_workshop_rules_modal_rule_offensive" : "Tilos a támadó jellegű vagy az erőszak illetve véres tartalom",
 	"ui_editor_workshop_rules_modal_rule_copyright" : "Tilos a más tulajdonában lévő tartalom",
 	"ui_editor_workshop_rules_modal_rule_ads" : "Tilos a reklám",
 	"ui_editor_workshop_rules_modal_rule_misleading" : "Tilos a félrevezető leírás",
 	
-	"ui_editor_workshop_tags_limit" : "Mindössze 3 címke engedett.",
+	"ui_editor_workshop_tags_limit" : "Maximum 3 címke engedélyezett.",
 	"ui_editor_workshop_tags_placeholder": "Címke hozzáadása",
 	
 	"ui_workshop_tags_abstract" : "Absztrakt",
 	"ui_workshop_tags_animal" : "Állat",
 	"ui_workshop_tags_cartoon" : "Rajzfilm",
-	"ui_workshop_tags_fantasy" : "Fantazi",
+	"ui_workshop_tags_fantasy" : "Fantasy",
 	"ui_workshop_tags_game" : "Játék",
 	"ui_workshop_tags_landscape" : "Tájkép",
 	"ui_workshop_tags_medieval" : "Középkori",

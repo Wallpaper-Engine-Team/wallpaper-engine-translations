@@ -8,6 +8,7 @@
 	"core_tray_unpause" : "再生",
 	"core_tray_recent_wallpapers" : "最近使用した壁紙",
 	"core_tray_saved_playlists" : "保存されたプレイリスト",
+	"core_tray_saved_profiles" : "プロファイル保存",
 	"core_tray_quit" : "終了",
 	"core_tray_faq" : "サポート && FAQ",
 	"core_tray_recent_wallpapers_clear" : "リスト消去",

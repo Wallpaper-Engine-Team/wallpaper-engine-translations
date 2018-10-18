@@ -96,7 +96,6 @@
 	"ui_browse_playlist_modal_save_header" : "Gem afspilningsliste",
 	"ui_browse_playlist_modal_save_name" : "Navn", 
 	"ui_browse_playlist_modal_save_description" : "Hvis en afspilningsliste med samme navn allerede eksistere, vil den blive overlappet.",
-	"ui_browse_playlist_modal_empty" : "Ingen afspilningsliste fundet",
 	"ui_browse_playlist_modal_settings_header" : "Indstillinger for afspilningsliste",
 	"ui_browse_playlist_modal_settings_reset" : "Nulstil",
 	"ui_browse_playlist_modal_settings_order_label" : "Rækkefølge",
@@ -259,7 +258,6 @@
 	"ui_editor_template_wizard_details" : "Detaljer",
 	"ui_editor_template_wizard_last_import" : "Sidst importeret:",
 	"ui_editor_template_wizard_import_image" : "Importer billede",
-	"ui_editor_template_wizard_compiling_assets_for" : "Kompilere aktiver for",
 	
 	"ui_editor_publish_modal_header" : "Publiser til Værksted",
 	"ui_editor_publish_modal_header_upload" : "Uploader til Steam",

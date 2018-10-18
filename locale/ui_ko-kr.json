@@ -76,7 +76,6 @@
 	"ui_browse_filter_source_official" : "공식",
 	"ui_browse_filter_source_workshop" : "창작마당",
 	"ui_browse_filter_source_my_wallpapers" : "나의 배경화면",
-	"ui_browse_filter_parse_title" : "제목 필터",
 	
 	"ui_browse_modal_application_warning_header" : "확인되지 않은 응용 프로그램 여는 중",
 	"ui_browse_modal_application_warning_body" : "확인되지 않은 외부 응용프로그램을 배경화면으로 설정하려 합니다.: <br/><b>{{filepath}}</b><br/>Wallpaper Engine은 이 파일에 대한 권한이 없으므로 믿을만한 출처에서 가져온 프로그램이여야 합니다.<br/><br/>이 파일은 컴퓨터에 안좋은 영향을 미칠수도 있습니다!",
@@ -109,7 +108,6 @@
 	"ui_browse_playlist_modal_save_header" : "재생목록 저장",
 	"ui_browse_playlist_modal_save_name" : "이름", 
 	"ui_browse_playlist_modal_save_description" : "이미 같은 이름의 재생목록이 존재하면, 그 재생목록에 덮어씌워질 것입니다.",
-	"ui_browse_playlist_modal_empty" : "재생목록 없음",
 	"ui_browse_playlist_modal_settings_header" : "재생목록 설정",
 	"ui_browse_playlist_modal_settings_reset" : "초기화",
 	"ui_browse_playlist_modal_settings_order_label" : "순서",
@@ -121,7 +119,6 @@
 	"ui_browse_playlist_modal_settings_update_on_pause" : "일시정지된 동안 배경화면이 바뀔 수 있게 하기",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "바탕화면 전환 효과 보이기",
 	
-	"ui_browse_list_source_title" : "살펴보기:",
 	"ui_browse_list_source_installed" : "설치됨",
 	"ui_browse_list_source_workshop" : "창작마당",
 	
@@ -322,7 +319,6 @@
 	"ui_editor_template_wizard_details" : "세부사항",
 	"ui_editor_template_wizard_last_import" : "최근 삽입:",
 	"ui_editor_template_wizard_import_image" : "이미지 삽입",
-	"ui_editor_template_wizard_compiling_assets_for" : "사용된 파일들 컴파일링하기",
 	
 	"ui_editor_publish_modal_header" : "창작마당에 올리기",
 	"ui_editor_publish_modal_header_upload" : "Steam에 업로드 중",

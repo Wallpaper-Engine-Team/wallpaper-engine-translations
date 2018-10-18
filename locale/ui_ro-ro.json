@@ -76,7 +76,6 @@
 	"ui_browse_filter_source_official" : "Oficial",
 	"ui_browse_filter_source_workshop" : "Atelier",
 	"ui_browse_filter_source_my_wallpapers" : "Imaginile mele de fundal",
-	"ui_browse_filter_parse_title" : "Titlu filtru",
 
 	"ui_browse_modal_application_warning_header" : "Deschiderea aplicației necunoscute",
 	"ui_browse_modal_application_warning_body" : "Ești pe punctul de a deschide o aplicație externă necunoscută ca fundal: <br/><b>{{filepath}}</b><br/>Wallpaper Engine nu are control asupra acestui fișier, trebuie să te asiguri că acesta provine dintr-o sursă de încredere înainte de a continua.<br/><br/>ACEASTA POATE DĂUNA COMPUTERULUI.",
@@ -105,7 +104,6 @@
 	"ui_browse_playlist_modal_save_header" : "Salvează lista de redare",
 	"ui_browse_playlist_modal_save_name" : "Nume", 
 	"ui_browse_playlist_modal_save_description" : "Dacă o listă de redare cu același nume există deja, aceasta va fi suprascris.",
-	"ui_browse_playlist_modal_empty" : "Nicio listă de readre găsită",
 	"ui_browse_playlist_modal_settings_header" : "Setări listă de redare ",
 	"ui_browse_playlist_modal_settings_reset" : "Resetați",
 	"ui_browse_playlist_modal_settings_order_label" : "Ordine",
@@ -117,7 +115,6 @@
 	"ui_browse_playlist_modal_settings_update_on_pause" : "Permite modificarea imaginii de fundal în timpul unei pauze",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "Afișează tranziția tapetului",
 
-	"ui_browse_list_source_title" : "Navigare:",
 	"ui_browse_list_source_installed" : "Instalate",
 	"ui_browse_list_source_workshop" : "Atelier",
 
@@ -298,7 +295,6 @@
 	"ui_editor_template_wizard_details" : "Detalii",
 	"ui_editor_template_wizard_last_import" : "Ultima importare:",
 	"ui_editor_template_wizard_import_image" : "Importă imagine",
-	"ui_editor_template_wizard_compiling_assets_for" : "Compilarea activelor pentru",
 
 	"ui_editor_publish_modal_header" : "Publică la Atelier",
 	"ui_editor_publish_modal_header_upload" : "Se încarcă pe Steam",

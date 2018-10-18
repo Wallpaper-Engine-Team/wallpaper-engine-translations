@@ -92,7 +92,6 @@
 	"ui_browse_filter_source_official" : "Offiziell",
 	"ui_browse_filter_source_workshop" : "Workshop",
 	"ui_browse_filter_source_my_wallpapers" : "Meine Hintergrundbilder",
-	"ui_browse_filter_parse_title" : "Filtere Titel",
 	
 	"ui_browse_modal_application_warning_header" : "Öffnen einer unbekannten Anwendung",
 	"ui_browse_modal_application_warning_body" : "Eine unbekannte Anwendung wird als Wallpaper geöffnet: <br/><b>{{filepath}}</b><br/>Wallpaper Engine ist desshalb nicht in der Lage, die Authentizität und Sicherheit der Anwendung sicherzustellen. Überprüfe eventuelle Risiken bevor du fortfährst!<br/><br/>DIE DATEI KÖNNTE DEN COMPUTER SCHÄDIGEN.",
@@ -124,7 +123,6 @@
 	"ui_browse_playlist_modal_save_header" : "Wiedergabeliste Speichern",
 	"ui_browse_playlist_modal_save_name" : "Name", 
 	"ui_browse_playlist_modal_save_description" : "Falls es bereits eine Wiedergabeliste mit dem selben Namen gibt, wird sie überschrieben.",
-	"ui_browse_playlist_modal_empty" : "Keine Wiedergabelisten gefunden",
 	"ui_browse_playlist_modal_settings_header" : "Wiedergabelisten Einstellungen",
 	"ui_browse_playlist_modal_settings_reset" : "Zurücksetzen",
 	"ui_browse_playlist_modal_settings_order_label" : "Reihenfolge",
@@ -136,7 +134,6 @@
 	"ui_browse_playlist_modal_settings_update_on_pause" : "Erlaube den Wechsel des Hintergrundbildes während es pausiert ist",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "Hintergrundbild Überblenden",
 	
-	"ui_browse_list_source_title" : "Durchsuche:",
 	"ui_browse_list_source_installed" : "Installiert",
 	"ui_browse_list_source_workshop" : "Workshop",
 	"ui_browse_list_source_explore" : "Entdecken",
@@ -248,8 +245,6 @@
 	"ui_browse_report_modal_category_spam_description" : "Sie meldes dieses Hintergrundbild für Spam durch den Autor.",
 	"ui_browse_report_modal_category_offensive" : "Beleidgendes Hintergrundbild",
 	"ui_browse_report_modal_category_offensive_description" : "Sie meldes dieses Hintergrundbild für beleidigenden Inhalt.",
-	"ui_browse_report_modal_category_notanimated" : "Nicht animiert",
-	"ui_browse_report_modal_category_notanimated_description" : "Sie meldes dieses Hintergrundbild für fehlende Animation.",
 	"ui_browse_report_modal_notes" : "Notizen",
 	"ui_browse_report_modal_success" : "Meldung erfolgreich!",
 	"ui_browse_report_modal_error" : "Die Meldung konnte nicht gesendet werden. Der Server könnte offline, nicht erreichbar oder unter Wartung sein. Bitte versuchen Sie es später noch einmal.",
@@ -443,7 +438,6 @@
 	"ui_editor_template_wizard_details" : "Details",
 	"ui_editor_template_wizard_last_import" : "Letzte Auswahl:",
 	"ui_editor_template_wizard_import_image" : "Bild importieren",
-	"ui_editor_template_wizard_compiling_assets_for" : "Kompiliere Dateien für",
 	
 	"ui_editor_publish_modal_header" : "Im Workshop Veröffentlichen",
 	"ui_editor_publish_modal_header_upload" : "Auf Steam hochladen",

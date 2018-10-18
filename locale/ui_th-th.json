@@ -76,7 +76,6 @@
 	"ui_browse_filter_source_official" : "Official",
 	"ui_browse_filter_source_workshop" : "เวิร์กชอป",
 	"ui_browse_filter_source_my_wallpapers" : "วอลล์เปเปอร์ของฉัน",
-	"ui_browse_filter_parse_title" : "กรองตามชื่อ",
 	
 	"ui_browse_modal_application_warning_header" : "เปิดแอพลิเคชันที่ไม่รู้จัก",
 	"ui_browse_modal_application_warning_body" : "คุณกำลังจะเปิดโปรแกรมภายนอกที่ไม่รู้จักเป็นวอลล์เปเปอร์: <br/><b>{{filepath}}</b><br/>Wallpaper Engine ไม่สามารถควบคุมไฟล์นี้ได้, คุณต้องแน่ใจว่ามันมาจากแหล่งที่เชื่อถือได้ ก่อนดำเนินการต่อ<br/><br/>มันอาจเป็นอันตรายต่อคอมพิวเตอร์ของคุณ",
@@ -105,7 +104,6 @@
 	"ui_browse_playlist_modal_save_header" : "บันทึก เพลย์ลิส",
 	"ui_browse_playlist_modal_save_name" : "ชื่อ", 
 	"ui_browse_playlist_modal_save_description" : "หากชื่อเพลย์ลิสเหมือนกับชื่อที่มีอยู่ มันจะถูกเขียนทับ",
-	"ui_browse_playlist_modal_empty" : "ไม่พบเพลย์ลิส",
 	"ui_browse_playlist_modal_settings_header" : "ตั้งค่าเพลย์ลิส",
 	"ui_browse_playlist_modal_settings_reset" : "ตั้งค่าใหม่",
 	"ui_browse_playlist_modal_settings_order_label" : "ลำดับ",
@@ -117,7 +115,6 @@
 	"ui_browse_playlist_modal_settings_update_on_pause" : "อนุญาตให้เปลี่ยนวอลเปเปอร์ในขณะที่หยุดชั่วคราว",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "แสดงการเปลี่ยนแปลงวอลล์เปเปอร์",
 
-	"ui_browse_list_source_title" : "การเรียกดู:",
 	"ui_browse_list_source_installed" : "การติดตั้ง",
 	"ui_browse_list_source_workshop" : "เวิร์กชอป",
 	
@@ -297,7 +294,6 @@
 	"ui_editor_template_wizard_details" : "รายละเอียด",
 	"ui_editor_template_wizard_last_import" : "นำเข้าล่าสุด:",
 	"ui_editor_template_wizard_import_image" : "นำเข้ารูปภาพ",
-	"ui_editor_template_wizard_compiling_assets_for" : "กำลังคอมไพล์สำหรับ",
 	
 	"ui_editor_publish_modal_header" : "เผยแพร่ไปยังเวิร์กชอป",
 	"ui_editor_publish_modal_header_upload" : "กำลังอัปโหลดไปยัง Steam",
