@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.com/Wallpaper-Engine-Team/wallpaper-engine-translations.svg?branch=master)](https://travis-ci.com/Elipse458/wallpaper-engine-translations)
+[![Build Status](https://travis-ci.com/Wallpaper-Engine-Team/wallpaper-engine-translations.svg?branch=master)](https://travis-ci.com/Wallpaper-Engine-Team/wallpaper-engine-translations)
 
-# Wallpaper Engine Translations (Slovak translation fork)
+# Wallpaper Engine Translations
 
 This repository hosts the translation files for Wallpaper Engine ( http://store.steampowered.com/app/431960 ) to make collaboration easier.
 
