@@ -1355,5 +1355,5 @@
 	"ui_editor_workshop_options_upload_as" : "Nahrať ako",
 	"ui_editor_workshop_options_upload_as_new_item" : "Vytváranie nového itemu",
 	"ui_editor_workshop_options_upload_as_update" : "Aktualizovať existujúci item {{name}}",
-	"ui_editor_workshop_options_upload_as_pending" : "Čakanie na odpoveď Steamu...",
+	"ui_editor_workshop_options_upload_as_pending" : "Čakanie na odpoveď Steamu..."
 }
