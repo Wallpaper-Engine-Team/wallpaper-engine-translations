@@ -1305,25 +1305,25 @@
 	"ui_settings_hotkeys_modal_prompt_override_header" : "Prenastaviť KS",
 	"ui_settings_hotkeys_modal_prompt_override_body" : "Táto klávesa už je nastavená na '{{action}}'. Chcete ju nastaviť sem?",
 
-	"ui_browse_variant_filter_notice" : "Prehliadanie variánt pre: {{title}}",
+	"ui_browse_preset_filter_notice" : "Prehliadanie variánt pre: {{title}}",
 	
 	"ui_browse_details_properties_reset_prompt_header" : "Resetovať podrobnosti",
 	"ui_browse_details_properties_reset_prompt_body" : "Chcete resetovať podrobnosti a nastaviť ich späť na základné?",
 	
-	"ui_browse_details_properties_publish_to_workshop" : "Publikovať variantu",
-	"ui_browse_details_properties_browse_workshop" : "Prehliadať varianty",
-	"ui_browse_details_properties_variant_hint_header" : "Varianty pozadí",
-	"ui_browse_details_properties_variant_hint_body" : "<b>Varianta</b> zahŕňa všetky vaše custom nastavenia pozadia a všetky obrázky a videá ktoré ste mohli importovať do pozadia.<br/><br/><b>Varianty</b> môžete zdieľať na Steam Workshope ako normálne pozadia, čo umožňuje iným používateľom zažiť výzor a pocit nastavení ktoré ste vytvorili. Taktiež môžete použiť <b>varianty</b> ktoré nahrali ostatní používatelia.",
+	"ui_browse_details_properties_preset_publish_to_workshop" : "Publikovať variantu",
+	"ui_browse_details_properties_preset_browse_workshop" : "Prehliadať varianty",
+	"ui_browse_details_properties_preset_hint_header" : "Varianty pozadí",
+	"ui_browse_details_properties_preset_hint_body" : "<b>Varianta</b> zahŕňa všetky vaše custom nastavenia pozadia a všetky obrázky a videá ktoré ste mohli importovať do pozadia.<br/><br/><b>Varianty</b> môžete zdieľať na Steam Workshope ako normálne pozadia, čo umožňuje iným používateľom zažiť výzor a pocit nastavení ktoré ste vytvorili. Taktiež môžete použiť <b>varianty</b> ktoré nahrali ostatní používatelia.",
 	"ui_browse_details_header_presets" : "Predvoľby",
-	"ui_browse_details_header_variants" : "Varianty",
+	"ui_browse_details_header_workshop" : "Varianty",
 	
 	"ui_browse_filter_category_wallpaper" : "Pozadie",
-	"ui_browse_filter_category_variant" : "Varianta",
+	"ui_browse_filter_category_preset" : "Varianta",
 	
-	"ui_browse_modal_remove_variant_info" : "<br/><br/>Nasledujúce pozadia závisia na pozadí(ach) u ktorých sa snažíte zrušiť odber a budú tiež odstránené: <b>{{variants}}</b>",
-	"ui_browse_modal_subscribe_variant_header" : "Odoberanie závislosti pozadia",
-	"ui_browse_modal_subscribe_variant_body" : "Pozadie <b>{{title}}</b> je varianta iného pozadia ktoré musíte tiež odoberať pre použitie.<br/><br/>Odoberať obe?",
-	"ui_browse_modal_subscribe_variant_open_dependency" : "Otvoriť závislosť",
+	"ui_browse_modal_remove_preset_info" : "<br/><br/>Nasledujúce pozadia závisia na pozadí(ach) u ktorých sa snažíte zrušiť odber a budú tiež odstránené: <b>{{presets}}</b>",
+	"ui_browse_modal_subscribe_preset_header" : "Odoberanie závislosti pozadia",
+	"ui_browse_modal_subscribe_preset_body" : "Pozadie <b>{{title}}</b> je varianta iného pozadia ktoré musíte tiež odoberať pre použitie.<br/><br/>Odoberať obe?",
+	"ui_browse_modal_subscribe_preset_open_dependency" : "Otvoriť závislosť",
 	
 	"ui_browse_preset_modal_save_description" : "Ak predvoľba s tým istým menom existuje, bude prepísaná.",
 	
