@@ -1311,9 +1311,9 @@
 	"ui_browse_details_properties_reset_prompt_body" : "Chcete resetovať podrobnosti a nastaviť ich späť na základné?",
 	
 	"ui_browse_details_properties_preset_publish_to_workshop" : "Publikovať variantu",
-	"ui_browse_details_properties_preset_browse_workshop" : "Prehliadať varianty",
+	"ui_browse_details_properties_preset_browse_workshop" : "Prehliadať varianty ({{count}})",
 	"ui_browse_details_properties_preset_hint_header" : "Varianty pozadí",
-	"ui_browse_details_properties_preset_hint_body" : "<b>Varianta</b> zahŕňa všetky vaše custom nastavenia pozadia a všetky obrázky a videá ktoré ste mohli importovať do pozadia.<br/><br/><b>Varianty</b> môžete zdieľať na Steam Workshope ako normálne pozadia, čo umožňuje iným používateľom zažiť výzor a pocit nastavení ktoré ste vytvorili. Taktiež môžete použiť <b>varianty</b> ktoré nahrali ostatní používatelia.",
+	"ui_browse_details_properties_preset_hint_body" : "<b>Varianta</b> zahŕňa všetky vaše custom nastavenia pozadia a všetky obrázky a videá ktoré ste mohli importovať do pozadia.<br/><br/>Varianty môžete zdieľať na Steam Workshope ako normálne pozadia, čo umožňuje iným používateľom zažiť výzor a pocit nastavení ktoré ste vytvorili. Taktiež môžete použiť <b>varianty</b> ktoré nahrali ostatní používatelia.",
 	"ui_browse_details_header_presets" : "Predvoľby",
 	"ui_browse_details_header_workshop" : "Varianty",
 	
