@@ -391,7 +391,7 @@
 	"ui_editor_workshop_options_required" : " *requis",
 
 	"ui_editor_open_modal_header" : "Ouvrir un fond d'écran",
-	"ui_editor_open_modal_delete" : " Supprimé",
+	"ui_editor_open_modal_delete" : "Supprimer",
 
 	"ui_editor_project_settings_modal_header" : "Propriétés du projet",
 	"ui_editor_project_settings_modal_header_general" : "Général",
