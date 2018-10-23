@@ -1149,7 +1149,6 @@
 	"ui_editor_select_texture" : "选择纹理",
 
 		"ui_browse_playlist_modal_settings_timing_on_timer" : "定时更换",
-	"ui_browse_playlist_modal_settings_timing_on_logon" : "登录时更换",
 	"ui_browse_playlist_modal_settings_timing_daytime" : "全天顺序更换",
 	"ui_browse_playlist_modal_settings_timing_never" : "从不",
 	"ui_browse_playlist_modal_settings_timing_hours" : "小时",
