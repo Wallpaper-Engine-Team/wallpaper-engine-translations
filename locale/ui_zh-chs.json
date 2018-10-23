@@ -1177,9 +1177,8 @@
 	"ui_browse_modal_subscribe_preset_open_dependency" : "查看依赖的壁纸",
 	
 	"ui_browse_preset_modal_save_description" : "如果预设和已有的预设重名，将会直接覆盖同名预设。",
-		"ui_browse_modal_unsubscribe_body" : "您确定要取消订阅来自 <b>{{title}}</b> 的壁纸吗？<br/><br/>取消订阅后，Steam 将在浏览壁纸窗口关闭后自动删除壁纸文件。在浏览壁纸窗口关闭前，Steam 将不会删除壁纸。",
-		"ui_browse_preset_modal_empty" : "您还没有给这个壁纸创建任何预设。",
-		"ui_browse_context_menu_assign_hotkey" : "关联热键",
+	"ui_browse_preset_modal_empty" : "您还没有给这个壁纸创建任何预设。",
+	"ui_browse_context_menu_assign_hotkey" : "关联热键",
 	"ui_browse_context_menu_remove_hotkey" : "删除热键",
 	
 	"ui_browse_modal_hotkey_assign_wallpaper" : "关联壁纸 {{name}}",
