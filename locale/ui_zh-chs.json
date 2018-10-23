@@ -1222,7 +1222,7 @@
 	"ui_settings_hotkeys_action_mute" : "静音壁纸",
 	"ui_settings_hotkeys_action_recording" : "切换录音状态",
 	"ui_settings_hotkeys_action_hide_icons" : "隐藏桌面图标",
-	"ui_settings_hotkeys_action_take_screenshot" : "截图",
+	"ui_settings_hotkeys_action_take_screenshot" : "通过 Steam 截图",
 	"ui_settings_hotkeys_action_next_wallpaper" : "切到下一张",
 	"ui_settings_hotkeys_action_window_browser" : "浏览壁纸",
 	"ui_settings_hotkeys_action_window_settings" : "Wallpaper Engine设置",
