@@ -162,7 +162,7 @@
 	"ui_browse_playlist_modal_settings_order_random" : "随机",
 	"ui_browse_playlist_modal_settings_order_sorted" : "排序",
 	"ui_browse_playlist_modal_settings_timing_label" : "更换壁纸",
-	"ui_browse_playlist_modal_settings_timing_on_logon" : "当登录时",
+	"ui_browse_playlist_modal_settings_timing_on_logon" : "登录时更换",
 	"ui_browse_playlist_modal_settings_video_sequence" : "在视频结束时更换壁纸",
 	"ui_browse_playlist_modal_settings_update_on_pause" : "允许壁纸在暂停时更换",
 	"ui_browse_playlist_modal_settings_transition_enabled" : "显示壁纸过渡",
@@ -1149,7 +1149,6 @@
 	"ui_editor_select_texture" : "选择纹理",
 	
 	"ui_browse_playlist_modal_settings_timing_on_timer" : "定时更换",
-	"ui_browse_playlist_modal_settings_timing_on_logon" : "登录时更换",
 	"ui_browse_playlist_modal_settings_timing_daytime" : "全天顺序更换",
 	"ui_browse_playlist_modal_settings_timing_never" : "从不",
 	"ui_browse_playlist_modal_settings_timing_hours" : "小时",
