@@ -129,7 +129,7 @@
 	"ui_browse_modal_application_warning_body" : "您正在设置一个外部应用程序作为壁纸： <br/><b>{{filepath}}</b><br/>Wallpaper Engine 无法对这个应用程序加以控制, 您必须在选定这个程序前确保它来源于安全可信的渠道。",
 	"ui_browse_modal_application_warning_timer" : "<br/><br/>请等待 {{time}} 秒。",
 	"ui_browse_modal_unsubscribe_header" : "取消订阅",
-	"ui_browse_modal_unsubscribe_body" : "您确定要取消订阅： <b>{{title}}</b> 吗？",
+	"ui_browse_modal_unsubscribe_body" : "您确定要取消订阅 <b>{{title}}</b> 吗？<br/><br/>取消订阅后，Steam 将在浏览壁纸窗口关闭后自动删除壁纸文件。在浏览壁纸窗口关闭前，Steam 将不会删除壁纸。",
 	"ui_browse_modal_remove_local_header" : "从历史记录中删除",
 	"ui_browse_modal_remove_local_body" : "您确定要移除本地壁纸： <b>{{title}}</b> 吗？",
 	"ui_browse_open_url_header" : "从 URL 打开壁纸",
@@ -1147,14 +1147,15 @@
 
 	"ui_editor_select_material" : "选择材质",
 	"ui_editor_select_texture" : "选择纹理",
-	
-	"ui_browse_playlist_modal_settings_timing_on_timer" : "定时更换",
+
+		"ui_browse_playlist_modal_settings_timing_on_timer" : "定时更换",
+	"ui_browse_playlist_modal_settings_timing_on_logon" : "登录时更换",
 	"ui_browse_playlist_modal_settings_timing_daytime" : "全天顺序更换",
 	"ui_browse_playlist_modal_settings_timing_never" : "从不",
 	"ui_browse_playlist_modal_settings_timing_hours" : "小时",
 	"ui_browse_playlist_modal_settings_timing_minutes" : "分钟",
 	
-	"ui_browse_playlist_modal_settings_daytime_clock" : "时间制式",
+	"ui_browse_playlist_modal_settings_daytime_clock" : "小时制",
 	"ui_browse_playlist_modal_settings_clock_12" : "12 小时",
 	"ui_browse_playlist_modal_settings_clock_24" : "24 小时",
 	
