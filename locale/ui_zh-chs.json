@@ -1196,7 +1196,7 @@
 	"ui_editor_publish_modal_progress_prepare_config" : "提交物品中，正在完成配置……",
 	"ui_editor_publish_modal_progress_prepare_content" : "提交物品中，正在准备内容……",
 	"ui_editor_publish_modal_progress_uploading_content" : "提交物品中，正在上传文件数据……",
-	"ui_editor_publish_modal_progress_uploading_preview" : "提交物品中，正在上传预览图像。..",
+	"ui_editor_publish_modal_progress_uploading_preview" : "提交物品中，正在上传预览图像……",
 	"ui_editor_publish_modal_progress_final" : "提交物品中，正在完成更改……",
 	
 	"ui_editor_workshop_options_upload_as" : "上传为",
