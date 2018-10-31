@@ -328,8 +328,8 @@
 	"ui_editor_tooltip_scene_options" : "Sahne Seçenekleri",
 
 	"ui_editor_camera_add_path" : "Yol ekle",
-	"ui_editor_camera_select_path" : "Lütfen soldan bir yol seçin.",
-	"ui_editor_camera_add_renderable" : "Ekle",
+	"ui_editor_camera_select_path" : "Yol seç",
+	"ui_editor_camera_add_renderable" : "Öğe ekle",
 	"ui_editor_gizmo_translate" : "Çevir",
 	"ui_editor_gizmo_rotate" : "Döndür",
 	"ui_editor_gizmo_scale" : "Ölçekle",
@@ -1138,5 +1138,90 @@
 	"ui_workshop_tags_visibility_private" : "Özel",
 	"ui_workshop_tags_visibility_public" : "Genel",
 	"ui_workshop_workshop_tags_rating" : "Yaş Derecelendirmesi",
-	"ui_workshop_workshop_tags_rating_not_set" : "< Ayarlı değil >"
+	"ui_workshop_workshop_tags_rating_not_set" : "< Ayarlı değil >",
+	"ui_browse_monitors_save_profile" : "Profili kaydet",
+	"ui_browse_monitors_load_profile" : "Profili yükle",
+	
+	"ui_browse_profiles_modal_open_header" : "Profili yükle",
+	"ui_browse_profiles_modal_save_header" : "Profili kaydet",
+	"ui_browse_profiles_modal_save_name" : "İsim", 
+	"ui_browse_profiles_modal_save_description" : "Aynı isime sahip bir profil zaten varsa, üzerine yazılır.",
+	
+	"ui_browse_context_menu_hotkey" : "Kısayollar",
+	"ui_browse_context_menu_assign_hotkey" : "Kısayol Ata",
+	"ui_browse_context_menu_remove_hotkey" : "Kısayol Sil",
+	
+	"ui_browse_modal_hotkey_assign_wallpaper" : "Kısayolu duvar kağıdına ata {{name}}",
+	"ui_browse_modal_hotkey_assign_playlist" : "Oynatma listesine kısayol ata {{name}}",
+	"ui_browse_modal_hotkey_assign_profile" : "Kısayolu profile ata {{name}}",
+	"ui_browse_modal_hotkey_enter_hotkey" : "Kısayol Gir:",
+	
+	"ui_settings_hotkeys" : "Kısayollar:",
+	"ui_settings_hotkeys_header" : "Kısayollar",
+	"ui_settings_hotkeys_group_playback" : "Oynatma Listesi",
+	"ui_settings_hotkeys_group_general" : "Genel",
+	"ui_settings_hotkeys_group_windows" : "Pencereler",
+	"ui_settings_hotkeys_group_wallpaper" : "Duvar kağıdını değiştir",
+	"ui_settings_hotkeys_group_wallpaper_stub" : "Duvar kağıtlarına, oynatma listelerine veya profillere kısayol tuşları atayabilirsiniz.",
+	"ui_settings_hotkeys_action_pause" : "Duvar kağıtlarını duraklat",
+	"ui_settings_hotkeys_action_stop" : "Duvar kağıtlarını dondur",
+	"ui_settings_hotkeys_action_mute" : "Duvar kağıtlarını sessizleştir",
+	"ui_settings_hotkeys_action_recording" : "Ses kaydını değiştir",
+	"ui_settings_hotkeys_action_hide_icons" : "Masaüstü simgelerini gizle",
+	"ui_settings_hotkeys_action_take_screenshot" : "Ekran görüntüsü al",
+	"ui_settings_hotkeys_action_next_wallpaper" : "Sonraki duvar kağıdı",
+	"ui_settings_hotkeys_action_window_browser" : "Duvar kağıtlarına gözatın",
+	"ui_settings_hotkeys_action_window_settings" : "Ayarlar",
+	"ui_settings_hotkeys_action_window_editor" : "Düzenleyici",
+	"ui_settings_hotkeys_action_user_wallpaper" : "Duvar kağıdını seç",
+	"ui_settings_hotkeys_action_user_playlist" : "Oynatma listesi seç",
+	"ui_settings_hotkeys_action_user_profile" : "Profil seç",
+	"ui_settings_hotkeys_modal_prompt_override_header" : "Kısayolu geçersiz kıl",
+	"ui_settings_hotkeys_modal_prompt_override_body" : "Bu anahtar zaten '{{action}}' a atandı. Bunun yerine buraya atamak ister misiniz?",
+	"ui_browse_preset_filter_notice" : "Hazır ayarlar aranıyor: {{title}}",
+	
+	"ui_browse_details_properties_reset_prompt_header" : "Özellikleri Sıfırla",
+	"ui_browse_details_properties_reset_prompt_body" : "Mevcut özellikleri varsayılan değerlerine sıfırlamak istiyor musunuz?",
+	
+	"ui_browse_details_properties_preset_publish_to_workshop" : "Ön Ayarı Yayınla",
+	"ui_browse_details_properties_preset_browse_workshop" : "Ön Ayarı Ara ({{count}})",
+	"ui_browse_details_properties_preset_hint_header" : "Duvar Kağıdı Ön Ayarları",
+	"ui_browse_details_properties_preset_hint_body" : "A <b> Atölye ön ayarı </ b>, duvar kağıdınızın ayarlarını ve duvar kağıdına aktarmış olabileceğiniz tüm görüntüleri veya videoları içerir. <br/> <br/> Bunları normal duvar kağıtları gibi Steam atölyesinde yayınlayabilirsiniz. Diğer kullanıcılara yarattığınız ayarlarla gerçekçi görünüm ve hissi deneyimlemelerine izin verin. Diğer kullanıcıların paylaştığı <b> ön ayarları </ b> da indirebilirsiniz.",
+	"ui_browse_details_header_presets" : "Ön Ayarlarınız",
+	"ui_browse_details_header_workshop" : "Atölye Ön Ayarları",
+	
+	"ui_browse_filter_category_wallpaper" : "Duvar kağıdı",
+	"ui_browse_filter_category_preset" : "Ön Ayar",
+	
+	"ui_browse_modal_remove_preset_info" : "<br/> <br/> Aşağıdaki aboneliği iptal etmeye çalıştığınız duvar kağıdına / kağıtlarına bağlı olarak değişir: <b> {{presets}} </ b>",
+	"ui_browse_modal_subscribe_preset_header" : "Duvar kağıdı bağımlılığına abone olunuyor",
+	"ui_browse_modal_subscribe_preset_body" : "Duvar kağıdı <b> {{title}} </ b>, kullanmak için abone olmanız gereken başka bir duvar kağıdının önceden ayarlanmış halidir. <br/> <br/> Her ikisine de abone misiniz?",
+	"ui_browse_modal_subscribe_preset_open_dependency" : "Açık Bağımlılık",
+	
+	"ui_browse_preset_modal_save_description" : "Aynı isime sahip bir ön ayar zaten mevcutsa, üzerine yazılır.",
+	
+	"ui_browse_preset_modal_empty" : "Bu duvar kağıdı için henüz herhangi bir ön ayar oluşturmadınız.",
+	
+	"ui_browse_context_menu_choose_preset" : "Ön Ayarı Seç",
+	"ui_browse_context_menu_remove_preset" : "Ön Ayarı Sil",
+	
+	"ui_settings_hotkeys_prompt_enter_combination" : "Tuş kombinasyonu",
+	
+	"ui_editor_publish_modal_progress_validate" : "Atölye Öğesi Doğrulanıyor...",
+	"ui_editor_publish_modal_progress_create" : "Atölye Öğesi Oluşturuluyor...",
+	"ui_editor_publish_modal_progress_prepare_data" : "Atölye Öğesi Verileri Güncelleştiriliyor...",
+	"ui_editor_publish_modal_progress_prepare_item" : "Atölye Öğesi Gönderiliyor...",
+	"ui_editor_publish_modal_progress_prepare_config" : "Atölye Öğesi gönderilip, ayarları işleniyor...",
+	"ui_editor_publish_modal_progress_prepare_content" : "Atölye Öğesi gönderilip, içerik işleniyor...",
+	"ui_editor_publish_modal_progress_uploading_content" : "Atölye Öğesi gönderilip, içerik karşıya yükleniyor...",
+	"ui_editor_publish_modal_progress_uploading_preview" : "Atölye Öğesi gönderilip, önizleme görüntüsü karşıya yükleniyor...",
+	"ui_editor_publish_modal_progress_final" : "Atölye Öğesi gönderilip, değişiklikler yapılıyor...",
+	
+	"ui_editor_workshop_options_upload_as" : "Farklı yükle",
+	"ui_editor_workshop_options_upload_as_new_item" : "Yeni öğe oluştur",
+	"ui_editor_workshop_options_upload_as_update" : "Varolan öğeyi güncelleştir {{name}}",
+	"ui_editor_workshop_options_upload_as_pending" : "Steam'in yanıt vermesi bekleniyor...",
+	"ui_browse_no_service_body_use_backup" : "<br/><br/>Wallpaper Engine, şimdi <b>STEAM (VALVE)</b> ile ilgili sorunları sıralayana kadar hızlı bir yedekleme yapmaya çalışacak.",
+	
+	"ui_browse_steam_offline_notice" : "<b>STEAM</b> sunucuları şu an <b>OFFLINE</b>. {{date}} tarihinden hızlı bir yedeklemeye göz atıyorsunuz. Lütfen <b>STEAM (VALVE)</b> şirketinin <b>STEAM</b> sunucularını düzeltmesi için birkaç saat bekleyin."
 }
