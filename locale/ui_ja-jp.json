@@ -45,9 +45,11 @@
 	"ui_browse_advertise_workshop" : "新しい壁紙のためワークショップを閲覧するには、ここをクリックしてください！",
 	"ui_browse_no_service_header" : "Steam サービスは利用できません",
 	"ui_browse_no_service_body" : "<b>STEAM</b> Workshopのサービスは現在利用できません. これはWallpaper Engineのエラーでは<i>ありません</i>. 数時間待ってからもう一度お試しください.<br/><br/>問題は<b>STEAM</b>サーバーで発生し、すぐに解決されます.",
+	"ui_browse_no_service_body_use_backup" : "<br/><br/>Wallpaper Engineは<b>Steam (Valve)</b>の問題が解決するまで、緊急のバックアップを表示します。",
 	"ui_browse_reload" : "リロード",
 	"ui_browse_clear_filters" : "フィルタークリア",
 	"ui_browse_preset_filter_notice" : "プリセット一覧: {{title}}",
+	"ui_browse_steam_offline_notice" : "<b>Steam</b>サーバーは<b>オフライン</b>です。 現在 {{date}}の緊急のバックアップを閲覧中です。<b>Steam</b>サーバーがオンラインになるまでお待ち下さい。",
 		
 	"ui_browse_details_title" : "タイトル:",
 	"ui_browse_details_author" : "作者:",
