@@ -7,7 +7,7 @@ use WPE\Localization\AbstractScript\AbstractScript;
 
 require 'vendor/autoload.php';
 
-class BuildLocales extends AbstractScript
+class BuildMissingIndex extends AbstractScript
 {
     const OUTPUT_DIRECTORY = 'missing_translations/';
 
@@ -34,5 +34,5 @@ class BuildLocales extends AbstractScript
     }
 }
 
-$languageStats = new BuildLocales();
+$languageStats = new BuildMissingIndex();
 exit($languageStats->execute());

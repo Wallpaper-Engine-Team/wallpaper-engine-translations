@@ -1,0 +1,21 @@
+{
+    "core_tray_saved_playlists": "",
+    "core_tray_saved_profiles": "",
+    "core_tray_mute": "",
+    "core_tray_unmute": "",
+    "core_balloon_pkg_version_error": "",
+    "core_balloon_wallpaper_file_missing": "",
+    "core_msgbox_prompt_high_contrast_was_enabled": "",
+    "core_msgbox_aero_failure": "",
+    "core_updater_headline_cancelled": "",
+    "core_updater_status_distro_prepare_error": "",
+    "core_updater_status_distro_copy_error": "",
+    "core_updater_status_distro_file_skip": "",
+    "core_updater_status_cancelled": "",
+    "core_updater_status_corrupted_system_module_message_box_title": "",
+    "core_updater_status_corrupted_system_module_message_box_body": "",
+    "core_updater_prompt_close": "",
+    "core_updater_prompt_close_foreign": "",
+    "core_updater_status_directx_not_supported_title": "",
+    "core_updater_status_directx_not_supported_body": ""
+}
