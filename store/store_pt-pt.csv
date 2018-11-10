@@ -1,0 +1,36 @@
+system_requirements,"As versões N do Windows requerem o ""Media Feature Pack"" da Microsoft. O Aero deve estar ativado no Windows 7. O modo de alto contraste não é suportado. Resolução máxima de vídeo para o Windows 8, 10: 4K, Windows 7: 1080p"
+description_short,Use wallpapers animados deslumbrantes na sua área de trabalho. Anime as suas próprias imagens para criar wallpapers novos ou importe vídeos/websites e partilhe-os no Steam Workshop!
+description_long,"O Wallpaper Engine permite-lhe usar wallpapers animados no seu ambiente de trabalho do Windows. Vários tipos de wallpapers animados são suportados, incluindo animações em 3D e 2D, websites, vídeos e até mesmo certas aplicações. Escolha um wallpaper já existente ou crie o seu próprio e partilhe-o no Steam Workshop!
+
+[img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
+
+[list]
+[*]Dê vida ao seu ambiente de trabalho com gráficos, vídeos, aplicações ou websites em tempo real.
+[*]Personalize wallpapers animados com as suas cores favoritas.
+[*]Use wallpapers interativos que podem ser controlados com o rato.
+[*]Compatível com muitas proporções de ecrã e resoluções nativas, incluindo 16:9, 21:9, 16:10, 4:3.
+[*]Pode ser usado em sistemas com vários monitores em simultâneo.
+[*]Os wallpapers são pausados enquanto joga para melhorar o desempenho.
+[*]Crie os seus próprios wallpapers animados no editor do Wallpaper Engine.
+[*]Anime novos wallpapers a partir de imagens básicas, ou importe ficheiros HTML ou de vídeo para o wallpaper.
+[*]Compatível com o Steam Workshop para partilhar e transferir wallpapers.
+[*]O Wallpaper Engine pode ser utilizado simultaneamente com qualquer outro jogo ou aplicação do Steam.
+[*]Formatos de vídeo suportados: mp4, WebM, avi, m4v, mov, wmv (para ficheiros locais, o Workshop só permite mp4).
+[*]Compatível com Corsair iCUE.
+[/list]
+
+[img]{STEAM_APP_IMAGE}/extras/title_performance.png[/img]
+[h2][/h2]
+O Wallpaper Engine tem como objetivo oferecer uma experiência divertida usando o mínimo possível de recursos do sistema. Pode optar por pausar ou parar por completo o wallpaper automaticamente enquanto usa outra aplicação ou joga em ecrã completo (incluindo o modo de janela sem bordas) para que o wallpaper não seja uma distração ou inconveniência enquanto estiver a jogar ou a trabalhar. Muitas opções de ajuste da qualidade e do desempenho permitem que o Wallpaper Engine se adapte perfeitamente ao seu computador. Como regra geral, os wallpapers em 3D, 2D e baseados em vídeo terão um melhor desempenho, enquanto websites e aplicações irão necessitar de mais recursos do seu sistema. Ter uma GPU dedicada é altamente recomendado, mas não obrigatório.
+[h2][/h2]
+[img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
+[h2][/h2]
+Escolha entre mais de 350.000 wallpapers gratuitos do Steam Workshop, com novos wallpapers adicionados todos os dias! Não encontra nenhum wallpaper adequado ao seu humor? Dê asas à sua imaginação utilizando o editor do Wallpaper Engine para criar os seus próprios wallpapers animados a partir de imagens, vídeos, websites ou aplicações. Uma grande variedade de predefinições e efeitos permitem que anime as suas próprias imagens e as partilhe no Steam Workshop ou as use apenas para você mesmo."
+description_image_features,Funcionalidades
+description_image_performance,Desempenho
+screenshot_text_customization,Personalize wallpapers
+screenshot_text_performance,Muitas opções para ajustar o desempenho às suas necessidades
+screenshot_text_images,Anime as suas próprias imagens
+screenshot_text_tools,Muitas ferramentas para criar animações
+screenshot_text_presets,Adicione efeitos predefinidos rapidamente
+screenshot_text_effects,Crie os seus próprios efeitos complexos 
