@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 namespace WPE\Localization;
 
-use WPE\Localization\LanguageFile\BaseFile;
+use WPE\Localization\AbstractScript\AbstractScript;
 use WPE\Localization\LanguageFile\LanguageFile;
 
 require 'vendor/autoload.php';
@@ -12,25 +12,24 @@ require 'vendor/autoload.php';
  * Class LocalizationAnalyzer
  * Returns error code 1 on failure and 0 on successful validation
  */
-class LocalizationAnalyzer
+class LocalizationAnalyzer extends AbstractScript
 {
-    private const BASE_FILES = ['core_en-us.json', 'ui_en-us.json'];
+    private $printMissingKeys;
 
-    private $baseDir;
-    private $baseFiles = [];
-    private $languageFiles;
-
-    public function __construct()
+    public function __construct(bool $printMissingKeys)
     {
-        $this->baseDir = getcwd().DIRECTORY_SEPARATOR.'locale'.DIRECTORY_SEPARATOR;
-        $this->loadBaseFiles();
+        parent::__construct();
+        $this->printMissingKeys = $printMissingKeys;
     }
 
     public function execute(): int
     {
-        $languageFiles = self::getLanguageFiles();
-        foreach ($languageFiles as $languageFile) {
+        foreach (self::getLanguageFiles() as $languageFile) {
             $this->printCompletionStats($languageFile);
+            if ((count($languageFile->getMissingKeys())) && $this->printMissingKeys) {
+                echo "\n\n------Missing Keys------\n\n";
+                $this->printMissingKeys($languageFile);
+            }
         }
 
         $this->printViolations();
@@ -41,43 +40,21 @@ class LocalizationAnalyzer
     private function printCompletionStats(LanguageFile $languageFile): void
     {
         echo sprintf(
-            "%s:\t%s%%\tMissing: %s\n",
+            "\n%s:\t%s%%\tMissing: %s\n",
             $languageFile->getName(),
             $languageFile->getFileCompletion(),
             count($languageFile->getMissingKeys())
         );
     }
 
-    private function loadBaseFiles()
+    private function printMissingKeys(LanguageFile $languageFile): void
     {
-        foreach (self::BASE_FILES as $baseFile) {
-            $baseFile = BaseFile::createBaseFile($this->baseDir.$baseFile);
-            $this->baseFiles[$baseFile->getFileGroup()] = $baseFile;
+        foreach ($languageFile->getMissingKeys() as $missingKey) {
+            echo sprintf(
+                "%s\n",
+                $missingKey
+            );
         }
-    }
-
-    /**
-     * @return LanguageFile[]
-     */
-    private function getLanguageFiles(): array {
-        if ($this->languageFiles === null) {
-            foreach ($this->getLanguageFileNames() as $file) {
-                $this->languageFiles[] = LanguageFile::createLanguageFile($this->baseDir.$file, $this->baseFiles);
-            }
-        }
-        return $this->languageFiles;
-    }
-
-    private function getLanguageFileNames(): array
-    {
-        $languageFiles = scandir($this->baseDir);
-
-        return array_filter($languageFiles, array(LocalizationAnalyzer::class, 'filterSourceFiles'));
-    }
-
-    private function filterSourceFiles(string $file): bool
-    {
-        return pathinfo($file, PATHINFO_EXTENSION) === 'json' && !in_array($file, self::BASE_FILES);
     }
 
     private function printViolations(): void
@@ -104,5 +81,11 @@ class LocalizationAnalyzer
     }
 }
 
-$languageStats = new LocalizationAnalyzer();
+$printMissing = false;
+foreach ($argv as $argument) {
+    if ($argument === '--print-missing') {
+        $printMissing = true;
+    }
+}
+$languageStats = new LocalizationAnalyzer($printMissing);
 exit($languageStats->execute());
