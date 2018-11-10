@@ -35,7 +35,7 @@
     "core_msgbox_init_secondinstance_ask_quit": "Wallpaper Engine zaten çalışıyor ve yanıt vermiyor gibi görünüyor.\n\nZorla yeniden başlatmak istiyor musunuz ?",
     "core_msgbox_init_secondinstance_failed": "Yeniden başlatma başarısız, hata kodu:",
     "core_msgbox_below_win_7": "Wallpaper Engine, Windows 7 veya üstünü gerektirir. Bu bir sistem gereksinimidir.\n\nWindows'un desteklenmeyen bir sürümünü çalıştırıyorsunuz. Wallpaper Engine çalışmayabilir.",
-    "core_msgbox_media_feature_pack_missing": "mfplat.dll eksik!\nWindows N sürümüne sahip olabilirsiniz. Lütfen video desteğini etkinleştirmek için Microsoft tarafından Medya Özellik Paketi'ni yükleyin! (Google: Medya Özellik Paketi Windows 10\/8.1\/7)",
+    "core_msgbox_media_feature_pack_missing": "mfplat.dll eksik!\nWindows N sürümüne sahip olabilirsiniz. Lütfen video desteğini etkinleştirmek için Microsoft tarafından Medya Özellik Paketi'ni yükleyin! (Google: Medya Özellik Paketi Windows 10/8.1/7)",
     "core_updater_headline_init": "Wallpaper Engine ayarlanıyor...",
     "core_updater_headline_update": "Wallpaper Engine, {{version}} sürümüne güncelleniyor...",
     "core_updater_headline_init_complete": "{{version}} sürümünün kurulumu tamamlandı. Wallpaper Engine başlatılıyor...",

@@ -1,15 +1,15 @@
 {
-    "core_tray_saved_playlists": "",
-    "core_tray_saved_profiles": "",
-    "core_tray_mute": "",
-    "core_tray_unmute": "",
-    "core_balloon_pkg_version_error": "",
-    "core_balloon_wallpaper_file_missing": "",
-    "core_msgbox_prompt_high_contrast_was_enabled": "",
-    "core_msgbox_aero_failure": "",
-    "core_updater_status_distro_copy_error": "",
-    "core_updater_status_distro_file_skip": "",
-    "core_updater_prompt_close_foreign": "",
-    "core_updater_status_directx_not_supported_title": "",
-    "core_updater_status_directx_not_supported_body": ""
+    "core_tray_saved_playlists": "Saved Playlists",
+    "core_tray_saved_profiles": "Saved Profiles",
+    "core_tray_mute": "Mute",
+    "core_tray_unmute": "Unmute",
+    "core_balloon_pkg_version_error": "This wallpaper cannot be opened due to requiring a newer version of Wallpaper Engine. Try installing the latest version via Steam.",
+    "core_balloon_wallpaper_file_missing": "This wallpaper cannot be opened because it is missing its files.",
+    "core_msgbox_prompt_high_contrast_was_enabled": "Windows has just applied a 'high contrast' theme which does not allow Wallpaper Engine to work.",
+    "core_msgbox_aero_failure": "Failed to enable Aero.\n\nIt looks like Windows is preventing Aero from being enabled, unfortunately it is an important requirement and Wallpaper Engine cannot work without it.\n\nTry to enable Aero in the Windows theme options directly and start Wallpaper Engine again.",
+    "core_updater_status_distro_copy_error": "Boost error while copying files {{error}}",
+    "core_updater_status_distro_file_skip": "Skipping equal file: {{filepath}}",
+    "core_updater_prompt_close_foreign": "Wallpaper Engine cannot continue updating because a program appears to be locking the files. Please close these programs to continue:",
+    "core_updater_status_directx_not_supported_title": "DirectX 10 not supported",
+    "core_updater_status_directx_not_supported_body": "It appears that your graphics card does not support DirectX 10 or that your graphics driver has an issue. DirectX 10 is a system requirement for this application to work correctly.\n\nIf your graphics card is supposed to support DirectX 10, your current graphics driver could just be damaged. You can try reinstalling the driver or getting in touch with the vendor of your hardware (Nvidia, AMD, Intel) to solve this."
 }

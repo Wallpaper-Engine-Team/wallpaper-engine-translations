@@ -1,3 +1,3 @@
 {
-    "core_updater_prompt_close_foreign": ""
+    "core_updater_prompt_close_foreign": "Wallpaper Engine cannot continue updating because a program appears to be locking the files. Please close these programs to continue:"
 }

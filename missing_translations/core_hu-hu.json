@@ -1,5 +1,5 @@
 {
-    "core_tray_saved_playlists": "",
-    "core_tray_saved_profiles": "",
-    "core_updater_prompt_close_foreign": ""
+    "core_tray_saved_playlists": "Saved Playlists",
+    "core_tray_saved_profiles": "Saved Profiles",
+    "core_updater_prompt_close_foreign": "Wallpaper Engine cannot continue updating because a program appears to be locking the files. Please close these programs to continue:"
 }

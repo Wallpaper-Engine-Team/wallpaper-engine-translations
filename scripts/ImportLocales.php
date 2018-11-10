@@ -83,7 +83,7 @@ class ImportLocales extends AbstractScript
 
             $OK = file_put_contents(
                 $this->outputDirectory.$importFile->getName(),
-                json_encode($outputJson, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE )
+                json_encode($outputJson, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES )
             );
             echo sprintf(
                 "Updated %s strings (%s new strings, %s updated strings, %s skipped strings).\n\n",

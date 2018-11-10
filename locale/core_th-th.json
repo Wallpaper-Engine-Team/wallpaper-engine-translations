@@ -35,7 +35,7 @@
     "core_msgbox_init_secondinstance_ask_quit": "Wallpaper Engine ดูเหมือนจะทำงานอยู่ และไม่ตอบสนอง\n\nคุณต้องการเริ่มต้นโปรแกรมใหม่เดี๋ยวนี้หรือไม่?",
     "core_msgbox_init_secondinstance_failed": "การเริ่มใหม่ล้มเหลว รหัสข้อผิดพลาด:",
     "core_msgbox_below_win_7": "Wallpaper Engine ต้องการ Windows 7 หรือสูงกว่าซึ่งเป็นข้อกำหนดของระบบ\n\nคุณกำลังใช้งานเวอร์ชันที่ไม่รองรับของ Windows และ Wallpaper Engine อาจไม่ทำงาน",
-    "core_msgbox_media_feature_pack_missing": "ไม่มี mfplat.dll!\nคุณอาจจะมี Windows N โปรดติดตั้ง Media Feature Pack จาก Microsoft เพื่อเปิดใช้งานการรองรับวิดีโอ! (Google: Media Feature Pack Windows 10\/8.1\/7)",
+    "core_msgbox_media_feature_pack_missing": "ไม่มี mfplat.dll!\nคุณอาจจะมี Windows N โปรดติดตั้ง Media Feature Pack จาก Microsoft เพื่อเปิดใช้งานการรองรับวิดีโอ! (Google: Media Feature Pack Windows 10/8.1/7)",
     "core_updater_headline_init": "กำลังติดตั้ง Wallpaper Engine...",
     "core_updater_headline_update": "กำลังอัพเดท Wallpaper Engine ไปยังรุ่น {{version}}...",
     "core_updater_headline_init_complete": "การติดตั้งเวอร์ชัน {{version}} เสร็จสมบูรณ์ กำลังเริ่มต้น Wallpaper Engine...",

@@ -35,7 +35,7 @@
     "core_msgbox_init_secondinstance_ask_quit": "Wallpaper Engine est déjà en cours d'exécution et ne répond pas.\n\nVoulez-vous forcer son redémarrage ?",
     "core_msgbox_init_secondinstance_failed": "Échec du redémarrage, code d'erreur :",
     "core_msgbox_below_win_7": "Wallpaper Engine requiert Windows 7 ou plus, comme indiqué par la configuration système requise sur Steam.\n\nIl apparaît que vous utilisez une version non prise en charge de Windows et Wallpaper Engine peut ne pas fonctionner.",
-    "core_msgbox_media_feature_pack_missing": "mfplat.dll est introuvable !\nVous avez peut-être Windows N. Veuillez installer le Media Feature Pack de Microsoft pour activer le support vidéo ! (Google : Media Feature Pack Windows 10\/8.1\/7)",
+    "core_msgbox_media_feature_pack_missing": "mfplat.dll est introuvable !\nVous avez peut-être Windows N. Veuillez installer le Media Feature Pack de Microsoft pour activer le support vidéo ! (Google : Media Feature Pack Windows 10/8.1/7)",
     "core_updater_headline_init": "Configuration de Wallpaper Engine...",
     "core_updater_headline_update": "Mise à jour de Wallpaper Engine vers la version {{version}}...",
     "core_updater_headline_init_complete": "Configuration terminée de la version {{version}}. Démarrage de Wallpaper Engine...",

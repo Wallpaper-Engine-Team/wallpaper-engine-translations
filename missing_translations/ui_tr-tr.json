@@ -1,9 +1,9 @@
 {
-    "ui_browse_details_properties_apply_to_all_wallpapers": "",
-    "ui_browse_details_properties_apply_to_all_wallpapers_header": "",
-    "ui_browse_details_properties_apply_to_all": "",
-    "ui_browse_details_properties_apply_to_all_instructions": "",
-    "ui_browse_details_properties_apply_to_all_overwrite": "",
-    "ui_browse_details_properties_apply_to_all_restore_defaults": "",
-    "ui_settings_hotkeys_example": ""
+    "ui_browse_details_properties_apply_to_all_wallpapers": "Apply to all Wallpapers",
+    "ui_browse_details_properties_apply_to_all_wallpapers_header": "Apply to all Wallpapers and set Default Values",
+    "ui_browse_details_properties_apply_to_all": "Apply to all",
+    "ui_browse_details_properties_apply_to_all_instructions": "Set the default values for all wallpapers to the current ones and optionally reset all existing wallpapers to these values.",
+    "ui_browse_details_properties_apply_to_all_overwrite": "Reset existing wallpapers",
+    "ui_browse_details_properties_apply_to_all_restore_defaults": "Restore default values",
+    "ui_settings_hotkeys_example": "Hotkeys must contain Ctrl, Shift, Alt. Examples:<br/><br/>Shift + Ctrl + B<br/>Shift + F1<br/><br/>A red border means that your hotkey is not valid."
 }

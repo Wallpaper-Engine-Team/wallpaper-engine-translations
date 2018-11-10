@@ -1,6 +1,6 @@
 {
-    "core_tray_saved_playlists": "",
-    "core_tray_saved_profiles": "",
-    "core_msgbox_aero_failure": "",
-    "core_updater_prompt_close_foreign": ""
+    "core_tray_saved_playlists": "Saved Playlists",
+    "core_tray_saved_profiles": "Saved Profiles",
+    "core_msgbox_aero_failure": "Failed to enable Aero.\n\nIt looks like Windows is preventing Aero from being enabled, unfortunately it is an important requirement and Wallpaper Engine cannot work without it.\n\nTry to enable Aero in the Windows theme options directly and start Wallpaper Engine again.",
+    "core_updater_prompt_close_foreign": "Wallpaper Engine cannot continue updating because a program appears to be locking the files. Please close these programs to continue:"
 }

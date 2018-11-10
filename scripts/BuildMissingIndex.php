@@ -20,9 +20,13 @@ class BuildMissingIndex extends AbstractScript
                     "Writing missing keys to %s\n",
                     self::OUTPUT_DIRECTORY.$languageFile->getName()
                 );
+                $missingKeys = [];
+                foreach ($languageFile->getMissingKeys() as $missingKey) {
+                    $missingKeys[$missingKey] = $languageFile->getBaseFile()->getJsonData()[$missingKey];
+                }
                 $OK = file_put_contents(
                     self::OUTPUT_DIRECTORY.$languageFile->getName(),
-                    json_encode(array_fill_keys($languageFile->getMissingKeys(), ''), JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE)
+                    json_encode($missingKeys, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES )
                 );
                 if ($OK === false) {
                     $hasFailed = true;
