@@ -1,59 +1,43 @@
 <?php
 declare(strict_types=1);
 
-namespace WPE\Localization;
+namespace WPE\Localization\LanguageFile;
 
 use PHPHtmlParser\Dom;
-use Seld\JsonLint\JsonParser;
 
-class LanguageFile
+class LanguageFile extends AbstractFile implements LanguageFileInterface
 {
-    private $filePath;
-    private $jsonValues;
     private $missingKeys;
     private $violations = [];
+    private $baseFile;
 
-    public function __construct(string $filePath)
+    private function __construct(string $filePath, string $fileGroup, BaseFile $baseFile)
     {
-        $this->filePath = $filePath;
+        $this->baseFile = $baseFile;
+        parent::__construct($filePath, $fileGroup);
     }
 
-    public function getName(): string
+    public static function createLanguageFile(string $filePath, array $baseFiles): LanguageFile
     {
-        return basename($this->filePath);
-    }
-
-    public function getFileGroup(): string
-    {
-        $groupNamePos = strpos($this->getName(), '_');
-        if ($groupNamePos === false) {
-            throw new \InvalidArgumentException('Invalid file name: '.$this->filePath);
+        $fileGroup = self::parseFileGroup($filePath);
+        if (!isset($baseFiles[$fileGroup])) {
+            throw new \InvalidArgumentException('Unable to match file to base file: '.$filePath);
         }
-
-        return substr($this->getName(), 0, $groupNamePos);
+        return new LanguageFile($filePath, $fileGroup, $baseFiles[$fileGroup]);
     }
 
-    public function getJsonData(): array
+    public function getFileCompletion(): float
     {
-        if ($this->jsonValues === null) {
-            $this->parseJson();
-        }
-
-        return $this->jsonValues;
+        return 100 - floor(count($this->getMissingKeys()) / count($this->baseFile->getJsonData()) * 100);
     }
 
-    public function getFileCompletion(LanguageFile $baseFile): float
-    {
-        return 100 - floor(count($this->getMissingKeys($baseFile)) / count($baseFile->getJsonData()) * 100);
-    }
-
-    public function getMissingKeys(LanguageFile $baseFile): array
+    public function getMissingKeys(): array
     {
         if ($this->missingKeys !== null) {
             return $this->missingKeys;
         }
         $this->missingKeys = [];
-        foreach ($baseFile->getJsonData() as $baseKey => $baseString) {
+        foreach ($this->baseFile->getJsonData() as $baseKey => $baseString) {
             $found = false;
             foreach ($this->getJsonData() as $jsonKey => $localizedString) {
                 if ($baseKey === $jsonKey) {
@@ -68,7 +52,7 @@ class LanguageFile
                 $this->missingKeys[] = $baseKey;
             }
         }
-        $this->findInvalidKeys($baseFile);
+        $this->findInvalidKeys();
 
         return $this->missingKeys;
     }
@@ -137,14 +121,17 @@ class LanguageFile
                 }
             }
             if (count($localizedTags) > 0) {
-                $this->addViolation('HTML content for "'.$jsonKey.'" does not match base string. Check near "' . $localizedTag->outerHtml() . '"');
+                $this->addViolation(
+                    'HTML content for "'.$jsonKey.'" does not match base string. Check near "'.$localizedTag->outerHtml(
+                    ).'"'
+                );
             }
         }
     }
 
-    private function findInvalidKeys(LanguageFile $baseFile)
+    private function findInvalidKeys()
     {
-        $baseKeys = $baseFile->getJsonData();
+        $baseKeys = $this->baseFile->getJsonData();
         foreach ($this->getJsonData() as $jsonKey => $jsonData) {
             if (isset($baseKeys[$jsonKey]) === false) {
                 $this->addViolation('Key "'.$jsonKey.'" does not exist in base file');
@@ -165,20 +152,5 @@ class LanguageFile
     public function getViolations(): array
     {
         return $this->violations;
-    }
-
-    private function parseJson(): void
-    {
-        $content = file_get_contents($this->filePath);
-        $jsonParser = new JsonParser();
-        if ($content == '') {
-            throw new \InvalidArgumentException($this->filePath.' is not readable or empty.');
-        }
-        if ($error = $jsonParser->lint($content, JsonParser::DETECT_KEY_CONFLICTS)) {
-            echo $this->filePath.': '.$error->getMessage();
-            exit(1);
-
-        }
-        $this->jsonValues = $jsonParser->parse($content, JsonParser::PARSE_TO_ASSOC);
     }
 }

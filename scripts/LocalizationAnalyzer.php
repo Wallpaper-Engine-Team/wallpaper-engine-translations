@@ -3,6 +3,9 @@ declare(strict_types=1);
 
 namespace WPE\Localization;
 
+use WPE\Localization\LanguageFile\BaseFile;
+use WPE\Localization\LanguageFile\LanguageFile;
+
 require 'vendor/autoload.php';
 
 /**
@@ -37,21 +40,18 @@ class LocalizationAnalyzer
 
     private function printCompletionStats(LanguageFile $languageFile): void
     {
-        if (!isset($this->baseFiles[$languageFile->getFileGroup()])) {
-            throw new \InvalidArgumentException('Unable to match file to base file: '.$languageFile->getName());
-        }
-
         echo sprintf(
-            "%s: %s%%\n",
+            "%s:\t%s%%\tMissing: %s\n",
             $languageFile->getName(),
-            $languageFile->getFileCompletion($this->baseFiles[$languageFile->getFileGroup()])
+            $languageFile->getFileCompletion(),
+            count($languageFile->getMissingKeys())
         );
     }
 
     private function loadBaseFiles()
     {
         foreach (self::BASE_FILES as $baseFile) {
-            $baseFile = new LanguageFile($this->baseDir.$baseFile);
+            $baseFile = BaseFile::createBaseFile($this->baseDir.$baseFile);
             $this->baseFiles[$baseFile->getFileGroup()] = $baseFile;
         }
     }
@@ -62,7 +62,7 @@ class LocalizationAnalyzer
     private function getLanguageFiles(): array {
         if ($this->languageFiles === null) {
             foreach ($this->getLanguageFileNames() as $file) {
-                $this->languageFiles[] = new LanguageFile($this->baseDir.$file);
+                $this->languageFiles[] = LanguageFile::createLanguageFile($this->baseDir.$file, $this->baseFiles);
             }
         }
         return $this->languageFiles;
