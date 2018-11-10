@@ -129,14 +129,8 @@ class LanguageFile extends AbstractFile implements LanguageFileInterface
         }
     }
 
-    private function findInvalidKeys()
-    {
-        $baseKeys = $this->baseFile->getJsonData();
-        foreach ($this->getJsonData() as $jsonKey => $jsonData) {
-            if (isset($baseKeys[$jsonKey]) === false) {
-                $this->addViolation('Key "'.$jsonKey.'" does not exist in base file');
-            }
-        }
+    public function getBaseFile(): BaseFile {
+        return $this->baseFile;
     }
 
     public function addViolation(string $errorMessage): void
@@ -152,5 +146,15 @@ class LanguageFile extends AbstractFile implements LanguageFileInterface
     public function getViolations(): array
     {
         return $this->violations;
+    }
+
+    private function findInvalidKeys()
+    {
+        $baseKeys = $this->baseFile->getJsonData();
+        foreach ($this->getJsonData() as $jsonKey => $jsonData) {
+            if (isset($baseKeys[$jsonKey]) === false) {
+                $this->addViolation('Key "'.$jsonKey.'" does not exist in base file');
+            }
+        }
     }
 }

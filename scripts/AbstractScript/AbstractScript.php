@@ -12,8 +12,8 @@ abstract class AbstractScript implements ScriptInterface
 {
     private const BASE_FILES = ['core_en-us.json', 'ui_en-us.json'];
 
-    private $baseDir;
-    private $baseFiles = [];
+    protected $baseDir;
+    protected $baseFiles = [];
     private $languageFiles;
 
     public function __construct()
@@ -55,6 +55,6 @@ abstract class AbstractScript implements ScriptInterface
 
     protected function filterSourceFiles(string $file): bool
     {
-        return pathinfo($file, PATHINFO_EXTENSION) === 'json' && !in_array($file, self::BASE_FILES);
+        return pathinfo($file, PATHINFO_EXTENSION) === 'json' && !in_array($file, self::BASE_FILES) && strpos($file, 'qqq') === false;
     }
 }

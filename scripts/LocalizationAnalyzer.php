@@ -27,7 +27,7 @@ class LocalizationAnalyzer extends AbstractScript
         foreach (self::getLanguageFiles() as $languageFile) {
             $this->printCompletionStats($languageFile);
             if ((count($languageFile->getMissingKeys())) && $this->printMissingKeys) {
-                echo "\n\n------Missing Keys------\n\n";
+                echo "\n------Missing Keys------\n\n";
                 $this->printMissingKeys($languageFile);
             }
         }
@@ -40,7 +40,7 @@ class LocalizationAnalyzer extends AbstractScript
     private function printCompletionStats(LanguageFile $languageFile): void
     {
         echo sprintf(
-            "\n%s:\t%s%%\tMissing: %s\n",
+            "%s:\t%s%%\tMissing: %s\n",
             $languageFile->getName(),
             $languageFile->getFileCompletion(),
             count($languageFile->getMissingKeys())

@@ -22,7 +22,7 @@ class BuildLocales extends AbstractScript
                 );
                 $OK = file_put_contents(
                     self::OUTPUT_DIRECTORY.$languageFile->getName(),
-                    json_encode(array_fill_keys($languageFile->getMissingKeys(), ''), JSON_PRETTY_PRINT)
+                    json_encode(array_fill_keys($languageFile->getMissingKeys(), ''), JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE)
                 );
                 if ($OK === false) {
                     $hasFailed = true;
