@@ -64,8 +64,6 @@
 	"ui_browse_details_properties_save" : "Salvar",
 	"ui_browse_details_properties_load" : "Carregar",
 	"ui_browse_details_properties_share_json" : "Compartilhar JSON",
-	"ui_browse_details_properties_publish_to_workshop" : "Publicar variante",
-	"ui_browse_details_properties_browse_workshop" : "Navegar por variantes",
 	"ui_browse_footer_btn_workshop" : "Oficina Steam",
 	"ui_browse_footer_btn_store" : "Loja Steam",
 	"ui_browse_footer_btn_open_from_file" : "Abrir de arquivo",
