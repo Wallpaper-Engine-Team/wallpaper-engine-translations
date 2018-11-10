@@ -1,0 +1,37 @@
+system_requirements,"Windows N 버전에는 Microsoft의 'Media Feature Pack'이 필요합니다. Windows 7에서 Aero를 활성화해야 합니다. 고대비 모드는 지원되지 않습니다. 최대 비디오 해상도는 Windows 8과 10의 경우 4K, Windows 7의 경우 1080p입니다.
+"
+description_short,바탕화면에서 멋진 라이브 배경화면을 사용하세요. 자신의 이미지를 애니메이션으로 만들어서 새 배경화면을 생성하거나 비디오/웹 사이트를 가져와서 Steam Workshop에서 공유하세요!
+description_long,"Wallpaper Engine을 사용하면 Windows 바탕화면에서 라이브 배경화면을 사용할 수 있습니다. 3D 및 2D 애니메이션, 웹 사이트, 비디오 및 특정 응용 프로그램까지 포함한 다양한 유형의 애니메이션 배경화면이 지원됩니다. 기존 배경화면을 선택하거나 자신만의 배경화면을 만들어 Steam Workshop에서 공유하세요!
+
+[img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
+
+[list]
+[*]실시간 그래픽, 비디오, 응용 프로그램 또는 웹 사이트로 바탕화면을 생기 있게 만듭니다.
+[*]선호하는 색상으로 애니메이션 배경화면을 맞춤 설정하십시오.
+[*]마우스로 제어할 수 있는 상호작용 배경화면을 사용하십시오.
+[*]16:9, 21:9, 16:10, 4:3을 비롯한 많은 가로 세로 비율과 고유 해상도를 지원합니다.
+[*]다중 모니터 환경이 지원됩니다.
+[*]게임을 할 때는 성능 절약을 위해 배경화면이 일시중지됩니다.
+[*]Wallpaper Engine 편집기에서 자신만의 애니메이션 배경화면을 생성합니다.
+[*]기본 이미지에서 새 라이브 배경화면을 애니메이션으로 만들거나 배경화면용 HTML 또는 비디오 파일을 가져옵니다.
+[*]배경화면을 다운로드하고 공유하는 Steam Workshop.
+[*]Wallpaper Engine은 다른 Steam 게임이나 응용 프로그램과 동시에 사용할 수 있습니다.
+[*]지원되는 비디오 형식: mp4, WebM, avi, m4v, mov, wmv(로컬 파일용, Workshop은 mp4만 허용)
+[*]Corsair iCUE를 지원합니다.
+[/list]
+
+[img]{STEAM_APP_IMAGE}/extras/title_performance.png[/img]
+[h2][/h2]
+Wallpaper Engine의 목적은 시스템 리소스를 최대한 적게 사용하면서 재미있는 경험을 제공하는 것입니다. 다른 응용 프로그램을 사용하거나 전체 화면(경계가 없는 창 모드 포함)으로 재생하는 동안 배경화면을 자동으로 일시중지하거나 완전히 중지하도록 선택하여 게임을 하거나 작업하는 동안 사용자를 방해하지 않도록 할 수 있습니다. 품질 및 성능을 수정하는 다양한 옵션을 통해 Wallpaper Engine이 사용자의 컴퓨터에 완벽하게 맞도록 설정할 수 있습니다. 경험상, 3D, 2D 및 비디오 기반 배경화면은 최상으로 작동하는 반면 웹 사이트 및 응용 프로그램의 경우 시스템 리소스가 더 많이 필요합니다. 전용 GPU 사용을 적극 권장하지만 필수는 아닙니다.
+[h2][/h2]
+[img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
+[h2][/h2]
+매일 새 배경화면이 업로드되는 Steam Workshop의 350.000개의 무료 배경화면 중에서 선택하세요! 자신의 분위기에 맞는 배경화면을 찾을 수 없습니까? Wallpaper Engine 편집기를 사용하여 상상의 나래를 펼치면서 이미지, 비디오, 웹 사이트 또는 응용 프로그램으로 자신만의 움직이는 배경화면을 만들어보세요. 다양한 종류의 사전 설정과 효과를 통해 자신만의 이미지를 애니메이션으로 만들고 Steam Workshop에서 이를 공유하거나 그냥 본인이 사용할 수도 있습니다."
+description_image_features,기능
+description_image_performance,성능
+screenshot_text_customization,배경화면 사용자 정의
+screenshot_text_performance,성능 미세 조정을 위한 다양한 옵션
+screenshot_text_images,자체 이미지로 애니메이션 만들기
+screenshot_text_tools,애니메이션 생성을 위한 다양한 도구
+screenshot_text_presets,사전 설정 효과 빠르게 추가
+screenshot_text_effects,자신만의 복합 효과 만들기

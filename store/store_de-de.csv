@@ -1,0 +1,37 @@
+system_requirements,"Windows N-Versionen benötigen das 'Media Feature Pack' von Microsoft. Aero muss auf Windows 7 aktiviert sein. Der Windows-Modus für hohen Kontrast wird nicht unterstützt. Maximale Videoauflösung für Windows 8, 10: 4K, Windows 7: 1080p
+"
+description_short,Nutze atemberaubende animierte Hintergründe auf deinem Desktop. Erstelle Animationen für eigene Bilder oder importiere Videos / Websiten und teile sie auf dem Steam-Workshop!
+description_long,"Wallpaper Engine erlaubt es dir, animierte Hintergründe auf deinem Windows-Desktop zu verwenden. Es werden verschiedene Arten von animierten Hintergründen unterstützt, darunter 3D- und 2D-Animationen, Websiten, Videos und sogar eine Auswahl an Anwendungen. Wähle aus bereits existierenden Hintergründen oder erstelle deine eigenen und teile sie auf dem Steam Workshop!
+
+[img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
+
+[list]
+[*]Erwecke deinen Desktop mit Hilfe von Echtzeit-Grafiken, Videos, Anwendungen oder Websiten zum Leben.
+[*]Personalisiere animierte Hintergründe mit Farben deiner Wahl.
+[*]Benutze interaktive Hintergründe, welche mit deiner Maus gesteuert werden können.
+[*]Vollständige Unterstützung für alle Arten von Bildschirmverhältnissen und Auflösungen werden unterstützt, darunter 16:9, 21:9, 16:10, 4:3.
+[*]Umgebungen mit mehreren Monitoren werden vollständig unterstützt.
+[*]Hintergründe pausieren automatisch während des Spielens, damit die Leistung deines Computers nicht sinkt.
+[*]Erstelle deine eigenen animierten Hintergründe im Wallpaper Engine-Editor.
+[*]Animiere neue Live-Hintergründe durch das Importieren von einfachen Bildern, HTML- oder Video-Dateien für den Hintergrund.
+[*]Nutze den Steam Workshop um Hintergründe zu teilen und herunterzuladen.
+[*]Wallpaper Engine kann gleichzeitig mit anderen Steam-Spielen oder Anwendungen genutzt werden.
+[*]Unterstützte Video-Formate: mp4, WebM, avi, m4v, mov, wmv (für lokale Dateien, Workshop unterstützt nur mp4).
+[*]Unterstützung für Corsair iCUE.
+[/list]
+
+[img]{STEAM_APP_IMAGE}/extras/title_performance.png[/img]
+[h2][/h2]
+Wallpaper Engine liefert einen unterhaltsamen Desktop und nutzt dabei so wenig System-Ressourcen wie möglich. Du kannst die Anwendung so einstellen, dass sie Hintergründe automatisch pausiert oder vollständig stoppt, während eine andere Anwendung im Vollbildmodus ausgeführt wird (inklusive randlosen Fenstermodus), damit du nicht während des Spielens oder Arbeitens abgelenkt oder behindert wirst. Eine große Anzahl an Optionen zur Anpassung der Qualität und Leistung erlauben es dir, Wallpaper Engine perfekt an deinen Computer anzupassen. Als Grundsatz gilt, dass 3D-, 2D- und Video-Hintergründe am besten ausgeführt werden, während Web- und Anwendungsbasierte Hintergründe mehr System-Ressourcen benötigen. Eine dedizierte GPU wird empfohlen, ist aber nicht erforderlich.
+[h2][/h2]
+[img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
+[h2][/h2]
+Wähle aus über 350,000 kostenlosen Hintergründen aus dem Steam Workshop, darüber hinaus werden jeden Tag unzählige neue Hintergründe hochgeladen! Du kannst keinen Hintergrund finden, welcher deinem Geschmack entspricht? Entfalte deine Kreativität mit dem Wallpaper Engine-Editor um deine eigenen animierten Hintergründe von Bildern, Videos, Websites oder Anwendungen zu erstellen. Eine große Auswahl an Vorkonfigurationen und Effekten erlauben es dir, Hintergründen von eigenen Bildern zu erstellen und diese im Workshop zu teilen oder diese nur für dich selbst zu nutzen."
+description_image_features,Features
+description_image_performance,Leistung
+screenshot_text_customization,Hintergründe personalisieren
+screenshot_text_performance,"Eine große Anzahl an Optionen, um Leistung auf dein System abzustimmen"
+screenshot_text_images,Animiere deine eigenen Bilder
+screenshot_text_tools,Große Auswahl an Werkzeugen zum Animieren von Bildern
+screenshot_text_presets,Füge schnell vorkonfigurierte Effekte hinzu
+screenshot_text_effects,Baue eigene komplexe Effekte

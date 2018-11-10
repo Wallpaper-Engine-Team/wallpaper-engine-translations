@@ -1,0 +1,37 @@
+system_requirements,"Windows N 版本需要 Microsoft 提供的「Media Feature Pack」。Aero 必須在 Windows 7 上啟用。不支援高對比模式。Windows 8、10 的視訊最高解析度: 4K，Windows 7 的影片最高解析度: 1080p
+"
+description_short,在桌面上使用令人驚嘆的動態桌布。您可以自行製作動畫或匯入視訊/網站來創造新的桌布，並在 Steam Workshop 上與大家分享!
+description_long,"有了 Wallpaper Engine，您可以在 Windows 桌面上使用動態桌布。支援各種類型的動態桌布，包括 3D 和 2D 動畫、網站、視訊，甚至是特定應用程式。選擇現有桌布或自己創造桌布，並且在 Steam Workshop 上與大家分享!
+
+[img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
+
+[list]
+[*]透過即時影像顯示、視訊、應用程式或網站，讓您的桌面活起來。
+[*]用您最喜愛的顏色，個人化您的動態桌布。
+[*]使用可用滑鼠控制的互動式桌布。
+[*]支援多種影像長寬比與原始解析度，包含 16:9、21:9、16:10、4:3。
+[*]支援多監視器環境。
+[*]當您進行遊戲時，桌布將會暫停運作，以節省效能。
+[*]在 Wallpaper Engine 編輯器上創造您專屬的動畫桌布。
+[*]透過基本圖像或者匯入 HTML 及視訊檔案，創造新的動態桌布。
+[*]Steam 工作坊可分享與下載桌布。
+[*]Wallpaper Engine 可以與任何其他 Steam 遊戲或應用程式同時使用。
+[*]支援的視訊檔案格式: mp4、WebM、avi、m4v、mov、wmv (針對本機檔案，工作坊則僅支援 mp4 格式)。
+[*]支援 Corsair iCUE。
+[/list]
+
+[img]{STEAM_APP_IMAGE}/extras/title_performance.png[/img]
+[h2][/h2]
+Wallpaper Engine 旨在以最少的系統資源，帶給您最大的樂趣體驗。您可以選擇在使用其他應用程式或全螢幕播放 (包括無邊界視窗模式) 時，讓桌布自動暫停或完全停止，以避免玩遊戲或工作時分散注意力或造成干擾。多種調整品質和效能的選項，讓您的 Wallpaper Engine 能完美地適用於您的電腦。一般而言，以 3D、2D 和 視訊為基礎的桌布表現最佳，而以網站和應用程式為基礎的桌布則需要較多的系統資源。強烈建議您使用專用 GPU，但並非必要。
+[h2][/h2]
+[img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
+[h2][/h2]
+每天都有新的桌面背景上傳，讓您從 Steam 工作坊中由超過 350,000 個免費的桌布精挑細選! 找不到符合心情的桌面背景？使用 Wallpaper Engine 編輯器，用圖像、視訊、網站或應用程式創造自己的動畫桌面背景，讓您的想像無限釋放。大量的預設和特效讓您為自己的影像製作動畫，讓您可以在Steam 工作坊上與大家分享，或著私藏自己獨享。"
+description_image_features,功能
+description_image_performance,效能
+screenshot_text_customization,自訂桌布
+screenshot_text_performance,多種效能微調選項
+screenshot_text_images,讓您的圖像變為動畫
+screenshot_text_tools,提供多種製作動畫的工具
+screenshot_text_presets,快速新增預設效果
+screenshot_text_effects,建立您獨特的複雜特效 

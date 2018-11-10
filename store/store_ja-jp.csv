@@ -1,0 +1,37 @@
+system_requirements,"Windows Nバージョンには、Microsoft の Media Feature Packが必要です。Windows 7でAeroを有効にしてください。ハイコントラストモードはサポートされません。最大解像度は、Windows 8、10の場合: 4K、Windows 7の場合: 1080p
+"
+description_short,驚きのライブ壁紙をデスクトップに使用できます。自分で作ったイメージをアニメーションにして、新しい壁紙を作ることも、ビデオ/ webサイトからインポートすることもできます。また、Steam Workshopで共有できます。
+description_long,"Wallpaper Engineを使用すると、Windowsデスクトップでライブ壁紙を使用できます。3Dや2D アニメーション、Webサイト、ビデオに加えて一部のアプリケーションを含む、さまざまな種類の動く壁紙がサポートされています。既存の壁紙を選択することも、自分で作ってSteam Workshopで共有することもできます。
+
+[img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
+
+[list]
+[*]リアルタイムグラフィック、ビデオ、アプリケーション、またはWebサイトを使用してデスクトップに命を吹き込みましょう。
+[*]動く壁紙をお気に入りの色でパーソナライズしましょう。
+[*]マウスで操作できるインタラクティブ壁紙を使用します。
+[*]16:9、21:9、16:10、4:3を含む多くのアスペクト比とネイティブ解像度がサポートされています。
+[*]マルチモニター環境がサポートされています。
+[*]パフォーマンスを節約するため、壁紙はゲームのプレイ中一時停止されます。
+[*]Wallpaper Engine Editorでは、自分で動く壁紙を作成できます。
+[*]基本イメージから新しいライブ壁紙をアニメーション化するか、壁紙に使用するHTMLまたはビデオファイルをインポートします。
+[*]Steam Workshopでは、壁紙の共有とダウンロードが可能です。
+[*]Wallpaper Engine を他の Steam ゲームまたはアプリケーションと同時に使用できます。
+[*]サポートされるビデオ形式: mp4、WebM、avi、m4v、mov、wmv (ローカルファイルの場合、Workshopではmp4のみサポート)。
+[*]Corsair iCUEをサポートします。
+[/list]
+
+[img]{STEAM_APP_IMAGE}/extras/title_performance.png[/img]
+[h2][/h2]
+Wallpaper Engineは、消費システムリソースを最小限に抑えながら、エンターテイメント性のある体験を提供することを目指しています。ゲームのプレイまたは作業への集中の妨げや妨害にならないように他のアプリケーションの使用時や全画面表示(枠なしウィンドウモードを含む)でプレイする際は、自動的に壁紙を一時停止または完全停止することもできます。Wallpaper Engineが、お使いのコンピュータに最適な品質およびパフォーマンスになるよう調整する多くのオプションが用意されています。基本的に、3D、2Dおよびビデオベースの壁紙のパフォーマンスが最も良く、webサイトやアプリケーションにはより多くのシステムリソースが必要になります。専用GPUは大変お勧めですが、必須ではありません。
+[h2][/h2]
+[img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
+[h2][/h2]
+350.000 を超える無料の壁紙を Steam Workshop から選べます。また、新しい壁紙が毎日アップロードされます。気分に合う壁紙が見つからない場合は、自分の想像力をフルに働かせて Wallpaper Engine Editor で、イメージ、ビデオ、Web サイト、アプリケーションから自分で動く壁紙を作成できます。イメージを動かすためのさまざまなプリセットやエフェクトが用意されており、Steam Workshop で共有することも、自分だけで使用することもできます。"
+description_image_features,機能
+description_image_performance,パフォーマンス
+screenshot_text_customization,壁紙のカスタマイズ
+screenshot_text_performance,パフォーマンスを微調整する幅広いオプション
+screenshot_text_images,独自のイメージを動かす
+screenshot_text_tools,動画を作成する数多くのツール
+screenshot_text_presets,プリセットエフェクトを簡単に追加
+screenshot_text_effects,自分で複雑なエフェクトを作成 

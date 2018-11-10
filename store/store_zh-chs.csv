@@ -1,0 +1,37 @@
+system_requirements,"Windows N 版本需要 Microsoft 提供的“Media Feature Pack”。必须在 Windows 7 上启用 Aero。不支持高对比度模式。对于 Windows 8 和 10，最大视频分辨率为 4K，对于 Windows 7 为 1080p
+"
+description_short,您可以在桌面上使用惊艳的动态壁纸。可以将您自己的图片制成动画以创建新壁纸，或导入视频/网站并在 Steam Workshop 上分享！
+description_long,"Wallpaper Engine 使您可以在 Windows 桌面上使用动态壁纸。它支持各种类型的动画壁纸，包括 3D 和 2D 动画、网站、视频甚至某些应用程序。既可选择现有壁纸，也可创建自己的壁纸并在 Steam Workshop 上分享！
+
+[img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
+
+[list]
+[*]通过实时图形、视频、应用程序或网站让您的桌面充满活力。
+[*]使用您喜欢的颜色实现动画壁纸个性化。
+[*]使用可通过鼠标控制的交互式壁纸。
+[*]支持多种宽高比和原始分辨率，包括 16:9、21:9、16:10、4:3。
+[*]支持多显示器环境。
+[*]壁纸将在玩游戏时暂停，以节省性能。
+[*]在 Wallpaper Engine 编辑器中创建自己的动画壁纸。
+[*]从基本图片制成新的动态壁纸动画，或为壁纸导入 HTML 或视频文件。
+[*]在 Steam Workshop 上分享和下载壁纸。
+[*]Wallpaper Engine 可以与任何其他 Steam 游戏或应用程序同时使用。
+[*]支持的视频格式：mp4、WebM、avi、m4v、mov、wmv（对于本地文件，Workshop 仅支持 mp4）。
+[*]支持 Corsair iCUE。
+[/list]
+
+[img]{STEAM_APP_IMAGE}/extras/title_performance.png[/img]
+[h2][/h2]
+Wallpaper Engine 旨在提供有趣的体验，同时尽可能少占用系统资源。您可以选择在使用其他应用程序或全屏播放（包括无边框窗口模式）时自动暂停或完全停止壁纸，以免在玩游戏或工作时分散注意力或受到妨碍。许多微调质量和性能的选项使 Wallpaper Engine 可以完美地适合您的计算机。根据一般经验，3D、2D 和基于视频的壁纸表现最佳，而网站和应用程序需要占用您系统中更多的资源。强烈建议您使用专用 GPU，但不是必要要求。
+[h2][/h2]
+[img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
+[h2][/h2]
+Steam Workshop 中提供超过 350000 张免费壁纸，而且每天都会上传新壁纸！找不到适合您心情的壁纸？通过使用 Wallpaper Engine 编辑器从图片、视频、网站或应用程序创建自己的动画壁纸，尽情发挥您的想象。大量的预设和效果可让您为自己的图片制作动画，并在 Steam Workshop 上分享它们，或者只为自己使用。"
+description_image_features,特性
+description_image_performance,性能
+screenshot_text_customization,自定义壁纸
+screenshot_text_performance,有很多选项可以微调性能
+screenshot_text_images,制作自己的图片动画
+screenshot_text_tools,有许多工具可以创建动画
+screenshot_text_presets,快速添加预设效果
+screenshot_text_effects,构建自己的复杂效果 

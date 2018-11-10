@@ -1,0 +1,37 @@
+system_requirements,"Verze Windows N vyžadují balíček „Media Feature Pack“ od společnosti Microsoft. V systému Windows 7 musí být povoleno prostředí Aero. Není podporován režim Vysoký kontrast. Maximální rozlišení videa pro systémy Windows 8 a 10: 4K, Windows7: 1080p
+"
+description_short,Nastavte si na plochu působivá živá pozadí. Vytvořte si nová pozadí animací vlastních obrázků nebo importujte videa/weby a sdílejte je ve službě Steam Workshop.
+description_long,"Aplikace Wallpaper Engine umožňuje používat na ploše systému Windows živá pozadí. Podporovány jsou různé druhy animovaných pozadí, včetně 3D a 2D animací, webů, videí a dokonce některých aplikací. Vyberte si z hotových pozadí nebo si vytvořte vlastní a sdílejte ho ve službě Steam Workshop.
+
+[img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
+
+[list]
+[*]Oživte svou plochu videi, aplikacemi, weby nebo grafikou v reálném čase.
+[*]Přizpůsobte si animovaná pozadí na míru výběrem oblíbených barev.
+[*]Použijte interaktivní pozadí, která lze ovládat myší.
+[*]Podporováno je mnoho poměrů stran a nativních rozlišení včetně 16:9, 21:9, 16:10, 4:3.
+[*]Podporována jsou prostředí s několika monitory.
+[*]Pozadí se při hraní her pozastaví, aby se šetřil výkon.
+[*]Vytvořte si vlastní animovaná pozadí v editoru Wallpaper Engine Editor.
+[*]Vytvořte nová živá pozadí animací obyčejných obrázků nebo si pro pozadí importujte stránku HTML či videosoubory.
+[*]Ve službě Steam Workshop je možné sdílet a stahovat pozadí.
+[*]Aplikaci Wallpaper Engine lze používat zároveň s jakoukoli jinou hrou či aplikací služby Steam.
+[*]Podporované formáty videa: mp4, WebM, avi, m4v, mov, wmv (pro lokální soubory služba Workshop podporuje pouze formát mp4).
+[*]Podpora softwaru Corsair iCUE.
+[/list]
+
+[img]{STEAM_APP_IMAGE}/extras/title_performance.png[/img]
+[h2][/h2]
+Aplikace Wallpaper Engine má za cíl nabídnout zábavnou grafiku s využitím co nejmenšího množství systémových zdrojů. Můžete se rozhodnout pozadí při používání jiných aplikací nebo hraní her na celé obrazovce (včetně režimu okna bez hranic) automaticky pozastavit nebo úplně zastavit, aby vás při hraní či práci nerozptylovala či nezdržovala. Široké možnosti vyladění kvality a výkonu vám umožní aplikaci Wallpaper Engine dokonale přizpůsobit svému počítači. Obecně platí, že nejlépe fungují pozadí ve 3D, 2D nebo videa, zatímco weby a aplikace vyžadují více systémových zdrojů. Doporučuje se používat samostatný grafický procesor, ale není to nutností.
+[h2][/h2]
+[img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
+[h2][/h2]
+Vyberte si z více než 350 000 volně dostupných pozadí ve službě Steam Workshop (denně přibývají nové). Nemůžete najít pozadí podle svých představ? Popusťte uzdu své představivosti a vytvořte si pomocí editoru Wallpaper Engine Editor svá vlastní pozadí z obrázků, videí, webů nebo aplikací. K dispozici je široká paleta předvoleb a efektů, díky kterým můžete vytvořit animace z vlastních obrázků a podělit se o ně ve službě Steam Workshop nebo je používat sami."
+description_image_features,Vlastnosti
+description_image_performance,Výkon
+screenshot_text_customization,Přizpůsobení pozadí
+screenshot_text_performance,Mnoho možností vyladění výkonu
+screenshot_text_images,Animace z vlastních obrázků
+screenshot_text_tools,Spousta nástrojů k vytváření animací
+screenshot_text_presets,Rychlé přidávání předvoleb a efektů
+screenshot_text_effects,Vytváření vlastních komplexních efektů 
