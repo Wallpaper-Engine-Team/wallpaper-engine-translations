@@ -20,7 +20,7 @@ class ImportLocales extends AbstractScript
     public function __construct()
     {
         parent::__construct();
-        $mergeDirectory = getcwd().DIRECTORY_SEPARATOR.'locale_merge'.DIRECTORY_SEPARATOR;
+        $mergeDirectory = getcwd().DIRECTORY_SEPARATOR.'terminal_import'.DIRECTORY_SEPARATOR;
         $this->importDirectory = $mergeDirectory.'input'.DIRECTORY_SEPARATOR;
         $this->outputDirectory = $mergeDirectory.'output'.DIRECTORY_SEPARATOR;
     }
