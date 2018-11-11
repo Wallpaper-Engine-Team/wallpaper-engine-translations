@@ -27,5 +27,8 @@
     "ui_browse_context_menu_choose_preset": "Choose Preset",
     "ui_browse_context_menu_remove_preset": "Remove Preset",
     "ui_settings_hotkeys_example": "Hotkeys must contain Ctrl, Shift, Alt. Examples:<br/><br/>Shift + Ctrl + B<br/>Shift + F1<br/><br/>A red border means that your hotkey is not valid.",
-    "ui_editor_workshop_options_upload_as_pending": "Waiting for Steam to respond..."
+    "ui_settings_about_community_hub": "Community Hub",
+    "ui_settings_about_faq": "Support & Frequently Asked Questions",
+    "ui_editor_workshop_options_upload_as_pending": "Waiting for Steam to respond...",
+    "ui_editor_toast_project_saved": "Project saved."
 }

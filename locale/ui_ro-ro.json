@@ -47,9 +47,9 @@
 	"ui_browse_details_properties_select_file" : "Selectați fișierul",
 
 	"ui_browse_footer_btn_workshop" : "Atelier Steam ",
-	"ui_browse_footer_btn_store" : "Magazin Steam",
 	"ui_browse_footer_btn_open_from_file" : "Deschideți din fișier",
 	"ui_browse_footer_btn_open_from_url" : "Deschideți din fișier",
+	"ui_browse_footer_btn_wallpaper_editor" : "Editor Fundal",
 
 	"ui_browse_monitors_choose_monitor" : "Selectați monitor",
 	"ui_browse_monitors_layout" : "Amplasare",

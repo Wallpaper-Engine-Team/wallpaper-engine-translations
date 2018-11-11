@@ -43,10 +43,10 @@
 	"ui_browse_details_properties_select_file" : "Välj fil",
 	
 	"ui_browse_footer_btn_workshop" : "Bläddra Workshop",
-	"ui_browse_footer_btn_store" : "Bläddra Store",
 	"ui_browse_footer_btn_open_from_file" : "Öppna från Fil",
 	"ui_browse_footer_btn_open_from_url" : "Öppna från URL",
-	
+	"ui_browse_footer_btn_wallpaper_editor" : "Redigera Bakgrund",
+
 	"ui_browse_monitors_choose_monitor" : "Välj Skärm",
 	"ui_browse_monitors_layout" : "Upplägg",
 	"ui_browse_monitors_monitors" : "Skärmar",

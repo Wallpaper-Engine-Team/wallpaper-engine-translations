@@ -1,7 +1,7 @@
 {
 	"ui_caption_browse" : "Hintergrund Ändern",
 	"ui_caption_settings" : "Einstellungen",
-	"ui_caption_editor" : "Hintergrundeditor",
+	"ui_caption_editor" : "Hintergrund-Editor",
 
 	"ui_ok" : "OK",
 	"ui_cancel" : "Abbrechen",
@@ -87,10 +87,8 @@
 	"ui_browse_details_header_workshop" : "Workshop-Vorkonfigurationen",
 
 	"ui_browse_footer_btn_workshop" : "Steam Workshop",
-	"ui_browse_footer_btn_store" : "Steam-Store",
 	"ui_browse_footer_btn_open_from_file" : "Aus Datei öffnen",
 	"ui_browse_footer_btn_open_from_url" : "Von URL öffnen",
-	"ui_browse_footer_btn_create_wallpaper" : "Hintergrund erstellen",
 
 	"ui_browse_monitors_choose_monitor" : "Bildschirm auswählen",
 	"ui_browse_monitors_layout" : "Layout",
@@ -535,7 +533,7 @@
 	"ui_welcome_windows_color_header" : "Windows-Farben anpassen",
 	"ui_welcome_autostart_description" : "Wallpaper Engine mit Windows starten:",
 	"ui_welcome_autostart_label" : "Autostart:",
-	"ui_welcome_finish_body" : "Alles ist eingerichtet!<br/><br/>Wallpaper Engine ist ab sofort unten rechts in deiner Startleiste verfügbar. <b>Doppelklick</b> zum Setzen eines Hintergrunds oder <b>Rechtsklick</b> um Einstellungen, den Steam Workshop oder den Hintergrundeditor auszuwählen.<div style='height:20px'></div>",
+	"ui_welcome_finish_body" : "Alles ist eingerichtet!<br/><br/>Wallpaper Engine ist ab sofort unten rechts in deiner Startleiste verfügbar. <b>Doppelklick</b> zum Setzen eines Hintergrunds oder <b>Rechtsklick</b> um Einstellungen, den Steam Workshop oder den Hintergrund-Editor auszuwählen.<div style='height:20px'></div>",
 	"ui_welcome_browse_wallpapers_now" : "Jetzt Hintergründe durchsuchen",
 	"ui_welcome_button_first_page" : "Los geht's",
 	"ui_welcome_button_next_page" : "Weiter",

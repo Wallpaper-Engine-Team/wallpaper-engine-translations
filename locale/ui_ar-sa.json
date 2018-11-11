@@ -47,9 +47,9 @@
 	"ui_browse_details_properties_select_file" : "اختيار ملف",
 	
 	"ui_browse_footer_btn_workshop" : "معمل ستيم",
-	"ui_browse_footer_btn_store" : "متجر ستيم",
 	"ui_browse_footer_btn_open_from_file" : "افتح من ملف",
 	"ui_browse_footer_btn_open_from_url" : "افتح من رابط",
+	"ui_browse_footer_btn_wallpaper_editor" : "معدِل الخلفيات",
 	
 	"ui_browse_monitors_choose_monitor" : "اختر شاشة",
 	"ui_browse_monitors_layout" : "تصميم",

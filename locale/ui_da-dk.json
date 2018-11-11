@@ -44,9 +44,9 @@
 	"ui_browse_details_properties_select_file" : "Vælg fil",
 	
 	"ui_browse_footer_btn_workshop" : "Gennemse Værksted",
-	"ui_browse_footer_btn_store" : "Gennemse Butik",
 	"ui_browse_footer_btn_open_from_file" : "Åben fra Fil",
 	"ui_browse_footer_btn_open_from_url" : "Åben fra URL",
+	"ui_browse_footer_btn_wallpaper_editor" : "Baggrunds editor",
 	
 	"ui_browse_monitors_choose_monitor" : "Vælg Skærm",
 	"ui_browse_monitors_layout" : "Udseende",

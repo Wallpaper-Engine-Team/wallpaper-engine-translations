@@ -33,10 +33,10 @@
 	"ui_browse_details_properties_select_file" : "انتخاب فايل",
 	
 	"ui_browse_footer_btn_workshop" : "جست و جو در کارگاه",
-	"ui_browse_footer_btn_store" : "جست و جو در فروشگاه",
 	"ui_browse_footer_btn_open_from_file" : "باز کردن فايل",
 	"ui_browse_footer_btn_open_from_url" : " باز کردن با وب",
-	
+	"ui_browse_footer_btn_wallpaper_editor" : "ويرايش تصاوير پس زمينه",
+
 	"ui_browse_monitors_choose_monitor" : "انتخاب مانيتور",
 	"ui_browse_monitors_layout" : "طرح",
 	"ui_browse_monitors_monitors" : "مانتيورها",

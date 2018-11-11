@@ -68,10 +68,9 @@
 	"ui_browse_details_properties_share_json" : "Сподели JSON",
 	
 	"ui_browse_footer_btn_workshop" : "Steam Работилница",
-	"ui_browse_footer_btn_store" : "Steam Магазин",
 	"ui_browse_footer_btn_open_from_file" : "Отвори от файл",
 	"ui_browse_footer_btn_open_from_url" : "Зареди от Web",
-	"ui_browse_footer_btn_create_wallpaper" : "Създай Тапет",
+	"ui_browse_footer_btn_wallpaper_editor" : "Редактор на тапети",
 	
 	"ui_browse_monitors_choose_monitor" : "Избери монитор",
 	"ui_browse_monitors_layout" : "Подредба",

@@ -50,10 +50,10 @@
 	"ui_browse_details_properties_select_file" : "Izberite datoteko",
 	
 	"ui_browse_footer_btn_workshop" : "Steam delavnica",
-	"ui_browse_footer_btn_store" : "Steam Store",
 	"ui_browse_footer_btn_open_from_file" : "Odpri iz datoteke",
 	"ui_browse_footer_btn_open_from_url" : "Odpri iz URL naslova",
-	
+	"ui_browse_footer_btn_wallpaper_editor" : "Urejevalnik Ozadij",
+
 	"ui_browse_monitors_choose_monitor" : "Izberite zaslon",
 	"ui_browse_monitors_layout" : "Postavitev",
 	"ui_browse_monitors_monitors" : "Zasloni",

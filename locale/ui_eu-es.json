@@ -70,10 +70,9 @@
 	"ui_browse_details_properties_share_json" : "Partekatu JSON-a",
 
 	"ui_browse_footer_btn_workshop" : "Steam Workshop",
-	"ui_browse_footer_btn_store" : "Steam Denda",
 	"ui_browse_footer_btn_open_from_file" : "Zabaldu fitxategitik",
 	"ui_browse_footer_btn_open_from_url" : "Zabaldu URL-tik",
-	"ui_browse_footer_btn_create_wallpaper" : "Sortu Horma-papera",
+	"ui_browse_footer_btn_wallpaper_editor" : "Horma-paper Editorea",
 
 	"ui_browse_monitors_choose_monitor" : "Aukeratu Monitorea",
 	"ui_browse_monitors_layout" : "Diseinua",

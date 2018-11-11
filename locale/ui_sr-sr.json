@@ -44,10 +44,10 @@
 	"ui_browse_details_properties_select_file" : "Odaberite datoteku",
 	
 	"ui_browse_footer_btn_workshop" : "Pretraži Radionicu",
-	"ui_browse_footer_btn_store" : "Pretraži Prodavnicu",
 	"ui_browse_footer_btn_open_from_file" : "Otvori iz datoteke",
 	"ui_browse_footer_btn_open_from_url" : "Otvori iz linka",
-	
+	"ui_browse_footer_btn_wallpaper_editor" : "Uređivač Pozadina",
+
 	"ui_browse_monitors_choose_monitor" : "Odaberite monitor",
 	"ui_browse_monitors_layout" : "Raspored",
 	"ui_browse_monitors_monitors" : "Monitori",

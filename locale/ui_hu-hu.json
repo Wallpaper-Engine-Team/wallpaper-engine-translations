@@ -47,10 +47,9 @@
 	"ui_browse_details_properties_select_file" : "File kiválasztása",
 	
 	"ui_browse_footer_btn_workshop" : "Műhely",
-	"ui_browse_footer_btn_store" : "Áruház",
 	"ui_browse_footer_btn_open_from_file" : "Megnyitás fájlból",
 	"ui_browse_footer_btn_open_from_url" : "Megnyitás URL-ből",
-	"ui_browse_footer_btn_create_wallpaper" : "Háttér létrehozása",
+	"ui_browse_footer_btn_wallpaper_editor" : "Háttérkép Szerkesztő",
 	
 	"ui_browse_monitors_choose_monitor" : "Képernyő kiválasztása",
 	"ui_browse_monitors_layout" : "Elrendezés",

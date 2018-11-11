@@ -43,9 +43,9 @@
 	"ui_browse_details_properties_select_file" : "בחר קובץ",
 	
 	"ui_browse_footer_btn_workshop" : "מצא רקעים נוספים",
-	"ui_browse_footer_btn_store" : "מצא רקעים בתשלום",
 	"ui_browse_footer_btn_open_from_file" : "פתח מקובץ",
 	"ui_browse_footer_btn_open_from_url" : "URLפתח מ",
+	"ui_browse_footer_btn_wallpaper_editor" : "עורך רקעים",
 	
 	"ui_browse_monitors_choose_monitor" : "בחר צג",
 	"ui_browse_monitors_layout" : "מערך",

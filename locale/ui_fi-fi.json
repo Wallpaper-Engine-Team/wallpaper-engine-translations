@@ -47,9 +47,9 @@
 	"ui_browse_details_properties_select_file" : "Valitse tiedosto",
 	
 	"ui_browse_footer_btn_workshop" : "Selaa Workshoppia",
-	"ui_browse_footer_btn_store" : "Selaa Kauppaa",
 	"ui_browse_footer_btn_open_from_file" : "Avaa tiedostosta",
 	"ui_browse_footer_btn_open_from_url" : "Avaa URL-osoitteesta",
+	"ui_browse_footer_btn_wallpaper_editor" : "Taustakuvaeditori",
 	
 	"ui_browse_monitors_choose_monitor" : "Valitse näyttö",
 	"ui_browse_monitors_layout" : "Asettelu",

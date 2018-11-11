@@ -47,9 +47,9 @@
 	"ui_browse_details_properties_select_file" : "Обрати файл",
 
 	"ui_browse_footer_btn_workshop" : "Steam Майстерня",
-	"ui_browse_footer_btn_store" : "Steam Крамниця",
 	"ui_browse_footer_btn_open_from_file" : "Відкрити з файлу",
 	"ui_browse_footer_btn_open_from_url" : "Відкрити з URL",
+	"ui_browse_footer_btn_wallpaper_editor" : "Редактор шпалер",
 
 	"ui_browse_monitors_choose_monitor" : "Обрати дисплей",
 	"ui_browse_monitors_layout" : "Схема",

@@ -47,9 +47,9 @@
 	"ui_browse_details_properties_select_file" : "Pilih berkas",
    
 	"ui_browse_footer_btn_workshop" : "Steam Workshop",
-	"ui_browse_footer_btn_store" : "Steam Shop",
 	"ui_browse_footer_btn_open_from_file" : "Buka dari berkas",
 	"ui_browse_footer_btn_open_from_url" : "Buka dari URL",
+	"ui_browse_footer_btn_wallpaper_editor" : "Penyunting Latar Belakang",
    
 	"ui_browse_monitors_choose_monitor" : "Pilih Monitor",
 	"ui_browse_monitors_layout" : "Tata Letak",

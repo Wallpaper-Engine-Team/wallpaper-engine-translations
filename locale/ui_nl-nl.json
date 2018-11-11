@@ -60,9 +60,9 @@
 	"ui_browse_details_properties_share_json" : "Deel JSON",
 
 	"ui_browse_footer_btn_workshop" : "Open de Workshop",
-	"ui_browse_footer_btn_store" : "Bekijk de Winkel",
 	"ui_browse_footer_btn_open_from_file" : "Open Bestand",
 	"ui_browse_footer_btn_open_from_url" : "Open URL",
+	"ui_browse_footer_btn_wallpaper_editor" : "Achtergronden Editor",
 	
 	"ui_browse_monitors_choose_monitor" : "Kies scherm",
 	"ui_browse_monitors_layout" : "Indeling",

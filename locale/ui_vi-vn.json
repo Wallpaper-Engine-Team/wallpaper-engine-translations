@@ -50,9 +50,9 @@
 	"ui_browse_details_properties_select_file" : "Chọn file",
 
 	"ui_browse_footer_btn_workshop" : "Tìm trong Workshop",
-	"ui_browse_footer_btn_store" : "Tìm trong Store",
 	"ui_browse_footer_btn_open_from_file" : "Mở từ File",
 	"ui_browse_footer_btn_open_from_url" : "Mở từ URL",
+	"ui_browse_footer_btn_wallpaper_editor" : "Trình tạo hình nền",
 
 	"ui_browse_monitors_choose_monitor" : "Chọn màn hình",
 	"ui_browse_monitors_layout" : "Layout",

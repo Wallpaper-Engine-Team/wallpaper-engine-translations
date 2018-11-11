@@ -28,6 +28,8 @@
     "ui_browse_context_menu_remove_preset": "Remove Preset",
     "ui_settings_hotkeys_prompt_enter_combination": "Press key combination",
     "ui_settings_hotkeys_example": "Hotkeys must contain Ctrl, Shift, Alt. Examples:<br/><br/>Shift + Ctrl + B<br/>Shift + F1<br/><br/>A red border means that your hotkey is not valid.",
+    "ui_settings_about_community_hub": "Community Hub",
+    "ui_settings_about_faq": "Support & Frequently Asked Questions",
     "ui_editor_publish_modal_progress_validate": "Validating Workshop Item...",
     "ui_editor_publish_modal_progress_create": "Creating Workshop Item...",
     "ui_editor_publish_modal_progress_prepare_data": "Updating Workshop item data...",
@@ -40,5 +42,6 @@
     "ui_editor_workshop_options_upload_as": "Upload as",
     "ui_editor_workshop_options_upload_as_new_item": "Create new item",
     "ui_editor_workshop_options_upload_as_update": "Update existing item {{name}}",
-    "ui_editor_workshop_options_upload_as_pending": "Waiting for Steam to respond..."
+    "ui_editor_workshop_options_upload_as_pending": "Waiting for Steam to respond...",
+    "ui_editor_toast_project_saved": "Project saved."
 }

@@ -44,9 +44,9 @@
 	"ui_browse_details_properties_select_file" : "Velg Fil",
 	
 	"ui_browse_footer_btn_workshop" : "Bla igjennom Verkstedet",
-	"ui_browse_footer_btn_store" : "Bla igjennom Butikken",
 	"ui_browse_footer_btn_open_from_file" : "Åpne fra Fil",
 	"ui_browse_footer_btn_open_from_url" : "Åpne fra URL",
+	"ui_browse_footer_btn_wallpaper_editor" : "Bakgrunnsbilde Redigerer",
 	
 	"ui_browse_monitors_choose_monitor" : "Velg Skjerm",
 	"ui_browse_monitors_layout" : "Oppsett",

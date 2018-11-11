@@ -43,9 +43,9 @@
 	"ui_browse_details_properties_select_file" : "Pasirinkite failą",
 	
 	"ui_browse_footer_btn_workshop" : "Naršyti Workshop",
-	"ui_browse_footer_btn_store" : "Naršyti Shop",
 	"ui_browse_footer_btn_open_from_file" : "Atidaryti iš failo",
 	"ui_browse_footer_btn_open_from_url" : "Atidaryti iš nuorodos",
+	"ui_browse_footer_btn_wallpaper_editor" : "Fonų redaktorius",
 	
 	"ui_browse_monitors_choose_monitor" : "Pasirinkti monitorių",
 	"ui_browse_monitors_layout" : "Išdėstymas",

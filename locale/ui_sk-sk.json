@@ -46,9 +46,9 @@
 	"ui_browse_details_properties_select_file" : "Vyberte súbory",
 	
 	"ui_browse_footer_btn_workshop" : "Steam Workshop",
-	"ui_browse_footer_btn_store" : "Steam Obchod",
 	"ui_browse_footer_btn_open_from_file" : "Otvoriť zo súboru",
 	"ui_browse_footer_btn_open_from_url" : "Otvoriť z URL",
+	"ui_browse_footer_btn_wallpaper_editor" : "Editor pozadí",
 	
 	"ui_browse_monitors_choose_monitor" : "Vyberte monitor",
 	"ui_browse_monitors_layout" : "Rozloženie",
@@ -1007,9 +1007,7 @@
 	"ui_browse_filter_results_count" : "({{filtered}} z {{unfiltered}})",
 	
 	"ui_browse_details_btn_report" : "Nahlásiť",
-	
-	"ui_browse_footer_btn_create_wallpaper" : "Vytvoriť pozadie",
-	
+
 	"ui_browse_age_gate_modal_header" : "Overenie veku",
 	"ui_browse_age_gate_modal_body" : "Pre pokračovanie zadajte svoj dátum narodenia:",
 	"ui_browse_age_gate_modal_sub" : "Tieto dáta sú len pre overovacie dôvody a nebudú uložené, nahrané alebo zdieľané.",
