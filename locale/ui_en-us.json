@@ -403,6 +403,8 @@
 	"ui_settings_gfx_reflections" : "Reflections:",
 	"ui_settings_gfx_post_processing" : "Post-processing:",
 	"ui_settings_gfx_fps_warning" : "High FPS may slow down your PC!",
+	"ui_settings_gfx_enabled" : "Enabled",
+	"ui_settings_gfx_disabled" : "Disabled",
 
 	"ui_settings_performance" :  "Performance",
 	"ui_settings_general" : "General",
