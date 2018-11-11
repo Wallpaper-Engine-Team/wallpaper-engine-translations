@@ -40,7 +40,7 @@
 	"ui_browse_steam_status_complete" : "Steam update complete.<br/>Wrote {{count}} wallpapers to cache.",
 	"ui_browse_header_option_settings" : "Settings",
 	"ui_browse_header_option_monitors" : "Monitors",
-	"ui_browse_header_option_editor" : "Editor",
+	"ui_browse_header_option_editor" : "Wallpaper Editor",
 	"ui_browse_advertise_explore" : "Click here to discover new wallpapers from the Workshop!",
 	"ui_browse_advertise_workshop" : "Click here to search the Workshop in detail!",
 	"ui_browse_no_service_header" : "Steam Services Unavailable",
@@ -90,7 +90,7 @@
 	"ui_browse_footer_btn_store" : "Steam Store",
 	"ui_browse_footer_btn_open_from_file" : "Open from File",
 	"ui_browse_footer_btn_open_from_url" : "Open from URL",
-	"ui_browse_footer_btn_create_wallpaper" : "Create Wallpaper",
+	"ui_browse_footer_btn_wallpaper_editor" : "Wallpaper Editor",
 	
 	"ui_browse_monitors_choose_monitor" : "Choose Monitor",
 	"ui_browse_monitors_layout" : "Layout",
@@ -458,6 +458,8 @@
 	"ui_settings_advanced_unpause_during_aero_peek" : "Unpause during Aero Peek:",
 	"ui_settings_about" : "About",
 	"ui_settings_about_changelog" : "Changelog",
+	"ui_settings_about_community_hub" : "Community Hub",
+	"ui_settings_about_faq" : "Support & Frequently Asked Questions",
 	"ui_settings_plugins" : "Plugins",
 	"ui_settings_plugins_status_loaded" : "Loaded",
 	"ui_settings_plugins_status_not_loaded" : "Not loaded",
@@ -729,6 +731,8 @@
 	"ui_editor_workshop_rules_modal_rule_copyright" : "No copyright infringements",
 	"ui_editor_workshop_rules_modal_rule_ads" : "No advertisements",
 	"ui_editor_workshop_rules_modal_rule_misleading" : "No misleading previews",
+	
+	"ui_editor_toast_project_saved" : "Project saved.",
 	
 	"ui_editor_workshop_tags_limit" : "Only 3 tags allowed.",
 	"ui_editor_workshop_tags_placeholder": "Add a tag",
