@@ -30,5 +30,8 @@
     "ui_editor_preset_rain_title": "Rain",
     "ui_editor_preset_rain_description": "Adds rain particles. Optionally with refraction/distortion of the background image.",
     "ui_editor_properties_not_more_than_one_per_frame": "Limit to one per frame",
-    "ui_editor_properties_set_control_point_start_index": "Control point start index"
+    "ui_editor_properties_set_control_point_start_index": "Control point start index",
+    "ui_editor_properties_shake_direction_map": "Shake direction",
+    "ui_editor_properties_shake_phase": "Shake phase",
+    "ui_editor_properties_water_normal": "Water normalmap"
 }

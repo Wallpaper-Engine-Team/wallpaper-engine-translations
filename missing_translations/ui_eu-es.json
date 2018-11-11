@@ -43,5 +43,8 @@
     "ui_editor_workshop_options_upload_as_new_item": "Create new item",
     "ui_editor_workshop_options_upload_as_update": "Update existing item {{name}}",
     "ui_editor_workshop_options_upload_as_pending": "Waiting for Steam to respond...",
-    "ui_editor_toast_project_saved": "Project saved."
+    "ui_editor_toast_project_saved": "Project saved.",
+    "ui_editor_properties_shake_direction_map": "Shake direction",
+    "ui_editor_properties_shake_phase": "Shake phase",
+    "ui_editor_properties_water_normal": "Water normalmap"
 }

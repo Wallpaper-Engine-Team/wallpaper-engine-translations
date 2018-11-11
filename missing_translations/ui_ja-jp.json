@@ -1,5 +1,8 @@
 {
     "ui_settings_about_community_hub": "Community Hub",
     "ui_settings_about_faq": "Support & Frequently Asked Questions",
-    "ui_editor_toast_project_saved": "Project saved."
+    "ui_editor_toast_project_saved": "Project saved.",
+    "ui_editor_properties_shake_direction_map": "Shake direction",
+    "ui_editor_properties_shake_phase": "Shake phase",
+    "ui_editor_properties_water_normal": "Water normalmap"
 }

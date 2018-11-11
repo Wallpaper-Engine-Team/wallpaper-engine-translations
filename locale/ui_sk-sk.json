@@ -671,7 +671,6 @@
 	"ui_editor_properties_type" : "Typ",
 	"ui_editor_properties_up" : "Hore",
 	"ui_editor_properties_visible" : "Viditeľný",
-	"ui_editor_properties_water_normal" : "Voda normálna",
 	"ui_editor_properties_when_mouse_button_pressed" : "Keď stlačené tlačidlo myši",
 	"ui_editor_properties_width" : "Šírka",
 	"ui_editor_properties_worldspace" : "Worldspace",
@@ -897,7 +896,6 @@
 
 	"ui_editor_properties_pulse_phase" : "Pulzová fáza",
 
-	"ui_editor_properties_spritesheet" : "Spritesheet",
 	"ui_editor_properties_frames" : "Snímky",
 	"ui_editor_properties_elliptical" : "Eliptické",
 	"ui_editor_properties_ratio" : "Pomer",
