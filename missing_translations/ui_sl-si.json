@@ -239,6 +239,8 @@
     "ui_settings_playback_condition_is_playing_audio": "Is playing audio",
     "ui_settings_playback_rule_remove": "Remove",
     "ui_settings_playback_rule_edit": "Edit",
+    "ui_settings_gfx_enabled": "Enabled",
+    "ui_settings_gfx_disabled": "Disabled",
     "ui_settings_media": "Media",
     "ui_settings_hotkeys": "Hotkeys:",
     "ui_settings_hotkeys_header": "Hotkeys",

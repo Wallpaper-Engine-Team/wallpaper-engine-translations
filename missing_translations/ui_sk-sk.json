@@ -16,6 +16,8 @@
     "ui_browse_explore_category_creator_genre_recent_approved": "<b>{{user}}</b>'s latest <b>approved</b> wallpapers",
     "ui_browse_explore_category_creator_genre_popular_approved": "<b>{{user}}</b>'s popular <b>approved</b> wallpapers",
     "ui_browse_report_modal_error_401": "The report failed to be sent. Your Steam game ticket seems to have expired. Please try restarting Steam and the wallpaper browser to get a new ticket.",
+    "ui_settings_gfx_enabled": "Enabled",
+    "ui_settings_gfx_disabled": "Disabled",
     "ui_settings_hotkeys_example": "Hotkeys must contain Ctrl, Shift, Alt. Examples:<br/><br/>Shift + Ctrl + B<br/>Shift + F1<br/><br/>A red border means that your hotkey is not valid.",
     "ui_settings_about_community_hub": "Community Hub",
     "ui_settings_about_faq": "Support & Frequently Asked Questions",
