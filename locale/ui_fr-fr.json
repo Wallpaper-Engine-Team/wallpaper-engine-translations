@@ -475,7 +475,7 @@
     "ui_welcome_windows_color_header": "Adapter la couleur Windows",
     "ui_welcome_autostart_description": "Démarrer Wallpaper Engine au démarrage de Windows :",
     "ui_welcome_autostart_label": "Démarrage automatique :",
-    "ui_welcome_finish_body": "Tout a été configuré !<br/><br/>Wallpaper Engine est maintenant disponible dans votre zone de notification. <b>Double-cliquez</b> pour sélectionner un fond d'écran ou effectuez un <b>clic droit</b>pour accéder aux paramètres, au Workshop Steam ou à l'éditeur de fonds d'écran.<div style='height:20px'></div>",
+    "ui_welcome_finish_body": "Tout a été configuré !<br/><br/>Wallpaper Engine est maintenant disponible dans votre zone de notification. <b>Double-cliquez</b> pour sélectionner un fond d'écran ou effectuez un <b>clic droit</b> pour accéder aux paramètres, au Workshop Steam ou à l'éditeur de fonds d'écran.<div style='height:20px'></div>",
     "ui_welcome_browse_wallpapers_now": "Parcourir les fonds d'écran maintenant",
     "ui_welcome_button_first_page": "C'est parti",
     "ui_welcome_button_next_page": "Suivant",
