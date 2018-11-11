@@ -14,6 +14,7 @@ class BuildMissingIndex extends AbstractScript
     public function execute(): int
     {
         $hasFailed = false;
+        $this->clearOutputDirectory();
         foreach ($this->getLanguageFiles() as $languageFile) {
             if (count($languageFile->getMissingKeys())) {
                 echo sprintf(
@@ -33,8 +34,15 @@ class BuildMissingIndex extends AbstractScript
                 }
             }
         }
-
         return (int) $hasFailed;
+    }
+
+    private function clearOutputDirectory(): void {
+        $outputFiles = scandir(self::OUTPUT_DIRECTORY);
+        $outputFiles = array_filter($outputFiles, array(AbstractScript::class, 'filterSourceFiles'));
+        foreach ($outputFiles as $outputFile) {
+            unlink(self::OUTPUT_DIRECTORY.$outputFile);
+        }
     }
 }
 
