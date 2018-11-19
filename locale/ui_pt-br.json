@@ -377,6 +377,8 @@
     "ui_settings_gfx_reflections": "Reflexos:",
     "ui_settings_gfx_post_processing": "Pós-processamento:",
     "ui_settings_gfx_fps_warning": "QPS alto pode deixar o computador lento!",
+    "ui_settings_gfx_enabled": "Ativado",
+    "ui_settings_gfx_disabled": "Desativado",
     "ui_settings_performance": "Desempenho",
     "ui_settings_general": "Geral",
     "ui_settings_miscellaneous": "Outros",
