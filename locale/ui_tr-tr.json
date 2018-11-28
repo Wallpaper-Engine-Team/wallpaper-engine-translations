@@ -377,6 +377,8 @@
     "ui_settings_gfx_reflections": "Yansımalar:",
     "ui_settings_gfx_post_processing": "Son işleme:",
     "ui_settings_gfx_fps_warning": "Yüksek FPS değeri, bilgisayarınızı yavaşlatabilir!",
+    "ui_settings_gfx_enabled": "Aktif",
+    "ui_settings_gfx_disabled": "Devre Dışı",
     "ui_settings_performance": "Performans",
     "ui_settings_general": "Genel",
     "ui_settings_miscellaneous": "Diğer Seçenekler",
