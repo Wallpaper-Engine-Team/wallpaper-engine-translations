@@ -77,7 +77,6 @@
     "ui_browse_details_properties_apply_to_all_wallpapers_header": "すべての壁紙に適用し、デフォルト値に設定",
     "ui_browse_details_properties_apply_to_all": "すべてに適用",
     "ui_browse_details_properties_apply_to_all_instructions": "すべての壁紙のデフォルト値を現在の壁紙に設定し、必要に応じてすべての壁紙をこれらの値にリセット",
-    "ui_browse_details_properties_apply_to_all_overwrite": "既存の壁紙をリセット",
     "ui_browse_details_properties_apply_to_all_restore_defaults": "デフォルト値に戻す",
     "ui_browse_details_header_presets": "あなたのプリセット",
     "ui_browse_details_header_workshop": "Workshopプリセット",

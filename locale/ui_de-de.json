@@ -77,7 +77,6 @@
     "ui_browse_details_properties_apply_to_all_wallpapers_header": "Auf alle Hintergründe anwenden und Standardwerte setzen",
     "ui_browse_details_properties_apply_to_all": "Auf alle anwenden",
     "ui_browse_details_properties_apply_to_all_instructions": "Setze die Standardwerte für alle Hintergründe zu den derzeitigen Werten und setze wahlweise alle existierenden Hintergründe auf diese Werte.",
-    "ui_browse_details_properties_apply_to_all_overwrite": "Existierende Hintergründe setzen",
     "ui_browse_details_properties_apply_to_all_restore_defaults": "Standardwerte zurücksetzen",
     "ui_browse_details_header_presets": "Deine Vorkonfigurationen",
     "ui_browse_details_header_workshop": "Workshop-Vorkonfigurationen",

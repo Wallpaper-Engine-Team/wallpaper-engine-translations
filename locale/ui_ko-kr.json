@@ -77,7 +77,6 @@
     "ui_browse_details_properties_apply_to_all_wallpapers_header": "모든 배경화면에 적용 및 기본값 설정",
     "ui_browse_details_properties_apply_to_all": "일괄 적용",
     "ui_browse_details_properties_apply_to_all_instructions": "모든 배경화면의 기본값을 현재의 배경화면으로 설정하고 선택적으로 모든 기존 배경화면들을 이 값으로 변경합니다.",
-    "ui_browse_details_properties_apply_to_all_overwrite": "기존 배경화면 초기화",
     "ui_browse_details_properties_apply_to_all_restore_defaults": "기본 값으로 복구",
     "ui_browse_details_header_presets": "사용자 프리셋",
     "ui_browse_details_header_workshop": "워크샵 프리셋",

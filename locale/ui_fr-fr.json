@@ -77,7 +77,6 @@
     "ui_browse_details_properties_apply_to_all_wallpapers_header": "Appliquer à tous les fonds d'écran et définir comme réglages par défaut",
     "ui_browse_details_properties_apply_to_all": "Appliquer à tout",
     "ui_browse_details_properties_apply_to_all_instructions": "Définir ces propriétés comme valeurs par défaut pour tous les fonds d'écran et optionnellement réintialiser tous les paramètres de fonds d'écran sur ces propriétés.",
-    "ui_browse_details_properties_apply_to_all_overwrite": "Réinitialiser les fonds d'écran existants",
     "ui_browse_details_properties_apply_to_all_restore_defaults": "Réinitialiser aux valeurs par défaut",
     "ui_browse_details_header_presets": "Vos presets",
     "ui_browse_details_header_workshop": "Presets du Workshop",

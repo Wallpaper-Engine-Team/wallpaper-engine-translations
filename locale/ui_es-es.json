@@ -77,7 +77,6 @@
     "ui_browse_details_properties_apply_to_all_wallpapers_header": "Aplicar a todos los fondos y establecer Valores predeterminados",
     "ui_browse_details_properties_apply_to_all": "Aplicar a todo",
     "ui_browse_details_properties_apply_to_all_instructions": "Establece para todos los fondos de pantalla los valores predeterminados del fondo actual y, opcionalmente, restablece los valores de todos los existentes.",
-    "ui_browse_details_properties_apply_to_all_overwrite": "Reiniciar fondos existentes",
     "ui_browse_details_properties_apply_to_all_restore_defaults": "Restablecer ajustes",
     "ui_browse_details_header_presets": "Tus preajustes",
     "ui_browse_details_header_workshop": "Preajustes del Workshop",

@@ -77,7 +77,6 @@
     "ui_browse_details_properties_apply_to_all_wallpapers_header": "应用到所有壁纸并设为默认值",
     "ui_browse_details_properties_apply_to_all": "应用到所有",
     "ui_browse_details_properties_apply_to_all_instructions": "将所有壁纸的默认值设置为当前壁纸的值，并可将所有现有壁纸重新设置为这些值。",
-    "ui_browse_details_properties_apply_to_all_overwrite": "重置现有壁纸",
     "ui_browse_details_properties_apply_to_all_restore_defaults": "恢复默认值",
     "ui_browse_details_header_presets": "您的预设",
     "ui_browse_details_header_workshop": "创意工坊预设",
