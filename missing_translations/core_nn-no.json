@@ -3,7 +3,7 @@
     "core_tray_saved_profiles": "Saved Profiles",
     "core_tray_mute": "Mute",
     "core_tray_unmute": "Unmute",
-    "core_balloon_pkg_version_error": "This wallpaper cannot be opened due to requiring a newer version of Wallpaper Engine. Try installing the latest version via Steam.",
+    "core_balloon_pkg_version_error": "This wallpaper requires a newer version of Wallpaper Engine. Please update Wallpaper Engine to the latest version on Steam.",
     "core_balloon_wallpaper_file_missing": "This wallpaper cannot be opened because it is missing its files.",
     "core_msgbox_prompt_high_contrast_was_enabled": "Windows has just applied a 'high contrast' theme which does not allow Wallpaper Engine to work.",
     "core_msgbox_aero_failure": "Failed to enable Aero.\n\nIt looks like Windows is preventing Aero from being enabled, unfortunately it is an important requirement and Wallpaper Engine cannot work without it.\n\nTry to enable Aero in the Windows theme options directly and start Wallpaper Engine again.",

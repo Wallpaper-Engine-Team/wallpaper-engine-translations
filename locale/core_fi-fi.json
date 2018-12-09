@@ -26,5 +26,5 @@
     "core_msgbox_init_secondinstance_ask_quit": "Wallpaper Engine on käynnissä, muttei vastaa.\n\nHaluatko pakottaa sulkemisen?",
     "core_msgbox_init_secondinstance_failed": "Uudelleenkäynnistys epäonnistui. Virhekoodi:",
     "core_msgbox_below_win_7": "Wallpaper Engine edellyttää Windows 7:ää tai uudempaa.\n\nNäyttää siltä, että käytät vanhaa versiota ja Wallpaper Engine ei välttämättä toimi.",
-    "core_msgbox_media_feature_pack_missing": "mfplat.dll puuttuu!\nSinulla on mahdollisesti Windows N. Ole hyvä ja asenna Media Feature Pack Microsoftilta jotta sovellus voisi toimia oikein! (Google: Media Feature Pack Windows 10/8.1/7)"
+    "core_msgbox_media_feature_pack_missing": "mfplat.dll puuttuu!\nSinulla on mahdollisesti Windows N. Ole hyvä ja asenna Media Feature Pack Microsoftilta jotta sovellus voisi toimia oikein! (Google: Media Feature Pack Windows 10/8.1/7)\n\n"
 }

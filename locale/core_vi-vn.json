@@ -28,7 +28,7 @@
     "core_msgbox_init_secondinstance_ask_quit": "Wallpaper Engine có thể đang hoạt động và không thấy phản hồi.\n\nBạn có muốn buộc phần mềm khởi động lại?",
     "core_msgbox_init_secondinstance_failed": "Không thể khởi chạy lại phần mềm, với mã lỗi:",
     "core_msgbox_below_win_7": "Wallpaper Engine yêu cầu Windows 7 trở lên, như đã nêu trên Steam.\n\nBạn có thể đang sử dụng hệ điều hành Windows mà Wallpaper Engine không hỗ trợ, vì thé phần mềm này dường như không thể hoạt động.",
-    "core_msgbox_media_feature_pack_missing": "Thiếu tệp mfplat.dll!\n Có thể bạn đang sử dụng Windows N. Vui lòng cài đặt Gói Tính Năng Truyền Thông từ phía Microsoft để phần mềm có thể hỗ trợ phát video. (Hỏi anh Google: Media Feature Pack Windows 10/8.1/7)",
+    "core_msgbox_media_feature_pack_missing": "Thiếu tệp mfplat.dll!\n Có thể bạn đang sử dụng Windows N. Vui lòng cài đặt Gói Tính Năng Truyền Thông từ phía Microsoft để phần mềm có thể hỗ trợ phát video. (Hỏi anh Google: Media Feature Pack Windows 10/8.1/7)\n\n",
     "core_updater_headline_init": "Đang cài đặt Wallpaper Engine...",
     "core_updater_headline_update": "Đang cập nhật Wallpaper Engine lên phiên bản {{version}}...",
     "core_updater_headline_init_complete": "Hoàn tất cài đặt phiên bản {{version}}. Bắt đầu khởi động Wallpaper Engine...",

@@ -32,7 +32,7 @@
     "core_msgbox_init_secondinstance_ask_quit": "Wallpaper Engine вече е стартиран и не отговаря.\n\nЖелаете ли да рестартирате Wallpaper Engine принудително?",
     "core_msgbox_init_secondinstance_failed": "Рестарт НЕуспешен, грешка:",
     "core_msgbox_below_win_7": "Wallpaper Engine изисква Windows 7 или по-нова версия, както е описано в раздел системни изисквания в Steam.\n\nНай-вероятно използвате неподдържана от Wallpaper Engine версия на Windows и Wallpaper Engine може да не работи нормално.",
-    "core_msgbox_media_feature_pack_missing": "mfplat.dll липсва!\nНай-вероятно използвате Windows N. Моля, инсталирайте Media Feature Pack от Microsoft, за да активирате видео поддръжка! (Google: Media Feature Pack Windows 10/8.1/7)",
+    "core_msgbox_media_feature_pack_missing": "mfplat.dll липсва!\nНай-вероятно използвате Windows N. Моля, инсталирайте Media Feature Pack от Microsoft, за да активирате видео поддръжка! (Google: Media Feature Pack Windows 10/8.1/7)\n\n",
     "core_updater_headline_init": "Зареждане на Wallpaper Engine...",
     "core_updater_headline_update": "Подновяване на Wallpaper Engine до версия {{version}}...",
     "core_updater_headline_init_complete": "Настройването завършено на версия {{version}}. Стартиране на Wallpaper Engine...",

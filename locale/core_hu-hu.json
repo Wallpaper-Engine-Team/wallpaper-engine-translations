@@ -33,7 +33,7 @@
     "core_msgbox_init_secondinstance_ask_quit": "A Wallpaper Engine már fut de nem válaszol.\n\nKényszeríti az újraindítást?",
     "core_msgbox_init_secondinstance_failed": "Az újraindítás sikertelen, hibakód:",
     "core_msgbox_below_win_7": "A Wallpaper Engine a Windows 7 vagy újabb operációs rendszert támogatja.\n\nÚgy tűnik, hogy nem támogatott Windows verziót használ, a Wallpaper Engine helyes működése nem garantált.",
-    "core_msgbox_media_feature_pack_missing": "Az mfplat.dll hiányzik!\nValószínűleg a Windows N verzióját használja. Kérjük telepítse a Media Feature Pack-ot, hogy engedélyezze a videó támogatást! (Google: Media Feature Pack Windows 10/8.1/7)",
+    "core_msgbox_media_feature_pack_missing": "Az mfplat.dll hiányzik!\nValószínűleg a Windows N verzióját használja. Kérjük telepítse a Media Feature Pack-ot, hogy engedélyezze a videó támogatást! (Google: Media Feature Pack Windows 10/8.1/7)\n\n",
     "core_updater_headline_init": "Wallpaper Engine indítása...",
     "core_updater_headline_update": "A Wallpaper Engine frissítése a {{version}} verzióra...",
     "core_updater_headline_init_complete": "A {{version}} verzió telepítése kész. Wallpaper Engine indítása...",

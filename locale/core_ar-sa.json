@@ -27,7 +27,7 @@
     "core_msgbox_init_secondinstance_ask_quit": "يبدو ان محرك الخلفيات يعمل لكن لا يستجيب\n\nهل تريد اعادة تشغيله بالقوة ؟",
     "core_msgbox_init_secondinstance_failed": ":فشل اعادة التشغيل, خطأ رقم",
     "core_msgbox_below_win_7": "محرك الخلفيات يحتاج ويندوز 7 او اعلى كما هو مكتوب في صفحة المتطلبات في ستيم.\n\nيبدو انك تستخدم نسخة غير مدعومة من ويندوز و محرك الخلفيات قد لا يعمل",
-    "core_msgbox_media_feature_pack_missing": "mfplat.dll مفقود!\nMedia Feature Pack Windows 10/8.1/7 من مايكروسوفت لتشغيل ميزة دعم الفيديو ابحث عن Media Feature Pack الرجاء تثبيت N قد يكون لديك ويندوز",
+    "core_msgbox_media_feature_pack_missing": "mfplat.dll مفقود!\nMedia Feature Pack Windows 10/8.1/7 من مايكروسوفت لتشغيل ميزة دعم الفيديو ابحث عن Media Feature Pack الرجاء تثبيت N قد يكون لديك ويندوز\n\n",
     "core_updater_headline_init": "...يتم اعداد محرك الخلفيات",
     "core_updater_headline_update": "...جاري تحديث محرك الخلفيات للنسخة {{version}}",
     "core_updater_headline_init_complete": "...اكتمل اعداد النسخة {{version}}. جاري بدء محرك الخلفيات",

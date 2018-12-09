@@ -32,7 +32,7 @@
     "core_msgbox_init_secondinstance_ask_quit": "Wallpaper Engine juba töötab, aga ei vasta.\n\nKas soovid sundida taaskäivituse?",
     "core_msgbox_init_secondinstance_failed": "Taaskäivitus ebaõnnestus, veakood:",
     "core_msgbox_below_win_7": "Wallpaper Engine vajab Windows 7 või uuemat, nagu on märgitud ka süsteeminõuetele Steamis.\n\nTundub, et Teil on toetamata Windowsi versioon ja Wallpaper Engine ei pruugi töötada.",
-    "core_msgbox_media_feature_pack_missing": "mfplat.dll kadunud!\nTeil on ilmselt Windows N. Palun installi Media Feature Pack Microsofti poolt et aktiveerida video tugi! (Google: Media Feature Pack Windows 10/8.1/7)",
+    "core_msgbox_media_feature_pack_missing": "mfplat.dll kadunud!\nTeil on ilmselt Windows N. Palun installi Media Feature Pack Microsofti poolt et aktiveerida video tugi! (Google: Media Feature Pack Windows 10/8.1/7)\n\n",
     "core_updater_headline_init": "Seadistan Wallpaper Engine...",
     "core_updater_headline_update": "Uuendan Wallpaper Engine versioonile {{version}}...",
     "core_updater_headline_init_complete": "Seadistamine versioonile {{version}} lõpetatud. Käivitan Wallpaper Engine...",

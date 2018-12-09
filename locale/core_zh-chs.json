@@ -35,7 +35,7 @@
     "core_msgbox_init_secondinstance_ask_quit": "Wallpaper Engine 似乎已经运行，但无响应。\n\n需要强制重启 Wallpaper Engine 吗？",
     "core_msgbox_init_secondinstance_failed": "重新启动失败，错误代码：",
     "core_msgbox_below_win_7": "Wallpaper Engine 需要在 Windows 7 或更高版本上运行，这是系统要求。\n\n您运行的 Windows 版本似乎不受支持，Wallpaper Engine 可能不会正常工作。",
-    "core_msgbox_media_feature_pack_missing": "mfplat.dll 文件丢失！\n您使用的可能是 Windows N 版本。请安装 Microsoft 的 Media Feature Pack 以启用视频支持！(Google: Media Feature Pack Windows 10/8.1/7)",
+    "core_msgbox_media_feature_pack_missing": "mfplat.dll 文件丢失！\n您使用的可能是 Windows N 版本。请安装 Microsoft 的 Media Feature Pack 以启用视频支持！(Google: Media Feature Pack Windows 10/8.1/7)\n\n",
     "core_updater_headline_init": "正在安装 Wallpaper Engine...",
     "core_updater_headline_update": "正在将 Wallpaper Engine 更新到版本 {{version}}...",
     "core_updater_headline_init_complete": "版本 {{version}} 安装完成。正在启动 Wallpaper Engine...",

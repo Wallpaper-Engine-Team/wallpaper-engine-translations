@@ -35,7 +35,7 @@
     "core_msgbox_init_secondinstance_ask_quit": "Parece que o Wallpaper Engine já está a ser executado mas não responde.\n\nPretende reiniciá-lo de forma forçada?",
     "core_msgbox_init_secondinstance_failed": "O reinício falhou. Código do erro:",
     "core_msgbox_below_win_7": "O Wallpaper Engine só é compatível com o Windows 7 ou outra versão superior.\n\nParece que está a utilizar uma versão do Windows incompatível e o Wallpaper Engine pode não funcionar.",
-    "core_msgbox_media_feature_pack_missing": "O ficheiro mfplat.dll está em falta.\nPossivelmente está a utilizar o Windows N. Instale o Media Feature Pack da Microsoft para habilitar o suporte a vídeo. (Pesquise no Google: Media Feature Pack Windows 10/8.1/7)",
+    "core_msgbox_media_feature_pack_missing": "O ficheiro mfplat.dll está em falta.\nPossivelmente está a utilizar o Windows N. Instale o Media Feature Pack da Microsoft para habilitar o suporte a vídeo. (Pesquise no Google: Media Feature Pack Windows 10/8.1/7)\n\n",
     "core_updater_headline_init": "A preparar o Wallpaper Engine...",
     "core_updater_headline_update": "A atualizar o Wallpaper Engine para a versão {{version}}...",
     "core_updater_headline_init_complete": "Completed setup of version {{version}}. Starting Wallpaper Engine...",

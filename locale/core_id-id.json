@@ -35,7 +35,7 @@
     "core_msgbox_init_secondinstance_ask_quit": "Kelihatannya Wallpaper Engine sudah berjalan namun tidak merespon.\n\nApakah anda mau memuat ulang dengan paksa?",
     "core_msgbox_init_secondinstance_failed": "Gagal memuat ulang, kode galat:",
     "core_msgbox_below_win_7": "Wallpaper Engine membutuhkan versi Windows 7 atau lebih seperti yang tertulis pada syarat sistem di Steam.\n\nKelihatannya anda menjalankan versi Windows yang tidak didukung dan Wallpaper Engine mungkin tidak dapat berjalan dengan semestinya.",
-    "core_msgbox_media_feature_pack_missing": "Berkas mfplat.dll tidak ditemukan!\nKemungkinan anda menggunakan Windows N. Silahkan pasang Media Feature Pack dari Microsoft untuk menghidupkan dukungan video! (Google: Media Feature Pack Windows 10/8.1/7)",
+    "core_msgbox_media_feature_pack_missing": "Berkas mfplat.dll tidak ditemukan!\nKemungkinan anda menggunakan Windows N. Silahkan pasang Media Feature Pack dari Microsoft untuk menghidupkan dukungan video! (Google: Media Feature Pack Windows 10/8.1/7)\n\n",
     "core_updater_headline_init": "Mempersiapkan Wallpaper Engine...",
     "core_updater_headline_update": "Melakukan Pembaruan Wallpaper Engine ke versi {{version}}...",
     "core_updater_headline_init_complete": "Pengaturan Selesai untuk versi {{version}}. Memulai Wallpaper Engine...",

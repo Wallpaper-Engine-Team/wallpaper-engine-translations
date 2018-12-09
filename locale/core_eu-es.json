@@ -35,7 +35,7 @@
     "core_msgbox_init_secondinstance_ask_quit": "Wallpaper Engine exekutatzen ari dela baina erantzuten ez duela dirudi.\n\nIndarrez berrabiarazi nahi duzu?",
     "core_msgbox_init_secondinstance_failed": "Berrabiarazpen errorea, kodea:",
     "core_msgbox_below_win_7": "Wallpaper Engine Windows 7 edo gehiago behar du, Steam-en dauden sistema baldintzak adierazten duten bezala.\n\nEuskarri gabeko Windows bertsio bat exekutatzen ari zarela dirudi eta posible da Wallpaper Engine ez funtzionatzea.",
-    "core_msgbox_media_feature_pack_missing": "mfplat.dll falta da!\nSeguruenik Windows N daukazu. Mesedez instalatu ezazu Media Core Pack Microsoftetik bideo euskarria lortzeko! (Google: Media Feature Pack Windows 10/8.1/7)",
+    "core_msgbox_media_feature_pack_missing": "mfplat.dll falta da!\nSeguruenik Windows N daukazu. Mesedez instalatu ezazu Media Core Pack Microsoftetik bideo euskarria lortzeko! (Google: Media Feature Pack Windows 10/8.1/7)\n\n",
     "core_updater_headline_init": "Wallpaper Engine prestatzen...",
     "core_updater_headline_update": "Wallpaper Engine {{version}} bertsiora eguneratzen...",
     "core_updater_headline_init_complete": "{{version}} bertsioaren prestakuntza bukatu da. Wallpaper Engine abiarazten...",
