@@ -20,7 +20,7 @@
     "core_balloon_desktop_window_error" : "Fel uppstod när skrivbord förbereddes för en levande bakgrund.",
     "core_balloon_video_error" : "Ett videofel i Windows uppstod {{err}}. Klicka på mig för hjälp.",
     "core_balloon_app_error" : "Fel uppstod när programmet lästes in som bakgrund.",
-    "core_balloon_pkg_version_error" : "Denna bakgrund kan inte öppnas p.g.a. den kräver en nyare version av Wallpaper Engine. Försök att installera den senaste versionen via Steam.",
+    "core_balloon_pkg_version_error" : "Denna bakgrund kräver en nyare version av Wallpaper Engine. Uppdatera Wallpaper Engine till den senaste versionen på Steam.",
     "core_balloon_wallpaper_file_missing" : "Denna bakgrund kan inte öppnas eftersom den saknar sina filer.",
     
     "core_msgboxtitle_error" : "Fel",
@@ -38,7 +38,7 @@
     "core_msgbox_init_secondinstance_ask_quit" : "Det verkar som att Wallpaper Engine redan körs och svarar inte.\n\nVill du tvinga en omstart?",
     "core_msgbox_init_secondinstance_failed" : "Omstart misslyckades, felkod:",
     "core_msgbox_below_win_7" : "Wallpaper Engine kräver Windows 7 eller nyare, det är ett systemkrav.\n\nDet ser ut som att du använder en version av Windows som inte stöds och Wallpaper Engine kanske inte fungerar.",
-    "core_msgbox_media_feature_pack_missing" : "mfplat.dll saknas!\nDu har förmodligen Windows N. Installera Media Feature Pack av Microsoft för att aktivera stöd för video! (Googla: Media Feature Pack Windows 10/8.1/7)",
+    "core_msgbox_media_feature_pack_missing" : "mfplat.dll saknas!\nDu har förmodligen Windows N. Installera Media Feature Pack av Microsoft för att aktivera stöd för video! (Googla: Media Feature Pack Windows 10/8.1/7)\n\nOm du fortsätter att se detta fel har du ännu inte installerat rätt paket.",
     
     "core_updater_headline_init" : "Konfigurerar Wallpaper Engine...",
     "core_updater_headline_update" : "Uppdaterar Wallpaper Engine till version {{version}}...",
