@@ -1,7 +1,7 @@
 {
-    "core_tray_saved_playlists": "Saved Playlists",
-    "core_tray_saved_profiles": "Saved Profiles",
-    "core_tray_unmute": "Unmute",
-    "core_msgbox_aero_failure": "Failed to enable Aero.\n\nIt looks like Windows is preventing Aero from being enabled, unfortunately it is an important requirement and Wallpaper Engine cannot work without it.\n\nTry to enable Aero in the Windows theme options directly and start Wallpaper Engine again.",
-    "core_updater_prompt_close_foreign": "Wallpaper Engine cannot continue updating because a program appears to be locking the files. Please close these programs to continue:"
+    "core_tray_saved_playlists": "Opgeslagen Afspeellijsten",
+    "core_tray_saved_profiles": "Opgeslagen Profielen",
+    "core_tray_unmute": "Schakel in",
+    "core_msgbox_aero_failure": "Kon Aero niet aan zetten. \n\nHet ziet er naar uit dat Windows voorkomt dat Aero word aangezet, Aero is een belangrijke eis voor Wallpaper Engine en Wallpaper Engine kan niet werken zonder het.\n\nProbeer Aero in de Windows Thema's aan te zetten en probeer het dan opnieuw.",
+    "core_updater_prompt_close_foreign": "Wallpaper Engine kan niet verder updaten omdat een programma de bestanden op slot heeft gezet. Sluit deze programma's om verder te gaan:"
 }
