@@ -19,7 +19,7 @@
     "ui_browse_monitor" : "Skärm",
     "ui_browse_split" : "Dela",
     "ui_browse_choose_monitor" : "(Välj skärm)",
-    "ui_browse_filter_results" : "Filterresultat",
+    "ui_browse_filter_results" : "Filtrera resultat",
     "ui_browse_filter_results_count" : "({{filtered}} av {{unfiltered}})",
     "ui_browse_filter_results_filtered" : "(filtrerade)",
     "ui_browse_sort_by" : "Sortera efter",
@@ -90,7 +90,7 @@
     
     "ui_browse_footer_btn_workshop" : "Steam Workshop",
     "ui_browse_footer_btn_open_from_file" : "Öppna från fil",
-    "ui_browse_footer_btn_open_from_url" : "Öppna från webbadress",
+    "ui_browse_footer_btn_open_from_url" : "Öppna från URL",
     "ui_browse_footer_btn_wallpaper_editor" : "Bakgrundsredigerare",
 
     "ui_browse_monitors_choose_monitor" : "Välj skärm",
@@ -240,7 +240,7 @@
     "ui_browse_query_sort_voted_up" : "Uppröstade",
     "ui_browse_query_sort_friends_favorites" : "Vänners favoriter",
     "ui_browse_query_sort_friends_created" : "Skapade av vänner",
-    "ui_browse_query_sort_by_followed_users" : "Skapade av användare du följer",
+    "ui_browse_query_sort_by_followed_users" : "Skapade av följda användare",
     "ui_browse_query_sort_most_up_votes" : "Flest uppröster",
     "ui_browse_query_sort_most_subscriptions" : "Flest prenumeranter",
     
@@ -780,7 +780,7 @@
     "ui_workshop_tags_animal" : "Djur",
     "ui_workshop_tags_anime" : "Anime",
     "ui_workshop_tags_approved" : "Godkända",
-    "ui_workshop_tags_audio_responsive" : "Ljudresponsiv",
+    "ui_workshop_tags_audio_responsive" : "Ljudresponsiva",
     "ui_workshop_tags_cartoon" : "Tecknat",
     "ui_workshop_tags_cgi" : "Datorgenererat",
     "ui_workshop_tags_cyberpunk" : "Cyberpunk",
