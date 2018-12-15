@@ -1,7 +1,0 @@
-{
-    "core_tray_saved_playlists": "Opgeslagen Afspeellijsten",
-    "core_tray_saved_profiles": "Opgeslagen Profielen",
-    "core_tray_unmute": "Schakel in",
-    "core_msgbox_aero_failure": "Kon Aero niet aan zetten. \n\nHet ziet er naar uit dat Windows voorkomt dat Aero word aangezet, Aero is een belangrijke eis voor Wallpaper Engine en Wallpaper Engine kan niet werken zonder het.\n\nProbeer Aero in de Windows Thema's aan te zetten en probeer het dan opnieuw.",
-    "core_updater_prompt_close_foreign": "Wallpaper Engine kan niet verder updaten omdat een programma de bestanden op slot heeft gezet. Sluit deze programma's om verder te gaan:"
-}
