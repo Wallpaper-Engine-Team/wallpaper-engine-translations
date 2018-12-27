@@ -831,7 +831,7 @@
 	
 	"ui_editor_import_adjust_projection_center" : "Προσαρμογή μεγέθους εξωφύλλου και κεντραρίσματος",
 	
-	"ui_editor_effects_modal_imageστρώμα_name" : "Στρώμα εικόνας",//TODO
+	"ui_editor_effects_modal_imageστρώμα_name" : "Στρώμα εικόνας",
 	"ui_editor_effects_modal_imageστρώμα_description" : "Εισαγωγή εικόνας από τον υπολογιστή σας.",
 	"ui_editor_effects_modal_fullscreenστρώμα_name" : "Στρώμα πλήρης οθόνης",
 	"ui_editor_effects_modal_fullscreenστρώμα_description" : "Προσθήκη ημιδιαφανούς στρώματος πλήρης οθόνης το οποίο καλύπτει ολόκληρη την οθόνη. Ότι εφέ εφαρμοστούν στο στρώμα θα επηρεάσουν αντικείμενα τα οποία σχεδιάστηκαν στην οθόνη προτού την επικάλυψη του στρώματος.",
@@ -1111,7 +1111,7 @@
 	"ui_editor_properties_normal" : "Κανονικό",
 	"ui_editor_properties_not_more_than_one_per_frame" : "Περιορισμός σε ένα ανά καρέ",
 	"ui_editor_properties_nothing_to_configure" : "Τίποτα για διαμόρφωση",
-	"ui_editor_properties_offset" : "Αντιστάθμιση",//TODO
+	"ui_editor_properties_offset" : "Αντιστάθμιση",
 	"ui_editor_properties_opacity" : "Διαφάνεια",
 	"ui_editor_properties_opacity_mask" : "Διαφάνεια μάσκας",
 	"ui_editor_properties_operator_blending" : "Χειριστής μείξης",
@@ -1182,7 +1182,7 @@
 	"ui_editor_properties_shading_direction" : "Κατεύθυνση σκίασης",
 	"ui_editor_properties_shake_direction_map" : "Κατεύθυνση τινάγματος",
 	"ui_editor_properties_shake_phase" : "Φάση τινάγματος",
-	"ui_editor_properties_sign" : "Υπογραφή",//LOL σημάδι
+	"ui_editor_properties_sign" : "Υπογραφή",
 	"ui_editor_properties_size" : "Μέγεθος",
 	"ui_editor_properties_smoothness" : "Λειότητα",
 	"ui_editor_properties_sound" : "Ήχος",
