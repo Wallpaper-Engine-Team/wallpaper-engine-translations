@@ -249,7 +249,7 @@
 	"ui_browse_explore_disliked" : "Δεν μου αρέσει",
 	"ui_browse_explore_see_more" : "δείτε περισσότερα",
 	"ui_browse_explore_category_genre_popular" : "Δημοφιλή εξώφυλλα στην κατηγορία <b>{{genre}}</b>",
-	"ui_browse_explore_category_genre_popular_approved": "Δημοφιλή <b>εγκεκριμένα</b> εξώφυλλα",
+	"ui_browse_explore_category_genre_popular_approved" : "Δημοφιλή <b>εγκεκριμένα</b> εξώφυλλα",
 	"ui_browse_explore_category_genre_recent" : "Πρόσφατα εξώφυλλα στην κατηγορία <b>{{genre}}</b>",
 	"ui_browse_explore_category_genre_recent_approved" : "Πρόσφατα <b>εγκεκριμένα</b> εξώφυλλα",
 	"ui_browse_explore_category_genre_new" : "Νέα εξώφυλλα στην κατηγορία <b>{{genre}}</b>",
@@ -372,7 +372,7 @@
 	"ui_rating_table_header_photographic" : "Φωτογραφικό / αληθινό",
 	"ui_rating_table_header_cgi" : "CGI / ζωγραφιές",
 
-	"ui_settings_playback": "Αναπαραγωγή",
+	"ui_settings_playback" : "Αναπαραγωγή",
 	"ui_settings_playback_focused" : "Άλλη εφαρμογή σε εστίαση:",
 	"ui_settings_playback_maximized" : "Άλλη εφαρμογή σε μεγιστοποίηση:",
 	"ui_settings_playback_fullscreen" : "Άλλη εφαρμογή σε πλήρης οθόνη:",
@@ -772,7 +772,7 @@
 	"ui_editor_toast_project_packed" : "Συνενωμένα εξώφυλλα δεν μπορούν να ανοιχτούν.",
 	
 	"ui_editor_workshop_tags_limit" : "Μόνο τρεις ετικέτες επιτρέπονται.",
-	"ui_editor_workshop_tags_placeholder": "Προσθήκη ετικέτας",
+	"ui_editor_workshop_tags_placeholder" : "Προσθήκη ετικέτας",
 	"ui_workshop_workshop_tags_rating" : "Ηλικιακή κατάταξη",
 	"ui_workshop_workshop_tags_rating_not_set" : "< Δεν ορίστηκε >",
 	
