@@ -519,7 +519,7 @@
 	"ui_settings_use_safe_mode" : "Χρήση ασφαλής εκκίνησης:",
 	"ui_settings_disable_slideshow" : "Αφαίρεση εφέ διαφάνειας εξωφύλλων του Windows:",
 	"ui_settings_ui_hardware_acceleration" : "Επιτάχυνση υλικού διεπαφής:",
-	"ui_settings_show_tray_icon" : "Εμφάνιση εικονιδίου στο tray:",
+	"ui_settings_show_tray_icon" : "Εμφάνιση εικονιδίου στην περιοχή γνωστοποιήσεων:",
 	
 	"ui_settings_copyright" : "Όλα τα δικαιώματα διατηρούνται.",
 	"ui_settings_thirdparty" : "Σημειώσεις τρίτων",
@@ -541,7 +541,7 @@
 	"ui_welcome_windows_color_header" : "Προσαρμογή χρωμάτων Windows",
 	"ui_welcome_autostart_description" : "Εκκίνηση Wallpaper Engine με τα Windows:",
 	"ui_welcome_autostart_label" : "Αυτόματη εκκίνηση:",
-	"ui_welcome_finish_body" : "Τα πάντα ρυθμίστηκαν!<br/><br/>Το Wallpaper Engine θα είναι τώρα διαθέσιμο στο system tray. Κάντε <b>Αριστερό κλικ</b> για να επιλέξτε ένα εξώφυλλο ή <b>δεξί κλικ</b> για να ανοίξετε τις ρυθμίσεις, το Εργαστήρι Steam ή το Προσαρμογέα Εξωφύλλων.<div style='height:20px'></div>",
+	"ui_welcome_finish_body" : "Τα πάντα ρυθμίστηκαν!<br/><br/>Το Wallpaper Engine θα είναι τώρα διαθέσιμο στην περιοχή γνωστοποιήσεων. Κάντε <b>Αριστερό κλικ</b> για να επιλέξτε ένα εξώφυλλο ή <b>δεξί κλικ</b> για να ανοίξετε τις ρυθμίσεις, το Εργαστήρι Steam ή το Προσαρμογέα Εξωφύλλων.<div style='height:20px'></div>",
 	"ui_welcome_browse_wallpapers_now" : "Περιήγηση εξωφύλλων τώρα",
 	"ui_welcome_button_first_page" : "Ας ξεκινήσουμε",
 	"ui_welcome_button_next_page" : "Επόμενο",
