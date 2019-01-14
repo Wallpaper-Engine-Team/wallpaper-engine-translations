@@ -26,7 +26,7 @@
     "ui_browse_status_error": "Fout",
     "ui_browse_select_prompt": "Selecteer een achtergrond",
     "ui_browse_steam_status_unavailable": "Steam is niet beschikbaar.",
-    "ui_browse_steam_status_unavailable_cache": "Steam is niet beschikbaar.<br/>{{count}} wallpaper geladen uit de cache.",
+    "ui_browse_steam_status_unavailable_cache": "Steam is niet beschikbaar.<br/>{{count}} achtergronden geladen uit de cache.",
     "ui_browse_steam_status_pending": "Wachten op een antwoord van Steam...",
     "ui_browse_steam_status_complete": "Steam update is compleet.<br/>{{count}} achtergronden naar de cache geschreven.",
     "ui_browse_header_option_settings": "Instellingen",
