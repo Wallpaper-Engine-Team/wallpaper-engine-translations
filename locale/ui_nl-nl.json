@@ -600,5 +600,5 @@
     "ui_settings_hotkeys_action_user_wallpaper": "Kies achtergrond",
     "ui_settings_hotkeys_action_user_playlist": "Kies afspeellijst",
     "ui_settings_hotkeys_action_window_settings": "instellingen",
-    "ui_settings_hotkeys_action_take_screenshot": "neem screenshot"
+    "ui_settings_hotkeys_action_take_screenshot" : "neem screenshot"
 }
