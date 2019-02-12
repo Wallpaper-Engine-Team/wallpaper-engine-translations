@@ -1213,7 +1213,7 @@
     "ui_editor_user_properties_fetch_mode_all": "Tutto",
     "ui_editor_user_properties_fetch_mode_on_demand": "Su richiesta",
     "ui_editor_user_properties_condition_placeholder": "Espressione: tasto == X",
-    "ui_editor_toast_project_packed": "Sfondi packeggiati non possono essere aperti.",
+    "ui_editor_toast_project_packed": "Sfondi confezionati non possono essere aperti.",
     "ui_editor_properties_context_menu_edit_user_property": "Modifica Proprietà Utente",
-    "ui_editor_properties_context_menu_restore_default_value": "Ripristina Valore Predifiniti"
+    "ui_editor_properties_context_menu_restore_default_value": "Ripristina Valore Predifinito"
 }
