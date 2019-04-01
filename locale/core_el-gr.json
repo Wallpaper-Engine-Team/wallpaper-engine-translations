@@ -80,7 +80,6 @@
 	"core_updater_status_complete_starting" : "Εκκίνηση Wallpaper Engine...",
 	"core_updater_status_cancelled" : "Η διεργασία ακυρώθηκε από τον χρήστη",
 	"core_updater_status_corrupted_system_module_message_box_title" : "Αρχείο συστήματος ελλειπή ή κατεστραμμένο",
-	"core_updater_status_corrupted_system_module_message_box_body" : "Ένα αρχείο συστήματος φαίνεται ότι λείπει ή είναι κατεστραμμένο και το Wallpaper Engine μπορεί να μην λειτουργήσει ομαλά χωρίς αυτό.\n\nΔιαγραφή: {{modules}}\n\nΕπανεγκατάσταση: {{installers}}",
 	"core_updater_prompt_close" : "Το Wallpaper Engine εκτελείτε, παρακαλούμε τερματίστε το πρώτα. Αναμονή για τον τερματισμό αυτών των διεργασιών:",
 	"core_updater_prompt_close_foreign" : "Το Wallpaper Engine δεν μπορεί να συνεχίσει την ενημέρωση επειδή το πρόγραμμα φαίνεται ότι κλειδώνει τα αρχεία. Παρακαλούμε τερματίστε τις εξής διεργασίες για να συνεχίσετε:",
 	"core_updater_status_directx_not_supported_title" : "Το DirectX 10 δεν υποστηρίζεται",

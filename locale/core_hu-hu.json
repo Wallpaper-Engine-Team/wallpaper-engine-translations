@@ -74,7 +74,6 @@
     "core_updater_status_complete_starting": "Wallpaper Engine indítása...",
     "core_updater_status_cancelled": "A folyamat bezárásra került a felhasználó által",
     "core_updater_status_corrupted_system_module_message_box_title": "A rendszermodul betöltése sikertelen",
-    "core_updater_status_corrupted_system_module_message_box_body": "Egy rendszermodul valószínűleg megsérült, és a Wallpaper Engine-t hibás működésre kényszerítheti.\n\nEzeket törölje: {{modules}}\n\nEzeket telepítse újra: {{installers}}",
     "core_updater_prompt_close": "A Wallpaper Engine még fut, zárja be először. A következő folyamatok bezárására várunk:",
     "core_updater_status_directx_not_supported_title": "A DirectX 10 nem támogatott",
     "core_updater_status_directx_not_supported_body": "Úgy tűnik, a videokártyája nem támogatja a DirectX 10-et, vagy a grafikus vezérlőjében probléma merült fel. A DirectX 10 alapvető követelmény az alkalmazás megfelelő működéséhez.\n\nHa a videokártyája támogatja a DirectX 10-et, valószínűleg a grafikus vezérlője sérült. Próbálja meg újratelepíteni a grafikus vezérlőt vagy lépjen kapcsolatba a kártya gyártójával (Nvidia, AMD, Intel) a probléma megoldásához."

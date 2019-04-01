@@ -80,7 +80,6 @@
     "core_updater_status_complete_starting" : "Startar Wallpaper Engine...",
     "core_updater_status_cancelled" : "Processen avbröts av användaren",
     "core_updater_status_corrupted_system_module_message_box_title" : "Systemfil saknas eller är trasig",
-    "core_updater_status_corrupted_system_module_message_box_body" : "En systemfil verkar saknas eller är trasig och Wallpaper Engine kanske inte fungerar helt och hållet utan den.\n\nRadera: {{modules}}\n\nInstallera om: {{installers}}",
     "core_updater_prompt_close" : "Wallpaper Engine körs fortfarande, stäng det först. Väntar på att dessa processer ska stängas:",
     "core_updater_prompt_close_foreign" : "Wallpaper Engine kan inte fortsätta uppdatera eftersom ett program verkar låsa filerna. Stäng dessa program för att fortsätta:",
     "core_updater_status_directx_not_supported_title" : "DirectX 10 stöds inte",

@@ -68,6 +68,5 @@
     "core_updater_status_complete_starting": "Đang khởi động Wallpaper Engine...",
     "core_updater_status_cancelled": "Quá trình này đã bị hủy chỉ vì người dùng nó hủy",
     "core_updater_status_corrupted_system_module_message_box_title": "Mô-đun của hệ thống không thể tải được",
-    "core_updater_status_corrupted_system_module_message_box_body": "Có thể có một phần tử của mô-đun bên hệ thống đang bị hỏng và có thể làm cho Wallpaper Engine gặp sự cố đáng tiếc.\n\nXóa: {{modules}}\n\nCài đặt lại: {{installers}}",
     "core_updater_prompt_close": "Xin lỗi, nhưng Wallpaper Engine hiện vẫn đang chạy, vậy bạn nên đóng nó trước đi."
 }

@@ -76,7 +76,6 @@
     "core_updater_status_complete_starting": "正在啟動 Wallpaper Engine...",
     "core_updater_status_cancelled": "使用者已取消處理程序",
     "core_updater_status_corrupted_system_module_message_box_title": "系統檔案遺失或已損壞",
-    "core_updater_status_corrupted_system_module_message_box_body": "系統檔案可能遺失或已損壞，這可能導致 Wallpaper Engine 無法運作。\n\n刪除: {{modules}}\n\n重新安裝: {{installers}}",
     "core_updater_prompt_close": "Wallpaper Engine 仍在執行中，請先將它關閉。正在等待這些程序關閉:",
     "core_updater_prompt_close_foreign": "Wallpaper Engine 無法繼續進行更新，因為檔案遭程式鎖定。請關閉這些程式以繼續進行更新:",
     "core_updater_status_directx_not_supported_title": "不支援 DirectX 10",

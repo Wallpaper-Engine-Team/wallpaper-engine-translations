@@ -76,7 +76,6 @@
     "core_updater_status_complete_starting": "Запуск Wallpaper Engine...",
     "core_updater_status_cancelled": "Процесс был отменен пользователем",
     "core_updater_status_corrupted_system_module_message_box_title": "Системный модуль отсутствует или поврежден",
-    "core_updater_status_corrupted_system_module_message_box_body": "Возможно, системный модуль повреждён и может повлечь за собой сбой в работе Wallpaper Engine.\n\nУдалите: {{modules}}\n\nПереустановите: {{installers}}",
     "core_updater_prompt_close": "Wallpaper Engine все еще запущено. Сначала закройте его. Ожидание завершения следующих процессов:",
     "core_updater_prompt_close_foreign": "Wallpaper Engine не может продолжить процесс обновления, поскольку какая-то программа блокирует файлы. Закройте эти программы, чтобы продолжить:",
     "core_updater_status_directx_not_supported_title": "DirectX 10 не поддерживается",

@@ -72,7 +72,6 @@
     "core_updater_status_complete_starting": "Käivitan Wallpaper Engine...",
     "core_updater_status_cancelled": "Protsess tühistatud kasutaja poolt.",
     "core_updater_status_corrupted_system_module_message_box_title": "Süsteemi moodulit ei saa laadida",
-    "core_updater_status_corrupted_system_module_message_box_body": "Süsteemi moodul tundub olevat kahjustatud ja võib Wallpaper Engine tööd takistada.\n\nKustuta: {{modules}}\n\nTaasinstalli: {{installers}}",
     "core_updater_prompt_close": "Wallpaper Engine töötab, palun sulge see kõigepealt.",
     "core_updater_status_directx_not_supported_title": "DirectX 10 ei toetata"
 }

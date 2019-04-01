@@ -76,7 +76,6 @@
     "core_updater_status_complete_starting": "Démarrage de Wallpaper Engine...",
     "core_updater_status_cancelled": "Le processus a été annulé par l'utilisateur",
     "core_updater_status_corrupted_system_module_message_box_title": "Le module système n'a pas pu être chargé.",
-    "core_updater_status_corrupted_system_module_message_box_body": "Un module système semble être corrompu et pourrait empêcher le bon fonctionnement de Wallpaper Engine.\n\nSupprimer : {{modules}}\n\nRéinstaller : {{installers}}",
     "core_updater_prompt_close": "Wallpaper Engine est toujours en cours d'exécution, veuillez d'abord le fermer. En attente de la fermeture de ces processus :",
     "core_updater_prompt_close_foreign": "Wallpaper Engine ne peut continuer la mise à jour car un programme semble verrouiller les fichiers. Veuillez fermer ces programmes pour continuer :",
     "core_updater_status_directx_not_supported_title": "DirectX 10 non pris en charge",

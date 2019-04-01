@@ -76,7 +76,6 @@
     "core_updater_status_complete_starting": "Memulai Wallpaper Engine...",
     "core_updater_status_cancelled": "Proses dibatalkan oleh pengguna",
     "core_updater_status_corrupted_system_module_message_box_title": "Modul sistem tidak dapat dimuat",
-    "core_updater_status_corrupted_system_module_message_box_body": "Kelihatannya ada modul sistem yang mengalami kerusakan dan berpotensi mengakibatkan malfungsi pada Wallpaper Engine.\n\nHapus: {{modules}}\n\nInstall ulang: {{installers}}",
     "core_updater_prompt_close": "Wallpaper Engine masih berjalan, harap ditutup terlebih dahulu.",
     "core_updater_prompt_close_foreign": "Wallpaper Engine tidak dapat melanjutkan untuk memperbarui karena suatu program muncul untuk mengunci file-file yang diperlukan. Silahkan tutup program ini untuk melanjutkan:",
     "core_updater_status_directx_not_supported_title": "DirectX 10 tidak didukung",

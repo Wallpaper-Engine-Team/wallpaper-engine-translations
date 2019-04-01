@@ -73,7 +73,6 @@
     "core_updater_status_complete_starting": "Стартиране на Wallpaper Engine...",
     "core_updater_status_cancelled": "Процесът беше отменен от потребителя",
     "core_updater_status_corrupted_system_module_message_box_title": "Системният модул НЕ може да бъде зареден",
-    "core_updater_status_corrupted_system_module_message_box_body": "Системният модул е конфликтен и е възможно да попречи на Wallpaper Engine да функционира нормално.\n\nИзтрий: {{modules}}\n\nПРЕинсталиране: {{installers}}",
     "core_updater_prompt_close": "Wallpaper Engine все още работи, моля затворете го първо. Изчакване за приключването на тези процеси:",
     "core_updater_status_directx_not_supported_title": "DirectX 10 не се поддържа.",
     "core_updater_status_directx_not_supported_body": "Изглежда, че вашата графична карта не поддържа DirectX 10 или вашия графичен драйвер има проблем. DirectX 10 се изисква от системата, за да може това приложение да функционира правилно.\n\nАко вашата графична карта би трябвало да поддържа DirectX 10, наличните Ви графични драйвери може да бъдат повредени. Може да опитате да инсталирате повторно драйвера или да се свържете с доставчика на вашия хардуер (Nvidia, AMD, Intel), за да разрешите проблема."

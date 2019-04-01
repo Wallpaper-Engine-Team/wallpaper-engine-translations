@@ -76,7 +76,6 @@
     "core_updater_status_complete_starting": "Uruchamianie programu Wallpaper Engine...",
     "core_updater_status_cancelled": "Proces został przerwany przez użytkownika",
     "core_updater_status_corrupted_system_module_message_box_title": "Brak pliku systemowego lub jest on uszkodzony.",
-    "core_updater_status_corrupted_system_module_message_box_body": "Plik systemowy nie może zostać odnaleziony lub jest uszkodzony i może spowodować nieprawidłowe działanie programu Wallpaper Engine.\n\nUsuń: {{modules}}\n\nZainstaluj ponownie: {{installers}}",
     "core_updater_prompt_close": "Program Wallpaper Engine nadal działa, proszę go najpierw wyłączyć. Czekanie na zamknięcie tych procesów:",
     "core_updater_prompt_close_foreign": "Program Wallpaper Engine nie może kontynuować aktualizacji, ponieważ program blokuje pliki. Zamknij te programy, aby kontynuować:",
     "core_updater_status_directx_not_supported_title": "DirectX 10 nieobsługiwany",

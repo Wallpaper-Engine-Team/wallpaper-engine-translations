@@ -66,7 +66,6 @@
     "core_updater_status_complete_starting": "Zaganjanje programa Wallpaper Engine...",
     "core_updater_status_cancelled": "Uporabnik je preklical proces",
     "core_updater_status_corrupted_system_module_message_box_title": "Sistemski modul se ni zmogel naložiti",
-    "core_updater_status_corrupted_system_module_message_box_body": "Sistemski modul je pokvarjen in lahko privede do nepravilnega delovanja Wallpaper Engine-a.\n\nIzbriši: {{modules}}\n\nPonovno Namesti: {{installers}}",
     "core_updater_prompt_close": "Wallpaper Engine se še vedno izvaja, najprej ga zaprite. Čakam da se naslednji procesi zaprejo:",
     "core_updater_status_directx_not_supported_title": "DirectX 10 ni podprt",
     "core_updater_status_directx_not_supported_body": "Zdi se, da vaša grafična kartica ne podpira DirectX 10 ali da je vaš grafični gonilnik pokvarjen. DirectX 10 je sistemska zahteva za to aplikacijo. Nekatere funkcionalnosti programa bodo omejene, nestabilne ali nedostopne.\n\nČe vaša grafična kartica že podpira DirectX 10, je lahko vaš trenutni grafični gonilnik pokvarjen."

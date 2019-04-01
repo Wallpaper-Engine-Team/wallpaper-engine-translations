@@ -76,7 +76,6 @@
     "core_updater_status_complete_starting": "Wallpaper Engine başlatılıyor...",
     "core_updater_status_cancelled": "İşlem kullanıcı tarafından iptal edildi",
     "core_updater_status_corrupted_system_module_message_box_title": "Sistem dosyası eksik veya bozuk",
-    "core_updater_status_corrupted_system_module_message_box_body": "Bir sistem dosyası eksik veya bozulmuş gibi görünüyor ve Wallpaper Engine bu dosya olmadan düzgün çalışamayabilir.\n\nSil: {{modules}}\n\nYeniden Yükle: {{installers}}",
     "core_updater_prompt_close": "Wallpaper Engine hala çalışıyor, lütfen önce programı kapatın. Bu işlemlerin kapatılması bekleniyor:",
     "core_updater_prompt_close_foreign": "Bir program dosyaları kilitlediği için Wallpaper Engine güncellemeye devam edemiyor. Devam etmek için lütfen şu programları kapatın:",
     "core_updater_status_directx_not_supported_title": "DirectX 10 desteklenmemektedir",

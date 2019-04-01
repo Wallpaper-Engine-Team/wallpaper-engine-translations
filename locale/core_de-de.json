@@ -76,7 +76,6 @@
     "core_updater_status_complete_starting": "Starte Wallpaper Engine...",
     "core_updater_status_cancelled": "Prozess wurde vom Benutzer abgebrochen",
     "core_updater_status_corrupted_system_module_message_box_title": "System-Datei fehlt oder ist beschädigt",
-    "core_updater_status_corrupted_system_module_message_box_body": "Eine System-Datei scheint zu fehlen oder fehlerhaft zu sein, wodurch Wallpaper Engine möglicherweise nicht korrekt funktioniert.\n\nLösche diese Dateien: {{modules}}\n\nInstallier dies neu: {{installers}}",
     "core_updater_prompt_close": "Wallpaper Engine wird weiterhin ausgeführt, bitte schließe es zunächst. Es wird darauf gewartet, dass diese Prozesse geschlossen werden:",
     "core_updater_prompt_close_foreign": "Wallpaper Engine kann nicht aktualisiert werden, da ein Programm verhindert, dass einige Dateien geschrieben werden. Bitte schließe die folgenden Anwendungen um fortzufahren:",
     "core_updater_status_directx_not_supported_title": "DirectX 10 wird nicht unterstützt",

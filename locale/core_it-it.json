@@ -76,7 +76,6 @@
     "core_updater_status_complete_starting": "Avvio di Wallpaper Engine in corso...",
     "core_updater_status_cancelled": "Il processo è stato annullato dall'utente",
     "core_updater_status_corrupted_system_module_message_box_title": "Il file di sistema è mancante o danneggiato",
-    "core_updater_status_corrupted_system_module_message_box_body": "Un file di sistema sembra mancante o danneggiato, il che potrebbe causare malfunzionamenti a Wallpaper Engine.\n\nElimina: {{modules}}\n\nReinstalla: {{installers}}",
     "core_updater_prompt_close": "Wallpaper Engine è ancora in esecuzione, chiuderlo prima. In attesa di chiusura dei processi:",
     "core_updater_prompt_close_foreign": "Wallpaper Engine non può continuare l'aggiornamento, perché un programma sembra stia bloccando i file. Chiudere questi programmi per continuare:",
     "core_updater_status_directx_not_supported_title": "DirectX 10 non supportato",

@@ -76,7 +76,6 @@
     "core_updater_status_complete_starting": "Wallpaper Engine aan het starten...",
     "core_updater_status_cancelled": "Process is gestopt door gebruiker",
     "core_updater_status_corrupted_system_module_message_box_title": "Systeem module kan niet worden geladen",
-    "core_updater_status_corrupted_system_module_message_box_body": "Een systeem module is kapot en kan mischien Wallpaper Engine laten foutlopen.\n\nDelete: {{modules}}\n\nReinstall: {{installers}}",
     "core_updater_prompt_close": "Wallpaper Engine staat nog steeds aan, sluit het eerst alstublieft. Aan het wachten totdat deze processen worden gesloten:",
     "core_updater_prompt_close_foreign": "Wallpaper Engine kan niet verder updaten omdat een programma de bestanden op slot heeft gezet. Sluit deze programma's om verder te gaan:",
 	"core_updater_status_directx_not_supported_title": "DirectX 10 wordt niet ondersteund",

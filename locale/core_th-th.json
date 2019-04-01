@@ -76,7 +76,6 @@
     "core_updater_status_complete_starting": "กำลังเริ่มต้น Wallpaper Engine...",
     "core_updater_status_cancelled": "กระบวนการได้ถูกยกเลิกโดยผู้ใช้",
     "core_updater_status_corrupted_system_module_message_box_title": "ไม่มีไฟล์ระบบหรือไฟล์ระบบเสียหาย",
-    "core_updater_status_corrupted_system_module_message_box_body": "ดูเหมือนว่าไม่มีไฟล์ระบบหรือไฟล์ระบบเสียหาย และ Wallpaper Engine อาจไม่สามารถทำงานได้อย่างถูกต้องโดยไม่มีไฟล์ดังกล่าว\n\nลบ: {{modules}}\n\nติดตั้งใหม่: {{installers}}",
     "core_updater_prompt_close": "Wallpaper Engine กำลังทำงานอยู่ โปรดปิดก่อน กำลังรอให้กระบวนการเหล่านี้ปิดลง:",
     "core_updater_prompt_close_foreign": "Wallpaper Engine ไม่สามารถทำการอัพเดทต่อได้เนื่องจากมีโปรแกรมกำลังล็อคไฟล์อยู่ในขณะนี้ โปรดปิดโปรแกรมเหล่านี้เพื่อดำเนินการต่อ:",
     "core_updater_status_directx_not_supported_title": "ไม่รองรับ DirectX 10",

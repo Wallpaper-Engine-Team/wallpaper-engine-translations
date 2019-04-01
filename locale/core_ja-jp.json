@@ -75,7 +75,6 @@
     "core_updater_status_complete_starting": "Wallpaper Engineを起動しています...",
     "core_updater_status_cancelled": "プロセスがユーザーによってキャンセルされました",
     "core_updater_status_corrupted_system_module_message_box_title": "システムモジュールがないか、破損しています。",
-    "core_updater_status_corrupted_system_module_message_box_body": "システムモジュールがないか、破損しています。Wallpaper Engineが誤動作する場合があります。　\n\nDelete: {{modules}}\n\nReinstall: {{installers}}",
     "core_updater_prompt_close": "Wallpaper Engineは動作中です。最初に閉じてください.",
     "core_updater_prompt_close_foreign": "Wallpaper Engineの更新を続行できません。続行するにはこれらのプログラムを終了してください:",
     "core_updater_status_directx_not_supported_title": "DirectX 10はサポートされていません。",
