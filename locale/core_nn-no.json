@@ -54,7 +54,6 @@
     "core_updater_status_verify_hash_failed": "Kunne ikke bekrefte fil: {{filepath}}",
     "core_updater_status_verify_success": "Bekreftet fil: {{filepath}}",
     "core_updater_status_verify_failed_message_box_title": "Problemer ved å bekrefte fil:",
-    "core_updater_status_verify_failed_message_box_body": "Kunne ikke bekrefte disse filene. Vennligst bekreft filene i Steam (right click, egenskaper, lokale filer, bekreft). Dette kan skje på grunn av nedlastningsfeiler i Steam eller hvis et anti-virus program oppdager noen filer som den tror er et virus og skaper trøbbel. Hvis du har et anti-virus som ikke er fra Microsoft, så må du passe på at det ikke forstyrrer Steam og Wallpaper Engine.\n\n{{filenames}}",
     "core_updater_status_compat": "Ser etter inkompatible programmer...",
     "core_updater_status_compat_error": "Kunne ikke scanne prosesser",
     "core_updater_status_compat_found": "Fant en inkompatibel prosess: {{processname}}",

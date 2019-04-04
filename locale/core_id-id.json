@@ -63,7 +63,6 @@
     "core_updater_status_verify_hash_failed": "Gagal memverifikasi file: {{filepath}}",
     "core_updater_status_verify_success": "File terverifikasi: {{filepath}}",
     "core_updater_status_verify_failed_message_box_title": "Kesalahan Verifikasi File",
-    "core_updater_status_verify_failed_message_box_body": "Pastikan aplikasi sedang dalam keadaan tertutup ketika melakukan pembaruan (Tutup icon atau Task Manager jika dibutuhkan). Verifikasi file-file berikut gagal. Silahkan verifikasi file melalui Steam (klik kanan, properties, file lokal, verifikasi). Hal ini dapat terjadi karena kesalahan download pada Steam atau program anti-virus yang salah mendeteksi file dan menyebabkan masalah. Jika anda memiliki anti-virus yang bukan dari Microsoft, pastikan tidak mengganggu Steam dan Wallpaper Engine.\n\n{{filenames}}",
     "core_updater_status_compat": "Mencari aplikasi yang tidak kompatibel...",
     "core_updater_status_compat_error": "Gagal mencari proses",
     "core_updater_status_compat_found": "Proses yang tidak kompatibel ditemukan: {{processname}}",

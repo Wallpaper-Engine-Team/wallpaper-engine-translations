@@ -63,7 +63,6 @@
     "core_updater_status_verify_hash_failed": "Şu yoldaki dosya doğrulanamadı: {{filepath}}",
     "core_updater_status_verify_success": "Şu yoldaki dosya doğrulandı: {{filepath}}",
     "core_updater_status_verify_failed_message_box_title": "Dosya Doğrulama Hataları",
-    "core_updater_status_verify_failed_message_box_body": "Wallpaper Engine'in bazı dosyaları yüklenemiyor. Bu, Steam'deki indirme hatalarından veya dosyaları yanlışlıkla hatalı olarak algılayıp sorunlara neden olan anti virüs programlarından kaynaklanabilir. Microsoft ürünü olmayan bir anti virüs programı kullanıyorsanız bunun Steam ve Wallpapaer Engine'i engellemediğinden emin olun.\n\nGüncelleme sırasında uygulamanın kapalı olduğundan (tepsi simgesi veya gerekirse Görev Yöneticisi üzerinden) ve bilgisayarınızın doğru çalışmasını engelleyen bir anti virüs programı bulunmadığından emin olun.",
     "core_updater_status_compat": "Uyumsuz uygulamalar aranıyor...",
     "core_updater_status_compat_error": "İşlemler taranamadı",
     "core_updater_status_compat_found": "Uyumsuz bir işlem bulundu: {{processname}}",

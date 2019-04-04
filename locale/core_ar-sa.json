@@ -53,7 +53,6 @@
     "core_updater_status_verify_hash_failed": "فشل التحقق من الملف: {{filepath}}",
     "core_updater_status_verify_success": "تم التحقق من الملف: {{filepath}}",
     "core_updater_status_verify_failed_message_box_title": "أخطاء التحقق من الملف",
-    "core_updater_status_verify_failed_message_box_body": "هذا قد يحصل بسبب خطأ في التحميل في ستيم أو مضاد الفيروسات يكتشف الملفات و يسبب مشاكل اذا كان لديك مضاد فيروسات ليس من مايكروسوفت تاكد من انه لا يتدخل مع ستيم او محرك الخلفيات (verify ثم local files ثم properties فشل التحقق من الملفات التالية. الرجاء التحقق من الملفات عبر ستيم (انقر بزر الفأرة الايمن على البرنامج في ستيم ثم اختر\n\n{{filenames}}",
     "core_updater_status_compat": "جاري البحث عن برامج غير متوافقة",
     "core_updater_status_compat_error": "فشل فحص العمليات",
     "core_updater_status_compat_found": "تم ايجاد عملية غير متوافقة: {{processname}}",

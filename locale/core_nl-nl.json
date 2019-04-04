@@ -63,7 +63,6 @@
     "core_updater_status_verify_hash_failed": "Gefaald om bestand te verifiëren: {{filepath}}",
     "core_updater_status_verify_success": "Verifiëren bestand: {{filepath}}",
     "core_updater_status_verify_failed_message_box_title": "Bestand verificatie errors",
-    "core_updater_status_verify_failed_message_box_body": "Weet er zeker van dat de app gesloten is als het aan het updaten is (Sluit met taakbeheer zo nodig). De verificatie van de volgende bestanden is gefaald. verifieer alstublieft de bestanden met Steam (rechter muis click, eigenschappen, locale bestanden, verifieer). Deze fout kan voorkomen in download errors in Steam of dat anti-virus programma's deze bestanden verdenken als gevaar. Als je een anti-virus hebt dat niet van Microsoft is, Weet er dan zeker van dat deze niet in de weg komt van Steam en Wallpaper Engine.\n\n{{filenames}}",
     "core_updater_status_compat": "Kijken voor onverenigbaare applicaties...",
     "core_updater_status_compat_error": "Gefaald om processen te scannen",
     "core_updater_status_compat_found": "Onverenigbaar process gevonden: {{processname}}",

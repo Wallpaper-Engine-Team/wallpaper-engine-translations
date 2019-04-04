@@ -59,7 +59,6 @@
     "core_updater_status_verify_hash_failed": "Faili kontrollimine ebaõnnestus: {{filepath}}",
     "core_updater_status_verify_success": "Fail kontrollitud: {{filepath}}",
     "core_updater_status_verify_failed_message_box_title": "Failide kontrollmise vead",
-    "core_updater_status_verify_failed_message_box_body": "Ole kindel, et rakendus on uuendamise ajal suletud. (Sulge läbi teavituste välja või tegumihalduri kui vajalik). Järgmise failide kontrollimine ebaõnnestus. Palun kontrolli failid läbi Steami. See võib juhtuda Steami allalaadimis vigade pärast või viirusetõrje valesti mõistmise pärast. Kui teil on viirusetõrje, mis ei ole Microsofti poolt, ole kindel, et see ei mõjuta Steami ja Wallpaper Engine.\n\n{{filenames}}",
     "core_updater_status_compat": "Otsin kokkusobimatuid rakendusi...",
     "core_updater_status_compat_error": "Protsesside skaneerimine ebaõnnestus",
     "core_updater_status_compat_found": "Kokkusobimatu rakendus leitud: {{processname}}",

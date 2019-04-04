@@ -55,7 +55,6 @@
     "core_updater_status_verify_hash_failed": "Không thể xác minh tệp: {{filepath}}",
     "core_updater_status_verify_success": "Đã được xác minh: {{filepath}}",
     "core_updater_status_verify_failed_message_box_title": "Lỗi Xác Nhận Tệp Tin",
-    "core_updater_status_verify_failed_message_box_body": "Vui lòng kiểm tra xem ứng dụng đã đóng khi cập nhật hay chưa (Đóng thông qua biểu tượng có trên khay hoặc Trình Quản Lý Tác Vụ nếu cần). Các tệp sau đây là những tệp phần mềm không thể nhận dạng. Vui lòng xác minh các thông qua Steam (nhấp chuột phải, properties, local files, verify). Điều này có thể xảy ra do có lỗi trong quá trình tải xuống thông qua Steam hoặc các chương trình chống vi-rút phát hiện sai tệp và gây ra cớ sự này. Nếu bạn có một phần mềm diệt vi rút được cài đặt ở đâu đó mà không phải là từ công ty Microsoft, hãy chắc chắn rằng nó không làm ảnh hưởng đến Steam và Wallpaper Engine.\n\n{{filenames}}",
     "core_updater_status_compat": "Đang tìm các ứng dụng không tương thích...",
     "core_updater_status_compat_error": "Không thể quét các quá trình/ứng dụng",
     "core_updater_status_compat_found": "Tìm thấy quá trình không tương thích: {{processname}}",

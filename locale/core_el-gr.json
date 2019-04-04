@@ -67,7 +67,6 @@
 	"core_updater_status_verify_hash_failed" : "Αποτυχία επαλήθευσης αρχείου: {{filepath}}",
 	"core_updater_status_verify_success" : "Επαληθευμένο αρχείο: {{filepath}}",
 	"core_updater_status_verify_failed_message_box_title" : "Σφάλματα στην επαλήθευση αρχείων",
-	"core_updater_status_verify_failed_message_box_body" : "Φαίνεται ότι ορισμένα αρχεία του Wallpaper Engine δεν μπόρεσαν να εγκατασταθούν. Αυτό μπορεί να συμβαίνει λόγω σφαλμάτων λήψης του Steam ή εσφαλμένων ευρέσεων αρχείων αντί-ιικών προγραμμάτων και να προκαλούνται προβλήματα. Αν έχετε αντι-ιικό πρόγραμμα το οποίο δεν είναι της Microsoft, φροντίστε να μην επέμβουν με το Steam και το Wallpaper Engine.\n\nΦροντίστε η εφαρμογή να είναι κλειστή την ώρα της ενημέρωσης (κλείστε την μέσω της περιοχής γνωστοποιήσεων ή με την χρήση του Διαχειριστή Εργασιών αν χρειαστεί) και ότι κανένα αντι-ιικό δεν αποτρέπει τον υπολογιστή από το να λειτουργεί ομαλά.",
 	"core_updater_status_compat" : "Εύρεση για μη συμβατές εφαρμογές...",
 	"core_updater_status_compat_error" : "Αποτυχία εύρεσης διεργασιών",
 	"core_updater_status_compat_found" : "Βρέθηκε μη συμβατή εφαρμογή: {{processname}}",

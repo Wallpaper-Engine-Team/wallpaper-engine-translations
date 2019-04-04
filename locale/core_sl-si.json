@@ -53,7 +53,6 @@
     "core_updater_status_verify_hash_failed": "Preverjanje datoteke: {{filepath}} ni uspelo",
     "core_updater_status_verify_success": "Preverjanje datoteke: {{filepath}}",
     "core_updater_status_verify_failed_message_box_title": "Napaka pri preverjanju datotek",
-    "core_updater_status_verify_failed_message_box_body": "Preverjanje naslednjih datotek ni uspelo. Prosimo potrdite datoteke preko Steam-a (desni klik na ime programa v Steam Library, properties, local files, verify). To se lahko zgodi zaradi napake pri prenosu preko Steam-a ali ker je antivirusni program napačno zaznal nameščene datoteke. Če uporabljate antivirusni program, ki ga ni izdelal Microsoft se prepričajte da ne moti delovanje Steam-a ali programa Wallpaper Engine.\n\n{{filenames}}",
     "core_updater_status_compat": "Iskanje nezdružljivih aplikacij...",
     "core_updater_status_compat_error": "Skeniranje procesov ni uspelo",
     "core_updater_status_compat_found": "Najden je bil nezdružljiv proces: {{processname}}",

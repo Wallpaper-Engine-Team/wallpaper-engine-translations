@@ -155,7 +155,7 @@
     "ui_editor_importer_compiling_assets_for": "Compiling assets for",
     "ui_editor_importer_compiling_file": "Compiling file",
     "ui_editor_importer_gif_warning_header": "GIF Size Warning",
-    "ui_editor_importer_gif_warning_body": "The GIF you are trying to import occupies a lot of memory when unpacked. The process might take a long time and the compiler might crash.<br/><br/>The GIF format is unsuitable for high resolution images and/or a lot of frames, you should consider using a video wallpaper because that would perform better.",
+    "ui_editor_importer_gif_warning_body": "The GIF you are trying to import occupies a lot of memory when converted into a more usable format. Wallpaper Engine can try to convert it anyway, but the process might fail with an error.<br/><br/>The GIF format is generally unsuitable for high resolution images and/or a lot of frames, you should consider using an .mp4 video wallpaper because that would perform better.",
     "ui_editor_publish_modal_progress_validate": "Validating Workshop Item...",
     "ui_editor_publish_modal_progress_create": "Creating Workshop Item...",
     "ui_editor_publish_modal_progress_prepare_data": "Updating Workshop item data...",

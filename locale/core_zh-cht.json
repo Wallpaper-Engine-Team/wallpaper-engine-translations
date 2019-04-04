@@ -63,7 +63,6 @@
     "core_updater_status_verify_hash_failed": "無法驗證檔案: {{filepath}}",
     "core_updater_status_verify_success": "已驗證檔案: {{filepath}}",
     "core_updater_status_verify_failed_message_box_title": "檔案驗證錯誤",
-    "core_updater_status_verify_failed_message_box_body": "無法安裝 Wallpaper Engine 的部分檔案。此問題可能是 Steam 或者防毒程式對於部分檔案偵測結果有誤所導致。如果您的防毒程式並非來自 Microsoft，請確認它不會干擾 Steam 和 Wallpaper Engine 之運作。\n\n請確認更新時已關閉應用程式 (如有必要, 請透過系統匣圖示或工作管理員進行關閉)，並確認防毒軟體不會導致您的電腦無法正常運作。",
     "core_updater_status_compat": "正在尋找不相容的應用程式...",
     "core_updater_status_compat_error": "無法掃描處理程序",
     "core_updater_status_compat_found": "找到不相容的處理程序: {{processname}}",

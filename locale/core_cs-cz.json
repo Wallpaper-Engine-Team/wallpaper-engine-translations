@@ -63,7 +63,6 @@
     "core_updater_status_verify_hash_failed": "Nepodařilo se ověřit soubor: {{filepath}}",
     "core_updater_status_verify_success": "Ověřování: {{filepath}}",
     "core_updater_status_verify_failed_message_box_title": "Chyby ověřování souborů",
-    "core_updater_status_verify_failed_message_box_body": "Zdá se, že se některé soubory aplikace Wallpaper Engine nepodařilo nainstalovat. To může být způsobeno chybou stahování ve službě Steam nebo antivirovými programy, které chybně vyhodnotily soubory jako rizikové. Používáte-li antivirový program, který nepochází od společnosti Microsoft, ujistěte se, že nekoliduje se službou Steam a aplikací Wallpaper Engine.\n\nAplikace musí být během aktualizace vypnutá (v případě potřeby ji vypněte pomocí ikony na hlavním panelu nebo ve Správci úloh) a žádný antivirus nesmí bránit správnému fungování vašeho počítače.",
     "core_updater_status_compat": "Vyhledávání nekompatibilních aplikací...",
     "core_updater_status_compat_error": "Nepodařilo se prozkoumat proces",
     "core_updater_status_compat_found": "Nalezen nekompatibilní proces: {{processname}}",

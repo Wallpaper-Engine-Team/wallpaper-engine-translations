@@ -63,7 +63,6 @@
     "core_updater_status_verify_hash_failed": "Échec de la vérification du fichier : {{filepath}}",
     "core_updater_status_verify_success": "Fichier vérifié : {{filepath}}",
     "core_updater_status_verify_failed_message_box_title": "Erreurs de vérification des fichiers",
-    "core_updater_status_verify_failed_message_box_body": "Il semblerait que certains fichiers nécessaires à Wallpaper Engine n'aient pas pu être installés. Cela peut être dû à des erreurs de téléchargement dans Steam ou à une détection erronée de fichiers par les programmes antivirus, ce qui cause des problèmes. Si vous avez un antivirus qui n'est pas développé par Microsoft, assurez-vous qu'il n'interfère pas avec Steam et Wallpaper Engine.\n\nAssurez-vous que l'application est fermée lors de la mise à jour (fermez-la à l'aide de l'icône de barre d'état système ou du Gestionnaire des tâches si nécessaire) et qu'aucun antivirus n'empêche le bon fonctionnement de votre ordinateur.",
     "core_updater_status_compat": "Recherche d'applications incompatibles...",
     "core_updater_status_compat_error": "Échec de l'analyse des processus",
     "core_updater_status_compat_found": "Un processus incompatible a été trouvé : {{processname}}",

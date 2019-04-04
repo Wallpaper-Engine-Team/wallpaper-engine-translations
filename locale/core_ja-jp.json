@@ -62,7 +62,6 @@
     "core_updater_status_verify_hash_failed": "ファイルの確認に失敗しました。: {{filepath}}",
     "core_updater_status_verify_success": "ファイルの確認中: {{filepath}}",
     "core_updater_status_verify_failed_message_box_title": "ファイルの確認エラー",
-    "core_updater_status_verify_failed_message_box_body": "Wallpaper Engineのいくつかのファイルをインストールできませんでした。これは、Steamでのダウンロード時にエラーが発生したか、ウイルス対策ソフトによってファイルが誤検出され、問題が発生した可能性があります。Microsoft製以外のウイルス対策ソフトをインストールしている場合、SteamおよびWallpaper Enginを妨げないようにしてください。\n\n更新中はアプリケーションを終了してください（必要に応じてトレイアイコンまたはタスクマネージャから終了）。また、ウイルス対策ソフトがコンピュータの正常な動作を妨げないようにしてください。",
     "core_updater_status_compat": "互換性のないアプリケーションを検索しています...",
     "core_updater_status_compat_error": "プロセスのスキャンに失敗しました。",
     "core_updater_status_compat_found": "互換性のないアプリケーションが見つかりました: {{processname}}",

@@ -62,7 +62,6 @@
     "core_updater_status_verify_hash_failed": "Ezin izan da fitxategia egiaztatu: {{filepath}}",
     "core_updater_status_verify_success": "Fitxategia egiaztatuta: {{filepath}}",
     "core_updater_status_verify_failed_message_box_title": "Fitxategi egiaztatze erroreak",
-    "core_updater_status_verify_failed_message_box_body": "Ezin izan dira hurrengo fitxategiak egiaztatu. Mesedez egiaztatu fitxategiak Steam bidez (eskuineko klika, ezaugarriak, fitxategi lokalak, egiaztatu). Hau Steam-eko jaitsiera erroreengatik edo anti-virus programak fitxategi batzuekin positibo faltsuak emateagatik gertatu daiteke. Microsoft-ena ez den anti-virus programa bat badaukazu, Steam-ekin eta Wallpaper Engine-ekin interferitzen ez duela ziurtatu.\n\n{{filenames}}",
     "core_updater_status_compat": "Bateraezinak diren aplikazioak bilatzen...",
     "core_updater_status_compat_error": "Ezin izan dira prozesuak eskaneatu",
     "core_updater_status_compat_found": "Prozesu bateraezin bat aurkitua: {{processname}}",

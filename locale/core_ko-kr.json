@@ -63,7 +63,6 @@
     "core_updater_status_verify_hash_failed": "파일 확인 실패: {{filepath}}",
     "core_updater_status_verify_success": "확인된 파일: {{filepath}}",
     "core_updater_status_verify_failed_message_box_title": "파일 확인 오류",
-    "core_updater_status_verify_failed_message_box_body": "일부 Wallpaper Engine 파일이 설치되지 않았을 수 있습니다. Steam에서 다운로드 오류가 발생했거나 안티바이러스 프로그램이 파일을 잘못 감지하여 문제가 발생했을 수 있습니다. Microsoft에서 제공하지 않은 안티바이러스 프로그램을 사용하는 경우 해당 프로그램이 Steam 및 Wallpaper Engine을 방해하지 않도록 하십시오.\n\n업데이트하는 동안에는 응용 프로그램을 닫아야 하며(트레이 아이콘을 통해 또는 필요한 경우 작업 관리자에서 닫음) 안티바이러스 프로그램이 컴퓨터의 정상적인 작동을 방해하지 않도록 해야 합니다.",
     "core_updater_status_compat": "호환되지 않는 응용 프로그램 찾는 중...",
     "core_updater_status_compat_error": "프로세스 스캔 실패",
     "core_updater_status_compat_found": "호환되지 않는 프로세스 발견: {{processname}}",
