@@ -553,7 +553,7 @@
     "ui_editor_tooltip_scene_options": "Opciones de escena",
     "ui_editor_camera_add_path": "Agregar ruta",
     "ui_editor_camera_select_path": "Seleccione una ruta en el lado izquierdo.",
-    "ui_editor_camera_add_renderable": "Agregar valores predeterminados",
+    "ui_editor_camera_add_renderable": "Agregar valores predet.",
     "ui_editor_gizmo_translate": "Mover",
     "ui_editor_gizmo_rotate": "Rotar",
     "ui_editor_gizmo_scale": "Escalar",
