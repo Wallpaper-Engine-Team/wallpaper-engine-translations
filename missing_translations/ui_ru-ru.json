@@ -4,7 +4,7 @@
     "ui_modal_installationpath_fix_auto_start": "Исправить автозапуск",
     "ui_modal_installationpath_disable_auto_start": "Отключить автозапуск",
     "ui_browse_no_service_body_use_backup": "<br/><br/>Wallpaper Engine теперь будет пытаться показать аварийную резервную копию, пока компания <b>STEAM (VALVE)</b> не разберётся со своими проблемами.",
-    "ui_browse_preset_filter_notice": "Browsing presets for: {{title}}",
+    "ui_browse_preset_filter_notice": "Просмотр пресетов для {{title}}",
     "ui_browse_steam_offline_notice": "Сервера <b>Мастерской STEAM</b> находятся в состоянии <b>Оффлайн</b>. Вы просматриваете аварийную резервную копию от {{date}}. Пожалуйста, подождите несколько часов пока компания <b>STEAM (VALVE)</b> исправляет сервера <b>Мастерской STEAM</b>.",
     "ui_browse_details_btn_open_in_editor": "Открыть в Редакторе",
     "ui_browse_details_properties_reset_prompt_header": "Сбросить свойства",
