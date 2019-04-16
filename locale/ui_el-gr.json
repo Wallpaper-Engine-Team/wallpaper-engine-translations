@@ -586,7 +586,7 @@
 	"ui_editor_filemenu_aspect_ratio_free" : "Ελεύθερο",
 	"ui_editor_filemenu_reset_camera" : "Επαναφορά κάμερας",
 	"ui_editor_filemenu_reset_layout" : "Επαναφορά διάταξης",
-	"ui_editor_filemenu_windows" : "Windows",
+	"ui_editor_filemenu_windows" : "Παράθυρα",
 	"ui_editor_filemenu_show_grid" : "Εμφάνιση πλέγματος",
 	"ui_editor_filemenu_show_stats" : "Εμφάνιση στατιστικών",
 	"ui_editor_filemenu_show_selection_box" : "Εμφάνιση κουτιού επιλογής",
