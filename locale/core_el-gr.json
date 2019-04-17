@@ -15,7 +15,6 @@
     "core_tray_next_wallpaper": "Επόμενο εξώφυλλο",
     "core_tray_mute": "Σίγαση",
     "core_tray_unmute": "Ακύρωση σίγασης",
-
     "core_balloon_info": "Το Wallpaper Engine ελαχιστοποιήθηκε στην περιοχή γνωστοποιήσεων. Κάντε διπλό κλικ επάνω στο εικονίδιο για να επιλέξτε ένα εξώφυλλο.",
     "core_balloon_desktop_window_error": "Αποτυχία προετοιμασίας επιφάνειας εργασίας για ζωντανό εξώφυλλο.",
     "core_balloon_video_error": "Ένα σφάλμα με το βίντεο των Windows προκλήθηκε {{err}}. Πάτησε με για βοήθεια.",
@@ -25,7 +24,6 @@
     "core_msgboxtitle_error": "Σφάλμα",
     "core_msgboxtitle_app_conflict": "Αντιφατική εφαρμογή",
     "core_msgboxtitle_wpe": "Wallpaper Engine",
-
     "core_msgbox_deskscapes": "Φαίνεται πως το DeskScapes εκτελείται, αυτό μπορεί να προτρέψει την ομαλή λειτουργία του Wallpaper Engine.",
     "core_msgbox_prompt_aero_win7": "Το Wallpaper Engine απαιτεί το Aero να είναι ενεργό για να λειτουργήσει. Θα θέλατε το Wallpaper Engine να δοκιμάσει να σας το ενεργοποιήσει;",
     "core_msgbox_prompt_aero_win8": "Το Wallpaper Engine δεν μπορεί να εκτελεστεί με ένα θέμα 'υψηλής αντίθεσης'. Θα θέλατε το Wallpaper Engine να προσπαθήσει να επαναφέρει το θέμα για εσάς;",
@@ -78,9 +76,9 @@
     "core_updater_status_complete_starting": "Εκκίνηση Wallpaper Engine...",
     "core_updater_status_cancelled": "Η διεργασία ακυρώθηκε από τον χρήστη",
     "core_updater_status_corrupted_system_module_message_box_title": "Αρχείο συστήματος ελλειπή ή κατεστραμμένο",
-    "core_updater_status_corrupted_system_module_message_box_body" : "Το σύστημα σας είναι σπασμένο ή λείπουν αρχεία. Το Wallpaper Engine δεν μπορεί να λειτουργήσει εκτός αν ο υπολογιστής σας είναι σωστά εγκατεστημένος. Αυτό είναι ένα πρόβλημα με τα Windows σας και όχι κάποιο σφάλμα στο Wallpaper Engine.\n\nΠροσπαθήστε να επιδιορθώσετε τον υπολογιστή σας ακολουθώντας αυτά τα βήματα:\n\n",
-    "core_updater_status_corrupted_system_module_message_box_body_delete" : "- Καταρχάς, διαγράψτε αυτά τα αρχεία από την Εξερεύνηση των Windows:\n{{modules}}\n\n",
-    "core_updater_status_corrupted_system_module_message_box_body_install_directx" : "- Κάντε επανεγκατάσταση του DirectX πηγαίνοντας σε αυτό το αρχείο και εκτελώντας το:\n{{installers}}\nΕναλλακτικά, μπορείτε επίσης να ξανακατεβάσετε το DirectX από τον ιστότοπο της Microsoft.",
+    "core_updater_status_corrupted_system_module_message_box_body": "Το σύστημα σας είναι σπασμένο ή λείπουν αρχεία. Το Wallpaper Engine δεν μπορεί να λειτουργήσει εκτός αν ο υπολογιστής σας είναι σωστά εγκατεστημένος. Αυτό είναι ένα πρόβλημα με τα Windows σας και όχι κάποιο σφάλμα στο Wallpaper Engine.\n\nΠροσπαθήστε να επιδιορθώσετε τον υπολογιστή σας ακολουθώντας αυτά τα βήματα:\n\n",
+    "core_updater_status_corrupted_system_module_message_box_body_delete": "- Καταρχάς, διαγράψτε αυτά τα αρχεία από την Εξερεύνηση των Windows:\n{{modules}}\n\n",
+    "core_updater_status_corrupted_system_module_message_box_body_install_directx": "- Κάντε επανεγκατάσταση του DirectX πηγαίνοντας σε αυτό το αρχείο και εκτελώντας το:\n{{installers}}\nΕναλλακτικά, μπορείτε επίσης να ξανακατεβάσετε το DirectX από τον ιστότοπο της Microsoft.",
     "core_updater_prompt_close": "Το Wallpaper Engine εκτελείτε, παρακαλούμε τερματίστε το πρώτα. Αναμονή για τον τερματισμό αυτών των διεργασιών:",
     "core_updater_prompt_close_foreign": "Το Wallpaper Engine δεν μπορεί να συνεχίσει την ενημέρωση επειδή το πρόγραμμα φαίνεται ότι κλειδώνει τα αρχεία. Παρακαλούμε τερματίστε τις εξής διεργασίες για να συνεχίσετε:",
     "core_updater_status_directx_not_supported_title": "Το DirectX 10 δεν υποστηρίζεται",
