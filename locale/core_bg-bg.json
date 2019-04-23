@@ -60,7 +60,6 @@
     "core_updater_status_verify_hash_failed": "НЕуспешен опит за удостоверяване на файл: {{filepath}}",
     "core_updater_status_verify_success": "Удостоверен файл: {{filepath}}",
     "core_updater_status_verify_failed_message_box_title": "Грешки при удостоверяването на файл",
-    "core_updater_status_verify_failed_message_box_body": "Уверете се, че приложението е затворено докато се подновява (Затворете през трей иконата или Task Manager ако е наложително). Удостоверяването на следните файлове НЕуспешно. Моля, уверете се, че файловете на приложението в Steam съществуват и не са променени (десен клик върху, пропъртис, локални файлове, удостовери). Това може да случи поради грешки при сваляне на приложението през Steam или анти-вирусни програми ВИ изпращат ЛЪЖЛИВИ съобщения за засечени заразени файлове и пречат на приложението да стартира нормално. Ако имате анти-вирусна програма, която НЕ е от Microsoft, уверете се, че НЕ създава проблеми на Steam и Wallpaper Engine да работят нормално.\n\n{{filenames}}",
     "core_updater_status_compat": "Търсене за НЕсъвместими приложения...",
     "core_updater_status_compat_error": "Сканиращият процес НЕуспешен",
     "core_updater_status_compat_found": "Намерен е НЕсъвместим процес: {{processname}}",
@@ -73,7 +72,6 @@
     "core_updater_status_complete_starting": "Стартиране на Wallpaper Engine...",
     "core_updater_status_cancelled": "Процесът беше отменен от потребителя",
     "core_updater_status_corrupted_system_module_message_box_title": "Системният модул НЕ може да бъде зареден",
-    "core_updater_status_corrupted_system_module_message_box_body": "Системният модул е конфликтен и е възможно да попречи на Wallpaper Engine да функционира нормално.\n\nИзтрий: {{modules}}\n\nПРЕинсталиране: {{installers}}",
     "core_updater_prompt_close": "Wallpaper Engine все още работи, моля затворете го първо. Изчакване за приключването на тези процеси:",
     "core_updater_status_directx_not_supported_title": "DirectX 10 не се поддържа.",
     "core_updater_status_directx_not_supported_body": "Изглежда, че вашата графична карта не поддържа DirectX 10 или вашия графичен драйвер има проблем. DirectX 10 се изисква от системата, за да може това приложение да функционира правилно.\n\nАко вашата графична карта би трябвало да поддържа DirectX 10, наличните Ви графични драйвери може да бъдат повредени. Може да опитате да инсталирате повторно драйвера или да се свържете с доставчика на вашия хардуер (Nvidia, AMD, Intel), за да разрешите проблема."

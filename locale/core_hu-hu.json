@@ -61,7 +61,6 @@
     "core_updater_status_verify_hash_failed": "Fájl ellenőrzése sikertelen: {{filepath}}",
     "core_updater_status_verify_success": "Fájl ellenőrizve: {{filepath}}",
     "core_updater_status_verify_failed_message_box_title": "Fájl Ellenőrzési Hibák",
-    "core_updater_status_verify_failed_message_box_body": "Ellenőrizze, hogy az alkalmazás nem fut a frissítés közben (zárja be a tálcáról vagy a Folyamatkezelőn keresztül ha szükséges). A következő fájlok ellenőrzése sikertelen. Kérjük ellenőrizze a fájlok épségét a Steam kliensben (jobb kattintés, Tulajdonságok, Helyi fájlok, Játékfájlok épségének ellenőrzése). A probléma oka akár egy Steam letöltési hiba is lehet, vagy egy antivírus program néhány fájlt hibásan veszélyesnek ítélt meg. Ha van telepítve vírusirtó szoftvere, ami nem a Microsofttól származik, ellenőrizze, hogy nem akadályozza-e a Steam vagy a Wallpaper Engine működését.\n\n{{filenames}}",
     "core_updater_status_compat": "Inkompatibilis alkalmazások keresése...",
     "core_updater_status_compat_error": "Folyamatok vizsgálata sikertelen",
     "core_updater_status_compat_found": "Inkompatibilis folyamatot találtunk: {{processname}}",
@@ -74,7 +73,6 @@
     "core_updater_status_complete_starting": "Wallpaper Engine indítása...",
     "core_updater_status_cancelled": "A folyamat bezárásra került a felhasználó által",
     "core_updater_status_corrupted_system_module_message_box_title": "A rendszermodul betöltése sikertelen",
-    "core_updater_status_corrupted_system_module_message_box_body": "Egy rendszermodul valószínűleg megsérült, és a Wallpaper Engine-t hibás működésre kényszerítheti.\n\nEzeket törölje: {{modules}}\n\nEzeket telepítse újra: {{installers}}",
     "core_updater_prompt_close": "A Wallpaper Engine még fut, zárja be először. A következő folyamatok bezárására várunk:",
     "core_updater_status_directx_not_supported_title": "A DirectX 10 nem támogatott",
     "core_updater_status_directx_not_supported_body": "Úgy tűnik, a videokártyája nem támogatja a DirectX 10-et, vagy a grafikus vezérlőjében probléma merült fel. A DirectX 10 alapvető követelmény az alkalmazás megfelelő működéséhez.\n\nHa a videokártyája támogatja a DirectX 10-et, valószínűleg a grafikus vezérlője sérült. Próbálja meg újratelepíteni a grafikus vezérlőt vagy lépjen kapcsolatba a kártya gyártójával (Nvidia, AMD, Intel) a probléma megoldásához."

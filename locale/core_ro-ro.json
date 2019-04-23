@@ -51,7 +51,6 @@
     "core_updater_status_verify_hash_failed": "Verificarea fișierului a eșuat: {{filepath}}",
     "core_updater_status_verify_success": "Fișier verificat: {{filepath}}",
     "core_updater_status_verify_failed_message_box_title": "Erorile verificării fișierului",
-    "core_updater_status_verify_failed_message_box_body": "Verificarea următoarelor fișiere a eșuat. Te rugăm să verifici fișierele prin Steam (click dreapta, proprietăți, fișiere locale, verifică). Acest lucru se poate întâmpla din cauza erorilor de descărcare din Steam.\n\n{{filenames}}",
     "core_updater_status_compat": "Se caută aplicații incompatibile...",
     "core_updater_status_compat_error": "Scanarea procesului a eșuat",
     "core_updater_status_compat_found": "A fost găsit un proces incompatibil: {{processname}}",

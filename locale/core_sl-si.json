@@ -53,7 +53,6 @@
     "core_updater_status_verify_hash_failed": "Preverjanje datoteke: {{filepath}} ni uspelo",
     "core_updater_status_verify_success": "Preverjanje datoteke: {{filepath}}",
     "core_updater_status_verify_failed_message_box_title": "Napaka pri preverjanju datotek",
-    "core_updater_status_verify_failed_message_box_body": "Preverjanje naslednjih datotek ni uspelo. Prosimo potrdite datoteke preko Steam-a (desni klik na ime programa v Steam Library, properties, local files, verify). To se lahko zgodi zaradi napake pri prenosu preko Steam-a ali ker je antivirusni program napačno zaznal nameščene datoteke. Če uporabljate antivirusni program, ki ga ni izdelal Microsoft se prepričajte da ne moti delovanje Steam-a ali programa Wallpaper Engine.\n\n{{filenames}}",
     "core_updater_status_compat": "Iskanje nezdružljivih aplikacij...",
     "core_updater_status_compat_error": "Skeniranje procesov ni uspelo",
     "core_updater_status_compat_found": "Najden je bil nezdružljiv proces: {{processname}}",
@@ -66,7 +65,6 @@
     "core_updater_status_complete_starting": "Zaganjanje programa Wallpaper Engine...",
     "core_updater_status_cancelled": "Uporabnik je preklical proces",
     "core_updater_status_corrupted_system_module_message_box_title": "Sistemski modul se ni zmogel naložiti",
-    "core_updater_status_corrupted_system_module_message_box_body": "Sistemski modul je pokvarjen in lahko privede do nepravilnega delovanja Wallpaper Engine-a.\n\nIzbriši: {{modules}}\n\nPonovno Namesti: {{installers}}",
     "core_updater_prompt_close": "Wallpaper Engine se še vedno izvaja, najprej ga zaprite. Čakam da se naslednji procesi zaprejo:",
     "core_updater_status_directx_not_supported_title": "DirectX 10 ni podprt",
     "core_updater_status_directx_not_supported_body": "Zdi se, da vaša grafična kartica ne podpira DirectX 10 ali da je vaš grafični gonilnik pokvarjen. DirectX 10 je sistemska zahteva za to aplikacijo. Nekatere funkcionalnosti programa bodo omejene, nestabilne ali nedostopne.\n\nČe vaša grafična kartica že podpira DirectX 10, je lahko vaš trenutni grafični gonilnik pokvarjen."

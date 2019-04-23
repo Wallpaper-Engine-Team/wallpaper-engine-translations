@@ -54,7 +54,6 @@
     "core_updater_status_verify_hash_failed": "Помилка перевірки файла: {{filepath}}",
     "core_updater_status_verify_success": "Перевірка файла: {{filepath}}",
     "core_updater_status_verify_failed_message_box_title": "Помилка при перевірці файла",
-    "core_updater_status_verify_failed_message_box_body": "Перевірка наступних файлів не вдалося. Будь ласка, перевірте файли в Steam (правою кнопкою миші, властивості, локальні файли, перевіряти). Це може статися через помилку при завантаженнів Steam або антивірусних програм помилково виявлених файлів і викликає проблеми. Якщо у вас є анти-вірус і він не від Microsoft,переконайтесь, що він не заважає працювати Steam та Wallpaper Engine.\n\n{{filenames}}",
     "core_updater_status_compat": "Пошук несумісних додатків...",
     "core_updater_status_compat_error": "Помилка просканувати процес",
     "core_updater_status_compat_found": "Знайдений несумісний процес: {{processname}}",
