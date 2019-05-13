@@ -82,7 +82,7 @@
     "core_updater_status_corrupted_system_module_message_box_title" : "Systemfil saknas eller är trasig",
     "core_updater_status_corrupted_system_module_message_box_body" : "Ditt system är trasigt eller saknar filer. Wallpaper Engine kan inte fungera om din dator inte är installerad på rätt sätt. Detta är ett fel med ditt Windows och inte i Wallpaper Engine.\n\nFörsök att fixa din dator genom att följa dessa steg:\n\n",
     "core_updater_status_corrupted_system_module_message_box_body_delete" : "- Börja med att radera dessa filer via Utforskaren:\n{{modules}}\n\n",
-    "core_updater_status_corrupted_system_module_message_box_body_install_directx" : "- Installera om DirectX genom att gå till denna fil och köra den:\n{{installers}}\nAnnars kan du också ladda ned DirectX igen från Microsofts webbplats.",
+    "core_updater_status_corrupted_system_module_message_box_body_install_directx" : "- Installera om DirectX genom att gå till denna fil och köra den:\n{{installers}}\nAnnars kan du också ladda ned DirectX 9 igen från Microsofts webbplats.",
     "core_updater_prompt_close" : "Wallpaper Engine körs fortfarande, stäng det först. Väntar på att dessa processer ska stängas:",
     "core_updater_prompt_close_foreign" : "Wallpaper Engine kan inte fortsätta uppdatera eftersom ett program verkar låsa filerna. Stäng dessa program för att fortsätta:",
     "core_updater_status_directx_not_supported_title" : "DirectX 10 stöds inte",
