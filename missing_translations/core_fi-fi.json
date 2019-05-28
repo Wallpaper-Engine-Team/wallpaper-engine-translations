@@ -50,7 +50,7 @@
     "core_updater_status_corrupted_system_module_message_box_title": "System file is missing or broken",
     "core_updater_status_corrupted_system_module_message_box_body": "Your system is broken or it's missing files. Wallpaper Engine cannot work unless your computer is correctly installed. This is an issue with your Windows and it's not an error in Wallpaper Engine.\n\nTry fixing your computer by following these steps:\n\n",
     "core_updater_status_corrupted_system_module_message_box_body_delete": "- First, delete these files through Windows Explorer:\n{{modules}}\n\n",
-    "core_updater_status_corrupted_system_module_message_box_body_install_directx": "- Reinstall DirectX by going to this file and running it:\n{{installers}}\nAlternatively, you can also re-download DirectX from the Microsoft website.",
+    "core_updater_status_corrupted_system_module_message_box_body_install_directx": "- Reinstall DirectX by going to this file and running it:\n{{installers}}\nAlternatively, you can also re-download DirectX 9 from the Microsoft website.",
     "core_updater_prompt_close": "Wallpaper Engine is still running, please close it first. Waiting for these processes to close:",
     "core_updater_prompt_close_foreign": "Wallpaper Engine cannot continue updating because a program appears to be locking the files. Please close these programs to continue:",
     "core_updater_status_directx_not_supported_title": "DirectX 10 not supported",

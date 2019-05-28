@@ -2,7 +2,7 @@
 	"ui_caption_browse" : "Browse Wallpapers",
 	"ui_caption_settings" : "Settings",
 	"ui_caption_editor" : "Wallpaper Editor",
-	
+
 	"ui_ok" : "OK",
 	"ui_cancel" : "Cancel",
 	"ui_back" : "Back",
@@ -10,7 +10,7 @@
 	"ui_retry" : "Retry",
 	"ui_select" : "Select",
 	"ui_create" : "Create",
-	
+
 	"ui_modal_updaterequired_title" : "Wallpaper Engine needs to be updated",
 	"ui_modal_updaterequired_body" : "Please close Wallpaper Engine (right click the tray icon and click Quit) and restart it over Steam to receive the latest updates. If you keep getting this warning, please verify the application files over Steam.<br/><br/>Application version: <b>{{callerVersion}}</b>, UI version: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title" : "New Update Available",
@@ -54,7 +54,8 @@
 	"ui_browse_clear_filters" : "Clear filters",
 	"ui_browse_preset_filter_notice" : "Browsing presets for: {{title}}",
 	"ui_browse_steam_offline_notice" : "<b>STEAM Workshop</b> servers are <b>OFFLINE</b>. You are browsing an emergency backup from {{date}}. Please wait a few hours for the company of <b>STEAM (VALVE)</b> to fix the <b>STEAM Workshop</b> servers again.",
-	
+	"ui_browse_author_filter_notice" : "Browsing wallpapers by {{author}}",
+
 	"ui_browse_details_title" : "Title:",
 	"ui_browse_details_author" : "Author:",
 	"ui_browse_details_author_pending" : "< Pending >",
@@ -83,20 +84,20 @@
 	"ui_browse_details_properties_preset_hint_header" : "Wallpaper Presets",
 	"ui_browse_details_properties_preset_hint_body" : "A <b>Workshop preset</b> includes all of your custom wallpaper settings and any images or videos you may have imported into the wallpaper.<br/><br/>You can publish them on the Steam Workshop just like regular wallpapers, allowing other users to experience the look and feel with the settings you have created. You can also download <b>presets</b> which other users have shared.",
 	"ui_browse_details_properties_apply_to_all_wallpapers" : "Apply to all Wallpapers",
-	"ui_browse_details_properties_apply_to_all_wallpapers_header" : "Apply to all Wallpapers and set Default Values",
+	"ui_browse_details_properties_apply_to_all_wallpapers_header" : "Apply to all Wallpapers and set Default Settings",
 	"ui_browse_details_properties_apply_to_all" : "Apply to all",
-	"ui_browse_details_properties_apply_to_all_instructions" : "Set the default values for all wallpapers to the current ones and reset all existing wallpapers on your current monitors to these values.",
-	"ui_browse_details_properties_apply_to_all_update_all_and_default" : "Update all wallpapers and default values",
+	"ui_browse_details_properties_apply_to_all_instructions" : "Changes the default settings for all wallpapers on your current monitors or only changes these settings for the selected wallpapers.",
+	"ui_browse_details_properties_apply_to_all_update_all_and_default" : "Update all wallpapers and default settings",
 	"ui_browse_details_properties_apply_to_all_update_selection" : "Update selected wallpapers ({{count}})",
-	"ui_browse_details_properties_apply_to_all_restore_defaults" : "Restore default values",
+	"ui_browse_details_properties_apply_to_all_restore_defaults" : "Restore default settings",
 	"ui_browse_details_header_presets" : "Your Presets",
 	"ui_browse_details_header_workshop" : "Workshop Presets",
-	
+
 	"ui_browse_footer_btn_workshop" : "Steam Workshop",
 	"ui_browse_footer_btn_open_from_file" : "Open from File",
 	"ui_browse_footer_btn_open_from_url" : "Open from URL",
 	"ui_browse_footer_btn_wallpaper_editor" : "Wallpaper Editor",
-	
+
 	"ui_browse_monitors_choose_monitor" : "Choose Monitor",
 	"ui_browse_monitors_layout" : "Layout",
 	"ui_browse_monitors_profile" : "Profile",
@@ -130,14 +131,14 @@
 	"ui_browse_monitors_clone" : "Clone",
 	"ui_browse_monitors_save_profile" : "Save profile",
 	"ui_browse_monitors_load_profile" : "Load profile",
-	
+
 	"ui_browse_sort_name" : "Name",
 	"ui_browse_sort_rating" : "Rating",
 	"ui_browse_sort_favorite" : "Favorite",
 	"ui_browse_sort_filesize" : "File size",
 	"ui_browse_sort_subscription_date" : "Subscription date",
 	"ui_browse_sort_last_updated" : "Last updated",
-	
+
 	"ui_browse_search_placeholder" : "Search",
 	"ui_browse_filter_category_wallpaper" : "Wallpaper",
 	"ui_browse_filter_category_preset" : "Preset",
@@ -150,7 +151,7 @@
 	"ui_browse_filter_source_official" : "Official",
 	"ui_browse_filter_source_workshop" : "Workshop",
 	"ui_browse_filter_source_my_wallpapers" : "My Wallpapers",
-	
+
 	"ui_browse_modal_application_warning_header" : "Opening Unknown Application",
 	"ui_browse_modal_application_warning_body" : "You are about to open an external application as a wallpaper: <br/><b>{{filepath}}</b><br/>Wallpaper Engine has no control over this file, you must ensure that it comes from a reliable source before proceeding.",
 	"ui_browse_modal_application_warning_timer" : "<br/><br/>Please wait {{time}} seconds.",
@@ -169,7 +170,7 @@
 	"ui_browse_modal_advertise_workshop_header" : "In-App Workshop Browser",
 	"ui_browse_modal_advertise_workshop_body" : "Use the filter options on the left side to more easily find what you are looking for rather than searching on Steam directly.<br/><br/>Click on <b>Approved</b> <span class='fas fa-trophy browseWallpaperApproved'></span> to browse hand-picked wallpapers. Browse the 'most popular' or 'top rated' content if you are looking for high quality submissions.",
 	"ui_browse_modal_advertise_workshop_footer" : "Which genres are you interested in?",
-	
+
 	"ui_browse_properties_scheme_color" : "Scheme color",
 	"ui_browse_properties_playback_rate" : "<span class='fas fa-play propertyIcon'></span>Playback rate",
 	"ui_browse_properties_volume" : "<span class='fas fa-volume-up propertyIcon'></span>Volume",
@@ -181,12 +182,12 @@
 	"ui_browse_properties_alignment_stretch" : "Stretch",
 	"ui_browse_properties_alignment_position" : "<span class='fas fa-arrows-alt-h propertyIcon'></span>Position",
 	"ui_browse_properties_mouse_parallax" : "<span class='fas fa-mouse-pointer propertyIcon'></span>Mouse parallax",
-	
+
 	"ui_browse_playlist_header" : "Playlist",
 	"ui_browse_playlist_modal_open_header" : "Open Playlist",
 	"ui_browse_playlist_modal_open_delete" : "Delete",
 	"ui_browse_playlist_modal_save_header" : "Save Playlist",
-	"ui_browse_playlist_modal_save_name" : "Name", 
+	"ui_browse_playlist_modal_save_name" : "Name",
 	"ui_browse_playlist_modal_save_description" : "If a playlist with the same name exists already, it will be overwritten.",
 	"ui_browse_playlist_modal_settings_header" : "Playlist Settings",
 	"ui_browse_playlist_modal_settings_reset" : "Reset",
@@ -206,12 +207,12 @@
 	"ui_browse_playlist_modal_settings_daytime_clock" : "Clock",
 	"ui_browse_playlist_modal_settings_clock_12" : "12 Hours",
 	"ui_browse_playlist_modal_settings_clock_24" : "24 Hours",
-	
+
 	"ui_browse_profiles_modal_open_header" : "Load Profile",
 	"ui_browse_profiles_modal_save_header" : "Save Profile",
-	"ui_browse_profiles_modal_save_name" : "Name", 
+	"ui_browse_profiles_modal_save_name" : "Name",
 	"ui_browse_profiles_modal_save_description" : "If a profile with the same name exists already, it will be overwritten.",
-	
+
 	"ui_browse_preset_modal_save_header" : "Save Local Preset",
 	"ui_browse_preset_modal_open_header" : "Load Local Preset",
 	"ui_browse_preset_modal_share_header" : "Share Preset",
@@ -222,18 +223,18 @@
 	"ui_browse_preset_modal_paste" : "Paste",
 	"ui_browse_preset_modal_show_all" : "Show all",
 	"ui_browse_preset_modal_empty" : "You have not created any presets for this wallpaper yet.",
-	
+
 	"ui_browse_list_source_installed" : "Installed",
 	"ui_browse_list_source_workshop" : "Workshop",
 	"ui_browse_list_source_explore" : "Discover",
-	
+
 	"ui_browse_modal_no_steam_title" : "Steam Error",
 	"ui_browse_modal_no_steam_body" : "Steamworks could not be initialized. Please try to restart Steam and afterwards Wallpaper Engine. If you continue seeing this error, this means that your PC cannot correctly authenticate with the Steam servers, check your internet connection and whether you are logged into the correct Steam account.<br/><br/>Do not launch Steam as administrator, that prevents Steamworks from connecting to Steam. An anti-virus or security software could be preventing Steam and Wallpaper Engine from working together as well, try turning that off.",
 	"ui_browse_query_error" : "A STEAM network error occurred, try again later: ",
 	"ui_browse_modal_safe_mode_header" : "Safe Start",
 	"ui_browse_modal_safe_mode_body" : "It looks like the program did not shut down correctly, the last wallpapers and plugins have not been loaded yet to prevent the issue from recurring.<br/><br/>Press OK to restore them now, or cancel to change them first.",
 	"ui_browse_use_safe_mode" : "Use safe start",
-	
+
 	"ui_browse_query_sort_by_votes" : "Top Rated",
 	"ui_browse_query_sort_by_date" : "Most Recent",
 	"ui_browse_query_sort_by_trend_today" : "Most Popular (Today)",
@@ -248,7 +249,7 @@
 	"ui_browse_query_sort_most_up_votes" : "Most Up Votes",
 	"ui_browse_query_sort_most_subscriptions" : "Most Subscriptions",
 	"ui_browse_query_sort_by_relevance" : "Search Relevance",
-	
+
 	"ui_browse_explore_home" : "Home",
 	"ui_browse_explore_favorites" : "Favorites",
 	"ui_browse_explore_disliked" : "Disliked",
@@ -292,14 +293,14 @@
 	"ui_browse_explore_tooltip_dislike" : "Dislike",
 	"ui_browse_explore_tooltip_remove" : "Remove",
 	"ui_browse_explore_prompt_to_vote" : "Vote here to help us find wallpapers that you like!",
-	
+
 	"ui_browse_age_gate_modal_header" : "Age Verification",
 	"ui_browse_age_gate_modal_body" : "Please enter your birth date to continue:",
 	"ui_browse_age_gate_modal_sub" : "This data is for verification purposes only and will not be stored, uploaded or shared.",
 	"ui_browse_age_gate_modal_day" : "Day",
 	"ui_browse_age_gate_modal_month" : "Month",
 	"ui_browse_age_gate_modal_year" : "Year",
-	
+
 	"ui_browse_context_menu_add_to_playlist" : "Add to Playlist",
 	"ui_browse_context_menu_remove_from_playlist" : "Remove from Playlist",
 	"ui_browse_context_menu_workshop" : "Open in Workshop",
@@ -326,7 +327,8 @@
 	"ui_browse_context_menu_hotkey" : "Hotkey",
 	"ui_browse_context_menu_assign_hotkey" : "Assign Hotkey",
 	"ui_browse_context_menu_remove_hotkey" : "Remove Hotkey",
-	
+	"ui_browse_context_menu_browse_by_author" : "Browse all by {{author}} ({{count}})",
+
 	"ui_browse_report_modal_header" : "Report wallpaper:",
 	"ui_browse_report_modal_submit" : "Send Report",
 	"ui_browse_report_modal_category_label" : "Reason for the report",
@@ -351,23 +353,23 @@
 	"ui_browse_report_modal_success" : "Report successfully sent!",
 	"ui_browse_report_modal_error" : "The report failed to be sent. The server might be offline, unreachable or undergoing maintenance. Try again later.",
 	"ui_browse_report_modal_error_401" : "The report failed to be sent. Your Steam game ticket seems to have expired. Please try restarting Steam and the wallpaper browser to get a new ticket.",
-	
+
 	"ui_browse_modal_folder_create_title" : "Create Folder",
 	"ui_browse_modal_folder_remove_title" : "Remove Folder '{{title}}'",
 	"ui_browse_modal_folder_remove_body" : "Are you sure that you want to remove this folder?",
 	"ui_browse_modal_folder_remove_unsubscribe_and_remove_items" : "Unsubscribe or remove wallpapers in folder",
-	
+
 	"ui_browse_navigation_top" : "Top",
 	"ui_browse_download_header" : "Steam download",
 	"ui_browse_download_pending" : "Pending",
 	"ui_browse_download_waiting" : "Waiting for Steam",
 	"ui_browse_download_missing_files" : "Missing files. Verify the program in Steam.",
-	
+
 	"ui_browse_modal_hotkey_assign_wallpaper" : "Assign Hotkey to Wallpaper {{name}}",
 	"ui_browse_modal_hotkey_assign_playlist" : "Assign Hotkey to Playlist {{name}}",
 	"ui_browse_modal_hotkey_assign_profile" : "Assign Hotkey to Profile {{name}}",
 	"ui_browse_modal_hotkey_enter_hotkey" : "Enter Hotkey:",
-	
+
 	"ui_rating_table_suitable_for_everyone" : "Suitable for everyone",
 	"ui_rating_table_partial_nudity_suggestive" : "Partial nudity / suggestive",
 	"ui_rating_table_nudity_explicit" : "Nudity",
@@ -476,7 +478,7 @@
 	"ui_settings_plugins_status_loaded" : "Loaded",
 	"ui_settings_plugins_status_not_loaded" : "Not loaded",
 	"ui_settings_plugins_options_modal_header" : "{{name}} Options",
-	
+
 	"ui_settings_no_devices" : "No devices found",
 	"ui_settings_skin_white" : "White",
 	"ui_settings_skin_dark" : "Dark",
@@ -528,13 +530,13 @@
 	"ui_settings_disable_slideshow" : "Remove Windows wallpaper fade:",
 	"ui_settings_ui_hardware_acceleration" : "UI hardware acceleration:",
 	"ui_settings_show_tray_icon" : "Show tray icon:",
-	
+
 	"ui_settings_copyright" : "All rights reserved.",
 	"ui_settings_thirdparty" : "Thirdparty notices",
-	
+
 	"ui_settings_highpriority_warning_header" : "High Priority Info",
 	"ui_settings_highpriority_warning" : "High priority mode will launch the application more quickly using a 'Windows service'. But if you are experiencing issues with this solution, try it without high priority, which will be more reliable but slower.<br/><br/>This option will also make the program auto start for all Windows accounts on this PC.",
-	
+
 	"ui_welcome_preferred_language" : "Preferred language:",
 	"ui_welcome_header" : "Welcome to Wallpaper Engine",
 	"ui_welcome_intro" : "This is a short introduction to get you started and to configure a few important options for you.<br/><br/>Everything you adjust here can also be changed in the Wallpaper Engine settings at a later time!",
@@ -554,7 +556,7 @@
 	"ui_welcome_button_first_page" : "Let's go",
 	"ui_welcome_button_next_page" : "Next",
 	"ui_welcome_button_last_page" : "All done",
-	
+
 	"ui_editor_pane_header_camera" : "Camera",
 	"ui_editor_pane_header_preview" : "Preview",
 	"ui_editor_pane_header_properties" : "Properties",
@@ -562,7 +564,7 @@
 	"ui_editor_pane_header_log" : "Log",
 	"ui_editor_pane_header_script_editor" : "Script Editor",
 	"ui_editor_pane_header_shader_editor" : "Shader Editor",
-	
+
 	"ui_editor_filemenu_file" : "File",
 	"ui_editor_filemenu_new" : "New",
 	"ui_editor_filemenu_open" : "Open",
@@ -594,7 +596,7 @@
 	"ui_editor_filemenu_prepare_for_publishing" : "Prepare for Publishing",
 	"ui_editor_filemenu_apply_wallpaper" : "Apply Wallpaper",
 	"ui_editor_filemenu_close_wallpaper" : "Close Project",
-	
+
 	"ui_editor_delete_project_modal_header" : "Confirm Deletion",
 	"ui_editor_delete_project_modal_body" : "Are you sure that you want to permanently delete the project: <br/><b>{{title}}</b> ?<br/><br/>You will <b>not</b> be able to update or use this project after deleting it anymore.",
 	"ui_editor_no_animation_modal_header" : "Wallpaper Not Animated",
@@ -637,7 +639,7 @@
 	"ui_editor_welcome_modal_aspect" : "Aspect Ratio",
 	"ui_editor_welcome_modal_title_new" : "New",
 	"ui_editor_welcome_modal_title_welcome" : "Welcome",
-	
+
 	"ui_editor_importer_please_wait" : "Please wait",
 	"ui_editor_importer_compiling_assets_for" : "Compiling assets for",
 	"ui_editor_importer_compiling_file" : "Compiling file",
@@ -649,7 +651,7 @@
 	"ui_editor_template_wizard_details" : "Details",
 	"ui_editor_template_wizard_last_import" : "Last import:",
 	"ui_editor_template_wizard_import_image" : "Import image",
-	
+
 	"ui_editor_publish_modal_header" : "Publish to Workshop",
 	"ui_editor_publish_modal_header_upload" : "Uploading to Steam",
 	"ui_editor_publish_modal_button_publish" : "Publish",
@@ -667,7 +669,7 @@
 	"ui_editor_publish_modal_progress_uploading_content" : "Submitting Workshop item, uploading content...",
 	"ui_editor_publish_modal_progress_uploading_preview" : "Submitting Workshop item, uploading preview image...",
 	"ui_editor_publish_modal_progress_final" : "Submitting Workshop item, committing changes...",
-	
+
 	"ui_editor_workshop_options_title" : "Title",
 	"ui_editor_workshop_options_description" : "Description",
 	"ui_editor_workshop_options_tags" : "Tags",
@@ -690,10 +692,10 @@
 	"ui_editor_workshop_modal_rating_header" : "Choose a Rating",
 	"ui_editor_workshop_modal_rating_body" : "The preview image must be suitable for everyone. Please refer to this table to choose an appropriate content rating. If in doubt, choose a more restrictive rating. Submitting illegal content or rating your submission too low can get the submission banned and the account flagged. Keep in mind that you do not need to submit wallpapers to use them for yourself.",
 	"ui_editor_workshop_modal_rating_current" : "Current rating:",
-	
+
 	"ui_editor_open_modal_header" : "Open Wallpaper",
 	"ui_editor_open_modal_delete" : " Delete",
-	
+
 	"ui_editor_context_menu_center" : "Center",
 	"ui_editor_context_menu_rotate_clockwise" : "Rotate CW",
 	"ui_editor_context_menu_rotate_counterclockwise" : "Rotate CCW",
@@ -702,7 +704,7 @@
 	"ui_editor_context_menu_duplicate" : "Duplicate",
 	"ui_editor_context_menu_lock" : "Lock",
 	"ui_editor_context_menu_unlock" : "Unlock",
-	
+
 	"ui_editor_project_settings_modal_header" : "Project Settings",
 	"ui_editor_project_settings_modal_header_general" : "General",
 	"ui_editor_project_settings_modal_title" : "Title",
@@ -715,7 +717,7 @@
 	"ui_editor_project_settings_modal_skylight_color" : "Skylight color",
 	"ui_editor_project_settings_modal_resolution" : "Resolution",
 	"ui_editor_project_settings_modal_name" : "Name",
-	
+
 	"ui_editor_user_properties_select_info" : "Choose a property with a compatible type ({{types}}).",
 	"ui_editor_user_properties_select_unused_warning" : "This property is not being used by the wallpaper.",
 	"ui_editor_user_properties" : "Add Property",
@@ -748,7 +750,7 @@
 	"ui_editor_user_properties_condition_placeholder" : "Expression: key == X",
 	"ui_editor_user_properties_link" : "Link",
 	"ui_editor_user_properties_combo_value" : "Selected combo value for this link:",
-	
+
 	"ui_editor_help_header" : "Help",
 	"ui_editor_help_tutorial_category_wiki" : "Wiki documentation",
 	"ui_editor_help_tutorial_category_beginner_title" : "Beginner Tutorials",
@@ -761,21 +763,21 @@
 	"ui_editor_help_tutorial_item_wallpaper_web_based" : "A web-based wallpaper",
 	"ui_editor_help_tutorial_item_wallpaper_scene_3d" : "3D Scene wallpaper",
 	"ui_editor_help_tutorial_item_wallpaper_scene_2d" : "2D Scene wallpaper",
-	
+
 	"ui_editor_help_tutorial_group_advanced_general" : "General",
 	"ui_editor_help_tutorial_item_project_structure" : "Project files & structure",
-	
+
 	"ui_editor_help_tutorial_group_advanced_web" : "Web features",
 	"ui_editor_help_tutorial_item_web_properties" : "Custom user properties",
 	"ui_editor_help_tutorial_item_web_audio" : "Audio visualizer",
 	"ui_editor_help_tutorial_item_web_images" : "Importing user images",
 	"ui_editor_help_tutorial_item_web_fps_limit" : "User FPS limit",
-	
+
 	"ui_editor_help_tutorial_group_advanced_scene" : "Scene wallpapers",
 	"ui_editor_help_tutorial_item_scene_shaders" : "Creating new shaders",
-	
+
 	"ui_editor_snapshot_instructions" : "1. Draw a rectangle with the mouse.\n2. Press enter to take a snapshot.\n\nPress Space to pause.\nPress Escape to cancel.",
-	
+
 	"ui_editor_workshop_rules_modal_title" : "Workshop Rules",
 	"ui_editor_workshop_rules_modal_body" : "Before submitting your wallpaper to Workshop, make sure that it does not violate the Steam Terms of Service, otherwise it will be removed:",
 	"ui_editor_workshop_rules_modal_list_header" : "In particular, the following rules exist for wallpapers, the preview image and description:",
@@ -784,15 +786,15 @@
 	"ui_editor_workshop_rules_modal_rule_copyright" : "No copyright infringements",
 	"ui_editor_workshop_rules_modal_rule_ads" : "No advertisements",
 	"ui_editor_workshop_rules_modal_rule_misleading" : "No misleading previews",
-	
+
 	"ui_editor_toast_project_saved" : "Project saved.",
 	"ui_editor_toast_project_packed" : "Packed wallpapers cannot be opened.",
-	
+
 	"ui_editor_workshop_tags_limit" : "Only 3 tags allowed.",
 	"ui_editor_workshop_tags_placeholder": "Add a tag",
 	"ui_workshop_workshop_tags_rating" : "Age rating",
 	"ui_workshop_workshop_tags_rating_not_set" : "< Not set >",
-	
+
 	"ui_workshop_tags_abstract" : "Abstract",
 	"ui_workshop_tags_animal" : "Animal",
 	"ui_workshop_tags_anime" : "Anime",
@@ -822,7 +824,7 @@
 	"ui_workshop_tags_television" : "Television",
 	"ui_workshop_tags_vehicle" : "Vehicle",
 	"ui_workshop_tags_unspecified" : "Unspecified genre",
-	
+
 	"ui_workshop_tags_rating_everyone" : "Everyone",
 	"ui_workshop_tags_rating_questionable" : "Questionable",
 	"ui_workshop_tags_rating_mature" : "Mature",
@@ -830,7 +832,7 @@
 	"ui_workshop_tags_visibility_public" : "Public",
 	"ui_workshop_tags_visibility_friends_only" : "Friends only",
 	"ui_workshop_tags_visibility_private" : "Private",
-	
+
 	"ui_editor_scene_options_bloom" : "Bloom",
 	"ui_editor_scene_options_bloom_strength" : "Strength",
 	"ui_editor_scene_options_bloom_threshold" : "Threshold",
@@ -848,9 +850,9 @@
 	"ui_editor_scene_options_fov" : "FOV",
 	"ui_editor_scene_options_nearz" : "Near Z",
 	"ui_editor_scene_options_farz" : "Far Z",
-	
+
 	"ui_editor_import_adjust_projection_center" : "Adjust wallpaper size and center",
-	
+
 	"ui_editor_effects_modal_imagelayer_name" : "Image Layer",
 	"ui_editor_effects_modal_imagelayer_description" : "Import an image from your computer.",
 	"ui_editor_effects_modal_fullscreenlayer_name" : "Fullscreen Layer",
@@ -876,7 +878,8 @@
 	"ui_editor_effects_modal_title_add_effect" : "Add Effect",
 	"ui_editor_effects_modal_compatibility_warning_header" : "Different Effect Version",
 	"ui_editor_effects_modal_compatibility_warning_body" : "You are about to import an effect with a newer version than used by this project. This may result in all instances of this effect being reset and you will lose their settings.<br/><br/>This is not reversible and your old settings will be lost. You may want to make a backup of the project before proceeding.<br/><br/>Do you want to continue?",
-	
+	"ui_editor_effects_modal_compatibility_warning_skip_upgrade" : "Continue without Upgrade",
+
 	"ui_editor_effect_blend_title" : "Blend",
 	"ui_editor_effect_blend_description" : "Blend two images or image layers with various blend modes.",
 	"ui_editor_effect_blur_title" : "Blur",
@@ -935,7 +938,7 @@
 	"ui_editor_effect_xray_description" : "Blends between two images based on cursor position.",
 	"ui_editor_effect_shine_title" : "Shine",
 	"ui_editor_effect_shine_description" : "Applies a shine effect to bright parts of the image with a variable number of edges.",
-	
+
 	"ui_editor_preset_variant_small" : "Small",
 	"ui_editor_preset_variant_large" : "Large",
 	"ui_editor_preset_fern_title" : "Fern",
@@ -972,7 +975,7 @@
 	"ui_editor_preset_interactive_description" : "Interactive particles that are affected by the cursor.",
 	"ui_editor_preset_abstract_title" : "Abstract",
 	"ui_editor_preset_abstract_description" : "General particle effects.",
-	
+
 	"ui_editor_paint_overlay_value" : "Value",
 	"ui_editor_paint_overlay_color" : "Color",
 	"ui_editor_paint_overlay_size" : "Size",
@@ -984,7 +987,7 @@
 	"ui_editor_paint_overlay_brush_tooltip_pinch" : "Pinch",
 	"ui_editor_paint_overlay_brush_tooltip_spread" : "Spread",
 	"ui_editor_paint_overlay_brush_tooltip_spin" : "Spin",
-	
+
 	"ui_editor_stats_title" : "Stats per frame",
 	"ui_editor_stats_draw_calls" : "Draw calls:",
 	"ui_editor_stats_primitives" : "Primitives drawn:",
@@ -995,7 +998,7 @@
 	"ui_editor_stats_particle_memory" : "Particle memory (MB):",
 	"ui_editor_stats_particle_simulation_time" : "Particle simulation time (ms):",
 	"ui_editor_stats_script_execution_time" : "Script execution time (ms):",
-	
+
 	"ui_editor_script_run" : "Run",
 	"ui_editor_script_run_scripts" : "Run Scripts",
 	"ui_editor_script_stop" : "Stop",
@@ -1017,6 +1020,7 @@
 	"ui_editor_script_module_math_utilities" : "Math Utilities",
 	"ui_editor_script_snippet_rainbow_color" : "Rainbow Color",
 	"ui_editor_script_snippet_rotation" : "Rotation",
+	"ui_editor_script_snippet_rotation_pivot" : "Rotation Pivot",
 	"ui_editor_script_snippet_screen_bounce" : "Screen Bounce",
 	"ui_editor_script_snippet_drag_drop" : "Drag & Drop",
 	"ui_editor_script_snippet_click_wiggle" : "Click Wiggle",
@@ -1025,7 +1029,7 @@
 	"ui_editor_script_snippet_cursor_avoid" : "Cursor Avoid",
 	"ui_editor_script_snippet_audio_scale" : "Audio Scale",
 	"ui_editor_script_snippet_audio_factor" : "Audio Factor",
-	
+
 	"ui_editor_properties_accumulation_rate" : "Accumulation rate",
 	"ui_editor_properties_additive" : "Additive",
 	"ui_editor_properties_albedo" : "Albedo",
@@ -1051,6 +1055,7 @@
 	"ui_editor_properties_blur_scale" : "Blur scale",
 	"ui_editor_properties_bottom" : "Bottom",
 	"ui_editor_properties_bounds" : "Bounds",
+	"ui_editor_properties_brightness" : "Brightness",
 	"ui_editor_properties_browse" : "Browse",
 	"ui_editor_properties_cast_type" : "Cast type",
 	"ui_editor_properties_center" : "Center",
@@ -1283,7 +1288,7 @@
 	"ui_editor_properties_width" : "Width",
 	"ui_editor_properties_worldspace" : "Worldspace",
 	"ui_editor_properties_write_alpha" : "Write alpha",
-	
+
 	"ui_editor_properties_context_menu_bind_user_property" : "Bind User Property",
 	"ui_editor_properties_context_menu_unbind_user_property" : "Unbind User Property",
 	"ui_editor_properties_context_menu_edit_user_property" : "Edit User Property",
@@ -1291,7 +1296,7 @@
 	"ui_editor_properties_context_menu_unbind_script" : "Unbind Script",
 	"ui_editor_properties_context_menu_edit_script" : "Edit Script",
 	"ui_editor_properties_context_menu_restore_default_value" : "Restore Default Value",
-	
+
 	"ui_editor_particle_editor" : "Particle Editor",
 	"ui_editor_particle_selected" : "Selected:",
 	"ui_editor_particle_delete_particle_header" : "Delete Particle",
@@ -1310,7 +1315,7 @@
 	"ui_editor_particle_add_element_renderer_body" : "Select a renderer that controls the way particles are displayed.",
 	"ui_editor_particle_add_element_children_header" : "Add Child",
 	"ui_editor_particle_add_element_children_body" : "Select an existing particle system as a child.",
-	
+
 	"ui_editor_particle_element_group_general" : "General",
 	"ui_editor_particle_element_group_renderers" : "Renderers",
 	"ui_editor_particle_element_group_emitters" : "Emitters",
@@ -1318,7 +1323,7 @@
 	"ui_editor_particle_element_group_operators" : "Operators",
 	"ui_editor_particle_element_group_children" : "Children",
 	"ui_editor_particle_element_group_control_points" : "Control Points",
-	
+
 	"ui_editor_particle_element_emitter_boxrandom" : "Box random",
 	"ui_editor_particle_element_emitter_sphererandom" : "Sphere random",
 	"ui_editor_particle_element_initializer_alpharandom" : "Alpha random",
@@ -1347,12 +1352,12 @@
 	"ui_editor_particle_element_renderer_ropetrail" : "Rope trail",
 	"ui_editor_particle_element_renderer_sprite" : "Sprite",
 	"ui_editor_particle_element_renderer_spritetrail" : "Sprite trail",
-	
+
 	"ui_editor_particle_example_basic" : "Basic",
 	"ui_editor_particle_example_cursor_follow" : "Follow cursor",
 	"ui_editor_particle_example_cursor_avoid" : "Avoid cursor",
 	"ui_editor_particle_example_turbulence" : "Turbulence",
-	
+
 	"ui_editor_select_material" : "Select Material",
 	"ui_editor_select_texture" : "Select Texture"
 }

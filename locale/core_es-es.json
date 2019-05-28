@@ -78,7 +78,7 @@
     "core_updater_status_corrupted_system_module_message_box_title": "El módulo del sistema falta o está corrupto",
     "core_updater_status_corrupted_system_module_message_box_body": "Tu Sistema está corrupto o le faltan archivos. Wallpaper Engine no puede funcionar a menos que esté correctamente instalado. Este error es debido a Windows y no es un error de Wallpaper Engine.\n\nIntenta restaurar tu ordenador siguiendo los siguientes pasos:\n\n",
     "core_updater_status_corrupted_system_module_message_box_body_delete": "- Primero, borra los archivos a través del Explorador de Windows:\n{{modules}}\n\n",
-    "core_updater_status_corrupted_system_module_message_box_body_install_directx": "- Reinstala DirectX accediendo a este archive e iniciandolo:\n{{installers}}\nPor otro lado, puedes volver a descargar DirectX desde la web oficial de Microsoft.",
+    "core_updater_status_corrupted_system_module_message_box_body_install_directx": "- Reinstala DirectX accediendo a este archivo e iniciándolo:\n{{installers}}\nPor otro lado, puedes volver a descargar DirectX 9 desde la página oficial de Microsoft.",
     "core_updater_prompt_close": "Wallpaper Engine sigue activo. Ciérralo primero. Esperando a que se cierren estos procesos:",
     "core_updater_prompt_close_foreign": "Wallpaper Engine no puede continuar con la actualización porque un programa parece estar bloqueando los archivos. Cierra estos programas para continuar:",
     "core_updater_status_directx_not_supported_title": "DirectX 10 no es compatible",

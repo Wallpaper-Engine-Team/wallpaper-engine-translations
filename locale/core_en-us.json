@@ -15,18 +15,18 @@
 	"core_tray_next_wallpaper" : "Next Wallpaper",
 	"core_tray_mute" : "Mute",
 	"core_tray_unmute" : "Unmute",
-	
+
 	"core_balloon_info" : "Wallpaper Engine minimized to your tray. Double click the tray icon to select a wallpaper.",
 	"core_balloon_desktop_window_error" : "Failed preparing desktop for live wallpaper.",
 	"core_balloon_video_error" : "Windows video error occurred {{err}}. Click me for help.",
 	"core_balloon_app_error" : "Failed loading application as wallpaper.",
 	"core_balloon_pkg_version_error" : "This wallpaper requires a newer version of Wallpaper Engine. Please update Wallpaper Engine to the latest version on Steam.",
 	"core_balloon_wallpaper_file_missing" : "This wallpaper cannot be opened because it is missing its files.",
-	
+
 	"core_msgboxtitle_error" : "Error",
 	"core_msgboxtitle_app_conflict" : "Conflicting Application",
 	"core_msgboxtitle_wpe" : "Wallpaper Engine",
-	
+
 	"core_msgbox_deskscapes" : "It looks like DeskScapes is running, this may prevent Wallpaper Engine from working.",
 	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine needs to enable Aero in order to work. Should Wallpaper Engine try to enable Aero for you now?",
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine cannot run with a 'high contrast' theme. Should Wallpaper Engine try to reset the theme for you now?",
@@ -39,7 +39,7 @@
 	"core_msgbox_init_secondinstance_failed" : "Restart failed, error code:",
 	"core_msgbox_below_win_7" : "Wallpaper Engine requires Windows 7 or up, it is a system requirement.\n\nIt looks like you are running an unsupported version of Windows and Wallpaper Engine may not work.",
 	"core_msgbox_media_feature_pack_missing" : "mfplat.dll missing!\nYou possibly have Windows N. Please install the Media Feature Pack by Microsoft to enable video support! (Google: Media Feature Pack Windows 10/8.1/7)\n\nIf you keep seeing this error, you have not installed the right pack yet.",
-	
+
 	"core_updater_headline_init" : "Setting up Wallpaper Engine...",
 	"core_updater_headline_update" : "Updating Wallpaper Engine to version {{version}}...",
 	"core_updater_headline_init_complete" : "Completed setup of version {{version}}. Starting Wallpaper Engine...",
@@ -82,7 +82,7 @@
 	"core_updater_status_corrupted_system_module_message_box_title" : "System file is missing or broken",
 	"core_updater_status_corrupted_system_module_message_box_body" : "Your system is broken or it's missing files. Wallpaper Engine cannot work unless your computer is correctly installed. This is an issue with your Windows and it's not an error in Wallpaper Engine.\n\nTry fixing your computer by following these steps:\n\n",
 	"core_updater_status_corrupted_system_module_message_box_body_delete" : "- First, delete these files through Windows Explorer:\n{{modules}}\n\n",
-	"core_updater_status_corrupted_system_module_message_box_body_install_directx" : "- Reinstall DirectX by going to this file and running it:\n{{installers}}\nAlternatively, you can also re-download DirectX from the Microsoft website.",
+	"core_updater_status_corrupted_system_module_message_box_body_install_directx" : "- Reinstall DirectX by going to this file and running it:\n{{installers}}\nAlternatively, you can also re-download DirectX 9 from the Microsoft website.",
 	"core_updater_prompt_close" : "Wallpaper Engine is still running, please close it first. Waiting for these processes to close:",
 	"core_updater_prompt_close_foreign" : "Wallpaper Engine cannot continue updating because a program appears to be locking the files. Please close these programs to continue:",
 	"core_updater_status_directx_not_supported_title" : "DirectX 10 not supported",
