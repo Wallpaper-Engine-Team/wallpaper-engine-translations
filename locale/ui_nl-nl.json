@@ -599,5 +599,18 @@
     "ui_editor_particle_selected": "Geselecteerd:",
     "ui_editor_particle_example_basic": "Basis",
     "ui_editor_particle_example_cursor_follow": "Volg muis",
-    "ui_editor_particle_example_cursor_avoid": "Ontwijk muis"
+    "ui_editor_particle_example_cursor_avoid": "Ontwijk muis",
+    "ui_modal_installationpath_error_title": "verkeerde instalatiepad geslecteerd in Windows",
+    "ui_modal_installationpath_fix_auto_start": "automatisch starten reparatie",
+    "ui_editor_user_properties_type_color": "Kleur",
+    "ui_editor_user_properties_min_value": "Minimale waarde",
+    "ui_editor_user_properties_max_value": "Maximale waarde",
+    "ui_editor_user_properties_options": "Opties",
+    "ui_editor_effect_opacity_title": "Doorzichtigheid",
+    "ui_editor_paint_overlay_color": "Kleur",
+    "ui_editor_paint_overlay_size": "Groote",
+    "ui_editor_paint_overlay_opacity": "Doorzichtigheid",
+    "ui_editor_paint_overlay_value": "Waarde",
+    "ui_editor_properties_color": "Kleur",
+    "ui_editor_preset_fire_title": "Vuur"
 }
