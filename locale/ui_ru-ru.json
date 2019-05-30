@@ -957,7 +957,7 @@
     "ui_editor_script_module_math_utilities": "Математические утилиты",
     "ui_editor_script_snippet_rainbow_color": "Цвет радуги",
     "ui_editor_script_snippet_rotation": "Вращение",
-    "ui_editor_script_snippet_rotation_pivot": "Ось врещения",
+    "ui_editor_script_snippet_rotation_pivot": "Ось вращения",
     "ui_editor_script_snippet_screen_bounce": "Упругость экрана",
     "ui_editor_script_snippet_drag_drop": "Перетаскивание",
     "ui_editor_script_snippet_click_wiggle": "Шевелиться по клику",
