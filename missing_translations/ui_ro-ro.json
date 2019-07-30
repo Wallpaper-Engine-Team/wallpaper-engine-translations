@@ -442,7 +442,7 @@
     "ui_editor_effects_modal_sound_description": "Add looping background music or randomly playing ambient sounds.",
     "ui_editor_effects_modal_compatibility_warning_header": "Different Effect Version",
     "ui_editor_effects_modal_compatibility_warning_body": "You are about to import an effect with a newer version than used by this project. This may result in all instances of this effect being reset and you will lose their settings.<br/><br/>This is not reversible and your old settings will be lost. You may want to make a backup of the project before proceeding.<br/><br/>Do you want to continue?",
-    "ui_editor_effects_modal_compatibility_warning_skip_upgrade": "Continue without Upgrade",
+    "ui_editor_effects_modal_compatibility_warning_skip_upgrade": "Continue without upgrade",
     "ui_editor_effect_clouds_title": "Clouds",
     "ui_editor_effect_clouds_description": "Adds clouds to the image.",
     "ui_editor_effect_filmgrain_title": "Film Grain",

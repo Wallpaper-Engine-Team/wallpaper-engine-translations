@@ -93,7 +93,7 @@
     "ui_editor_scene_options_farz": "Far Z",
     "ui_editor_effects_modal_compatibility_warning_header": "Different Effect Version",
     "ui_editor_effects_modal_compatibility_warning_body": "You are about to import an effect with a newer version than used by this project. This may result in all instances of this effect being reset and you will lose their settings.<br/><br/>This is not reversible and your old settings will be lost. You may want to make a backup of the project before proceeding.<br/><br/>Do you want to continue?",
-    "ui_editor_effects_modal_compatibility_warning_skip_upgrade": "Continue without Upgrade",
+    "ui_editor_effects_modal_compatibility_warning_skip_upgrade": "Continue without upgrade",
     "ui_editor_stats_script_execution_time": "Script execution time (ms):",
     "ui_editor_script_run": "Run",
     "ui_editor_script_run_scripts": "Run Scripts",

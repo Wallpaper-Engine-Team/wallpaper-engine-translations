@@ -561,7 +561,7 @@
     "ui_editor_effects_modal_title_add_effect": "Add Effect",
     "ui_editor_effects_modal_compatibility_warning_header": "Different Effect Version",
     "ui_editor_effects_modal_compatibility_warning_body": "You are about to import an effect with a newer version than used by this project. This may result in all instances of this effect being reset and you will lose their settings.<br/><br/>This is not reversible and your old settings will be lost. You may want to make a backup of the project before proceeding.<br/><br/>Do you want to continue?",
-    "ui_editor_effects_modal_compatibility_warning_skip_upgrade": "Continue without Upgrade",
+    "ui_editor_effects_modal_compatibility_warning_skip_upgrade": "Continue without upgrade",
     "ui_editor_effect_blend_title": "Blend",
     "ui_editor_effect_blend_description": "Blend two images or image layers with various blend modes.",
     "ui_editor_effect_blur_title": "Blur",

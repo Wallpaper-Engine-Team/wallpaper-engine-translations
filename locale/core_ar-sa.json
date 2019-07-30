@@ -7,10 +7,13 @@
     "core_tray_pause": "ايقاف",
     "core_tray_unpause": "استئناف",
     "core_tray_recent_wallpapers": "الخلفيات الاخيرة",
+    "core_tray_saved_playlists": "قوائم التشغيل المحفوظة",
     "core_tray_quit": "خروج",
     "core_tray_faq": "الدعم و الاسئلة الشائعة",
     "core_tray_recent_wallpapers_clear": "مسح القائمة",
     "core_tray_next_wallpaper": "الخلفية التالية",
+    "core_tray_mute": "كتم",
+    "core_tray_unmute": "الغاء الكتم",
     "core_balloon_info": "تم تصغير محرك الخلفيات, انقر مرتين لإختيار خلفية",
     "core_balloon_desktop_window_error": ".فشل تجهيز سطح المكتب للخلفية المتحركة",
     "core_balloon_video_error": "حدث خطأ في الفيديو {{err}}. انقر للمساعدة.",
@@ -63,5 +66,7 @@
     "core_updater_status_complete": "اكتمل التثبيت بنجاح",
     "core_updater_status_complete_errors": "اكتمل التثبيت مع أخطاء",
     "core_updater_status_complete_starting": "...جاري بدء محرك الخلفيات",
-    "core_updater_status_cancelled": "تم الغاء العملية بواسطة المستخدم"
+    "core_updater_status_cancelled": "تم الغاء العملية بواسطة المستخدم",
+    "core_updater_status_corrupted_system_module_message_box_title": "ملف النظام مفقود أو معطل",
+    "core_updater_status_directx_not_supported_title": "DirectX 10 غير مدعوم"
 }
