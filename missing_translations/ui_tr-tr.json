@@ -1,7 +1,0 @@
-{
-    "ui_browse_author_filter_notice": "Browsing wallpapers by {{author}}",
-    "ui_browse_context_menu_browse_by_author": "Browse all by {{author}} ({{count}})",
-    "ui_editor_effects_modal_compatibility_warning_skip_upgrade": "Continue without upgrade",
-    "ui_editor_script_snippet_rotation_pivot": "Rotation Pivot",
-    "ui_editor_properties_brightness": "Brightness"
-}
