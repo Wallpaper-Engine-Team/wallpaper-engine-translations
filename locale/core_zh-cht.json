@@ -63,6 +63,7 @@
     "core_updater_status_verify_hash_failed": "無法驗證檔案: {{filepath}}",
     "core_updater_status_verify_success": "已驗證檔案: {{filepath}}",
     "core_updater_status_verify_failed_message_box_title": "檔案驗證錯誤",
+    "core_updater_status_verify_failed_message_box_body": "Wallpaper Engine 的一些檔案似乎無法安裝。這可能是由於 Steam 中的下載錯誤或防毒軟體錯誤地檢測檔案並導致發生問題。如果您有除了 Windows Defender 之外的防毒軟體，請確保它不會干擾 Steam 和 Wallpaper Engine。\n\n確保在更新時關閉應用程式（如有必要請透過工作列圖示或工作管理員關閉）並且當前沒有防毒軟體正在防護您的電腦。\n\n如果您的防毒軟體刪除了 Wallpaper Engine 的檔案，您需要復原它們並將 Wallpaper Engine 的路徑添加到防毒軟體的允許清單以使防毒軟體停止刪除隨機檔案。",
     "core_updater_status_compat": "正在尋找不相容的應用程式...",
     "core_updater_status_compat_error": "無法掃描處理程序",
     "core_updater_status_compat_found": "找到不相容的處理程序: {{processname}}",
@@ -75,6 +76,9 @@
     "core_updater_status_complete_starting": "正在啟動 Wallpaper Engine...",
     "core_updater_status_cancelled": "使用者已取消處理程序",
     "core_updater_status_corrupted_system_module_message_box_title": "系統檔案遺失或已損壞",
+    "core_updater_status_corrupted_system_module_message_box_body": "您的系統檔案遺失或已損壞。無法執行 Wallpaper Engine 除非您的電腦系統已經正確安裝。這是一個 Windows 的錯誤而並不是 Wallpaper Engine 的錯誤。\n\n嘗試執行以下步驟以修復您的電腦：\n\n",
+    "core_updater_status_corrupted_system_module_message_box_body_delete": "－首先，透過檔案總管刪除這些檔案：\n{{modules}}\n\n",
+    "core_updater_status_corrupted_system_module_message_box_body_install_directx": "－找到此檔案並執行以重新安裝 DirectX：\n{{installers}}\n或者，你也可以透過 Microsoft 網站重新下載 DirectX 9。"
     "core_updater_prompt_close": "Wallpaper Engine 仍在執行中，請先將它關閉。正在等待這些程序關閉:",
     "core_updater_prompt_close_foreign": "Wallpaper Engine 無法繼續進行更新，因為檔案遭程式鎖定。請關閉這些程式以繼續進行更新:",
     "core_updater_status_directx_not_supported_title": "不支援 DirectX 10",
