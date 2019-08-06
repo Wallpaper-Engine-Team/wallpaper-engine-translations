@@ -1225,7 +1225,7 @@
     "ui_editor_properties_worldspace": "世界座標",
     "ui_editor_properties_write_alpha": "寫入 Alpha",
     "ui_editor_properties_context_menu_bind_user_property": "連結使用者內容",
-    "ui_editor_properties_context_menu_unbind_user_property": "取消使用者內容",
+    "ui_editor_properties_context_menu_unbind_user_property": "取消連結使用者內容",
     "ui_editor_properties_context_menu_edit_user_property": "編輯使用者內容",
     "ui_editor_properties_context_menu_bind_script": "連結腳本",
     "ui_editor_properties_context_menu_unbind_script": "取消連結腳本",
