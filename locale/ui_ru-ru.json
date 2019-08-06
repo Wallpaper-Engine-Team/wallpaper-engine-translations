@@ -76,7 +76,7 @@
     "ui_browse_details_properties_load": "Загрузить",
     "ui_browse_details_properties_share_json": "Поделиться JSON'ом",
     "ui_browse_details_properties_preset_publish_to_workshop": "Опубликовать пресет",
-    "ui_browse_details_properties_preset_browse_workshop": "Просмотр пресетов: ({{count}})",
+    "ui_browse_details_properties_preset_browse_workshop": "Посмотреть пресеты ({{count}})",
     "ui_browse_details_properties_preset_hint_header": "Пресеты обоев",
     "ui_browse_details_properties_preset_hint_body": "<b>Пресеты Мастерской</b> включает все ваши пользовательские настройки обоев и любые изображения или видео, которые вы, возможно, импортировали в обои.<br/><br/>Вы можете опубликовать их в Мастерскую Steam так же, как обычные обои, позволяя другим пользователям оценить внешний вид обоев с созданными вами настройками. Вы также можете скачать <b>пресеты</b> которыми поделились другие пользователи.",
     "ui_browse_details_properties_apply_to_all_wallpapers": "Применить ко всем обоям",
