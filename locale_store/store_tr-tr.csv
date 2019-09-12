@@ -1,7 +1,7 @@
 system_requirements,"Windows N sürümlerinde Microsoft'un ""Medya Özellik Paketi"" bulunması gerekir. Windows 7' de Aero'nun etkinleştirilmesi gerekir. Yüksek kontrast modu desteklenmez. Maks. video çözünürlüğü Windows 8 ve 10 için 4K, Windows 7 için 1080p'dir.
 "
 description_short,Masaüstünüzde etkileyici canlı duvar kağıtları kullanın. Yeni duvar kağıtları oluşturmak için kendi görüntülerinizi canlandırın veya videoları/web sitelerini içe aktarın ve bunları Steam Atölyesinde paylaşın!
-description_long,"Wallpaper Engine, Windows masaüstünüzde canlı duvar kağıtları kullanmanıza olanak tanır. 3D ve 2D animasyonlar, web siteleri, videolar ve hatta bazı uygulamalar dahil pek çok animasyonlu duvar kağıdı çeşitleri desteklenmektedir. Mevcut bir duvar kağıdı seçin veya özel bir duvar kağıdı oluşturup Steam Atölyesinde paylaşın!
+description_long,"Wallpaper Engine, Windows masaüstünüzde canlı duvar kağıtları kullanmanızı sağlar. 3D ve 2D animasyonlar, web siteleri, videolar ve hatta bazı uygulamalar dahil pek çok animasyonlu duvar kağıdı çeşitleri desteklenmektedir. Mevcut bir duvar kağıdı seçin veya özel bir duvar kağıdı oluşturup Steam Atölyesinde paylaşın!
 
 [img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
 
@@ -15,7 +15,7 @@ description_long,"Wallpaper Engine, Windows masaüstünüzde canlı duvar kağı
 [*]Wallpaper Engine Editör'de özel animasyonlu duvar kağıtlarınızı oluşturun.
 [*]Basit görüntülerden yeni canlı duvar kağıtları oluşturun veya HTML ya da video dosyalarını duvar kağıdına içe aktarın.
 [*]Duvar kağıtlarını Steam Atölyesinde paylaşın ve indirin.
-[*]Wallpaper Engine, başka bir Steam oyunu veya uygulamasıyla aynı anda kullanılabilir.
+[*]Wallpaper Engine, herhangi bir Steam oyunu veya uygulamasıyla aynı anda kullanılabilir.
 [*]Desteklenen video biçimleri: mp4, WebM, avi, m4v, mov, wmv (yerel dosyalar için Atölye sadece mp4'e izin verir).
 [*]Corsair iCUE desteği.
 [/list]
@@ -31,7 +31,7 @@ description_image_features,Özellikler
 description_image_performance,Performans
 screenshot_text_customization,Duvar kağıtlarını özelleştir
 screenshot_text_performance,Hassas performans ayarları için pek çok seçenek
-screenshot_text_images,Özel görüntülerinizi animasyona dönüştürün
+screenshot_text_images,Kendi görüntülerinizi animasyona dönüştürün
 screenshot_text_tools,Animasyon oluşturmak için birçok araç
 screenshot_text_presets,Ön ayarlı efektleri hızlıca ekleyin
 screenshot_text_effects,Özel kompleks efektlerinizi oluşturun 
