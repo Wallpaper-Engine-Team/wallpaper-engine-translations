@@ -19,7 +19,7 @@
     "core_balloon_desktop_window_error": "การจัดเตรียมเดสก์ทอปสำหรับวอลเปเปอร์ภาพเคลื่อนไหวล้มเหลว",
     "core_balloon_video_error": "เกิดข้อผิดพลาดที่วิดีโอของ Windows {{err}} คลิกที่นี่เพื่อขอความช่วยเหลือ",
     "core_balloon_app_error": "การโหลดแอพพลิเคชันเป็นวอลเปเปอร์ล้มเหลว",
-    "core_balloon_pkg_version_error": "ไม่สามารถเปิดวอลเปเปอร์นี้ได้เนื่องจากต้องใช้ Wallpaper Engine เวอร์ชันที่ใหม่กว่านี้ ลองติดตั้งเวอร์ชันล่าสุดผ่าน Steam",
+    "core_balloon_pkg_version_error": "ไม่สามารถเปิดวอลเปเปอร์นี้ได้เนื่องจากต้องใช้ Wallpaper Engine เวอร์ชันที่ใหม่กว่านี้ ลองติดตั้งเวอร์ชันล่าสุดผ่าน {{{Platform}}}",
     "core_balloon_wallpaper_file_missing": "ไม่สามารถเปิดวอลเปเปอร์นี้ได้เนื่องจากไม่มีไฟล์ส่วนประกอบ",
     "core_msgboxtitle_error": "ข้อผิดพลาด",
     "core_msgboxtitle_app_conflict": "แอพพลิเคชันที่ขัดแย้งกัน",

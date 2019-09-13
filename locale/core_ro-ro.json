@@ -1,6 +1,6 @@
 {
     "core_tray_change_wallpaper": "Schimbă imaginea de fundal",
-    "core_tray_browse_workshop": "Navighează prin Workshop",
+    "core_tray_browse_workshop": "Navighează prin {{{Host}}}",
     "core_tray_create_wallpaper": "Creează imagine de fundal",
     "core_tray_settings": "Setări",
     "core_tray_take_screenshot": "Crează o captură de ecran",
@@ -26,7 +26,7 @@
     "core_msgbox_aero_failure_no_support": "Activarea Aero a eșuat. Se pare că folosești o versiune Starter sau Basic a Windows 7, care nu suportă Aero și nu îndeplinește cerințele minime de sistem. Wallpaper Engine se va închide.",
     "core_msgbox_init_secondinstance_ask_quit": "Se pare că Wallpaper Engine rulează deja în fundal și nu răspunde.\n\nVrei șă îl repornești forțat?",
     "core_msgbox_init_secondinstance_failed": "Repornire eșuată, codul erorii:",
-    "core_msgbox_below_win_7": "Wallpaper Engine are nevoie de Windows 7 sau mai sus, lucru indicat de cerințele de sistem pe Steam.\n\nSe pare că folosești o versiune nesuportată de Windows și s-ar putea ca Wallpaper Engine să nu funcționeze.",
+    "core_msgbox_below_win_7": "Wallpaper Engine are nevoie de Windows 7 sau mai sus, lucru indicat de cerințele de sistem pe {{{Platform}}}.\n\nSe pare că folosești o versiune nesuportată de Windows și s-ar putea ca Wallpaper Engine să nu funcționeze.",
     "core_msgbox_media_feature_pack_missing": "mfplat.dll lipsește!\nProbabil ai Windows N. Te rugăm să instalezi Media Feature Pack de la Microsoft pentru suport video! (Google: Media Feature Pack Windows 10/8.1/7)\n\n",
     "core_updater_headline_init": "Wallpaper Engine se pregătește...",
     "core_updater_headline_update": "Wallpaper Engine se actualizează la versiunea {{version}}...",

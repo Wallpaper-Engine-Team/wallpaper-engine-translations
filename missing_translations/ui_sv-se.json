@@ -1,0 +1,19 @@
+{
+    "ui_browse_offline_error": "{{{PLATFORM}}} servers are OFFLINE. Please wait for {{{PROVIDER}}} to fix {{{PLATFORM}}}.",
+    "ui_browse_report_modal_category_copyright_description": "Please use {{{PROVIDER}}}'s DMCA form to submit copyright violations, this will make sure it is dealt with in the legally correct manner.",
+    "ui_editor_review_info_header": "Review Process",
+    "ui_editor_review_info_body": "Your wallpaper will be reviewed before other users can find and download it to ensure that it doesn't violate any local laws.</b></b>If you update your wallpaper, it has to be reviewed again and is pushed to the back of the queue.",
+    "ui_editor_effects_modal_textlayer_name": "Text Layer",
+    "ui_editor_effects_modal_textlayer_description": "Place text on the wallpaper.",
+    "ui_editor_properties_background_color": "Background color",
+    "ui_editor_properties_font": "Font",
+    "ui_editor_properties_opaque_background": "Opaque background",
+    "ui_editor_properties_padding": "Padding",
+    "ui_editor_properties_point_size": "Point size",
+    "ui_editor_properties_proportional_size": "Proportional size",
+    "ui_editor_properties_screen_anchor": "Screen anchor",
+    "ui_editor_properties_text": "Text",
+    "ui_editor_properties_text_horizontal_alignment": "Horizontal Alignment",
+    "ui_editor_properties_text_layer": "Text Layer",
+    "ui_editor_properties_text_vertical_alignment": "Vertical Alignment"
+}

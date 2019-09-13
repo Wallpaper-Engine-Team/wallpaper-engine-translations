@@ -26,6 +26,6 @@
     "core_msgbox_aero_failure_no_support": "Aktivering af Aero mislykkede. Du virker til at bruge en Starter eller Basisk version Windows 7, hvilket ikke understøtter Aero og opfylder ikke minimums systemkrav. Wallpaper Engine vil nu lukke ned.",
     "core_msgbox_init_secondinstance_ask_quit": "Wallpaper Engine appears to be running already and doesn't respond.\n\nDo you want to restart it forcefully?",
     "core_msgbox_init_secondinstance_failed": "Genstart mislykkede, fejl kode:",
-    "core_msgbox_below_win_7": "Wallpaper Engine kræver Windows 7 og op, som angivet ved systemkravende på Steam.\n\nDet virker til at du køre en ikke understøttet version af Windows og Wallpaper Engine virker måske ikke .",
+    "core_msgbox_below_win_7": "Wallpaper Engine kræver Windows 7 og op, som angivet ved systemkravende på {{{Platform}}}.\n\nDet virker til at du køre en ikke understøttet version af Windows og Wallpaper Engine virker måske ikke .",
     "core_msgbox_media_feature_pack_missing": "mfplat.dll mangler!\nDu har eventuelt Windows N. Venligst installer the Media Feature Pack af Microsoft for at aktivere video understøttelse! (Google: Media Feature Pack Windows 10/8.1/7)\n\n"
 }

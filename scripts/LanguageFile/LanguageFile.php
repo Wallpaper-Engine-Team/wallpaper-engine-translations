@@ -76,7 +76,7 @@ class LanguageFile extends AbstractFile implements LanguageFileInterface
                     }
                 }
                 if ($found === false) {
-                    $this->addViolation('Key "'.$jsonKey.'" was translated but is missing variable '.$baseVariable);
+                    $this->addViolation($jsonKey, 'Key "'.$jsonKey.'" was translated but is missing variable '.$baseVariable);
                 }
             }
         }
@@ -88,6 +88,7 @@ class LanguageFile extends AbstractFile implements LanguageFileInterface
         preg_match_all('/(\\n)/', $localizedString, $localizedLineBreaks);
         if (count($localizedLineBreaks[0]) !== count($baseLineBreaks[0])) {
             $this->addViolation(
+                $jsonKey,
                 'Line breaks ("\n") for key "'.$jsonKey.'" do not match. Base string has '.
                 count($baseLineBreaks[0]).' and localized string has '.
                 count($localizedLineBreaks[0]).' line breaks.'
@@ -122,6 +123,7 @@ class LanguageFile extends AbstractFile implements LanguageFileInterface
             }
             if (count($localizedTags) > 0) {
                 $this->addViolation(
+                    $jsonKey,
                     'HTML content for "'.$jsonKey.'" does not match base string. Check near "'.$localizedTag->outerHtml(
                     ).'"'
                 );
@@ -133,9 +135,10 @@ class LanguageFile extends AbstractFile implements LanguageFileInterface
         return $this->baseFile;
     }
 
-    public function addViolation(string $errorMessage): void
+    public function addViolation( string $jsonKey, string $errorMessage): void
     {
         $this->violations[] = $errorMessage;
+        $this->missingKeys[] = $jsonKey;
     }
 
     public function hasErrors(): bool
@@ -153,7 +156,7 @@ class LanguageFile extends AbstractFile implements LanguageFileInterface
         $baseKeys = $this->baseFile->getJsonData();
         foreach ($this->getJsonData() as $jsonKey => $jsonData) {
             if (isset($baseKeys[$jsonKey]) === false) {
-                $this->addViolation('Key "'.$jsonKey.'" does not exist in base file');
+                $this->addViolation( $jsonKey, 'Key "'.$jsonKey.'" does not exist in base file');
             }
         }
     }

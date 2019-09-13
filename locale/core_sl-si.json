@@ -1,6 +1,6 @@
 {
     "core_tray_change_wallpaper": "Sprememba ozadja",
-    "core_tray_browse_workshop": "Iščite v Steam Workshop-u",
+    "core_tray_browse_workshop": "Iščite v {{{Platform}}} {{{Host}}}-u",
     "core_tray_create_wallpaper": "Ustvarite ozadje",
     "core_tray_settings": "Nastavitve",
     "core_tray_take_screenshot": "Zajemi zaslonski posnetek",
@@ -26,7 +26,7 @@
     "core_msgbox_aero_failure_no_support": "Omogočanje 'Aero' ni uspelo. Izgleda, da imate 'Starter' ali 'Basic' različico Windowsa 7, ki ne omogoča funkcije Aero in ne zadovoljuje minimalnih sistemskih zahtevah. Program Wallpaper Engine se bo sedaj zaprl.",
     "core_msgbox_init_secondinstance_ask_quit": "Izgleda da program Wallpaper Engine že deluje, vendar se ne odziva.\n\nAli želite program na silo ponovno zagnati?",
     "core_msgbox_init_secondinstance_failed": "Ponovni zagon ni uspel, koda napake:",
-    "core_msgbox_below_win_7": "Program Wallpaper Engine za delovanje potrebuje Windows 7 ali novejši, kot je napisano v minimalnih sistemskih zahtevah na Steam-u.\n\nIzgleda da uporabljate nepodprto različico operacijskega sistema Windows, zato program Wallpaper Engine morda ne bo deloval.",
+    "core_msgbox_below_win_7": "Program Wallpaper Engine za delovanje potrebuje Windows 7 ali novejši, kot je napisano v minimalnih sistemskih zahtevah na {{{Platform}}}-u.\n\nIzgleda da uporabljate nepodprto različico operacijskega sistema Windows, zato program Wallpaper Engine morda ne bo deloval.",
     "core_msgbox_media_feature_pack_missing": "mfplat.dll manjka!\nMogoče imate nameščen Windows N. Prosimo, da namestite 'Media Feature Pack by Microsoft' da omogočite podporo za predvajanje videa! (Poiščite na Googlu: Media Feature Pack Windows 10/8.1/7)\n\n",
     "core_updater_headline_init": "Nastavljanje programa Wallpaper Engine...",
     "core_updater_headline_update": "Posodabljanje programa Wallpaper Engine na zadnjo različico {{version}}...",

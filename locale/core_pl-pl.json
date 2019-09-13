@@ -19,7 +19,7 @@
     "core_balloon_desktop_window_error": "Wystąpił błąd podczas przygotowywania pulpitu pod animowaną tapetę.",
     "core_balloon_video_error": "Wystąpił błąd wideo w systemie Windows: {{err}}. Kliknij tutaj, aby uzyskać pomoc.",
     "core_balloon_app_error": "Błąd wczytywania aplikacji jako tapety.",
-    "core_balloon_pkg_version_error": "Ta tapeta nie może zostać otwarta z powodu używania nowszej wersji. Spróbuj zaktualizować program Wallpaper Engine poprzez platformę Steam.",
+    "core_balloon_pkg_version_error": "Ta tapeta nie może zostać otwarta z powodu używania nowszej wersji. Spróbuj zaktualizować program Wallpaper Engine poprzez platformę {{{Platform}}}.",
     "core_balloon_wallpaper_file_missing": "Ta tapeta nie może zostać otwarta z powodu braku jej plików.",
     "core_msgboxtitle_error": "Błąd",
     "core_msgboxtitle_app_conflict": "Wystąpił konflikt między aplikacjami",
