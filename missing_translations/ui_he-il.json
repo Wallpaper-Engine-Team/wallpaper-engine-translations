@@ -143,6 +143,7 @@
     "ui_browse_query_sort_most_up_votes": "Most Up Votes",
     "ui_browse_query_sort_most_subscriptions": "Most Subscriptions",
     "ui_browse_query_sort_by_relevance": "Search Relevance",
+    "ui_browse_query_sort_last_updated": "Last Updated",
     "ui_browse_explore_home": "Home",
     "ui_browse_explore_favorites": "Favorites",
     "ui_browse_explore_disliked": "Disliked",

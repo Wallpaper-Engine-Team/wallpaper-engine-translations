@@ -61,6 +61,7 @@
     "ui_browse_preset_modal_empty": "You have not created any presets for this wallpaper yet.",
     "ui_browse_list_source_workshop": "{{{Host}}}",
     "ui_browse_query_sort_by_relevance": "Search Relevance",
+    "ui_browse_query_sort_last_updated": "Last Updated",
     "ui_browse_explore_category_genre_popular_approved": "Popular <b>approved</b> wallpapers",
     "ui_browse_explore_category_genre_recent_approved": "Recent <b>approved</b> wallpapers",
     "ui_browse_explore_category_genre_new_approved": "New <b>approved</b> wallpapers",

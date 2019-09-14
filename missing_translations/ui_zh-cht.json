@@ -11,6 +11,7 @@
     "ui_browse_filter_source_workshop": "{{{Host}}}",
     "ui_browse_modal_advertise_workshop_header": "In-App {{{Host}}} Browser",
     "ui_browse_list_source_workshop": "{{{Host}}}",
+    "ui_browse_query_sort_last_updated": "Last Updated",
     "ui_browse_context_menu_workshop": "Open in {{{Host}}}",
     "ui_browse_report_modal_category_copyright_description": "Please use {{{PROVIDER}}}'s DMCA form to submit copyright violations, this will make sure it is dealt with in the legally correct manner.",
     "ui_browse_download_missing_files": "Missing files. Verify the program in {{{Platform}}}.",

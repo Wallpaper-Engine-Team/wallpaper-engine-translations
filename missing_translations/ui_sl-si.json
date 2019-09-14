@@ -117,6 +117,7 @@
     "ui_browse_query_sort_my_favorites": "My Favorites",
     "ui_browse_query_sort_voted_up": "Voted Up",
     "ui_browse_query_sort_by_relevance": "Search Relevance",
+    "ui_browse_query_sort_last_updated": "Last Updated",
     "ui_browse_explore_home": "Home",
     "ui_browse_explore_favorites": "Favorites",
     "ui_browse_explore_disliked": "Disliked",

@@ -30,6 +30,7 @@
     "ui_browse_query_sort_my_favorites": "My Favorites",
     "ui_browse_query_sort_voted_up": "Voted Up",
     "ui_browse_query_sort_by_relevance": "Search Relevance",
+    "ui_browse_query_sort_last_updated": "Last Updated",
     "ui_browse_age_gate_modal_sub": "This data is for verification purposes only and will not be stored, uploaded or shared.",
     "ui_browse_context_menu_play_in_window": "Play in Window",
     "ui_browse_context_menu_report": "Report",

@@ -13,6 +13,7 @@
     "ui_browse_modal_unsubscribe_body": "Are you sure that you want to unsubscribe from: <b>{{title}}</b>?<br/><br/>After unsubscribing, {{{Platform}}} will delete the wallpaper files automatically after the wallpaper browse window is closed. {{{Platform}}} delays the deletion of wallpapers until you close the wallpaper browse window.",
     "ui_browse_open_url_hotkey_info": "To use your keyboard on the wallpaper, hide the icons with this hotkey first:",
     "ui_browse_query_sort_by_relevance": "Search Relevance",
+    "ui_browse_query_sort_last_updated": "Last Updated",
     "ui_browse_context_menu_browse_by_author": "Browse all by {{author}} ({{count}})",
     "ui_browse_report_modal_category_copyright_description": "Please use {{{PROVIDER}}}'s DMCA form to submit copyright violations, this will make sure it is dealt with in the legally correct manner.",
     "ui_settings_recording_threshold": "Recording threshold:",

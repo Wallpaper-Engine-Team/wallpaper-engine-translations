@@ -35,6 +35,7 @@
     "ui_browse_preset_modal_save_description": "If a preset with the same name exists already, it will be overwritten.",
     "ui_browse_preset_modal_empty": "You have not created any presets for this wallpaper yet.",
     "ui_browse_query_sort_by_relevance": "Search Relevance",
+    "ui_browse_query_sort_last_updated": "Last Updated",
     "ui_browse_context_menu_choose_preset": "Choose Preset",
     "ui_browse_context_menu_remove_preset": "Remove Preset",
     "ui_browse_context_menu_browse_by_author": "Browse all by {{author}} ({{count}})",

@@ -12,6 +12,7 @@
     "ui_browse_modal_advertise_workshop_header": "In-App {{{Host}}} Browser",
     "ui_browse_list_source_workshop": "{{{Host}}}",
     "ui_browse_query_error": "A {{{PLATFORM}}} network error occurred, try again later: ",
+    "ui_browse_query_sort_last_updated": "Last Updated",
     "ui_browse_context_menu_workshop": "Open in {{{Host}}}",
     "ui_browse_report_modal_category_copyright_description": "Please use {{{PROVIDER}}}'s DMCA form to submit copyright violations, this will make sure it is dealt with in the legally correct manner.",
     "ui_welcome_finish_body": "Everything is configured!<br/><br/>Wallpaper Engine will now be available in your system tray. <b>Double click</b> to select a wallpaper or <b>right click</b> to access the settings, {{{Platform}}} {{{Host}}} or the Wallpaper Editor.<div style='height:20px'></div>",

@@ -17,6 +17,7 @@
     "ui_browse_list_source_workshop": "{{{Host}}}",
     "ui_browse_query_error": "A {{{PLATFORM}}} network error occurred, try again later: ",
     "ui_browse_query_sort_by_relevance": "Search Relevance",
+    "ui_browse_query_sort_last_updated": "Last Updated",
     "ui_browse_context_menu_workshop": "Open in {{{Host}}}",
     "ui_browse_context_menu_browse_by_author": "Browse all by {{author}} ({{count}})",
     "ui_browse_report_modal_category_copyright_description": "Please use {{{PROVIDER}}}'s DMCA form to submit copyright violations, this will make sure it is dealt with in the legally correct manner.",

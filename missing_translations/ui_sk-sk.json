@@ -20,6 +20,7 @@
     "ui_browse_open_url_hotkey_info": "To use your keyboard on the wallpaper, hide the icons with this hotkey first:",
     "ui_browse_properties_mouse_parallax": "<span class='fas fa-mouse-pointer propertyIcon'></span>Mouse parallax",
     "ui_browse_query_sort_by_relevance": "Search Relevance",
+    "ui_browse_query_sort_last_updated": "Last Updated",
     "ui_browse_explore_category_genre_popular_approved": "Popular <b>approved</b> wallpapers",
     "ui_browse_explore_category_genre_recent_approved": "Recent <b>approved</b> wallpapers",
     "ui_browse_explore_category_genre_new_approved": "New <b>approved</b> wallpapers",
