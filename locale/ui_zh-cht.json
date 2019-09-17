@@ -2,6 +2,7 @@
     "ui_caption_browse": "瀏覽桌布",
     "ui_caption_settings": "設定",
     "ui_caption_editor": "桌布編輯器",
+    
     "ui_ok": "確定",
     "ui_cancel": "取消",
     "ui_back": "返回",
@@ -9,14 +10,16 @@
     "ui_retry": "重試",
     "ui_select": "選取",
     "ui_create": "建立",
+
     "ui_modal_updaterequired_title": "需要更新 Wallpaper Engine",
-    "ui_modal_updaterequired_body": "請關閉 Wallpaper Engine（滑鼠右鍵按一下系統匣圖示，並選擇 [結束]），然後透過 {{{Platform}}} 重新啟動來接收最新的更新。如果此警告依然出現, 請透過 {{{Platform}}} 驗證應用程式的檔案。<br/><br/>應用程式版本: <b>{{callerVersion}}</b>，UI 版本: <b>{{appVersion}}</b>。",
+    "ui_modal_updaterequired_body": "請關閉 Wallpaper Engine（滑鼠右鍵按一下系統匣圖示，並選擇 [結束]），然後透過 {{{Platform}}} 重新啟動來接收最新的更新。如果此警告依然出現, 請透過 {{{Platform}}} 驗證應用程式的檔案。<br/><br/>應用程式版本: <b>{{callerVersion}}</b>，使用者介面版本: <b>{{appVersion}}</b>。",
     "ui_modal_updateavailable_title": "有可用的更新",
     "ui_modal_updateavailable_body_distro": "{{{Platform}}} 已下載 Wallpaper Engine 的更新（版本 <b>{{distroVersion}}</b>）。您要現在重新啟動 Wallpaper Engine 以套用更新嗎?",
 	"ui_modal_installationpath_error_title": "錯誤的安裝路徑",
     "ui_modal_installationpath_error_body": "Wallpaper Engine 的程式檔案在安裝後似乎被移動過。這會破壞自動啟動功能並導致一連串的問題。<br/><br/>Wallpaper Engine 當前執行於 <b>{{runPath}}</b> 但 {{{Platform}}} 已經將 Wallpaper Engine 安裝於 <b>{{steamPath}}</b>。要繼續使用自動啟動需要修改為正確的 {{{Platform}}} 安裝路徑，否則這條訊息將會繼續出現。<br/><br/>現在就修復嗎？",
     "ui_modal_installationpath_fix_auto_start": "修復自動啟動",
     "ui_modal_installationpath_disable_auto_start": "停用自動啟動",
+
     "ui_browse_monitor": "顯示器",
     "ui_browse_split": "分割",
     "ui_browse_choose_monitor": "（選擇顯示器）",
@@ -52,6 +55,8 @@
 	"ui_browse_preset_filter_notice": "正在瀏覽{{title}}的預設",
     "ui_browse_steam_offline_notice": "<b>{{{PLATFORM}}} 工作坊</b>伺服器已<b>離線</b>。您正在瀏覽一份來自{{date}}的緊急備份。請等待幾小時讓 <b>{{{PLATFORM}}}（{{{PROVIDER}}}）</b> 修復 <b>{{{PLATFORM}}} 工作坊</b> 伺服器。",
     "ui_browse_author_filter_notice": "正在瀏覽{{author}}的桌布",
+    "ui_browse_offline_error": "{{{PLATFORM}}} 伺服器已離線。請等待 {{{PROVIDER}}} 修復 {{{PLATFORM}}}。",
+
     "ui_browse_details_title": "標題：",
     "ui_browse_details_author": "作者：",
     "ui_browse_details_author_pending": "＜尚無資料＞",
@@ -88,10 +93,12 @@
     "ui_browse_details_properties_apply_to_all_restore_defaults": "恢復預設設定",
     "ui_browse_details_header_presets": "您的預設",
     "ui_browse_details_header_workshop": "工作坊預設",
+
     "ui_browse_footer_btn_workshop": "{{{Platform}}} 工作坊",
     "ui_browse_footer_btn_open_from_file": "從檔案開啟",
     "ui_browse_footer_btn_open_from_url": "從連結開啟",
     "ui_browse_footer_btn_wallpaper_editor": "桌布編輯器",
+
     "ui_browse_monitors_choose_monitor": "選擇顯示器",
     "ui_browse_monitors_layout": "配置",
     "ui_browse_monitors_profile": "設定檔",
@@ -125,12 +132,14 @@
     "ui_browse_monitors_clone": "複製",
     "ui_browse_monitors_save_profile": "儲存設定檔",
     "ui_browse_monitors_load_profile": "載入設定檔",
+
     "ui_browse_sort_name": "名稱",
     "ui_browse_sort_rating": "評價",
     "ui_browse_sort_favorite": "最愛",
     "ui_browse_sort_filesize": "檔案大小",
     "ui_browse_sort_subscription_date": "訂閱日期",
     "ui_browse_sort_last_updated": "最近更新",
+
     "ui_browse_search_placeholder": "搜尋",
 	"ui_browse_filter_category_wallpaper": "桌布",
     "ui_browse_filter_category_preset": "預設",
@@ -143,6 +152,7 @@
     "ui_browse_filter_source_official": "官方",
     "ui_browse_filter_source_workshop": "工作坊",
     "ui_browse_filter_source_my_wallpapers": "我的桌布",
+
     "ui_browse_modal_application_warning_header": "正在開啟未知的應用程式",
     "ui_browse_modal_application_warning_body": "您正要將外部應用程式開啟為桌布使用：<br/><b>{{filepath}}</b><br/>Wallpaper Engine 無法控制此檔案，在繼續之前，請務必先確認該檔案之來源可靠。",
     "ui_browse_modal_application_warning_timer": "<br/><br/>請稍待 {{time}} 秒。",
@@ -161,6 +171,7 @@
     "ui_browse_modal_advertise_workshop_header": "應用程式內桌布瀏覽器",
     "ui_browse_modal_advertise_workshop_body": "使用左側的篩選器選項即可更輕易地找到您想要的內容，而不用在 {{{Platform}}} 上直接搜尋。<br/><br/>按一下<b>已核准</b> <span class='fas fa-trophy browseWallpaperApproved'></span> 以瀏覽精選桌布。若您正在尋找品質較高的作品，請瀏覽「最受歡迎」或「最高評分」之內容。",
     "ui_browse_modal_advertise_workshop_footer": "您對哪些內容類型感興趣？",
+
     "ui_browse_properties_scheme_color": "配置顏色",
     "ui_browse_properties_playback_rate": "<span class='fas fa-play propertyIcon'></span>播放速度",
     "ui_browse_properties_volume": "<span class='fas fa-volume-up propertyIcon'></span>音量",
@@ -172,6 +183,7 @@
     "ui_browse_properties_alignment_stretch": "延展",
     "ui_browse_properties_alignment_position": "<span class='fas fa-arrows-alt-h propertyIcon'></span>位置",
     "ui_browse_properties_mouse_parallax": "<span class='fas fa-mouse-pointer propertyIcon'></span>滑鼠視差",
+
     "ui_browse_playlist_header": "播放清單",
     "ui_browse_playlist_modal_open_header": "開啟播放清單",
     "ui_browse_playlist_modal_open_delete": "刪除",
@@ -196,10 +208,12 @@
     "ui_browse_playlist_modal_settings_daytime_clock": "時制",
     "ui_browse_playlist_modal_settings_clock_12": "12 小時制",
     "ui_browse_playlist_modal_settings_clock_24": "24 小時制",
+
     "ui_browse_profiles_modal_open_header": "載入設定檔",
     "ui_browse_profiles_modal_save_header": "儲存設定檔",
     "ui_browse_profiles_modal_save_name": "名稱",
     "ui_browse_profiles_modal_save_description": "若有相同名稱的設定檔存在，該設定檔將會被覆寫。",
+
     "ui_browse_preset_modal_save_header": "儲存預設",
     "ui_browse_preset_modal_open_header": "載入預設",
     "ui_browse_preset_modal_share_header": "分享預設",
@@ -210,15 +224,18 @@
     "ui_browse_preset_modal_paste": "貼上",
     "ui_browse_preset_modal_show_all": "顯示全部",
 	"ui_browse_preset_modal_empty": "您還沒有為此桌布儲存任何預設。",
+
     "ui_browse_list_source_installed": "已安裝",
     "ui_browse_list_source_workshop": "工作坊",
     "ui_browse_list_source_explore": "探索",
+
     "ui_browse_modal_no_steam_title": "{{{Platform}}} 錯誤",
     "ui_browse_modal_no_steam_body": "{{{Sdk}}} 無法初始化。請嘗試重新啟動 {{{Platform}}}，然後重新啟動 Wallpaper Engine。如果您依然看到此錯誤訊息，代表 {{{Platform}}} 伺服器無法正確驗證您的電腦，請檢查您的網際網路連線，並確認您是否已登入正確的 {{{Platform}}} 帳戶。<br/><br/>請勿以管理員身份啟動 {{{Platform}}}，這會導致 {{{Sdk}}} 無法連線至 {{{Platform}}}。防毒軟體或安全性軟體亦可能導致 {{{Platform}}} 和 Wallpaper Engine 無法共同運作，請嘗試關閉此類軟體。",
     "ui_browse_query_error": "{{{PLATFORM}}} 網路發生錯誤，請稍後再試：",
     "ui_browse_modal_safe_mode_header": "安全模式",
     "ui_browse_modal_safe_mode_body": "程式似乎沒有正常關閉。最近使用的桌布以及外掛程式尚未載入，以防止同樣的問題再發生。<br/><br/>按一下 [確認] 以將它們復原，或者先 [取消] 以對它們進行變更。",
     "ui_browse_use_safe_mode": "使用安全模式",
+
     "ui_browse_query_sort_by_votes": "最高評分",
     "ui_browse_query_sort_by_date": "最新",
     "ui_browse_query_sort_by_trend_today": "最受歡迎（今天）",
@@ -229,10 +246,12 @@
     "ui_browse_query_sort_voted_up": "已投票給正評",
     "ui_browse_query_sort_friends_favorites": "好友的最愛",
     "ui_browse_query_sort_friends_created": "好友的作品",
-    "ui_browse_query_sort_by_followed_users": "正在追蹤之使用者的作品",
+    "ui_browse_query_sort_by_followed_users": "追蹤中使用者的作品",
     "ui_browse_query_sort_most_up_votes": "最多正評",
     "ui_browse_query_sort_most_subscriptions": "最多人訂閱",
 	"ui_browse_query_sort_by_relevance": "最高關聯性",
+    "ui_browse_query_sort_last_updated": "最近更新",
+
     "ui_browse_explore_home": "首頁",
     "ui_browse_explore_favorites": "最愛",
     "ui_browse_explore_disliked": "不喜歡",
@@ -276,12 +295,14 @@
     "ui_browse_explore_tooltip_dislike": "不喜歡",
     "ui_browse_explore_tooltip_remove": "移除",
     "ui_browse_explore_prompt_to_vote": "請在此投票，協助我們找出您喜愛的桌面背景！",
+
     "ui_browse_age_gate_modal_header": "年齡驗證",
     "ui_browse_age_gate_modal_body": "請輸入您的生日以繼續：",
-    "ui_browse_age_gate_modal_sub": "此資料僅供認證使用，將不會留存、上傳或分享。",
+    "ui_browse_age_gate_modal_sub": "此資料僅供驗證使用，將不會留存、上傳或分享。",
     "ui_browse_age_gate_modal_day": "日",
     "ui_browse_age_gate_modal_month": "月",
     "ui_browse_age_gate_modal_year": "年",
+
     "ui_browse_context_menu_add_to_playlist": "新增至播放清單",
     "ui_browse_context_menu_remove_from_playlist": "自播放清單移除",
     "ui_browse_context_menu_workshop": "在工作坊中開啟",
@@ -309,6 +330,7 @@
     "ui_browse_context_menu_assign_hotkey": "指派快速鍵",
     "ui_browse_context_menu_remove_hotkey": "移除快速鍵",
 	"ui_browse_context_menu_browse_by_author": "瀏覽所有{{author}}的桌布（{{count}}）",
+
     "ui_browse_report_modal_header": "檢舉桌布：",
     "ui_browse_report_modal_submit": "傳送檢舉",
     "ui_browse_report_modal_category_label": "檢舉原因",
@@ -321,7 +343,7 @@
     "ui_browse_report_modal_rating_current": "目前分級",
     "ui_browse_report_modal_rating_label": "建議分級",
     "ui_browse_report_modal_category_copyright": "違反著作權",
-    "ui_browse_report_modal_category_copyright_description": "請使用 {{{Provider}}} 的 DMCA 表單提交版權違規問題，這將確保該問題能獲得合法的妥善處置。",
+    "ui_browse_report_modal_category_copyright_description": "請使用 {{{PROVIDER}}} 的 DMCA 表單提交版權違規問題，這將確保該問題能獲得合法的妥善處置。",
     "ui_browse_report_modal_copyright_dispute": "提出 DMCA 爭議",
     "ui_browse_report_modal_category_spam": "濫發",
     "ui_browse_report_modal_category_spam_description": "您正在針對此桌布提出該作者濫發的檢舉。",
@@ -333,19 +355,23 @@
     "ui_browse_report_modal_success": "檢舉成功發送！",
     "ui_browse_report_modal_error": "無法發送檢舉。伺服器可能離線、無法連線或正在進行維護。請稍後再試。",
     "ui_browse_report_modal_error_401": "無法發送檢舉。您的 {{{Platform}}} 遊戲票證似乎已過期。請嘗試重新啟動 {{{Platform}}} 和桌布瀏覽器以取得新票證。",
+
     "ui_browse_modal_folder_create_title": "建立資料夾",
     "ui_browse_modal_folder_remove_title": "移除資料夾「{{title}}」",
     "ui_browse_modal_folder_remove_body": "您是否確定要移除此資料夾?",
     "ui_browse_modal_folder_remove_unsubscribe_and_remove_items": "取消訂閱或移除資料夾內的桌布",
+
     "ui_browse_navigation_top": "頂端",
     "ui_browse_download_header": "{{{Platform}}} 下載",
     "ui_browse_download_pending": "待處理",
     "ui_browse_download_waiting": "正在等待 {{{Platform}}}",
-    "ui_browse_download_missing_files": "找不到檔案。請在 Stream 中驗證程式。",
+    "ui_browse_download_missing_files": "找不到檔案。請在 {{{Platform}}} 中驗證程式。",
+
     "ui_browse_modal_hotkey_assign_wallpaper": "將快速鍵指派至桌布 {{name}}",
     "ui_browse_modal_hotkey_assign_playlist": "將快速鍵指派至播放清單 {{name}}",
     "ui_browse_modal_hotkey_assign_profile": "將快速鍵指派至設定檔 {{name}}",
     "ui_browse_modal_hotkey_enter_hotkey": "輸入快速鍵：",
+
     "ui_rating_table_suitable_for_everyone": "適合所有人",
     "ui_rating_table_partial_nudity_suggestive": "部分裸體/暗示性內容",
     "ui_rating_table_nudity_explicit": "裸體",
@@ -353,7 +379,8 @@
     "ui_rating_table_hardcore_sexual_acts": "性行為",
     "ui_rating_table_excessive_gore": "極度血腥內容",
     "ui_rating_table_header_photographic": "攝影/現實生活",
-    "ui_rating_table_header_cgi": "CGI/繪圖",
+    "ui_rating_table_header_cgi": "電腦成像/繪圖",
+
     "ui_settings_playback": "播放",
     "ui_settings_playback_focused": "其他應用程式以小視窗顯示時：",
     "ui_settings_playback_maximized": "其他應用程式視窗最大化顯示時：",
@@ -376,6 +403,7 @@
     "ui_settings_playback_condition_is_playing_audio": "播放音訊時",
     "ui_settings_playback_rule_remove": "移除",
     "ui_settings_playback_rule_edit": "編輯",
+
     "ui_settings_gfx_quality": "品質",
     "ui_settings_gfx_preset": "預設：",
     "ui_settings_gfx_preset_low": "低",
@@ -389,12 +417,13 @@
     "ui_settings_gfx_fps_warning": "高 FPS 可能會降低電腦的運作速度！",
 	"ui_settings_gfx_enabled": "啟用",
     "ui_settings_gfx_disabled": "停用",
+
     "ui_settings_performance": "效能",
     "ui_settings_general": "一般",
     "ui_settings_miscellaneous": "其他",
     "ui_settings_media": "媒體",
-    "ui_settings_ui_language": "UI 語言：",
-    "ui_settings_ui_skin": "UI 外觀：",
+    "ui_settings_ui_language": "使用者介面語言：",
+    "ui_settings_ui_skin": "使用者介面外觀：",
     "ui_settings_hotkeys": "快速鍵：",
     "ui_settings_hotkeys_header": "快速鍵",
     "ui_settings_hotkeys_group_playback": "播放",
@@ -418,7 +447,7 @@
     "ui_settings_hotkeys_prompt_enter_combination": "按下按鍵組合",
     "ui_settings_hotkeys_modal_prompt_override_header": "覆寫快速鍵",
     "ui_settings_hotkeys_modal_prompt_override_body": "此鍵已指派給「{{action}}」。您想要將它重新指派到這裡嗎？",
-	"ui_settings_hotkeys_example": "快速鍵必須包含 Ctrl、Shift或Alt。例如：<br/><br/>Shift + Ctrl + B<br/>Shift + F1<br/><br/>紅色邊框表示快速鍵無效。",
+	"ui_settings_hotkeys_example": "快速鍵必須包含 Ctrl、Shift 或 Alt。例如：<br/><br/>Shift + Ctrl + B<br/>Shift + F1<br/><br/>紅色邊框表示快速鍵無效。",
     "ui_settings_icon_opacity": "桌面圖示透明度：",
     "ui_settings_recording_volume": "錄製音量：",
 	"ui_settings_recording_threshold": "錄製閾值：",
@@ -451,6 +480,7 @@
     "ui_settings_plugins_status_loaded": "已載入",
     "ui_settings_plugins_status_not_loaded": "未載入",
     "ui_settings_plugins_options_modal_header": "{{name}} 選項",
+
     "ui_settings_no_devices": "找不到裝置",
     "ui_settings_skin_white": "亮色",
     "ui_settings_skin_dark": "暗色",
@@ -500,12 +530,15 @@
     "ui_settings_video_framework_prefer_directshow_lav": "偏好 DirectShow LAV",
     "ui_settings_use_safe_mode": "使用安全模式：",
     "ui_settings_disable_slideshow": "移除 Windows 桌布淡化：",
-    "ui_settings_ui_hardware_acceleration": "UI 硬體加速：",
+    "ui_settings_ui_hardware_acceleration": "使用者介面硬體加速：",
     "ui_settings_show_tray_icon": "顯示系統匣圖示：",
+
     "ui_settings_copyright": "保留一切權利。",
     "ui_settings_thirdparty": "第三方聲明",
+
     "ui_settings_highpriority_warning_header": "有關高優先順序",
     "ui_settings_highpriority_warning": "高優先順序模式會使用「Windows服務」，讓應用程式能更快開啟。但是，若使用此解決方案時出現問題，請嘗試取消高優先順序後再使用應用程式，如此它將會相對穩定，但速度會降低。",
+
     "ui_welcome_preferred_language": "偏好語言：",
     "ui_welcome_header": "歡迎使用 Wallpaper Engine",
     "ui_welcome_intro": "此簡短介紹將引導您開始使用本應用程式，並協助您進行幾項重要的選項設定。<br/><br/>您在這裡進行的所有調整也都能在日後於 Wallpaper Engine 的設定中進行變更！",
@@ -525,6 +558,7 @@
     "ui_welcome_button_first_page": "馬上開始",
     "ui_welcome_button_next_page": "下一步",
     "ui_welcome_button_last_page": "全部完成",
+
     "ui_editor_pane_header_camera": "相機",
     "ui_editor_pane_header_preview": "預覽",
     "ui_editor_pane_header_properties": "內容",
@@ -532,6 +566,7 @@
     "ui_editor_pane_header_log": "記錄",
     "ui_editor_pane_header_script_editor": "腳本編輯器",
     "ui_editor_pane_header_shader_editor": "著色編輯器",
+
     "ui_editor_filemenu_file": "檔案",
     "ui_editor_filemenu_new": "開新檔案",
     "ui_editor_filemenu_open": "開啟舊檔",
@@ -563,13 +598,18 @@
     "ui_editor_filemenu_prepare_for_publishing": "準備發佈",
     "ui_editor_filemenu_apply_wallpaper": "套用桌布",
     "ui_editor_filemenu_close_wallpaper": "關閉專案",
+
     "ui_editor_delete_project_modal_header": "確認刪除",
     "ui_editor_delete_project_modal_body": "您是否確定要刪除專案：<br/><b>{{title}}</b>?",
     "ui_editor_no_animation_modal_header": "非動畫桌布",
     "ui_editor_no_animation_modal_body": "您正在嘗試上傳非動畫的靜態風景桌布。<b>我們不建議您這樣做。</b><br/><br/>由於 Wallpaper Engine 僅針對動畫桌布進行最佳化，因此如果您只想使用靜態圖像，建議您使用作業系統內功能。<br/><br/>是否仍要繼續?",
+    "ui_editor_review_info_header": "檢查步驟",
+    "ui_editor_review_info_body": "在其他使用者可以找到並下載之前，你的桌布將會被檢查，以確保其不違反任何當地法律。</b></b>如果你更新了你的桌布，桌布必須被再次檢查並移到佇列最後。",
+
     "ui_editor_treeview_header_files": "已匯入的檔案",
     "ui_editor_tooltip_layers": "圖層",
     "ui_editor_tooltip_scene_options": "場景設定",
+
     "ui_editor_camera_add_path": "新增路徑",
     "ui_editor_camera_select_path": "請由左側選擇一個路徑",
     "ui_editor_camera_add_renderable": "新增預設",
@@ -577,6 +617,7 @@
     "ui_editor_gizmo_rotate": "旋轉",
     "ui_editor_gizmo_scale": "縮放",
     "ui_editor_gizmo_multi": "多顯示器",
+
     "ui_editor_welcome_modal_create_wallpaper": "建立桌布",
     "ui_editor_welcome_modal_drop_background_file": "將桌布檔置放於此",
     "ui_editor_welcome_modal_supported_file_types": "支援的檔案類型：",
@@ -602,16 +643,19 @@
     "ui_editor_welcome_modal_aspect": "外觀比例",
     "ui_editor_welcome_modal_title_new": "開新檔案",
     "ui_editor_welcome_modal_title_welcome": "歡迎",
+
     "ui_editor_importer_please_wait": "請稍候",
     "ui_editor_importer_compiling_assets_for": "正在為下列項目編譯資產：",
     "ui_editor_importer_compiling_file": "編譯檔案",
     "ui_editor_importer_gif_warning_header": "GIF 大小警告",
     "ui_editor_importer_gif_warning_body": "為了把您正在嘗試匯入的 GIF 轉換為可用格式，將會佔用大量記憶體。儘管 Wallpaper Engine 仍然可以嘗試轉換，但處理程序可能會因為一個錯誤而失敗。<br/><br/>GIF 格式通常不適用於高解析度圖像和大量影格，您應當考慮使用一個 .mp4 格式的視訊桌布以取得更好的表現。",
+
     "ui_editor_template_wizard_header": "範本精靈",
     "ui_editor_template_wizard_select_option": "選取選項",
     "ui_editor_template_wizard_details": "詳細資料",
     "ui_editor_template_wizard_last_import": "上次匯入：",
     "ui_editor_template_wizard_import_image": "匯入圖像",
+
     "ui_editor_publish_modal_header": "發佈到工作坊",
     "ui_editor_publish_modal_header_upload": "上傳到 {{{Platform}}}",
     "ui_editor_publish_modal_button_publish": "發佈",
@@ -629,6 +673,7 @@
     "ui_editor_publish_modal_progress_uploading_content": "提交工作坊項目，正在上傳內容……",
     "ui_editor_publish_modal_progress_uploading_preview": "提交工作坊項目，正在上傳預覽圖像……",
     "ui_editor_publish_modal_progress_final": "提交工作坊項目，正在認可變更……",
+
     "ui_editor_workshop_options_title": "標題",
     "ui_editor_workshop_options_description": "說明",
     "ui_editor_workshop_options_tags": "標籤",
@@ -651,8 +696,10 @@
     "ui_editor_workshop_modal_rating_header": "選擇一個分級",
     "ui_editor_workshop_modal_rating_body": "預覽圖像必須適合大眾。請參閱此表以選擇適當的內容分級。若有疑慮，請選擇較嚴格的級別選項。若提交非法內容或選擇過低的分級，可能導致內容被禁用，帳戶亦會被特別標幟。請注意，若桌布僅為自用，則無須提交。",
     "ui_editor_workshop_modal_rating_current": "目前分級：",
+
     "ui_editor_open_modal_header": "開啟桌布",
     "ui_editor_open_modal_delete": " 刪除",
+
     "ui_editor_context_menu_center": "置中",
     "ui_editor_context_menu_rotate_clockwise": "順時針旋轉",
     "ui_editor_context_menu_rotate_counterclockwise": "逆時針旋轉",
@@ -661,6 +708,7 @@
     "ui_editor_context_menu_duplicate": "複製",
     "ui_editor_context_menu_lock": "鎖定",
     "ui_editor_context_menu_unlock": "解除鎖定",
+
     "ui_editor_project_settings_modal_header": "專案設定",
     "ui_editor_project_settings_modal_header_general": "一般",
     "ui_editor_project_settings_modal_title": "標題",
@@ -673,6 +721,7 @@
     "ui_editor_project_settings_modal_skylight_color": "自然採光色彩",
     "ui_editor_project_settings_modal_resolution": "解析度",
     "ui_editor_project_settings_modal_name": "名稱",
+
     "ui_editor_user_properties_select_info": "選取一個有相容類型的內容（{{types}}）。",
     "ui_editor_user_properties_select_unused_warning": "此內容未被桌布使用。",
     "ui_editor_user_properties": "新增內容",
@@ -705,6 +754,7 @@
     "ui_editor_user_properties_condition_placeholder": "表示式：key == X",
     "ui_editor_user_properties_link": "連結",
     "ui_editor_user_properties_combo_value": "為此連結選擇下拉式方塊值：",
+
     "ui_editor_help_header": "說明",
     "ui_editor_help_tutorial_category_wiki": "Wiki 文件",
     "ui_editor_help_tutorial_category_beginner_title": "新手教學課程",
@@ -717,16 +767,21 @@
     "ui_editor_help_tutorial_item_wallpaper_web_based": "網頁式桌布",
     "ui_editor_help_tutorial_item_wallpaper_scene_3d": "3D 場景桌布",
     "ui_editor_help_tutorial_item_wallpaper_scene_2d": "2D 場景桌布",
+
     "ui_editor_help_tutorial_group_advanced_general": "一般",
     "ui_editor_help_tutorial_item_project_structure": "專案檔案與結構",
+
     "ui_editor_help_tutorial_group_advanced_web": "網頁功能",
     "ui_editor_help_tutorial_item_web_properties": "使用者自訂內容",
     "ui_editor_help_tutorial_item_web_audio": "音訊的視覺特效撥放器",
     "ui_editor_help_tutorial_item_web_images": "匯入使用者圖像",
     "ui_editor_help_tutorial_item_web_fps_limit": "使用者 FPS 限制",
+
     "ui_editor_help_tutorial_group_advanced_scene": "場景桌布",
     "ui_editor_help_tutorial_item_scene_shaders": "建立新的著色器",
+
     "ui_editor_snapshot_instructions": "1. 使用滑鼠框出區塊。\n2. 按 Enter 鍵來拍攝快照。\n\n按空格鍵以暫停。\n按 Esc鍵 以取消。",
+
     "ui_editor_workshop_rules_modal_title": "工作坊規則",
     "ui_editor_workshop_rules_modal_body": "在將您的桌布提交到工作坊之前，請先確認該桌布不違反 {{{Platform}}} 服務條款，否則，它將會遭到移除：",
     "ui_editor_workshop_rules_modal_list_header": "具體而言，桌布、預覽圖像以及說明文字必須符合以下規則：",
@@ -735,12 +790,15 @@
     "ui_editor_workshop_rules_modal_rule_copyright": "不得侵犯著作權",
     "ui_editor_workshop_rules_modal_rule_ads": "不得為廣告",
     "ui_editor_workshop_rules_modal_rule_misleading": "不得以預覽誤導",
+
     "ui_editor_toast_project_saved": "專案已儲存。",
     "ui_editor_toast_project_packed": "已封裝桌布無法開啟。",
+
     "ui_editor_workshop_tags_limit": "最多只能使用 3 個標籤",
     "ui_editor_workshop_tags_placeholder": "新增標籤",
     "ui_workshop_workshop_tags_rating": "年齡分級",
     "ui_workshop_workshop_tags_rating_not_set": "＜未設定＞",
+
     "ui_workshop_tags_abstract": "抽象",
     "ui_workshop_tags_animal": "動物",
     "ui_workshop_tags_anime": "動漫",
@@ -748,8 +806,8 @@
     "ui_workshop_tags_audio_responsive": "音訊回應式",
     "ui_workshop_tags_cartoon": "卡通",
     "ui_workshop_tags_customizable": "可自訂",
-    "ui_workshop_tags_cgi": "CGI",
-    "ui_workshop_tags_cyberpunk": "網路龐克",
+    "ui_workshop_tags_cgi": "電腦成像",
+    "ui_workshop_tags_cyberpunk": "賽博龐克",
     "ui_workshop_tags_fantasy": "幻想",
     "ui_workshop_tags_game": "遊戲",
     "ui_workshop_tags_girls": "女性",
@@ -770,13 +828,15 @@
     "ui_workshop_tags_television": "電視節目",
     "ui_workshop_tags_vehicle": "車輛",
     "ui_workshop_tags_unspecified": "未分類",
+
     "ui_workshop_tags_rating_everyone": "全年齡",
     "ui_workshop_tags_rating_questionable": "爭議性",
     "ui_workshop_tags_rating_mature": "成人",
     "ui_workshop_tags_rating_ban": "禁止",
     "ui_workshop_tags_visibility_public": "公開",
-    "ui_workshop_tags_visibility_friends_only": "僅限朋友",
+    "ui_workshop_tags_visibility_friends_only": "僅限好友",
     "ui_workshop_tags_visibility_private": "私人",
+
     "ui_editor_scene_options_bloom": "光暈",
     "ui_editor_scene_options_bloom_strength": "強度",
     "ui_editor_scene_options_bloom_threshold": "閾值",
@@ -794,9 +854,13 @@
     "ui_editor_scene_options_fov": "視野",
     "ui_editor_scene_options_nearz": "近面距離",
     "ui_editor_scene_options_farz": "遠面距離",
+
     "ui_editor_import_adjust_projection_center": "調整桌布大小並置中",
+
     "ui_editor_effects_modal_imagelayer_name": "圖像圖層",
     "ui_editor_effects_modal_imagelayer_description": "由電腦匯入圖像",
+    "ui_editor_effects_modal_textlayer_name": "文字圖層",
+    "ui_editor_effects_modal_textlayer_description": "放置文字在桌布上。",
     "ui_editor_effects_modal_fullscreenlayer_name": "全螢幕圖層",
     "ui_editor_effects_modal_fullscreenlayer_description": "新增一個半透明圖層覆蓋整個螢幕。套用至此圖層的任何效果，都將會影響所有螢幕上使用該圖層之前已存在的物件。",
     "ui_editor_effects_modal_solidlayer_name": "色塊圖層",
@@ -821,6 +885,7 @@
     "ui_editor_effects_modal_compatibility_warning_header": "不同的效果版本",
     "ui_editor_effects_modal_compatibility_warning_body": "您正要匯入的效果比用於此專案的版本更高。這可能會導致此效果的所有實體被重設，而且您將會失去它們的設定。<br/><br/>這是不可逆的，而且您會失去舊的設定。您可能會想在進行前儲存一個專案備份。<br/><br/>您想要繼續嗎？",
     "ui_editor_effects_modal_compatibility_warning_skip_upgrade": "跳過升級繼續",
+
     "ui_editor_effect_blend_title": "混合",
     "ui_editor_effect_blend_description": "運用多種混合模式將兩個圖像或圖像圖層混合。",
     "ui_editor_effect_blur_title": "模糊",
@@ -879,6 +944,7 @@
     "ui_editor_effect_xray_description": "根據游標位置混合兩個影像。",
     "ui_editor_effect_shine_title": "閃光",
     "ui_editor_effect_shine_description": "針對不同邊緣數量的影像亮部套用閃光效果。",
+
     "ui_editor_preset_variant_small": "小型",
     "ui_editor_preset_variant_large": "大型",
     "ui_editor_preset_fern_title": "蕨類",
@@ -915,6 +981,7 @@
     "ui_editor_preset_interactive_description": "受游標影響的互動式粒子。",
     "ui_editor_preset_abstract_title": "抽象",
     "ui_editor_preset_abstract_description": "一般粒子效果。",
+
     "ui_editor_paint_overlay_value": "值",
     "ui_editor_paint_overlay_color": "顏色",
     "ui_editor_paint_overlay_size": "大小",
@@ -926,6 +993,7 @@
     "ui_editor_paint_overlay_brush_tooltip_pinch": "捏合",
     "ui_editor_paint_overlay_brush_tooltip_spread": "擴張",
     "ui_editor_paint_overlay_brush_tooltip_spin": "旋轉",
+
     "ui_editor_stats_title": "每影格統計值",
     "ui_editor_stats_draw_calls": "繪製呼叫：",
     "ui_editor_stats_primitives": "已繪製的基本型別：",
@@ -936,6 +1004,7 @@
     "ui_editor_stats_particle_memory": "粒子記憶體（MB）：",
     "ui_editor_stats_particle_simulation_time": "粒子模擬時間（ms）：",
     "ui_editor_stats_script_execution_time": "腳本執行時間（ms）：",
+
     "ui_editor_script_run": "執行",
     "ui_editor_script_run_scripts": "執行腳本",
     "ui_editor_script_stop": "停止",
@@ -964,8 +1033,9 @@
     "ui_editor_script_snippet_click_play_sound": "點按播放聲音",
     "ui_editor_script_snippet_cursor_follow": "跟隨游標",
     "ui_editor_script_snippet_cursor_avoid": "避開游標",
-    "ui_editor_script_snippet_audio_scale": "音訊規模",
-    "ui_editor_script_snippet_audio_factor": "音訊因素",
+    "ui_editor_script_snippet_audio_scale": "音訊大小",
+    "ui_editor_script_snippet_audio_factor": "音訊係數",
+
     "ui_editor_properties_accumulation_rate": "累積速率",
     "ui_editor_properties_additive": "疊加",
     "ui_editor_properties_albedo": "反照率",
@@ -981,6 +1051,7 @@
     "ui_editor_properties_audio_response": "音訊回應",
     "ui_editor_properties_axis": "軸",
     "ui_editor_properties_background": "背景",
+    "ui_editor_properties_background_color": "背景顏色",
     "ui_editor_properties_blend_in_end": "混入結束",
     "ui_editor_properties_blend_in_start": "混入開始",
     "ui_editor_properties_blend_mode": "混合模式",
@@ -1049,6 +1120,7 @@
     "ui_editor_properties_flatten": "平面化",
     "ui_editor_properties_flow_map": "流動地圖",
     "ui_editor_properties_flow_phase": "流動相位",
+    "ui_editor_properties_font": "字型",
     "ui_editor_properties_force": "力度",
     "ui_editor_properties_format": "格式",
     "ui_editor_properties_forward": "朝向",
@@ -1112,12 +1184,14 @@
     "ui_editor_properties_offset": "位移",
     "ui_editor_properties_opacity": "不透明度",
     "ui_editor_properties_opacity_mask": "不透明度遮罩",
+    "ui_editor_properties_opaque_background": "不透明背景",
     "ui_editor_properties_operator_blending": "運算子混合",
     "ui_editor_properties_orientation": "方向配置",
     "ui_editor_properties_origin": "原點",
     "ui_editor_properties_outline_background": "輪廓背景",
     "ui_editor_properties_outline_color": "輪廓顏色",
     "ui_editor_properties_overbright": "過亮",
+    "ui_editor_properties_padding": "填滿",
     "ui_editor_properties_paint": "繪製",
     "ui_editor_properties_parallax_depth": "視差深度",
     "ui_editor_properties_particle": "粒子",
@@ -1134,9 +1208,11 @@
     "ui_editor_properties_playback_rate": "播放速度",
     "ui_editor_properties_point_filter": "點濾鏡",
     "ui_editor_properties_point_light": "點亮光",
+    "ui_editor_properties_point_size": "點大小",
     "ui_editor_properties_position": "位置",
     "ui_editor_properties_power": "電源",
     "ui_editor_properties_probability": "可能性",
+    "ui_editor_properties_proportional_size": "比例大小",
     "ui_editor_properties_pulse_alpha": "脈衝 Alpha",
     "ui_editor_properties_pulse_amount": "脈衝量",
     "ui_editor_properties_pulse_bounds": "脈衝界線",
@@ -1166,6 +1242,7 @@
     "ui_editor_properties_scale_max": "規模最大值",
     "ui_editor_properties_scale_min": "規模最小值",
     "ui_editor_properties_screen": "螢幕",
+    "ui_editor_properties_screen_anchor": "螢幕錨",
     "ui_editor_properties_scroll_direction": "捲動方向",
     "ui_editor_properties_scroll_speed": "捲動速度",
     "ui_editor_properties_segments": "區段",
@@ -1202,6 +1279,10 @@
     "ui_editor_properties_strength": "強度",
     "ui_editor_properties_subdivision": "細分",
     "ui_editor_properties_system": "系統",
+    "ui_editor_properties_text": "文字",
+    "ui_editor_properties_text_horizontal_alignment": "水平排列",
+    "ui_editor_properties_text_layer": "文字圖層",
+    "ui_editor_properties_text_vertical_alignment": "垂直排列",
     "ui_editor_properties_texture": "紋理",
     "ui_editor_properties_texture_path_undefined": "未設定",
     "ui_editor_properties_texture_unnamed": "＜未命名＞",
@@ -1224,6 +1305,7 @@
     "ui_editor_properties_width": "寬度",
     "ui_editor_properties_worldspace": "世界座標",
     "ui_editor_properties_write_alpha": "寫入 Alpha",
+
     "ui_editor_properties_context_menu_bind_user_property": "連結使用者內容",
     "ui_editor_properties_context_menu_unbind_user_property": "取消連結使用者內容",
     "ui_editor_properties_context_menu_edit_user_property": "編輯使用者內容",
@@ -1231,6 +1313,7 @@
     "ui_editor_properties_context_menu_unbind_script": "取消連結腳本",
     "ui_editor_properties_context_menu_edit_script": "編輯腳本",
     "ui_editor_properties_context_menu_restore_default_value": "復原為預設值",
+
     "ui_editor_particle_editor": "粒子編輯器",
     "ui_editor_particle_selected": "選取：",
     "ui_editor_particle_delete_particle_header": "刪除粒子",
@@ -1249,6 +1332,7 @@
     "ui_editor_particle_add_element_renderer_body": "選取一個控制粒子顯示方式的轉譯器。",
     "ui_editor_particle_add_element_children_header": "新增子粒子系統",
     "ui_editor_particle_add_element_children_body": "選取一現有的粒子系統作為子粒子系統。",
+
     "ui_editor_particle_element_group_general": "一般",
     "ui_editor_particle_element_group_renderers": "轉譯器",
     "ui_editor_particle_element_group_emitters": "發射器",
@@ -1256,6 +1340,7 @@
     "ui_editor_particle_element_group_operators": "運算子",
     "ui_editor_particle_element_group_children": "子粒子系統",
     "ui_editor_particle_element_group_control_points": "控制點",
+
     "ui_editor_particle_element_emitter_boxrandom": "隨機矩形",
     "ui_editor_particle_element_emitter_sphererandom": "隨機球體",
     "ui_editor_particle_element_initializer_alpharandom": "隨機 Alpha",
@@ -1284,6 +1369,7 @@
     "ui_editor_particle_element_renderer_ropetrail": "繩索軌跡",
     "ui_editor_particle_element_renderer_sprite": "元件",
     "ui_editor_particle_element_renderer_spritetrail": "元件軌跡",
+
     "ui_editor_particle_example_basic": "基本",
     "ui_editor_particle_example_cursor_follow": "跟隨游標",
     "ui_editor_particle_example_cursor_avoid": "避開游標",
