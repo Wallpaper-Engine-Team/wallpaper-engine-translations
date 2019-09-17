@@ -1,6 +1,6 @@
 {
     "core_tray_change_wallpaper": "Promijeni Pozadinu",
-    "core_tray_browse_workshop": "Pretraži Workshop",
+    "core_tray_browse_workshop": "Pretraži {{{Host}}}",
     "core_tray_create_wallpaper": "Napravi Pozadinu",
     "core_tray_settings": "Postavke",
     "core_tray_take_screenshot": "Uzmi Screenshot",
@@ -26,6 +26,6 @@
     "core_msgbox_aero_failure_no_support": "Neuspjeh u uključenju Aeroa. Čini se da koristite Starter ili Basic verziju Windows 7 , koja ne podržava Aero i ne ispunjuje minimalne potrebe sistema . Wallpaper Engine će se zatvoriti.",
     "core_msgbox_init_secondinstance_ask_quit": "Wallpaper Engine se čini da radi ali ne reagira .\n\nŽelite li ga ponovno pokrenuti prisilno?",
     "core_msgbox_init_secondinstance_failed": "Neuspjeh u ponovnom pokretanju, Kod greške:",
-    "core_msgbox_below_win_7": "Wallpaper Engine zahtjeva Windows 7 ili više, kao što i piše na Steamu.\n\nČini se da koristite nepodržanu verziju Windowsa i moguće je da Wallpaper Engine prestane raditi.",
+    "core_msgbox_below_win_7": "Wallpaper Engine zahtjeva Windows 7 ili više, kao što i piše na {{{Platform}}}u.\n\nČini se da koristite nepodržanu verziju Windowsa i moguće je da Wallpaper Engine prestane raditi.",
     "core_msgbox_media_feature_pack_missing": "mfplat.dll nedostaje!\nNajvjerovatnije imate Windows N. Molim vas instalirajte Media Feature Pack od Microsofta da uključite video podršku! (Google: Media Feature Pack Windows 10/8.1/7)\n\n"
 }

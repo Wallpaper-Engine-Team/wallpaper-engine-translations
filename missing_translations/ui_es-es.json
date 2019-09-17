@@ -1,5 +1,6 @@
 {
     "ui_browse_offline_error": "{{{PLATFORM}}} servers are OFFLINE. Please wait for {{{PROVIDER}}} to fix {{{PLATFORM}}}.",
+    "ui_browse_query_error": "A {{{PLATFORM}}} network error occurred, try again later: ",
     "ui_browse_query_sort_last_updated": "Last Updated",
     "ui_browse_report_modal_category_copyright_description": "Please use {{{PROVIDER}}}'s DMCA form to submit copyright violations, this will make sure it is dealt with in the legally correct manner.",
     "ui_editor_review_info_header": "Review Process",

@@ -19,7 +19,7 @@
     "core_balloon_desktop_window_error": "动态壁纸的桌面准备过程失败。",
     "core_balloon_video_error": "Windows 视频出现错误 {{err}}。点此获取帮助。",
     "core_balloon_app_error": "将应用程序加载为壁纸失败。",
-    "core_balloon_pkg_version_error": "无法打开此壁纸，需要更新版本的 Wallpaper Engine 才能打开。试着通过 Steam 安装最新版 Wallpaper Engine。",
+    "core_balloon_pkg_version_error": "无法打开此壁纸，需要更新版本的 Wallpaper Engine 才能打开。试着通过 {{{Platform}}} 安装最新版 Wallpaper Engine。",
     "core_balloon_wallpaper_file_missing": "由于缺失文件，无法打开这个壁纸。",
     "core_msgboxtitle_error": "错误",
     "core_msgboxtitle_app_conflict": "应用程序冲突",

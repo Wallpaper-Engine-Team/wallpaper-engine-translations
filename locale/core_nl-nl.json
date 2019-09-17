@@ -1,6 +1,6 @@
 {
     "core_tray_change_wallpaper": "Verander de Achtergrond",
-    "core_tray_browse_workshop": "Bekijk de Steam Workshop",
+    "core_tray_browse_workshop": "Bekijk de {{{Platform}}} {{{Host}}}",
     "core_tray_create_wallpaper": "Creëer een Achtergrond",
     "core_tray_settings": "Instellingen",
     "core_tray_take_screenshot": "Neem een screenshot",
@@ -19,7 +19,7 @@
     "core_balloon_desktop_window_error": "Het voorbereiden van het bureaublad op het tonen van bewegende achtergronden is mislukt.",
     "core_balloon_video_error": "Windows video error: {{err}}. klik hier voor help.",
     "core_balloon_app_error": "Het laden van de applicatie als achtergrond is mislukt",
-    "core_balloon_pkg_version_error": "Deze achtergrond kan niet worden geopend omdat het een nieuwere versie gebruikt. Probeer Wallpaper Engine te updaten met Steam.",
+    "core_balloon_pkg_version_error": "Deze achtergrond kan niet worden geopend omdat het een nieuwere versie gebruikt. Probeer Wallpaper Engine te updaten met {{{Platform}}}.",
     "core_balloon_wallpaper_file_missing": "Deze achtergrond kan niet worden geopend, omdat het zijn bestanden mist.",
     "core_msgboxtitle_error": "Foutmelding",
     "core_msgboxtitle_app_conflict": "Conflicterende Applicatie",

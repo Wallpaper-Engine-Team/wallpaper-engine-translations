@@ -1,6 +1,6 @@
 {
     "core_tray_change_wallpaper": "Zmeniť pozadie",
-    "core_tray_browse_workshop": "Prehliadať Workshop",
+    "core_tray_browse_workshop": "Prehliadať {{{Host}}}",
     "core_tray_create_wallpaper": "Vytvoriť pozadie",
     "core_tray_settings": "Nastavenia",
     "core_tray_take_screenshot": "Spraviť screenshot",
@@ -19,7 +19,7 @@
     "core_balloon_desktop_window_error": "Nepodarilo sa pripraviť plochu na živé pozadie.",
     "core_balloon_video_error": "Vyskytol sa error videa {{err}}. Klikni na mna pre pomoc.",
     "core_balloon_app_error": "Nepodarilo sa načítať aplikáciu ako pozadie.",
-    "core_balloon_pkg_version_error": "Toto pozadie nemohlo byť orvorené pretože používa novšiu verziu. Skúste aktualizovať Wallpaper Engine cez Steam.",
+    "core_balloon_pkg_version_error": "Toto pozadie nemohlo byť orvorené pretože používa novšiu verziu. Skúste aktualizovať Wallpaper Engine cez {{{Platform}}}.",
     "core_balloon_wallpaper_file_missing": "Toto pozadie nemôže byť otvorené, pretože mu chýbajú súbory.",
     "core_msgboxtitle_error": "Chyba",
     "core_msgboxtitle_app_conflict": "Konfliktujúca aplikácia",

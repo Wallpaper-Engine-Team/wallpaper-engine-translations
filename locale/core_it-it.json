@@ -19,7 +19,7 @@
     "core_balloon_desktop_window_error": "Impossibile preparare il desktop per lo sfondo live.",
     "core_balloon_video_error": "Errore video Windows {{err}}. Fai clic qui per assistenza (in inglese).",
     "core_balloon_app_error": "Impossibile caricare l'applicazione come sfondo.",
-    "core_balloon_pkg_version_error": "Non è possibile aprire questo sfondo in quanto è necessaria una versione più recente di Wallpaper Engine. Provare a installare la versione più recente tramite Steam.",
+    "core_balloon_pkg_version_error": "Non è possibile aprire questo sfondo in quanto è necessaria una versione più recente di Wallpaper Engine. Provare a installare la versione più recente tramite {{{Platform}}}.",
     "core_balloon_wallpaper_file_missing": "Impossibile aprire lo sfondo. File mancanti.",
     "core_msgboxtitle_error": "Errore",
     "core_msgboxtitle_app_conflict": "Applicazione in conflitto",

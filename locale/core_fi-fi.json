@@ -1,6 +1,6 @@
 {
     "core_tray_change_wallpaper": "Vaihda taustakuvaa",
-    "core_tray_browse_workshop": "Selaa Workshopia",
+    "core_tray_browse_workshop": "Selaa {{{Host}}}ia",
     "core_tray_create_wallpaper": "Tee taustakuva",
     "core_tray_settings": "Asetukset",
     "core_tray_take_screenshot": "Ota kuvankaappaus",

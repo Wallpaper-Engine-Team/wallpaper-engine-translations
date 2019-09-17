@@ -26,7 +26,7 @@
     "core_msgbox_aero_failure_no_support": "Помилка включити Aero. Схоже, що Ви використовуєте Початкову або Базову версію Windows 7, яка не підтримує Aero і не виконує мінімальні вимоги до системи. Wallpaper Engine will now quit.",
     "core_msgbox_init_secondinstance_ask_quit": "Wallpaper Engine не відповідає.\n\nХоче перезапустити його вручну?",
     "core_msgbox_init_secondinstance_failed": "Перезавантаження не вдалося, код помилки:",
-    "core_msgbox_below_win_7": "Wallpaper Engine вимагає Windows 7 або вище, як зазначено вимогам в Steam.\n\nСхоже, що ви працюєте непідтримуваною версією of Windows і Wallpaper Engine може не працювати.",
+    "core_msgbox_below_win_7": "Wallpaper Engine вимагає Windows 7 або вище, як зазначено вимогам в {{{Platform}}}.\n\nСхоже, що ви працюєте непідтримуваною версією of Windows і Wallpaper Engine може не працювати.",
     "core_msgbox_media_feature_pack_missing": "mfplat.dll не найдено!\nВи можливо користуєтесь Windows N. Будь-ласка установіть Media Feature Pack, що б включити підтримку відео ! (Google: Media Feature Pack Windows 10/8.1/7)\n\n",
     "core_updater_headline_init": "Йде налаштування Wallpaper Engine...",
     "core_updater_headline_update": "Обновлення Wallpaper Engine до {{version}}...",

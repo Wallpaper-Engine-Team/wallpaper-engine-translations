@@ -17,7 +17,7 @@
     "core_balloon_desktop_window_error": "Nem sikerült előkészíteni az asztalt az élő háttérképhez.",
     "core_balloon_video_error": "A következő videó hiba történt: {{err}}. Kattints ide további segítségért.",
     "core_balloon_app_error": "Nem sikerült betölteni az alkalmazást háttérképként.",
-    "core_balloon_pkg_version_error": "Ezt a hátteret nem sikerült megnyitni, mert az alkalmazás egy újabb verziójában készült el. Próbáld meg frissíteni az alkalmazást a Steamen keresztül.",
+    "core_balloon_pkg_version_error": "Ezt a hátteret nem sikerült megnyitni, mert az alkalmazás egy újabb verziójában készült el. Próbáld meg frissíteni az alkalmazást a {{{Platform}}}en keresztül.",
     "core_balloon_wallpaper_file_missing": "Ezt a hátteret nem sikerült megnyitni, mert néhány hozzá kapcsolódó fájl hiányzik.",
     "core_msgboxtitle_error": "Hiba",
     "core_msgboxtitle_app_conflict": "Ütköző alkalmazás",

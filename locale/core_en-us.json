@@ -1,6 +1,6 @@
 {
 	"core_tray_change_wallpaper" : "Change Wallpaper",
-	"core_tray_browse_workshop" : "Browse Workshop",
+	"core_tray_browse_workshop" : "Browse {{{Host}}}",
 	"core_tray_create_wallpaper" : "Create Wallpaper",
 	"core_tray_settings" : "Settings",
 	"core_tray_take_screenshot" : "Take Screenshot",
@@ -20,7 +20,7 @@
 	"core_balloon_desktop_window_error" : "Failed preparing desktop for live wallpaper.",
 	"core_balloon_video_error" : "Windows video error occurred {{err}}. Click me for help.",
 	"core_balloon_app_error" : "Failed loading application as wallpaper.",
-	"core_balloon_pkg_version_error" : "This wallpaper requires a newer version of Wallpaper Engine. Please update Wallpaper Engine to the latest version on Steam.",
+	"core_balloon_pkg_version_error" : "This wallpaper requires a newer version of Wallpaper Engine. Please update Wallpaper Engine to the latest version on {{{Platform}}}.",
 	"core_balloon_wallpaper_file_missing" : "This wallpaper cannot be opened because it is missing its files.",
 
 	"core_msgboxtitle_error" : "Error",
@@ -67,7 +67,7 @@
 	"core_updater_status_verify_hash_failed" : "Failed verifying file: {{filepath}}",
 	"core_updater_status_verify_success" : "Verified file: {{filepath}}",
 	"core_updater_status_verify_failed_message_box_title" : "File Verification Errors",
-	"core_updater_status_verify_failed_message_box_body" : "It looks like some files for Wallpaper Engine could not be installed. This can happen due to download errors in Steam or anti-virus programs falsely detecting files and causing problems. If you have an anti-virus besides Windows Defender, make sure that it does not interfere with Steam and Wallpaper Engine.\n\nMake sure the application is closed while updating (close through tray icon or Task Manager if necessary) and no anti-virus is preventing your computer from working correctly.\n\nIf your anti-virus deleted files of Wallpaper Engine, you need to restore them and whitelist the path of Wallpaper Engine so the anti-virus stops deleting random files.",
+	"core_updater_status_verify_failed_message_box_body" : "It looks like some files for Wallpaper Engine could not be installed. This can happen due to download errors in {{{Platform}}} or anti-virus programs falsely detecting files and causing problems. If you have an anti-virus besides Windows Defender, make sure that it does not interfere with {{{Platform}}} and Wallpaper Engine.\n\nMake sure the application is closed while updating (close through tray icon or Task Manager if necessary) and no anti-virus is preventing your computer from working correctly.\n\nIf your anti-virus deleted files of Wallpaper Engine, you need to restore them and whitelist the path of Wallpaper Engine so the anti-virus stops deleting random files.",
 	"core_updater_status_compat" : "Looking for incompatible applications...",
 	"core_updater_status_compat_error" : "Failed to scan processes",
 	"core_updater_status_compat_found" : "Found an incompatible process: {{processname}}",
