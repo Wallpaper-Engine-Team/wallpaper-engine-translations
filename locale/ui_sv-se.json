@@ -1283,7 +1283,7 @@
     "ui_editor_properties_text" : "Text",
     "ui_editor_properties_text_horizontal_alignment" : "Horisontal justering",
     "ui_editor_properties_text_layer" : "Textlager",
-    "ui_editor_properties_text_vertical_alignment" : "Vertikal justering"
+    "ui_editor_properties_text_vertical_alignment" : "Vertikal justering",
     "ui_editor_properties_texture_path_undefined" : "Inte angiven",
     "ui_editor_properties_texture_unnamed" : "< Namnlös >",
     "ui_editor_properties_textures" : "Texturer",
