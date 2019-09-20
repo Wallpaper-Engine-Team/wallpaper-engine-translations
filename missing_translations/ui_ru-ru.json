@@ -1,6 +1,6 @@
 {
     "ui_browse_steam_offline_notice": "Сервера <b>{{{PLATFORM}}} {{{Host}}}</b> <b>ОФФЛАЙН</b>. Вы просматриваете резервную копию от {{date}}. Пожалуйста, подождите несколько часов, пока <b>{{{PLATFORM}}} ({{{PROVIDER}}})</b> исправляет сервера <b>{{{PLATFORM}}} {{{Host}}}</b>.",
-    "ui_browse_report_modal_category_copyright_description": "Please use {{{PROVIDER}}}'s DMCA form to submit copyright violations, this will make sure it is dealt with in the legally correct manner.",
+    "ui_browse_report_modal_category_copyright_description": "Пожалуйста, используйте форму DMCA {{{PROVIDER}}}, чтобы зафиксировать нарушение авторских прав, это позволит убедиться, что оно рассматривается в законном порядке.",
     "ui_editor_preset_text_title": "Персонализированный текст",
     "ui_editor_preset_text_description": "Вставьте динамический текст в вашу сцену, чтобы пользователи позже могли его настроить.",
     "ui_editor_preset_text_variant_greeting": "Приветствие",
