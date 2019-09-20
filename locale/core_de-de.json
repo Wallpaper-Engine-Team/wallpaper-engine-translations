@@ -36,6 +36,7 @@
     "core_msgbox_init_secondinstance_failed": "Neustart fehlgeschlagen, Fehlercode:",
     "core_msgbox_below_win_7": "Wallpaper Engine benötigt Windows 7 oder neuer, es handelt sich um eine minimale Systemvoraussetzung.\n\nEs scheint, als würdest du eine nicht unterstütze Version von Windows verwenden, Wallpaper Engine funktioniert möglicherweise nicht korrekt.",
     "core_msgbox_media_feature_pack_missing": "mfplat.dll nicht vorhanden!\nWahrscheinlich verwendest du Windows N. Bitte installiere das Media Feature Pack von Microsoft um die Unterstützung von Video-Inhalten zu ermöglichen! (Google: Media Feature Pack Windows 10 / 8.1 / 7)\n\nWenn diese Fehlermeldung weiterhin erscheint, wurde das korrekte Paket nicht installiert.",
+    "core_msgbox_ui_file_not_found": "Die Anwendungsdateien können nicht geöffnet werden.\n\nEntweder enthält der Pfad zum Programm ungültige Zeichen oder der Installationspfad enthält nicht alle benötigten Dateien oder das Programm wird von einem Antivirus-Programm fälschlicherweise blockiert.\n\nVersuche Wallpaper Engine im selben Verzeichnis wie Steam zu installieren oder erstelle ein Steam-Verzeichnis mit einem einfachen Namen.",
     "core_updater_headline_init": "Richte Wallpaper Engine ein...",
     "core_updater_headline_update": "Aktualisiere Wallpaper Engine auf Version {{version}}...",
     "core_updater_headline_init_complete": "Einrichten von Version {{version}} abgeschlossen. Starte Wallpaper Engine...",
