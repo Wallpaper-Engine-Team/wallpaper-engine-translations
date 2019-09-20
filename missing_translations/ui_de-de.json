@@ -1,6 +1,4 @@
 {
-    "ui_browse_steam_offline_notice": "<b>{{{PLATFORM}}} {{{Host}}}</b> servers are <b>OFFLINE</b>. You are browsing an emergency backup from {{date}}. Please wait a few hours for the company of <b>{{{PLATFORM}}} ({{{PROVIDER}}})</b> to fix the <b>{{{PLATFORM}}} {{{Host}}}</b> servers again.",
-    "ui_browse_report_modal_category_copyright_description": "Please use {{{PROVIDER}}}'s DMCA form to submit copyright violations, this will make sure it is dealt with in the legally correct manner.",
     "ui_editor_preset_text_title": "Personalized Text",
     "ui_editor_preset_text_description": "Insert dynamic text into your scene that users can customize later.",
     "ui_editor_preset_text_variant_greeting": "Greeting",

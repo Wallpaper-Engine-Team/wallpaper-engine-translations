@@ -1197,7 +1197,7 @@
     "ui_editor_user_properties_type_color": "Colore",
     "ui_editor_user_properties_type_bool": "Casella di controllo",
     "ui_editor_user_properties_type_combo": "Combo",
-    "ui_editor_user_properties_type_text": "Testo",
+    "ui_editor_user_properties_type_textinput": "Testo",
     "ui_editor_user_properties_type_file": "File",
     "ui_editor_user_properties_value": "Valore Predifinito",
     "ui_editor_user_properties_fraction": "Frazione",

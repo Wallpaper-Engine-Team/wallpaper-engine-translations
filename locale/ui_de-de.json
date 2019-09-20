@@ -689,7 +689,7 @@
     "ui_editor_user_properties_type_slider": "Slider",
     "ui_editor_user_properties_type_bool": "Ankreuzfeld",
     "ui_editor_user_properties_type_combo": "Kombo",
-    "ui_editor_user_properties_type_text": "Text",
+    "ui_editor_user_properties_type_textinput": "Text",
     "ui_editor_user_properties_type_directory": "Pfad",
     "ui_editor_user_properties_type_file": "Datei",
     "ui_editor_user_properties_value": "Standardwert",

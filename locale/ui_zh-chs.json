@@ -1198,7 +1198,7 @@
     "ui_editor_user_properties_type_slider": "滑块",
     "ui_editor_user_properties_type_bool": "复选框",
     "ui_editor_user_properties_type_combo": "组合框",
-    "ui_editor_user_properties_type_text": "文本框",
+    "ui_editor_user_properties_type_textinput": "文本框",
     "ui_editor_user_properties_type_directory": "目录",
     "ui_editor_user_properties_type_file": "文件",
     "ui_editor_user_properties_value": "默认值",

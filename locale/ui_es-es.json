@@ -689,7 +689,7 @@
     "ui_editor_user_properties_type_slider": "Deslizador",
     "ui_editor_user_properties_type_bool": "Checkbox",
     "ui_editor_user_properties_type_combo": "Combo",
-    "ui_editor_user_properties_type_text": "Texto",
+    "ui_editor_user_properties_type_textinput": "Texto",
     "ui_editor_user_properties_type_directory": "Directorio",
     "ui_editor_user_properties_type_file": "Archivo",
     "ui_editor_user_properties_value": "Valor por Defecto",

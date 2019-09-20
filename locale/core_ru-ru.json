@@ -1,6 +1,6 @@
 {
     "core_tray_change_wallpaper": "Сменить обои",
-    "core_tray_browse_workshop": "Открыть Мастерскую",
+    "core_tray_browse_workshop": "Просмотр {{{Host}}}",
     "core_tray_create_wallpaper": "Создать обои",
     "core_tray_settings": "Настройки",
     "core_tray_take_screenshot": "Сделать скриншот",

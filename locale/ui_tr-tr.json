@@ -685,7 +685,7 @@
     "ui_editor_user_properties_type_slider": "Kayan Yazı",
     "ui_editor_user_properties_type_bool": "Onay Kutusu",
     "ui_editor_user_properties_type_combo": "Kombo",
-    "ui_editor_user_properties_type_text": "Metin",
+    "ui_editor_user_properties_type_textinput": "Metin",
     "ui_editor_user_properties_type_directory": "Dizin",
     "ui_editor_user_properties_type_file": "Dosya",
     "ui_editor_user_properties_value": "Varsayılan Değer",

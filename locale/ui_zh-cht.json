@@ -734,7 +734,7 @@
     "ui_editor_user_properties_type_slider": "滑桿",
     "ui_editor_user_properties_type_bool": "核取方塊",
     "ui_editor_user_properties_type_combo": "下拉式方塊",
-    "ui_editor_user_properties_type_text": "文字",
+    "ui_editor_user_properties_type_textinput": "文字",
     "ui_editor_user_properties_type_directory": "目錄",
     "ui_editor_user_properties_type_file": "檔案",
     "ui_editor_user_properties_value": "預設值",

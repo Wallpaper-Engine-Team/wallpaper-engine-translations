@@ -685,7 +685,7 @@
     "ui_editor_user_properties_type_slider": "Slider",
     "ui_editor_user_properties_type_bool": "Checkbox",
     "ui_editor_user_properties_type_combo": "Combo",
-    "ui_editor_user_properties_type_text": "Texte",
+    "ui_editor_user_properties_type_textinput": "Texte",
     "ui_editor_user_properties_type_directory": "Dossier",
     "ui_editor_user_properties_type_file": "Fichier",
     "ui_editor_user_properties_value": "Valeur par défaut",

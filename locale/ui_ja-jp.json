@@ -685,7 +685,7 @@
     "ui_editor_user_properties_type_slider": "スライダー",
     "ui_editor_user_properties_type_bool": "チェックボックス",
     "ui_editor_user_properties_type_combo": "コンボ",
-    "ui_editor_user_properties_type_text": "テキスト",
+    "ui_editor_user_properties_type_textinput": "テキスト",
     "ui_editor_user_properties_type_directory": "ディレクトリ",
     "ui_editor_user_properties_type_file": "ファイル",
     "ui_editor_user_properties_value": "基本値",

@@ -668,7 +668,7 @@
     "ui_editor_user_properties_type_slider": "슬라이더",
     "ui_editor_user_properties_type_bool": "체크박스",
     "ui_editor_user_properties_type_combo": "콤보",
-    "ui_editor_user_properties_type_text": "텍스트",
+    "ui_editor_user_properties_type_textinput": "텍스트",
     "ui_editor_user_properties_type_directory": "경로",
     "ui_editor_user_properties_type_file": "파일",
     "ui_editor_user_properties_value": "기본 값",

@@ -728,7 +728,7 @@
 	"ui_editor_user_properties_type_slider" : "Ολισθητήρας",
 	"ui_editor_user_properties_type_bool" : "Πλαίσιο ελέγχου",
 	"ui_editor_user_properties_type_combo" : "Συνδυασμός",
-	"ui_editor_user_properties_type_text" : "Κείμενο",
+	"ui_editor_user_properties_type_textinput" : "Κείμενο",
 	"ui_editor_user_properties_type_directory" : "Ευρετήριο",
 	"ui_editor_user_properties_type_file" : "Αρχείο",
 	"ui_editor_user_properties_value" : "Προεπιλεγμένη τιμή",
