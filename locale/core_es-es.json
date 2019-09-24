@@ -36,6 +36,7 @@
     "core_msgbox_init_secondinstance_failed": "Error al reiniciar, código de error:",
     "core_msgbox_below_win_7": "Wallpaper Engine requiere de Windows 7 o superior.\n\nParece que estás ejecutando una versión no compatible con Windows. Wallpaper Engine podría no funcionar.",
     "core_msgbox_media_feature_pack_missing": "Falta mfplat.dll.\nPosiblemente tienes Windows N. Instala Media Feature Pack de Microsoft para activar la compatibilidad con vídeo. (Google: Media Feature Pack Windows 10/8.1/7)\n\n",
+    "core_msgbox_ui_file_not_found": "Los archivos de programa no se pueden abrir.\n\nEsto puede ser porque que tengas caracteres inválidos en la ruta de instalación, el archivo falte o que el programa este siendo bloqueado por un antivirus.\n\nPrueba a instalar Wallpaper Engine en el mismo directorio que {{{Platform}}} o crear una biblioteca de {{{Platform}}} con caracteres simples.",
     "core_updater_headline_init": "Preparando Wallpaper Engine...",
     "core_updater_headline_update": "Actualizando Wallpaper Engine a la versión {{version}}...",
     "core_updater_headline_init_complete": "La configuración de la versión {{version}} se ha completado. Iniciando Wallpaper Engine...",
