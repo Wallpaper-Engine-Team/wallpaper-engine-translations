@@ -7,7 +7,7 @@
     "core_balloon_wallpaper_file_missing": "This wallpaper cannot be opened because it is missing its files.",
     "core_msgbox_prompt_high_contrast_was_enabled": "Windows has just applied a 'high contrast' theme which does not allow Wallpaper Engine to work.",
     "core_msgbox_aero_failure": "Failed to enable Aero.\n\nIt looks like Windows is preventing Aero from being enabled, unfortunately it is an important requirement and Wallpaper Engine cannot work without it.\n\nTry to enable Aero in the Windows theme options directly and start Wallpaper Engine again.",
-    "core_msgbox_ui_file_not_found": "The program files cannot be opened.\n\nYou might have invalid characters in the installation path, the file might be missing or the program might be blocked by an anti-virus.\n\nTry installing Wallpaper Engine in the same directory as Steam or create a Steam library with simple characters.",
+    "core_msgbox_ui_file_not_found": "The program files cannot be opened.\n\nYou might have invalid characters in the installation path, the file might be missing or the program might be blocked by an anti-virus.\n\nTry installing Wallpaper Engine in the same directory as {{{Platform}}} or create a {{{Platform}}} library with simple characters.",
     "core_updater_headline_init": "Setting up Wallpaper Engine...",
     "core_updater_headline_update": "Updating Wallpaper Engine to version {{version}}...",
     "core_updater_headline_init_complete": "Completed setup of version {{version}}. Starting Wallpaper Engine...",
