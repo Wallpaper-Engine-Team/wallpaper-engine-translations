@@ -36,6 +36,7 @@
     "core_msgbox_init_secondinstance_failed": "再起動に失敗しました。 エラーコード:",
     "core_msgbox_below_win_7": "Wallpaper Engineは、{{{Platform}}}のシステム要件に示されているようにWindows 7以上が必要です。\n\nサポートされていないバージョンのWindowsおよびWallpaper Engineが動作しているようです。",
     "core_msgbox_media_feature_pack_missing": "mfplat.dllが見つかりませんでした。\nおそらくWindows N Editionを実行中です。ビデオをサポートするためには、MicrosoftからMedia Feature Packをインストールしてください!(Googleで'Media Feature Pack 10/8.1/7'と検索してください。)\n\nこのエラーが表示される場合、パックが正しくインストールされていません。",
+    "core_msgbox_ui_file_not_found": "プログラムファイルを開くことができませんでした。\n\nインストール先に使用できない文字が含まれているか、ファイルが見つかりません。またはアンチウィルスによってプログラムがブロックされています。\n\nSteamと同じインストール先にWallpaper Engineをインストールしてください。または使用できない文字を含まないようにしてSteamライブラリを作成してください。",
     "core_updater_headline_init": "Wallpaper Engineを起動中しています...",
     "core_updater_headline_update": "Wallpaper Engineを更新中です... {{version}}",
     "core_updater_headline_init_complete": "{{version}} のセットアップが完了しました。 Wallpaper Engineを起動しています...",
