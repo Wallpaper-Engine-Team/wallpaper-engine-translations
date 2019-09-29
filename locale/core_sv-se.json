@@ -39,7 +39,8 @@
     "core_msgbox_init_secondinstance_failed" : "Omstart misslyckades, felkod:",
     "core_msgbox_below_win_7" : "Wallpaper Engine kräver Windows 7 eller nyare, det är ett systemkrav.\n\nDet ser ut som att du använder en version av Windows som inte stöds och Wallpaper Engine kanske inte fungerar.",
     "core_msgbox_media_feature_pack_missing" : "mfplat.dll saknas!\nDu har förmodligen Windows N. Installera Media Feature Pack av Microsoft för att aktivera stöd för video! (Googla: Media Feature Pack Windows 10/8.1/7)\n\nOm du fortsätter att se detta fel har du ännu inte installerat rätt paket.",
-    
+    "core_msgbox_ui_file_not_found" : "Programfilerna kan inte öppnas.\n\nInstallationssökvägen kanske innehåller ogiltiga tecken, filen kanske saknas eller programmet kanske blockeras av ett antivirusprogram.\n\nFörsök att installera Wallpaper Engine i samma filkatalog som {{{Platform}}} eller skapa ett {{{Platform}}}-bibliotek med enkla tecken.",
+
     "core_updater_headline_init" : "Konfigurerar Wallpaper Engine...",
     "core_updater_headline_update" : "Uppdaterar Wallpaper Engine till version {{version}}...",
     "core_updater_headline_init_complete" : "Slutförde konfigurationen av version {{version}}. Startar Wallpaper Engine...",
