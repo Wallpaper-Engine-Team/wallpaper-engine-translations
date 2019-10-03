@@ -1,3 +1,3 @@
 {
-    "core_msgbox_ui_file_not_found": "The program files cannot be opened.\n\nYou might have invalid characters in the installation path, the file might be missing or the program might be blocked by an anti-virus.\n\nTry installing Wallpaper Engine in the same directory as {{{Platform}}} or create a {{{Platform}}} library with simple characters."
+    "core_msgbox_ui_file_not_found": "Les fichiers de programme ne peuvent pas être ouverts.\n\nIl se peut que tu aies des caractères invalides dans le patch d'installation, que le fichier soit manquant ou que le programme soit bloqué par ton anti-virus.\n\nEssaie d'installer Wallapaper Engine dans le même répertoire que {{{Platform}}} ou crée une librairie {{{Platform}}} avec des carractères simples."
 }
