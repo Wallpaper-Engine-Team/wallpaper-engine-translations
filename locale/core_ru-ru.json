@@ -36,6 +36,7 @@
     "core_msgbox_init_secondinstance_failed": "Ошибка перезапуска, код ошибки:",
     "core_msgbox_below_win_7": "Для корректной работы Wallpaper Engine требуется Windows 7 или выше.\n\nПохоже, что вы используете устаревшую версию Windows. Wallpaper Engine может работать некорректно.",
     "core_msgbox_media_feature_pack_missing": "mfplat.dll отсутствует!\nВозможно вы используете Windows N. Пожалуйста, установите Media Feature Pack от Microsoft, чтобы включить поддержку видео! (Google: Media Feature Pack Windows 10/8.1/7)\n\n",
+    "core_msgbox_ui_file_not_found": "Файлы программы не могут быть открыты.\n\nПуть установки может содержать недопустимые символы, файл может отсутствовать или программа может быть заблокирована антивирусом.\n\nПопробуйте установить Wallpaper Engine в том же каталоге, что и {{{Platform}}} или создайте библиотеку {{{Platform}}} с простыми символами.",
     "core_updater_headline_init": "Настройка Wallpaper Engine...",
     "core_updater_headline_update": "Обновление Wallpaper Engine до версии {{version}}...",
     "core_updater_headline_init_complete": "Завершена установка версии {{version}}. Запуск Wallpaper Engine...",

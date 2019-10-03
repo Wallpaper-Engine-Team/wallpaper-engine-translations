@@ -1,3 +1,0 @@
-{
-    "core_msgbox_ui_file_not_found": "The program files cannot be opened.\n\nYou might have invalid characters in the installation path, the file might be missing or the program might be blocked by an anti-virus.\n\nTry installing Wallpaper Engine in the same directory as {{{Platform}}} or create a {{{Platform}}} library with simple characters."
-}
