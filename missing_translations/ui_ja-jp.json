@@ -1,6 +1,0 @@
-{
-    "ui_browse_no_service_body_use_backup": "<br/><br/>Wallpaper Engine will now try to show an emergency backup until the company of <b>{{{PLATFORM}}} ({{{PROVIDER}}})</b> has sorted out their issues.",
-    "ui_browse_modal_advertise_workshop_body": "Use the filter options on the left side to more easily find what you are looking for rather than searching on {{{Platform}}} directly.<br/><br/>Click on <b>Approved</b> <span class='fas fa-trophy browseWallpaperApproved'></span> to browse hand-picked wallpapers. Browse the 'most popular' or 'top rated' content if you are looking for high quality submissions.",
-    "ui_browse_query_error": "A {{{PLATFORM}}} network error occurred, try again later: ",
-    "ui_editor_publish_modal_steam_error": "A {{{PLATFORM}}} error occurred: "
-}
