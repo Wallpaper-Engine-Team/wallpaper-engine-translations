@@ -1,4 +1,5 @@
 {
+    "ui_alert_connect_steam": "<b>No first-time connection to {{{Platform}}} could be made</b></br>Make sure {{{Platform}}} is running and that you are logged into the correct {{{Platform}}} account. If you need more help resolving this {{{Platform}}} issue, check our FAQ: <a href='{{{var_url_faqsteam}}}'>Fix {{{Platform}}} Connection</a>.</br></br><i>A message only to software pirates:</i> If you are seeing this notice because you do not own Wallpaper Engine, please consider supporting our work. We have priced Wallpaper Engine very reasonably so that everyone can afford it. We have poured thousands of hours of work into this application and by buying Wallpaper Engine, you support its continued development, always receive the latest updates, help to pay for server costs and are able to download wallpapers via {{{Platform}}} with ease: <a href='{{{var_url_store}}}'>Click here to buy Wallpaper Engine</a>",
     "ui_browse_advertise_explore": "Click here to discover new wallpapers from the {{{Host}}}!",
     "ui_browse_advertise_workshop": "Click here to search the {{{Host}}} in detail!",
     "ui_browse_no_service_body": "The <b>{{{PLATFORM}}} {{{Host}}}</b> services are currently not available. This is <i>not</i> an error in Wallpaper Engine. Please wait a few hours and try again.<br/><br/>The problem is with the <b>{{{PLATFORM}}}</b> servers and will be resolved soon.",
@@ -10,6 +11,7 @@
     "ui_browse_filter_source_workshop": "{{{Host}}}",
     "ui_browse_modal_advertise_workshop_header": "In-App {{{Host}}} Browser",
     "ui_browse_list_source_workshop": "{{{Host}}}",
+    "ui_browse_modal_no_steam_body": "{{{Sdk}}} could not be initialized. Please try to restart {{{Platform}}} and afterwards Wallpaper Engine. If you continue seeing this error, this means that your PC cannot correctly authenticate with the {{{Platform}}} servers, check your internet connection and whether you are logged into the correct {{{Platform}}} account.<br/><br/>Do not launch {{{Platform}}} as administrator, that prevents {{{Sdk}}} from connecting to {{{Platform}}}. An anti-virus or security software could be preventing {{{Platform}}} and Wallpaper Engine from working together as well, try turning that off.</br></br>Check the FAQ to get more help if needed: <a href='{{{var_url_faqsteam}}}'>Fix {{{Platform}}} Connection</a>",
     "ui_browse_context_menu_workshop": "Open in {{{Host}}}",
     "ui_browse_report_modal_category_copyright_description": "Please use {{{PROVIDER}}}'s DMCA form to submit copyright violations, this will make sure it is dealt with in the legally correct manner.",
     "ui_welcome_finish_body": "Everything is configured!<br/><br/>Wallpaper Engine will now be available in your system tray. <b>Double click</b> to select a wallpaper or <b>right click</b> to access the settings, {{{Platform}}} {{{Host}}} or the Wallpaper Editor.<div style='height:20px'></div>",
@@ -27,5 +29,10 @@
     "ui_editor_publish_modal_progress_uploading_preview": "Submitting {{{Host}}} item, uploading preview image...",
     "ui_editor_publish_modal_progress_final": "Submitting {{{Host}}} item, committing changes...",
     "ui_editor_workshop_rules_modal_title": "{{{Host}}} Rules",
-    "ui_editor_workshop_rules_modal_body": "Before submitting your wallpaper to {{{Host}}}, make sure that it does not violate the {{{Platform}}} Terms of Service, otherwise it will be removed:"
+    "ui_editor_workshop_rules_modal_body": "Before submitting your wallpaper to {{{Host}}}, make sure that it does not violate the {{{Platform}}} Terms of Service, otherwise it will be removed:",
+    "ui_editor_properties_blend": "Blend",
+    "ui_editor_properties_composite": "Composite",
+    "ui_editor_properties_cutout": "Cutout",
+    "ui_editor_properties_monochrome": "Monochrome",
+    "ui_editor_properties_under": "Under"
 }
