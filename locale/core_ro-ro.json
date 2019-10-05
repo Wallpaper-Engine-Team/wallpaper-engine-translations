@@ -7,6 +7,8 @@
     "core_tray_pause": "Pauză",
     "core_tray_unpause": "Oprește pauza",
     "core_tray_recent_wallpapers": "Imagini de fundal recente",
+    "core_tray_saved_playlists": "Playlist-uri salvate",
+    "core_tray_saved_profiles": "Profile Salvate",
     "core_tray_quit": "Ieși",
     "core_tray_faq": "Suport, întrebări și răspunsuri",
     "core_tray_recent_wallpapers_clear": "Golește lista",
@@ -32,6 +34,7 @@
     "core_updater_headline_update": "Wallpaper Engine se actualizează la versiunea {{version}}...",
     "core_updater_headline_init_complete": "Setarea versiunii {{version}} completă. Wallpaper Engine pornește...",
     "core_updater_headline_update_complete": "Actualizarea la versiunea {{version}} este completă. Wallpaper Engine pornește...",
+    "core_updater_headline_cancelled": "Setup anulat.",
     "core_updater_status_init": "Se pregătește instalarea...",
     "core_updater_status_closing_processes": "Se închid procesele...",
     "core_updater_status_closing_processes_error": "Descoperirea proceselor existente a eșuat",
@@ -60,5 +63,8 @@
     "core_updater_status_compat_message_box_body_item_update": "{{name}}: actualizează la versiunea {{version}}",
     "core_updater_status_complete": "Instalare completată cu succes",
     "core_updater_status_complete_errors": "Instalare completată cu erori",
-    "core_updater_status_complete_starting": "Wallpaper Engine pornește..."
+    "core_updater_status_complete_starting": "Wallpaper Engine pornește...",
+    "core_updater_status_cancelled": "Procesul a fost anulat de către utilizator",
+    "core_updater_status_corrupted_system_module_message_box_title": "Fișierul de sistem lipsește sau este stricat",
+    "core_updater_status_directx_not_supported_title": "DirectX 10 nu este suportat"
 }
