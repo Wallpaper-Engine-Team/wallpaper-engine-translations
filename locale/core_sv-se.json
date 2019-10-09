@@ -1,6 +1,6 @@
 {
     "core_tray_change_wallpaper" : "Ändra bakgrund",
-    "core_tray_browse_workshop" : "Bläddra i {{{Host}}}",
+    "core_tray_browse_workshop" : "Bläddra i [[[Host]]]",
     "core_tray_create_wallpaper" : "Skapa bakgrund",
     "core_tray_settings" : "Inställningar",
     "core_tray_take_screenshot" : "Ta skärmbild",
@@ -20,7 +20,7 @@
     "core_balloon_desktop_window_error" : "Fel uppstod när skrivbord förbereddes för en levande bakgrund.",
     "core_balloon_video_error" : "Ett videofel i Windows uppstod {{err}}. Klicka på mig för hjälp.",
     "core_balloon_app_error" : "Fel uppstod när programmet lästes in som bakgrund.",
-    "core_balloon_pkg_version_error" : "Denna bakgrund kräver en nyare version av Wallpaper Engine. Uppdatera Wallpaper Engine till den senaste versionen på {{{Platform}}}.",
+    "core_balloon_pkg_version_error" : "Denna bakgrund kräver en nyare version av Wallpaper Engine. Uppdatera Wallpaper Engine till den senaste versionen på [[[Platform]]].",
     "core_balloon_wallpaper_file_missing" : "Denna bakgrund kan inte öppnas eftersom den saknar sina filer.",
     
     "core_msgboxtitle_error" : "Fel",
@@ -39,7 +39,7 @@
     "core_msgbox_init_secondinstance_failed" : "Omstart misslyckades, felkod:",
     "core_msgbox_below_win_7" : "Wallpaper Engine kräver Windows 7 eller nyare, det är ett systemkrav.\n\nDet ser ut som att du använder en version av Windows som inte stöds och Wallpaper Engine kanske inte fungerar.",
     "core_msgbox_media_feature_pack_missing" : "mfplat.dll saknas!\nDu har förmodligen Windows N. Installera Media Feature Pack av Microsoft för att aktivera stöd för video! (Googla: Media Feature Pack Windows 10/8.1/7)\n\nOm du fortsätter att se detta fel har du ännu inte installerat rätt paket.",
-    "core_msgbox_ui_file_not_found" : "Programfilerna kan inte öppnas.\n\nInstallationssökvägen kanske innehåller ogiltiga tecken, filen kanske saknas eller programmet kanske blockeras av ett antivirusprogram.\n\nFörsök att installera Wallpaper Engine i samma filkatalog som {{{Platform}}} eller skapa ett {{{Platform}}}-bibliotek med enkla tecken.",
+    "core_msgbox_ui_file_not_found" : "Programfilerna kan inte öppnas.\n\nInstallationssökvägen kanske innehåller ogiltiga tecken, filen kanske saknas eller programmet kanske blockeras av ett antivirusprogram.\n\nFörsök att installera Wallpaper Engine i samma filkatalog som [[[Platform]]] eller skapa ett [[[Platform]]]-bibliotek med enkla tecken.",
 
     "core_updater_headline_init" : "Konfigurerar Wallpaper Engine...",
     "core_updater_headline_update" : "Uppdaterar Wallpaper Engine till version {{version}}...",
@@ -68,7 +68,7 @@
     "core_updater_status_verify_hash_failed" : "Misslyckades att verifiera fil: {{filepath}}",
     "core_updater_status_verify_success" : "Verifierade fil: {{filepath}}",
     "core_updater_status_verify_failed_message_box_title" : "Fel uppstod när fil verifierades",
-    "core_updater_status_verify_failed_message_box_body" : "Det verkar som att några filer för Wallpaper Engine inte kunde installeras. Detta kan kända p.g.a. nedladdningsfel i {{{Platform}}} eller ett antivirusprogram som felaktigt identifierar filer och orsakar problem. Om du har ett antivirusprogram förutom Windows Defender, se till att det inte stör {{{Platform}}} och Wallpaper Engine.\n\nSe till att programmet är stängt när du uppdaterar (stäng via ikonen i meddelandefältet eller aktivitetshanteraren om det behövs) och att inga antivirusprogram förhindrar din dator från att arbeta ordentligt.\n\nOm ditt antivirusprogram raderade Wallpaper Engines filer måste du återställa dem och lägga till sökvägen som leder till Wallpaper Engine i vitlistan så att antivirusprogrammet slutar radera slumpartade filer.",
+    "core_updater_status_verify_failed_message_box_body" : "Det verkar som att några filer för Wallpaper Engine inte kunde installeras. Detta kan kända p.g.a. nedladdningsfel i [[[Platform]]] eller ett antivirusprogram som felaktigt identifierar filer och orsakar problem. Om du har ett antivirusprogram förutom Windows Defender, se till att det inte stör [[[Platform]]] och Wallpaper Engine.\n\nSe till att programmet är stängt när du uppdaterar (stäng via ikonen i meddelandefältet eller aktivitetshanteraren om det behövs) och att inga antivirusprogram förhindrar din dator från att arbeta ordentligt.\n\nOm ditt antivirusprogram raderade Wallpaper Engines filer måste du återställa dem och lägga till sökvägen som leder till Wallpaper Engine i vitlistan så att antivirusprogrammet slutar radera slumpartade filer.",
     "core_updater_status_compat" : "Letar efter inkompatibla program...",
     "core_updater_status_compat_error" : "Misslyckades att söka igenom processer",
     "core_updater_status_compat_found" : "Hittade en inkompatibel process: {{processname}}",
