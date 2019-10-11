@@ -80,6 +80,20 @@ class LanguageFile extends AbstractFile implements LanguageFileInterface
                 }
             }
         }
+        if (preg_match_all('/\[\[\[(.*?)\]\]\]/', $baseString, $baseVariables)) {
+            preg_match_all('/\[\[\[(.*?)\]\]\]/', $localizedString, $localizedVariables);
+            foreach ($baseVariables[0] as $baseVariable) {
+                $found = false;
+                foreach ($localizedVariables[0] as $localizedVariable) {
+                    if ($baseVariable === $localizedVariable) {
+                        $found = true;
+                    }
+                }
+                if ($found === false) {
+                    $this->addViolation($jsonKey, 'Key "'.$jsonKey.'" was translated but is missing platform variable '.$baseVariable);
+                }
+            }
+        }
     }
 
     private function findMissingLinebreaks(string $baseString, string $localizedString, string $jsonKey): void

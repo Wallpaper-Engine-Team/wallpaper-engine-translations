@@ -1,4 +1,5 @@
 {
+    "ui_browse_modal_no_steam_body": "[[[Sdk]]] could not be initialized. Please try to restart [[[Platform]]] and afterwards Wallpaper Engine. If you continue seeing this error, this means that your PC cannot correctly authenticate with the [[[Platform]]] servers, check your internet connection and whether you are logged into the correct [[[Platform]]] account.<br/><br/>Do not launch [[[Platform]]] as administrator, that prevents [[[Sdk]]] from connecting to [[[Platform]]]. An anti-virus or security software could be preventing [[[Platform]]] and Wallpaper Engine from working together as well, try turning that off.</br></br>Check the FAQ to get more help if needed: <a href='[[[var_url_faqsteam]]]'>Fix [[[Platform]]] Connection</a>",
     "ui_browse_explore_category_seasonal_collection": "Recommended <b>seasonal</b> {{emoji}} wallpapers",
     "ui_browse_explore_category_classics": "All-time classics",
     "ui_settings_appearance": "Appearance",
