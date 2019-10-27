@@ -10,20 +10,20 @@ You can find missing strings by looking at at the [Missing Translations Director
 
 You may come across strings that are in curly brackets, for example: `{{author}}`. This means they will be replaced with some real content while Wallpaper Engine is running. Make sure to not translate those as the name needs to be the same, otherwise Wallpaper Engine will not recognize this.
 
-Some variables are hard-coded, these are mainly related to the name of Steam itself, these only change for Chinese users:
+Some variables are hard-coded and use three square brackets, these are mainly related to the name of Steam itself, these only change for Chinese users:
 
 ```
-	{{Platform}}:   "Steam"
-	{{Host}}:       "Workshop"
-	{{PLATFORM}}:   "STEAM"
-	{{Sdk}}:        "Steamworks"
-	{{Provider}}:   "Valve"
-	{{PROVIDER}}:   "VALVE"
+	[[[Platform]]]:   "Steam"
+	[[[Host]]]:       "Workshop"
+	[[[PLATFORM]]]:   "STEAM"
+	[[[Sdk]]]:        "Steamworks"
+	[[[Provider]]]:   "Valve"
+	[[[PROVIDER]]]:   "VALVE"
 ```
 
-If you come across these strings, for example `You can download wallpapers from the {{Platform}} {{Host}}.`, the actual text is `You can download wallpapers from the Steam Workshop.`. Just translate them like that.
+If you come across these strings, for example `You can download wallpapers from the [[[Platform]]] [[[Host]]].`, the actual text is `You can download wallpapers from the Steam Workshop.`. Just translate them like that.
 
-The only exceptions are Chinese, where strings may be translated differently. `{{Platform}} {{Host}}` will be `Steam 创意工坊` (Simplified Chinese) or `Steam 工作坊` (Traditional Chinese) as the Steam Workshop has a different name in Chinese but not in other languages.
+The only exceptions are Chinese, where strings may be translated differently. `[[[Platform]]] [[[Host]]]` will be `Steam 创意工坊` (Simplified Chinese) or `Steam 工作坊` (Traditional Chinese) as the Steam Workshop has a different name in Chinese but not in other languages.
 
 For more information you can check out the translation thread on Steam or send an email to support@wallpaperengine.io: http://steamcommunity.com/app/431960/discussions/7/215439774876424597/
 
