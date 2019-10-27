@@ -368,6 +368,7 @@
     "ui_editor_publish_modal_header": "Publish to [[[Host]]]",
     "ui_editor_publish_modal_button_show_in_workshop": "Show wallpaper in [[[Host]]]",
     "ui_editor_publish_modal_steam_error": "A [[[PLATFORM]]] error occurred: ",
+    "ui_editor_publish_modal_publish_prompt_agreement": "You need to accept the [[[Platform]]] [[[Host]]] agreement before your wallpaper will be visible to others. Visit your wallpaper on [[[Platform]]] [[[Host]]] now:",
     "ui_editor_publish_modal_progress_validate": "Validating [[[Host]]] Item...",
     "ui_editor_publish_modal_progress_create": "Creating [[[Host]]] Item...",
     "ui_editor_publish_modal_progress_prepare_data": "Updating [[[Host]]] item data...",

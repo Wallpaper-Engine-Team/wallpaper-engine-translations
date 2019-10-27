@@ -1,6 +1,7 @@
 {
     "ui_select": "Select",
     "ui_create": "Create",
+    "ui_modal_updaterequired_body": "Please close Wallpaper Engine (right click the tray icon and click Quit) and restart it over [[[Platform]]] to receive the latest updates. If you keep getting this warning, please verify the application files over [[[Platform]]].<br/><br/>Application version: <b>{{callerVersion}}</b>, UI version: <b>{{appVersion}}</b>.",
     "ui_modal_updateavailable_body_distro": "A new update for Wallpaper Engine has been downloaded by [[[Platform]]] (version <b>{{distroVersion}}</b>). Would you like to restart Wallpaper Engine now to apply the update?",
     "ui_modal_installationpath_error_title": "Wrong Installation Path registered in Windows",
     "ui_modal_installationpath_error_body": "It looks like the program files of Wallpaper Engine have been moved after the installation. This breaks the auto start function and causes a number of problems.<br/><br/>You are currently running Wallpaper Engine from <b>{{runPath}}</b> but [[[Platform]]] has installed Wallpaper Engine to <b>{{steamPath}}</b>. The auto start needs to be updated to use [[[Platform]]]'s correct installation path or this message will continue to appear.<br/><br/>Fix this now?",

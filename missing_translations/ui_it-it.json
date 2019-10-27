@@ -7,6 +7,7 @@
     "ui_browse_advertise_explore": "Click here to discover new wallpapers from the [[[Host]]]!",
     "ui_browse_advertise_workshop": "Click here to search the [[[Host]]] in detail!",
     "ui_browse_no_service_body": "The <b>[[[PLATFORM]]] [[[Host]]]</b> services are currently not available. This is <i>not</i> an error in Wallpaper Engine. Please wait a few hours and try again.<br/><br/>The problem is with the <b>[[[PLATFORM]]]</b> servers and will be resolved soon.",
+    "ui_browse_steam_offline_notice": "<b>[[[PLATFORM]]] [[[Host]]]</b> servers are <b>OFFLINE</b>. You are browsing an emergency backup from {{date}}. Please wait a few hours for the company of <b>[[[PLATFORM]]] ([[[PROVIDER]]])</b> to fix the <b>[[[PLATFORM]]] [[[Host]]]</b> servers again.",
     "ui_browse_author_filter_notice": "Browsing wallpapers by {{author}}",
     "ui_browse_offline_error": "[[[PLATFORM]]] servers are OFFLINE. Please wait for [[[PROVIDER]]] to fix [[[PLATFORM]]].",
     "ui_browse_modal_advertise_workshop_header": "In-App [[[Host]]] Browser",

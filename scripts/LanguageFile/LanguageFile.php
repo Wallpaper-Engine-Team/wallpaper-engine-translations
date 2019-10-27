@@ -70,9 +70,11 @@ class LanguageFile extends AbstractFile implements LanguageFileInterface
             preg_match_all('/{{(.*?)}}/', $localizedString, $localizedVariables);
             foreach ($baseVariables[0] as $baseVariable) {
                 $found = false;
-                foreach ($localizedVariables[0] as $localizedVariable) {
+                foreach ($localizedVariables[0] as $localizedVariableKey => $localizedVariable) {
                     if ($baseVariable === $localizedVariable) {
                         $found = true;
+                        unset( $localizedVariables[0][$localizedVariableKey] );
+                        break;
                     }
                 }
                 if ($found === false) {
@@ -84,9 +86,11 @@ class LanguageFile extends AbstractFile implements LanguageFileInterface
             preg_match_all('/\[\[\[(.*?)\]\]\]/', $localizedString, $localizedVariables);
             foreach ($baseVariables[0] as $baseVariable) {
                 $found = false;
-                foreach ($localizedVariables[0] as $localizedVariable) {
+                foreach ($localizedVariables[0] as $localizedVariableKey => $localizedVariable) {
                     if ($baseVariable === $localizedVariable) {
                         $found = true;
+                        unset( $localizedVariables[0][$localizedVariableKey] );
+                        break;
                     }
                 }
                 if ($found === false) {

@@ -33,6 +33,7 @@
     "ui_browse_filter_category_wallpaper": "Wallpaper",
     "ui_browse_filter_category_preset": "Preset",
     "ui_browse_filter_source_workshop": "[[[Host]]]",
+    "ui_browse_modal_unsubscribe_body": "Are you sure that you want to unsubscribe from: <b>{{title}}</b>?<br/><br/>After unsubscribing, [[[Platform]]] will delete the wallpaper files automatically after the wallpaper browse window is closed. [[[Platform]]] delays the deletion of wallpapers until you close the wallpaper browse window.",
     "ui_browse_modal_remove_preset_info": "<br/><br/>The following presets are depending on the wallpaper(s) you are trying to unsubscribe and will be removed as well: <b>{{presets}}</b>",
     "ui_browse_modal_subscribe_preset_header": "Subscribing to Wallpaper Preset",
     "ui_browse_modal_subscribe_preset_body": "The wallpaper <b>{{title}}</b> is a preset for another wallpaper which you need to subscribe to as well to use it.<br/><br/>Subscribe to both now?",
