@@ -64,7 +64,7 @@
     "core_updater_status_verify_hash_failed": "ファイルの確認に失敗しました。: {{filepath}}",
     "core_updater_status_verify_success": "ファイルの確認中: {{filepath}}",
     "core_updater_status_verify_failed_message_box_title": "ファイルの確認エラー",
-    "core_updater_status_verify_failed_message_box_body": "Wallpaper Engineのいくつかのファイルがインストールできませんでした。[[[Platform]]]のダウンロードエラーやアンチウィルスによる誤検知が原因かもしれません。\n\nアップデートの最中はアンチウィルスの保護を一時停止し、誤検知を防止するようにしてください。\n\nもしファイルを削除してしまった場合は、復元を行い、アンチウィルスソフトのホワイトリストにWallpaper Engineを追加してください。",
+    "core_updater_status_verify_failed_message_box_body": "Wallpaper Engineのいくつかのファイルがインストールに失敗したようです。これは、[[[Platform]]]のダウンロード中にエラーが起こったか、セキュリティソフトによる誤検知により削除された可能性があります。Windows Defender以外のセキュリティソフトを利用している場合は、[[[Platform]]]およびWallpaper Engineを除外するように設定してください。\n\nWallpaper Engineのアップデート中にセキュリティソフトが動作を妨げないように必要に応じ、トレイアイコンなどからアプリケーションを終了するようにしてください。\n\nもしもWallpaper Engineのファイルを削除した場合は、セキュリティソフトから復元してください。",
     "core_updater_status_compat": "互換性のないアプリケーションを検索しています...",
     "core_updater_status_compat_error": "プロセスのスキャンに失敗しました。",
     "core_updater_status_compat_found": "互換性のないアプリケーションが見つかりました: {{processname}}",
