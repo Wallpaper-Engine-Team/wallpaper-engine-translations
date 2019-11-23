@@ -47,7 +47,7 @@
     "ui_browse_advertise_workshop": "Haz clic aquí para buscar fondos del [[[Host]]].",
     "ui_browse_no_service_header": "Los Servicios de [[[Platform]]] no están disponibles",
     
-    "ui_browse_no_service_body": "Los servicios del [[[Platform]]] [[[Host]]] no están disponibles actualmente. Esto <i>no</i> es un error en Wallpaper Engine. Por favor, espera e inténtalo de nuevo más tarde.<br/><br/>El problema es reside en los servidores de <b>[[[Platform]]]</b> y se resolverá pronto.",
+    "ui_browse_no_service_body": "Los servicios del <b>[[[PLATFORM]]] [[[Host]]]</b> no están disponibles actualmente. Esto <i>no</i> es un error en Wallpaper Engine. Por favor, espera e inténtalo de nuevo más tarde.<br/><br/>El problema es reside en los servidores de <b>[[[PLATFORM]]]</b> y se resolverá pronto.",
     "ui_browse_no_service_body_use_backup": "<br/><br/>Wallpaper Engine va a tratar de mostrar una copia de emergencia hasta que la compañía <b>[[[PLATFORM]]] ([[[PROVIDER]]])</b> haya resuelto sus problemas.",
     "ui_browse_reload": "Volver a cargar",
     "ui_browse_clear_filters": "Quitar filtros",
