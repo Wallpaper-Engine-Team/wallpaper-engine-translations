@@ -785,8 +785,6 @@
     "ui_editor_effect_shine_description": "นำเอฟเฟ็กต์การเปล่งแสงไปใช้เพื่อเพิ่มความสว่างให้กับส่วนต่างๆ ของรูปภาพด้วยขอบจำนวนมากและหลายหลาย",
     "ui_editor_preset_variant_small": "เส็ก",
     "ui_editor_preset_variant_large": "ใหญ่",
-    "ui_editor_preset_fern_title": "ใบเฟิร์น",
-    "ui_editor_preset_fern_description": "วัตถุใบเฟิร์นแบบเดี่ยว",
     "ui_editor_preset_light_shafts_title": "แสงส่อง",
     "ui_editor_preset_light_shafts_description": "เพิ่มแสงส่องให้กับวอลเปเปอร์",
     "ui_editor_preset_snow_particles_title": "พาร์ติเคิลหิมะ",

@@ -785,8 +785,6 @@
     "ui_editor_effect_shine_description": "Dodaje efekt błysku do jasnych części obrazu za pomocą zmiennej liczby krawędzi.",
     "ui_editor_preset_variant_small": "Mały",
     "ui_editor_preset_variant_large": "Duży",
-    "ui_editor_preset_fern_title": "Paproć",
-    "ui_editor_preset_fern_description": "Pojedynczy obiekt paproci.",
     "ui_editor_preset_light_shafts_title": "Snopy światła",
     "ui_editor_preset_light_shafts_description": "Dodaje snopy światła do tapety.",
     "ui_editor_preset_snow_particles_title": "Płatki śniegu",

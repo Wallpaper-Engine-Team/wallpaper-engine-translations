@@ -818,8 +818,6 @@
     "ui_editor_effect_shine_description": "Applica un effetto di brillantezza alle parti luminose dell'immagine con un numero variabile di bordi.",
     "ui_editor_preset_variant_small": "Piccola",
     "ui_editor_preset_variant_large": "Grande",
-    "ui_editor_preset_fern_title": "Felce",
-    "ui_editor_preset_fern_description": "Una felce (singolo oggetto).",
     "ui_editor_preset_light_shafts_title": "Raggi di luce",
     "ui_editor_preset_light_shafts_description": "Aggiunge i raggi di luce allo sfondo.",
     "ui_editor_preset_snow_particles_title": "Fiocchi di neve",
@@ -1211,7 +1209,7 @@
     "ui_editor_user_properties_file_type_image": "Immagine",
     "ui_editor_user_properties_fetch_mode_all": "Tutto",
     "ui_editor_user_properties_fetch_mode_on_demand": "Su richiesta",
-    "ui_editor_user_properties_condition_placeholder": "Espressione: tasto == X",
+    "ui_editor_user_properties_condition_placeholder": "otherkey.value == XYZ",
     "ui_editor_toast_project_packed": "Sfondi confezionati non possono essere aperti.",
     "ui_editor_properties_context_menu_edit_user_property": "Modifica Proprietà Utente",
     "ui_editor_properties_context_menu_restore_default_value": "Ripristina Valore Predifinito"

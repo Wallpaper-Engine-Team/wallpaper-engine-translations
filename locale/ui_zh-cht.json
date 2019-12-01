@@ -283,7 +283,7 @@
     "ui_browse_explore_category_user_favorites": "您最愛的桌布",
     "ui_browse_explore_category_user_up_voted": "您已投票給正評的桌布",
     "ui_browse_explore_category_seasonal_collection": "推薦<b>季節性</b>{{emoji}}桌布",
-    "ui_browse_explore_category_classics": "歷來經典",
+    "ui_browse_explore_category_classics": "歷來經典 {{emoji}}",
     "ui_browse_explore_server_error": "無法連線至 Wallpaper Engine 伺服器以擷取額外清單。",
     "ui_browse_explore_create_query_modal_header_new": "建立新的查詢",
     "ui_browse_explore_create_query_modal_header_edit": "編輯查詢",
@@ -759,7 +759,7 @@
     "ui_editor_user_properties_fetch_mode": "讀取模式",
     "ui_editor_user_properties_fetch_mode_all": "全部",
     "ui_editor_user_properties_fetch_mode_on_demand": "隨選",
-    "ui_editor_user_properties_condition_placeholder": "表示式：key == X",
+    "ui_editor_user_properties_condition_placeholder": "otherkey.value == XYZ",
     "ui_editor_user_properties_link": "連結",
     "ui_editor_user_properties_combo_value": "為此連結選取下拉式方塊值：",
 
@@ -955,8 +955,6 @@
 
     "ui_editor_preset_variant_small": "小型",
     "ui_editor_preset_variant_large": "大型",
-    "ui_editor_preset_fern_title": "蕨類",
-    "ui_editor_preset_fern_description": "單個蕨類物件。",
     "ui_editor_preset_light_shafts_title": "光線",
     "ui_editor_preset_light_shafts_description": "增添光線至桌布。",
     "ui_editor_preset_snow_particles_title": "雪花粒子",

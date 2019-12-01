@@ -283,7 +283,7 @@
     "ui_browse_explore_category_user_favorites" : "Dina favoritbakgrunder",
     "ui_browse_explore_category_user_up_voted" : "Bakgrunder du har röstat upp",
     "ui_browse_explore_category_seasonal_collection" : "Rekommenderade <b>säsongsbundna</b> {{emoji}}-bakgrunder",
-    "ui_browse_explore_category_classics": "Populära klassiker",
+    "ui_browse_explore_category_classics": "Populära klassiker {{emoji}}",
     "ui_browse_explore_server_error" : "Kan inte ansluta till Wallpaper Engines server för att hämta ytterligare listor.",
     "ui_browse_explore_create_query_modal_header_new" : "Skapa ny fråga",
     "ui_browse_explore_create_query_modal_header_edit" : "Redigera fråga",
@@ -759,7 +759,7 @@
     "ui_editor_user_properties_fetch_mode" : "Hämtaläge",
     "ui_editor_user_properties_fetch_mode_all" : "Alla",
     "ui_editor_user_properties_fetch_mode_on_demand" : "På begäran",
-    "ui_editor_user_properties_condition_placeholder" : "Uttryck: key == X",
+    "ui_editor_user_properties_condition_placeholder" : "otherkey.value == XYZ",
     "ui_editor_user_properties_link" : "Länk",
     "ui_editor_user_properties_combo_value" : "Valt kombinationsvärde för denna länk:",
     
@@ -955,8 +955,6 @@
     
     "ui_editor_preset_variant_small" : "Liten",
     "ui_editor_preset_variant_large" : "Stor",
-    "ui_editor_preset_fern_title" : "Ormbunke",
-    "ui_editor_preset_fern_description" : "Ett enda ormbunksobjekt.",
     "ui_editor_preset_light_shafts_title" : "Ljusstrålar",
     "ui_editor_preset_light_shafts_description" : "Lägger till ljusstrålar på bakgrunden.",
     "ui_editor_preset_snow_particles_title" : "Snöpartiklar",

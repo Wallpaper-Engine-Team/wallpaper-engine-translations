@@ -744,7 +744,7 @@
 	"ui_editor_user_properties_fetch_mode" : "Λειτουργία λήψης",
 	"ui_editor_user_properties_fetch_mode_all" : "Όλα",
 	"ui_editor_user_properties_fetch_mode_on_demand" : "Όποτε απαιτηθεί",
-	"ui_editor_user_properties_condition_placeholder" : "Έκφραση: κλειδί == X",
+	"ui_editor_user_properties_condition_placeholder" : "otherkey.value == XYZ",
 	"ui_editor_user_properties_link" : "Σύνδεσμος",
 	"ui_editor_user_properties_combo_value" : "Επιλεγμένος συνδυασμός τιμών για αυτό το σύνδεσμο:",
 	
@@ -937,8 +937,6 @@
 	
 	"ui_editor_preset_variant_small" : "Μικρό",
 	"ui_editor_preset_variant_large" : "Μεγάλο",
-	"ui_editor_preset_fern_title" : "Φτέρη",
-	"ui_editor_preset_fern_description" : "Ένα μονό πτεριδόφυτο.",
 	"ui_editor_preset_light_shafts_title" : "Άξονες φωτός",
 	"ui_editor_preset_light_shafts_description" : "Προσθήκη αξόνων φωτός στο εξώφυλλο.",
 	"ui_editor_preset_snow_particles_title" : "Σωματίδια χιονιού",

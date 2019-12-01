@@ -1,3 +1,26 @@
 {
-    "ui_alert_connect_steam": "<b>No first-time connection to [[[Platform]]] could be made</b><br/><br/><b>To remove this message forever:</b> Make sure [[[Platform]]] is running and that you are logged into the correct [[[Platform]]] account and restart Wallpaper Engine. If you need help resolving this [[[Platform]]] issue, check our FAQ: <a href='[[[var_url_faqsteam]]]'>Fix [[[Platform]]] Connection</a><br/><br/><b>If you do not own a legal copy of Wallpaper Engine:</b> Please consider supporting our work. We have priced Wallpaper Engine very reasonably so that everyone can afford it. We have poured thousands of hours of work into this application and by buying Wallpaper Engine, you support its continued development, always receive the latest updates, help to pay for server costs and are able to download wallpapers via [[[Platform]]] with ease: <a href='[[[var_url_store]]]'>Click here to buy Wallpaper Engine on [[[Platform]]]</a><br/><br/>This message will <b>never</b> appear again after you have started Wallpaper Engine through [[[Platform]]] once."
+    "ui_alert_connect_steam": "<b>No first-time connection to [[[Platform]]] could be made</b><br/><br/><b>To remove this message forever:</b> Make sure [[[Platform]]] is running and that you are logged into the correct [[[Platform]]] account and restart Wallpaper Engine. If you need help resolving this [[[Platform]]] issue, check our FAQ: <a href='[[[var_url_faqsteam]]]'>Fix [[[Platform]]] Connection</a><br/><br/><b>If you do not own a legal copy of Wallpaper Engine:</b> Please consider supporting our work. We have priced Wallpaper Engine very reasonably so that everyone can afford it. We have poured thousands of hours of work into this application and by buying Wallpaper Engine, you support its continued development, always receive the latest updates, help to pay for server costs and are able to download wallpapers via [[[Platform]]] with ease: <a href='[[[var_url_store]]]'>Click here to buy Wallpaper Engine on [[[Platform]]]</a><br/><br/>This message will <b>never</b> appear again after you have started Wallpaper Engine through [[[Platform]]] once.",
+    "ui_browse_monitors_show_on_start": "Show on start",
+    "ui_browse_playlist_too_many_items": "Too many wallpapers in the playlist to display.",
+    "ui_browse_playlist_modal_settings_begin_first_wallpaper": "Always begin with the first wallpaper",
+    "ui_browse_explore_search": "Search",
+    "ui_browse_modal_seasonal_info_body": "We have changed the theme of Wallpaper Engine to match the occasion! The theme will be changed back in a couple of days.<br/><br/>You can disable <i>seasonal theming</i> in the settings if you don't like this or change the skin there any time.<br/><br/>The <i>Discover</i> tab also has a special list of wallpapers that match the holiday!",
+    "ui_browse_modal_seasonal_info_header_halloween": "Trick or treat, it's Halloween",
+    "ui_browse_modal_seasonal_info_header_winter": "It's winter season",
+    "ui_browse_modal_seasonal_info_never_show_again": "Never show this dialog again",
+    "ui_browse_modal_seasonal_info_disable_theming": "Disable Theming",
+    "ui_browse_modal_seasonal_info_browse_collection": "Browse Collection",
+    "ui_browse_modal_steam_redownload_error_header": "Many [[[Platform]]] downloads detected",
+    "ui_browse_modal_steam_redownload_error_body": "Wallpaper Engine has detected that a lot of your wallpapers are being downloaded by [[[Platform]]] right now.<br/><br/>If you have recently subscribed a lot of new wallpapers, then please ignore this message and wait for [[[Platform]]] to finish downloading everything.<br/><br/>If it looks like [[[Platform]]] is downloading a lot of wallpapers that you already downloaded before, then [[[Platform]]] has run into an error. This is <i>not</i> a bug in Wallpaper Engine. Please see this post <a href='[[[var_url_faqredownload]]]'>Fix [[[Platform]]] re-downloading everything</a> or wait for [[[Platform]]] to finish downloading and fix itself.",
+    "ui_browse_modal_steam_redownload_never_show_again": "Never show this dialog again",
+    "ui_settings_plugins_options_led_plugin_description": "Controls LED effects from Corsair and Razer devices.",
+    "ui_settings_plugins_options_led_plugin_enable_icue": "Enable iCUE integration",
+    "ui_settings_plugins_options_led_plugin_enable_chroma": "Enable Chroma SDK integration",
+    "ui_settings_plugins_options_led_plugin_enable_scene": "Enable Scene effects",
+    "ui_settings_plugins_options_led_plugin_enable_video": "Enable Video effects",
+    "ui_settings_plugins_options_led_plugin_enable_web": "Enable Web effects",
+    "ui_settings_plugins_wallpaper_led_plugin_enable_sdks": "Enable LED effects",
+    "ui_settings_skin_winter": "Winter",
+    "ui_editor_preset_foliage_title": "Foliage",
+    "ui_editor_preset_foliage_description": "Foliage objects."
 }
