@@ -1,3 +1,0 @@
-{
-    "ui_browse_modal_steam_redownload_error_body": "Wallpaper Engine has detected that a lot of your wallpapers are being downloaded by [[[Platform]]] right now.<br/><br/>If you have recently subscribed a lot of new wallpapers, then please ignore this message and wait for [[[Platform]]] to finish downloading everything.<br/><br/>If it looks like [[[Platform]]] is downloading a lot of wallpapers that you already downloaded before, then [[[Platform]]] has run into an error. This is <i>not</i> a bug in Wallpaper Engine. Please see this post <a href='[[[var_url_faqredownload]]]'>Fix [[[Platform]]] re-downloading everything</a> or wait for [[[Platform]]] to finish downloading and fix itself."
-}
