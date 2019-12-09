@@ -1,4 +1,0 @@
-{
-    "core_updater_status_distro_file_delete": "Lösche Datei: {{filepath}}",
-    "core_updater_status_distro_file_delete_error": "Löschen der Datei fehlgeschlagen: {{error}}"
-}

@@ -1,4 +1,0 @@
-{
-    "core_updater_status_distro_file_delete": "ファイルの削除: {{filepath}}",
-    "core_updater_status_distro_file_delete_error": "ファイルの削除に失敗しました: {{error}}"
-}
