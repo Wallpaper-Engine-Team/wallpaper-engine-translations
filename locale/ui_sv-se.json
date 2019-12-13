@@ -385,7 +385,7 @@
     "ui_browse_modal_seasonal_info_header_winter" : "Det är vintersäsong",
     "ui_browse_modal_seasonal_info_never_show_again" : "Visa aldrig denna dialogruta igen",
     "ui_browse_modal_seasonal_info_disable_theming" : "Inaktivera teman",
-    "ui_browse_modal_seasonal_info_browse_collection" : "Bläddra samling"
+    "ui_browse_modal_seasonal_info_browse_collection" : "Bläddra samling",
 
     "ui_browse_modal_steam_redownload_error_header" : "Många nedladdningar från [[[Platform]]] upptäcktes",
     "ui_browse_modal_steam_redownload_error_body" : "Wallpaper Engine upptäckte att många av dina bakgrunder laddas ned av [[[Platform]]] just nu.<br/><br/>Om du har prenumererat på många nya bakgrunder nyligen kan du ignorera detta meddelande och vänta på att [[[Platform]]] ska bli färdig med att ladda ned allting.<br/><br/>Om det ser ut som att [[[Platform]]] laddar ned många bakgrunder som du redan har laddat med tidigare kan [[[Platform]]] ha stött på ett fel. Detta är <i>inte</i> en bugg i Wallpaper Engine. Se inlägget <a href='[[[var_url_faqredownload]]]'>Fixa att [[[Platform]]] laddar ned allting igen</a> eller vänta på att [[[Platform]]] ska bli färdig med att ladda ned och fixa sig själv.",
@@ -980,7 +980,7 @@
     "ui_editor_preset_variant_large" : "Stor",
     "ui_editor_preset_light_shafts_title" : "Ljusstrålar",
     "ui_editor_preset_foliage_title": "Vind",
-    "ui_editor_preset_foliage_description": "Låter objekt svaja i vinden."
+    "ui_editor_preset_foliage_description": "Låter objekt svaja i vinden.",
     "ui_editor_preset_light_shafts_description" : "Lägger till ljusstrålar på bakgrunden.",
     "ui_editor_preset_snow_particles_title" : "Snöpartiklar",
     "ui_editor_preset_snow_particles_description" : "Lägger till snöpartiklar som långsamt faller ned från skärmens överkant.",
