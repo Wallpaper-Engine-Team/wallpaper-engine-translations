@@ -134,6 +134,7 @@
     "ui_browse_monitors_clone": "複製",
     "ui_browse_monitors_save_profile": "儲存設定檔",
     "ui_browse_monitors_load_profile": "載入設定檔",
+    "ui_browse_monitors_show_on_start": "啟動時顯示",
 
     "ui_browse_sort_name": "名稱",
     "ui_browse_sort_rating": "評等",
@@ -187,6 +188,7 @@
     "ui_browse_properties_mouse_parallax": "<span class='fas fa-mouse-pointer propertyIcon'></span>滑鼠視差",
 
     "ui_browse_playlist_header": "播放清單",
+    "ui_browse_playlist_too_many_items": "播放清單中等待播放的桌布過多。",
     "ui_browse_playlist_modal_open_header": "開啟播放清單",
     "ui_browse_playlist_modal_open_delete": "刪除",
     "ui_browse_playlist_modal_save_header": "儲存播放清單",
@@ -210,6 +212,7 @@
     "ui_browse_playlist_modal_settings_daytime_clock": "時制",
     "ui_browse_playlist_modal_settings_clock_12": "12 小時制",
     "ui_browse_playlist_modal_settings_clock_24": "24 小時制",
+    "ui_browse_playlist_modal_settings_begin_first_wallpaper": "總是從第一個桌布開始",
 
     "ui_browse_profiles_modal_open_header": "載入設定檔",
     "ui_browse_profiles_modal_save_header": "儲存設定檔",
@@ -256,6 +259,7 @@
 
     "ui_browse_explore_home": "首頁",
     "ui_browse_explore_favorites": "最愛",
+    "ui_browse_explore_search": "搜尋",
     "ui_browse_explore_disliked": "不喜歡",
     "ui_browse_explore_see_more": "瀏覽更多",
     "ui_browse_explore_category_genre_popular": "受歡迎的「<b>{{genre}}</b>」桌布",
@@ -376,6 +380,17 @@
     "ui_browse_modal_hotkey_assign_profile": "將快速鍵指派至設定檔 {{name}}",
     "ui_browse_modal_hotkey_enter_hotkey": "輸入快速鍵：",
 
+    "ui_browse_modal_seasonal_info_body": "為了應景，Wallpaper Engine 已變更主題！過幾天主題就會復原。<br/><br/>如果您不喜歡這個主題或是想隨時變更主題，您可以停用<i>季節性主題</i>設定。<br/><br/><i>探索</i>分頁也有一個對應節假日的特別桌布清單！",
+    "ui_browse_modal_seasonal_info_header_halloween": "不給糖就搗蛋！萬聖節到了",
+    "ui_browse_modal_seasonal_info_header_winter": "冬天來了",
+    "ui_browse_modal_seasonal_info_never_show_again": "永遠不再顯示這個對話方塊",
+    "ui_browse_modal_seasonal_info_disable_theming": "停用主題",
+    "ui_browse_modal_seasonal_info_browse_collection": "瀏覽收藏集",
+    
+    "ui_browse_modal_steam_redownload_error_header": "偵測到許多 [[[Platform]]] 下載項目",
+    "ui_browse_modal_steam_redownload_error_body": "Wallpaper Engine 已偵測到您的大量桌布正在透過 [[[Platform]]] 下載。<br/><br/>如果您最近訂閱了大量新的桌布，那麼請忽略這則訊息並等待 [[[Platform]]] 完成下載。<br/><br/>如果 [[[Platform]]] 看起來正在下載您已下載過的桌布，那麼 [[[Platform]]] 已經出現錯誤了。這<i>不是</i> Wallpaper Engine 的錯誤。請參閱這則貼文 <a href='[[[var_url_faqredownload]]]'>修正 [[[Platform]]] 重新下載全部內容</a>或等待 [[[Platform]]] 完成下載然後自行修正。",
+    "ui_browse_modal_steam_redownload_never_show_again": "永遠不再顯示這個對話方塊",
+    
     "ui_rating_table_suitable_for_everyone": "適合所有人",
     "ui_rating_table_partial_nudity_suggestive": "部分裸體/暗示性內容",
     "ui_rating_table_nudity_explicit": "裸體",
@@ -455,7 +470,7 @@
     "ui_settings_hotkeys_modal_prompt_override_header": "覆寫快速鍵",
     "ui_settings_hotkeys_modal_prompt_override_body": "此鍵已指派給「{{action}}」。您想要將它重新指派到這裡嗎？",
     "ui_settings_hotkeys_example": "快速鍵必須包含 Ctrl、Shift 或 Alt。例如：<br/><br/>Shift + Ctrl + B<br/>Shift + F1<br/><br/>紅色邊框表示快速鍵無效。",
-    "ui_settings_icon_opacity": "桌面圖示透明度：",
+    "ui_settings_icon_opacity": "桌面圖示不透明度：",
     "ui_settings_recording_volume": "錄製音量：",
     "ui_settings_recording_threshold": "錄製閾值：",
     "ui_settings_audio_input_device": "音訊輸入裝置：",
@@ -487,6 +502,13 @@
     "ui_settings_plugins_status_loaded": "已載入",
     "ui_settings_plugins_status_not_loaded": "未載入",
     "ui_settings_plugins_options_modal_header": "{{name}} 選項",
+    "ui_settings_plugins_options_led_plugin_description": "控制海盜船 Corsair 和雷蛇 Razer 裝置的 LED 效果。",
+    "ui_settings_plugins_options_led_plugin_enable_icue": "啟用 iCUE 整合功能",
+    "ui_settings_plugins_options_led_plugin_enable_chroma": "啟用 Chroma SDK 整合功能",
+    "ui_settings_plugins_options_led_plugin_enable_scene": "啟用場景效果",
+    "ui_settings_plugins_options_led_plugin_enable_video": "啟用視訊效果",
+    "ui_settings_plugins_options_led_plugin_enable_web": "啟用網頁效果",
+    "ui_settings_plugins_wallpaper_led_plugin_enable_sdks": "啟用 LED 效果",
 
     "ui_settings_no_devices": "找不到裝置",
     "ui_settings_skin_white": "亮色",
@@ -499,6 +521,7 @@
     "ui_settings_skin_rust": "鐵鏽",
     "ui_settings_skin_metal": "金屬",
     "ui_settings_skin_space": "太空",
+    "ui_settings_skin_winter": "冬天",
     "ui_settings_antialiasing_none": "關",
     "ui_settings_resolution_half": "一半",
     "ui_settings_resolution_full": "完整",
@@ -955,6 +978,8 @@
 
     "ui_editor_preset_variant_small": "小型",
     "ui_editor_preset_variant_large": "大型",
+    "ui_editor_preset_foliage_title": "葉",
+    "ui_editor_preset_foliage_description": "葉物件。"
     "ui_editor_preset_light_shafts_title": "光線",
     "ui_editor_preset_light_shafts_description": "增添光線至桌布。",
     "ui_editor_preset_snow_particles_title": "雪花粒子",
