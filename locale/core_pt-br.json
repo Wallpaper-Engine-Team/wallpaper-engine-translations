@@ -83,5 +83,7 @@
     "core_updater_prompt_close": "O Wallpaper Engine ainda está em execução. Por favor, feche-o antes de continuar. Aguardando o encerramento dos seguintes processos:",
     "core_updater_prompt_close_foreign": "O Wallpaper Engine não pode continuar a atualização porque um programa parece estar bloqueando os arquivos. Por favor, feche estes programas para continuar:",
     "core_updater_status_directx_not_supported_title": "DirectX 10 não suportado",
-    "core_updater_status_directx_not_supported_body": "Parece que a sua placa de vídeo não é compatível com o DirectX 10 ou o seu driver de vídeo não está funcionando corretamente. O DirectX 10 é um requisito do sistema para este aplicativo.\n\nCaso a sua placa de vídeo suporte o DirectX 10, isso pode significar que o seu driver gráfico atual possa estar danificado. Você pode tentar reinstalar o driver ou entrar em contato com o fornecedor do seu hardware (Nvidia, AMD, Intel) para resolver isso."
+    "core_updater_status_directx_not_supported_body": "Parece que a sua placa de vídeo não é compatível com o DirectX 10 ou o seu driver de vídeo não está funcionando corretamente. O DirectX 10 é um requisito do sistema para este aplicativo.\n\nCaso a sua placa de vídeo suporte o DirectX 10, isso pode significar que o seu driver gráfico atual possa estar danificado. Você pode tentar reinstalar o driver ou entrar em contato com o fornecedor do seu hardware (Nvidia, AMD, Intel) para resolver isso.",
+    "core_updater_status_distro_file_delete": "Deletando arquivo: {{filepath}}",
+    "core_updater_status_distro_file_delete_error": "Falha ao deletar arquivo: {{error}}"
 }
