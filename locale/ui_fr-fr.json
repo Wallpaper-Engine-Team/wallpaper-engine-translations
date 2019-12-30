@@ -666,7 +666,7 @@
     "ui_editor_project_settings_modal_scheme_color": "Couleur du Thème Windows",
     "ui_editor_project_settings_modal_scene": "Scène",
     "ui_editor_project_settings_modal_user_properties": "Propriétés utilisateur",
-    "ui_editor_project_settings_modal_bloom": "Écarter les doigts paume vers le haut",
+    "ui_editor_project_settings_modal_bloom": "Flou lumineux",
     "ui_editor_project_settings_modal_clear_color": "Couleur claire",
     "ui_editor_project_settings_modal_ambient_color": "Couleur ambiante",
     "ui_editor_project_settings_modal_skylight_color": "Couleur ciel",
