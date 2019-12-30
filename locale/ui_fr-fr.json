@@ -513,7 +513,7 @@
     "ui_welcome_quality_description_header": "Description :",
     "ui_welcome_quality_fps_limit": "FPS max. :",
     "ui_welcome_quality_anti_aliasing": "Anticrénelage :",
-    "ui_welcome_quality_bloom": "Écarter les doigts paume vers le haut :",
+    "ui_welcome_quality_bloom": "Flou lumineux :",
     "ui_welcome_quality_reflections": "Reflets :",
     "ui_welcome_windows_color_description": "Adapter automatiquement la couleur de bordure Windows aux fonds d'écran :",
     "ui_welcome_windows_color_header": "Adapter la couleur Windows",
