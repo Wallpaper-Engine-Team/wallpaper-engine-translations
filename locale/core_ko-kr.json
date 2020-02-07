@@ -1,6 +1,6 @@
 {
     "core_tray_change_wallpaper": "배경화면 변경",
-    "core_tray_browse_workshop": "창작마당 검색",
+    "core_tray_browse_workshop": "[[[Host]]] 검색",
     "core_tray_create_wallpaper": "배경화면 제작",
     "core_tray_settings": "설정",
     "core_tray_take_screenshot": "스크린샷 찍기",
@@ -15,15 +15,19 @@
     "core_tray_next_wallpaper": "다음 배경화면",
     "core_tray_mute": "음소거",
     "core_tray_unmute": "음소거 해제",
+
     "core_balloon_info": "Wallpapaer Engine을 트레이로 최소화시킵니다. 배경화면을 선택하려면 트레이 아이콘을 두 번 클릭하십시오.",
     "core_balloon_desktop_window_error": "라이브 배경화면을 구동하기 위한 바탕화면을 준비하지 못했습니다.",
     "core_balloon_video_error": "Windows 비디오 오류 발생 {{err}}. 도움말은 여기를 클릭하십시오.",
     "core_balloon_app_error": "응용 프로그램을 배경화면으로 불러오는 데에 실패하였습니다.",
     "core_balloon_pkg_version_error": "이 배경화면을 열려면 상위 버전의 Wallpaper Engine이 필요합니다. [[[Platform]]]을 통해 최신 버전을 설치하십시오.",
     "core_balloon_wallpaper_file_missing": "이 배경화면은 일부 구성 파일이 누락되어 열 수 없습니다.",
+    "core_msgbox_ui_file_not_found": "프로그램 파일을 열 수 없습니다.\n\n설치 경로에 잘못된 글자가 있거나, 파일이 없거나, 안티 바이러스(백신) 프로그램 때문일 수 있습니다.\n\nWallpaper Engine을 [[[Platform]]]과 같은 디렉토리에 설치하거나 [[[Platform]]] 라이브러리 폴더를 간단한 글자로 만드세요.",
+
     "core_msgboxtitle_error": "오류",
     "core_msgboxtitle_app_conflict": "응용 프로그램 충돌",
     "core_msgboxtitle_wpe": "Wallpaper Engine",
+
     "core_msgbox_deskscapes": "DeskScapes이 실행중인 것으로 보입니다. 이로 인해 Wallpaper Engine이 제대로 실행되지 않을 수 있습니다.",
     "core_msgbox_prompt_aero_win7": "Wallpaper Engine이 작동하기 위해서는 Aero 옵션을 켜야합니다. 지금 Aero 옵션을 켜시겠습니까?",
     "core_msgbox_prompt_aero_win8": "Wallpaper Engine은 '고대비'의 테마에서 실행되지 않습니다. 지금 테마를 초기화하겠습니까?",
@@ -36,6 +40,7 @@
     "core_msgbox_init_secondinstance_failed": "재시작 실패, 오류 코드:",
     "core_msgbox_below_win_7": "Wallpaper Engine을 실행하기 위해서는 Windows 7 혹은 그 이상의 운영 체제가 필요합니다.\n\n현재 지원하지 않는 버전의 Windows를 사용하고 있으므로 Wallpaper Engine이 작동하지 않을 수 있습니다.",
     "core_msgbox_media_feature_pack_missing": "mfplat.dll 이 없습니다!\nWindows N 버전을 소유하신 것 같군요. 비디오 지원을 위해 Microsoft 미디어 기능 팩을 설치해 주십시오! (Google: 미디어 기능 팩-Windows 10/8.1/7)\n\n",
+
     "core_updater_headline_init": "Wallpaper Engine 설정 중...",
     "core_updater_headline_update": "{{version}}버전으로 Wallpaper Engine 업데이트 중...",
     "core_updater_headline_init_complete": "{{version}} 버전으로 설정 완료. Wallpaper Engine 시작 중...",
@@ -57,6 +62,8 @@
     "core_updater_status_distro_file_copy": "파일 복사 중: {{filepath}}",
     "core_updater_status_distro_file_skip": "동일 파일 건너뛰는 중: {{filepath}}",
     "core_updater_status_distro_file_copy_error": "파일 복사 실패: {{error}}",
+    "core_updater_status_distro_file_delete": "파일 삭제 중: {{filepath}}",
+    "core_updater_status_distro_file_delete_error": "파일 삭제 실패: {{error}}",
     "core_updater_status_verify": "설치 확인 중...",
     "core_updater_status_verify_file_missing": "파일 누락: {{filepath}}",
     "core_updater_status_verify_file_cannot_open": "파일 열기 실패: {{filepath}}",
