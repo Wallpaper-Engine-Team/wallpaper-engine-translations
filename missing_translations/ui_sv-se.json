@@ -1,7 +1,8 @@
 {
+    "ui_browse_explore_category_led_support": "Great with Razer Chroma & Corsair iCUE {{emoji}}",
     "ui_settings_plugins_options_led_plugin_max_brightness": "Boost LED colors",
     "ui_editor_effect_vhs_title": "VHS",
-    "ui_editor_effect_vhs_description": "VHS distortion and colorization.",
+    "ui_editor_effect_vhs_description": "Distortion and colorization of an old video tape.",
     "ui_editor_properties_artifacts": "Artifacts",
     "ui_editor_properties_artifacts_negated": "Invert artifacts",
     "ui_editor_properties_chromatic_aberration": "Chromatic aberration",
