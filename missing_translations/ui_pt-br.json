@@ -13,6 +13,7 @@
     "ui_browse_modal_no_steam_body": "[[[Sdk]]] could not be initialized. Please try to restart [[[Platform]]] and afterwards Wallpaper Engine. If you continue seeing this error, this means that your PC cannot correctly authenticate with the [[[Platform]]] servers, check your internet connection and whether you are logged into the correct [[[Platform]]] account.<br/><br/>Do not launch [[[Platform]]] as administrator, that prevents [[[Sdk]]] from connecting to [[[Platform]]]. An anti-virus or security software could be preventing [[[Platform]]] and Wallpaper Engine from working together as well, try turning that off.</br></br>Check the FAQ to get more help if needed: <a href='[[[var_url_faqsteam]]]'>Fix [[[Platform]]] Connection</a>",
     "ui_browse_context_menu_workshop": "Open in [[[Host]]]",
     "ui_browse_report_modal_category_copyright_description": "Please use [[[PROVIDER]]]'s DMCA form to submit copyright violations, this will make sure it is dealt with in the legally correct manner.",
+    "ui_settings_plugins_options_led_plugin_max_brightness": "Boost LED colors",
     "ui_welcome_finish_body": "Everything is configured!<br/><br/>Wallpaper Engine will now be available in your system tray. <b>Double click</b> to select a wallpaper or <b>right click</b> to access the settings, [[[Platform]]] [[[Host]]] or the Wallpaper Editor.<div style='height:20px'></div>",
     "ui_editor_filemenu_show_in_workshop": "Show in [[[Host]]]",
     "ui_editor_publish_modal_header": "Publish to [[[Host]]]",
@@ -28,5 +29,14 @@
     "ui_editor_publish_modal_progress_uploading_preview": "Submitting [[[Host]]] item, uploading preview image...",
     "ui_editor_publish_modal_progress_final": "Submitting [[[Host]]] item, committing changes...",
     "ui_editor_workshop_rules_modal_title": "[[[Host]]] Rules",
-    "ui_editor_workshop_rules_modal_body": "Before submitting your wallpaper to [[[Host]]], make sure that it does not violate the [[[Platform]]] Terms of Service, otherwise it will be removed:"
+    "ui_editor_workshop_rules_modal_body": "Before submitting your wallpaper to [[[Host]]], make sure that it does not violate the [[[Platform]]] Terms of Service, otherwise it will be removed:",
+    "ui_editor_effect_vhs_title": "VHS",
+    "ui_editor_effect_vhs_description": "VHS distortion and colorization.",
+    "ui_editor_properties_artifacts": "Artifacts",
+    "ui_editor_properties_artifacts_negated": "Invert artifacts",
+    "ui_editor_properties_chromatic_aberration": "Chromatic aberration",
+    "ui_editor_properties_distortion_strength": "Distortion strength",
+    "ui_editor_properties_distortion_speed": "Distortion speed",
+    "ui_editor_properties_distortion_width": "Distortion width",
+    "ui_editor_properties_led_source": "Limit iCUE & Chroma to this layer"
 }
