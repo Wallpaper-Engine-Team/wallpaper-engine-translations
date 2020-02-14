@@ -1,13 +1,13 @@
 {
-    "ui_browse_explore_category_led_support": "Great with Razer Chroma & Corsair iCUE {{emoji}}",
-    "ui_settings_plugins_options_led_plugin_max_brightness": "Boost LED colors",
+    "ui_browse_explore_category_led_support": "Ottimi con Razer Chroma & Corsair iCUE {{emoji}}",
+    "ui_settings_plugins_options_led_plugin_max_brightness": "Potenzia i colori LED",
     "ui_editor_effect_vhs_title": "VHS",
-    "ui_editor_effect_vhs_description": "Distortion and colorization of an old video tape.",
-    "ui_editor_properties_artifacts": "Artifacts",
-    "ui_editor_properties_artifacts_negated": "Invert artifacts",
-    "ui_editor_properties_chromatic_aberration": "Chromatic aberration",
-    "ui_editor_properties_distortion_strength": "Distortion strength",
-    "ui_editor_properties_distortion_speed": "Distortion speed",
-    "ui_editor_properties_distortion_width": "Distortion width",
-    "ui_editor_properties_led_source": "Limit iCUE & Chroma to this layer"
+    "ui_editor_effect_vhs_description": "Distorsione e colorazione di una vecchia cassetta.",
+    "ui_editor_properties_artifacts": "Artefatti",
+    "ui_editor_properties_artifacts_negated": "Annulla artefatti",
+    "ui_editor_properties_chromatic_aberration": "Aberrazione cromatica",
+    "ui_editor_properties_distortion_strength": "Entità della distorsione",
+    "ui_editor_properties_distortion_speed": "Velocità della distorsione",
+    "ui_editor_properties_distortion_width": "Larghezza della distorsione",
+    "ui_editor_properties_led_source": "Limita iCUE & Chroma a questo livello"
 }
