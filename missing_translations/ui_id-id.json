@@ -1,13 +1,3 @@
 {
-    "ui_browse_explore_category_led_support": "Cocok dengan Razer Chroma & Corsair iCUE {{emoji}}",
-    "ui_settings_plugins_options_led_plugin_max_brightness": "Maksimalkan terangnya warna LED",
-    "ui_editor_effect_vhs_title": "VHS",
-    "ui_editor_effect_vhs_description": "Menerapkan efek distorsi dan pewarnaan ala gaya <i>retro</i> zaman era 90-an. Kaset pita video lama (<i>video tape</i>).",
-    "ui_editor_properties_artifacts": "Artefak",
-    "ui_editor_properties_artifacts_negated": "Kebalikan artefak",
-    "ui_editor_properties_chromatic_aberration": "Aberasi Berwarna (Chromatic Aberration)",
-    "ui_editor_properties_distortion_strength": "Kekuatan distorsi",
-    "ui_editor_properties_distortion_speed": "Kecepatan distorsi",
-    "ui_editor_properties_distortion_width": "Lebar distorsi",
-    "ui_editor_properties_led_source": "Batasi iCUE & Chroma ke lapisan ini"
+    "ui_editor_effect_vhs_description": "Distortion and colorization of an old video tape."
 }
