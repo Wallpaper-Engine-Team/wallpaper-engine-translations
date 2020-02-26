@@ -1,13 +1,13 @@
 {
-    "ui_browse_explore_category_led_support": "Great with Razer Chroma & Corsair iCUE {{emoji}}",
-    "ui_settings_plugins_options_led_plugin_max_brightness": "Boost LED colors",
-    "ui_editor_effect_vhs_title": "VHS",
-    "ui_editor_effect_vhs_description": "Distortion and colorization of an old video tape.",
-    "ui_editor_properties_artifacts": "Artifacts",
-    "ui_editor_properties_artifacts_negated": "Invert artifacts",
-    "ui_editor_properties_chromatic_aberration": "Chromatic aberration",
-    "ui_editor_properties_distortion_strength": "Distortion strength",
-    "ui_editor_properties_distortion_speed": "Distortion speed",
-    "ui_editor_properties_distortion_width": "Distortion width",
-    "ui_editor_properties_led_source": "Limit iCUE & Chroma to this layer"
+    "ui_browse_explore_category_led_support": "非常適合 雷蛇幻彩燈光（Razer Chroma）和海盜船iCUE（Corsair iCUE） {{emoji}}",
+    "ui_settings_plugins_options_led_plugin_max_brightness": "增强LED顔色",
+    "ui_editor_effect_vhs_title": "家用錄像系統（VHS）",
+    "ui_editor_effect_vhs_description": "舊錄像帶般的失真和著色。",
+    "ui_editor_properties_artifacts": "工藝品",
+    "ui_editor_properties_artifacts_negated": "反轉工藝品",
+    "ui_editor_properties_chromatic_aberration": "色差",
+    "ui_editor_properties_distortion_strength": "失真强度",
+    "ui_editor_properties_distortion_speed": "失真速度",
+    "ui_editor_properties_distortion_width": "失真寬度",
+    "ui_editor_properties_led_source": "將 iCUE 和 Chroma 限制于此層"
 }
