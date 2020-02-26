@@ -1,6 +1,6 @@
 {
     "ui_alert_connect_steam": "<b>无法与 [[[Platform]]] 进行首次连接</b><br/><br/><b>让我们来永久删除此消息：</b> 保证您已经运行 [[[Platform]]] 并且登录了正确的 [[[Platform]]] 账号之后重新启动Wall Engine。如果你想帮助解决 [[[Platform]]] 问题，请检阅我们的FAQ：<a href='[[[var_url_faqsteam]]]'>修复 [[[Platform]]] 连接</a><br/><br/><b>如果您没有合法的Wall Engine应用副本：</b> 请考虑支持我们的工作。 我们已经非常合理地为Wallpaper Engine定价以便让每位用户都负担得起， 我们已经为该程序投入了数千小时的工作量， 您的支持将会促进团队继续开发并且始终都能获得最新的版本并且有助于我们支付服务器的费用，还可以通过 [[[Platform]]] 轻松下载壁纸： <a href='[[[var_url_store]]]'>点击这里购买 [[[Platform]]] 的Wallpaper Engine</a><br/><br/>当您正确地通过 [[[Platform]]] 启动Wallpaper Engine之后，这条消息将 <b>永远</b> 不会再次出现。",
-    "ui_browse_explore_category_led_support": "非常适合 雷蛇幻彩灯光（Razer Chroma）和海盗船ICUE（Corsair iCUE）{{emoji}}",
+    "ui_browse_explore_category_led_support": "非常适合 雷蛇幻彩灯光（Razer Chroma）和海盗船iCUE（Corsair iCUE）{{emoji}}",
     "ui_settings_plugins_options_led_plugin_max_brightness": "增强LED颜色",
     "ui_editor_scene_options_fov": "视角（FOV）",
     "ui_editor_effect_vhs_title": "家用录像系统（VHS）",
