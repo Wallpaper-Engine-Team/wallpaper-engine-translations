@@ -1,5 +1,5 @@
 {
-    "core_msgbox_ui_file_not_found": "The program files cannot be opened.\n\nYou might have invalid characters in the installation path, the file might be missing or the program might be blocked by an anti-virus.\n\nTry installing Wallpaper Engine in the same directory as [[[Platform]]] or create a [[[Platform]]] library with simple characters.",
-    "core_updater_status_distro_file_delete": "Deleting file: {{filepath}}",
-    "core_updater_status_distro_file_delete_error": "Failed to delete file: {{error}}"
+    "core_msgbox_ui_file_not_found": "目标程序不能被打开。\n\n该程序的安装路径中可能包含无效字符、文件可能不存在或该程序已被系统安全程序阻止。\n\n请尝试在 [[[Platform]]] 相同目录安装Wallpaper Engine或使用简单的字符来创建 [[[Platform]]] 库存。",
+    "core_updater_status_distro_file_delete": "删除文件：{{filepath}}",
+    "core_updater_status_distro_file_delete_error": "删除文件失败：{{error}}"
 }
