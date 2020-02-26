@@ -904,6 +904,7 @@
     "ui_editor_effect_transform_title": "Pengubah Bentuk",
     "ui_editor_effect_transform_description": "Mengatur skala, rotasi, dan ujung gambar.",
     "ui_editor_effect_vhs_title": "VHS",
+    "ui_editor_effect_vhs_description": "Menerapkan efek distorsi dan pewarnaan gaya lama kaset pita video.",
     "ui_editor_effect_water_flow_title": "Aliran Air",
     "ui_editor_effect_water_flow_description": "Menambahkan animasi aliran air. Arah alur dapat di atur dengan membuat masker alur yang bisa Anda buat pada penyunting.",
     "ui_editor_effect_water_ripple_title": "Riak Air",
