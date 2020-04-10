@@ -28,6 +28,8 @@
 	"ui_browse_filter_results" : "Filter results",
 	"ui_browse_filter_results_count" : "({{filtered}} of {{unfiltered}})",
 	"ui_browse_filter_results_filtered" : "(Filtered)",
+	"ui_browse_filter_reset": "Reset Filters",
+	"ui_browse_filter_help": "Filter Help",
 	"ui_browse_sort_by" : "Sort by",
 	"ui_browse_filter_type" : "Type",
 	"ui_browse_filter_source" : "Source",
@@ -380,14 +382,14 @@
 	"ui_browse_modal_hotkey_assign_playlist" : "Assign Hotkey to Playlist {{name}}",
 	"ui_browse_modal_hotkey_assign_profile" : "Assign Hotkey to Profile {{name}}",
 	"ui_browse_modal_hotkey_enter_hotkey" : "Enter Hotkey:",
-
+	
 	"ui_browse_modal_seasonal_info_body" : "We have changed the theme of Wallpaper Engine to match the occasion! The theme will be changed back in a couple of days.<br/><br/>You can disable <i>seasonal theming</i> in the settings if you don't like this or change the skin there any time.<br/><br/>The <i>Discover</i> tab also has a special list of wallpapers that match the holiday!",
 	"ui_browse_modal_seasonal_info_header_halloween" : "Trick or treat, it's Halloween",
 	"ui_browse_modal_seasonal_info_header_winter" : "It's winter season",
 	"ui_browse_modal_seasonal_info_never_show_again" : "Never show this dialog again",
 	"ui_browse_modal_seasonal_info_disable_theming" : "Disable Theming",
 	"ui_browse_modal_seasonal_info_browse_collection" : "Browse Collection",
-
+	
 	"ui_browse_modal_steam_redownload_error_header" : "Many [[[Platform]]] downloads detected",
 	"ui_browse_modal_steam_redownload_error_body" : "Wallpaper Engine has detected that a lot of your wallpapers are being downloaded by [[[Platform]]] right now.<br/><br/>If you have recently subscribed a lot of new wallpapers, then please ignore this message and wait for [[[Platform]]] to finish downloading everything.<br/><br/>If it looks like [[[Platform]]] is downloading a lot of wallpapers that you already downloaded before, then [[[Platform]]] has run into an error. This is <i>not</i> a bug in Wallpaper Engine. Please see this post <a href='[[[var_url_faqredownload]]]'>Fix [[[Platform]]] re-downloading everything</a> or wait for [[[Platform]]] to finish downloading and fix itself.",
 	"ui_browse_modal_steam_redownload_never_show_again" : "Never show this dialog again",
@@ -491,6 +493,7 @@
 	"ui_settings_advanced_video_read" : "Video loading:",
 	"ui_settings_advanced_video_loop" : "Video loop:",
 	"ui_settings_advanced_video_framework" : "Video framework:",
+	"ui_settings_advanced_webm_framework" : "WebM framework:",
 	"ui_settings_advanced_log_level" : "Log level:",
 	"ui_settings_advanced_cef_command_line" : "CEF command line:",
 	"ui_settings_advanced_cef_devtools_port" : "CEF devtools port:",
@@ -561,6 +564,8 @@
 	"ui_settings_windows_7_wallpaper_mode_block_background" : "Block background",
 	"ui_settings_video_framework_prefer_media_foundation" : "Prefer Media Foundation",
 	"ui_settings_video_framework_prefer_directshow_lav" : "Prefer DirectShow LAV",
+	"ui_settings_video_framework_prefer_chromium" : "Prefer Chromium",
+	"ui_settings_video_framework_prefer_native" : "Prefer Native",
 	"ui_settings_use_safe_mode" : "Use safe start:",
 	"ui_settings_disable_slideshow" : "Remove Windows wallpaper fade:",
 	"ui_settings_ui_hardware_acceleration" : "UI hardware acceleration:",
@@ -637,7 +642,7 @@
 	"ui_editor_no_animation_modal_header" : "Wallpaper Not Animated",
 	"ui_editor_no_animation_modal_body" : "It looks like you are trying to upload a scene wallpaper without animation. <b>This is not recommended.</b><br/><br/>Wallpaper Engine is optimized for animated wallpapers, so if you only want to use a static image, it is advisable to use your operating system in that case.<br/><br/>Do you want to continue anyway?",
 	"ui_editor_review_info_header" : "Review Process",
-	"ui_editor_review_info_body" : "Your wallpaper will be reviewed before other users can find and download it to ensure that it doesn't violate any local laws.</b></b>If you update your wallpaper, it has to be reviewed again and is pushed to the back of the queue.",
+	"ui_editor_review_info_body" : "Your wallpaper will be reviewed before other users can find and download it to ensure that it doesn't violate any local laws.<br/><br/>If you update your wallpaper, it has to be reviewed again and is pushed to the back of the queue.",
 
 	"ui_editor_treeview_header_files" : "Imported Files",
 	"ui_editor_tooltip_layers" : "Layers",
@@ -823,6 +828,7 @@
 	"ui_editor_workshop_rules_modal_rule_copyright" : "No copyright infringements",
 	"ui_editor_workshop_rules_modal_rule_ads" : "No advertisements",
 	"ui_editor_workshop_rules_modal_rule_misleading" : "No misleading previews",
+	
 
 	"ui_editor_toast_project_saved" : "Project saved.",
 	"ui_editor_toast_project_packed" : "Packed wallpapers cannot be opened.",
@@ -866,7 +872,7 @@
 	"ui_workshop_tags_rating_questionable" : "Questionable",
 	"ui_workshop_tags_rating_mature" : "Mature",
 	"ui_workshop_tags_rating_ban" : "BAN",
-
+	
 	"ui_workshop_tags_visibility_public" : "Public",
 	"ui_workshop_tags_visibility_friends_only" : "Friends only",
 	"ui_workshop_tags_visibility_private" : "Private",
@@ -1433,3 +1439,4 @@
 	"ui_editor_select_material" : "Select Material",
 	"ui_editor_select_texture" : "Select Texture"
 }
+

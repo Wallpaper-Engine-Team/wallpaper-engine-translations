@@ -54,16 +54,16 @@
         },
         {
             "name": "seld/jsonlint",
-            "version": "1.7.1",
+            "version": "1.7.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/jsonlint.git",
-                "reference": "d15f59a67ff805a44c50ea0516d2341740f81a38"
+                "reference": "e2e5d290e4d2a4f0eb449f510071392e00e10d19"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/jsonlint/zipball/d15f59a67ff805a44c50ea0516d2341740f81a38",
-                "reference": "d15f59a67ff805a44c50ea0516d2341740f81a38",
+                "url": "https://api.github.com/repos/Seldaek/jsonlint/zipball/e2e5d290e4d2a4f0eb449f510071392e00e10d19",
+                "reference": "e2e5d290e4d2a4f0eb449f510071392e00e10d19",
                 "shasum": ""
             },
             "require": {
@@ -99,20 +99,20 @@
                 "parser",
                 "validator"
             ],
-            "time": "2018-01-24T12:46:19+00:00"
+            "time": "2019-10-24T14:27:39+00:00"
         },
         {
             "name": "thesoftwarefanatics/php-html-parser",
-            "version": "1.8.0",
+            "version": "1.8.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thesoftwarefanatics/php-html-parser.git",
-                "reference": "3502f0b530b20bea9a72361377510553a69e766a"
+                "reference": "2dff8676821bdbc309f64980a96b4c62020c79c3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thesoftwarefanatics/php-html-parser/zipball/3502f0b530b20bea9a72361377510553a69e766a",
-                "reference": "3502f0b530b20bea9a72361377510553a69e766a",
+                "url": "https://api.github.com/repos/thesoftwarefanatics/php-html-parser/zipball/2dff8676821bdbc309f64980a96b4c62020c79c3",
+                "reference": "2dff8676821bdbc309f64980a96b4c62020c79c3",
                 "shasum": ""
             },
             "require": {
@@ -161,7 +161,7 @@
                 "html",
                 "parser"
             ],
-            "time": "2018-01-10T14:47:57+00:00"
+            "time": "2018-12-21T07:45:56+00:00"
         }
     ],
     "packages-dev": [],
@@ -174,5 +174,6 @@
         "php": ">=7.2",
         "ext-mbstring": "*"
     },
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
 }

@@ -1,4 +1,6 @@
 {
+    "ui_browse_filter_reset": "Reset Filters",
+    "ui_browse_filter_help": "Filter Help",
     "ui_browse_advertise_explore": "Click here to discover new wallpapers from the [[[Host]]]!",
     "ui_browse_advertise_workshop": "Click here to search the [[[Host]]] in detail!",
     "ui_browse_no_service_body": "The <b>[[[PLATFORM]]] [[[Host]]]</b> services are currently not available. This is <i>not</i> an error in Wallpaper Engine. Please wait a few hours and try again.<br/><br/>The problem is with the <b>[[[PLATFORM]]]</b> servers and will be resolved soon.",
@@ -14,7 +16,10 @@
     "ui_browse_explore_category_led_support": "Great with Razer Chroma & Corsair iCUE {{emoji}}",
     "ui_browse_context_menu_workshop": "Open in [[[Host]]]",
     "ui_browse_report_modal_category_copyright_description": "Please use [[[PROVIDER]]]'s DMCA form to submit copyright violations, this will make sure it is dealt with in the legally correct manner.",
+    "ui_settings_advanced_webm_framework": "WebM framework:",
     "ui_settings_plugins_options_led_plugin_max_brightness": "Boost LED colors",
+    "ui_settings_video_framework_prefer_chromium": "Prefer Chromium",
+    "ui_settings_video_framework_prefer_native": "Prefer Native",
     "ui_welcome_finish_body": "Everything is configured!<br/><br/>Wallpaper Engine will now be available in your system tray. <b>Double click</b> to select a wallpaper or <b>right click</b> to access the settings, [[[Platform]]] [[[Host]]] or the Wallpaper Editor.<div style='height:20px'></div>",
     "ui_editor_filemenu_show_in_workshop": "Show in [[[Host]]]",
     "ui_editor_publish_modal_header": "Publish to [[[Host]]]",

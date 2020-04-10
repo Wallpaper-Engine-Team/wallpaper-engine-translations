@@ -1,6 +1,11 @@
 {
+    "ui_browse_filter_reset": "Reset Filters",
+    "ui_browse_filter_help": "Filter Help",
     "ui_browse_explore_category_led_support": "Great with Razer Chroma & Corsair iCUE {{emoji}}",
+    "ui_settings_advanced_webm_framework": "WebM framework:",
     "ui_settings_plugins_options_led_plugin_max_brightness": "Boost LED colors",
+    "ui_settings_video_framework_prefer_chromium": "Prefer Chromium",
+    "ui_settings_video_framework_prefer_native": "Prefer Native",
     "ui_editor_effect_vhs_title": "VHS",
     "ui_editor_effect_vhs_description": "Distortion and colorization of an old video tape.",
     "ui_editor_properties_artifacts": "Artifacts",
