@@ -2,7 +2,7 @@
     "ui_caption_browse" : "Bläddra bland bakgrunder",
     "ui_caption_settings" : "Inställningar",
     "ui_caption_editor" : "Bakgrundsredigerare",
-    
+
     "ui_ok" : "OK",
     "ui_cancel" : "Avbryt",
     "ui_back" : "Tillbaka",
@@ -10,7 +10,7 @@
     "ui_retry" : "Försök igen",
     "ui_select" : "Välj",
     "ui_create" : "Skapa",
-    
+
     "ui_modal_updaterequired_title" : "Wallpaper Engine behöver uppdateras",
     "ui_modal_updaterequired_body" : "Avsluta Wallpaper Engine (högerklicka på ikonen i meddelandefältet och klicka på Avsluta) och starta om det via [[[Platform]]] för att hämta de senaste uppdateringarna. Om du fortsätter få denna varning, verifiera programfilerna på [[[Platform]]].<br/><br/>Programversion: <b>{{callerVersion}}</b>, gränssnittsversion: <b>{{appVersion}}</b>.",
     "ui_modal_updateavailable_title" : "Ny uppdatering är tillgänglig",
@@ -28,6 +28,8 @@
     "ui_browse_filter_results" : "Filtrera resultat",
     "ui_browse_filter_results_count" : "({{filtered}} av {{unfiltered}})",
     "ui_browse_filter_results_filtered" : "(filtrerade)",
+    "ui_browse_filter_reset": "Återställ filter",
+    "ui_browse_filter_help": "Filterhjälp",
     "ui_browse_sort_by" : "Sortera efter",
     "ui_browse_filter_type" : "Typ",
     "ui_browse_filter_source" : "Källa",
@@ -58,7 +60,7 @@
     "ui_browse_steam_offline_notice" : "Servrarna för <b>[[[PLATFORM]]] [[[Host]]]</b> är <b>FRÅNKOPPLADE</b>. Du bläddrar i en nödfallssäkerhetskopia från {{date}}. Vänta några timmar på att företaget som äger <b>[[[PLATFORM]]] ([[[PROVIDER]]])</b> ska åtgärda <b>[[[PLATFORM]]] [[[Host]]]s</b> servrar igen.",
     "ui_browse_author_filter_notice" : "Bläddrar bakgrunder av {{author}}",
     "ui_browse_offline_error" : "Servrarna för [[[PLATFORM]]] är FRÅNKOPPLADE. Var god vänta på att [[[PROVIDER]]] ska fixa [[[PLATFORM]]].",
-    
+
     "ui_browse_details_title" : "Titel:",
     "ui_browse_details_author" : "Författare:",
     "ui_browse_details_author_pending" : "< Väntar >",
@@ -95,7 +97,7 @@
     "ui_browse_details_properties_apply_to_all_restore_defaults" : "Återställ till standardinställningar",
     "ui_browse_details_header_presets" : "Dina förinställningar",
     "ui_browse_details_header_workshop" : "[[[Host]]]-förinställningar",
-    
+
     "ui_browse_footer_btn_workshop" : "[[[Platform]]] [[[Host]]]",
     "ui_browse_footer_btn_open_from_file" : "Öppna från fil",
     "ui_browse_footer_btn_open_from_url" : "Öppna från URL",
@@ -135,14 +137,14 @@
     "ui_browse_monitors_save_profile" : "Spara profil",
     "ui_browse_monitors_load_profile" : "Läs in profil",
     "ui_browse_monitors_show_on_start" : "Visa vid uppstart",
-    
+
     "ui_browse_sort_name" : "Namn",
     "ui_browse_sort_rating" : "Klassificering",
     "ui_browse_sort_favorite" : "Favorit",
     "ui_browse_sort_filesize" : "Filstorlek",
     "ui_browse_sort_subscription_date" : "Prenumerationsdatum",
     "ui_browse_sort_last_updated" : "Senast uppdaterad",
-    
+
     "ui_browse_search_placeholder" : "Sök",
     "ui_browse_filter_category_wallpaper" : "Bakgrund",
     "ui_browse_filter_category_preset" : "Förinställning",
@@ -155,7 +157,7 @@
     "ui_browse_filter_source_official" : "Officiellt",
     "ui_browse_filter_source_workshop" : "[[[Host]]]",
     "ui_browse_filter_source_my_wallpapers" : "Mina bakgrunder",
-    
+
     "ui_browse_modal_application_warning_header" : "Öppnar okänt program",
     "ui_browse_modal_application_warning_body" : "Du håller på att öppna ett externt program som en bakgrund: <br/><b>{{filepath}}</b><br/>Wallpaper Engine har ingen kontroll över denna fil. Du måste se till att det kommer från en pålitlig källa innan du fortsätter.",
     "ui_browse_modal_application_warning_timer" : "<br/><br/>Vänta i {{time}} sekunder.",
@@ -174,7 +176,7 @@
     "ui_browse_modal_advertise_workshop_header" : "Bläddra i [[[Host]]] inuti programmet",
     "ui_browse_modal_advertise_workshop_body" : "Använd filteralternativen till vänster för att lättare kunna hitta vad du letar efter istället för att söka direkt i [[[Platform]]].<br/><br/>Klicka på <b>Godkända</b> <span class='fas fa-trophy browseWallpaperApproved'></span> för att bläddra bland utvalda bakgrunder. Bläddra bland innehåll i \"Populäraste\" eller \"Högst betyg\" om du letar efter inlämningar av hög kvalitet.",
     "ui_browse_modal_advertise_workshop_footer" : "Vilka genrer är du intresserad i?",
-    
+
     "ui_browse_properties_scheme_color" : "Schemafärg",
     "ui_browse_properties_playback_rate" : "<span class='fas fa-play propertyIcon'></span>Hastighet",
     "ui_browse_properties_volume" : "<span class='fas fa-volume-up propertyIcon'></span>Volym",
@@ -186,7 +188,7 @@
     "ui_browse_properties_alignment_stretch" : "Sträck ut",
     "ui_browse_properties_alignment_position" : "<span class='fas fa-arrows-alt-h propertyIcon'></span>Position",
     "ui_browse_properties_mouse_parallax" : "<span class='fas fa-mouse-pointer propertyIcon'></span>Musparallax",
-    
+
     "ui_browse_playlist_header" : "Spellista",
     "ui_browse_playlist_too_many_items" : "För många bakgrunder i spellistan för att visa.",
     "ui_browse_playlist_modal_open_header" : "Öppna spellista",
@@ -213,12 +215,12 @@
     "ui_browse_playlist_modal_settings_clock_12" : "12 timmar",
     "ui_browse_playlist_modal_settings_clock_24" : "24 timmar",
     "ui_browse_playlist_modal_settings_begin_first_wallpaper" : "Börja alltid med den första bakgrunden",
-    
+
     "ui_browse_profiles_modal_open_header" : "Läs in profil",
     "ui_browse_profiles_modal_save_header" : "Spara profil",
     "ui_browse_profiles_modal_save_name" : "Namn",
     "ui_browse_profiles_modal_save_description" : "Om en profil med samma namn redan finns kommer den skrivas över.",
-    
+
     "ui_browse_preset_modal_save_header" : "Spara lokal förinställning",
     "ui_browse_preset_modal_open_header" : "Läs in lokal förinställning",
     "ui_browse_preset_modal_share_header" : "Dela förinställning",
@@ -229,18 +231,18 @@
     "ui_browse_preset_modal_paste" : "Klistra in",
     "ui_browse_preset_modal_show_all" : "Visa alla",
     "ui_browse_preset_modal_empty" : "Du har inte ännu skapat några förinställningar för denna bakgrund.",
-    
+
     "ui_browse_list_source_installed" : "Installerade",
     "ui_browse_list_source_workshop" : "[[[Host]]]",
     "ui_browse_list_source_explore" : "Upptäck",
-    
+
     "ui_browse_modal_no_steam_title" : "[[[Platform]]]-fel",
     "ui_browse_modal_no_steam_body" : "[[[Sdk]]] kunde inte startas. Försök att starta om [[[Platform]]] och sedan Wallpaper Engine. Om du fortsätter se detta fel innebär det att din PC inte kan autentisera riktigt med [[[Platform]]]s servrar, kontrollera din Internetuppkoppling och om du är inloggad på rätt [[[Platform]]]-konto.<br/><br/>Kör inte [[[Platform]]] som administratör då det förhindrar [[[Sdk]]] från att ansluta till [[[Platform]]]. Ett antivirusprogram eller säkerhetsprogram kan även förhindra [[[Platform]]] och Wallpaper Engine från att arbeta tillsammans. Prova att stänga av det.</br></br>Kolla i vanliga frågor för att få mer hjälp vid behov: <a href='[[[var_url_faqsteam]]]'>Fixa anslutningen till [[[Platform]]]</a>",
     "ui_browse_query_error" : "Ett [[[PLATFORM]]]-nätverksfel har uppstått. Försök igen senare: ",
     "ui_browse_modal_safe_mode_header" : "Säker start",
     "ui_browse_modal_safe_mode_body" : "Det verkar som att programmet inte stängdes ned ordentligt, de senaste bakgrunderna och insticksmodulerna har ännu inte lästs in för att förhindra problemet från att förekomma igen.<br/><br/>Klicka på OK för att återställa dem nu eller avbryt för att ändra dem först.",
     "ui_browse_use_safe_mode" : "Använd säker start",
-    
+
     "ui_browse_query_sort_by_votes" : "Högst betyg",
     "ui_browse_query_sort_by_date" : "Senaste",
     "ui_browse_query_sort_by_trend_today" : "Populäraste (idag)",
@@ -256,7 +258,7 @@
     "ui_browse_query_sort_most_subscriptions" : "Flest prenumeranter",
     "ui_browse_query_sort_by_relevance" : "Sökrelevans",
     "ui_browse_query_sort_last_updated" : "Senast uppdaterad",
-    
+
     "ui_browse_explore_home" : "Hem",
     "ui_browse_explore_favorites" : "Favoriter",
     "ui_browse_explore_search" : "Sök",
@@ -304,14 +306,14 @@
     "ui_browse_explore_tooltip_dislike" : "Gilla inte",
     "ui_browse_explore_tooltip_remove" : "Ta bort",
     "ui_browse_explore_prompt_to_vote" : "Rösta här för att hjälpa oss hitta bakgrunder som du gillar!",
-    
+
     "ui_browse_age_gate_modal_header" : "Åldersverifiering",
     "ui_browse_age_gate_modal_body" : "Ange ditt födelsedatum för att fortsätta:",
     "ui_browse_age_gate_modal_sub" : "Denna data är endast till för att verifiera och kommer inte lagras, laddas upp eller delas.",
     "ui_browse_age_gate_modal_day" : "Dag",
     "ui_browse_age_gate_modal_month" : "Månad",
     "ui_browse_age_gate_modal_year" : "År",
-    
+
     "ui_browse_context_menu_add_to_playlist" : "Lägg till i spellista",
     "ui_browse_context_menu_remove_from_playlist" : "Ta bort från spellista",
     "ui_browse_context_menu_workshop" : "Öppna i [[[Host]]]",
@@ -339,7 +341,7 @@
     "ui_browse_context_menu_assign_hotkey" : "Tilldela kortkommando",
     "ui_browse_context_menu_remove_hotkey" : "Ta bort kortkommando",
     "ui_browse_context_menu_browse_by_author" : "Bläddra alla av {{author}} ({{count}})",
-    
+
     "ui_browse_report_modal_header" : "Rapportera bakgrund:",
     "ui_browse_report_modal_submit" : "Skicka rapport",
     "ui_browse_report_modal_category_label" : "Orsak till rapportering",
@@ -364,23 +366,23 @@
     "ui_browse_report_modal_success" : "Rapporten skickades!",
     "ui_browse_report_modal_error" : "Rapporten misslyckades att skickas. Servern kanske är frånkopplad, onåbar eller genomgår underhåll. Försök igen senare.",
     "ui_browse_report_modal_error_401" : "Rapporten misslyckades att skickas. Ditt [[[Platform]]]-spelärende verkar ha löpt ut. Försök att starta [[[Platform]]] och bakgrundsbläddraren för att få ett nytt ärende.",
-    
+
     "ui_browse_modal_folder_create_title" : "Skapa mapp",
     "ui_browse_modal_folder_remove_title" : "Ta bort mappen \"{{title}}\"",
     "ui_browse_modal_folder_remove_body" : "Är du säker på att du vill ta bort denna mapp?",
     "ui_browse_modal_folder_remove_unsubscribe_and_remove_items" : "Avprenumerera eller ta bort bakgrunder i mappen",
-    
+
     "ui_browse_navigation_top" : "Längst upp",
     "ui_browse_download_header" : "[[[Platform]]]-nedladdning",
     "ui_browse_download_pending" : "Väntar",
     "ui_browse_download_waiting" : "Väntar på [[[Platform]]]",
     "ui_browse_download_missing_files" : "Filer saknas. Verifiera programmet i [[[Platform]]].",
-    
+
     "ui_browse_modal_hotkey_assign_wallpaper" : "Tilldela kortkommando till bakgrunden {{name}}",
     "ui_browse_modal_hotkey_assign_playlist" : "Tilldela kortkommando till spellistan {{name}}",
     "ui_browse_modal_hotkey_assign_profile" : "Tilldela kortkommando till profilen {{name}}",
     "ui_browse_modal_hotkey_enter_hotkey" : "Ange kortkommando:",
-    
+
     "ui_browse_modal_seasonal_info_body" : "Vi har ändrat temat för Wallpaper Engine för att matcha högtiden! Temat kommer att ändras tillbaka om några dagar.<br/><br/>Du kan inaktivera <i>högtidsteman</i> i inställningarna om du inte gillar detta eller vill ändra utseenden när som helst.<br/><br/>Fliken <i>Upptäck</i> innehåller även en speciell lista över bakgrunder som matchar högtiden!",
     "ui_browse_modal_seasonal_info_header_halloween" : "Bus eller godis, det är halloween",
     "ui_browse_modal_seasonal_info_header_winter" : "Det är vintersäsong",
@@ -391,7 +393,7 @@
     "ui_browse_modal_steam_redownload_error_header" : "Många nedladdningar från [[[Platform]]] upptäcktes",
     "ui_browse_modal_steam_redownload_error_body" : "Wallpaper Engine upptäckte att många av dina bakgrunder laddas ned av [[[Platform]]] just nu.<br/><br/>Om du har prenumererat på många nya bakgrunder nyligen kan du ignorera detta meddelande och vänta på att [[[Platform]]] ska bli färdig med att ladda ned allting.<br/><br/>Om det ser ut som att [[[Platform]]] laddar ned många bakgrunder som du redan har laddat med tidigare kan [[[Platform]]] ha stött på ett fel. Detta är <i>inte</i> en bugg i Wallpaper Engine. Se inlägget <a href='[[[var_url_faqredownload]]]'>Fixa att [[[Platform]]] laddar ned allting igen</a> eller vänta på att [[[Platform]]] ska bli färdig med att ladda ned och fixa sig själv.",
     "ui_browse_modal_steam_redownload_never_show_again" : "Visa aldrig denna dialogruta igen",
-	
+
     "ui_rating_table_suitable_for_everyone" : "Lämpligt för alla",
     "ui_rating_table_partial_nudity_suggestive" : "Delvis nakenhet / provokativt",
     "ui_rating_table_nudity_explicit" : "Nakenhet",
@@ -491,6 +493,7 @@
     "ui_settings_advanced_video_read" : "Video läser in:",
     "ui_settings_advanced_video_loop" : "Videoupprepning:",
     "ui_settings_advanced_video_framework" : "Videoramverk:",
+    "ui_settings_advanced_webm_framework" : "WebM-ramverk:",
     "ui_settings_advanced_log_level" : "Loggningsnivå:",
     "ui_settings_advanced_cef_command_line" : "CEF-kommandorad:",
     "ui_settings_advanced_cef_devtools_port" : "CEF-port för utvecklingsverktyg:",
@@ -511,7 +514,7 @@
     "ui_settings_plugins_options_led_plugin_enable_web": "Aktivera webbeffekter",
     "ui_settings_plugins_options_led_plugin_max_brightness": "Förstärk LED-färger",
     "ui_settings_plugins_wallpaper_led_plugin_enable_sdks": "Aktivera LED-effekter",
-    
+
     "ui_settings_no_devices" : "Inga enheter hittades",
     "ui_settings_skin_white" : "Vitt",
     "ui_settings_skin_dark" : "Mörkt",
@@ -561,17 +564,19 @@
     "ui_settings_windows_7_wallpaper_mode_block_background" : "Blockera bakgrund",
     "ui_settings_video_framework_prefer_media_foundation" : "Föredra Media Foundation",
     "ui_settings_video_framework_prefer_directshow_lav" : "Föredra DirectShow LAV",
+    "ui_settings_video_framework_prefer_chromium" : "Föredra Chromium",
+    "ui_settings_video_framework_prefer_native" : "Föredra inbyggt",
     "ui_settings_use_safe_mode" : "Använd säker start:",
     "ui_settings_disable_slideshow" : "Ta bort Windows bakgrundsövergång:",
     "ui_settings_ui_hardware_acceleration" : "Hårdvaruaccelerering för gränssnitt:",
     "ui_settings_show_tray_icon" : "Visa ikon i meddelandefältet:",
-    
+
     "ui_settings_copyright" : "Alla rättigheter förbehållna.",
     "ui_settings_thirdparty" : "Tredjepartsinformation",
-    
+
     "ui_settings_highpriority_warning_header" : "Information om hög prioritet",
     "ui_settings_highpriority_warning" : "Högprioritetsläge kommer att köra programmet snabbare med hjälp av en \"Windows-tjänst\". Men om du upplever problem med denna lösning, prova utan hög prioritet, vilket kommer vara mer pålitligt men långsammare.<br/><br/>Detta alternativ kommer också göra att programmet startar automatiskt för alla Windows-konton på denna PC.",
-    
+
     "ui_welcome_preferred_language" : "Föredraget språk:",
     "ui_welcome_header" : "Välkommen till Wallpaper Engine",
     "ui_welcome_intro" : "Detta är en kort introduktion för att du ska komma igång och för att konfigurera några viktiga alternativ åt dig.<br/><br/>Allting du ändrar här kan ändras senare i Wallpaper Engines inställningar!",
@@ -591,7 +596,7 @@
     "ui_welcome_button_first_page" : "Nu kör vi",
     "ui_welcome_button_next_page" : "Nästa",
     "ui_welcome_button_last_page" : "Allting är klart",
-    
+
     "ui_editor_pane_header_camera" : "Kamera",
     "ui_editor_pane_header_preview" : "Förhandsvisning",
     "ui_editor_pane_header_properties" : "Egenskaper",
@@ -599,7 +604,7 @@
     "ui_editor_pane_header_log" : "Logg",
     "ui_editor_pane_header_script_editor" : "Skriptredigerare",
     "ui_editor_pane_header_shader_editor" : "Shaderredigerare",
-    
+
     "ui_editor_filemenu_file" : "Arkiv",
     "ui_editor_filemenu_new" : "Ny",
     "ui_editor_filemenu_open" : "Öppna",
@@ -631,14 +636,14 @@
     "ui_editor_filemenu_prepare_for_publishing" : "Förbered inför publicering",
     "ui_editor_filemenu_apply_wallpaper" : "Tillämpa bakgrund",
     "ui_editor_filemenu_close_wallpaper" : "Stäng projekt",
-    
+
     "ui_editor_delete_project_modal_header" : "Bekräfta radering",
     "ui_editor_delete_project_modal_body" : "Är du säker på att du vill radera projektet permanent: <br/><b>{{title}}</b>?<br/><br/>Du kommer <b>inte</b> längre kunna uppdatera eller använda detta projekt efter att ha raderat det.",
     "ui_editor_no_animation_modal_header" : "Bakgrunden är inte animerad",
     "ui_editor_no_animation_modal_body" : "Det ser ut som att du försöker ladda upp en scenbakgrund utan någon animering. <b>Detta rekommenderas inte.</b><br/><br/>Wallpaper Engine är optimerad för animerade bakgrunder, så om du bara vill använda en statisk bild hänvisas du i så fall till att använda ditt operativsystem.<br/><br/>Vill du fortsätta ändå?",
     "ui_editor_review_info_header" : "Granskningsprocess",
-    "ui_editor_review_info_body" : "Din bakgrund kommer att granskas innan andra användare kan hitta och ladda ned den för att säkerställa att den inte bryter mot några regionala lagar.</b></b>If you update your wallpaper, it has to be reviewed again and is pushed to the back of the queue.",
-    
+    "ui_editor_review_info_body" : "Din bakgrund kommer att granskas innan andra användare kan hitta och ladda ned den för att säkerställa att den inte bryter mot några regionala lagar.<br/><br/>If you update your wallpaper, it has to be reviewed again and is pushed to the back of the queue.",
+
     "ui_editor_treeview_header_files" : "Importerade filer",
     "ui_editor_tooltip_layers" : "Lager",
     "ui_editor_tooltip_scene_options" : "Scenalternativ",
@@ -676,7 +681,7 @@
     "ui_editor_welcome_modal_aspect" : "Bildförhållande",
     "ui_editor_welcome_modal_title_new" : "Ny",
     "ui_editor_welcome_modal_title_welcome" : "Välkommen",
-    
+
     "ui_editor_importer_please_wait" : "Var god vänta",
     "ui_editor_importer_compiling_assets_for" : "Kompilerar resurs för",
     "ui_editor_importer_compiling_file" : "Kompilerar fil",
@@ -688,7 +693,7 @@
     "ui_editor_template_wizard_details" : "Detaljer",
     "ui_editor_template_wizard_last_import" : "Senaste import:",
     "ui_editor_template_wizard_import_image" : "Importera bild",
-    
+
     "ui_editor_publish_modal_header" : "Publicera till [[[Host]]]",
     "ui_editor_publish_modal_header_upload" : "Laddar upp till [[[Platform]]]",
     "ui_editor_publish_modal_button_publish" : "Publicera",
@@ -706,7 +711,7 @@
     "ui_editor_publish_modal_progress_uploading_content" : "Skickar [[[Host]]]-föremål, laddar upp innehåll...",
     "ui_editor_publish_modal_progress_uploading_preview" : "Skickar [[[Host]]]-föremål, laddar upp förhandsvisningsbild...",
     "ui_editor_publish_modal_progress_final" : "Skickar [[[Host]]]-föremål, utför ändringar...",
-    
+
     "ui_editor_workshop_options_title" : "Titel",
     "ui_editor_workshop_options_description" : "Beskrivning",
     "ui_editor_workshop_options_tags" : "Taggar",
@@ -729,10 +734,10 @@
     "ui_editor_workshop_modal_rating_header" : "Välj en klassificering",
     "ui_editor_workshop_modal_rating_body" : "Förhandsvisningsbilden måste vara lämplig för allihopa. Använd tabellen nedan för att välja en lämplig innehållsklassificering. Om du är osäker kan du välja en mer begränsad klassificering. Om du skickar in olagligt innehåll eller klassificerar din inlämning för lågt kan inlämningen bannlysas och få kontot flaggat. Kom ihåg att du inte måste skicka in bakgrunder för att kunna använda dem själv.",
     "ui_editor_workshop_modal_rating_current" : "Nuvarande klassificering:",
-    
+
     "ui_editor_open_modal_header" : "Öppna bakgrund",
     "ui_editor_open_modal_delete" : " Radera",
-    
+
     "ui_editor_context_menu_center" : "Centrera",
     "ui_editor_context_menu_rotate_clockwise" : "Rotera medurs",
     "ui_editor_context_menu_rotate_counterclockwise" : "Rotera moturs",
@@ -741,7 +746,7 @@
     "ui_editor_context_menu_duplicate" : "Duplicera",
     "ui_editor_context_menu_lock" : "Lås",
     "ui_editor_context_menu_unlock" : "Lås upp",
-    
+
     "ui_editor_project_settings_modal_header" : "Projektinställningar",
     "ui_editor_project_settings_modal_header_general" : "Allmänt",
     "ui_editor_project_settings_modal_title" : "Titel",
@@ -754,7 +759,7 @@
     "ui_editor_project_settings_modal_skylight_color" : "Nedåtgående färg",
     "ui_editor_project_settings_modal_resolution" : "Upplösning",
     "ui_editor_project_settings_modal_name" : "Namn",
-    
+
     "ui_editor_user_properties_select_info" : "Välj en egenskap med en kompatibel typ ({{types}}).",
     "ui_editor_user_properties_select_unused_warning" : "Denna egenskap används inte av bakgrunden.",
     "ui_editor_user_properties" : "Lägg till egenskap",
@@ -787,7 +792,7 @@
     "ui_editor_user_properties_condition_placeholder" : "otherkey.value == XYZ",
     "ui_editor_user_properties_link" : "Länk",
     "ui_editor_user_properties_combo_value" : "Valt kombinationsvärde för denna länk:",
-    
+
     "ui_editor_help_header" : "Hjälp",
     "ui_editor_help_tutorial_category_wiki" : "Wikidokumentation",
     "ui_editor_help_tutorial_category_beginner_title" : "Nybörjarhandledningar",
@@ -800,21 +805,21 @@
     "ui_editor_help_tutorial_item_wallpaper_web_based" : "En webbaserad bakgrund",
     "ui_editor_help_tutorial_item_wallpaper_scene_3d" : "3D-scenbakgrund",
     "ui_editor_help_tutorial_item_wallpaper_scene_2d" : "2D-scenbakgrund",
-    
+
     "ui_editor_help_tutorial_group_advanced_general" : "Allmänt",
     "ui_editor_help_tutorial_item_project_structure" : "Projektfiler och struktur",
-    
+
     "ui_editor_help_tutorial_group_advanced_web" : "Webbfunktioner",
     "ui_editor_help_tutorial_item_web_properties" : "Anpassade användaregenskaper",
     "ui_editor_help_tutorial_item_web_audio" : "Ljudvisualisering",
     "ui_editor_help_tutorial_item_web_images" : "Importerar användarbilder",
     "ui_editor_help_tutorial_item_web_fps_limit" : "Användargräns för bildfrekvens",
-    
+
     "ui_editor_help_tutorial_group_advanced_scene" : "Scenbakgrunder",
     "ui_editor_help_tutorial_item_scene_shaders" : "Skapa nya skuggor",
-    
+
     "ui_editor_snapshot_instructions" : "1. Rita en rektangel med musen.\n2. Tryck på Enter för att ta en skärmbild.\n\nTryck på mellanslag för att pausa.\nTryck på Escape för att avbryta.",
-    
+
     "ui_editor_workshop_rules_modal_title" : "Regler för [[[Host]]]",
     "ui_editor_workshop_rules_modal_body" : "Innan du skickar in din bakgrund till [[[Host]]], se till att den inte bryter [[[Platform]]]s användarvillkor, annars kommer den tas bort:",
     "ui_editor_workshop_rules_modal_list_header" : "Dessa regler finns särskilt för bakgrunder, förhandsvisningsbilden och beskrivningen:",
@@ -823,15 +828,16 @@
     "ui_editor_workshop_rules_modal_rule_copyright" : "Inga upphovsrättsbrott",
     "ui_editor_workshop_rules_modal_rule_ads" : "Ingen annonsering",
     "ui_editor_workshop_rules_modal_rule_misleading" : "Inga missledande förhandsvisningar",
-    
+
+
     "ui_editor_toast_project_saved" : "Projektet sparades.",
     "ui_editor_toast_project_packed" : "Paketerade bakgrunder kan inte öppnas.",
-    
-    "ui_editor_workshop_tags_limit" : "Endast 3 taggar är tillåtet.",
+
+    "ui_editor_workshop_tags_limit" : "Endast 3 taggar är tillåtna.",
     "ui_editor_workshop_tags_placeholder" : "Lägg till en tagg",
     "ui_workshop_workshop_tags_rating" : "Åldersklassificering",
-    "ui_workshop_workshop_tags_rating_not_set" : "< Inte angiven >",
-    
+    "ui_workshop_workshop_tags_rating_not_set" : "< Inget angivet >",
+
     "ui_workshop_tags_abstract" : "Abstrakt",
     "ui_workshop_tags_animal" : "Djur",
     "ui_workshop_tags_anime" : "Anime",
@@ -861,16 +867,16 @@
     "ui_workshop_tags_television" : "Television",
     "ui_workshop_tags_vehicle" : "Fordon",
     "ui_workshop_tags_unspecified" : "Ospecificerad genre",
-    
+
     "ui_workshop_tags_rating_everyone" : "Alla",
     "ui_workshop_tags_rating_questionable" : "Svårbedömd",
     "ui_workshop_tags_rating_mature" : "Vuxet",
     "ui_workshop_tags_rating_ban" : "BANNLYST",
-	
+
     "ui_workshop_tags_visibility_public" : "Offentlig",
     "ui_workshop_tags_visibility_friends_only" : "Endast vänner",
     "ui_workshop_tags_visibility_private" : "Privat",
-    
+
     "ui_editor_scene_options_bloom" : "Glöd",
     "ui_editor_scene_options_bloom_strength" : "Styrka",
     "ui_editor_scene_options_bloom_threshold" : "Tröskel",
@@ -888,9 +894,9 @@
     "ui_editor_scene_options_fov" : "Synfält",
     "ui_editor_scene_options_nearz" : "Närbelägen Z",
     "ui_editor_scene_options_farz" : "Avlägsen Z",
-    
+
     "ui_editor_import_adjust_projection_center" : "Justera bakgrundens storlek och mittenpunkt",
-    
+
     "ui_editor_effects_modal_imagelayer_name" : "Bildlager",
     "ui_editor_effects_modal_imagelayer_description" : "Importera en bild från din dator.",
     "ui_editor_effects_modal_textlayer_name" : "Textlager",
@@ -919,7 +925,7 @@
     "ui_editor_effects_modal_compatibility_warning_header" : "Annorlunda effektversion",
     "ui_editor_effects_modal_compatibility_warning_body" : "Du håller på att importera en effect med en nyare version än den som används i detta projekt. Detta kan leda till att alla instanser av denna effekt återställs och du kommer att förlora deras inställningar.<br/><br/>Detta går inte att ångra och dina gamla inställningar kommer att förloras. Du vill nog göra en säkerhetskopia av projektet innan du fortsätter.<br/><br/>Vill du fortsätta?",
     "ui_editor_effects_modal_compatibility_warning_skip_upgrade" : "Fortsätt utan att uppgradera",
-    
+
     "ui_editor_effect_blend_title" : "Blanda",
     "ui_editor_effect_blend_description" : "Blanda två bilder eller bildlager med olika blandningslägen.",
     "ui_editor_effect_blur_title" : "Oskärpa",
@@ -937,7 +943,7 @@
     "ui_editor_effect_fisheye_title" : "Fiskögeobjektiv",
     "ui_editor_effect_fisheye_description" : "Lägger till en sfärisk form.",
     "ui_editor_effect_foliage_sway_title" : "Vind",
-    "ui_editor_effect_foliage_sway_description" : "Får objekt att svaja i varje hörn på bilden.",
+    "ui_editor_effect_foliage_sway_description" : "Får objekt att svaja i hörnen på bilden.",
     "ui_editor_effect_godrays_title" : "Skuggstrålar",
     "ui_editor_effect_godrays_description" : "Lägger till riktade eller cirkulära skuggstrålar.",
     "ui_editor_effect_local_contrast_title" : "Lokal kontrast",
@@ -961,11 +967,11 @@
     "ui_editor_effect_skew_title" : "Skruva",
     "ui_editor_effect_skew_description" : "Skruvar bildens hörn.",
     "ui_editor_effect_spin_title" : "Snurra",
-    "ui_editor_effect_spin_description" : "Snurra på bilden.",
+    "ui_editor_effect_spin_description" : "Snurrar på bilden.",
     "ui_editor_effect_tint_title" : "Färga",
-    "ui_editor_effect_tint_description" : "Färga bilden med en valfri färg.",
+    "ui_editor_effect_tint_description" : "Färgar bilden med en valfri färg.",
     "ui_editor_effect_transform_title" : "Transformera",
-    "ui_editor_effect_transform_description" : "Tillämpa skalning, rotering och förskjutningar i bilden.",
+    "ui_editor_effect_transform_description" : "Tillämpar skalning, rotering och förskjutningar i bilden.",
     "ui_editor_effect_vhs_title" : "VHS",
     "ui_editor_effect_vhs_description": "Distorsioner och färger som man kan hitta på gamla kassettband.",
     "ui_editor_effect_water_flow_title" : "Vattenflöde",
@@ -980,7 +986,7 @@
     "ui_editor_effect_xray_description" : "Blandar mellan två bilder baserat på pekarens position.",
     "ui_editor_effect_shine_title" : "Glans",
     "ui_editor_effect_shine_description" : "Tillämpar en glänsande effekt på ljusa delar av bilden med ett valfritt antal kanter.",
-    
+
     "ui_editor_preset_variant_small" : "Liten",
     "ui_editor_preset_variant_large" : "Stor",
     "ui_editor_preset_light_shafts_title" : "Ljusstrålar",
@@ -1017,14 +1023,14 @@
     "ui_editor_preset_interactive_description" : "Interaktiva partiklar som påverkas av muspekaren.",
     "ui_editor_preset_abstract_title" : "Abstrakt",
     "ui_editor_preset_abstract_description" : "Allmänna partikeleffekter.",
-	"ui_editor_preset_clock_title" : "Klocka",
-	"ui_editor_preset_clock_description" : "Infoga en klocka i din scen.",
-	"ui_editor_preset_clock_variant_clock" : "Klocka",
-	"ui_editor_preset_clock_variant_3dclock" : "3D-klocka",
-	"ui_editor_preset_countdown_title" : "Nedräkning",
-	"ui_editor_preset_countdown_description" : "Infoga en nedräkning i din scen.",
-	"ui_editor_preset_countdown_variant_release" : "Nedräkning till utgivning",
-    
+    "ui_editor_preset_clock_title" : "Klocka",
+    "ui_editor_preset_clock_description" : "Infoga en klocka i din scen.",
+    "ui_editor_preset_clock_variant_clock" : "Klocka",
+    "ui_editor_preset_clock_variant_3dclock" : "3D-klocka",
+    "ui_editor_preset_countdown_title" : "Nedräkning",
+    "ui_editor_preset_countdown_description" : "Infoga en nedräkning i din scen.",
+    "ui_editor_preset_countdown_variant_release" : "Nedräkning till utgivning",
+
     "ui_editor_paint_overlay_value" : "Värde",
     "ui_editor_paint_overlay_color" : "Färg",
     "ui_editor_paint_overlay_size" : "Storlek",
@@ -1036,7 +1042,7 @@
     "ui_editor_paint_overlay_brush_tooltip_pinch" : "Nyp",
     "ui_editor_paint_overlay_brush_tooltip_spread" : "Sprid ut",
     "ui_editor_paint_overlay_brush_tooltip_spin" : "Snurra",
-    
+
     "ui_editor_stats_title" : "Statistik per bildruta",
     "ui_editor_stats_draw_calls" : "Ritningsanrop:",
     "ui_editor_stats_primitives" : "Utritade former:",
@@ -1047,7 +1053,7 @@
     "ui_editor_stats_particle_memory" : "Partikelminne (MB):",
     "ui_editor_stats_particle_simulation_time" : "Tid för partikelsimulering (ms):",
     "ui_editor_stats_script_execution_time" : "Tid för skriptkörning (ms):",
-    
+
     "ui_editor_script_run" : "Kör",
     "ui_editor_script_run_scripts" : "Kör skript",
     "ui_editor_script_stop" : "Stoppa",
@@ -1068,8 +1074,8 @@
     "ui_editor_script_module_vector_utilities" : "Vektorverktyg",
     "ui_editor_script_module_math_utilities" : "Matteverktyg",
     "ui_editor_script_snippet_rainbow_color" : "Regnbågsfärg",
-    "ui_editor_script_snippet_rotation" : "Rotering",
-    "ui_editor_script_snippet_rotation_pivot" : "Roteringsmittpunkt",
+    "ui_editor_script_snippet_rotation" : "Rotation",
+    "ui_editor_script_snippet_rotation_pivot" : "Rotationsmittpunkt",
     "ui_editor_script_snippet_screen_bounce" : "Skärmstuds",
     "ui_editor_script_snippet_drag_drop" : "Dra och släpp",
     "ui_editor_script_snippet_click_wiggle" : "Svängning vid klick",
@@ -1360,7 +1366,7 @@
     "ui_editor_properties_width" : "Bredd",
     "ui_editor_properties_worldspace" : "Världsrymd",
     "ui_editor_properties_write_alpha" : "Skriv alfa",
-    
+
     "ui_editor_properties_context_menu_bind_user_property" : "Bind användaregenskap",
     "ui_editor_properties_context_menu_unbind_user_property" : "Ta bort användaregenskap",
     "ui_editor_properties_context_menu_edit_user_property" : "Redigera användaregenskap",
@@ -1368,7 +1374,7 @@
     "ui_editor_properties_context_menu_unbind_script" : "Avbinda skript",
     "ui_editor_properties_context_menu_edit_script" : "Redigera skript",
     "ui_editor_properties_context_menu_restore_default_value" : "Återställ standardvärde",
-    
+
     "ui_editor_particle_editor" : "Partikelredigerare",
     "ui_editor_particle_selected" : "Vald:",
     "ui_editor_particle_delete_particle_header" : "Radera partikel",
@@ -1382,12 +1388,12 @@
     "ui_editor_particle_add_element_initializer_header" : "Lägg till initialiserare",
     "ui_editor_particle_add_element_initializer_body" : "Välj en initialiserare som tillämpas när en partikel skapas.",
     "ui_editor_particle_add_element_operator_header" : "Lägg till operatör",
-    "ui_editor_particle_add_element_operator_body" : "Väljer en operatör som simulerar partikeln med tiden.",
+    "ui_editor_particle_add_element_operator_body" : "Välj en operatör som simulerar partikeln med tiden.",
     "ui_editor_particle_add_element_renderer_header" : "Lägg till renderare",
     "ui_editor_particle_add_element_renderer_body" : "Välj en renderare som kontrollerar sättet partiklarna visas på.",
     "ui_editor_particle_add_element_children_header" : "Lägg till underordnad",
     "ui_editor_particle_add_element_children_body" : "Välj ett befintligt partikelsystem som en underordnad.",
-    
+
     "ui_editor_particle_element_group_general" : "Allmänt",
     "ui_editor_particle_element_group_renderers" : "Renderare",
     "ui_editor_particle_element_group_emitters" : "Partikelkällor",
@@ -1395,7 +1401,7 @@
     "ui_editor_particle_element_group_operators" : "Operatörer",
     "ui_editor_particle_element_group_children" : "Underordnade",
     "ui_editor_particle_element_group_control_points" : "Kontrollpunkter",
-    
+
     "ui_editor_particle_element_emitter_boxrandom" : "Slumpartad låda",
     "ui_editor_particle_element_emitter_sphererandom" : "Slumpartad sfär",
     "ui_editor_particle_element_initializer_alpharandom" : "Slumpartat alfa",
@@ -1424,12 +1430,12 @@
     "ui_editor_particle_element_renderer_ropetrail" : "Repsvans",
     "ui_editor_particle_element_renderer_sprite" : "Sprite",
     "ui_editor_particle_element_renderer_spritetrail" : "Spritesvans",
-    
+
     "ui_editor_particle_example_basic" : "Grundläggande",
     "ui_editor_particle_example_cursor_follow" : "Följ pekaren",
     "ui_editor_particle_example_cursor_avoid" : "Undvik pekaren",
     "ui_editor_particle_example_turbulence" : "Turbulens",
-    
+
     "ui_editor_select_material" : "Välj material",
     "ui_editor_select_texture" : "Välj textur"
 }
