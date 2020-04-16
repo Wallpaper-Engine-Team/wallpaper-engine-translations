@@ -1346,5 +1346,21 @@
     "ui_editor_properties_composite": "Composição",
     "ui_editor_properties_cutout": "Corte",
     "ui_editor_properties_monochrome": "Monocromático",
-    "ui_editor_properties_under": "Debaixo"
+    "ui_editor_properties_under": "Debaixo",
+    "ui_browse_filter_reset": "Redefinir Filtros",
+    "ui_browse_filter_help": "Ajuda para Filtros",
+    "ui_browse_explore_category_led_support": "Ótimo com o Razer Chroma e o Corsair iCUE {{emoji}}",
+    "ui_settings_advanced_webm_framework": "Framework WebM:",
+    "ui_settings_plugins_options_led_plugin_max_brightness": "Amplificar cores LED",
+    "ui_settings_video_framework_prefer_chromium": "Preferir Chromium",
+    "ui_settings_video_framework_prefer_native": "Preferir Nativo",
+    "ui_editor_effect_vhs_title": "VHS",
+    "ui_editor_effect_vhs_description": "Distorção e colorização de uma velha fita de vídeo.",
+    "ui_editor_properties_artifacts": "Artefatos",
+    "ui_editor_properties_artifacts_negated": "Inverter artefatos",
+    "ui_editor_properties_chromatic_aberration": "Aberração cromática",
+    "ui_editor_properties_distortion_strength": "Intensidade da distorção",
+    "ui_editor_properties_distortion_speed": "Velocidade da distorção",
+    "ui_editor_properties_distortion_width": "Largura da distorção",
+    "ui_editor_properties_led_source": "Limitar iCUE e Chroma para esta camada"
 }
