@@ -1,7 +1,0 @@
-{
-    "ui_browse_filter_reset": "重置过滤器",
-    "ui_browse_filter_help": "过滤器帮助",
-    "ui_settings_advanced_webm_framework": "WebM框架:",
-    "ui_settings_video_framework_prefer_chromium": "首选Chromium",
-    "ui_settings_video_framework_prefer_native": "首选Native"
-}
