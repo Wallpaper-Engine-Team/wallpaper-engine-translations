@@ -146,6 +146,15 @@ class LanguageFile extends AbstractFile implements LanguageFileInterface
                     ).'"'
                 );
             }
+            // PHP is stupid and does not select self-closing HTML elements so we'll do it manually
+            $baseLineBreaks = substr_count($baseString, '<br/>');
+            $localizedLineBreaks = substr_count($localizedString, '<br/>');
+            if ($baseLineBreaks !== $localizedLineBreaks) {
+                $this->addViolation(
+                    $jsonKey,
+                    'HTML content for "'.$jsonKey.'" does not match base string, HTML <br/> count does not match.'
+                );
+            }
         }
     }
 
