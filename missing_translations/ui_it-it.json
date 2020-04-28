@@ -1,7 +1,7 @@
 {
-    "ui_browse_filter_reset": "Reset Filters",
-    "ui_browse_filter_help": "Filter Help",
-    "ui_settings_advanced_webm_framework": "WebM framework:",
-    "ui_settings_video_framework_prefer_chromium": "Prefer Chromium",
-    "ui_settings_video_framework_prefer_native": "Prefer Native"
+    "ui_browse_filter_reset": "Resetta filtri",
+    "ui_browse_filter_help": "Aiuto per i filtri",
+    "ui_settings_advanced_webm_framework": "Framework WebM:",
+    "ui_settings_video_framework_prefer_chromium": "Preferisco Chromium",
+    "ui_settings_video_framework_prefer_native": "Preferisco Nativo"
 }
