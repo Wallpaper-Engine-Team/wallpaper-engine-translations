@@ -7,7 +7,7 @@
     "ui_editor_pane_header_shader": "Shader - {{name}}",
     "ui_editor_filemenu_show_asset_creation": "Aktifkan Penciptaan Aset",
     "ui_editor_filemenu_prepare_for_publishing": "Terbitkan Latar Belakang di [[[Host]]]",
-    "ui_editor_filemenu_browse_assets": "Jelajah Aset di [[[Host]]]",
+    "ui_editor_filemenu_browse_assets": "Jelajahi Aset di [[[Host]]]",
     "ui_editor_filemenu_publish_asset": "Terbitkan Aset di [[[Host]]]",
     "ui_editor_filemenu_provider": "[[[Platform]]]",
     "ui_editor_review_info_body": "Latar belakang Anda akan ditinjau sebelum pengguna lain dapat menemukan dan mengunduh latar belakang Anda agar memastikan bahwa latar belakang Anda tidak melanggar hukum setempat yang berlaku.<br/><br/>Jika Anda memperbarui latar belakang Anda, latar belakang Anda akan ditinjau kembali dan terdorong ke belakang antrian tinjauan.",
