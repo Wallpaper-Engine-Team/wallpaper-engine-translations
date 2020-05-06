@@ -736,7 +736,6 @@
     "ui_editor_warn_advanced_assets_creation_modal_body" : "Detta alternativ bör endast användas av erfarna användare som är bekanta med redigeraren och har tidigare publicerat några scenbakgrunder.<br/><br/>När detta aktiveras kommer knappar läggas tll i redigeraren som låter dig skapa nya enkla resurser att dela på [[[Host]]] som andra kan återanvända i sina egna bakgrunder.",
 
     "ui_editor_effect_list_modal_browse_workshop" : "Bläddra [[[Host]]]",
-    "ui_editor_effect_list_modal_author" : "Skapades av:",
     "ui_editor_effect_list_modal_create_new" : "Ny",
     "ui_editor_effect_list_modal_create_new_effect_header" : "Skapa ny effekt",
     "ui_editor_effect_list_modal_create_new_effect_body" : "Du håller på att duplicera effekten \"{{effect}}\" och skapa en ny redigerbar effekt där du kan ändra shaders hur du vill.<br/><br/>Välj ett unikt namn på den nya effekten:",
