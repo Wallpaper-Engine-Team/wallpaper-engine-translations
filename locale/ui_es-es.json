@@ -614,7 +614,6 @@
     "ui_editor_filemenu_show_in_workshop": "Ver en [[[Host]]]",
     "ui_editor_filemenu_show_asset_creation": "Activar la creación de recursos",
     "ui_editor_filemenu_prepare_for_publishing": "Compartir fondo de pantalla en [[[Host]]]",
-    "ui_editor_filemenu_prepare_for_publishing": "Preparar para la publicación",
     "ui_editor_filemenu_apply_wallpaper": "Aplicar fondo",
     "ui_editor_filemenu_close_wallpaper": "Cerrar proyecto",
     "ui_editor_filemenu_browse_assets": "Buscar recursos del [[[Host]]]",
