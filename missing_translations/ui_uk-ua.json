@@ -503,7 +503,6 @@
     "ui_editor_user_properties_combo_value": "Selected combo value for this link:",
     "ui_editor_help_tutorial_category_wiki": "Wiki documentation",
     "ui_editor_workshop_rules_modal_title": "[[[Host]]] Rules",
-    "ui_editor_workshop_rules_modal_body": "Before submitting your wallpaper to [[[Host]]], make sure that it does not violate the [[[Platform]]] Terms of Service, otherwise it will be removed:",
     "ui_query_workshop_modal_header_assets": "Browse Assets on [[[Host]]]",
     "ui_editor_toast_project_saved": "Project saved.",
     "ui_editor_toast_project_packed": "Packed wallpapers cannot be opened.",
