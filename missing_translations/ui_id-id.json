@@ -1,21 +1,6 @@
 {
-    "ui_browse_download_error_restart_steam": "Unduhan [[Plattform]] gagal dan akan mencobanya kembali.",
-    "ui_browse_context_menu_results_per_page_50": "50 per halaman",
-    "ui_browse_context_menu_results_per_page_100": "100 per halaman",
-    "ui_browse_context_menu_results_per_page_200": "200 per halaman",
-    "ui_settings_advanced_sleep_hack": "Mode aman setelah hibernasi:",
-    "ui_settings_advanced_sleep_hack_tip": "Gunakan opsi ini jika Anda mempunyai masalah kompatibilitas setelah Windows dihibernasi. Ini akan membuat program dijalankan ulang total setelah hibernasi untuk memperbaiki masalah yang disebabkan oleh program lain pada komputer Anda.<br/><br/><b>Perbaiki kegalatan (crash) setelah hibernasi</b><br/>Jika Wallpaper Engine galat (nge-crash) setelah hibernasi, maka Windows tidak memulihkan driver grafis dan Wallpaper Engine dengan benar dan teratur. Opsi ini mungkin dapat membantu sistem Anda untuk mengatasi permasalahan ini.<br/><br/><b>Perbaiki efek lampu LED setelah hibernasi</b><br/>Beberapa utilitas LED mungkin dapat memblokir koneksi ke Wallpaper Engine setelah hibernasi dan membuat efek lampu LED akan berhenti bekerja. Opsi ini mungkin dapat mengatasi hal tersebut dengan menjalankan ulang total Wallpaper Engine dan membuatnya terhubung kembali dengan utilitas LED.",
-    "ui_settings_advanced_sleep_hack_error_auto_start_header": "Membutuhkan Mulai Otomatis Prioritas Tinggi",
-    "ui_settings_advanced_sleep_hack_error_auto_start_body": "Anda perlu mengaktifkan opsi mulai otomatis dengan <b>prioritas tinggi</b> di bagian atas halaman pengaturan ini sebelum Anda dapat menggunakan opsi ini.",
-    "ui_settings_advanced_sleep_hack_enable_warning_header": "Peringatan",
-    "ui_settings_advanced_sleep_hack_enable_warning_body": "Hanya gunakan opsi ini jika Anda merasakan ada masalah dengan Wallpaper Engine setelah hibernasi.<br/><br/>Opsi ini hanya dibutuhkan jika ada sesuatu yang menyebabkan Wallpaper Engine benar-benar berhenti bekerja setelah hibernasi dan akan membuatnya berjalan ulang dengan sendirinya setiap kali Anda menghibernasikan Windows Anda.",
-    "ui_editor_importer_material_name": "Nama material",
-    "ui_editor_importer_settings": "Pengaturan",
-    "ui_editor_importer_crop_transparency_help": "Area transparan akan dipotong dan gambar Anda akan diubah ukurannya untuk meningkatkan performa.<br/><br/>Jika Anda perbarui gambar Anda nanti, pastikan untuk tidak menyusut atau memperluas area transparannya, dikarenakan hal tersebut dapat menimbulkan masalah dengan efek yang telah Anda tambahkan.",
-    "ui_editor_importer_crop_transparency_warning": "Sepertinya area transparan pada gambar telah berubah. Jika Anda sudah mempunyai efek pada gambar ini Anda mungkin perlu memperbaikinya jika Anda tetap lanjutkan untuk mengimpor gambar ini.",
-    "ui_editor_context_menu_align_with_background": "Luruskan dengan latar belakang",
-    "ui_query_workshop_modal_asset_category_layers": "Lapisan",
-    "ui_query_workshop_modal_asset_category_effects": "Efek",
-    "ui_editor_properties_alignment": "Penjajaran",
-    "ui_editor_properties_crop_transparent_area": "Potong area transparan"
+    "ui_browse_download_error_restart_steam": "[[[Platform]]] download failed.<br/><a class='btn btn-default' href='[[[var_url_faqdownloads]]]'>Help</a>",
+    "ui_editor_filemenu_save_as": "Save As",
+    "ui_editor_save_as_header": "Save As",
+    "ui_editor_save_as_body": "Choose a new project name:"
 }

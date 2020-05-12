@@ -1,5 +1,5 @@
 {
-    "ui_browse_download_error_restart_steam": "[[Plattform]] download failed and will try again.",
+    "ui_browse_download_error_restart_steam": "[[[Platform]]] download failed.<br/><a class='btn btn-default' href='[[[var_url_faqdownloads]]]'>Help</a>",
     "ui_browse_context_menu_results_per_page_50": "50 per page",
     "ui_browse_context_menu_results_per_page_100": "100 per page",
     "ui_browse_context_menu_results_per_page_200": "200 per page",
@@ -9,6 +9,9 @@
     "ui_settings_advanced_sleep_hack_error_auto_start_body": "You need to enable the auto start option with <b>high priority</b> at the top of this page before you can use this.",
     "ui_settings_advanced_sleep_hack_enable_warning_header": "Warning",
     "ui_settings_advanced_sleep_hack_enable_warning_body": "Only use this option if you experience issues with Wallpaper Engine after hibernation.<br/><br/>This option is only required if something causes Wallpaper Engine to stop working properly after hibernation and it will make it restart every time you set Windows to hibernate.",
+    "ui_editor_filemenu_save_as": "Save As",
+    "ui_editor_save_as_header": "Save As",
+    "ui_editor_save_as_body": "Choose a new project name:",
     "ui_editor_importer_material_name": "Material name",
     "ui_editor_importer_settings": "Settings",
     "ui_editor_importer_crop_transparency_help": "The transparent area will be cropped and your image will be resized to improve performance.<br/><br/>If you update your image later, make sure to not shrink or extend the transparent area, since that could cause issues with existing effects that you have added.",
