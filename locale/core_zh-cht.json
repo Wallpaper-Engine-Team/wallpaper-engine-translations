@@ -23,7 +23,7 @@
 	"core_balloon_wallpaper_file_missing": "無法開啟此桌布，因為找不到它的檔案。",
 	"core_msgboxtitle_error": "錯誤",
 	"core_msgboxtitle_app_conflict": "應用程式衝突",
-	"core_msgboxtitle_wpe": "",
+	"core_msgboxtitle_wpe": "Wallpaper Engine",
 	"core_msgbox_deskscapes": "DeskScapes 軟體正在執行中，它可能會妨礙 Wallpaper Engine 的正常運作。",
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engine 需要啟用 Aero 才能運作。要現在啟用 Aero 嗎?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine 無法在「高對比」佈景主題下執行。要讓 Wallpaper Engine 現在重設佈景主題嗎?",
