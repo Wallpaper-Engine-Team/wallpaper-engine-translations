@@ -23,7 +23,7 @@
 	"core_balloon_wallpaper_file_missing": "この壁紙は使用できません。ファイルが不足しています。",
 	"core_msgboxtitle_error": "エラー",
 	"core_msgboxtitle_app_conflict": "競合するアプリケーション",
-	"core_msgboxtitle_wpe": "",
+	"core_msgboxtitle_wpe": "Wallpaper Engine",
 	"core_msgbox_deskscapes": "DeskScapesがアクティブであるため、Wallpaper Engineを動作させることができません。",
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engineは、動作するためにAeroを有効にする必要があります。今すぐAeroを有効にしますか?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engineは、「高コントラスト」のテーマで実行することはできません。 すぐにテーマをリセットしますか?",
