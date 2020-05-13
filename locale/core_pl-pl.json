@@ -23,7 +23,7 @@
 	"core_balloon_wallpaper_file_missing": "Ta tapeta nie może zostać otwarta z powodu braku jej plików.",
 	"core_msgboxtitle_error": "Błąd",
 	"core_msgboxtitle_app_conflict": "Wystąpił konflikt między aplikacjami",
-	"core_msgboxtitle_wpe": "",
+	"core_msgboxtitle_wpe": "Wallpaper Engine",
 	"core_msgbox_deskscapes": "Program DeskScapes jest uruchomiony. Może to spowodować błędy w funkcjonowaniu programu Wallpaper Engine.",
 	"core_msgbox_prompt_aero_win7": "Do poprawnego funkcjonowania program Wallpaper Engine musi uruchomić interfejs graficzny Aero. Czy chcesz uruchomić go teraz?",
 	"core_msgbox_prompt_aero_win8": "Program Wallpaper Engine jest niezgodny z trybem wysokiego kontrastu. Czy chcesz zresetować kompozycję?",
