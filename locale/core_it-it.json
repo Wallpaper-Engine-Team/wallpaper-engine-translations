@@ -23,7 +23,7 @@
 	"core_balloon_wallpaper_file_missing": "Impossibile aprire lo sfondo. File mancanti.",
 	"core_msgboxtitle_error": "Errore",
 	"core_msgboxtitle_app_conflict": "Applicazione in conflitto",
-	"core_msgboxtitle_wpe": "",
+	"core_msgboxtitle_wpe": "Wallpaper Engine",
 	"core_msgbox_deskscapes": "Sembra che DeskScapes sia attivo. Questo può impedire a Wallpaper Engine di funzionare.",
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engine ha bisogno che Aero sia abilitato per funzionare. Abilitare Aero ora?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine non può essere eseguito con un tema ad alto contrasto. Consentire a Wallpaper Engine di provare a reimpostare il tema ora?",
