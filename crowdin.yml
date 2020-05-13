@@ -1,5 +1,5 @@
-translation_replace:
-  en_us: ''
 files:
   - source: /locale/*_en-us.json
     translation: /locale/%file_name%_%locale_with_underscore%.json
+    translation_replace:
+      en_us: ''
