@@ -23,7 +23,7 @@
 	"core_balloon_wallpaper_file_missing": "Denna bakgrund kan inte öppnas eftersom den saknar sina filer.",
 	"core_msgboxtitle_error": "Fel",
 	"core_msgboxtitle_app_conflict": "Programkonflikt",
-	"core_msgboxtitle_wpe": "",
+	"core_msgboxtitle_wpe": "Wallpaper Engine",
 	"core_msgbox_deskscapes": "Det verkar som att DeskScapes körs. Detta kan förhindra Wallpaper Engine från att fungera.",
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engine måste aktivera Aero för att fungera. Ska Wallpaper Engine försöka aktivera Starta Aero åt dig nu?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine kan inte köras med ett högkontrasttema. Ska Wallpaper Engine försöka återställa temat åt dig nu?",
