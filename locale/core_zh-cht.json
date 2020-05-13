@@ -66,7 +66,7 @@
 	"core_updater_status_verify_hash_failed": "",
 	"core_updater_status_verify_success": "",
 	"core_updater_status_verify_failed_message_box_title": "",
-	"core_updater_status_verify_failed_message_box_body": "",
+	"core_updater_status_verify_failed_message_box_body": "Wallpaper Engine 的一些檔案似乎無法安裝。這可能是由於 [[[Platform]]] 中的下載錯誤或防毒程式錯誤地檢測檔案並導致發生問題。如果您有除了 Windows Defender 之外的防毒程式，請確保它不會干擾 [[[Platform]]] 和 Wallpaper Engine。\n\n確保在更新時關閉應用程式（如有必要請透過工作列圖示或工作管理員關閉）並且當前沒有防毒程式正在防護您的電腦。\n\n如果您的防毒程式刪除了 Wallpaper Engine 的檔案，您需要復原它們並將 Wallpaper Engine 的路徑添加到防毒程式的允許清單以使防毒程式停止刪除隨機檔案。",
 	"core_updater_status_compat": "",
 	"core_updater_status_compat_error": "",
 	"core_updater_status_compat_found": "",
