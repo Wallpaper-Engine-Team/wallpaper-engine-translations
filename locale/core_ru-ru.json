@@ -23,7 +23,7 @@
 	"core_balloon_wallpaper_file_missing": "Эти обои невозможно открыть из-за отсутствия файлов.",
 	"core_msgboxtitle_error": "Ошибка",
 	"core_msgboxtitle_app_conflict": "Конфликтующие приложения",
-	"core_msgboxtitle_wpe": "",
+	"core_msgboxtitle_wpe": "Wallpaper Engine",
 	"core_msgbox_deskscapes": "Похоже, что запущен DeskScapes. Это может блокировать работу Wallpaper Engine.",
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engine требует для работы включенный режим Aero. Включить Aero сейчас?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine не может быть запущен вместе с темой \"Высокая контрастность\". Сбросить тему сейчас?",
