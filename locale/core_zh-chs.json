@@ -1,5 +1,5 @@
 {
-	"core_tray_change_wallpaper": "",
+	"core_tray_change_wallpaper": "更改壁纸",
 	"core_tray_browse_workshop": "",
 	"core_tray_create_wallpaper": "",
 	"core_tray_settings": "",
@@ -35,7 +35,7 @@
 	"core_msgbox_init_secondinstance_ask_quit": "",
 	"core_msgbox_init_secondinstance_failed": "",
 	"core_msgbox_below_win_7": "",
-	"core_msgbox_media_feature_pack_missing": "",
+	"core_msgbox_media_feature_pack_missing": "mfplat.dll 文件丢失！\n您使用的可能是 Windows N 版本。请安装 Microsoft 的 Media Feature Pack 以启用视频支持！(Google: Media Feature Pack Windows 10/8.1/7)\n\n",
 	"core_msgbox_ui_file_not_found": "",
 	"core_updater_headline_init": "",
 	"core_updater_headline_update": "",
@@ -66,7 +66,7 @@
 	"core_updater_status_verify_hash_failed": "",
 	"core_updater_status_verify_success": "",
 	"core_updater_status_verify_failed_message_box_title": "",
-	"core_updater_status_verify_failed_message_box_body": "",
+	"core_updater_status_verify_failed_message_box_body": "Wallpaper Engine的某些文件似乎无法安装。这可能是由于Wallpaper Engine的程序文件没有从[[[Platform]]]被正确下载或者杀毒软件错误地检测Wallpaper Engine文件导致。如果您正在使用Windows Defender以外的杀毒软件，请确保此软件不会影响[[[Platform]]]和Wallpaper Engine。\n\n更新期间请确保Wallpaper Engine已经关闭(必要情况下请通过任务栏图标或者任务管理器关闭)，并且没有杀毒软件妨碍更新正常运作。\n\n如果您的杀毒软件检测到来自Wallpaper Engine的文件，您需要重新下载这些文件，并且添加Wallpaper Engine至此杀毒软件的信任程序或白名单，以防止文件再次被删除",
 	"core_updater_status_compat": "",
 	"core_updater_status_compat_error": "",
 	"core_updater_status_compat_found": "",
@@ -85,5 +85,5 @@
 	"core_updater_prompt_close": "",
 	"core_updater_prompt_close_foreign": "",
 	"core_updater_status_directx_not_supported_title": "",
-	"core_updater_status_directx_not_supported_body": ""
+	"core_updater_status_directx_not_supported_body": "看上去您的显卡不支持 DirectX 10 或者您的显卡驱动程序有问题。DirectX 10 是保证此应用程序正常工作的系统要求。\n\n如果您的显卡原本支持 DirectX 10，那么当前的显卡驱动程序可能已经损坏。您可以试着重新安装驱动程序或者与您的硬件供应商（Nvidia，AMD，Intel）联系来解决此问题。"
 }
