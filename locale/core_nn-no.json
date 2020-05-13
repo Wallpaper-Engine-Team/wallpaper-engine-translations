@@ -23,7 +23,7 @@
 	"core_balloon_wallpaper_file_missing": "",
 	"core_msgboxtitle_error": "Feil",
 	"core_msgboxtitle_app_conflict": "Motstridende Applikasjon",
-	"core_msgboxtitle_wpe": "",
+	"core_msgboxtitle_wpe": "Wallpaper Engine",
 	"core_msgbox_deskscapes": "Det ser ut som at DeskScapes er aktivt. Dette kan forhindre Wallpaper Engine fra å fungere.",
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engine trenger å skru på Aereo for å fungere. Vil du skru på Aero nå?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine kan ikke kjøre med et 'høy kontrast' Tema. Reset tema nå?",
