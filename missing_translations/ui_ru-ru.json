@@ -1,6 +1,6 @@
 {
-    "ui_browse_download_error_restart_steam": "[[[Platform]]] download failed.<br/><a class='btn btn-default' href='[[[var_url_faqdownloads]]]'>Help</a>",
-    "ui_editor_filemenu_save_as": "Save As",
-    "ui_editor_save_as_header": "Save As",
-    "ui_editor_save_as_body": "Choose a new project name:"
+    "ui_browse_download_error_restart_steam": "Ошибка загрузки из [[[Platform]]].<br/><a class='btn btn-default' href='[[[var_url_faqdownloads]]]'>Помощь</a>",
+    "ui_editor_filemenu_save_as": "Сохранить как",
+    "ui_editor_save_as_header": "Сохранить как",
+    "ui_editor_save_as_body": "Выберете новое имя проекта:"
 }
