@@ -1,7 +1,6 @@
 {
     "ui_browse_filter_reset": "Reset Filters",
     "ui_browse_filter_help": "Filter Help",
-    "ui_browse_grid_no_results": "No wallpapers found for your search.<br/>Expand or reset the categories in the filter sidebar or try another search term.",
     "ui_browse_grid_no_results_generic": "No results found for your search.<br/>Expand or reset the categories in the filter sidebar or try another search term.",
     "ui_browse_select_prompt_asset": "Please select an asset",
     "ui_browse_steam_status_complete_generic": "[[[Platform]]] update complete.<br/>Wrote {{count}} items to cache.",
