@@ -1,6 +1,6 @@
 {
     "core_tray_change_wallpaper": "Změnit pozadí",
-    "core_tray_browse_workshop": "Prohlížet workshop",
+    "core_tray_browse_workshop": "Prohlížet steam workshop",
     "core_tray_create_wallpaper": "Vytvořit pozadí",
     "core_tray_settings": "Nastavení",
     "core_tray_take_screenshot": "Vytvořit snímek obrazovky",
@@ -29,7 +29,7 @@
     "core_msgbox_prompt_aero_win8": "Wallpaper Engine nemůže spustit téma s vysokým kontrastem. Obnovit téma nyní?",
     "core_msgbox_prompt_high_contrast_was_enabled": "Systém Windows právě aktivoval motiv s vysokým kontrastem, jenž neumožňuje používání aplikace Wallpaper Engine.",
     "core_msgbox_dwm_disabled": "Kompozice na ploše je vypnutá.",
-    "core_msgbox_aero_denied": "Aplikace Wallpaper Engine nemůže pracovat bez prostředí Windows Aero a bude ukončena.",
+    "core_msgbox_aero_denied": "Aplikace Wallpaper Engine bohužel nemůže pracovat bez prostředí Windows Aero a bude ukončena.",
     "core_msgbox_aero_failure": "Nepodařilo se aktivovat prostředí Aero.\n\nZdá se, že systém Windows brání aktivaci prostředí Aero. Bohužel jde o důležitou podmínku a aplikace Wallpaper Engine bez něj nemůže pracovat.\n\nZkuste prostředí Aero aktivovat přímo v nastavení motivů systému Windows a znovu spusťte aplikaci Wallpaper Engine.",
     "core_msgbox_aero_failure_no_support": "Nepodařilo se aktivovat prostředí Aero. Zdá se, že používáte verzi Starter či Basic systému Windows 7, která prostředí Aero nepodporuje a nesplňuje minimální systémové požadavky. Pokud se vám přesto podaří prostředí Aero spustit, bude aplikace Wallpaper Engine fungovat.",
     "core_msgbox_init_secondinstance_ask_quit": "Zdá se, že aplikace Wallpaper Engine je již spuštěna a neodpovídá.\n\nChcete vynutit restartování?",
@@ -76,7 +76,7 @@
     "core_updater_status_cancelled": "Proces byl zrušen uživatelem",
     "core_updater_status_corrupted_system_module_message_box_title": "Systémový soubor chybí nebo je poškozen",
     "core_updater_prompt_close": "Aplikace Wallpaper Engine stále běží, nejdříve ji zavřete. Čeká se na ukončení procesů:",
-    "core_updater_prompt_close_foreign": "Aplikace Wallpaper Engine nemůže pokračovat v aktualizaci, protože nějaký program nejspíš soubory blokuje. Zavřete tyto programy, aby bylo možné pokračovat:",
+    "core_updater_prompt_close_foreign": "Aplikace Wallpaper Engine nemůže pokračovat v aktualizaci, protože nějaký program nejspíše využívá její soubory. Ukončete tyto programy, aby bylo možné pokračovat:",
     "core_updater_status_directx_not_supported_title": "Sada DirectX 10 není podporována",
     "core_updater_status_directx_not_supported_body": "Zdá se, že vaše grafická karta nepodporuje sadu DirectX 10 nebo že je nějaký problém s grafickým ovladačem. DirectX 10 je systémovým požadavkem nezbytným pro správné fungování této aplikace.\n\nPokud by vaše grafická karta DirectX 10 podporovat měla, může být problém způsoben jen poškozeným grafickým ovladačem. Můžete zkusit ovladač přeinstalovat nebo se obrátit na prodejce vašeho hardwaru (Nvidia, AMD, Intel)."
 }
