@@ -360,7 +360,7 @@
 	"ui_browse_report_modal_notes": "Poznámky",
 	"ui_browse_report_modal_success": "Nahlásenie úspešné odoslané!",
 	"ui_browse_report_modal_error": "Odoslanie nahlásenia zlyhalo. Server môže byť offline, nedosiahnuteľný alebo pod údržbou. Skúste to znova neskôr.",
-	"ui_browse_report_modal_error_401": "The report failed to be sent. Your [[[Platform]]] game ticket seems to have expired. Please try restarting [[[Platform]]] and the wallpaper browser to get a new ticket.",
+	"ui_browse_report_modal_error_401": "Nahlásenie sa nepodarilo odoslať. Zdá sa, že vášmu hernému tiketu v službe [[[Platform]]] vypršala platnosť. Skúste službu [[[Platform]]] a prieskumník pozadia reštartovať, aby ste získali nový tiket.",
 	"ui_browse_modal_folder_create_title": "Vytvoriť zložku",
 	"ui_browse_modal_folder_remove_title": "Odstrániť zložku '{{title}}'",
 	"ui_browse_modal_folder_remove_body": "Ste si istý že chceťe vymazať túto zložku?",
