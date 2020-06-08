@@ -1,5 +1,5 @@
 {
-	"ui_caption_browse": "Wallpaper Engine - [[[Platform]]] Edition",
+	"ui_caption_browse": "Просмотр обоев",
 	"ui_caption_settings": "Настройки",
 	"ui_caption_editor": "Редактор обоев",
 	"ui_ok": "ОК",
@@ -734,7 +734,7 @@
 	"ui_editor_effect_list_modal_browse_workshop": "Просмотр [[[Host]]]",
 	"ui_editor_effect_list_modal_create_new": "Новый",
 	"ui_editor_effect_list_modal_create_new_effect_header": "Создать новый эффект",
-	"ui_editor_effect_list_modal_create_new_effect_body": "You are about to create a new, editable effect. You can change the shaders in any way you like.<br/><br/>Choose a unique name for the new effect:",
+	"ui_editor_effect_list_modal_create_new_effect_body": "Вы собираетесь повторить эффект '{{effect}}' и создайте новый редактируемый эффект, где вы можете изменить шейдеры любым удобным вам способом.<br/><br/>Выберите уникальное имя для нового эффекта:",
 	"ui_editor_effect_list_modal_create_duplicate": "Duplicate",
 	"ui_editor_effect_list_modal_create_duplicate_effect_header": "Duplicate Effect",
 	"ui_editor_effect_list_modal_create_duplicate_effect_body": "You are about to duplicate the effect '{{effect}}' and create a new, editable effect where you can change the shaders in any way you like.<br/><br/>Choose a unique name for the new effect:",
