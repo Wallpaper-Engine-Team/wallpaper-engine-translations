@@ -1,5 +1,5 @@
 {
-	"ui_caption_browse": "Wallpaper Engine - [[[Platform]]] Edition",
+	"ui_caption_browse": "Buscar fondos",
 	"ui_caption_settings": "Configuración",
 	"ui_caption_editor": "Editor de fondos",
 	"ui_ok": "Aceptar",
@@ -734,7 +734,7 @@
 	"ui_editor_effect_list_modal_browse_workshop": "[[[Host]]]",
 	"ui_editor_effect_list_modal_create_new": "Nuevo",
 	"ui_editor_effect_list_modal_create_new_effect_header": "Crear nuevo efecto",
-	"ui_editor_effect_list_modal_create_new_effect_body": "You are about to create a new, editable effect. You can change the shaders in any way you like.<br/><br/>Choose a unique name for the new effect:",
+	"ui_editor_effect_list_modal_create_new_effect_body": "Estás a punto de duplicar el efecto '{{effect}}' y crear uno nuevo editable, al cual podrás cambiar las sombras de la forma que quieras.<br/><br/>Elije un nombre para el nuevo efecto:",
 	"ui_editor_effect_list_modal_create_duplicate": "Duplicate",
 	"ui_editor_effect_list_modal_create_duplicate_effect_header": "Duplicate Effect",
 	"ui_editor_effect_list_modal_create_duplicate_effect_body": "You are about to duplicate the effect '{{effect}}' and create a new, editable effect where you can change the shaders in any way you like.<br/><br/>Choose a unique name for the new effect:",
