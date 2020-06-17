@@ -1,4 +1,4 @@
 {
-    "core_updater_status_distro_file_delete": "Deleting file: {{filepath}}",
-    "core_updater_status_distro_file_delete_error": "Failed to delete file: {{error}}"
+    "core_updater_status_distro_file_delete": "Suppression du fichier: {{filepath}}",
+    "core_updater_status_distro_file_delete_error": "Échec de la suppression du fichier: {{error}}"
 }
