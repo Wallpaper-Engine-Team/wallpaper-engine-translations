@@ -725,7 +725,7 @@
 	"ui_editor_publish_assets_modal_header": "Publier le composant sur [[[Host]]]",
 	"ui_editor_publish_assets_modal_select_asset_type": "Choisissez quel type de composants vous souhaitez partager sur [[[Host]]] :",
 	"ui_editor_publish_assets_modal_select_asset_share_variants": "Publiez un pack de composants. Les utilisateurs pourront importer chaque calque séparément.",
-	"ui_editor_publish_assets_modal_select_layers": "Select the layers that you would like to share:",
+	"ui_editor_publish_assets_modal_select_layers": "Sélectionner les calques que vous souhaitez partager :",
 	"ui_editor_publish_assets_modal_select_layers_empty": "There are no eligible layers to choose for sharing.",
 	"ui_editor_publish_assets_modal_select_effect": "Select the effect that you would like to share:",
 	"ui_editor_publish_assets_modal_select_effect_empty": "There are no eligible effects to choose for sharing.",
