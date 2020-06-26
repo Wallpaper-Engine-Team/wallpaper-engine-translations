@@ -77,7 +77,7 @@
 	"core_updater_status_complete": "اكتمل التثبيت بنجاح",
 	"core_updater_status_complete_errors": "اكتمل التثبيت مع أخطاء",
 	"core_updater_status_complete_starting": "...جاري بدء محرك الخلفيات",
-	"core_updater_status_cancelled": "تم الغاء العملية بواسطة المستخدم",
+	"core_updater_status_cancelled": "تم إلغاء العملية من قبل المستخدم",
 	"core_updater_status_corrupted_system_module_message_box_title": "ملف النظام مفقود أو معطل",
 	"core_updater_status_corrupted_system_module_message_box_body": "Your system is broken or it's missing files. Wallpaper Engine cannot work unless your computer is correctly installed. This is an issue with your Windows and it's not an error in Wallpaper Engine.\n\nTry fixing your computer by following these steps:\n\n",
 	"core_updater_status_corrupted_system_module_message_box_body_delete": "- First, delete these files through Windows Explorer:\n{{modules}}\n\n",
