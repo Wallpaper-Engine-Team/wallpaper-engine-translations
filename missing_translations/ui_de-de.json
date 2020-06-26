@@ -1,5 +1,0 @@
-{
-    "ui_overlay_connecting_provider": "Connecting to [[[Platform]]]...",
-    "ui_browse_steam_status_unavailable_cache_assets": "[[[Platform]]] is unavailable.<br/>Loaded {{count}} assets from cache.",
-    "ui_browse_properties_alignment_flip_horizontally": "<span class='fas fa-exchange propertyIcon'></span>Flip"
-}
