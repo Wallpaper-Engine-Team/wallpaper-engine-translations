@@ -766,7 +766,7 @@
 	"ui_editor_workshop_modal_rating_body": "The preview image must be suitable for everyone. Please refer to this table to choose an appropriate content rating. If in doubt, choose a more restrictive rating. Submitting illegal content or rating your submission too low can get the submission banned and the account flagged. Keep in mind that you do not need to submit wallpapers to use them for yourself.",
 	"ui_editor_workshop_modal_rating_current": "Current rating:",
 	"ui_editor_workshop_modal_rating_no_rating_info_header": "Suitable Content",
-	"ui_editor_workshop_modal_rating_no_rating_info_body": "Please make sure that any content you upload is suitable for everyone! If you upload anything questionable or illegal, your submission or your entire account may be banned.",
+	"ui_editor_workshop_modal_rating_no_rating_info_body": "يرجى التأكد من أن أي محتوى تقوم بتحميله مناسب للجميع! إذا قمت بتحميل أي شيء مشكوك فيه أو غير قانوني، فقد يتم حظر إرسالك أو حسابك بالكامل.",
 	"ui_editor_open_modal_header": "فتح خلفية",
 	"ui_editor_open_modal_delete": " حذف",
 	"ui_editor_context_menu_center": "Center",
