@@ -186,7 +186,7 @@
 	"ui_browse_properties_alignment_center": "กึ่งกลาง",
 	"ui_browse_properties_alignment_stretch": "ยืด",
 	"ui_browse_properties_alignment_position": "<span class='fas fa-arrows-alt-h propertyIcon'></span>ตำแหน่ง",
-	"ui_browse_properties_alignment_flip_horizontally": "<span class='fas fa-exchange propertyIcon'></span>Flip",
+	"ui_browse_properties_alignment_flip_horizontally": "<span class='fas fa-exchange propertyIcon'></span>พลิก",
 	"ui_browse_properties_mouse_parallax": "<span class='fas fa-mouse-pointer propertyIcon'></span>Parallax แบบใช้เมาส์",
 	"ui_browse_playlist_header": "เพลย์ลิสต์",
 	"ui_browse_playlist_button_load": "โหลด",
