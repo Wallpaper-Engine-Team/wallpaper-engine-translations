@@ -1114,7 +1114,7 @@
 	"ui_editor_script_unsaved_changes_header": "การเปลี่ยนแปลงที่ไม่ได้บันทึก",
 	"ui_editor_script_unsaved_changes_body": "มีการเปลี่ยนแปลงที่ไม่ได้บันทึก คุณต้องการเก็บไว้หรือไม่",
 	"ui_editor_script_format_document": "",
-	"ui_editor_script_documentation": "",
+	"ui_editor_script_documentation": "เอกสารสนับสนุน",
 	"ui_editor_script_insert_function": "",
 	"ui_editor_script_insert_property": "",
 	"ui_editor_script_replace_code": "",
