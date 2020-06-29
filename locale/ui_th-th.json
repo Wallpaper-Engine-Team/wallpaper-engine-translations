@@ -1158,7 +1158,7 @@
 	"ui_editor_shader_variable_slider_int": "แถบเลื่อนแบบจำนวนเต็ม",
 	"ui_editor_shader_variable_linked_slider": "แถบเลื่อนที่เชื่อมโยงกัน",
 	"ui_editor_shader_variable_color_picker": "Color Picker",
-	"ui_editor_shader_variable_uv_picker": "UV Position Picker",
+	"ui_editor_shader_variable_uv_picker": "ตัวเลือกตำแหน่งแกนแผนที่",
 	"ui_editor_shader_snippet_basic_image_vertex": "Basic Effect Vertex Shader",
 	"ui_editor_shader_snippet_basic_image_fragment": "Basic Effect Fragment Shader",
 	"ui_editor_shader_combo_checkbox": "Combo - Checkbox",
