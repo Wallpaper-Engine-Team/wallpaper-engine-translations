@@ -646,7 +646,7 @@
 	"ui_editor_no_animation_modal_header": "วอลเปเปอร์ไม่เคลื่อนไหว",
 	"ui_editor_no_animation_modal_body": "ดูเหมือนว่าคุณกำลังพยายามอัปโหลดวอลเปเปอร์ที่ไม่มีการเคลื่อนไหว<b>ซึ่งเราไม่แนะนำ</b><br/><br/>Wallpaper Engine ได้รับการปรับแต่งมาสำหรับวอลเปเปอร์ภาพเคลื่อนไหว ดังนั้นหากคุณต้องการใช้เพียงภาพนิ่ง ขอแนะนำให้ใช้ระบบปฏิบัติการของคุณเพื่อดำเนินการในกรณีนี้<br/><br/>คุณต้องการดำเนินการต่อหรือไม่",
 	"ui_editor_review_info_header": "ตรวจสอบกระบวนการ",
-	"ui_editor_review_info_body": "Your wallpaper will be reviewed before other users can find and download it to ensure that it doesn't violate any local laws.<br/><br/>If you update your wallpaper, it has to be reviewed again and is pushed to the back of the queue.",
+	"ui_editor_review_info_body": "วอลเปเปอร์ของคุณจะได้รับการตรวจสอบก่อนที่ผู้ใช้รายอื่นจะสามารถค้นหาและดาวน์โหลดได้ ทั้งนี้เพื่อให้แน่ใจว่าจะไม่ละเมิดกฎหมายท้องถิ่นใด ๆ<br/><br/>หากคุณอัปเดตวอลเปเปอร์ของคุณ วอลเปเปอร์จะถูกตรวจสอบอีกครั้งและกลับไปอยู่คิวสุดท้าย",
 	"ui_editor_treeview_header_files": "ไฟล์ที่นำเข้า",
 	"ui_editor_tooltip_layers": "เลเยอร์",
 	"ui_editor_tooltip_scene_options": "ตัวเลือกฉาก",
