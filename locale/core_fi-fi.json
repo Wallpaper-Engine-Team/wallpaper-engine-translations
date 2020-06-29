@@ -27,7 +27,7 @@
 	"core_msgbox_deskscapes": "Näyttää siltä, että DeskScapes on käynnissä. Tämä voi estää Wallpaper Enginen toiminnan.",
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engine tarvitsee luvan käyttääkseen Windows Aeroa. Kytketäänkö Aero päälle?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine ei pysty suorittamaan suuren kontrastin teemaa. Resetoi teema nyt?",
-	"core_msgbox_prompt_high_contrast_was_enabled": "Windows has just applied a 'high contrast' theme which does not allow Wallpaper Engine to work.",
+	"core_msgbox_prompt_high_contrast_was_enabled": "Windows on ottanut käyttöön \"suuren kontrastin\" teeman, mikä estää Wallpaper Engineä toimimasta.",
 	"core_msgbox_dwm_disabled": "DWM on pois käytöstä.",
 	"core_msgbox_aero_denied": "Wallpaper Engine tarvitsee Windowsin Aero-ominaisuutta.",
 	"core_msgbox_aero_failure": "Failed to enable Aero.\n\nIt looks like Windows is preventing Aero from being enabled, unfortunately it is an important requirement and Wallpaper Engine cannot work without it.\n\nTry to enable Aero in the Windows theme options directly and start Wallpaper Engine again.",
