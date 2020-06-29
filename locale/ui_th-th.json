@@ -171,7 +171,7 @@
 	"ui_browse_modal_subscribe_preset_body": "วอลเปเปอร์ <b>{{title}}</b> เป็นค่าที่ตั้งล่วงหน้าสำหรับวอลเปเปอร์อื่นที่คุณต้องสมัครเพื่อใช้งานเช่นกัน <br/><br/>สมัครรับข้อมูลทั้งสองตอนนี้หรือไม่",
 	"ui_browse_modal_subscribe_preset_open_dependency": "เปิดการพึ่งพา",
 	"ui_browse_open_url_header": "เปิดวอลเปเปอร์จาก URL",
-	"ui_browse_open_url_hotkey_info": "To use your keyboard on the wallpaper, hide the icons with this hotkey first:",
+	"ui_browse_open_url_hotkey_info": "ในการใช้แป้นพิมพ์บนวอลเปเปอร์ ให้ซ่อนไอคอนด้วยฮอตคีย์นี้ก่อน:",
 	"ui_browse_modal_proceed": "ดำเนินการ",
 	"ui_browse_modal_advertise_workshop_header": "เบราเซอร์ [[[Host]]] ในแอพ",
 	"ui_browse_modal_advertise_workshop_body": "ใช้ตัวเลือกตัวกรองด้านซ้ายแทนการค้นหาบน [[[Platform]]] โดยตรงเพื่อค้นหาสิ่งที่คุณกำลังมองหาอย่างง่ายดายยิ่งขึ้น<br/><br/>คลิกที่ <b>อนุมัติแล้ว</b> <span class='fas fa-trophy browseWallpaperApproved'></span> เพื่อเรียกดูวอลเปเปอร์ที่เลือกสรรด้วยตนเอง หากคุณกำลังมองหาผลงานที่มีคุณภาพ ให้เรียกดูเนื้อหาที่ 'ได้รับความนิยมสูงสุด' หรือ 'ได้รับคะแนนสูงสุด'",
