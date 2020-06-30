@@ -4,11 +4,11 @@
 
 This repository hosts the translation files for Wallpaper Engine ( http://store.steampowered.com/app/431960 ) to make collaboration easier.
 
-If you want to contribute translations or just want to fix minor issues, it's best if you do so on Crowdin which is the translation platform that we use:
+If you want to contribute translations or just want to fix minor issues, you do so on Crowdin which is the translation platform that we use:
 
 https://crwd.in/wallpaper-engine
 
-If you have any questions about Crowdin, feel free to send us an email at support@wallpaperengine.io. You can still make pull requests to this repository but we strongly recommend using Crowdin directly, the user experience is much better and the signup process is really quick.
+If you have any questions about Crowdin, feel free to send us an email at support@wallpaperengine.io. Pull requests have been retired in favor of Crowdin.
 
 ---------------------------
 
