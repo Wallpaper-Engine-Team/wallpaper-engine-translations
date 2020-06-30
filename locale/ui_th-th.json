@@ -1174,6 +1174,7 @@
 	"ui_editor_properties_angles": "มุม",
 	"ui_editor_properties_animation_mode": "โหมดภาพเคลื่อนไหว",
 	"ui_editor_properties_animation_speed": "ความเร็วภาพเคลื่อนไหว",
+	"ui_editor_properties_artifacts": "สิ่งประดิษฐ์",
 	"ui_editor_properties_audio_amount": "จำนวนเสียง",
 	"ui_editor_properties_audio_bounds": "ขอบเขตของเสียง",
 	"ui_editor_properties_audio_exponent": "เอกซ์โพเนนของเสียง",
