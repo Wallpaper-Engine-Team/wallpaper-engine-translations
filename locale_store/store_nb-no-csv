@@ -1,0 +1,37 @@
+system_requirements,"Windows N versjoner krever 'Media Feature Pack' fra Microsoft. Aero må aktiveres på Windows 7. Høykontrastsmodus er ikke støttet. Maks video oppløsing for Windows 8, 10: 4K, Windows 7: 1080p
+"
+description_short,Bruk kule levende bakgrunner på din datamaskin. Animer dine egene bilder for å lage nye bakgrunner eller importer videoer/nettsider og del dem på Steam Workshop!
+description_long,"Wallpaper Engine lar deg bruke levende bakgrunner på din Windows datamaskin. Forskjellige typer av animerte bakgrunner er støttet, inkludert 3D og 2D animasjoner, nettsider, videoer og til og med forskjellige programmer. Velg en eksisterende bakgrunn eller lag din egen og del den på Steam Workshop!
+
+[img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
+
+[list]
+[*]Bring ditt skrivebord til live med realistisk realtids grafikk, videoer, program eller nettsider.
+[*]Personaliser animerte bakgrunner med dine favoritt farger.
+[*]Bruk interaktive bakgrunner som kan bli kontrollert med musen din.
+[*]Mange størrelsesforhold og oppløsninger er støttet inkludert 16:9, 21:9, 16:10, 4:3.
+[*]Støtte for milijøer med flere skjermer.
+[*]Bakgrunner vil pause når du spiller spill for å få bedre ytelse.
+[*]Lag dine egene animerte bakgreunner i Wallpaper Engine Bakgrunnsbilde redigerer.
+[*]Animer nye levende bakgrunner fra enkle bilder eller importer HTML eller video filer til bakgrunnen.
+[*]Bruk Steam Workshop for å dele og laste ned bakgrunner.
+[*]Wallpaper Engine kan bli brukt på samme tid som alle andre Steam spill eller program.
+[*]Støtta video formater: mp4, WebM, avi, m4v, mov, wmv (for lokale filer, Workshop tillater berre mp4).
+[*]Støtte for Corsair iCUE.
+[/list]
+
+[img]{STEAM_APP_IMAGE}/extras/title_performance.png[/img]
+[h2][/h2]
+Wallpaper Engine sikter på å levere en underholdene opplevelse ved å bruke så få system resurser som mulig. Du kan velge å automatisk pause eller å stoppe bakgrunnen mens du bruker et annet program eller spiller med fullskjerm (inkludert grenseløst vindu modus) for å ikke distrahere eller hindre deg når du spiller et spill eller jobber. Mange alternativer for å endre kvalitet og ytelsen for å få Wallpaper Engine til å passe din datamaskin perfekt. Som en tommelfingerregel, 3D, 2D og video baserte bakgrunner vil yte best, mens nettsider og program vil trenge mer resurser fra systemet ditt. Å ha en dedikert GPU er høyt anbefalt, men ikke nødvendig.
+[h2][/h2]
+[img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
+[h2][/h2]
+Velg fra over 350.000 gratis bakgrunner fra Steam Workshop med nye bakgrunner opplastet vær dag! Kan du ikke finne en bakgrunn som passer til humøret ditt? La fantasien din gå løpsk ved å bruke Wallpaper Engine Editor til å lage din egen animerte bakgrunn fra bilder, videoer, nettsider eller programmer. Et stort utvalg av maler og effekter lar deg animere dine egene bilder og dele dem på Steam Workshop eller berre bruk dem selv."
+description_image_features,Funksjoner
+description_image_performance,Ytelse
+screenshot_text_customization,tilpass bakgrunner
+screenshot_text_performance,mange instillinger for å finjustere ytelsen.
+screenshot_text_images,Animer dine egene bilder
+screenshot_text_tools,Mange verktøy for å lage animasjoner
+screenshot_text_presets,Legg raskt til forhåndsinnstilte effekter
+screenshot_text_effects,Bygg dine egene komplekse effekter 
