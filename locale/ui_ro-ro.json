@@ -112,7 +112,7 @@
 	"ui_browse_properties_scheme_color": "Schemă de culoare",
 	"ui_browse_properties_playback_rate": "Viteză de redare",
 	"ui_browse_properties_volume": "Volum",
-	"ui_browse_properties_volume_disabled": "</span>Audio dezactivat în setări",
+	"ui_browse_properties_volume_disabled": "Audio dezactivat în setări",
 	"ui_browse_properties_audio_recording": "Înregistrare audio",
 	"ui_browse_properties_alignment": "Aliniere",
 	"ui_browse_properties_alignment_cover": "Copertă",
