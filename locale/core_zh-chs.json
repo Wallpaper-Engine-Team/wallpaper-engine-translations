@@ -58,7 +58,7 @@
 	"core_updater_status_distro_file_copy": "正在复制文件：{{filepath}}",
 	"core_updater_status_distro_file_skip": "正在跳过相同文件：{{filepath}}",
 	"core_updater_status_distro_file_copy_error": "无法复制文件：{{error}}",
-	"core_updater_status_distro_file_delete": "删除文件：{{filepath}}",
+	"core_updater_status_distro_file_delete": "正在删除文件：{{filepath}}",
 	"core_updater_status_distro_file_delete_error": "删除文件失败：{{error}}",
 	"core_updater_status_verify": "正在验证安装...",
 	"core_updater_status_verify_file_missing": "缺少文件：{{filepath}}",
