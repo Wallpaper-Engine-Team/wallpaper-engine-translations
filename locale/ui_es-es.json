@@ -178,7 +178,7 @@
 	"ui_browse_properties_scheme_color": "Color del tema",
 	"ui_browse_properties_playback_rate": "Velocidad de reproducción",
 	"ui_browse_properties_volume": "Volumen",
-	"ui_browse_properties_volume_disabled": "Audio desactivado en ajustes",
+	"ui_browse_properties_volume_disabled": "</span>Audio desactivado en ajustes",
 	"ui_browse_properties_audio_recording": "Grabación de audio",
 	"ui_browse_properties_alignment": "Posicionamiento",
 	"ui_browse_properties_alignment_cover": "Rellenar",
