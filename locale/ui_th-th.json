@@ -178,7 +178,7 @@
 	"ui_browse_properties_scheme_color": "สีชุดรูปแบบ",
 	"ui_browse_properties_playback_rate": "อัตราการเล่น",
 	"ui_browse_properties_volume": "ระดับเสียง",
-	"ui_browse_properties_volume_disabled": "</span>เสียงถูกปิดใช้งานในการตั้งค่า",
+	"ui_browse_properties_volume_disabled": "เสียงถูกปิดใช้งานในการตั้งค่า",
 	"ui_browse_properties_audio_recording": "การบันทึกเสียง",
 	"ui_browse_properties_alignment": "การจัดแถว",
 	"ui_browse_properties_alignment_cover": "ครอบคลุม",
