@@ -174,7 +174,7 @@
 	"ui_browse_properties_scheme_color": "Järjestelmän väri",
 	"ui_browse_properties_playback_rate": "Toistamis nopeus",
 	"ui_browse_properties_volume": "Äänenvoimakkuus",
-	"ui_browse_properties_volume_disabled": "Äänet mykistetty asetuksista",
+	"ui_browse_properties_volume_disabled": "</span>Äänet mykistetty asetuksista",
 	"ui_browse_properties_audio_recording": "Äänen nauhoittaminen",
 	"ui_browse_properties_alignment": "Suuntaus",
 	"ui_browse_properties_alignment_cover": "Kansi",
