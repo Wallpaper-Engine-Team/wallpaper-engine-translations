@@ -1,6 +1,9 @@
 {
     "ui_caption_browse": "Wallpaper Engine - [[[Platform]]] Edition",
     "ui_show_details": "Show Details",
+    "ui_modal_trial_version_start_title": "Trial Version",
+    "ui_modal_trial_version_start_body": "You are using a trial version of Wallpaper Engine. It will close automatically after {{hrs}} hours of usage time.",
+    "ui_modal_pagination_enter_page_title": "Enter page #",
     "ui_overlay_connecting_provider": "Connecting to [[[Platform]]]...",
     "ui_browse_filter_reset": "Reset Filters",
     "ui_browse_filter_help": "Filter Help",
@@ -15,7 +18,7 @@
     "ui_browse_monitors_mute": "Mute",
     "ui_browse_monitors_unmute": "Unmute",
     "ui_browse_modal_unsubscribe_body_short": "Are you sure that you want to unsubscribe from: <b>{{title}}</b>?",
-    "ui_browse_properties_alignment_flip_horizontally": "<span class='fas fa-exchange propertyIcon'></span>Flip",
+    "ui_browse_properties_alignment_flip_horizontally": "Flip",
     "ui_browse_playlist_button_load": "Load",
     "ui_browse_playlist_button_save": "Save",
     "ui_browse_playlist_button_configure": "Configure",

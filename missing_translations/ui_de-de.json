@@ -1,4 +1,7 @@
 {
+    "ui_modal_trial_version_start_title": "Trial Version",
+    "ui_modal_trial_version_start_body": "You are using a trial version of Wallpaper Engine. It will close automatically after {{hrs}} hours of usage time.",
+    "ui_modal_pagination_enter_page_title": "Enter page #",
     "ui_browse_monitors_mute": "Mute",
     "ui_browse_monitors_unmute": "Unmute",
     "ui_browse_context_menu_block_author": "Block {{author}}",

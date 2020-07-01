@@ -1,9 +1,12 @@
 {
+    "ui_modal_trial_version_start_title": "Trial Version",
+    "ui_modal_trial_version_start_body": "You are using a trial version of Wallpaper Engine. It will close automatically after {{hrs}} hours of usage time.",
+    "ui_modal_pagination_enter_page_title": "Enter page #",
     "ui_overlay_connecting_provider": "Connecting to [[[Platform]]]...",
     "ui_browse_steam_status_unavailable_cache_assets": "[[[Platform]]] is unavailable.<br/>Loaded {{count}} assets from cache.",
     "ui_browse_monitors_mute": "Mute",
     "ui_browse_monitors_unmute": "Unmute",
-    "ui_browse_properties_alignment_flip_horizontally": "<span class='fas fa-exchange propertyIcon'></span>Flip",
+    "ui_browse_properties_alignment_flip_horizontally": "Flip",
     "ui_browse_context_menu_block_author": "Block {{author}}",
     "ui_browse_context_menu_unblock_author": "Unblock {{author}}",
     "ui_settings_plugins_options_led_plugin_source_monitor": "Source monitor",
