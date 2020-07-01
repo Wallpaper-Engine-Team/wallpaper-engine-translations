@@ -127,7 +127,7 @@
 	"ui_browse_properties_scheme_color": "Цветова схема",
 	"ui_browse_properties_playback_rate": "Скорост на възпроизвеждане",
 	"ui_browse_properties_volume": "Сила на звука",
-	"ui_browse_properties_volume_disabled": "Звукът е деактивиран от настройките",
+	"ui_browse_properties_volume_disabled": "</span>Звукът е деактивиран от настройките",
 	"ui_browse_properties_audio_recording": "Записва се звук",
 	"ui_browse_properties_alignment": "Подравняване",
 	"ui_browse_properties_alignment_cover": "Покрий изцяло",
