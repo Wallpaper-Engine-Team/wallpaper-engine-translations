@@ -166,7 +166,7 @@
 	"ui_browse_properties_scheme_color": "구성표 색",
 	"ui_browse_properties_playback_rate": "재생 속도",
 	"ui_browse_properties_volume": "볼륨",
-	"ui_browse_properties_volume_disabled": "설정에서 오디오 비활성화됨",
+	"ui_browse_properties_volume_disabled": "</span>설정에서 오디오 비활성화됨",
 	"ui_browse_properties_audio_recording": "오디오 녹음",
 	"ui_browse_properties_alignment": "정렬",
 	"ui_browse_properties_alignment_cover": "커버",
