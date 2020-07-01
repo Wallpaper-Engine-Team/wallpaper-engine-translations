@@ -1,6 +1,7 @@
 {
     "ui_caption_browse": "Wallpaper Engine - [[[Platform]]] Edition",
     "ui_show_details": "Show Details",
+    "ui_modal_pagination_enter_page_title": "Enter page #",
     "ui_overlay_connecting_provider": "Connecting to [[[Platform]]]...",
     "ui_browse_filter_reset": "Reset Filters",
     "ui_browse_filter_help": "Filter Help",
@@ -35,7 +36,7 @@
     "ui_browse_modal_subscribe_preset_open_dependency": "Open Dependency",
     "ui_browse_open_url_hotkey_info": "To use your keyboard on the wallpaper, hide the icons with this hotkey first:",
     "ui_browse_modal_advertise_workshop_header": "In-App [[[Host]]] Browser",
-    "ui_browse_properties_alignment_flip_horizontally": "<span class='fas fa-exchange propertyIcon'></span>Flip",
+    "ui_browse_properties_alignment_flip_horizontally": "Flip",
     "ui_browse_playlist_button_load": "Load",
     "ui_browse_playlist_button_save": "Save",
     "ui_browse_playlist_button_configure": "Configure",

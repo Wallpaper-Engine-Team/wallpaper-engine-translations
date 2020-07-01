@@ -1,5 +1,6 @@
 {
     "ui_caption_browse": "Wallpaper Engine - [[[Platform]]] Edition",
+    "ui_modal_pagination_enter_page_title": "Enter page #",
     "ui_overlay_connecting_provider": "Connecting to [[[Platform]]]...",
     "ui_browse_grid_no_results": "No wallpapers found for your search.<br/>Expand or reset the categories in the filter sidebar or try another search term.",
     "ui_browse_steam_status_unavailable_cache_assets": "[[[Platform]]] is unavailable.<br/>Loaded {{count}} assets from cache.",
@@ -15,7 +16,7 @@
     "ui_browse_monitors_unmute": "Unmute",
     "ui_browse_filter_source_workshop": "[[[Host]]]",
     "ui_browse_modal_advertise_workshop_header": "In-App [[[Host]]] Browser",
-    "ui_browse_properties_alignment_flip_horizontally": "<span class='fas fa-exchange propertyIcon'></span>Flip",
+    "ui_browse_properties_alignment_flip_horizontally": "Flip",
     "ui_browse_list_source_workshop": "[[[Host]]]",
     "ui_browse_modal_no_steam_body": "[[[Sdk]]] could not be initialized. Please try to restart [[[Platform]]] and afterwards Wallpaper Engine. If you continue seeing this error, this means that your PC cannot correctly authenticate with the [[[Platform]]] servers, check your internet connection and whether you are logged into the correct [[[Platform]]] account.<br/><br/>Do not launch [[[Platform]]] as administrator, that prevents [[[Sdk]]] from connecting to [[[Platform]]]. An anti-virus or security software could be preventing [[[Platform]]] and Wallpaper Engine from working together as well, try turning that off.</br></br>Check the FAQ to get more help if needed: <a href='[[[var_url_faqsteam]]]'>Fix [[[Platform]]] Connection</a>",
     "ui_browse_context_menu_workshop": "Open in [[[Host]]]",
