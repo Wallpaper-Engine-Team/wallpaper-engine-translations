@@ -75,15 +75,15 @@
 	"core_updater_status_compat_message_box_body_item_exclude": "{{name}}：排除 Wallpaper Engine",
 	"core_updater_status_compat_message_box_body_item_update": "{{name}}：更新到版本 {{version}}",
 	"core_updater_status_complete": "安装成功",
-	"core_updater_status_complete_errors": "安装完成时出错",
+	"core_updater_status_complete_errors": "安装完成，但出现错误",
 	"core_updater_status_complete_starting": "正在启动 Wallpaper Engine...",
 	"core_updater_status_cancelled": "进程已被用户取消",
 	"core_updater_status_corrupted_system_module_message_box_title": "系统文件缺失或损坏",
-	"core_updater_status_corrupted_system_module_message_box_body": "您的系统有故障或者某些文件丢失。 您必须确保您的系统正确安装，Wallpaper Engine才能正常运行。故障出自您的Windows系统，而非Wallpaper Engine。\n\nT请尝试通过以下步骤修复您的系统:\n\n",
-	"core_updater_status_corrupted_system_module_message_box_body_delete": "- 第一步, 通过文件浏览器删除一下文件:\n{{modules}}\n\n",
-	"core_updater_status_corrupted_system_module_message_box_body_install_directx": "- 找到并运行以下文件重新安装DirectX:\n{{installers}}\n或者，从Microsoft官方网站重新下载安装DirectX 9",
-	"core_updater_prompt_close": "Wallpaper Engine 仍在运行中，请先关闭它。正在等待以下进程关闭：",
+	"core_updater_status_corrupted_system_module_message_box_body": "您的系统有故障或者某些文件丢失。您必须确保正确安装系统，否则 Wallpaper Engine 无法正常工作。问题出自您的 Windows 系统，而非 Wallpaper Engine。\n\n请尝试通过以下步骤修复计算机：\n\n",
+	"core_updater_status_corrupted_system_module_message_box_body_delete": "- 首先，通过 Windows 资源管理器删除以下文件：\n{{modules}}\n\n",
+	"core_updater_status_corrupted_system_module_message_box_body_install_directx": "- 找到并运行以下文件，以重新安装 DirectX：\n{{installers}}\n或者，从 Microsoft 网站重新下载 DirectX 9。",
+	"core_updater_prompt_close": "Wallpaper Engine 仍在运行中，请先将其关闭。正在等待以下进程关闭：",
 	"core_updater_prompt_close_foreign": "Wallpaper Engine 无法继续更新，因为某个程序似乎正在锁定文件。请关闭这些程序以继续：",
 	"core_updater_status_directx_not_supported_title": "不支持 DirectX 10",
-	"core_updater_status_directx_not_supported_body": "看上去您的显卡不支持 DirectX 10 或者您的显卡驱动程序有问题。DirectX 10 是保证此应用程序正常工作的系统要求。\n\n如果您的显卡原本支持 DirectX 10，那么当前的显卡驱动程序可能已经损坏。您可以试着重新安装驱动程序或者与您的硬件供应商（Nvidia，AMD，Intel）联系来解决此问题。"
+	"core_updater_status_directx_not_supported_body": "您的显卡似乎不支持 DirectX 10 或者您的显卡驱动程序有问题。DirectX 10 是确保此应用程序正常工作的系统要求。\n\n如果您的显卡原本支持 DirectX 10，那么当前的显卡驱动程序可能已经损坏。您可以尝试重新安装驱动程序，或与硬件供应商（Nvidia、AMD、Intel）联系以解决此问题。"
 }
