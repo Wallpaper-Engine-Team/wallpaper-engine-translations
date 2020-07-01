@@ -1,22 +1,4 @@
 {
     "ui_modal_pagination_enter_page_title": "Enter page #",
-    "ui_overlay_connecting_provider": "Connecting to [[[Platform]]]...",
-    "ui_browse_steam_status_unavailable_cache_assets": "[[[Platform]]] is unavailable.<br/>Loaded {{count}} assets from cache.",
-    "ui_browse_monitors_mute": "Mute",
-    "ui_browse_monitors_unmute": "Unmute",
-    "ui_browse_properties_alignment_flip_horizontally": "Flip",
-    "ui_browse_context_menu_block_author": "Block {{author}}",
-    "ui_browse_context_menu_unblock_author": "Unblock {{author}}",
-    "ui_settings_plugins_options_led_plugin_source_monitor": "Source monitor",
-    "ui_settings_plugins_options_led_plugin_source_monitor_option_default": "Default",
-    "ui_workshop_tags_scene": "Scene",
-    "ui_workshop_tags_video": "Video",
-    "ui_workshop_tags_web": "Web",
-    "ui_workshop_tags_application": "Application",
-    "ui_workshop_tags_local": "Local",
-    "ui_workshop_tags_local_scene": "Local Scene",
-    "ui_workshop_tags_local_video": "Local Video",
-    "ui_workshop_tags_local_web": "Local Web",
-    "ui_workshop_tags_local_application": "Local Application",
-    "ui_workshop_tags_local_url": "Local URL"
+    "ui_browse_properties_alignment_flip_horizontally": "Flip"
 }

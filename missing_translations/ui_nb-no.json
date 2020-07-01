@@ -111,6 +111,8 @@
     "ui_browse_modal_advertise_workshop_header": "In-App [[[Host]]] Browser",
     "ui_browse_modal_advertise_workshop_body": "Use the filter options on the left side to more easily find what you are looking for rather than searching on [[[Platform]]] directly.<br/><br/>Click on <b>Approved</b> <span class='fas fa-trophy browseWallpaperApproved'></span> to browse hand-picked wallpapers. Browse the 'most popular' or 'top rated' content if you are looking for high quality submissions.",
     "ui_browse_modal_advertise_workshop_footer": "Which genres are you interested in?",
+    "ui_browse_properties_playback_rate": "Playback rate",
+    "ui_browse_properties_volume": "Volume",
     "ui_browse_properties_alignment": "Alignment",
     "ui_browse_properties_alignment_cover": "Cover",
     "ui_browse_properties_alignment_center": "Center",

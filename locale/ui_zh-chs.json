@@ -180,7 +180,7 @@
 	"ui_browse_properties_scheme_color": "主题配色",
 	"ui_browse_properties_playback_rate": "播放速度",
 	"ui_browse_properties_volume": "音量",
-	"ui_browse_properties_volume_disabled": "</span>在设置中禁用音频",
+	"ui_browse_properties_volume_disabled": "在设置中禁用音频",
 	"ui_browse_properties_audio_recording": "录音",
 	"ui_browse_properties_alignment": "对齐方式",
 	"ui_browse_properties_alignment_cover": "覆盖",

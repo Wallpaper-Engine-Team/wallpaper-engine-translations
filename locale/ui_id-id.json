@@ -179,7 +179,7 @@
 	"ui_browse_modal_advertise_workshop_footer": "Aliran apa yang paling Anda minati?",
 	"ui_browse_properties_scheme_color": "Skema warna",
 	"ui_browse_properties_playback_rate": "Kecepatan Pemutar",
-	"ui_browse_properties_volume_disabled": "</span>Audio dinonaktifkan di pengaturan",
+	"ui_browse_properties_volume_disabled": "Audio dinonaktifkan di pengaturan",
 	"ui_browse_properties_audio_recording": "Rekaman audio",
 	"ui_browse_properties_alignment": "Kesejajaran",
 	"ui_browse_properties_alignment_cover": "Sampul",

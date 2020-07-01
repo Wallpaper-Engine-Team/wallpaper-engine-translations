@@ -178,7 +178,7 @@
 	"ui_browse_properties_scheme_color": "Цветовая схема",
 	"ui_browse_properties_playback_rate": "Скорость воспроизведения",
 	"ui_browse_properties_volume": "Громкость",
-	"ui_browse_properties_volume_disabled": "</span>Звук отключен в настройках",
+	"ui_browse_properties_volume_disabled": "Звук отключен в настройках",
 	"ui_browse_properties_audio_recording": "Запись звука",
 	"ui_browse_properties_alignment": "Выравнивание",
 	"ui_browse_properties_alignment_cover": "Заполнить",

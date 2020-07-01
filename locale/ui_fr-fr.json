@@ -177,7 +177,7 @@
 	"ui_browse_modal_advertise_workshop_footer": "Quels genres vous intéressent ?",
 	"ui_browse_properties_scheme_color": "Couleur du Thème Windows",
 	"ui_browse_properties_playback_rate": "Vitesse de lecture",
-	"ui_browse_properties_volume_disabled": "</span>Audio désactivé dans les paramètres",
+	"ui_browse_properties_volume_disabled": "Audio désactivé dans les paramètres",
 	"ui_browse_properties_audio_recording": "Enregistrement audio",
 	"ui_browse_properties_alignment": "Alignement",
 	"ui_browse_properties_alignment_cover": "Couvrir",

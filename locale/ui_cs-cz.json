@@ -132,7 +132,7 @@
 	"ui_browse_properties_scheme_color": "Barva schématu",
 	"ui_browse_properties_playback_rate": "Rychlost přehrávání",
 	"ui_browse_properties_volume": "Hlasitost",
-	"ui_browse_properties_volume_disabled": "</span>Audio je zakázáno v nastavení",
+	"ui_browse_properties_volume_disabled": "Audio je zakázáno v nastavení",
 	"ui_browse_properties_audio_recording": "Nahrávání audia",
 	"ui_browse_properties_alignment": "Zarovnání",
 	"ui_browse_properties_alignment_cover": "Pokrýt",

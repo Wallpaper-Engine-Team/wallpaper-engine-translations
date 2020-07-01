@@ -178,7 +178,7 @@
 	"ui_browse_properties_scheme_color": "Кольорова схема",
 	"ui_browse_properties_playback_rate": "Швидкість",
 	"ui_browse_properties_volume": "Гучність",
-	"ui_browse_properties_volume_disabled": "</span>Відключення ауіо в налаштуваннях",
+	"ui_browse_properties_volume_disabled": "Відключення ауіо в налаштуваннях",
 	"ui_browse_properties_audio_recording": "Запис звуку",
 	"ui_browse_properties_alignment": "Калібрування",
 	"ui_browse_properties_alignment_cover": "Обгортка",
