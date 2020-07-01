@@ -181,7 +181,7 @@
 	"ui_browse_properties_scheme_color": "System-Farben",
 	"ui_browse_properties_playback_rate": "Geschwindigkeit",
 	"ui_browse_properties_volume": "Lautstärke",
-	"ui_browse_properties_volume_disabled": "</span>Lautstärke in den Einstellungen deaktiviert",
+	"ui_browse_properties_volume_disabled": "Lautstärke in den Einstellungen deaktiviert",
 	"ui_browse_properties_audio_recording": "Audio-Aufnahme",
 	"ui_browse_properties_alignment": "Ausrichtung",
 	"ui_browse_properties_alignment_cover": "Bedecken",
