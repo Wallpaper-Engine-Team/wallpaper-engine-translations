@@ -179,7 +179,7 @@
 	"ui_browse_modal_advertise_workshop_footer": "Em quais gêneros você está interessado?",
 	"ui_browse_properties_scheme_color": "Esquema de cores",
 	"ui_browse_properties_playback_rate": "Taxa de reprodução",
-	"ui_browse_properties_volume_disabled": "Áudio desativado nas configurações",
+	"ui_browse_properties_volume_disabled": "</span>Áudio desativado nas configurações",
 	"ui_browse_properties_audio_recording": "Gravação de áudio",
 	"ui_browse_properties_alignment": "Alinhamento",
 	"ui_browse_properties_alignment_cover": "Cobrir",
