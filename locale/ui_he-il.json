@@ -76,7 +76,7 @@
 	"ui_browse_properties_scheme_color": "סכמת צבע",
 	"ui_browse_properties_playback_rate": "קצב השמעה",
 	"ui_browse_properties_volume": "רמת שמע",
-	"ui_browse_properties_volume_disabled": "</span>קול כבוי בהגדרות",
+	"ui_browse_properties_volume_disabled": "קול כבוי בהגדרות",
 	"ui_browse_properties_audio_recording": "הקלטת קול",
 	"ui_browse_playlist_header": "רשימת השמעה",
 	"ui_browse_playlist_modal_open_header": "פתח רשימת השמעה",
