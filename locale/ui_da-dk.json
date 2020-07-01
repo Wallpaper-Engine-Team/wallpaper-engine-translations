@@ -76,7 +76,7 @@
 	"ui_browse_properties_scheme_color": "Farveskema",
 	"ui_browse_properties_playback_rate": "Afspilnings hastighed",
 	"ui_browse_properties_volume": "Lydstyrke",
-	"ui_browse_properties_volume_disabled": "</span>Lyd deaktiveret i indstillingerne",
+	"ui_browse_properties_volume_disabled": "Lyd deaktiveret i indstillingerne",
 	"ui_browse_properties_audio_recording": "Optager lyd",
 	"ui_browse_playlist_header": "Afspilningsliste",
 	"ui_browse_playlist_modal_open_header": "Åben afspilningsliste",
