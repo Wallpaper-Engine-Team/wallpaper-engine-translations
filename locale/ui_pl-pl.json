@@ -178,7 +178,7 @@
 	"ui_browse_properties_scheme_color": "Kolor schematu",
 	"ui_browse_properties_playback_rate": "Szybkość odtwarzania",
 	"ui_browse_properties_volume": "Głośność",
-	"ui_browse_properties_volume_disabled": "</span>Dźwięk jest wyłączony w ustawieniach",
+	"ui_browse_properties_volume_disabled": "Dźwięk jest wyłączony w ustawieniach",
 	"ui_browse_properties_audio_recording": "Nagrywanie audio",
 	"ui_browse_properties_alignment": "Wyrównanie",
 	"ui_browse_properties_alignment_cover": "Pokrycie",
