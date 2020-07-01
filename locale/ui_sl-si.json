@@ -82,7 +82,7 @@
 	"ui_browse_properties_scheme_color": "Barva sheme",
 	"ui_browse_properties_playback_rate": "Hitrost predvajanja",
 	"ui_browse_properties_volume": "Volumen",
-	"ui_browse_properties_volume_disabled": "</span>Zvok je onemogočen v nastavitvah",
+	"ui_browse_properties_volume_disabled": "Zvok je onemogočen v nastavitvah",
 	"ui_browse_properties_audio_recording": "Zajemanje zvoka",
 	"ui_browse_properties_alignment": "Poravnava",
 	"ui_browse_properties_alignment_cover": "Platnica",
