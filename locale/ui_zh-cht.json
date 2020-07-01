@@ -180,7 +180,7 @@
 	"ui_browse_properties_scheme_color": "配置顏色",
 	"ui_browse_properties_playback_rate": "播放速度",
 	"ui_browse_properties_volume": "音量",
-	"ui_browse_properties_volume_disabled": "</span>已設定為停用音訊",
+	"ui_browse_properties_volume_disabled": "已設定為停用音訊",
 	"ui_browse_properties_audio_recording": "音訊錄製",
 	"ui_browse_properties_alignment": "對齊",
 	"ui_browse_properties_alignment_cover": "填滿",
