@@ -1157,6 +1157,7 @@
 	"ui_editor_script_message_run": "執行腳本預覽。",
 	"ui_editor_script_message_stop": "停止腳本預覽。",
 	"ui_editor_script_clear_log": "清除記錄",
+	"ui_editor_script_clear_log_on_run": "執行時清除記錄",
 	"ui_editor_script_auto_scroll": "自動捲動",
 	"ui_editor_shader_view_errors": "瀏覽錯誤",
 	"ui_editor_shader_replace": "替換著色器",
