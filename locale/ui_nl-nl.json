@@ -140,7 +140,7 @@
 	"ui_browse_modal_advertise_workshop_footer": "Welke genres spreken je aan?",
 	"ui_browse_properties_scheme_color": "Schemakleur",
 	"ui_browse_properties_playback_rate": "Afspeelsnelheid",
-	"ui_browse_properties_volume_disabled": "Audio is uitgeschakeld in de instellingen",
+	"ui_browse_properties_volume_disabled": "</span>Audio is uitgeschakeld in de instellingen",
 	"ui_browse_properties_audio_recording": "Geluidsopname",
 	"ui_browse_properties_alignment_cover": "Bedekken",
 	"ui_browse_properties_alignment_center": "Midden",
