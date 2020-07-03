@@ -627,7 +627,7 @@
 	"ui_welcome_quality_reflections" : "Reflections:",
 	"ui_welcome_windows_color_description" : "Let wallpapers adjust your Windows border color automatically:",
 	"ui_welcome_windows_color_header" : "Adjust Windows color",
-	"ui_welcome_use_dark_theme_description" : "Use dark theme:",
+	"ui_welcome_use_dark_theme_description" : "Use dark theme for program:",
 	"ui_welcome_use_dark_theme" : "Enable Dark Theme",
 	"ui_welcome_autostart_description" : "Start Wallpaper Engine with Windows:",
 	"ui_welcome_autostart_label" : "Auto start:",
