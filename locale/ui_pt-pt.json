@@ -211,7 +211,7 @@
 	"ui_browse_playlist_modal_settings_timing_hours": "Horas",
 	"ui_browse_playlist_modal_settings_timing_minutes": "Minutos",
 	"ui_browse_playlist_modal_settings_video_sequence": "Alterar wallpaper quando um vídeo acabar",
-	"ui_browse_playlist_modal_settings_update_on_pause": "Permitir alteração de wallpaper enquanto pausado",
+	"ui_browse_playlist_modal_settings_update_on_pause": "Permitir alteração de wallpaper durante pausa",
 	"ui_browse_playlist_modal_settings_transition_enabled": "Mostrar transição de wallpaper",
 	"ui_browse_playlist_modal_settings_daytime_clock": "Relógio",
 	"ui_browse_playlist_modal_settings_clock_12": "12 horas",
