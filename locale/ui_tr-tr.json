@@ -591,6 +591,7 @@
 	"ui_welcome_quality_reflections": "Yansımalar:",
 	"ui_welcome_windows_color_description": "Duvar kağıtlarının otomatik olarak Windows çerçeve rengini ayarlamasına izin ver:",
 	"ui_welcome_windows_color_header": "Windows rengini ayarla",
+	"ui_welcome_use_dark_theme_description": "Programda koyu bir tema kullanın:",
 	"ui_welcome_use_dark_theme": "Koyu Temayı Etkinleştir",
 	"ui_welcome_autostart_description": "Wallpaper Engine'i Windows ile birlikte başlat:",
 	"ui_welcome_autostart_label": "Otomatik başlat:",
