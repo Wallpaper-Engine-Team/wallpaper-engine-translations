@@ -36,7 +36,7 @@
 	"core_msgbox_init_secondinstance_failed": "Repornire eșuată, codul erorii:",
 	"core_msgbox_below_win_7": "Wallpaper Engine are nevoie de Windows 7 sau mai sus, lucru indicat de cerințele de sistem pe [[[Platform]]].\n\nSe pare că folosești o versiune nesuportată de Windows și s-ar putea ca Wallpaper Engine să nu funcționeze.",
 	"core_msgbox_media_feature_pack_missing": "mfplat.dll lipsește!\nProbabil ai Windows N. Te rugăm să instalezi Media Feature Pack de la Microsoft pentru suport video! (Google: Media Feature Pack Windows 10/8.1/7)\n\n",
-	"core_msgbox_ui_file_not_found": "Filele programului nu pot fi deschise.\n\nS-ar putea sa ai caractere invalide in adresa de instalare, fila ar putea lipsi sau programul ar putea fi blocat de un anti-virus.\n\nIncearca sa instalezi Wallpaper Engine in acelasi director ca si [[[Platform]]] sau creaza o librarie [[[Platform]]] care sa includa caractere mai simple.",
+	"core_msgbox_ui_file_not_found": "Filele programului nu pot fi deschise.\n\nS-ar putea sa ai caractere invalide in adresa de instalare, fila ar putea lipsi sau programul ar putea fi blocat de un antivirus.\n\nIncearca sa instalezi Wallpaper Engine in acelasi director ca si [[[Platform]]] sau creaza o librarie [[[Platform]]] care sa includa caractere mai simple.",
 	"core_updater_headline_init": "Wallpaper Engine se pregătește...",
 	"core_updater_headline_update": "Wallpaper Engine se actualizează la versiunea {{version}}...",
 	"core_updater_headline_init_complete": "Setarea versiunii {{version}} completă. Wallpaper Engine pornește...",
@@ -66,6 +66,7 @@
 	"core_updater_status_verify_hash_failed": "Verificarea fișierului a eșuat: {{filepath}}",
 	"core_updater_status_verify_success": "Fișier verificat: {{filepath}}",
 	"core_updater_status_verify_failed_message_box_title": "Erorile verificării fișierului",
+	"core_updater_status_verify_failed_message_box_body": "Se pare ca neiste fiere pentru Wallpaper Engine nu au putut fi instalate. Acest lucru se poate intampla din cauza erorilor de instalare in [[[Platform]]] sau un program anti-virus a detectat fals fisierele si cauzeaza probleme. Daca ai un antivirus instalat inafara de Windows Defender, asigura-te ca acesta nu interfereaza cu [[[Platform]]] si Wallpaper Engine.\n\nAsigura-te ca aplicatia este inchisa in timp ce faceti un update (inchide-ti prin pictogramele ascunse sau prin Managerul de Activitati) si nici un antivirus sa blocheze calculatorul in a functiona corect.\n\nDaca antivirusul tau a sters filele Wallpaper Engine, trebuie sa le restabiliti si sa treceti pe lista alba adresa Wallpaper Engine-ului ca antivirusul dvs. sa nu mai stearga fisierele acestei aplicatii.",
 	"core_updater_status_compat": "Se caută aplicații incompatibile...",
 	"core_updater_status_compat_error": "Scanarea procesului a eșuat",
 	"core_updater_status_compat_found": "A fost găsit un proces incompatibil: {{processname}}",
@@ -78,5 +79,9 @@
 	"core_updater_status_complete_starting": "Wallpaper Engine pornește...",
 	"core_updater_status_cancelled": "Procesul a fost anulat de către utilizator",
 	"core_updater_status_corrupted_system_module_message_box_title": "Fișierul de sistem lipsește sau este stricat",
+	"core_updater_status_corrupted_system_module_message_box_body": "Se pare ca sistemul este stricat sau ii lipsesc fisiere. Wallpaper Engine nu poate functiona daca computer-ul dvs. nu este corect instalat sau setat. Aceasta este o problema cu Windows-ul si nu este o eroare a programului Wallpaper Engine.\n\nIncearca sa iti repari calculatorul urmarind acesti pasi:\n\n",
+	"core_updater_status_corrupted_system_module_message_box_body_delete": "- Prima data, sterge aceste fisiere prin Windows Explorer:\n{{modules}}\n\n",
+	"core_updater_status_corrupted_system_module_message_box_body_install_directx": "- Reinstaleaza DirectX mergand la acest fisier si pornindul:\n{{installers}}\nAlternativ, mai puteti descarca din nou DirectX 9 de pe site-ul Microsoft.",
+	"core_updater_prompt_close": "Programul Wallpaper Engine inca ruleaza, mai intai inchideti-l. Asteptand ca aceste procese sa se inchida:",
 	"core_updater_status_directx_not_supported_title": "DirectX 10 nu este suportat"
 }
