@@ -717,6 +717,8 @@
 	"ui_editor_publish_modal_snapshot_resolution_too_high": "Будь ласка, використайте зображення попереднього перегляду не більше за {{size}} пікс.",
 	"ui_editor_publish_modal_info_asset_reuse_header": "Договір про поширення ресурсів",
 	"ui_editor_publish_modal_info_asset_reuse_body": "Вивантажуючи ресурс на [[[Platform]]] [[[Host]]], ви погоджуєтеся, що інші користувачі можуть повторно використовувати та, можливо, повторно вивантажувати змінені версіх вашого ресурсу, не повідомляючи вас. Видалені ресурси все одно залишаться у вже створених шпалерах.",
+	"ui_editor_publish_assets_modal_header_alert": "Ви зараз публікуєте <b>ресурс</b>, а не шпалеру. Будь ласка, не публікуйте цілі шпалери через це меню. Якщо ви хочете опублікувати шпалеру, <b>натисніть на це повідомлення</b>.",
+	"ui_editor_publish_assets_modal_header": "Публікувати ресурси до [[[Host]]]",
 	"ui_editor_workshop_options_title": "Назва",
 	"ui_editor_workshop_options_description": "Опис",
 	"ui_editor_workshop_options_tags": "Теги",
