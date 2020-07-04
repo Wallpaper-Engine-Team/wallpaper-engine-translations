@@ -497,6 +497,7 @@
 	"ui_settings_about_community_hub": "社群中心",
 	"ui_settings_about_faq": "支援與常見問題集",
 	"ui_settings_plugins": "外掛程式",
+	"ui_settings_plugins_options": "選項",
 	"ui_settings_plugins_status_loaded": "已載入",
 	"ui_settings_plugins_status_not_loaded": "未載入",
 	"ui_settings_plugins_options_modal_header": "{{name}} 選項",
