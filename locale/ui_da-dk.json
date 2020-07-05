@@ -796,5 +796,18 @@
 	"ui_editor_effect_skew_description": "Roterer billedets hjørner.",
 	"ui_editor_effect_spin_title": "Drej",
 	"ui_editor_effect_spin_description": "Drejer billedet.",
-	"ui_editor_effect_tint_title": "Toning"
+	"ui_editor_effect_tint_title": "Toning",
+	"ui_editor_effect_tint_description": "Vælg de farver du ønsker til billedet.",
+	"ui_editor_effect_transform_title": "Transformer",
+	"ui_editor_effect_transform_description": "Benyt skalering, rotation og offsets på billedet.",
+	"ui_editor_effect_vhs_title": "VHS",
+	"ui_editor_effect_vhs_description": "Forvrængning og farvelægning af et gammelt videobånd.",
+	"ui_editor_effect_water_flow_title": "Vandløb",
+	"ui_editor_effect_water_flow_description": "Tilføjer en flydende animation. Retningen kan kontrolleres med en maske, som du kan male i redigeringsdelen.",
+	"ui_editor_effect_water_ripple_title": "Ringe i vandet",
+	"ui_editor_effect_water_ripple_description": "Tilføjer animerede ringe i vandet. Tegn en maske for at afgrænse animationen til et specifikt område af billedet.",
+	"ui_editor_effect_water_waves_title": "Vandbølger",
+	"ui_editor_effect_water_waves_description": "Tilføjer en bølgeeffekt ved brug af sinus.",
+	"ui_editor_effect_fire_title": "Ild",
+	"ui_editor_effect_fire_description": "Tilføjer ild til billedet. Farven kan ændres frit."
 }
