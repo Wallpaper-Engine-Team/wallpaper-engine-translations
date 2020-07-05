@@ -502,6 +502,7 @@
 	"ui_settings_plugins_status_not_loaded": "Tidak dimuat",
 	"ui_settings_plugins_options_delay_load": "Tunda muat plugin",
 	"ui_settings_plugins_options_delay_load_help_title": "Tunda Muat Plugin",
+	"ui_settings_plugins_options_delay_load_help_body": "Anda dapat menggunakan opsi ini untuk menunda semua pemuatan plugin. Ini dapat berguna jika Anda mempunyai masalah dengan plugin setelah menyalakan sistem Anda ketika Wallpaper Engine dijalankan lebih cepat daripada program lain atau driver-driver pada komputer Anda.<br/><br/>Misalnya, jika perangkat efek LED tidak dapat bekerja dengan semestinya setelah sistem Anda dinyalakan, atur opsi ini ke 60 atau 120 detik dan lihat apakah plugin LED mampu bekerja dengan semestinya atau tidak. Semakin tinggi angkanya lebih aman namun dapat menyebabkan lamanya penundaan hingga plugin dapat berefek dimuat setelah sistem Anda dinyalakan.",
 	"ui_settings_plugins_options_delay_load_seconds": "Detik",
 	"ui_settings_plugins_options_modal_header": "Pengaturan {{name}}",
 	"ui_settings_plugins_options_led_plugin_description": "Mengendalikan efek LED dari perangkat Corsair dan Razer.",
