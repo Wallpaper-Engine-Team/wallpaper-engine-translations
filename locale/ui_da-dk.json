@@ -356,6 +356,7 @@
 	"ui_browse_report_modal_category_rating_description": "Du anmelder denne skrivebordsbaggrund for forkert vurdering samt overtrædelse af reglerne for nøgenhed og vold. Hvis skrivebordsbaggrunden ikke kan markeres som 'problematisk' eller 'voksen' skal du bruge 'BAN'-muligheden, hvorefter skrivebordsbaggrunden fjernes.",
 	"ui_browse_report_modal_rating_current": "Aktuel vurdering",
 	"ui_browse_report_modal_rating_label": "Foreslå ny vurdering",
+	"ui_browse_report_modal_category_copyright": "Overtræder ophavsret",
 	"ui_settings_playback": "Afspil",
 	"ui_settings_playback_focused": "Andre applikationer fokuseret:",
 	"ui_settings_playback_maximized": "Andre applikationer minimeret:",
