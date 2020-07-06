@@ -19,8 +19,8 @@
 	"core_balloon_desktop_window_error": "Помилка в приготуванні робочого стола для живих шпалери.",
 	"core_balloon_video_error": "Помилка відкрити відео {{err}}. натисніть для допомоги.",
 	"core_balloon_app_error": "Помилка загрузити програму як шпалери.",
-	"core_balloon_pkg_version_error": "Ці шпалери потребують новішої версії Wallpaper Engine. Будь ласка, оновіть Wallpaper Engine до останньої версії для [[[Platform]]].",
-	"core_balloon_wallpaper_file_missing": "Ці шпалери не можна відкрити, тому що їм бракує деяких файлів.",
+	"core_balloon_pkg_version_error": "Ця шпалера потребує новішої версії Wallpaper Engine. Будь ласка, оновіть Wallpaper Engine до останньої версії для [[[Platform]]].",
+	"core_balloon_wallpaper_file_missing": "Цю шпалеру не можна відкрити, тому що їй бракує деяких файлів.",
 	"core_msgboxtitle_error": "Помилка",
 	"core_msgboxtitle_app_conflict": "Конфліктуючі додатки",
 	"core_msgboxtitle_wpe": "Wallpaper Engine",
@@ -30,7 +30,7 @@
 	"core_msgbox_prompt_high_contrast_was_enabled": "Windows щойно застосувала \"висококонтрастну\" тему, яка не дозволяє Wallpaper Engine працювати.",
 	"core_msgbox_dwm_disabled": "Композиція робочого столу відключена.",
 	"core_msgbox_aero_denied": "Wallpaper Engine не може працювати юез Aero і тепер закривається.",
-	"core_msgbox_aero_failure": "Не вдалося увімкнути Aero.\n\nЗдається, Windows не дає увімкнути Aero, але нажаль це важлива вимога, і Wallpaper Engine не може працювати без неї.\n\nСпробуйте увімкнути Aero напряму, у налаштуваннях тем Windows, і знову запустіть Wallpaper Engine.",
+	"core_msgbox_aero_failure": "Не вдалося увімкнути Aero.\n\nЗдається, Windows не дає увімкнути Aero, але нажаль це важлива вимога, і Wallpaper Engine не може працювати без неї.\n\nСпробуйте увімкнути Aero напряму у налаштуваннях тем Windows, і знову запустіть Wallpaper Engine.",
 	"core_msgbox_aero_failure_no_support": "Помилка включити Aero. Схоже, що Ви використовуєте Початкову або Базову версію Windows 7, яка не підтримує Aero і не виконує мінімальні вимоги до системи. Wallpaper Engine will now quit.",
 	"core_msgbox_init_secondinstance_ask_quit": "Wallpaper Engine не відповідає.\n\nХоче перезапустити його вручну?",
 	"core_msgbox_init_secondinstance_failed": "Перезавантаження не вдалося, код помилки:",
@@ -83,7 +83,7 @@
 	"core_updater_status_corrupted_system_module_message_box_body_delete": "-Спершу, видаліть ці файли через Провідник Windows:\n{{modules}}\n\n",
 	"core_updater_status_corrupted_system_module_message_box_body_install_directx": "-Перевстановіть DirectX, перейшовши до цього файлу та запустивши його:\n{{installers}}\nВи також можете заново завантажити DirectX 9 з веб-сайту Microsoft.",
 	"core_updater_prompt_close": "Wallpaper Engine досі працює. Будь ласка, спочатку закрийте її. Чекаємо на закриття цих процесів:",
-	"core_updater_prompt_close_foreign": "Wallpaper Engine не може продовшити оновлення, оскільки схоже що програма блокує файли. Для продовження, будь ласка, закрийте ці програми:",
+	"core_updater_prompt_close_foreign": "Wallpaper Engine не може продовжити оновлення, оскільки схоже що програма блокує файли. Для продовження, будь ласка, закрийте ці програми:",
 	"core_updater_status_directx_not_supported_title": "DirectX 10 не підтримується",
-	"core_updater_status_directx_not_supported_body": "Здається, ваша відеокарта не підтримує DirectX 10, або є деякі проблеми з вашим драйвером відеокарти. DirectX 10 є системною вимогою для належної роботи цієї програми.\n\nЯкщо ваша відеокарта має підтримувати DirectX 10, проблема може бути у вашому драйвері відеокарти. Для вирішення питання ви можете спробувати перевстановити драйвер або зв'язатися з постачальником вашого обладнання (Nvidia, AMD, Intel)."
+	"core_updater_status_directx_not_supported_body": "Схоже, ваша відеокарта не підтримує DirectX 10, або є деякі проблеми з вашим драйвером відеокарти. DirectX 10 є системною вимогою для належної роботи цієї програми.\n\nЯкщо ваша відеокарта має підтримувати DirectX 10, проблема може бути у вашому поточному драйвері відеокарти. Для вирішення питання ви можете спробувати перевстановити драйвер або зв'язатися з постачальником вашого обладнання (Nvidia, AMD, Intel)."
 }
