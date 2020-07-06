@@ -414,6 +414,7 @@
 	"ui_settings_playback_new_rule_application_name": "應用程式名稱",
 	"ui_settings_playback_new_rule_condition": "條件",
 	"ui_settings_playback_new_rule_action": "桌布播放",
+	"ui_settings_playback_new_rule_search_empty": "未找到結果",
 	"ui_settings_playback_condition_is_running": "正在執行時",
 	"ui_settings_playback_condition_is_focused": "以小視窗顯示時",
 	"ui_settings_playback_condition_is_maximized": "視窗最大化顯示時",
