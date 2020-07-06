@@ -10,6 +10,7 @@
 	"ui_retry" : "Retry",
 	"ui_select" : "Select",
 	"ui_create" : "Create",
+	"ui_next" : "Next",
 	"ui_show_details" : "Show Details",
 
 	"ui_modal_updaterequired_title" : "Wallpaper Engine needs to be updated",
@@ -419,6 +420,8 @@
 	"ui_browse_modal_steam_redownload_error_body" : "Wallpaper Engine has detected that a lot of your wallpapers are being downloaded by [[[Platform]]] right now.<br/><br/>If you have recently subscribed a lot of new wallpapers, then please ignore this message and wait for [[[Platform]]] to finish downloading everything.<br/><br/>If it looks like [[[Platform]]] is downloading a lot of wallpapers that you already downloaded before, then [[[Platform]]] has run into an error. This is <i>not</i> a bug in Wallpaper Engine. Please see this post <a href='[[[var_url_faqredownload]]]'>Fix [[[Platform]]] re-downloading everything</a> or wait for [[[Platform]]] to finish downloading and fix itself.",
 	"ui_browse_modal_steam_redownload_never_show_again" : "Never show this dialog again",
 
+	"ui_browse_alert_active_application_rule" : "The application rule for <b>{{executable}}</b> is currently active and overriding your wallpaper selection.",
+
 	"ui_rating_table_suitable_for_everyone" : "Suitable for everyone",
 	"ui_rating_table_partial_nudity_suggestive" : "Partial nudity / suggestive",
 	"ui_rating_table_nudity_explicit" : "Nudity",
@@ -443,6 +446,10 @@
 	"ui_settings_playback_new_rule_application_name" : "Application name",
 	"ui_settings_playback_new_rule_condition" : "Condition",
 	"ui_settings_playback_new_rule_action" : "Wallpaper playback",
+	"ui_settings_playback_new_rule_search" : "Search",
+	"ui_settings_playback_new_rule_search_empty" : "Nothing found or matching the search text",
+	"ui_settings_playback_new_rule_preview" : "Preview",
+	"ui_settings_playback_new_rule_open_in_workshop" : "Open in [[[Host]]]",
 	"ui_settings_playback_condition_is_running" : "Is running",
 	"ui_settings_playback_condition_is_focused" : "Is focused",
 	"ui_settings_playback_condition_is_maximized" : "Is maximized",
@@ -570,6 +577,9 @@
 	"ui_settings_playback_stop" : "Stop (free memory)",
 	"ui_settings_playback_stop_all" : "Stop all",
 	"ui_settings_playback_stop_per_monitor" : "Stop per monitor",
+	"ui_settings_playback_load_wallpaper" : "Load wallpaper",
+	"ui_settings_playback_load_playlist" : "Load playlist",
+	"ui_settings_playback_load_profile" : "Load profile",
 	"ui_settings_read_from_disk" : "From disk",
 	"ui_settings_read_from_memory" : "In-memory",
 	"ui_settings_loop_default" : "Default",
