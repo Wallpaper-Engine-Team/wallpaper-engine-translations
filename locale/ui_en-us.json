@@ -447,7 +447,7 @@
 	"ui_settings_playback_new_rule_condition" : "Condition",
 	"ui_settings_playback_new_rule_action" : "Wallpaper playback",
 	"ui_settings_playback_new_rule_search" : "Search",
-	"ui_settings_playback_new_rule_search_empty" : "Nothing found or matching the search text",
+	"ui_settings_playback_new_rule_search_empty" : "No results found",
 	"ui_settings_playback_new_rule_preview" : "Preview",
 	"ui_settings_playback_new_rule_open_in_workshop" : "Open in [[[Host]]]",
 	"ui_settings_playback_condition_is_running" : "Is running",
