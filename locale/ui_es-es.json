@@ -1196,6 +1196,7 @@
 	"ui_editor_shader_variable_uv_picker": "Selector de posición UV",
 	"ui_editor_shader_snippet_basic_image_vertex": "Efecto de vértice básico de sombreado",
 	"ui_editor_shader_snippet_basic_image_fragment": "Efecto de fragmentación básico de sombreado",
+	"ui_editor_shader_combo_checkbox": "Combinación - Casilla",
 	"ui_editor_shader_combo_2_options": "Combo - 2 opciones",
 	"ui_editor_shader_combo_3_options": "Combo - 3 opciones",
 	"ui_editor_shader_textures": "Añadir textura",
