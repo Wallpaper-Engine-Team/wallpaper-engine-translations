@@ -1181,7 +1181,7 @@
 	"ui_editor_script_auto_scroll": "자동 스크롤",
 	"ui_editor_shader_view_errors": "오류 보기",
 	"ui_editor_shader_replace": "셰이더 대체",
-	"ui_editor_shader_add_include": "Include 추가",
+	"ui_editor_shader_add_include": "포함 추가",
 	"ui_editor_shader_constants": "상수 추가",
 	"ui_editor_shader_constants_general": "일반",
 	"ui_editor_shader_constants_view": "보기",
