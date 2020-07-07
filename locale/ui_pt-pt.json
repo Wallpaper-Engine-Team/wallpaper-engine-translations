@@ -400,7 +400,7 @@
 	"ui_settings_playback_battery": "Portátil na bateria:",
 	"ui_settings_playback_playing_audio": "Outra aplicação a reproduzir áudio:",
 	"ui_settings_playback_application_rules": "Regras da aplicação:",
-	"ui_settings_playback_application_rules_header": "Regras para aplicações",
+	"ui_settings_playback_application_rules_header": "Regras da aplicação",
 	"ui_settings_playback_application_rules_edit": "Editar",
 	"ui_settings_playback_active_rules": "Regras ativas",
 	"ui_settings_playback_new_rule": "Criar regra nova",
