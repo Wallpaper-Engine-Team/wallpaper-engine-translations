@@ -758,7 +758,7 @@
 	"ui_editor_publish_assets_modal_asset_type_effects": "Ефекти",
 	"ui_editor_publish_assets_modal_asset_type_scripts": "Сценарії",
 	"ui_editor_warn_advanced_assets_creation_modal_header": "Увімкнути створення ресурсів",
-	"ui_editor_warn_advanced_assets_creation_modal_body": "Ця опція призначена для використання лише досвідченими користувачами, які знайомі з редактором і вже публікували сценічні шпалери.<br/><br/>Вмикання додасть до редактора кнопки, які дозволять вам створювати нові одиничні ресурси, якими можна буде ділитися на [[[Host]]], щоб інші могли використовувати їх у власних шпалерах.",
+	"ui_editor_warn_advanced_assets_creation_modal_body": "Ця опція призначена для використання лише досвідченими користувачами, які знайомі з редактором і вже публікували сценічні шпалери.<br/><br/>Вмикання додасть до редактора кнопки, які дозволять вам створювати нові одиничні ресурси, якими можна буде ділитися на [[[Host]]], аби інші могли використовувати їх у власних шпалерах.",
 	"ui_editor_effect_list_modal_browse_workshop": "Переглянути вміст [[[Host]]]",
 	"ui_editor_effect_list_modal_create_new": "Новий",
 	"ui_editor_effect_list_modal_create_new_effect_header": "Створити новий ефект",
