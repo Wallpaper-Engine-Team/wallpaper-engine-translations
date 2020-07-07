@@ -26,7 +26,7 @@
 	"ui_browse_filter_results": "Filtrar resultados",
 	"ui_browse_filter_results_count": "({{filtered}} de {{unfiltered}})",
 	"ui_browse_filter_results_filtered": "(Com filtro)",
-	"ui_browse_filter_reset": "A reiniciar os filtros",
+	"ui_browse_filter_reset": "Reiniciar filtros",
 	"ui_browse_filter_help": "Ajuda para os filtros",
 	"ui_browse_sort_by": "Ordenar por",
 	"ui_browse_filter_type": "Tipo",
