@@ -9,6 +9,7 @@
 	"ui_retry": "Zkusit znovu",
 	"ui_select": "Vybrat",
 	"ui_create": "Vytvořit",
+	"ui_next": "Další",
 	"ui_show_details": "Zobrazit detaily",
 	"ui_modal_updaterequired_title": "Aplikaci Wallpaper Engine je nutné aktualizovat",
 	"ui_modal_updaterequired_body": "Zavřete aplikaci Wallpaper Engine (klikněte pravým tlačítkem myši na ikonu na liště a klikněte na možnost Ukončit) a restartuje ji pomocí služby [[[Platform]]], abyste získali nejnovější aktualizace. Pokud stále budete dostávat toto upozornění, ověřte soubory aplikace přes [[[Platform]]].<br/><br/>Verze aplikace: <b>{{callerVersion}}</b>, Verze UI: <b>{{appVersion}}</b>.",
