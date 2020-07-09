@@ -46,7 +46,7 @@
 	"core_updater_status_closing_processes": "Prozesse werden geschlossen...",
 	"core_updater_status_closing_processes_error": "Fehler beim Auflisten existierender Prozesse",
 	"core_updater_status_closing_processes_wait_quit": "Wallpaper Engine wird geschlossen",
-	"core_updater_status_closing_processes_wait_quit_terminate": "{{program}} wird geschlossen...",
+	"core_updater_status_closing_processes_wait_quit_terminate": "{{program}} wird geschlossen",
 	"core_updater_status_closing_processes_wait_quit_terminate_error": "Schließen von {{program}} fehlgeschlagen",
 	"core_updater_status_distro": "Dateien werden entpackt...",
 	"core_updater_status_distro_prepare_error": "Dateisystem-Fehler beim Lesen des Ursprungsverzeichnis: {{error}}",
