@@ -1,5 +1,4 @@
 {
-	"ui_caption_browse": "Przeglądaj tapety",
 	"ui_caption_settings": "Ustawienia",
 	"ui_caption_editor": "Edytor tapet",
 	"ui_ok": "OK",
@@ -1085,7 +1084,7 @@
 	"ui_editor_preset_rain_description": "Dodaje krople deszczu. Opcjonalnie wraz z załamaniem/zniekształceniem obrazu tła.",
 	"ui_editor_preset_ember_title": "Rozżarzone węgielki",
 	"ui_editor_preset_ember_description": "Cząsteczki rozżarzonych węgielków",
-	"ui_editor_preset_spark_title": "Iskra.",
+	"ui_editor_preset_spark_title": "Iskra",
 	"ui_editor_preset_spark_description": "Rzadkie iskrzenie.",
 	"ui_editor_preset_fireworks_title": "Fajerwerki",
 	"ui_editor_preset_fireworks_description": "Różne fajerwerki.",

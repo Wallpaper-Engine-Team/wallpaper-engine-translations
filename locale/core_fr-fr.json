@@ -78,7 +78,7 @@
 	"core_updater_status_complete_errors": "Installation terminée avec des erreurs",
 	"core_updater_status_complete_starting": "Démarrage de Wallpaper Engine...",
 	"core_updater_status_cancelled": "Le processus a été annulé par l'utilisateur",
-	"core_updater_status_corrupted_system_module_message_box_title": "Le module système n'a pas pu être chargé.",
+	"core_updater_status_corrupted_system_module_message_box_title": "Le module système n'a pas pu être chargé",
 	"core_updater_status_corrupted_system_module_message_box_body": "Votre système est en panne ou il manque des fichiers. Wallpaper Engine ne peut fonctionner que si votre ordinateur est correctement installé. Ceci est un problème avec Windows et n'est pas une erreur dans Wallpaper Engine.\n\nEssayez de réparer votre ordinateur en procédant ainsi :\n\n",
 	"core_updater_status_corrupted_system_module_message_box_body_delete": "- D'abord, supprimez les fichiers suivants avec l'explorateur de fichiers Windows :\n{{modules}}\n\n",
 	"core_updater_status_corrupted_system_module_message_box_body_install_directx": "- Réinstallez DirectX en éxécutant le fichier suivant :\n{{installers}}\nAlternativement, vous pouvez télécharger DirectX à partir du site de Microsoft.",
