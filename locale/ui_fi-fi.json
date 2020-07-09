@@ -1163,6 +1163,7 @@
 	"ui_editor_script_snippet_rotation_pivot": "Pyörityksen keskipiste",
 	"ui_editor_script_snippet_screen_bounce": "Näytön pomppiminen",
 	"ui_editor_script_snippet_drag_drop": "Vedä ja pudota",
+	"ui_editor_script_snippet_click_wiggle": "Heiluminen klikkauksesta",
 	"ui_editor_script_snippet_click_play_sound": "Napasautuksen ääni",
 	"ui_editor_script_snippet_cursor_follow": "Kohdistimen seuranta",
 	"ui_editor_script_snippet_cursor_avoid": "Kohdistimen välttäminen",
