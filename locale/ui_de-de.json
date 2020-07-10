@@ -548,7 +548,7 @@
 	"ui_settings_playback_load_playlist": "Wiedergabeliste laden",
 	"ui_settings_playback_load_profile": "Profil laden",
 	"ui_settings_read_from_disk": "Von Festplatte",
-	"ui_settings_read_from_memory": "In Arbeitsspeicher",
+	"ui_settings_read_from_memory": "Von Arbeitsspeicher",
 	"ui_settings_loop_default": "Standard",
 	"ui_settings_loop_sync_clock": "Uhr-Synchro",
 	"ui_settings_loop_sync_topo": "Synchro-Topologie",
