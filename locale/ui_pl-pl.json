@@ -1,11 +1,12 @@
 {
+	"ui_caption_browse": "Wallpaper Engine - [[[Platform]]] Edition",
 	"ui_caption_settings": "Ustawienia",
 	"ui_caption_editor": "Edytor tapet",
 	"ui_ok": "OK",
 	"ui_cancel": "Anuluj",
 	"ui_back": "Wróć",
 	"ui_close": "Zamknij",
-	"ui_retry": "Powtórz",
+	"ui_retry": "Spróbuj ponownie",
 	"ui_select": "Wybierz",
 	"ui_create": "Utwórz",
 	"ui_next": "Dalej",
