@@ -663,7 +663,7 @@
 	"ui_editor_modal_duplicate_texture_header": "重複紋理",
 	"ui_editor_modal_duplicate_texture_body": "此動作將重複紋理，以便您在此圖層修正，且不會影響到同樣使用此紋理的圖層。<br/><br/>如果您先前曾重複整個圖層或效果，請注意本桌布將需要更多記憶體。",
 	"ui_editor_modal_video_file_invalid_header": "視訊檔案太大",
-	"ui_editor_modal_video_file_invalid_body": "選擇的視訊檔案 {{file}} 過大。上傳至 [Host] 的視訊檔案必須小於 {{size}}。<br/><br/>此限制<i>僅</i>適用於 [Host]， 您當然可以使用此視訊當作桌布，只需要將其拖曳至桌布瀏覽器或在瀏覽器中按一下<i>從檔案開啟</i>即可。",
+	"ui_editor_modal_video_file_invalid_body": "選擇的視訊檔案 {{file}} 過大。上傳至 [[[Host]]] 的視訊檔案必須小於 {{size}}。<br/><br/>此限制<i>僅</i>適用於 [[[Host]]]， 您當然可以使用此視訊當作桌布，只需要將其拖曳至桌布瀏覽器或在瀏覽器中按一下<i>從檔案開啟</i>即可。",
 	"ui_editor_delete_project_modal_header": "確認刪除",
 	"ui_editor_delete_project_modal_body": "您確定要永久刪除該項目： <br/><b>{{title}}</b> 嗎？<br/><br/>刪除後，您將 <b>不能</b> 更新或者使用該項目。",
 	"ui_editor_no_animation_modal_header": "非動畫桌布",
