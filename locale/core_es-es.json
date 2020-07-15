@@ -55,7 +55,7 @@
 	"core_updater_status_distro_file_path_error": "Error al convertir la ruta de archivo: {{error}}",
 	"core_updater_status_distro_file_directory": "Creando directorio: {{filepath}}",
 	"core_updater_status_distro_file_directory_error": "Error al crear el directorio: {{error}}",
-	"core_updater_status_distro_file_copy": "Αντιγραφή αρχείου: {{filepath}}",
+	"core_updater_status_distro_file_copy": "Copiando archivo: {{filepath}}",
 	"core_updater_status_distro_file_skip": "Omitiendo archivo igual: {{filepath}}",
 	"core_updater_status_distro_file_copy_error": "Error al copiar el archivo: {{error}}",
 	"core_updater_status_distro_file_delete": "Eliminando archivo: {{filepath}}",
