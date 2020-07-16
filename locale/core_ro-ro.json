@@ -84,5 +84,6 @@
 	"core_updater_status_corrupted_system_module_message_box_body_install_directx": "- Reinstaleaza DirectX mergand la acest fisier si pornindul:\n{{installers}}\nAlternativ, mai puteti descarca din nou DirectX 9 de pe site-ul Microsoft.",
 	"core_updater_prompt_close": "Programul Wallpaper Engine inca ruleaza, mai intai inchideti-l. Asteptand ca aceste procese sa se inchida:",
 	"core_updater_prompt_close_foreign": "Wallpaper Engine nu poate continua actualizarea deoarece un program pare să blocheze fișierele. Te rugăm să închizi următoarele programe pentru a continua:",
-	"core_updater_status_directx_not_supported_title": "DirectX 10 nu este suportat"
+	"core_updater_status_directx_not_supported_title": "DirectX 10 nu este suportat",
+	"core_updater_status_directx_not_supported_body": "Se pare că placa ta video nu este compatibilă cu DirectX 10 sau că programul plăcii grafice are o problemă. DirectX 10 este necesar pentru ca această aplicație să funcționeze corect.\n\nDacă placa ta video ar trebui să fie compatibilă cu DirectX 10, programul plăcii grafice ar putea fi compromis. Poți încerca să îl reinstalezi sau să contactezi producătorul plăcii (Nvidia, AMD, Intel) pentru a soluționa situația."
 }
