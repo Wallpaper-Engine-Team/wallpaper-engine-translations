@@ -192,6 +192,7 @@
 	"ui_browse_playlist_button_clear": "清理",
 	"ui_browse_playlist_too_many_items": "播放清單中等待播放的桌布過多。",
 	"ui_browse_playlist_modal_open_header": "開啟播放清單",
+	"ui_browse_playlist_modal_delete": "刪除",
 	"ui_browse_playlist_modal_save_header": "儲存播放清單",
 	"ui_browse_playlist_modal_save_name": "名稱",
 	"ui_browse_playlist_modal_save_description": "若已有播放清單使用相同名稱，該播放清單將會被覆寫。",
