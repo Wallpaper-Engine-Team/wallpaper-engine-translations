@@ -66,6 +66,7 @@
 	"core_updater_status_verify_hash_failed": "Preverjanje datoteke: {{filepath}} ni uspelo",
 	"core_updater_status_verify_success": "Preverjanje datoteke: {{filepath}}",
 	"core_updater_status_verify_failed_message_box_title": "Napaka pri preverjanju datoteke",
+	"core_updater_status_verify_failed_message_box_body": "Zgleda, kot da se nekatere datoteke iz Wallpaper Engine niso uspele namestiti. To se lahko zgodi zaradi napake pri prenosu v [[[Platform]]] ali vmešavanja antivirusnika, kar lahko povzroča težave pri namestitvi. Če imate še kakšen antivirusnik razen Windows Defender, se prepričajte, da se ne vmešava v delovanje [[[Platform]]]a ali Wallpaper Engine.\n\nPoskrbite, da je aplikacija izključena med posodobitvijo (če je to potrebno, jo lahko izklopite skozi ikono v orodni vrstici) in da vam antivirusnik ne preprečuje pravilnega delovanja računalnika.\n\nČe vam je antivirusnik izbrisal datoteke pomembne za Wallpaper Engine, jih lahko obnovite and označite mapo z Wallpaper Engine datotekami kot neškodljivo, tako da vam antivirusnik preneha brisati naključne datoteke.",
 	"core_updater_status_compat": "Iskanje nezdružljivih aplikacij ...",
 	"core_updater_status_compat_error": "Skeniranje procesov ni uspelo",
 	"core_updater_status_compat_found": "Najden je bil nezdružljiv proces: {{processname}}",
@@ -78,7 +79,11 @@
 	"core_updater_status_complete_starting": "Zaganjanje Wallpaper Engine ...",
 	"core_updater_status_cancelled": "Uporabnik je preklical proces",
 	"core_updater_status_corrupted_system_module_message_box_title": "Sistemska datoteka manjka ali ne deluje pravilno",
+	"core_updater_status_corrupted_system_module_message_box_body": "Tvoj sistem je pokvarjen ali mu manjkajo datoteke. Wallpaper Engine ne more delovati v kolikor računalnik ni nameščen pravilno. To je težava z vašim Windowsom in napaka v Wallpaper Engine.\n\nPoskusite popraviti svoj računalnik s sledenjem naslednjim korakom:\n\n",
+	"core_updater_status_corrupted_system_module_message_box_body_delete": "- Najprej, izbrišite te datoteke skozi Windows Raziskovalec:\n{{modules}}\n\n",
+	"core_updater_status_corrupted_system_module_message_box_body_install_directx": "- Ponovno namestite DirectX tako da poiščete naslednjo datoteko in jo zaženete:\n{{installers}}\nAlternativno lahko ponovno prenesete DirectX 9 iz Microsoft uradne strani.",
 	"core_updater_prompt_close": "Wallpaper Engine se še vedno izvaja, prosimo če ga zaprete. Čaka se na zaprtje naslednjih procesov:",
+	"core_updater_prompt_close_foreign": "Wallpaper Engine ne more nadaljevati posodobitev, ker program zaklepa potrebne datoteke. Prosimo, če pred nadaljevanjem zaprete navedene programe:",
 	"core_updater_status_directx_not_supported_title": "DirectX 10 ni podprt",
 	"core_updater_status_directx_not_supported_body": "Zgleda, da vaša grafična kartica ne podpira DirectX 10 ali da je vaš grafični gonilnik okvarjen. DirectX 10 je sistemska zahteva za to aplikacijo. \n\nČe vaša grafična kartica predvidoma podpira DirectX 10, je lahko morda vaš trenutni grafični gonilnik okvarjen. Lahko poskusite ponovno namestiti gonilnik ali stopite v kontakt z vašim prodajalcem strojne opreme (Nvidia, AMD, Intel), da razrešijo problem."
 }
