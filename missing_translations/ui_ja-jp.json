@@ -1,9 +1,0 @@
-{
-    "ui_caption_browse": "Wallpaper Engine - [[[Platform]]] Edition",
-    "ui_modal_pagination_enter_page_title": "Enter page #",
-    "ui_browse_properties_alignment_flip_horizontally": "Flip",
-    "ui_settings_highpriority_warning": "High priority mode will launch the application more quickly using a 'Windows service'. But if you are experiencing issues with this solution, try it without high priority, which will be more reliable but slower.<br/><br/>This option will also make the program auto start for all Windows accounts on this PC.",
-    "ui_editor_filemenu_prepare_for_publishing": "Share Wallpaper on [[[Host]]]",
-    "ui_editor_delete_project_modal_body": "Are you sure that you want to permanently delete the project: <br/><b>{{title}}</b> ?<br/><br/>You will <b>not</b> be able to update or use this project after deleting it.",
-    "ui_editor_review_info_body": "Your wallpaper will be reviewed before other users can find and download it to ensure that it doesn't violate any local laws.<br/><br/>If you update your wallpaper, it has to be reviewed again and is pushed to the back of the queue."
-}
