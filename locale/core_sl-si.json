@@ -58,14 +58,14 @@
 	"core_updater_status_compat_found": "Najden je bil nezdružljiv proces: {{processname}}",
 	"core_updater_status_compat_message_box_title": "Najdena je bila nezdružljiva aplikacija",
 	"core_updater_status_compat_message_box_body": "Delujejo sledeče aplikacije, ki lahko zmrznejo ali destabilizirajo Wallpaper Engine. V Wallpaper Engine vnašajo kodo, ki povzroča probleme. Poskrbite, da dodate Wallpaper Engine na njihov seznam izjem z dodajo wallpaper32.exe in wallpaper64.exe.\n\n{{list}}",
-	"core_updater_status_compat_message_box_body_item_exclude": "{{name}}: Izključi program Wallpaper Engine",
-	"core_updater_status_compat_message_box_body_item_update": "{{name}}: posodabljanje na različico {{version}}",
-	"core_updater_status_complete": "Namestitev se je uspešno končala",
-	"core_updater_status_complete_errors": "Namestitev se je končala z napakami",
-	"core_updater_status_complete_starting": "Zaganjanje programa Wallpaper Engine...",
+	"core_updater_status_compat_message_box_body_item_exclude": "{{name}}: izloči Wallpaper Engine",
+	"core_updater_status_compat_message_box_body_item_update": "{{name}}: posodobitev na različico {{version}}",
+	"core_updater_status_complete": "Namestitev uspešno končana",
+	"core_updater_status_complete_errors": "Namestitev končana z napakami",
+	"core_updater_status_complete_starting": "Zaganjanje Wallpaper Engine ...",
 	"core_updater_status_cancelled": "Uporabnik je preklical proces",
-	"core_updater_status_corrupted_system_module_message_box_title": "Sistemski modul se ni zmogel naložiti",
-	"core_updater_prompt_close": "Wallpaper Engine se še vedno izvaja, najprej ga zaprite. Čakam da se naslednji procesi zaprejo:",
+	"core_updater_status_corrupted_system_module_message_box_title": "Sistemska datoteka manjka ali ne deluje pravilno",
+	"core_updater_prompt_close": "Wallpaper Engine se še vedno izvaja, prosimo če ga zaprete. Čaka se na zaprtje naslednjih procesov:",
 	"core_updater_status_directx_not_supported_title": "DirectX 10 ni podprt",
-	"core_updater_status_directx_not_supported_body": "Zdi se, da vaša grafična kartica ne podpira DirectX 10 ali da je vaš grafični gonilnik pokvarjen. DirectX 10 je sistemska zahteva za to aplikacijo. Nekatere funkcionalnosti programa bodo omejene, nestabilne ali nedostopne.\n\nČe vaša grafična kartica že podpira DirectX 10, je lahko vaš trenutni grafični gonilnik pokvarjen."
+	"core_updater_status_directx_not_supported_body": "Zgleda, da vaša grafična kartica ne podpira DirectX 10 ali da je vaš grafični gonilnik okvarjen. DirectX 10 je sistemska zahteva za to aplikacijo. \n\nČe vaša grafična kartica predvidoma podpira DirectX 10, je lahko morda vaš trenutni grafični gonilnik okvarjen. Lahko poskusite ponovno namestiti gonilnik ali stopite v kontakt z vašim prodajalcem strojne opreme (Nvidia, AMD, Intel), da razrešijo problem."
 }
