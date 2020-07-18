@@ -12,7 +12,7 @@
 	"ui_next": "Dalej",
 	"ui_show_details": "Pokaż więcej",
 	"ui_modal_updaterequired_title": "Program Wallpaper Engine musi zostać zaktualizowany",
-	"ui_modal_updaterequired_body": "Zamknij program Wallpaper Egnine (kliknij ikonę na pasku zadań i wybierz opcję Wyjdź) i uruchom go ponownie poprzez platformę [[[Platform]]] aby otrzymać najnowsze aktualizacje. Jeżeli powiadomienie wciąż się wyświetla, sprawdź spójność plików poprzez platformę [[[Platform]]].<br/><br/>Wersja aplikacji: <b>{{callerVersion}}</b>, wersja interfejsu: <b>{{appVersion}}</b>.",
+	"ui_modal_updaterequired_body": "Zamknij program Wallpaper Engine (kliknij ikonę na pasku zadań i wybierz opcję Wyjdź) i uruchom go ponownie poprzez platformę [[[Platform]]] aby otrzymać najnowsze aktualizacje. Jeżeli powiadomienie wciąż się wyświetla, sprawdź spójność plików poprzez platformę [[[Platform]]].<br/><br/>Wersja aplikacji: <b>{{callerVersion}}</b>, wersja interfejsu: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title": "Dostępna jest nowa aktualizacja",
 	"ui_modal_updateavailable_body_distro": "Nowa aktualizacja programu Wallpaper Engine została pobrana poprzez platformę [[[Platform]]] (wersja <b>{{distroVersion}}</b>). Czy chcesz zamknąć program Wallaper Engine, aby zastosować zmiany?",
 	"ui_modal_installationpath_error_title": "Zła ścieżka instalacji zarejestrowana w Windows",
