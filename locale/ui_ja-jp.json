@@ -192,6 +192,7 @@
 	"ui_browse_playlist_button_clear": "クリア",
 	"ui_browse_playlist_too_many_items": "プレイリストの壁紙が多すぎます。",
 	"ui_browse_playlist_modal_open_header": "プレイリストを開く",
+	"ui_browse_playlist_modal_delete": "削除",
 	"ui_browse_playlist_modal_save_header": "プレイリストをセーブ",
 	"ui_browse_playlist_modal_save_name": "名前",
 	"ui_browse_playlist_modal_save_description": "同じ名前のプレイリストがあった場合は、上書きされます。",
