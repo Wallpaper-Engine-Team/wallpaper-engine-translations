@@ -15,6 +15,7 @@
 	"ui_modal_updaterequired_body": "Prosimo, zaprite Wallpaper Engine (desni klik na ikono v orodni vrstici in izberite Izhod) in ga ponovno zaženite preko [[[Platform]]]a, da boste prejeli najnovejše posodobitve. Če se vam to obvestilo prikaže večkrat, prosimo preverite datotečni sistem preko [[[Platform]]]a.<br/><br/>Verzija aplikacije: <b>{{callerVersion}}</b>, UI verzija: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title": "Na voljo je nova posodobitev",
 	"ui_modal_updateavailable_body_distro": "Za Wallpaper Engine je bila preko [[[Platform]]]a prenesena nova posodobitev.(version <b>{{distroVersion}}</b>). Želite ponovno zagnati Wallpaper Engine, da dokončate namestitev?",
+	"ui_modal_installationpath_error_title": "Napačno registrirana namestitvena pot v Windows",
 	"ui_browse_monitor": "Zaslon",
 	"ui_browse_choose_monitor": "(Izberite zaslon)",
 	"ui_browse_filter_results": "Filtriraj",
