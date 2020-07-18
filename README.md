@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/Wallpaper-Engine-Team/wallpaper-engine-translations.svg?branch=master)](https://travis-ci.com/Wallpaper-Engine-Team/wallpaper-engine-translations)
+[![Crowdin](https://badges.crowdin.net/wallpaper-engine/localized.svg)](https://crowdin.com/project/wallpaper-engine)
 
 # Wallpaper Engine Translations
 
