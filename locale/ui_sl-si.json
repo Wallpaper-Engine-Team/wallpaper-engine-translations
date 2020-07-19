@@ -169,6 +169,7 @@
 	"ui_browse_modal_remove_preset_info": "<br/><br/>Sledeče variante se zanašajo na ozadje ali ozadja, ki jih poskušaš odstraniti in bodo posledično prav tako odstranjene: <b>{{presets}}</b>",
 	"ui_browse_modal_subscribe_preset_header": "Prenos variante ozadja",
 	"ui_browse_modal_subscribe_preset_body": "Ozadje <b>{{title}}</b> je varianta drugega ozadja, katerega moraš prav tako prenesti, če ga želiš uporabiti.<br/><br/>Prenesem oba?",
+	"ui_browse_modal_subscribe_preset_open_dependency": "Odprta naveza",
 	"ui_browse_open_url_header": "Odprite ozadje iz URL",
 	"ui_browse_open_url_hotkey_info": "Da uporabiš tipkovnico na ozadju, prej z bližnično tipko skrij ikone:",
 	"ui_browse_modal_proceed": "Nadaljujte",
