@@ -193,6 +193,7 @@
 	"ui_browse_playlist_button_clear": "Очистить",
 	"ui_browse_playlist_too_many_items": "Слишком много обоев в плейлисте для отображения.",
 	"ui_browse_playlist_modal_open_header": "Открыть плейлист",
+	"ui_browse_playlist_modal_delete": "Удалить",
 	"ui_browse_playlist_modal_save_header": "Сохранить плейлист",
 	"ui_browse_playlist_modal_save_name": "Название",
 	"ui_browse_playlist_modal_save_description": "Если плейлист с тем же именем уже существует, он будет перезаписан.",
