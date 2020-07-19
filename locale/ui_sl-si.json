@@ -92,6 +92,7 @@
 	"ui_browse_details_properties_apply_to_all": "Uporabi na vse",
 	"ui_browse_details_properties_apply_to_all_instructions": "Dodeljene nastavitve bodo spremenjene za vsa ozadja trenutnih monitorjev ali pa samo za izbrana ozadja.",
 	"ui_browse_details_properties_apply_to_all_update_all_and_default": "Posodobi vsa ozadja in dodeljene nastavitve",
+	"ui_browse_details_properties_apply_to_all_restore_defaults": "Obnovi na začetne nastavitve",
 	"ui_browse_footer_btn_workshop": "[[[Platform]]] [[[Host]]]",
 	"ui_browse_footer_btn_open_from_file": "Najdi v računalniku",
 	"ui_browse_footer_btn_open_from_url": "Odpri iz URL",
@@ -214,6 +215,7 @@
 	"ui_browse_query_sort_by_followed_users": "Naredil nekdo, ki mu slediš",
 	"ui_browse_query_sort_most_up_votes": "Najbolj priljubljeni",
 	"ui_browse_query_sort_most_subscriptions": "Največ prenosov",
+	"ui_browse_context_menu_default": "Privzeto",
 	"ui_settings_playback": "Predvajanje",
 	"ui_settings_playback_focused": "Druga aplikacija je izbrana:",
 	"ui_settings_playback_maximized": "Druga aplikacija je povečana:",
@@ -250,6 +252,7 @@
 	"ui_settings_advanced_video_loop": "Zanka predvajanja:",
 	"ui_settings_advanced_log_level": "Vrsta beleženja:",
 	"ui_settings_about": "O nas",
+	"ui_settings_plugins_options_led_plugin_source_monitor_option_default": "Privzeto",
 	"ui_settings_no_devices": "Najdena ni nobena naprava",
 	"ui_settings_skin_white": "Svetla",
 	"ui_settings_skin_dark": "Temna",
@@ -445,5 +448,6 @@
 	"ui_editor_scene_options_camera_parallax": "Parallax kamere",
 	"ui_editor_scene_options_camera_parallax_amount": "Količina",
 	"ui_editor_scene_options_camera_parallax_delay": "Zakasnitev",
-	"ui_editor_scene_options_camera_mouse_influence": "Vpliv miške"
+	"ui_editor_scene_options_camera_mouse_influence": "Vpliv miške",
+	"ui_editor_properties_context_menu_restore_default_value": "Obnovi začetno vrednost"
 }
