@@ -126,6 +126,7 @@
 	"ui_browse_monitors_clone": "Kloniraj",
 	"ui_browse_monitors_save_profile": "Shrani profil",
 	"ui_browse_monitors_load_profile": "Naloži profil",
+	"ui_browse_monitors_show_on_start": "Pokaži ob zagonu",
 	"ui_browse_monitors_mute": "Izklopi zvok",
 	"ui_browse_monitors_unmute": "Vklopi zvok",
 	"ui_browse_sort_name": "Ime",
