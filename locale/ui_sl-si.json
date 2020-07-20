@@ -294,7 +294,7 @@
 	"ui_browse_context_menu_default": "Privzeto",
 	"ui_browse_report_modal_category_genre_description": "To ozadje prijavljate zaradi uporabe neustrezne označbe zvrsti. Prosimo presodite, katera zvrst najbolje ustreza ozadju po tem kar 'vidite' in ne kar osebno 'veste' o njem.",
 	"ui_browse_report_modal_category_rating_description": "To ozadje prijavljate zaradi uporabe neustrezne ocene in kršenje pravil golote in nasilja. Če ozadje ne more biti označeno kot 'vprašljivo' ali 'odraslo', prosimo izberite 'IZLOČI' opcijo, kar bo povzročilo umik ozadja.",
-	"ui_browse_report_modal_category_copyright_description": "Prosimo, uporabi [[[PROVIDER]]] DMCA obrazec za poročilo o kršenju avtorskih pravic. To bo zagotovilo obravnavano na legalno ustrezen način.",
+	"ui_browse_report_modal_category_copyright_description": "Prosimo, uporabi [[[PROVIDER]]] DMCA obrazec za poročilo o kršenju avtorskih pravic. To bo zagotovilo obravnavo na legalno ustrezen način.",
 	"ui_browse_report_modal_category_spam_description": "To ozadje prijavljate kot spam.",
 	"ui_browse_report_modal_category_offensive_description": "To ozadje prijavljate, ker vsebuje žaljivo vsebino. Ne uporabite te izbire za prijavo golote in namesto tega izberite 'napačna ocena vsebine'.",
 	"ui_browse_report_modal_category_other_description": "Prosimo, pred prijavo uporabite ustrezno kategorijo! Če vaša prijava ne ustreza ničemur, uporabite to kategorijo.",
