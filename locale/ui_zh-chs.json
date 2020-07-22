@@ -588,6 +588,7 @@
 	"ui_welcome_quality_description_header": "描述：",
 	"ui_welcome_quality_fps_limit": "FPS 限制：",
 	"ui_welcome_quality_anti_aliasing": "抗锯齿：",
+	"ui_welcome_quality_bloom": "后处理：",
 	"ui_welcome_quality_reflections": "反射：",
 	"ui_welcome_windows_color_description": "让 Windows 边框配色自动适应您的壁纸：",
 	"ui_welcome_windows_color_header": "更改 Windows 配色",
