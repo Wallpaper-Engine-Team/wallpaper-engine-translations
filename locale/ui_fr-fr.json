@@ -193,6 +193,7 @@
 	"ui_browse_playlist_button_clear": "Effacer",
 	"ui_browse_playlist_too_many_items": "Trop de fond d'écran dans la liste pour être affiché.",
 	"ui_browse_playlist_modal_open_header": "Ouvrir playlist",
+	"ui_browse_playlist_modal_delete": "Supprimer",
 	"ui_browse_playlist_modal_save_header": "Sauvegarder playlist",
 	"ui_browse_playlist_modal_save_name": "Nom",
 	"ui_browse_playlist_modal_save_description": "Si une playlist du même nom existe déjà, elle sera remplacée.",
