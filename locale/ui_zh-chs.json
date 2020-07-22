@@ -475,7 +475,7 @@
 	"ui_settings_adjust_windows_color_accent": "强调色",
 	"ui_settings_adjust_windows_color_everything": "所有",
 	"ui_settings_adjust_windows_color_warning_header": "Windows颜色警告",
-	"ui_settings_adjust_windows_color_warning_body": "<b>注意</b>: 使用此功能将改变您的Windows的外观和风格。Wallpaper Engine将无法恢复到您当前的主题。如果您希望恢复到您之前的主题，您必须手动更改Windows的主题颜色设定。<br/><br/>如果您不知道如何手动更改，或者您正使用的是未验证的Windows，无法更改主题设定，请<b>不要</b>使用此功能！<br/><br/> Wallpaper Engine无法恢复颜色设定，只有通过Windows主题设定才能恢复。",
+	"ui_settings_adjust_windows_color_warning_body": "<b>注意</b>: 使用此功能将改变您的Windows的外观和风格。Wallpaper Engine将无法恢复到您当前的主题。如果您希望恢复到您之前的主题，您必须手动更改Windows的主题颜色设定。<br/><br/>如果您不知道如何手动更改，或者您正使用的是未激活的Windows，无法更改主题设定，请<b>不要</b>使用此功能！<br/><br/> Wallpaper Engine无法恢复颜色设定，只有通过Windows主题设定才能恢复。",
 	"ui_settings_start_with_windows": "开机启动：",
 	"ui_settings_remove_service": "移除高优先级",
 	"ui_settings_register_service": "设置高优先级",
