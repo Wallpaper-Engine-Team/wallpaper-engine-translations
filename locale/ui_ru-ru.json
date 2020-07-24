@@ -588,6 +588,7 @@
 	"ui_welcome_quality_description_header": "Описание:",
 	"ui_welcome_quality_fps_limit": "Ограничение кадров/сек.:",
 	"ui_welcome_quality_anti_aliasing": "Сглаживание:",
+	"ui_welcome_quality_bloom": "Пост-обработка:",
 	"ui_welcome_quality_reflections": "Отражения:",
 	"ui_welcome_windows_color_description": "Позволять обоям автоматически настраивать цвет окон Windows:",
 	"ui_welcome_windows_color_header": "Регулировка цвета окон",
