@@ -665,7 +665,7 @@
 	"ui_editor_tooltip_scene_options": "場景設定",
 	"ui_editor_camera_add_path": "新增路徑",
 	"ui_editor_camera_select_path": "請在左側選取一個路徑",
-	"ui_editor_camera_add_renderable": "新增預設",
+	"ui_editor_camera_add_renderable": "新增素材",
 	"ui_editor_gizmo_translate": "平移",
 	"ui_editor_gizmo_rotate": "旋轉",
 	"ui_editor_gizmo_scale": "縮放",
