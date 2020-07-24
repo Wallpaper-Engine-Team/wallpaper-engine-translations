@@ -174,7 +174,7 @@
 	"ui_browse_open_url_hotkey_info": "Чтобы использовать клавиатуру на обоях, сначала скройте значки этой горячей клавишей:",
 	"ui_browse_modal_proceed": "Продолжить",
 	"ui_browse_modal_advertise_workshop_header": "Настройка фильтров [[[Host]]]",
-	"ui_browse_modal_advertise_workshop_body": "Используйте панель фильтров слева для выбора тэгов обоев по вашем предпочтениям.<br/><br/>Используйте фильтр <b>Одобренных</b> <span class='fas fa-trophy browseWallpaperApproved'></span> для показа проверенных и качественных обоев.<br/><br/>Установите порядок сортировки в правом верхнем углу на <b>Популярные</b> или <b>Лидеры рейтинга</b>, если вы ищете качественные обои.",
+	"ui_browse_modal_advertise_workshop_body": "Используйте панель фильтров слева для выбора тегов обоев по вашем предпочтениям.<br/><br/>Используйте фильтр <b>Одобренных</b> <span class='fas fa-trophy browseWallpaperApproved'></span> для показа проверенных и качественных обоев.<br/><br/>Установите порядок сортировки в правом верхнем углу на <b>Популярные</b> или <b>Лидеры рейтинга</b>, если вы ищете качественные обои.",
 	"ui_browse_modal_advertise_workshop_anime_question": "Wallpaper Engine содержит много обоев с тематикой <b>Аниме</b>. Вы хотите видеть <b>Аниме</b> обои?",
 	"ui_browse_modal_advertise_workshop_anime_hint": "Вы сможете поменять эту опцию позже, зайдя в настройки фильтров.",
 	"ui_browse_modal_advertise_workshop_anime_button_show": "Показать Аниме",
