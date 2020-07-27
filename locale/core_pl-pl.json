@@ -37,7 +37,6 @@
 	"core_msgbox_below_win_7": "Program Wallpaper Engine wymaga do poprawnego działania systemu Windows 7 lub nowszego.\n\nUżywasz wersji systemu która nie jest wspierana, a więc program Wallpaper Engine może nie działać poprawnie.",
 	"core_msgbox_media_feature_pack_missing": "Nie znaleziono pliku mfplat.dll!\nPrawdopodobnie używasz systemu Windows N. Zainstaluj dodatek Media Feature Pack firmy Microsoft, aby włączyć obsługę wideo! (Google: Media Feature Pack Windows 10/8.1/7)\n\n",
 	"core_msgbox_ui_file_not_found": "Pliki programu nie mogą zostać otworzone.\n\nW ścieżce instalacji mogą być niewłaściwe znaki, może brakować pliku lub program może być blokowany przez antywirusa. \n\nSpróbuj zainstalować Wallpaper Engine w tej samej ścieżce co [[[Platform]]] lub stwórz bibliotekę [[[Platform]]] używając prostych znaków.",
-	"core_fatal_window_creation_failed": "Nie udało się utworzyć okna tapety. Jest to zwykle powiązane z zepsutymi sterownikami karty graficznej. Przeprowadź ponowną instalację sterowników twojej karty graficznej i uruchom ponownie komputer.",
 	"core_updater_headline_init": "Konfigurowanie programu Wallpaper Engine...",
 	"core_updater_headline_update": "Aktualizowanie programu Wallpaper Engine do wersji {{version}}...",
 	"core_updater_headline_init_complete": "Zakończono konfigurowanie wersji {{version}}. Uruchamianie programu Wallpaper Engine...",
