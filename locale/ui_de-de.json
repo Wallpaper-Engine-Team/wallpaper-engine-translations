@@ -675,7 +675,7 @@
 	"ui_editor_review_info_header": "Überprüfungsprozess",
 	"ui_editor_review_info_body": "Dein Hintergrund wird zunächst geprüft bevor andere Nutzer es finden können, um sicherzustellen, dass es gegen keine landesspezifischen Gesetze verstößt.<br/><br/>Wenn du den Hintergrund aktualisierst, muss er erneut überprüft werden und wird wieder ans Ende der Überprüfungsliste gesetzt.",
 	"ui_editor_treeview_header_files": "Importierte Dateien",
-	"ui_editor_tooltip_layers": "Schichten",
+	"ui_editor_tooltip_layers": "Ebenen",
 	"ui_editor_tooltip_scene_options": "Szene-Optionen",
 	"ui_editor_camera_add_path": "Pfad hinzufügen",
 	"ui_editor_camera_select_path": "Bitte wähle links einen Pfad aus.",
