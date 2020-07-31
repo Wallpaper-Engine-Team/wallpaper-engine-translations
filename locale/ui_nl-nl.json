@@ -1,4 +1,5 @@
 {
+	"ui_caption_browse": "Wallpaper Engine - [[[Platform]]] Editie",
 	"ui_caption_settings": "Instellingen",
 	"ui_caption_editor": "Achtergronden Editor",
 	"ui_ok": "OK",
@@ -8,6 +9,8 @@
 	"ui_retry": "Probeer opnieuw",
 	"ui_select": "Selecteer",
 	"ui_create": "Creëer",
+	"ui_next": "Volgende",
+	"ui_show_details": "Toon Details",
 	"ui_modal_updaterequired_title": "Wallpaper Engine moeten worden bijgewerkt",
 	"ui_modal_updaterequired_body": "Sluit alstublieft Wallpaper Engine af (rechtermuisknop op het bakje en klik sluiten) en herstart het via [[[Platform]]] om de laatste updates te ontvangen. Indien je nog steeds deze waaschuwing krijgt, verifiër de applicatie bestanden via [[[Platform]]].<br/><br/>Applicatie versie: <b>{{callerVersion}}</b>, UI versie: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title": "Nieuwe versie beschikbaar",
