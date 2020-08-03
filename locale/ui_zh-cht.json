@@ -587,6 +587,7 @@
 	"ui_welcome_quality_description_header": "說明：",
 	"ui_welcome_quality_fps_limit": "FPS 上限：",
 	"ui_welcome_quality_anti_aliasing": "消除鋸齒：",
+	"ui_welcome_quality_bloom": "後期處理：",
 	"ui_welcome_quality_reflections": "反射：",
 	"ui_welcome_windows_color_description": "讓桌布自動調整 Windows 框線色彩：",
 	"ui_welcome_windows_color_header": "調整 Windows 色彩",
