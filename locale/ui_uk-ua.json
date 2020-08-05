@@ -1581,7 +1581,15 @@
 	"ui_editor_particle_example_cursor_follow": "Слідування за курсором",
 	"ui_editor_particle_example_cursor_avoid": "Уникання курсора",
 	"ui_editor_particle_example_turbulence": "Турбулентність",
+	"ui_editor_properties_geometry": "Геометрія",
+	"ui_editor_properties_skeleton": "Скелет",
+	"ui_editor_properties_weights": "Ваги",
+	"ui_editor_properties_animation": "Анімація",
+	"ui_editor_properties_remove_puppet_warp": "Видалити деформацію гумової сітки",
+	"ui_editor_properties_remove": "Видалити",
+	"ui_editor_properties_incomplete": "Не завершено",
 	"ui_editor_puppet_warp_edit_warning_title": "Скинути деформацію гумової сітки",
+	"ui_editor_puppet_warp_edit_warning_body": "Якщо ви продовжите редагувати цю стадію створення деформації гумової сітки, ви скинете всі наступні стадії створення та їх потрібно буде переробити з нуля.<br/>Всі існуючі анімації для цієї гумової сітки будуть видалені.",
 	"ui_editor_select_material": "Обрати матеріал",
 	"ui_editor_select_texture": "Обрати текстуру"
 }
