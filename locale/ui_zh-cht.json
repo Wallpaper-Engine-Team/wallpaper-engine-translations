@@ -1153,7 +1153,6 @@
 	"ui_editor_script_documentation": "文件",
 	"ui_editor_script_insert_function": "插入函數",
 	"ui_editor_script_insert_property": "插入屬性",
-	"ui_editor_script_replace_code": "取代編碼",
 	"ui_editor_script_import_base_module": "匯入基本模組",
 	"ui_editor_script_import_custom_module": "匯入自訂模組",
 	"ui_editor_script_module_color_utilities": "顏色公用程式",
