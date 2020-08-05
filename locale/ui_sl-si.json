@@ -1153,7 +1153,6 @@
 	"ui_editor_script_documentation": "Dokumentacija",
 	"ui_editor_script_insert_function": "Vstavi funkcijo",
 	"ui_editor_script_insert_property": "Vstavi lastnost",
-	"ui_editor_script_replace_code": "Zamenjaj kodo",
 	"ui_editor_script_import_base_module": "Uvozi osnovni modul",
 	"ui_editor_script_import_custom_module": "Uvozi modul po meri",
 	"ui_editor_script_module_color_utilities": "Barvne praktikalije",
