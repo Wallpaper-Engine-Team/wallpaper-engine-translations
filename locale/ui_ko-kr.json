@@ -1139,7 +1139,6 @@
 	"ui_editor_script_documentation": "문서",
 	"ui_editor_script_insert_function": "함수 삽입",
 	"ui_editor_script_insert_property": "속성 삽입",
-	"ui_editor_script_replace_code": "코드 대체",
 	"ui_editor_script_import_base_module": "기반 모듈 가져오기",
 	"ui_editor_script_import_custom_module": "커스텀 모듈 가져오기",
 	"ui_editor_script_module_color_utilities": "색상 유틸리티",
