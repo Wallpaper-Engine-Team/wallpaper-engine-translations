@@ -37,7 +37,6 @@
 	"core_msgbox_below_win_7": "Wallpaper Engine vereist Windows 7 of hoger, zoals beschreven is in de systeemvereisten.\n\nHet lijkt er op dat u een niet-ondersteunde versie van Windows gebruikt en dus kan Wallpaper Engine mogelijk niet goed functioneren.",
 	"core_msgbox_media_feature_pack_missing": "mfplat.dll mist!\nJe gebruikt waarschijnlijk Windows N. Installeer alstublieft de Media Feature Pack gemaakt door Microsoft om video support aan te zetten! (Google: Media Feature Pack Windows 10/8.1/7)\n\n",
 	"core_msgbox_ui_file_not_found": "Het is mogelijk dat er ongeldige tekens in de installatie folder staan, het bestand mist of dat deze geblokkeerd wordt door een anti-virus.\n\nProbeer om Wallpaper Engine te installeren in de zelfde directory als [[[Platform]]] of maak een [[[Platform]]] library met eenvoudige tekens.",
-	"core_fatal_window_creation_failed": "Kan achtergrondvenster niet maken (error code {{error}}). Dit heeft meestal te maken met kapotte grafische card drivers. Voer een schone herinstallatie van de stuurprogramma's van uw grafische kaart uit en start uw computer opnieuw op.",
 	"core_updater_headline_init": "Wallpaper Engine aan het klaar maken...",
 	"core_updater_headline_update": "Wallpaper Engine aan het updaten naar versie {{version}}...",
 	"core_updater_headline_init_complete": "Setup van versie {{version}} compleet. Wallpaper Engine aan het starten...",
