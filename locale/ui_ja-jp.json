@@ -1139,7 +1139,6 @@
 	"ui_editor_script_documentation": "ドキュメンテーション",
 	"ui_editor_script_insert_function": "関数挿入",
 	"ui_editor_script_insert_property": "プロパティを挿入",
-	"ui_editor_script_replace_code": "コード置換",
 	"ui_editor_script_import_base_module": "基本モジュールインポート",
 	"ui_editor_script_import_custom_module": "カスタムモジュールインポート",
 	"ui_editor_script_module_color_utilities": "colorユーティリティ",
