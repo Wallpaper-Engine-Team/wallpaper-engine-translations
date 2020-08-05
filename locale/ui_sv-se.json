@@ -1063,7 +1063,6 @@
 	"ui_editor_script_documentation": "Dokumentation",
 	"ui_editor_script_insert_function": "Infoga funktion",
 	"ui_editor_script_insert_property": "Infoga egenskap",
-	"ui_editor_script_replace_code": "Ersätt kod",
 	"ui_editor_script_import_base_module": "Importera basmodul",
 	"ui_editor_script_import_custom_module": "Importera anpassad modul",
 	"ui_editor_script_module_color_utilities": "Färgverktyg",
