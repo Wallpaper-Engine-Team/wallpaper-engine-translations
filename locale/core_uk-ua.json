@@ -37,7 +37,6 @@
 	"core_msgbox_below_win_7": "Wallpaper Engine вимагає Windows 7 або вище, як зазначено вимогам в [[[Platform]]].\n\nСхоже, що ви працюєте непідтримуваною версією of Windows і Wallpaper Engine може не працювати.",
 	"core_msgbox_media_feature_pack_missing": "mfplat.dll не найдено!\nВи можливо користуєтесь Windows N. Будь-ласка установіть Media Feature Pack, що б включити підтримку відео ! (Google: Media Feature Pack Windows 10/8.1/7)\n\n",
 	"core_msgbox_ui_file_not_found": "Не вдалося відкрити файли програми.\n\nМожливо, у вашому шляху встановлення є недійсні символи, файл відсутній, або програма блокується антивірусом.\n\nСпробуйте встановити Wallpaper Engine у ту ж саму папку, що і [[[Platform]]], або створіть бібліотеку [[[Platform]]] з простими символами.",
-	"core_fatal_window_creation_failed": "Не вдалося створити вікно шпалер (error code {{error}}). Зазвичай це пов'язано зі зламаними драйверами відеокарти. Виконайте чисте перевстановлення драйвера вашої відеокарти та перезапустіть комп'ютер.",
 	"core_updater_headline_init": "Йде налаштування Wallpaper Engine...",
 	"core_updater_headline_update": "Обновлення Wallpaper Engine до {{version}}...",
 	"core_updater_headline_init_complete": "Завершена установка версії {{version}}. Запуск Wallpaper Engine...",
