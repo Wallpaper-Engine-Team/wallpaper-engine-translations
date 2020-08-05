@@ -1582,7 +1582,14 @@
 	"ui_editor_particle_example_cursor_avoid": "Избегать курсора",
 	"ui_editor_particle_example_turbulence": "Завихрение",
 	"ui_editor_properties_geometry": "Геометрия",
+	"ui_editor_properties_skeleton": "Скелет",
+	"ui_editor_properties_weights": "Веса",
+	"ui_editor_properties_animation": "Анимация",
+	"ui_editor_properties_remove_puppet_warp": "Удалить марионеточную деформацию",
+	"ui_editor_properties_remove": "Удалить",
+	"ui_editor_properties_incomplete": "Не завершено",
 	"ui_editor_puppet_warp_edit_warning_title": "Сбросить Марионеточную деформацию",
+	"ui_editor_puppet_warp_edit_warning_body": "Если вы продолжите редактировать эту стадию создания марионеточной деформации, вы сбросите все последующие стадии создания и их нужно будет переделать с нуля.<br/>Все существующие анимации для этой марионетки будут удалены.",
 	"ui_editor_select_material": "Выбрать материал",
 	"ui_editor_select_texture": "Выбрать текстуру"
 }
