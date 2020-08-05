@@ -1581,7 +1581,15 @@
 	"ui_editor_particle_example_cursor_follow": "Mauszeiger folgen",
 	"ui_editor_particle_example_cursor_avoid": "Mauszeiger ausweichen",
 	"ui_editor_particle_example_turbulence": "Turbulenz",
+	"ui_editor_properties_geometry": "Geometrie",
+	"ui_editor_properties_skeleton": "Skelett",
+	"ui_editor_properties_weights": "Gewichte",
+	"ui_editor_properties_animation": "Animation",
+	"ui_editor_properties_remove_puppet_warp": "Formgitter entfernen",
+	"ui_editor_properties_remove": "Entfernen",
+	"ui_editor_properties_incomplete": "Unvollständig",
 	"ui_editor_puppet_warp_edit_warning_title": "Formgitter zurücksetzen",
+	"ui_editor_puppet_warp_edit_warning_body": "Falls du mit dem Bearbeiten dieses Design-Abschnitts des Formgitters fortfährst werden alle nachfolgenden Design-Abschnitte zurückgesetzt und du musst sie von Grund auf neu erstellen.<br/>Alle existierenden Animationen für dieses Formgitter-Objekt werden gelöscht.",
 	"ui_editor_select_material": "Material auswählen",
 	"ui_editor_select_texture": "Textur auswählen"
 }
