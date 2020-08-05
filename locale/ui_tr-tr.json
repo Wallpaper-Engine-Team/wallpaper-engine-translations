@@ -1148,7 +1148,6 @@
 	"ui_editor_script_documentation": "Dökümantasyon",
 	"ui_editor_script_insert_function": "Fonksiyon Ekle",
 	"ui_editor_script_insert_property": "Özellik Ekle",
-	"ui_editor_script_replace_code": "Kod Değiştir",
 	"ui_editor_script_import_base_module": "Temel Modül İçe Aktar",
 	"ui_editor_script_import_custom_module": "Özel Modül İçe Aktar",
 	"ui_editor_script_module_color_utilities": "Renk Araçları",
