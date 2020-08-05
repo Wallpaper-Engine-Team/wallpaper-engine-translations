@@ -1138,7 +1138,6 @@
 	"ui_editor_script_documentation": "เอกสารสนับสนุน",
 	"ui_editor_script_insert_function": "เพิ่มฟังก์ชัน",
 	"ui_editor_script_insert_property": "เพิ่มคุณสมบัติ",
-	"ui_editor_script_replace_code": "แทนที่รหัส",
 	"ui_editor_script_import_base_module": "นำเข้าโมดูลพื้นฐาน",
 	"ui_editor_script_import_custom_module": "นำเข้าโมดูลที่กำหนดเอง",
 	"ui_editor_script_module_color_utilities": "ชุดเครื่องมือสี",
