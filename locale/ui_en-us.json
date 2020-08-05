@@ -24,7 +24,7 @@
 	"ui_modal_pagination_enter_page_title" : "Enter page #",
 
 	"ui_alert_connect_steam" : "<b>No first-time connection to [[[Platform]]] could be made</b><br/><br/><b>To remove this message forever:</b> Make sure [[[Platform]]] is running and that you are logged into the correct [[[Platform]]] account and restart Wallpaper Engine. If you need help resolving this [[[Platform]]] issue, check our FAQ: <a href='[[[var_url_faqsteam]]]'>Fix [[[Platform]]] Connection</a><br/><br/><b>If you do not own a legal copy of Wallpaper Engine:</b> Please consider supporting our work. We have priced Wallpaper Engine very reasonably so that everyone can afford it. We have poured thousands of hours of work into this application and by buying Wallpaper Engine, you support its continued development, always receive the latest updates, help to pay for server costs and are able to download wallpapers via [[[Platform]]] with ease: <a href='[[[var_url_store]]]'>Click here to buy Wallpaper Engine on [[[Platform]]]</a><br/><br/>This message will <b>never</b> appear again after you have started Wallpaper Engine through [[[Platform]]] once.",
-	
+
 	"ui_overlay_connecting_provider" : "Connecting to [[[Platform]]]...",
 
 	"ui_browse_monitor" : "Monitor",
@@ -952,6 +952,7 @@
 	"ui_query_workshop_modal_header_assets" : "Browse Assets on [[[Host]]]",
 	"ui_query_workshop_modal_asset_category_layers" : "Layers",
 	"ui_query_workshop_modal_asset_category_effects" : "Effects",
+	"ui_query_workshop_modal_asset_category_scripts" : "Scripts",
 
 	"ui_editor_toast_project_saved" : "Project saved.",
 	"ui_editor_toast_project_packed" : "Packed wallpapers cannot be opened.",
@@ -1013,6 +1014,7 @@
 	"ui_workshop_tags_distort" : "Distort",
 	"ui_workshop_tags_enhance" : "Enhance",
 	
+	"ui_workshop_tags_unknown" : "Unknown",
 	"ui_workshop_tags_scene" : "Scene",
 	"ui_workshop_tags_video" : "Video",
 	"ui_workshop_tags_web" : "Web",
@@ -1059,6 +1061,7 @@
 	"ui_editor_scene_options_fov" : "FOV",
 	"ui_editor_scene_options_nearz" : "Near Z",
 	"ui_editor_scene_options_farz" : "Far Z",
+	"ui_editor_scene_options_zoom" : "Wallpaper zoom",
 
 	"ui_editor_import_adjust_projection_center" : "Adjust wallpaper size and center",
 
@@ -1236,7 +1239,7 @@
 	"ui_editor_script_documentation" : "Documentation",
 	"ui_editor_script_insert_function" : "Insert Function",
 	"ui_editor_script_insert_property" : "Insert Property",
-	"ui_editor_script_replace_code" : "Replace Code",
+	"ui_editor_script_replace_code" : "Replace Script",
 	"ui_editor_script_import_base_module" : "Import Base Module",
 	"ui_editor_script_import_custom_module" : "Import Custom Module",
 	"ui_editor_script_module_color_utilities" : "Color Utilities",
@@ -1263,6 +1266,11 @@
 	"ui_editor_script_clear_log" : "Clear log",
 	"ui_editor_script_clear_log_on_run" : "Clear log on run",
 	"ui_editor_script_auto_scroll" : "Auto scroll",
+	"ui_editor_script_workshop" : "[[[Host]]]",
+	"ui_editor_script_workshop_browse" : "Browse Scripts on [[[Host]]]",
+	"ui_editor_script_workshop_browse_empty" : "Empty - subscribe to scripts on [[[Host]]]",
+	"ui_editor_script_workshop_replace" : "Replace with [[[Host]]] Script",
+	"ui_editor_script_workshop_publish" : "Share Script on [[[Host]]]",
 
 	"ui_editor_shader_view_errors" : "View Errors",
 	"ui_editor_shader_replace" : "Replace Shader",
@@ -1306,6 +1314,12 @@
 	"ui_editor_properties_background" : "Background",
 	"ui_editor_properties_background_color" : "Background color",
 	"ui_editor_properties_blend" : "Blend",
+	"ui_editor_properties_blend_amount" : "Blend amount",
+	"ui_editor_properties_blend_amount_2" : "Blend amount 2",
+	"ui_editor_properties_blend_amount_3" : "Blend amount 3",
+	"ui_editor_properties_blend_amount_4" : "Blend amount 4",
+	"ui_editor_properties_blend_amount_5" : "Blend amount 5",
+	"ui_editor_properties_blend_amount_6" : "Blend amount 6",
 	"ui_editor_properties_blend_in_end" : "Blend-in end",
 	"ui_editor_properties_blend_in_start" : "Blend-in start",
 	"ui_editor_properties_blend_mode" : "Blend mode",
@@ -1337,6 +1351,7 @@
 	"ui_editor_properties_copy_background" : "Copy background",
 	"ui_editor_properties_corner_weights" : "Corner weights",
 	"ui_editor_properties_count" : "Count",
+	"ui_editor_properties_create" : "Create",
 	"ui_editor_properties_crop_transparent_area" : "Crop transparent area",
 	"ui_editor_properties_culling" : "Culling",
 	"ui_editor_properties_cutout" : "Cutout",
@@ -1363,6 +1378,7 @@
 	"ui_editor_properties_duplicate_texture" : "Duplicate texture",
 	"ui_editor_properties_duration" : "Duration",
 	"ui_editor_properties_edges" : "Edges",
+	"ui_editor_properties_edit" : "Edit",
 	"ui_editor_properties_effects" : "Effects",
 	"ui_editor_properties_effects_add" : "Add",
 	"ui_editor_properties_effects_edit" : "Edit",
@@ -1402,6 +1418,7 @@
 	"ui_editor_properties_gravity" : "Gravity",
 	"ui_editor_properties_greyscale" : "Greyscale",
 	"ui_editor_properties_height" : "Height",
+	"ui_editor_properties_holes" : "Holes",
 	"ui_editor_properties_image" : "Image",
 	"ui_editor_properties_image_layer" : "Image Layer",
 	"ui_editor_properties_import" : "Import",
@@ -1449,6 +1466,7 @@
 	"ui_editor_properties_normal" : "Normal",
 	"ui_editor_properties_not_more_than_one_per_frame" : "Limit to one per frame",
 	"ui_editor_properties_nothing_to_configure" : "Nothing to configure",
+	"ui_editor_properties_number_of_textures" : "Number of textures",
 	"ui_editor_properties_offset" : "Offset",
 	"ui_editor_properties_opacity" : "Opacity",
 	"ui_editor_properties_opacity_mask" : "Opacity mask",
@@ -1487,6 +1505,8 @@
 	"ui_editor_properties_pulse_color" : "Pulse color",
 	"ui_editor_properties_pulse_phase" : "Pulse phase",
 	"ui_editor_properties_pulse_speed" : "Pulse speed",
+	"ui_editor_properties_puppet" : "Puppet",
+	"ui_editor_properties_puppet_warp_animation" : "Puppet warp animation",
 	"ui_editor_properties_quality" : "Quality",
 	"ui_editor_properties_radius" : "Radius",
 	"ui_editor_properties_random" : "Random",
@@ -1651,6 +1671,18 @@
 	"ui_editor_particle_example_cursor_follow" : "Follow cursor",
 	"ui_editor_particle_example_cursor_avoid" : "Avoid cursor",
 	"ui_editor_particle_example_turbulence" : "Turbulence",
+	
+	"ui_editor_puppet_warp_geometry" : "Geometry",
+	"ui_editor_puppet_warp_skeleton" : "Skeleton",
+	"ui_editor_puppet_warp_weights" : "Weights",
+	"ui_editor_puppet_warp_animation" : "Animation",
+	"ui_editor_puppet_warp_remove_puppet_warp" : "Remove puppet warp",
+	"ui_editor_puppet_warp_create" : "Create",
+	"ui_editor_puppet_warp_edit" : "Edit",
+	"ui_editor_puppet_warp_remove" : "Remove",
+	"ui_editor_puppet_warp_incomplete" : "Incomplete",
+	"ui_editor_puppet_warp_edit_warning_title" : "Resetting Puppet Warp",
+	"ui_editor_puppet_warp_edit_warning_body" : "If you continue to edit this stage of the puppet warp, you will reset all following stages and have to do them over.<br/>All existing animations for this puppet will be deleted.",
 
 	"ui_editor_select_material" : "Select Material",
 	"ui_editor_select_texture" : "Select Texture"
