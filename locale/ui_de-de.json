@@ -733,7 +733,7 @@
 	"ui_editor_publish_modal_steam_error": "Ein [[[PLATFORM]]]-Fehler ist aufgetreten: ",
 	"ui_editor_publish_modal_publish_successful": "Veröffentlichung erfolgreich.",
 	"ui_editor_publish_modal_publish_prompt_agreement": "Du musst den [[[Platform]]] [[[Host]]]-Nutzungsbedingungen zustimmen, bevor dein Hintergrund für andere sichtbar wird. Schaue dir deinen Hintergrund jetzt im [[[Platform]]] [[[Host]]] an:",
-	"ui_editor_publish_modal_progress_validate": "[[[Platform]]] [[[Host]]]-Objekt überprüfen...",
+	"ui_editor_publish_modal_progress_validate": "[[[Host]]]-Objekt überprüfen...",
 	"ui_editor_publish_modal_progress_create": "Erstelle [[[Host]]]-Objekt...",
 	"ui_editor_publish_modal_progress_prepare_data": "Aktualisiere [[[Host]]]-Objektdaten...",
 	"ui_editor_publish_modal_progress_prepare_item": "Sende [[[Host]]]-Objekt...",
