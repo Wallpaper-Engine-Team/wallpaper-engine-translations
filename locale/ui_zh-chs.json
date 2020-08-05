@@ -1141,7 +1141,6 @@
 	"ui_editor_script_documentation": "文档",
 	"ui_editor_script_insert_function": "添加函数",
 	"ui_editor_script_insert_property": "插入属性",
-	"ui_editor_script_replace_code": "更换代码",
 	"ui_editor_script_import_base_module": "导入基础模块",
 	"ui_editor_script_import_custom_module": "导入自定义模块",
 	"ui_editor_script_module_color_utilities": "颜色工具集",
