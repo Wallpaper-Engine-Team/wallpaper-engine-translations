@@ -1153,7 +1153,6 @@
 	"ui_editor_script_documentation": "Dokumentasi",
 	"ui_editor_script_insert_function": "Masukkan Fungsi",
 	"ui_editor_script_insert_property": "Masukkan Properti",
-	"ui_editor_script_replace_code": "Ganti Kode",
 	"ui_editor_script_import_base_module": "Impor Modul Dasar",
 	"ui_editor_script_import_custom_module": "Impor Modul Khusus",
 	"ui_editor_script_module_color_utilities": "Utilitas Warna",
