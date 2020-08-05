@@ -780,7 +780,7 @@
 	"ui_editor_workshop_modal_rating_body": "预览图必须适合所有人查看。请根据这张表格选择合适的内容分级。如不确定，就选择一个更严格的分级。提交非法内容或者对作品分级过低会导致作品被禁并且帐户被标记。请记住，您不需要提交只为自己使用的壁纸。",
 	"ui_editor_workshop_modal_rating_current": "当前评级：",
 	"ui_editor_workshop_modal_rating_no_rating_info_header": "合适的内容",
-	"ui_editor_workshop_modal_rating_no_rating_info_body": "请确保您上传的任何内容都适合所有人！如果您上传任何非法或者可以的内容，则可能会禁止您提交整个账户。",
+	"ui_editor_workshop_modal_rating_no_rating_info_body": "请确保您上传的内容适合全年龄用户！如果您上传任何非法或者可疑的内容，您的作品将无法通过审核或被下架，甚至您将面临账号被禁的风险。",
 	"ui_editor_open_modal_header": "打开壁纸",
 	"ui_editor_open_modal_delete": " 删除",
 	"ui_editor_context_menu_center": "居中",
