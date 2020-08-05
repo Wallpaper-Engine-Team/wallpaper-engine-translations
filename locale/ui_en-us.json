@@ -1682,7 +1682,7 @@
 	"ui_editor_puppet_warp_remove" : "Remove",
 	"ui_editor_puppet_warp_incomplete" : "Incomplete",
 	"ui_editor_puppet_warp_edit_warning_title" : "Resetting Puppet Warp",
-	"ui_editor_puppet_warp_edit_warning_body" : "If you continue to edit this stage of the puppet warp, you will reset all following stages and have to do them over.<br/>All existing animations for this puppet will be deleted.",
+	"ui_editor_puppet_warp_edit_warning_body" : "If you continue to edit this creation stage of the puppet warp, you will reset all following creation stages and have to re-do them from scratch.<br/>All existing animations for this puppet will be deleted.",
 
 	"ui_editor_select_material" : "Select Material",
 	"ui_editor_select_texture" : "Select Texture"
