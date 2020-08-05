@@ -1153,7 +1153,6 @@
 	"ui_editor_script_documentation": "Documentazione",
 	"ui_editor_script_insert_function": "Inserisci Funzione",
 	"ui_editor_script_insert_property": "Inserisci proprietà",
-	"ui_editor_script_replace_code": "Sostituisci Codice",
 	"ui_editor_script_import_base_module": "Importa modulo base",
 	"ui_editor_script_import_custom_module": "Importa modulo personalizzato",
 	"ui_editor_script_module_color_utilities": "Colore Utilità",
