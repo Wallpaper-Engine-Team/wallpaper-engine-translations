@@ -1153,7 +1153,6 @@
 	"ui_editor_script_documentation": "Документація",
 	"ui_editor_script_insert_function": "Вставити функцію",
 	"ui_editor_script_insert_property": "Вставити властивість",
-	"ui_editor_script_replace_code": "Заміна коду",
 	"ui_editor_script_import_base_module": "Імпорт базового модуля",
 	"ui_editor_script_import_custom_module": "Імпорт користувацького модуля",
 	"ui_editor_script_module_color_utilities": "Утиліти кольорів",
