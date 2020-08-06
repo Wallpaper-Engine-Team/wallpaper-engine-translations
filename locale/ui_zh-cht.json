@@ -712,7 +712,7 @@
 	"ui_editor_welcome_modal_title_welcome": "歡迎",
 	"ui_editor_importer_material_name": "材質名稱",
 	"ui_editor_importer_settings": "設置",
-	"ui_editor_importer_crop_transparency_help": "將裁剪透明區域，並調整影像大小以提高性能。<br/><br/>如果以後再更新影像，請確保不要縮小或者擴展透明區域，因為那樣可能會導致向您添加的現有效果出現問題。",
+	"ui_editor_importer_crop_transparency_help": "裁剪透明區域並調整影像大小以提高性能。<br/><br/>如果以後再更新影像，請注意不要縮小或者擴展透明區域，因為這可能會導致您加入的現有效果出現問題。",
 	"ui_editor_importer_crop_transparency_warning": "看起來影像的透明區域已經被更改，如果對此影像有任何影響，你必須在繼續導入之前修復它們。",
 	"ui_editor_importer_please_wait": "請稍候",
 	"ui_editor_importer_compiling_assets_for": "正在為下列項目編譯資源：",
@@ -1589,6 +1589,7 @@
 	"ui_editor_properties_remove": "移除",
 	"ui_editor_properties_incomplete": "未完成",
 	"ui_editor_puppet_warp_edit_warning_title": "重設操控變形",
+	"ui_editor_puppet_warp_edit_warning_body": "如果您繼續編輯此建立階段的操控變形，您將會重設所有後續的建立階段，且必須重新設定。<br/>此操控變形物件上現有的動畫將會被全部刪除。",
 	"ui_editor_select_material": "選取素材",
 	"ui_editor_select_texture": "選取紋理"
 }
