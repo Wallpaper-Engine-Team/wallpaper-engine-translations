@@ -1589,6 +1589,7 @@
 	"ui_editor_properties_remove": "ลบออก",
 	"ui_editor_properties_incomplete": "ไม่สมบูรณ์",
 	"ui_editor_puppet_warp_edit_warning_title": "รีเซ็ตการปรับเปลี่ยนรูปทรง",
+	"ui_editor_puppet_warp_edit_warning_body": "หากคุณยังคงแก้ไขขั้นตอนการสร้างการปรับเปลี่ยนรูปทรงต่อไป คุณจะรีเซ็ตขั้นตอนการสร้างที่ตามมาทั้งหมดและต้องเริ่มทำใหม่ตั้งแต่ต้น<br/>ภาพเคลื่อนไหวที่มีอยู่ทั้งหมดของวัตถุที่ปรับเปลี่ยนรูปทรงนี้จะถูกลบออก",
 	"ui_editor_select_material": "เลือกวัสดุ",
 	"ui_editor_select_texture": "เลือกพื้นผิว"
 }
