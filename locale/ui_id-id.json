@@ -1589,6 +1589,7 @@
 	"ui_editor_properties_remove": "Hapus",
 	"ui_editor_properties_incomplete": "Tidak lengkap",
 	"ui_editor_puppet_warp_edit_warning_title": "Mengatur ulang Lengkungan Puppet",
+	"ui_editor_puppet_warp_edit_warning_body": "Jika Anda terus mengubah tahap pembuatan lengkungan puppet ini, semua tahapan pembuatan Anda akan diatur ulang dan harus mengulangi nya dari awal.<br/>Semua animasi yang ada untuk puppet ini akan dihapus.",
 	"ui_editor_select_material": "Pilih Material",
 	"ui_editor_select_texture": "Pilih Tekstur"
 }
