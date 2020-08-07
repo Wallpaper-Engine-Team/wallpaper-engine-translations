@@ -930,7 +930,6 @@
 	"ui_editor_script_format_document": "Διαμόρφωση εγγράφου",
 	"ui_editor_script_documentation": "Εγχειρίδια",
 	"ui_editor_script_insert_function": "Εισαγωγή συνάρτησης",
-	"ui_editor_script_replace_code": "Αντικατάσταση κώδικα",
 	"ui_editor_script_import_base_module": "Εισαγωγή βασικής μονάδας",
 	"ui_editor_script_import_custom_module": "Εισαγωγή προσαρμοσμένης μονάδας",
 	"ui_editor_script_module_color_utilities": "Βοηθητικά προγράμματα χρωμάτων",

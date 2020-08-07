@@ -1142,7 +1142,6 @@
 	"ui_editor_script_documentation": "Dokumentation",
 	"ui_editor_script_insert_function": "Indsætningsfunktion",
 	"ui_editor_script_insert_property": "Indsæt egenskab",
-	"ui_editor_script_replace_code": "Erstat kode",
 	"ui_editor_script_import_base_module": "Importer basismodul",
 	"ui_editor_script_import_custom_module": "Importer tilpasset modul",
 	"ui_editor_script_module_color_utilities": "Farveværktøjer",

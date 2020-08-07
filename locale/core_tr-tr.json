@@ -1,6 +1,6 @@
 {
 	"core_tray_change_wallpaper": "Duvar Kağıdını Değiştir",
-	"core_tray_browse_workshop": "Atölyeye Gözat",
+	"core_tray_browse_workshop": "Şuraya Gözat: [[[Host]]]",
 	"core_tray_create_wallpaper": "Duvar Kâğıdı Oluştur",
 	"core_tray_settings": "Ayarlar",
 	"core_tray_take_screenshot": "Ekran Görüntüsü Al",
@@ -37,6 +37,7 @@
 	"core_msgbox_below_win_7": "Wallpaper Engine, Windows 7 veya üstünü gerektirir. Bu bir sistem gereksinimidir.\n\nWindows'un desteklenmeyen bir sürümünü çalıştırıyorsunuz. Wallpaper Engine çalışmayabilir.",
 	"core_msgbox_media_feature_pack_missing": "mfplat.dll eksik!\nWindows N sürümüne sahip olabilirsiniz. Lütfen video desteğini etkinleştirmek için Microsoft tarafından Medya Özellik Paketi'ni yükleyin! (Google: Medya Özellik Paketi Windows 10/8.1/7)\n\n",
 	"core_msgbox_ui_file_not_found": "Program dosyaları açılamıyor.\n\nYükleme yolunda geçersiz karakterler olabilir, dosyalar eksik olabilir veya program bir anti-virüs uygulaması tarafından engellenmiş olabilir.\n\nWallpaper Engine'ı, [[[Platform]]] ile aynı konuma yüklemeyi deneyin veya basit karakterlerle bir [[[Platform]]] kütüphanesi oluşturun.",
+	"core_fatal_window_creation_failed": "Duvar kâğıdı oluşturma başarısız ({{error}} hatası). Bunun sebebi genelde bozuk ekran kartı sürücüleridir. Ekran kartı sürücülerinizi tekrar kurun ve bilgisayarınızı yeniden başlatın.",
 	"core_updater_headline_init": "Wallpaper Engine ayarlanıyor...",
 	"core_updater_headline_update": "Wallpaper Engine, {{version}} sürümüne güncelleniyor...",
 	"core_updater_headline_init_complete": "{{version}} sürümünün kurulumu tamamlandı. Wallpaper Engine başlatılıyor...",
