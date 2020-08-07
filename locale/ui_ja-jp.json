@@ -1589,6 +1589,7 @@
 	"ui_editor_properties_remove": "削除",
 	"ui_editor_properties_incomplete": "未完成",
 	"ui_editor_puppet_warp_edit_warning_title": "パペットワープのリセット",
+	"ui_editor_puppet_warp_edit_warning_body": "パペットワープのこの作成ステージを続けると、これに続くすべての作成ステージがリセットされ、最初からやり直すことになります。<br/>このパペットに対する既存のアニメーションがすべて削除されます。",
 	"ui_editor_select_material": "マテリアル選択",
 	"ui_editor_select_texture": "テクスチャ選択"
 }
