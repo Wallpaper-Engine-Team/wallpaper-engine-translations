@@ -1582,7 +1582,7 @@
 	"ui_editor_particle_example_cursor_avoid": "커서 방지",
 	"ui_editor_particle_example_turbulence": "난류",
 	"ui_editor_properties_geometry": "기하학",
-	"ui_editor_properties_skeleton": "해골",
+	"ui_editor_properties_skeleton": "골격",
 	"ui_editor_properties_weights": "가중치",
 	"ui_editor_properties_animation": "애니메이션",
 	"ui_editor_properties_remove_puppet_warp": "퍼펫 뒤틀기 제거",
