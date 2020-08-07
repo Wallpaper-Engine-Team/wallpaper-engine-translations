@@ -376,7 +376,7 @@
 	"ui_browse_modal_folder_remove_title": "删除文件夹“{{title}}”",
 	"ui_browse_modal_folder_remove_body": "您确定要删除这个文件夹么？",
 	"ui_browse_modal_folder_remove_unsubscribe_and_remove_items": "取消订阅或者删除文件夹中的壁纸",
-	"ui_browse_navigation_top": "置顶",
+	"ui_browse_navigation_top": "主页",
 	"ui_browse_download_header": "[[[Platform]]] 下载",
 	"ui_browse_download_pending": "待定",
 	"ui_browse_download_waiting": "正在等待 [[[Platform]]]",
