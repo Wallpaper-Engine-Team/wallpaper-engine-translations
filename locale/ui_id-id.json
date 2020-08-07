@@ -1420,6 +1420,8 @@
 	"ui_editor_properties_pulse_color": "Warna denyutan",
 	"ui_editor_properties_pulse_phase": "Tahapan denyutan",
 	"ui_editor_properties_pulse_speed": "Kecepatan denyutan",
+	"ui_editor_properties_puppet": "Puppet",
+	"ui_editor_properties_puppet_warp_animation": "Animasi lengkungan puppet",
 	"ui_editor_properties_quality": "Kualitas",
 	"ui_editor_properties_radius": "Radius",
 	"ui_editor_properties_random": "Acak",
@@ -1579,9 +1581,14 @@
 	"ui_editor_particle_example_cursor_follow": "Ikuti kursor",
 	"ui_editor_particle_example_cursor_avoid": "Hindari kursor",
 	"ui_editor_particle_example_turbulence": "Turbulensi",
+	"ui_editor_properties_geometry": "Geometri",
+	"ui_editor_properties_skeleton": "Skeleton",
+	"ui_editor_properties_weights": "Bobot",
 	"ui_editor_properties_animation": "Animasi",
+	"ui_editor_properties_remove_puppet_warp": "Hapus lengkungan puppet",
 	"ui_editor_properties_remove": "Hapus",
 	"ui_editor_properties_incomplete": "Tidak lengkap",
+	"ui_editor_puppet_warp_edit_warning_title": "Mengatur ulang Lengkungan Puppet",
 	"ui_editor_select_material": "Pilih Material",
 	"ui_editor_select_texture": "Pilih Tekstur"
 }
