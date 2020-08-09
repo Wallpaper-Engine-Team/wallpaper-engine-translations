@@ -174,7 +174,7 @@
 	"ui_browse_open_url_hotkey_info": "Pro použití klávesnice na pozadí, skrýt ikony klávesovou zkratkou napřed:",
 	"ui_browse_modal_proceed": "Pokračovat",
 	"ui_browse_modal_advertise_workshop_header": "Nastavení Filtrování [[[Host]]]u",
-	"ui_browse_modal_advertise_workshop_body": "Použij postraní panel na filtrování a pro výber tagů, které se shodují s tvýma preferencema.<br/><br/>Použij filtr <b>Schválené</b> <span class='fas fa-trophy browseWallpaperApproved'></span> pro vyhledání velmi kvalitních pozadí, které musely projít ruční kontrolou.<br/><br/>Nastav řazení v pravém horním rohu na <b>Nejoblíbenější</b> nebo <b>Nejlépe hodnocené</b> pokud hledáš ty nejkvalitnější pozadí.",
+	"ui_browse_modal_advertise_workshop_body": "Použij postraní panel na filtrování a pro výběr tagů, které se shodují s tvýma preferencema.<br/><br/>Použij filtr <b>Schválené</b> <span class='fas fa-trophy browseWallpaperApproved'></span> pro vyhledání velmi kvalitních pozadí, které musely projít ruční kontrolou.<br/><br/>Nastav řazení v pravém horním rohu na <b>Nejoblíbenější</b> nebo <b>Nejlépe hodnocené</b> pokud hledáš ty nejkvalitnější pozadí.",
 	"ui_browse_modal_advertise_workshop_anime_question": "Wallpaper Engine obsahuje hodně <b>Anime</b> pozadí. Chceš zobrazovat <b>Anime</b> pozadí?",
 	"ui_browse_modal_advertise_workshop_anime_hint": "Tuto možnost můžeš kdykoliv změnit znovu otevřením filtrování.",
 	"ui_browse_modal_advertise_workshop_anime_button_show": "Zobrazovat Anime",
@@ -1583,11 +1583,13 @@
 	"ui_editor_particle_example_turbulence": "Turbulence",
 	"ui_editor_properties_geometry": "Geometrie",
 	"ui_editor_properties_skeleton": "Kostra",
+	"ui_editor_properties_weights": "Váhy",
 	"ui_editor_properties_animation": "Animace",
 	"ui_editor_properties_remove_puppet_warp": "Odebrat pokřivení loutky",
 	"ui_editor_properties_remove": "Odebrat",
 	"ui_editor_properties_incomplete": "Nehotové",
 	"ui_editor_puppet_warp_edit_warning_title": "Resetovat pokřivení loutky",
+	"ui_editor_puppet_warp_edit_warning_body": "Pokud budete pokračovat v úpravě během této fáze tvorby loutky, tak dojde k resetování všech nastavení z následujících fází tvorby a bude nutné začít s tvorbou od začátku.<br/>Všechny již existující animace pro tuto loutku budou vymazány.",
 	"ui_editor_select_material": "Vybrat materiál",
 	"ui_editor_select_texture": "Vybrat texturu"
 }
