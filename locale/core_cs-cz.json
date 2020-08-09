@@ -85,6 +85,6 @@
 	"core_updater_status_corrupted_system_module_message_box_body_install_directx": "- Přeinstaluj DirectX tím, že půjdeš do tohoto souboru a spustíš ho:\n{{installers}}\nNebo můžeš znovu stáhnout DirectX 9 z webu Microsoftu.",
 	"core_updater_prompt_close": "Aplikace Wallpaper Engine stále běží, nejdříve ji zavřete. Čeká se na ukončení procesů:",
 	"core_updater_prompt_close_foreign": "Aplikace Wallpaper Engine nemůže pokračovat v aktualizaci, protože nějaký program nejspíše využívá její soubory. Ukončete tyto programy, aby bylo možné pokračovat:",
-	"core_updater_status_directx_not_supported_title": "Sada DirectX 10 není podporována",
+	"core_updater_status_directx_not_supported_title": "DirectX 10 není podporován",
 	"core_updater_status_directx_not_supported_body": "Zdá se, že vaše grafická karta nepodporuje sadu DirectX 10 nebo že je nějaký problém s grafickým ovladačem. DirectX 10 je systémovým požadavkem nezbytným pro správné fungování této aplikace.\n\nPokud by vaše grafická karta DirectX 10 podporovat měla, může být problém způsoben jen poškozeným grafickým ovladačem. Můžete zkusit ovladač přeinstalovat nebo se obrátit na prodejce vašeho hardwaru (Nvidia, AMD, Intel)."
 }
