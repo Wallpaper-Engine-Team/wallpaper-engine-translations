@@ -166,7 +166,7 @@
 	"ui_browse_modal_unsubscribe_body_short": "您確定要取消訂閱 <b>{{title}}</b>嗎？",
 	"ui_browse_modal_remove_local_header": "從記錄移除",
 	"ui_browse_modal_remove_local_body": "您是否確定要移除本機桌布：<b>{{title}}</b>？",
-	"ui_browse_modal_remove_preset_info": "<br/><br/>以下桌布預設依賴於您正在嘗試取消訂閱並移除的桌布：<b>{{presets}}</b>",
+	"ui_browse_modal_remove_preset_info": "<br/><br/>以下桌布預設依賴於您正在嘗試取消訂閱的桌布，即將被連同刪除：<b>{{presets}}</b>",
 	"ui_browse_modal_subscribe_preset_header": "正在訂閱桌布預設",
 	"ui_browse_modal_subscribe_preset_body": "桌布預設：<b>{{title}}</b> 依賴於另一個桌布，需要同時訂閱即可使用。<br/><br/>要同時訂閱嗎？",
 	"ui_browse_modal_subscribe_preset_open_dependency": "開啟依賴的桌布",
@@ -1585,11 +1585,11 @@
 	"ui_editor_properties_skeleton": "骨架",
 	"ui_editor_properties_weights": "權重",
 	"ui_editor_properties_animation": "動畫",
-	"ui_editor_properties_remove_puppet_warp": "移除操控變形",
+	"ui_editor_properties_remove_puppet_warp": "移除操控彎曲",
 	"ui_editor_properties_remove": "移除",
 	"ui_editor_properties_incomplete": "未完成",
-	"ui_editor_puppet_warp_edit_warning_title": "重設操控變形",
-	"ui_editor_puppet_warp_edit_warning_body": "如果您繼續編輯此建立階段的操控變形，您將會重設所有後續的建立階段，且必須重新設定。<br/>此操控變形物件上現有的動畫將會被全部刪除。",
+	"ui_editor_puppet_warp_edit_warning_title": "重設操控彎曲",
+	"ui_editor_puppet_warp_edit_warning_body": "如果您繼續編輯此建立階段的操控彎曲，您將會重設所有後續的建立階段，且必須重新設定。<br/>此操控彎曲物件上現有的動畫將會被全部刪除。",
 	"ui_editor_select_material": "選取素材",
 	"ui_editor_select_texture": "選取紋理"
 }
