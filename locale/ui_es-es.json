@@ -1583,6 +1583,7 @@
 	"ui_editor_particle_example_turbulence": "Turbulencia",
 	"ui_editor_properties_geometry": "Geométrica",
 	"ui_editor_properties_skeleton": "Esqueleto",
+	"ui_editor_properties_weights": "Pesas",
 	"ui_editor_properties_animation": "Animación",
 	"ui_editor_properties_remove_puppet_warp": "Eliminar deformación de posición libre",
 	"ui_editor_properties_remove": "Eliminar",
