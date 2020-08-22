@@ -1602,8 +1602,15 @@
 	"ui_editor_properties_remove_puppet_warp": "Usuń Puppet Warp",
 	"ui_editor_properties_remove": "Usuń",
 	"ui_editor_properties_incomplete": "Niedokończone",
+	"ui_editor_properties_remove_selected_bones": "Usuń wybrane kości",
+	"ui_editor_properties_bones": "Kości",
+	"ui_editor_properties_tools": "Narzędzia",
+	"ui_editor_properties_actions": "Akcje",
+	"ui_editor_properties_show_bones": "Pokaż kości",
+	"ui_editor_properties_reset_pose": "Zresetuj poze",
 	"ui_editor_puppet_warp_edit_warning_title": "Resetowanie Puppet Warp",
 	"ui_editor_puppet_warp_edit_warning_body": "Jeśli będziesz kontynuować edycję tego etapu tworzenia Puppet Warpu, zresetujesz wszystkie kolejne etapy tworzenia i będziesz musiał zrobić je od nowa.<br/>Wszystkie istniejące animacje dla tej Puppet zostaną usunięte.",
+	"ui_editor_puppet_warp_delete_warning_title": "Usuwanie Puppet Warp",
 	"ui_editor_select_material": "Wybierz materiał",
 	"ui_editor_select_texture": "Wybierz teksturę"
 }
