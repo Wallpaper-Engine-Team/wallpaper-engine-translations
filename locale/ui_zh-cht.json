@@ -94,7 +94,7 @@
 	"ui_browse_details_properties_apply_to_all_wallpapers": "套用到所有桌布",
 	"ui_browse_details_properties_apply_to_all_wallpapers_header": "套用到所有桌布並設為預設設定",
 	"ui_browse_details_properties_apply_to_all": "套用到所有",
-	"ui_browse_details_properties_apply_to_all_instructions": "將所有桌布的預設設定變更為您目前的桌布設定，或者僅變更已選取的桌布的這些設定。",
+	"ui_browse_details_properties_apply_to_all_instructions": "將您目前顯示器上所有桌布的預設設定變更為您現在的桌布設定，或者僅以這些設定變更已選取的桌布。",
 	"ui_browse_details_properties_apply_to_all_update_all_and_default": "套用到所有桌布的預設設定",
 	"ui_browse_details_properties_apply_to_all_update_selection": "套用到已選取的桌布（{{count}}）",
 	"ui_browse_details_properties_apply_to_all_restore_defaults": "恢復預設設定",
