@@ -37,6 +37,8 @@
 	"core_msgbox_below_win_7": "Wallpaper Engine 需要在 Windows 7 或更高版本上运行，这是系统要求。\n\n您运行的 Windows 版本似乎不受支持，Wallpaper Engine 可能无法正常工作。",
 	"core_msgbox_media_feature_pack_missing": "mfplat.dll 丢失！\n您使用的可能是 Windows N。请安装 Microsoft 媒体功能包以启用视频支持！(Google: Media Feature Pack Windows 10/8.1/7)\n\n如果此错误一再出现，说明您尚未安装正确的程序包。",
 	"core_msgbox_ui_file_not_found": "程序文件无法打开。\n\n安装路径中可能包含无效字符，文件可能丢失，或者程序已被防病毒软件阻止。\n\n请尝试将 Wallpaper Engine 安装在与 [[[Platform]]] 相同的目录中，或使用简单的字符创建 [[[Platform]]] 库。",
+	"core_msgbox_trial_expired_title": "试玩模式到期",
+	"core_msgbox_trial_expired_body": "您的试玩时间已经用完，Wallpaper Engine将关闭。\n若想继续使用，您可以在[[[Platform]]] 上购买Wallpaper Engine，谢谢！",
 	"core_fatal_window_creation_failed": "无法创建壁纸窗口（错误 {{error}}）。这通常与显卡驱动程序损坏有关。执行显卡驱动程序的全新安装，然后重新启动计算机。",
 	"core_updater_headline_init": "正在安装 Wallpaper Engine...",
 	"core_updater_headline_update": "正在将 Wallpaper Engine 更新到版本 {{version}}...",
