@@ -1600,8 +1600,12 @@
 	"ui_editor_properties_remove": "移除",
 	"ui_editor_properties_incomplete": "未完成",
 	"ui_editor_properties_tools": "工具",
+	"ui_editor_properties_actions": "操作",
+	"ui_editor_properties_all": "全部",
 	"ui_editor_puppet_warp_edit_warning_title": "重置操控变形",
 	"ui_editor_puppet_warp_edit_warning_body": "如果继续编辑此操控变形创建阶段，您将重置后续所有创建阶段，并且必须从头开始重新创建。<br/>此操控变形对象的所有现有动画均将被删除。",
+	"ui_editor_puppet_warp_delete_warning_title": "删除变形效果",
+	"ui_editor_puppet_warp_delete_warning_body": "你确定要移除该操控变形的样式和其所有的动效吗？<br/><br/>该操作无法被撤回。<br/><br/>该效果会从使用该图像的所有图层中被移除。",
 	"ui_editor_select_material": "选择材质",
 	"ui_editor_select_texture": "选择纹理"
 }
