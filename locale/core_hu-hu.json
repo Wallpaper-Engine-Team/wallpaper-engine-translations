@@ -1,6 +1,6 @@
 {
 	"core_tray_change_wallpaper": "Háttérkép cseréje",
-	"core_tray_browse_workshop": "Műhely böngészése",
+	"core_tray_browse_workshop": "[[[Host]]] böngészése",
 	"core_tray_create_wallpaper": "Háttérkép készítése",
 	"core_tray_settings": "Beállítások",
 	"core_tray_take_screenshot": "Képernyőkép készítése",
@@ -35,6 +35,7 @@
 	"core_msgbox_init_secondinstance_failed": "Az újraindítás sikertelen, hibakód:",
 	"core_msgbox_below_win_7": "A Wallpaper Engine a Windows 7 vagy újabb operációs rendszert támogatja.\n\nÚgy tűnik, hogy nem támogatott Windows verziót használ, a Wallpaper Engine helyes működése nem garantált.",
 	"core_msgbox_media_feature_pack_missing": "Az mfplat.dll hiányzik!\nValószínűleg a Windows N verzióját használja. Kérjük telepítse a Media Feature Pack-ot, hogy engedélyezze a videó támogatást! (Google: Media Feature Pack Windows 10/8.1/7)\n\n",
+	"core_msgbox_ui_file_not_found": "A program fájlok megnyitása sikertelen.\n\nLehet hogy érvénytelen karaktereket tartalmaz az elérési út, esetleg a fájl nem létezik vagy a program vírusírtó által le van védve.\n\nPróbálja meg a Wallpaper Engine programmal megegyező elérési utat megadni a [[[Platform]]] számára vagy hozzon létre egyszerű karakterekből álló elérési utat [[[Platform]]].",
 	"core_updater_headline_init": "Wallpaper Engine indítása...",
 	"core_updater_headline_update": "A Wallpaper Engine frissítése a {{version}} verzióra...",
 	"core_updater_headline_init_complete": "A {{version}} verzió telepítése kész. Wallpaper Engine indítása...",
