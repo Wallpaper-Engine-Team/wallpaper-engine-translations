@@ -106,6 +106,7 @@
 	"ui_browse_details_header_workshop": "Předvolby [[[Host]]]u",
 	"ui_browse_footer_btn_workshop": "[[[Platform]]] [[[Host]]]",
 	"ui_browse_footer_btn_open_wallpaper": "Otevřít pozadí",
+	"ui_browse_footer_btn_open_static_wallpaper": "Otevřít obrázek pozadí (Bez animace)",
 	"ui_browse_footer_btn_open_from_url": "Otevřít z URL",
 	"ui_browse_footer_btn_wallpaper_editor": "Editor pozadí",
 	"ui_browse_monitors_choose_monitor": "Vyber monitor",
