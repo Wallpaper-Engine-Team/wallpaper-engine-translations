@@ -37,6 +37,8 @@
 	"core_msgbox_below_win_7": "Wallpaper Engineは、[[[Platform]]]のシステム要件に示されているようにWindows 7以上が必要です。\n\nサポートされていないバージョンのWindowsおよびWallpaper Engineが動作しているようです。",
 	"core_msgbox_media_feature_pack_missing": "mfplat.dllが見つかりませんでした。\nおそらくWindows N Editionを実行中です。ビデオをサポートするためには、MicrosoftからMedia Feature Packをインストールしてください!(Googleで'Media Feature Pack 10/8.1/7'と検索してください。)\n\nこのエラーが表示される場合、パックが正しくインストールされていません。",
 	"core_msgbox_ui_file_not_found": "プログラムファイルを開くことができませんでした。\n\nインストール先に使用できない文字が含まれているか、ファイルが見つかりません。またはアンチウィルスによってプログラムがブロックされています。\n\n [[[Platform]]] と同じインストール先にWallpaper Engineをインストールしてください。または使用できない文字を含まないようにして [[[Platform]]] ライブラリを作成してください。",
+	"core_msgbox_trial_expired_title": "試用版の期間が終了",
+	"core_msgbox_trial_expired_body": "Wallpaper Engineの試用版が終了しました。\n\n使い続けるためには、[[[Platform]]] にて購入してください！",
 	"core_fatal_window_creation_failed": "壁紙ウィンドウが作成できませんでした（エラー {{error}}）。これは通常、グラフィックスカードドライバが破損していることによって発生します。グラフィックスカードドライバをクリーン再インストールして、コンピュータを再起動してください。",
 	"core_updater_headline_init": "Wallpaper Engineを起動しています...",
 	"core_updater_headline_update": "Wallpaper Engineを更新中です... {{version}}",
