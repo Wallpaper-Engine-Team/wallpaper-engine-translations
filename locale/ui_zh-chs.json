@@ -1602,6 +1602,7 @@
 	"ui_editor_properties_tools": "工具",
 	"ui_editor_properties_actions": "操作",
 	"ui_editor_properties_all": "全部",
+	"ui_editor_properties_show_solid_mesh": "显示实体网格",
 	"ui_editor_puppet_warp_edit_warning_title": "重置操控变形",
 	"ui_editor_puppet_warp_edit_warning_body": "如果继续编辑此操控变形创建阶段，您将重置后续所有创建阶段，并且必须从头开始重新创建。<br/>此操控变形对象的所有现有动画均将被删除。",
 	"ui_editor_puppet_warp_delete_warning_title": "删除变形效果",
