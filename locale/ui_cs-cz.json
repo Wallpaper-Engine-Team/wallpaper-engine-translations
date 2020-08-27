@@ -1412,6 +1412,7 @@
 	"ui_editor_properties_phase_max": "Max. fáze",
 	"ui_editor_properties_phase_min": "Min. fáze",
 	"ui_editor_properties_phase_scale": "Měřítko fáze",
+	"ui_editor_properties_pinch": "Pinch",
 	"ui_editor_properties_playback": "Přehrávání",
 	"ui_editor_properties_playback_rate": "Rychlost přehrávání",
 	"ui_editor_properties_point_filter": "Bodový filtr",
@@ -1614,6 +1615,7 @@
 	"ui_editor_properties_tools": "Nástroje",
 	"ui_editor_properties_actions": "Akce",
 	"ui_editor_properties_all": "Vše",
+	"ui_editor_properties_paint_weights": "Kreslit váhy",
 	"ui_editor_properties_selected_vertices": "Vyberte vrcholy",
 	"ui_editor_properties_selected_bones": "Vybrané kosti",
 	"ui_editor_properties_show_bones": "Zobrazit kosti",
@@ -1626,6 +1628,7 @@
 	"ui_editor_puppet_warp_edit_warning_title": "Resetovat pokřivení loutky",
 	"ui_editor_puppet_warp_edit_warning_body": "Pokud budete pokračovat v úpravě během této fáze tvorby loutky, tak dojde k resetování všech nastavení z následujících fází tvorby a bude nutné začít s tvorbou od začátku.<br/>Všechny již existující animace pro tuto loutku budou vymazány.",
 	"ui_editor_puppet_warp_delete_warning_title": "Odebrat pokřivení loutky",
+	"ui_editor_puppet_warp_delete_warning_body": "Jsi si jistý, že chceš odstranit tento model pokřivení loutky a všechny jeho animace?<br/><br/>Tato akce nelze vrátit.<br/><br/>Pokřivení loutky bude odebráno ze všech vrstev, kde ho používáš v tomto obrázku.",
 	"ui_editor_select_material": "Vybrat materiál",
 	"ui_editor_select_texture": "Vybrat texturu"
 }
