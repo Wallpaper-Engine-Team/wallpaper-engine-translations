@@ -1605,6 +1605,7 @@
 	"ui_editor_properties_remove_selected_bones": "Remover huesos seleccionados",
 	"ui_editor_properties_set_root_bone": "Establecer hueso raíz",
 	"ui_editor_properties_unlink_from_parent": "Desvincular de la madre",
+	"ui_editor_properties_link_to_parent": "Vincular a la madre",
 	"ui_editor_properties_bones": "Huesos",
 	"ui_editor_properties_root_bone": "Hueso raíz",
 	"ui_editor_properties_root_name_bone": "Hueso raíz{{name}}",
