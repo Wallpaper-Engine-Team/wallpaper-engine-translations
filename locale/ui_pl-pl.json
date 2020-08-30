@@ -1603,6 +1603,8 @@
 	"ui_editor_properties_remove": "Usuń",
 	"ui_editor_properties_incomplete": "Niedokończone",
 	"ui_editor_properties_remove_selected_bones": "Usuń wybrane kości",
+	"ui_editor_properties_unlink_from_parent": "Odłącz od elementu nadrzędnego",
+	"ui_editor_properties_link_to_parent": "Podłącz do elementu nadrzędnego",
 	"ui_editor_properties_bones": "Kości",
 	"ui_editor_properties_tools": "Narzędzia",
 	"ui_editor_properties_actions": "Akcje",
