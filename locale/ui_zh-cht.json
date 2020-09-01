@@ -19,6 +19,8 @@
 	"ui_modal_installationpath_error_body": "Wallpaper Engine 的程式檔案在安裝後似乎被移動過。這會破壞自動啟動功能並導致一連串的問題。<br/><br/>Wallpaper Engine 目前執行於 <b>{{runPath}}</b> 但 [[[Platform]]] 已經將 Wallpaper Engine 安裝於 <b>{{steamPath}}</b>。自動啟動需要修改為正確的 [[[Platform]]] 安裝路徑，否則這條訊息將會繼續出現。<br/><br/>現在就修復嗎？",
 	"ui_modal_installationpath_fix_auto_start": "修復自動啟動",
 	"ui_modal_installationpath_disable_auto_start": "停用自動啟動",
+	"ui_modal_trial_version_start_title": "試用版",
+	"ui_modal_trial_version_start_body": "感謝您試用Wallpaper Engine，希望您會喜歡我們的應用程式。試用版將會在使用{{hrs}}小時後到期。<br/><br/>如果您有任何疑問或遭遇技術上的問題，請參閱我們的說明網站，其中包含並詳細說明了幾乎所有常見問題：<a href='[[[var_url_faq]]]'>help.wallpaperengine.io</a>",
 	"ui_modal_pagination_enter_page_title": "輸入頁碼",
 	"ui_alert_connect_steam": "<b>無法完成與 [[[Platform]]] 的初次連線 </b><br/><br/><b>如果要永久移除這則訊息：</b>請確認 [[[Platform]]] 正在執行並登入正確的 [[[Platform]]] 帳戶，然後重新啟動 Wallpaper Engine。如果您需要幫助解決此 [[[Platform]]] 的問題，請檢視我們的常見問題集：<a href='[[[var_url_faqsteam]]]'>修復 [[[Platform]]] 連線</a><br/><br/><b>如果您未持有正版的 Wallpaper Engine：</b>請考慮支持我們的工作成果。為了讓每個人都能負擔得起，我們給 Wallpaper Engine 的定價非常合理。我們在此應用程式上投入了數千小時的工作，您可以透過購買 Wallpaper Engine 支持它的開發持續下去、永遠接收到最新更新、幫助我們支付伺服器費用和能夠輕鬆透過 [[[Platform]]] 下載桌布，只需：<a href='[[[var_url_store]]]'>點選這裡在 [[[Platform]]] 上購買 Wallpaper Engine</a><br/><br/>這則訊息將在您透過 [[[Platform]]] 啟動一次 Wallpaper Engine 以後<b>永不</b>再次出現",
 	"ui_overlay_connecting_provider": "連線至 [[[Platform]]]...",
