@@ -119,6 +119,7 @@
 	"ui_browse_monitors_monitors": "顯示器",
 	"ui_browse_monitors_change_wallpaper": "變更桌布",
 	"ui_browse_monitors_remove_wallpaper": "移除桌布",
+	"ui_browse_monitors_layout_per_monitor": "按顯示器分別顯示桌布",
 	"ui_browse_monitors_layout_fit": "延展單一桌布",
 	"ui_browse_monitors_layout_clone_wallpaper": "複製單一桌布",
 	"ui_browse_monitors_split": "分割",
