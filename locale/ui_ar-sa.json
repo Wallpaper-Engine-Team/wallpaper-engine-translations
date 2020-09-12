@@ -91,7 +91,6 @@
 	"ui_browse_properties_scheme_color": "لون التخطيط",
 	"ui_browse_properties_playback_rate": "معدل سرعة التشغيل",
 	"ui_browse_properties_volume": "الصوت",
-	"ui_browse_properties_volume_disabled": "تم تعطيل الصوت في الاعدادات",
 	"ui_browse_properties_audio_recording": "تسجيل الصوت",
 	"ui_browse_properties_alignment": "محاذاة",
 	"ui_browse_properties_alignment_cover": "تغطية",
