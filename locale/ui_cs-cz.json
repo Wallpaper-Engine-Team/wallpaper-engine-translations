@@ -277,7 +277,7 @@
 	"ui_browse_explore_favorites": "Oblíbené",
 	"ui_browse_explore_search": "Hledat",
 	"ui_browse_explore_disliked": "Nelíbí se",
-	"ui_browse_explore_see_more": "více informací",
+	"ui_browse_explore_see_more": "Zobrazit více",
 	"ui_browse_explore_category_genre_popular": "Oblíbená pozadí <b>{{genre}}</b>",
 	"ui_browse_explore_category_genre_popular_approved": "Oblíbená <b>schválená</b> pozadí",
 	"ui_browse_explore_category_genre_recent": "Poslední pozadí <b>{{genre}}</b>",
