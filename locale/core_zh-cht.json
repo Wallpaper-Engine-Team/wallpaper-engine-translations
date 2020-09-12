@@ -37,6 +37,8 @@
 	"core_msgbox_below_win_7": "Wallpaper Engine 的系統需求為 Windows 7 或更新版本。\n\n您所使用的 Windows 版本似乎不支援 Wallpaper Engine，因此 Wallpaper Engine 可能無法運作。",
 	"core_msgbox_media_feature_pack_missing": "找不到 mfplat.dll!\n您擁有的版本可能是 Windows N 。請安裝 Microsoft 的 Media Feature Pack 以啟用視訊支援! (網路搜索: Media Feature Pack Windows 10/8.1/7)\n\n",
 	"core_msgbox_ui_file_not_found": "無法開啟程式檔案\n\n安裝路徑內可能含有無效字元，檔案可能遺失或程式可能被防毒程式封鎖。\n\n嘗試安裝 Wallpaper Engine 在跟 [[[Platform]]] 一樣的目錄或使用簡單字元建立一個 [[[Platform]]] 收藏庫資料夾。",
+	"core_msgbox_trial_expired_title": "試用版已到期",
+	"core_msgbox_trial_expired_body": "試用版已經到期，即將關閉Wallpaper Engine。\n如果您想繼續使用，您可以在[[[Platform]]]上購買Wallpaper Engine，謝謝！",
 	"core_fatal_window_creation_failed": "建立桌布視窗失敗（錯誤 {{error}}）。這通常和損壞的顯示卡驅動程式有關。請完整重新安裝顯示卡驅動程式並重新啟動您的電腦。",
 	"core_updater_headline_init": "正在設定 Wallpaper Engine...",
 	"core_updater_headline_update": "正在更新 Wallpaper Engine 至版本 {{version}}...",
