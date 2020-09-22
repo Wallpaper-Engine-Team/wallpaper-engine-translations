@@ -36,6 +36,7 @@
 	"core_msgbox_init_secondinstance_failed": "Perkrovimas nepavyko, klaidos kodas:",
 	"core_msgbox_below_win_7": "Wallpaper Engine reikalauja Windows 7 ar naujesnės versijos, kaip nurodyta minimaliuose reikalavimuose [[[Platform]]] platformoje.\n\nAtrodo kad naudojate nepalaikomą Windows versiją, todėl Wallpaper Engine gali neveikti.",
 	"core_msgbox_media_feature_pack_missing": "mfplat.dll mancante!\nPotresti avere Windows N. Per favore, installa il Media Feature Pack della Microsoft per abilitare il supporto video! (Cerca su Google: Media Feature Pack Windows 10/8.1/7)\n\nSe continui a vedere questo errore, non hai ancora installato il pacchetto correttamente.",
+	"core_msgbox_trial_expired_title": "Bandomoji versija nebegalioja",
 	"core_updater_headline_init": "Preparando Wallpaper Engine...",
 	"core_updater_headline_update": "Aggiornando Wallpaper Engine alla versione {{version}}...",
 	"core_updater_headline_init_complete": "Completata la preparazione della versione {{version}}. Avviando Wallpaper Engine...",
