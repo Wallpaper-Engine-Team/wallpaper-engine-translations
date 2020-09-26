@@ -51,7 +51,7 @@
 	"core_updater_status_closing_processes_wait_quit": "Wallpaper Engine užveriama",
 	"core_updater_status_closing_processes_wait_quit_terminate": "{{program}} užveriama",
 	"core_updater_status_closing_processes_wait_quit_terminate_error": "Nepavyko užverti {{program}}",
-	"core_updater_status_distro": "Spacchettando i file...",
+	"core_updater_status_distro": "Išpakuojami failai...",
 	"core_updater_status_distro_prepare_error": "Errore boost mentre la directory sorgente veniva controllata {{error}}",
 	"core_updater_status_distro_copy_error": "Errore boost mentre i file venivano copiati {{error}}",
 	"core_updater_status_distro_missing": "Directory di distribuzione mancante",
