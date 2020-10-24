@@ -84,7 +84,7 @@
 	"core_updater_status_corrupted_system_module_message_box_title": "Системний файл відсутній або зламаний",
 	"core_updater_status_corrupted_system_module_message_box_body": "Ваша система зламана або їй бракує файлів. Wallpaper Engine не може працювати, якщо ваш комп'ютер не налаштований належним чином. Це проблема з вашою Windows і не є помилкою Wallpaper Engine.\n\nСпробуйте полагодити ваш комп'ютер за допомогою наступних кроків:\n\n",
 	"core_updater_status_corrupted_system_module_message_box_body_delete": "-Спершу, видаліть ці файли через Провідник Windows:\n{{modules}}\n\n",
-	"core_updater_status_corrupted_system_module_message_box_body_install_directx": "-Перевстановіть DirectX, перейшовши до цього файлу та запустивши його:\n{{installers}}\nВи також можете заново завантажити DirectX 9 з веб-сайту Microsoft.",
+	"core_updater_status_corrupted_system_module_message_box_body_install_directx": "-Перевстановіть DirectX, перейшовши до цього файлу та запустивши його:\n{{installers}}\nВи також можете заново завантажити DirectX 9 з вебсайту Microsoft.",
 	"core_updater_prompt_close": "Wallpaper Engine досі працює. Будь ласка, спочатку закрийте її. Чекаємо на закриття цих процесів:",
 	"core_updater_prompt_close_foreign": "Wallpaper Engine не може продовжити оновлення, оскільки схоже що програма блокує файли. Для продовження, будь ласка, закрийте ці програми:",
 	"core_updater_status_directx_not_supported_title": "DirectX 10 не підтримується",
