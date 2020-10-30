@@ -108,6 +108,7 @@
 	"ui_browse_footer_btn_create_new_wallpaper": "Створення нових шпалер (анімація та спільний доступ)",
 	"ui_browse_footer_btn_open_animated_wallpaper": "Відкрити офлайн-шпалери (анімовані)",
 	"ui_browse_footer_btn_open_static_wallpaper": "Відкрити фонове зображення (без анімації)",
+	"ui_browse_footer_btn_open_wallpaper_in_gallery_static": "Імпорт статичного фону<br/><b>Без анімацій</b>",
 	"ui_browse_footer_btn_open_from_url": "Відкрити з URL",
 	"ui_browse_footer_btn_wallpaper_editor": "Редактор шпалер",
 	"ui_browse_monitors_choose_monitor": "Оберіть дисплей",
@@ -1206,7 +1207,7 @@
 	"ui_editor_shader_variable_linked_slider": "З'єднані повзунки",
 	"ui_editor_shader_variable_color_picker": "Підбирач кольору",
 	"ui_editor_shader_variable_uv_picker": "Підбирач UV-позиції",
-	"ui_editor_shader_snippet_basic_image_vertex": "Будівник тіней верхівки базових ефектів",
+	"ui_editor_shader_snippet_basic_image_vertex": "Шейдер базовога вершинного ефекту",
 	"ui_editor_shader_snippet_basic_image_fragment": "Будівник тіней фрагментів базових ефектів",
 	"ui_editor_shader_combo_checkbox": "Комбо - Прапорець",
 	"ui_editor_shader_combo_2_options": "Комбо - 2 варіанти",
@@ -1612,6 +1613,8 @@
 	"ui_editor_properties_tools": "Інструменти",
 	"ui_editor_properties_actions": "Дії",
 	"ui_editor_properties_all": "Все",
+	"ui_editor_properties_paint_weights": "Намалювати ваги",
+	"ui_editor_properties_selected_vertices": "Вибрані вершини",
 	"ui_editor_properties_selected_bones": "Вибрані кістки",
 	"ui_editor_properties_show_bones": "Показати кістки",
 	"ui_editor_properties_reset_pose": "Скинути позу",
@@ -1621,6 +1624,7 @@
 	"ui_editor_puppet_warp_edit_warning_title": "Скинути деформацію гумової сітки",
 	"ui_editor_puppet_warp_edit_warning_body": "Якщо ви продовжите редагувати цю стадію створення деформації гумової сітки, ви скинете всі наступні стадії створення та їх потрібно буде переробити з нуля.<br/>Усі теперішні анімації для цієї гумової сітки будуть видалені.",
 	"ui_editor_puppet_warp_delete_warning_title": "Видалити деформаційну гумову сітку",
+	"ui_editor_puppet_warp_delete_warning_body": "Ви впевнені, що хочете видалити цю гумову сітку та всі її анімації?<br/><br/>Цю дію не можна відмінити.<br/><br/>Гумова сітка буде видалена з усіх шарів, які використовують це зображення.",
 	"ui_editor_select_material": "Обрати матеріал",
 	"ui_editor_select_texture": "Обрати текстуру"
 }
