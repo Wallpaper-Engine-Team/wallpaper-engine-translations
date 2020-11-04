@@ -251,7 +251,7 @@
 	"ui_browse_preset_modal_empty": "Ви ще не створили жодних передзаданих для цієї шпалери.",
 	"ui_browse_list_source_installed": "Встановлені",
 	"ui_browse_list_source_workshop": "Майстерня",
-	"ui_browse_list_source_explore": "Знайти нове",
+	"ui_browse_list_source_explore": "Огляд",
 	"ui_browse_modal_no_steam_title": "Помилка [[[Platform]]]",
 	"ui_browse_modal_no_steam_body": "[[[Sdk]]] не може ініціалізуватись. Будь ласка, перезавантажте [[[Platform]]] та потім Wallpaper Engine.  Якщо ви будете продовжувати бачити цю помилку, це означає, що ваш комп'ютер не може правильно автентифікуватись з серверами [[[Platform]]], перевірте підключення до Інтернету та чи ви увійшли в систему під правильним іменем [[[Platform]]]. Сервери також може бути недоступні тимчасово.",
 	"ui_browse_query_error": "Відбулась помилка у [[[PLATFORM]]]: ",
