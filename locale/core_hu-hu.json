@@ -69,6 +69,7 @@
 	"core_updater_status_verify_hash_failed": "Fájl ellenőrzése sikertelen: {{filepath}}",
 	"core_updater_status_verify_success": "Fájl ellenőrizve: {{filepath}}",
 	"core_updater_status_verify_failed_message_box_title": "Fájl Ellenőrzési Hibák",
+	"core_updater_status_verify_failed_message_box_body": "Úgy tűnik, hogy a Wallpaper Engine egyes fájljai nem telepíthetők. Ez történhet a [[[Platform]]] letöltési hibái vagy a víruskereső programok hibás észlelése és problémák okozása miatt. Ha a Windows Defender mellett van vírusirtója is, győződjön meg arról, hogy az nem zavarja a [[[Platform]]] és a Wallpaper Engine működését.\n\nGyőződjön meg arról, hogy az alkalmazás frissítés közben be van zárva (ha szükséges, zárja be a tálca ikonon vagy a feladatkezelőn keresztül), és egyetlen vírusirtó sem akadályozza a számítógép megfelelő működését.\n\nHa a vírusirtó törli a Wallpaper Engine fájljait, vissza kell állítania őket, és engedélyeznie kell a Wallpaper Engine elérési útvonalát, hogy az antivírus ne töröljön véletlenszerű fájlokat.",
 	"core_updater_status_compat": "Inkompatibilis alkalmazások keresése...",
 	"core_updater_status_compat_error": "Folyamatok vizsgálata sikertelen",
 	"core_updater_status_compat_found": "Inkompatibilis folyamatot találtunk: {{processname}}",
@@ -81,7 +82,11 @@
 	"core_updater_status_complete_starting": "Wallpaper Engine indítása...",
 	"core_updater_status_cancelled": "A folyamat bezárásra került a felhasználó által",
 	"core_updater_status_corrupted_system_module_message_box_title": "A rendszermodul betöltése sikertelen",
+	"core_updater_status_corrupted_system_module_message_box_body": "Az operációs rendszere meghibásodott, vagy hiányoznak a fájljai. A Wallpaper Engine csak akkor működik, ha számítógépe megfelelően van telepítve. Ez a Windows problémája, és nem a Wallpaper Engine hibája.\n\nPróbálja meg kijavítani a számítógépet az alábbi lépések végrehajtásával:\n\n",
+	"core_updater_status_corrupted_system_module_message_box_body_delete": "- Először törölje ezeket a fájlokat a Windows Intézőben:\n{{modules}}\n\n",
+	"core_updater_status_corrupted_system_module_message_box_body_install_directx": "- Telepítse újra a DirectX-et a fájl megnyitásával és futtatásával:\n{{installers}}\nAlternatív megoldásként a DirectX 9 újból letölthető a Microsoft webhelyéről.",
 	"core_updater_prompt_close": "A Wallpaper Engine még fut, zárja be először. A következő folyamatok bezárására várunk:",
+	"core_updater_prompt_close_foreign": "A Wallpaper Engine nem tudja folytatni a frissítést, mert úgy tűnik, hogy egy program zárolja a fájlokat. A folytatáshoz kérjük, zárja be ezeket a programokat:",
 	"core_updater_status_directx_not_supported_title": "A DirectX 10 nem támogatott",
 	"core_updater_status_directx_not_supported_body": "Úgy tűnik, a videokártyája nem támogatja a DirectX 10-et, vagy a grafikus vezérlőjében probléma merült fel. A DirectX 10 alapvető követelmény az alkalmazás megfelelő működéséhez.\n\nHa a videokártyája támogatja a DirectX 10-et, valószínűleg a grafikus vezérlője sérült. Próbálja meg újratelepíteni a grafikus vezérlőt vagy lépjen kapcsolatba a kártya gyártójával (Nvidia, AMD, Intel) a probléma megoldásához."
 }
