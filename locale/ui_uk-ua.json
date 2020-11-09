@@ -1540,7 +1540,7 @@
 	"ui_editor_properties_when_mouse_button_pressed": "При натисканні кнопки миші",
 	"ui_editor_properties_width": "Ширина",
 	"ui_editor_properties_worldspace": "Світопростір",
-	"ui_editor_properties_write_alpha": "Білий альфа",
+	"ui_editor_properties_write_alpha": "Задати площину",
 	"ui_editor_properties_context_menu_bind_user_property": "Прив'язати властивість користувача",
 	"ui_editor_properties_context_menu_unbind_user_property": "Відв'язати властивість користувача",
 	"ui_editor_properties_context_menu_edit_user_property": "Редагувати властивість користувача",
@@ -1568,7 +1568,7 @@
 	"ui_editor_particle_add_element_renderer_header": "Додати рендерер",
 	"ui_editor_particle_add_element_renderer_body": "Оберіть візуалізатор, який управляє способом показу частинок.",
 	"ui_editor_particle_add_element_children_header": "Додати дитину",
-	"ui_editor_particle_add_element_children_body": "Обрати існуючу систему частинок як дитину.",
+	"ui_editor_particle_add_element_children_body": "Обрати наявну систему частинок як дитину.",
 	"ui_editor_particle_element_group_general": "Загальне",
 	"ui_editor_particle_element_group_renderers": "Рендерери",
 	"ui_editor_particle_element_group_emitters": "Джерела",
@@ -1643,7 +1643,7 @@
 	"ui_editor_puppet_warp_edit_warning_title": "Скинути деформацію гумової сітки",
 	"ui_editor_puppet_warp_edit_warning_body": "Якщо ви продовжите редагувати цю стадію створення деформації гумової сітки, ви скинете всі наступні стадії створення та їх потрібно буде переробити з нуля.<br/>Усі теперішні анімації для цієї гумової сітки будуть видалені.",
 	"ui_editor_puppet_warp_delete_warning_title": "Видалити деформаційну гумову сітку",
-	"ui_editor_puppet_warp_delete_warning_body": "Ви впевнені, що хочете видалити цю гумову сітку та всі її анімації?<br/><br/>Цю дію не можна відмінити.<br/><br/>Гумова сітка буде видалена з усіх шарів, які використовують це зображення.",
+	"ui_editor_puppet_warp_delete_warning_body": "Ви впевнені, що хочете видалити цю гумову сітку та всі її анімації?<br/><br/>Цю дію не можна скасувати.<br/><br/>Гумова сітка буде видалена з усіх шарів, які використовують це зображення.",
 	"ui_editor_select_material": "Обрати матеріал",
 	"ui_editor_select_texture": "Обрати текстуру"
 }
