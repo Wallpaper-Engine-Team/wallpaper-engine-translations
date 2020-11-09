@@ -30,7 +30,7 @@
 	"core_msgbox_prompt_high_contrast_was_enabled": "Windows щойно застосувала тему «висока контрастність», яка не дозволяє Wallpaper Engine працювати.",
 	"core_msgbox_dwm_disabled": "Композиція робочого столу вимкнена.",
 	"core_msgbox_aero_denied": "Wallpaper Engine не може працювати без Windows Aero і тому зараз закриється.",
-	"core_msgbox_aero_failure": "Не вдалося увімкнути Aero.\n\nЗдається, Windows не дає увімкнути Aero, але нажаль це важлива вимога, і Wallpaper Engine не може працювати без неї.\n\nСпробуйте увімкнути Aero напряму у налаштуваннях тем Windows, і знову запустіть Wallpaper Engine.",
+	"core_msgbox_aero_failure": "Не вдалося увімкнути Aero.\n\nЗдається, Windows не дає увімкнути Aero, але на жаль це важлива вимога і Wallpaper Engine не може працювати без неї.\n\nСпробуйте увімкнути Aero напряму у налаштуваннях тем Windows, і знову запустіть Wallpaper Engine.",
 	"core_msgbox_aero_failure_no_support": "Не вдалося увімкнути Aero. Схоже, що ви використовуєте стартову або базову версію Windows 7, в якій не підтримується функціонал Aero, і це не відповідає мінімальним системним вимогам. Якщо ви зумієте увімкнути Aero, Wallpaper Engine буде працювати.",
 	"core_msgbox_init_secondinstance_ask_quit": "Wallpaper Engine вже запущений і не відповідає.\n\nХочете примусово перезапустити його?",
 	"core_msgbox_init_secondinstance_failed": "Перезавантаження не вдалося, код помилки:",
@@ -74,7 +74,7 @@
 	"core_updater_status_compat_error": "Помилка просканувати процес",
 	"core_updater_status_compat_found": "Знайдений несумісний процес: {{processname}}",
 	"core_updater_status_compat_message_box_title": "Знайдено несумісні додатки",
-	"core_updater_status_compat_message_box_body": "У вас є запущені програми, які можуть привести до збоїв або нестабільної роботи Wallpaper Engine. Вони вводять код в Wallpaper Engine, який викликає проблеми. Додайте Wallpaper Engine в список виключень, додавши туди wallpaper32.exe та wallpaper64.exe.\n\n{{list}}",
+	"core_updater_status_compat_message_box_body": "У вас є запущені програми, які можуть привести до збоїв або нестабільної роботи Wallpaper Engine. Вони вводять код у Wallpaper Engine, який викликає проблеми. Додайте Wallpaper Engine в список виключень, додавши туди wallpaper32.exe та wallpaper64.exe.\n\n{{list}}",
 	"core_updater_status_compat_message_box_body_item_exclude": "{{name}}: виключити Wallpaper Engine",
 	"core_updater_status_compat_message_box_body_item_update": "{{name}}: оновити до версії {{version}}",
 	"core_updater_status_complete": "Встановлення пройшло успішно",
@@ -88,5 +88,5 @@
 	"core_updater_prompt_close": "Wallpaper Engine досі працює. Будь ласка, спочатку закрийте її. Чекаємо на закриття цих процесів:",
 	"core_updater_prompt_close_foreign": "Wallpaper Engine не може продовжити оновлення, оскільки, схоже що програма блокує файли. Для продовження, будь ласка, закрийте ці програми:",
 	"core_updater_status_directx_not_supported_title": "DirectX 10 не підтримується",
-	"core_updater_status_directx_not_supported_body": "Схоже, ваша відеокарта не підтримує DirectX 10, або є деякі проблеми з вашим драйвером відеокарти. DirectX 10 є системною вимогою для належної роботи цієї програми.\n\nЯкщо ваша відеокарта має підтримку DirectX 10, проблема може бути у вашому поточному драйвері відеокарти. Для вирішення проблеми ви можете спробувати перевстановити драйвер або зв'язатися з постачальником вашого обладнання (Nvidia, AMD, Intel)."
+	"core_updater_status_directx_not_supported_body": "Схоже, ваша відеокарта не підтримує DirectX 10, або є деякі проблеми з вашим драйвером відеокарти. DirectX 10 є системною вимогою для належної роботи цієї програми.\n\nЯкщо ваша відеокарта передбачає підтримку DirectX 10, проблема може бути у вашому поточному драйвері відеокарти. Для розв'язання проблеми ви можете спробувати перевстановити драйвер або зв'язатися з постачальником вашого обладнання (Nvidia, AMD, Intel)."
 }
