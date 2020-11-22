@@ -39,6 +39,7 @@
 	"ui_browse_steam_status_pending": "Αναμονή ανταπόκρισης από το [[[Platform]]]...",
 	"ui_browse_steam_status_complete": "Η ενημέρωση [[[Platform]]] ολοκληρώθηκε.<br/>Εγγράφηκαν {{count}} εξώφυλλα στην μνήμη.",
 	"ui_browse_header_option_settings": "Ρυθμίσεις",
+	"ui_browse_header_option_monitors": "Οθόνες",
 	"ui_browse_header_option_editor": "Προσαρμογέας Εξωφύλλου",
 	"ui_browse_advertise_explore": "Πατήστε εδώ για να ανακαλύψετε καινούργια εξώφυλλα από το Εργαστήρι!",
 	"ui_browse_advertise_workshop": "Πατήστε εδώ για να αναζητήσετε το Εργαστήρι λεπτομερώς!",
