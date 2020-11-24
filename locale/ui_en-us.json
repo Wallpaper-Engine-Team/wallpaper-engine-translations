@@ -1479,6 +1479,7 @@
 	"ui_editor_properties_delimiter" : "Delimiter",
 	"ui_editor_properties_depth_test" : "Depth test",
 	"ui_editor_properties_depth_write" : "Depth write",
+	"ui_editor_properties_deselect_all" : "Deselect all",
 	"ui_editor_properties_detection_multiply" : "Detection multiply",
 	"ui_editor_properties_detection_size" : "Detection size",
 	"ui_editor_properties_detection_threshold" : "Detection threshold",
