@@ -171,7 +171,7 @@
 	"ui_browse_modal_application_warning_timer": "<br/><br/>Attendere {{time}} secondi.",
 	"ui_browse_modal_application_warning_disable_checkbox": "Non visualizzare più per questo sfondo",
 	"ui_browse_modal_unsubscribe_header": "Annulla sottoscrizione",
-	"ui_browse_modal_unsubscribe_body": "Annullare la sottoscrizione da: <b>{{title}}</b>?<br/><br/>Dopo l'annullamento della sottoscrizione, [[[Platform]]] eliminerà automaticamente i file degli sfondi  una volta chiusa la finestra Sfoglia sfondi. [[[Platform]]] ritarderà l'eliminazione degli sfondi finché non si chiude la finestra Sfoglia sfondi.",
+	"ui_browse_modal_unsubscribe_body": "Sei sicuro di voler annullare la sottoscrizione a: <b>{{title}}</b>?<br/><br/>Dopo aver annullato la sottoscrizione, [[[Platform]]] eliminerà automaticamente i file degli sfondi una volta chiusa la finestra Sfoglia sfondi. [[[Platform]]] ritarda l'eliminazione degli sfondi fino a quando chiudi la finestra Sfoglia sfondi.",
 	"ui_browse_modal_unsubscribe_body_short": "Sei sicuro di voler annullare la sottoscrizione a: <b>{{title}}</b>?",
 	"ui_browse_modal_remove_local_header": "Rimuovi dalla cronologia",
 	"ui_browse_modal_remove_local_body": "Rimuovere lo sfondo locale: <b>{{title}}</b>?",
