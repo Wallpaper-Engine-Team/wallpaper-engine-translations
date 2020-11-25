@@ -753,6 +753,7 @@
 	"ui_editor_welcome_modal_aspect": "Seitenverhältnis",
 	"ui_editor_welcome_modal_title_new": "Neu",
 	"ui_editor_welcome_modal_title_welcome": "Willkommen",
+	"ui_editor_welcome_modal_hint_text": "Neu bei Wallpaper Engine? Schaue dir unsere offizielle Designer-Dokumentation an für ausführliche Tutorials und nützliche Tips:",
 	"ui_editor_welcome_modal_hint_backup_text": "Tip: Lege Backups deiner Projektdateien an wenn du den Computer wechselst!",
 	"ui_editor_welcome_modal_documentation": "Designer-Dokumentation",
 	"ui_editor_importer_material_name": "Material-Name",
