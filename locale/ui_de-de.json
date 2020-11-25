@@ -468,6 +468,7 @@
 	"ui_settings_gfx_enabled": "Aktiviert",
 	"ui_settings_gfx_disabled": "Deaktiviert",
 	"ui_settings_gfx_ultra": "Ultra",
+	"ui_settings_gfx_tooltip_warn_post_processing_ultra": "Der Ultra-Modus fügt HDR-Bloom zu Hintergründen hinzu, welche dies unterstützen und wird nur mit einer leistungsstarken High-End-Grafikkarte empfohlen.",
 	"ui_settings_gfx_tooltip_warn_msaa": "x8 MSAA wird nur für High-End-Grafikkarten empfohlen.",
 	"ui_settings_performance": "Leistung",
 	"ui_settings_general": "Allgemein",
