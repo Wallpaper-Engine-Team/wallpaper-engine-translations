@@ -754,6 +754,8 @@
 	"ui_editor_welcome_modal_title_new": "Baru",
 	"ui_editor_welcome_modal_title_welcome": "Selamat Datang",
 	"ui_editor_welcome_modal_hint_text": "Baru di Wallpaper Engine? Pastikan untuk mengecek dokumentasi perancang resmi untuk panduan yang lebih luas dan tips-tips yang berguna:",
+	"ui_editor_welcome_modal_hint_backup_text": "Tip: Cadangkan berkas-berkas projek Anda ketika berpindah ke komputer lain!",
+	"ui_editor_welcome_modal_documentation": "Dokumentasi Perancang",
 	"ui_editor_importer_material_name": "Nama material",
 	"ui_editor_importer_settings": "Pengaturan",
 	"ui_editor_importer_crop_transparency_help": "Area transparan akan dipotong dan gambar Anda akan diubah ukurannya untuk meningkatkan performa.<br/><br/>Jika Anda perbarui gambar Anda nanti, pastikan untuk tidak menyusut atau memperluas area transparannya, dikarenakan hal tersebut dapat menimbulkan masalah dengan efek yang telah Anda tambahkan.",
