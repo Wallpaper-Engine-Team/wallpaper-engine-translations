@@ -879,6 +879,8 @@
 	"ui_editor_animation_modal_mirror": "Spiegeln",
 	"ui_editor_animation_modal_single": "Einzeln",
 	"ui_editor_animation_modal_random_start_frame": "Zufälliger Startzustand",
+	"ui_editor_animation_modal_combine_property_animation": "Eigenschaftsanimation kombinieren",
+	"ui_editor_animation_modal_create_new_animation": "Neue Animation erstellen",
 	"ui_editor_animation_toggle_bezier": "Bézier-Interpolation am Einzelbild umschalten (links, rechts, beide, keine)",
 	"ui_editor_animation_reset_bezier": "Bézier-Kontrollpunkte zurücksetzen",
 	"ui_editor_animation_reset_zoom": "Zoom zurücksetzen",
