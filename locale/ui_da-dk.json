@@ -1,4 +1,5 @@
 {
+	"ui_caption_browse": "Wallpaper Engine - [[[Platform]]] Udgave",
 	"ui_caption_settings": "Indstillinger",
 	"ui_caption_editor": "Baggrunds editor",
 	"ui_ok": "OK",
@@ -18,6 +19,7 @@
 	"ui_modal_installationpath_error_body": "Det ser ud til, at programfilerne til Wallpaper Engine er blevet flyttet efter installationen. Dette ødelægger autofunktionen og medfører en række problemer.<br/><br/>Du kører i øjeblikket Wallpaper Engine fra <b>{{runPath}}</b> men [[[Platform]]] har installeret Wallpaper Engine til <b>{{steamPath}}</b>. Autostart skal opdateres for at bruge [[[Platform]]] s korrekte installationssti. Ellers vil denne besked fortsætte med at blive vist.<br/><br/>Ret dette nu?",
 	"ui_modal_installationpath_fix_auto_start": "Ret autostart",
 	"ui_modal_installationpath_disable_auto_start": "Deaktiver autostart",
+	"ui_modal_trial_version_start_title": "Prøveversion",
 	"ui_modal_pagination_enter_page_title": "Angiv sidetal",
 	"ui_alert_connect_steam": "<b>Der kunne ikke etableres en førstegangsforbindelse til [[[Platform]]]</b><br/><br/><b>Undgå denne besked fremover:</b> Sørg for at [[[Platform]]] kører, og at du er logget rigtigt ind på din [[[Platform]]]-konto og genstart Wallpaper Engine. Hvis du har brug for hjælp med dette [[[Platform]]]-problem, henviser vi til vores FAQ: <a href='[[[var_url_faqsteam]]]'>Ret [[[Platform]]]-forbindelse</a><br/><br/><b>Hvis du ikke ejer en lovlig udgave af Wallpaper Engine:</b> Overvej at støtte vores arbejde. Vi har prissat Wallpaper Engine yderst rimeligt, så alle kan få råd til at bruge det. Vi har brugt tusindvis af timer på programmet, og ved at købe Wallpaper Engine støtter du den fortsatte udvikling, får altid de seneste opdateringer, hjælper med at betale for serveromkostninger og kan let hente skrivebordsbaggrunde via [[[Platform]]]: <a href='[[[var_url_store]]]'>Klik her for at købe Wallpaper Engine på [[[Platform]]]</a><br/><br/>Denne besked vil <b>aldrig</b> blive vist igen, når du har startet Wallpaper Engine gennem [[[Platform]]] én gang.",
 	"ui_overlay_connecting_provider": "Forbinder til [[[Platform]]]...",
