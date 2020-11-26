@@ -322,6 +322,7 @@
 	"ui_browse_explore_create_query_modal_collection_id": "ID колекції",
 	"ui_browse_explore_create_query_modal_creator": "Автор",
 	"ui_browse_explore_create_query_modal_collection": "Колекція",
+	"ui_browse_explore_tooltip_add_starred": "Відстежувати цей список",
 	"ui_browse_explore_tooltip_like": "Подобається",
 	"ui_browse_explore_tooltip_dislike": "Не подобається",
 	"ui_browse_explore_tooltip_remove": "Видалити",
