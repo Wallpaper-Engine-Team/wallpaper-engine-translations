@@ -688,6 +688,7 @@
 	"ui_editor_filemenu_browse_assets": "在[[[Host]]]瀏覽資源",
 	"ui_editor_filemenu_publish_asset": "在[[[Host]]]分享資源",
 	"ui_editor_filemenu_provider": "[[[Host]]]",
+	"ui_editor_filemenu_help": "說明",
 	"ui_editor_save_as_header": "另存為",
 	"ui_editor_save_as_body": "選擇一個新的項目名稱：",
 	"ui_editor_modal_duplicate_texture_header": "重複紋理",
