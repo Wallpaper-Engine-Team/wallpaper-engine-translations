@@ -869,6 +869,7 @@
 	"ui_editor_animation_modal_single": "Один",
 	"ui_editor_animation_modal_random_start_frame": "Почати з випадкового кадру",
 	"ui_editor_animation_modal_create_new_animation": "Створити нову анімацію",
+	"ui_editor_animation_lock_control_point_lengths": "Закріпити довжини контрольної точки",
 	"ui_editor_animation_lock_control_point_angles": "Закріпити кути контрольної точки",
 	"ui_editor_animation_toggle_keyframe": "Додати/видалити ключкадр",
 	"ui_editor_animation_auto_keyframe": "Автоматичний ключкадр",
