@@ -1047,7 +1047,7 @@
 	"ui_workshop_tags_asset_type_text": "Текст",
 	"ui_editor_scene_options_bloom": "Розмиття",
 	"ui_editor_scene_options_bloom_hdr_settings_hint": "Вам слід протестувати стандартне та HDR-розмиття, щоб шпалера виглядала однаково добре для всіх.",
-	"ui_editor_scene_options_bloom_strength": "Міцність",
+	"ui_editor_scene_options_bloom_strength": "Сила",
 	"ui_editor_scene_options_bloom_threshold": "Поріг",
 	"ui_editor_scene_options_bloom_hdr_strength": "Сила HDR",
 	"ui_editor_scene_options_bloom_hdr_scatter": "Розсіювання HDR",
