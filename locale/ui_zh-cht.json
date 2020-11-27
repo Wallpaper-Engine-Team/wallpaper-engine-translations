@@ -523,6 +523,7 @@
 	"ui_settings_advanced_cef_command_line": "CEF 命令列：",
 	"ui_settings_advanced_cef_devtools_port": "CEF 開發者工具連接埠：",
 	"ui_settings_advanced_unpause_during_aero_peek": "使用 Aero Peek 時取消暫停：",
+	"ui_settings_advanced_stop_on_low_vram": "當視訊記憶體用盡時暫停：",
 	"ui_settings_about": "關於",
 	"ui_settings_about_changelog": "變更記錄",
 	"ui_settings_about_community_hub": "社群中心",
