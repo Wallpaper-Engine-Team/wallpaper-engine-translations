@@ -883,6 +883,8 @@
 	"ui_editor_animation_modal_create_new_animation": "สร้างภาพเคลื่อนไหวใหม่",
 	"ui_editor_animation_toggle_bezier": "สลับการแก้ไข Bézier บนคีย์เฟรม (ซ้าย ขวา ทั้งคู่ ไม่มี)",
 	"ui_editor_animation_reset_bezier": "รีเซ็ตจุดควบคุม Bézier",
+	"ui_editor_animation_lock_control_point_lengths": "ล็อกความยาวจุดควบคุม",
+	"ui_editor_animation_lock_control_point_angles": "ล็อกมุมจุดควบคุม",
 	"ui_editor_animation_toggle_keyframe": "สลับคีย์เฟรม",
 	"ui_editor_animation_auto_keyframe": "คีย์เฟรมอัตโนมัติ",
 	"ui_editor_animation_reset_zoom": "รีเซ็ตการซูม",
