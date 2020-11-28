@@ -1,4 +1,5 @@
 {
+	"ui_caption_browse": "Háttérkép Készítő - Steam Szerkesztő\n",
 	"ui_caption_settings": "Beállítások",
 	"ui_caption_editor": "Háttérkép Szerkesztő",
 	"ui_ok": "OK",
@@ -16,6 +17,7 @@
 	"ui_modal_updateavailable_body_distro": "A [[[Platform]]] letöltötte a Wallpaper Engine egy újabb verzióját (<b>{{distroVersion}}</b> verzió). Szeretnéd újraindítani a Wallpaper Engine-t a frissítés aktiválásához?",
 	"ui_modal_installationpath_error_title": "Helytelen telepítési útvonal van regisztrálva a Windows rendszerben",
 	"ui_modal_trial_version_start_title": "Próbaverzió",
+	"ui_overlay_connecting_provider": "Csatlakozás a [[[Helyhez]]]...",
 	"ui_browse_monitor": "Képernyő",
 	"ui_browse_choose_monitor": "(Képernyő kiválasztása)",
 	"ui_browse_filter_results": "Keresés szűrése",
@@ -36,6 +38,7 @@
 	"ui_browse_steam_status_pending": "Várakozás a [[[Platform]]] válaszára...",
 	"ui_browse_steam_status_complete": "[[[Platform]]] frissítés befejezve.<br/> {{count}} háttér hozzáadva a listához.",
 	"ui_browse_header_option_settings": "Beállítások",
+	"ui_browse_advertise_workshop": "[[[Host]]] = Házigazda!",
 	"ui_browse_details_author": "Készítő:",
 	"ui_browse_details_type": "Típus:",
 	"ui_browse_details_rating": "Értékelés:",
