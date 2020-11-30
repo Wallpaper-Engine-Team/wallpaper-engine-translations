@@ -1475,7 +1475,6 @@
 	"ui_editor_properties_instantaneous": "Anlık",
 	"ui_editor_properties_intensity": "Yoğunluk",
 	"ui_editor_properties_invert": "Ters Çevir",
-	"ui_editor_properties_isolate": "İzole et",
 	"ui_editor_properties_isolate_effect": "İzole Etkisi",
 	"ui_editor_properties_kernel_size": "Çekirdek boyutu",
 	"ui_editor_properties_led_source": "iCUE ve Chroma'yı bu katmana sınırlayın",
