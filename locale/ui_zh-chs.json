@@ -1475,7 +1475,6 @@
 	"ui_editor_properties_instantaneous": "瞬时",
 	"ui_editor_properties_intensity": "强度",
 	"ui_editor_properties_invert": "反转",
-	"ui_editor_properties_isolate": "隔离",
 	"ui_editor_properties_isolate_effect": "隔离效果",
 	"ui_editor_properties_kernel_size": "核大小",
 	"ui_editor_properties_led_source": "将 iCUE 和 Chroma 限制于此层",
