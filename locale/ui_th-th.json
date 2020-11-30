@@ -1475,7 +1475,6 @@
 	"ui_editor_properties_instantaneous": "ทันที",
 	"ui_editor_properties_intensity": "ความหนาแน่น",
 	"ui_editor_properties_invert": "กลับด้าน",
-	"ui_editor_properties_isolate": "แยก",
 	"ui_editor_properties_isolate_effect": "เอฟเฟกต์แยก",
 	"ui_editor_properties_kernel_size": "ขนาดเคอร์เนล",
 	"ui_editor_properties_led_source": "จำกัด iCUE และ Chroma ไว้ที่เลเยอร์นี้",
