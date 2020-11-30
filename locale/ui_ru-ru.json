@@ -1635,7 +1635,6 @@
 	"ui_editor_properties_context_menu_edit_script": "Изменить сценарий",
 	"ui_editor_properties_context_menu_bind_animation": "Привязать анимацию по временной шкале",
 	"ui_editor_properties_context_menu_unbind_animation": "Отменить анимацию по временной шкале",
-	"ui_editor_properties_context_menu_edit_animation": "Редактировать анимацию",
 	"ui_editor_properties_context_menu_restore_default_value": "Восстановить значение по умолчанию",
 	"ui_editor_particle_editor": "Редактор частиц",
 	"ui_editor_particle_selected": "Выбрано:",
