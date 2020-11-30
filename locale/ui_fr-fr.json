@@ -1475,7 +1475,6 @@
 	"ui_editor_properties_instantaneous": "Instantané",
 	"ui_editor_properties_intensity": "Intensité",
 	"ui_editor_properties_invert": "Inverser",
-	"ui_editor_properties_isolate": "Isoler",
 	"ui_editor_properties_isolate_effect": "Isoler effet",
 	"ui_editor_properties_kernel_size": "Taille du noyau",
 	"ui_editor_properties_led_source": "Limiter iCUE & Chroma à cette couche",
