@@ -1545,7 +1545,6 @@
 	"ui_editor_properties_context_menu_bind_script": "Połącz skrypt",
 	"ui_editor_properties_context_menu_unbind_script": "Usuń skrypt",
 	"ui_editor_properties_context_menu_edit_script": "Edytuj skrypt",
-	"ui_editor_properties_context_menu_edit_animation": "Edytuj Animację",
 	"ui_editor_properties_context_menu_restore_default_value": "Przywróć wartość domyślną",
 	"ui_editor_particle_editor": "Edytor cząstek",
 	"ui_editor_particle_selected": "Wybrano:",
