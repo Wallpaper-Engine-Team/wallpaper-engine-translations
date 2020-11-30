@@ -1475,7 +1475,6 @@
 	"ui_editor_properties_instantaneous": "Моментально",
 	"ui_editor_properties_intensity": "Інтенсивність",
 	"ui_editor_properties_invert": "Інверсія",
-	"ui_editor_properties_isolate": "Ізолювати",
 	"ui_editor_properties_isolate_effect": "Ізолювати ефект",
 	"ui_editor_properties_kernel_size": "Розмір ядра",
 	"ui_editor_properties_led_source": "Обмеження iCUE & Chroma до цього шару",
