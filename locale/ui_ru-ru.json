@@ -1386,6 +1386,8 @@
 	"ui_editor_properties_event_spawn": "Событие создания",
 	"ui_editor_properties_exponent": "Показатель",
 	"ui_editor_properties_export": "Экспорт",
+	"ui_editor_properties_extrusion": "Экструзия",
+	"ui_editor_properties_extrusion_preview": "Предпросмотр экструзии",
 	"ui_editor_properties_fade_in_time": "Время появления",
 	"ui_editor_properties_fade_out_time": "Время затухания",
 	"ui_editor_properties_feather": "Перо",
