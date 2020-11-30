@@ -920,6 +920,7 @@
 	"ui_editor_animation_events_modal_add_event": "Добавить новое событие",
 	"ui_editor_animation_events_modal_events": "События",
 	"ui_editor_bone_constraints_modal_header": "Точки привязки",
+	"ui_editor_bone_constraints_spring_simulation": "Имитация упругости",
 	"ui_editor_bone_constraints_reset": "Сбросить",
 	"ui_editor_user_properties_select_info": "Выберите свойство с совместимым типом ({{types}}).",
 	"ui_editor_user_properties_select_unused_warning": "Это свойство не используется обоями.",
