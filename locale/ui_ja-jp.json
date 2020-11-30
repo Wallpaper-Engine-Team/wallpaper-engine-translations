@@ -1526,7 +1526,6 @@
 	"ui_editor_properties_context_menu_bind_script": "スクリプトバインド",
 	"ui_editor_properties_context_menu_unbind_script": "スクリプトアンバインド",
 	"ui_editor_properties_context_menu_edit_script": "スクリプト編集",
-	"ui_editor_properties_context_menu_edit_animation": "アニメーションの編集",
 	"ui_editor_properties_context_menu_restore_default_value": "デフォルト値リストア",
 	"ui_editor_particle_editor": "パーティクルエディタ",
 	"ui_editor_particle_selected": "選択:",
