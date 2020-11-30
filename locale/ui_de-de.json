@@ -1634,6 +1634,7 @@
 	"ui_editor_properties_show_bones": "Gelenke anzeigen",
 	"ui_editor_properties_show_mask": "Maske anzeigen",
 	"ui_editor_properties_show_seconds": "Sekunden anzeigen",
+	"ui_editor_properties_show_single": "Einzeln anzeigen",
 	"ui_editor_properties_show_solid_mesh": "Festes Gitter anzeigen",
 	"ui_editor_properties_sign": "Vorzeichen",
 	"ui_editor_properties_single": "Einzeln",
