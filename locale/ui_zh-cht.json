@@ -1576,7 +1576,6 @@
 	"ui_editor_properties_context_menu_bind_script": "連結腳本",
 	"ui_editor_properties_context_menu_unbind_script": "取消連結腳本",
 	"ui_editor_properties_context_menu_edit_script": "編輯腳本",
-	"ui_editor_properties_context_menu_edit_animation": "編輯動畫",
 	"ui_editor_properties_context_menu_restore_default_value": "復原為預設值",
 	"ui_editor_particle_editor": "粒子編輯器",
 	"ui_editor_particle_selected": "選取：",
