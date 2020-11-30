@@ -418,6 +418,7 @@
 	"ui_browse_alert_trial_reminder": "立即购买 Wallpaper Engine，您将享受到以下礼遇：轻松下载 [Host] 壁纸，包括 [Platform] 上的某些独家壁纸。",
 	"ui_browse_alert_trial_reminder_button": "访问商店",
 	"ui_browse_alert_trial_reminder_button_cancel": "以后再说",
+	"ui_browse_alert_vram_exhausted": "您的视频内存已耗尽，在系统再次获得足够的资源之前，壁纸将被禁用。您可在常规设置中关闭此功能。",
 	"ui_rating_table_suitable_for_everyone": "适合所有人",
 	"ui_rating_table_partial_nudity_suggestive": "部分裸露/暗示",
 	"ui_rating_table_nudity_explicit": "裸露",
