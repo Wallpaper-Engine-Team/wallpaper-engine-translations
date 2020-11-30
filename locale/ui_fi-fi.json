@@ -1462,7 +1462,6 @@
 	"ui_editor_properties_instantaneous": "Viiveetön",
 	"ui_editor_properties_intensity": "Voimakkuus",
 	"ui_editor_properties_invert": "Käännä",
-	"ui_editor_properties_isolate": "Eristä",
 	"ui_editor_properties_isolate_effect": "Eristä tehoste",
 	"ui_editor_properties_kernel_size": "Ytimen koko",
 	"ui_editor_properties_led_source": "Rajoita iCUE & Chroma tähän tasoon",
