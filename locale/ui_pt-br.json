@@ -184,6 +184,7 @@
 	"ui_browse_modal_proceed": "Avançar",
 	"ui_browse_modal_advertise_workshop_header": "[[[Host]]] Filtro de configurações",
 	"ui_browse_modal_advertise_workshop_body": "Use a barra lateral de filtros à esquerda para selecionar marcadores correspondentes às suas preferências.<br/><br/>Use o filtro <b>Aprovado</b> <span class='fas fa-trophy browseWallpaperApproved'></span> para navegar por papéis de parede especialmente selecionados.<br/><br/>No canto superior direito, você pode organizar a seleção por <b>Mais populares</b> ou <b>Mais bem avaliados</b> caso esteja buscando seleções de alta qualidade.",
+	"ui_browse_modal_advertise_workshop_anime_question": "Wallpaper Engine contém muitos papéis de parede de <b>Anime</b>. Deseja ver papéis de parede de <b>Anime</b>?",
 	"ui_browse_properties_scheme_color": "Esquema de cores",
 	"ui_browse_properties_playback_rate": "Taxa de reprodução",
 	"ui_browse_properties_volume": "Volume",
