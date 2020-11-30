@@ -1475,7 +1475,6 @@
 	"ui_editor_properties_instantaneous": "Direkt",
 	"ui_editor_properties_intensity": "Intensitet",
 	"ui_editor_properties_invert": "Invertera",
-	"ui_editor_properties_isolate": "Isolera",
 	"ui_editor_properties_isolate_effect": "Isolera effekt",
 	"ui_editor_properties_kernel_size": "Kärnstorlek",
 	"ui_editor_properties_led_source": "Begränsa iCUE och Chroma till detta lager",
