@@ -81,7 +81,7 @@
 	"ui_browse_details_btn_report": "Ilmoita",
 	"ui_browse_details_btn_open_in_editor": "Avaa editorissa",
 	"ui_browse_details_btn_comment": "Kommentoi",
-	"ui_browse_details_local_editor_hint": "Avaa tämä taustakuva editorissa, niin voit muokata sitä tai poistaa sen.",
+	"ui_browse_details_local_editor_hint": "Avaa tämä taustakuvan editorissa, niin voit muokata sitä tai poistaa sen.",
 	"ui_browse_details_properties": "Ominaisuudet",
 	"ui_browse_details_properties_reset": "Nollaa",
 	"ui_browse_details_properties_reset_prompt_header": "Nollaa ominaisuudet",
