@@ -931,6 +931,8 @@
 	"ui_editor_bone_constraints_limit_rotation": "限制旋轉",
 	"ui_editor_bone_constraints_limit_torque": "限制扭力",
 	"ui_editor_bone_constraints_rotational_stiffness": "旋轉硬度",
+	"ui_editor_bone_constraints_rotational_friction": "旋轉摩擦",
+	"ui_editor_bone_constraints_rotational_inertia": "旋轉慣性",
 	"ui_editor_bone_constraints_reset": "重設",
 	"ui_editor_user_properties_select_info": "選擇一個有相容類型的內容（{{types}}）。",
 	"ui_editor_user_properties_select_unused_warning": "此內容未被桌布使用。",
