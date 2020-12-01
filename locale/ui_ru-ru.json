@@ -928,6 +928,8 @@
 	"ui_editor_bone_constraints_spring_simulation": "Имитация упругости",
 	"ui_editor_bone_constraints_rigid_simulation": "Имитация жесткости",
 	"ui_editor_bone_constraints_gravity_enabled": "Включить гравитацию",
+	"ui_editor_bone_constraints_limit_rotation": "Ограничить вращение",
+	"ui_editor_bone_constraints_limit_torque": "Ограничить скручивание",
 	"ui_editor_bone_constraints_reset": "Сбросить",
 	"ui_editor_user_properties_select_info": "Выберите свойство с совместимым типом ({{types}}).",
 	"ui_editor_user_properties_select_unused_warning": "Это свойство не используется обоями.",
