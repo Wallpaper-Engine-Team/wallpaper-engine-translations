@@ -1085,7 +1085,7 @@
 	"ui_editor_scene_options_bloom_hdr_strength": "Siła HDR",
 	"ui_editor_scene_options_bloom_hdr_scatter": "Rozproszenie HDR",
 	"ui_editor_scene_options_bloom_hdr_threshold": "Próg HDR",
-	"ui_editor_scene_options_bloom_hdr_threshold_feather": "Próg wygładzania HDR",
+	"ui_editor_scene_options_bloom_hdr_threshold_feather": "Wygładzanie progu HDR",
 	"ui_editor_scene_options_background_color": "Kolor tła",
 	"ui_editor_scene_options_camera_preview": "Widok kamery",
 	"ui_editor_scene_options_camera_shake": "Drżenie kamery",
