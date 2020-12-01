@@ -916,7 +916,7 @@
 	"ui_editor_animation_help_modal_select_points": "Valitse pisteet napsauttamalla niitä. Valitse useita pisteitä pitämällä SHIFT tai CTRL painettuna tai vetämällä neliö hiirellä.",
 	"ui_editor_animation_help_modal_copy_paste": "Kopioi tai liitä valitut pisteet painamalla CTRL + C tai CTRL + V.",
 	"ui_editor_animation_help_modal_delete": "Poista kaikki valitut pisteet painamalla DEL.",
-	"ui_editor_animation_help_modal_keyframe": "Syötä kuvia tämänhetkiseen kohtaan tai poista niitä painamalla K.",
+	"ui_editor_animation_help_modal_keyframe": "Syötä avainkuvia tämänhetkiseen kohtaan tai poista niitä painamalla K.",
 	"ui_editor_animation_help_modal_jump_frame": "Siirry seuraavaan kuvaan vasemmalle tai oikealle painamalla VASEN tai OIKEA.",
 	"ui_editor_animation_help_modal_play_pause": "Toista tai pysäytä animaatio painamalla VÄLILYÖNTIÄ.",
 	"ui_editor_animation_events_modal_header": "SceneScript-animaatiotapahtumat",
