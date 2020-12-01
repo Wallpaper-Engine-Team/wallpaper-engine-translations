@@ -924,7 +924,6 @@
 	"ui_editor_animation_events_modal_frame": "Кадр",
 	"ui_editor_animation_events_modal_add_event": "Добавить новое событие",
 	"ui_editor_animation_events_modal_events": "События",
-	"ui_editor_bone_constraints_modal_header": "Точки привязки",
 	"ui_editor_bone_constraints_spring_simulation": "Имитация упругости",
 	"ui_editor_bone_constraints_rigid_simulation": "Имитация жесткости",
 	"ui_editor_bone_constraints_gravity_enabled": "Включить гравитацию",
