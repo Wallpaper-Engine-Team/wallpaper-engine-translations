@@ -638,7 +638,7 @@
 	"ui_welcome_windows_color_header": "Керування кольором Windows",
 	"ui_welcome_use_dark_theme_description": "Використовувати для програми темну тему:",
 	"ui_welcome_use_dark_theme": "Увімкнути темну тему",
-	"ui_welcome_autostart_description": "<b>Показувати анімовані шпалери під час запуску Windows</b>, непомітно запускаючи Wallpaper Engine у фоновому режимі при запуску комп’ютера <b>(рекомендується)</b>:",
+	"ui_welcome_autostart_description": "<b>Показувати анімовані шпалери на початку роботи Windows</b> через непомітний запуск Wallpaper Engine у фоновому режимі при ввімкненні комп’ютера <b>(рекомендується)</b>:",
 	"ui_welcome_autostart_label": "Автозапуск",
 	"ui_welcome_finish_body": "Все налаштоване <br/> <br/> Wallpaper Engine тепер буде доступна в системному реєстрі <b> Двічі клацніть </b>, щоб вибрати шпалери або <b> правою кнопкою миші </b> для доступу до налаштувань, Майстерні [[[Platform]]] або Wallpaper Editor.<div style='height:20px'></div>",
 	"ui_welcome_browse_wallpapers_now": "Переглянути шпалери зараз",
