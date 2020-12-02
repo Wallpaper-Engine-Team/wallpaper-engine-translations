@@ -74,7 +74,7 @@
 	"core_updater_status_compat_error": "Não foi possível analisar processos",
 	"core_updater_status_compat_found": "Processo incompatível encontrado: {{processname}}",
 	"core_updater_status_compat_message_box_title": "Aplicações incompatíveis encontradas",
-	"core_updater_status_compat_message_box_body": "As seguintes aplicações abertas podem fazer com que o Wallpaper Engine se torne irresponsivo ou com que o seu sistema fique instável. Eles injetam código no Wallpaper Engine, o que causa problemas. Adicione o Wallpaper Engine à lista de exclusões, adicionando os executáveis wallpaper32.exe e wallpaper64.exe.\n\n{{list}}",
+	"core_updater_status_compat_message_box_body": "As seguintes aplicações abertas podem fazer com que o Wallpaper Engine bloqueie ou que o seu sistema fique instável. Eles injetam código no Wallpaper Engine, o que causa problemas. Adicione o Wallpaper Engine à lista de exclusões, adicionando os executáveis wallpaper32.exe e wallpaper64.exe.\n\n{{list}}",
 	"core_updater_status_compat_message_box_body_item_exclude": "{{name}}: exclui Wallpaper Engine",
 	"core_updater_status_compat_message_box_body_item_update": "{{name}}: atualizado para a versão {{version}}",
 	"core_updater_status_complete": "Instalação concluída com êxito",
