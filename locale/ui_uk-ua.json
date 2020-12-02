@@ -1078,7 +1078,7 @@
 	"ui_workshop_tags_asset_type_sound": "Звук",
 	"ui_workshop_tags_asset_type_text": "Текст",
 	"ui_editor_scene_options_bloom": "Bloom-ефект",
-	"ui_editor_scene_options_bloom_hint": "Зверніть увагу: Bloom-ефекти вимагають активізації постобробки в налаштуваннях Wallpaper Engine на вкладці «Продуктивність».",
+	"ui_editor_scene_options_bloom_hint": "Зверніть увагу: для використання Bloom-ефектів необхідно увімкнути постобробку у налаштуваннях продуктивності Wallpaper Engine.",
 	"ui_editor_scene_options_bloom_hdr_settings_hint": "Вам слід протестувати стандартне та HDR-світіння, щоб шпалера виглядала однаково добре для всіх.",
 	"ui_editor_scene_options_bloom_strength": "Сила",
 	"ui_editor_scene_options_bloom_threshold": "Поріг",
