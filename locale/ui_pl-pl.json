@@ -945,7 +945,7 @@
 	"ui_editor_bone_constraints_max_angle": "Kąt maks.",
 	"ui_editor_bone_constraints_max_torque": "Maks. moment obrotowy",
 	"ui_editor_bone_constraints_max_distance": "Odległość maks.",
-	"ui_editor_bone_constraints_physics_rotation": "Obrót fizyki",
+	"ui_editor_bone_constraints_physics_rotation": "Obrót grawitacyjny",
 	"ui_editor_bone_constraints_physics_translation": "Translacja fizyki",
 	"ui_editor_bone_constraints_reset": "Zresetuj",
 	"ui_editor_user_properties_select_info": "Wybierz właściwość zgodnego typu ({{types}}).",
