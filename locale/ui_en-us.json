@@ -450,7 +450,7 @@
 	"ui_browse_modal_trial_reminder_body" : "The wallpapers you subscribed just now are really cool, aren't they? Purchase Wallpaper Engine now, you will get:<br/><br/>* Free to download all creative wallpapers.<br/>* You will find new wallpapers every day from many content creators.<br/>* Use the editor to create and publish your own wallpaper.",
 
 	"ui_browse_alert_active_application_rule" : "The application rule for <b>{{executable}}</b> is currently active and overriding your wallpaper selection.",
-	"ui_browse_alert_trial_reminder" : "Purchase Wallpaper Engine now and you will enjoy: easily downloading [[Host]] wallpapers including some exclusive ones on [[Platform]].",
+	"ui_browse_alert_trial_reminder" : "Purchase Wallpaper Engine now and you will enjoy: easily downloading [[[Host]]] wallpapers including some exclusive ones on [[[Platform]]].",
 	"ui_browse_alert_trial_reminder_button" : "Go to Store",
 	"ui_browse_alert_trial_reminder_button_cancel" : "Later",
 	"ui_browse_alert_vram_exhausted" : "Your video memory is exhausted and the wallpapers have been disabled until your system has enough resources again. This feature can be turned off in the general settings.",
@@ -654,6 +654,7 @@
 	"ui_settings_use_safe_mode" : "Use safe start:",
 	"ui_settings_disable_slideshow" : "Remove Windows wallpaper fade:",
 	"ui_settings_ui_hardware_acceleration" : "UI hardware acceleration:",
+	"ui_settings_ui_effects" : "UI effects:",
 	"ui_settings_show_tray_icon" : "Show tray icon:",
 
 	"ui_settings_copyright" : "All rights reserved.",
@@ -1632,7 +1633,7 @@
 	"ui_editor_properties_particle_system" : "Particle System",
 	"ui_editor_properties_perspective" : "Perspective",
 	"ui_editor_properties_perspective_padding" : "Perspective Padding",
-	"ui_editor_properties_perspective_warp" : "Perspective Warp",
+	"ui_editor_properties_perspective_warp" : "Perspective warp",
 	"ui_editor_properties_phase" : "Phase",
 	"ui_editor_properties_phase_max" : "Phase max",
 	"ui_editor_properties_phase_min" : "Phase min",
