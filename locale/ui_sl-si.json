@@ -1352,6 +1352,7 @@
 	"ui_editor_properties_particle_system": "Sistem delcev",
 	"ui_editor_properties_perspective": "Perspektiva",
 	"ui_editor_properties_perspective_padding": "Podloga perspektive",
+	"ui_editor_properties_perspective_warp": "Popačenost perspektive",
 	"ui_editor_properties_phase": "Stopnja",
 	"ui_editor_properties_phase_max": "Največ stopenj",
 	"ui_editor_properties_phase_min": "Najmanj stopenj",
