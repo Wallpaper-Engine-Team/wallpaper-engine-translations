@@ -1396,6 +1396,7 @@
 	"ui_editor_properties_particle_system": "Systém částic",
 	"ui_editor_properties_perspective": "Perspektiva",
 	"ui_editor_properties_perspective_padding": "Odsazení perspektivy",
+	"ui_editor_properties_perspective_warp": "Pokřivení perspektivy",
 	"ui_editor_properties_phase": "Fáze",
 	"ui_editor_properties_phase_max": "Max. fáze",
 	"ui_editor_properties_phase_min": "Min. fáze",
