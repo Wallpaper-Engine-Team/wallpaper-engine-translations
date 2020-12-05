@@ -420,7 +420,7 @@
 	"ui_browse_modal_monitor_mismatch_body": "Wallpaper Engine 似乎无法应用壁纸，因为其无法正确识别您的显示器。<br/><br/>请尝试完全重新启动 Wallpaper Engine。如果您经常遇到此问题，请尝试禁用<b>高优先级</b>自动启动选项，改为使用普通自动启动。<br/><br/>此外，请尝试在设置的<b>常规</b>选项卡中，将<b>显示器标识</b>选项设置为<b>布局</b>以避免出现此问题。",
 	"ui_browse_modal_trial_reminder_body": "您刚才订阅的壁纸真的很酷，不是吗？立即购买 Wallpaper Engine，您将可以：<br/><br/>* 免费下载所有创意壁纸。<br/>* 每天从众多内容创作者那里获取新壁纸。<br/>* 使用编辑器创作和发布自己的壁纸。",
 	"ui_browse_alert_active_application_rule": "<b>{{executable}}</b> 的应用规则目前已激活，将会覆盖您的壁纸选择。",
-	"ui_browse_alert_trial_reminder": "立即购买 Wallpaper Engine，您将享受到以下礼遇：轻松下载 [Host] 壁纸，包括 [Platform] 上的某些独家壁纸。",
+	"ui_browse_alert_trial_reminder": "立即购买 Wallpaper Engine，您将享受到以下礼遇：轻松下载 [[[Host]]] 壁纸，包括 [[[Platform]]] 上的某些独家壁纸。",
 	"ui_browse_alert_trial_reminder_button": "访问商店",
 	"ui_browse_alert_trial_reminder_button_cancel": "以后再说",
 	"ui_browse_alert_vram_exhausted": "您的视频内存已耗尽，在系统再次获得足够的资源之前，壁纸将被禁用。您可在常规设置中关闭此功能。",
