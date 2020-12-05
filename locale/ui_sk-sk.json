@@ -938,6 +938,7 @@
 	"ui_editor_properties_particle_system": "Systém častíc",
 	"ui_editor_properties_perspective": "Perspektíva",
 	"ui_editor_properties_perspective_padding": "perspektívne polstrovanie",
+	"ui_editor_properties_perspective_warp": "Zahnutie perspektívy",
 	"ui_editor_properties_phase": "Fáza",
 	"ui_editor_properties_phase_max": "Phase max",
 	"ui_editor_properties_phase_min": "Phase min",
