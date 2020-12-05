@@ -420,7 +420,7 @@
 	"ui_browse_modal_monitor_mismatch_body": "Parece que Wallpaper Engine no pudo aplicar el fondo de pantalla porque no se pudo identificar correctamente tus monitores.<br/><br/>Intenta reiniciar Wallpaper Engine completamente. Si frecuentemente tienes este problema, prueba deshabilitar la opción de arranque con <b>alta prioridad</b> y en su lugar usa la opción de arranque normal.<br/><br/>Adicionalmente, intenta configurar la opción de <b>Identificación de Monitor</b> en <b>Diseño</b> en la pestaña <b>General</b> de las configuraciones para evitar este problema.",
 	"ui_browse_modal_trial_reminder_body": "¿A que molan los fondos a los que te has suscrito? Si compras Wallpaper Engine podrás:<br/><br/>* Descargarte todos los fondos de forma gratuita.<br/>* Habrá fondos nuevos cada día de montones de creadores de contenido.<br/>* Usar el editor para crear y publicar tus propios fondos.",
 	"ui_browse_alert_active_application_rule": "La regla de aplicación de <b>{{executable}}</b> está activa e invalida la selección de fondos.",
-	"ui_browse_alert_trial_reminder": "¡Compra Wallpaper Engine ya y podrás descargarte los fondos de [[Host]] entre los que se incluyen algunos exclusivos de [[Platform]]!",
+	"ui_browse_alert_trial_reminder": "Compra Wallpaper Engine ya y podrás descargarte los fondos de [[[Host]]] entre los que se incluyen algunos exclusivos de [[[Platform]]].",
 	"ui_browse_alert_trial_reminder_button": "Ir a la tienda",
 	"ui_browse_alert_trial_reminder_button_cancel": "Luego",
 	"ui_browse_alert_vram_exhausted": "Se ha agotado la memoria de vídeo y se han desactivado los fondos hasta que el sistema vuelva a tener recursos. Puedes desactivar esta función en la configuración general.",

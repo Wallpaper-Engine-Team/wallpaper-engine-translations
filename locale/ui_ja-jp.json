@@ -420,7 +420,7 @@
 	"ui_browse_modal_monitor_mismatch_body": "お使いのモニターを正しく認識できないため、Wallpaper Engineが壁紙を適用できないようです。<br/><br/>Wallpaper Engineを完全に再起動してみてください。この問題が頻繁に起きる場合は、<b>優先起動</b>オプションを無効にし、通常起動にしてみてください。<br/><br/>さらに、この問題を回避するために、設定の<b>一般</b>タブで<b>モニター識別</b>オプションを<b>レイアウト</b>に設定してみてください。",
 	"ui_browse_modal_trial_reminder_body": "サブスクライブされた壁紙、素敵ですよね。今 Wallpaper Engine を購入すると次のことが可能になります：<br/><br/>* あらゆるクリエイティブな壁紙を無料でダウンロード。<br/>* 多くのコンテンツクリエイターの新しい壁紙を毎日発見。<br/>* エディタを使って自分の壁紙を作成、公開。",
 	"ui_browse_alert_active_application_rule": "現在、<b>{{executable}}</b>に対するアプリケーションルールが有効になっており、壁紙選択を上書きしています。",
-	"ui_browse_alert_trial_reminder": "今 Wallpaper Engine を購入すると、次のことが可能です：[[Host]] 壁紙を、[[Platform]] 限定のものも含めて簡単にダウンロード。",
+	"ui_browse_alert_trial_reminder": "今 Wallpaper Engine を購入すると、次のことが可能です：[[[Host]]] 壁紙を、[[[Platform]]] 限定のものも含めて簡単にダウンロード。",
 	"ui_browse_alert_trial_reminder_button": "ストアへ",
 	"ui_browse_alert_trial_reminder_button_cancel": "あとで",
 	"ui_browse_alert_vram_exhausted": "ビデオメモリが不足しています。壁紙は、システムリソースが十分に戻るまで無効になります。この機能は、一般設定でオフにすることができます。",

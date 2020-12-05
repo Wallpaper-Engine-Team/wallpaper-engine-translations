@@ -420,7 +420,7 @@
 	"ui_browse_modal_monitor_mismatch_body": "Näyttää siltä, että Wallpaper Engine ei voi käyttää taustakuvaa, koska se ei pysty tunnistamaan näyttöjäsi kunnolla.<br/><br/>Kokeile käynnistää Wallpaper Engine uudelleen. Jos ongelma jatkuu, kokeile poistaa <b>korkean prioriteetin</b> automaattinen käyttöasetus käytöstä ja käytä normaalia automaattista käynnistystä.<br/><br/>Voit myös kokeilla välttää ongelman vaihtamalla <b>Näytön tunnistus</b> -asetukseksi <b>Asettelu</b> asetusten <b>Yleiset</b>-välilehdeltä.",
 	"ui_browse_modal_trial_reminder_body": "Tilaamasi taustakuvat ovat todella siistejä, vai mitä? Osta Wallpaper Engine nyt:<br/><br/>*Voit ladata taustakuvia vapaasti ilman rajoituksia.<br/>*Löydät uusia taustakuvia päivittäin monilta eri tekijöiltä.<br/>*Pääset käyttämään editoria ja luomaan sekä julkaisemaan omia taustakuviasi.",
 	"ui_browse_alert_active_application_rule": "Sovellussääntö kohteelle <b>{{executable}}</b> on tällä hetkellä aktiivinen, ja se ohittaa taustakuvan valintasi.",
-	"ui_browse_alert_trial_reminder": "Osta Wallpaper Engine nyt, niin voit ladata [[Host]] -taustakuvia vaivattomasti ja lisäksi joitain taustakuvia [[Platform]] -alustalta.",
+	"ui_browse_alert_trial_reminder": "Osta Wallpaper Engine nyt, niin voit ladata [[[Host]]]-taustakuvia vaivattomasti ja lisäksi joitain taustakuvia [[[Platform]]]-alustalta.",
 	"ui_browse_alert_trial_reminder_button": "Siirry kauppaan",
 	"ui_browse_alert_trial_reminder_button_cancel": "Myöhemmin",
 	"ui_browse_alert_vram_exhausted": "Näyttömuistisi on täynnä, ja taustakuvat on poistettu käytöstä siihen asti, että järjestelmässäsi on taas riittävästi resursseja. Tämän ominaisuuden voi ottaa pois käytöstä yleisasetuksista.",

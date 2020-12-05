@@ -420,7 +420,7 @@
 	"ui_browse_modal_monitor_mismatch_body": "Wallpaper Engine não pôde aplicar o papel de parede porque não conseguiu identificar seus monitores.<br/><br/>Tente reiniciar Wallpaper Engine. Se este problema for frequente, tente desabilitar a opção de auto-inicialização com <b>prioridade alta</b> e use a auto-inicialização normal.<br/><br/>Além disso, visite a aba <b>Geral</b>, em configurações, e defina a opção <b>Identificação de Monitor</b> como <b>Layout</b> para evitar esse problema.",
 	"ui_browse_modal_trial_reminder_body": "Os papéis de parede nos quais você se inscreveu são incríveis mesmo, não acha? Compre Wallpaper Engine agora para ter acesso a:<br/><br/>* Papéis de parede criativos grátis para baixar.<br/>* Novos papéis de parede todos os dias de muitos criadores de conteúdo.<br/>* Editor para criar e publicar seus próprios papéis de parede.",
 	"ui_browse_alert_active_application_rule": "A regra de aplicativo para <b>{{executable}}</b> está ativa no momento e está substituindo a sua seleção de papel de parede.",
-	"ui_browse_alert_trial_reminder": "Compre Wallpaper Engine para: baixar com facilidade os papéis de parede da Oficina, incluindo alguns exclusivos em [[Platform]].",
+	"ui_browse_alert_trial_reminder": "Compre Wallpaper Engine para: baixar com facilidade os papéis de parede da [[[Host]]], incluindo alguns exclusivos em [[[Platform]]].",
 	"ui_browse_alert_trial_reminder_button": "Ir à loja",
 	"ui_browse_alert_trial_reminder_button_cancel": "Mais tarde",
 	"ui_browse_alert_vram_exhausted": "Sua memória de vídeo está esgotada, os papéis de parede foram desabilitados até o seu sistema voltar a ter recursos suficientes. Para desligar este recurso, vá em configurações gerais.",
