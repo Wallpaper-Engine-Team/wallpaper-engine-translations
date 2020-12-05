@@ -1057,6 +1057,7 @@
 	"ui_editor_properties_particle_system": "Σύστημα σωματιδίων",
 	"ui_editor_properties_perspective": "Προοπτική",
 	"ui_editor_properties_perspective_padding": "Παραγέμισμα προοπτικής",
+	"ui_editor_properties_perspective_warp": "Στημόνι προοπτικής",
 	"ui_editor_properties_phase": "Φάση",
 	"ui_editor_properties_phase_max": "Μέγιστη φάση",
 	"ui_editor_properties_phase_min": "Ελάχιστη φάση",
