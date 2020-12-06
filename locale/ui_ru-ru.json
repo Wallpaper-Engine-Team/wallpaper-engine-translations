@@ -619,6 +619,7 @@
 	"ui_settings_use_safe_mode": "Использовать безопасный запуск:",
 	"ui_settings_disable_slideshow": "Убрать затухание обоев Windows:",
 	"ui_settings_ui_hardware_acceleration": "Аппаратное ускорение пользовательского интерфейса:",
+	"ui_settings_ui_effects": "Пользовательский интерфейс:",
 	"ui_settings_show_tray_icon": "Отображать значок в области уведомлений:",
 	"ui_settings_copyright": "Все права защищены.",
 	"ui_settings_thirdparty": "Сторонние заметки",
