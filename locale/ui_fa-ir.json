@@ -69,6 +69,7 @@
 	"ui_browse_offline_error": "[[[PLATFORM]]] سرورها آفلاین هستند. لطفاً منتظر بمانید تا [[[PROVIDER]]] مشکل [[[PLATFORM]]] را برطرف کند.",
 	"ui_browse_download_error_restart_steam": "[[[Platform]]] بارگیری ناموفق بود. <br/><a class='btn btn-default' href='[[[var_url_faqdownloads]]]'>کمک</a>",
 	"ui_browse_details_author": "نویسنده:",
+	"ui_browse_details_author_pending": "<در انتظار>",
 	"ui_browse_details_type": "نوع:",
 	"ui_browse_details_filesize": "اندازه فایل:",
 	"ui_browse_details_btn_workshop": "[[[Host]]]",
