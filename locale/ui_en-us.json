@@ -687,7 +687,7 @@
 	"ui_welcome_use_led_effects_description" : "Enabling this option will sync the colors of wallpapers with compatible Razer Chroma and Corsair iCUE devices.",
 	"ui_welcome_use_led_effects" : "Enable LED effects",
 
-	"ui_editor_pane_header_camera" : "Camera",
+	"ui_editor_pane_header_camera" : "Camera Paths",
 	"ui_editor_pane_header_preview" : "Preview",
 	"ui_editor_pane_header_properties" : "Properties",
 	"ui_editor_pane_header_assets" : "Assets",
@@ -819,6 +819,10 @@
 	"ui_editor_importer_compiling_file" : "Compiling file",
 	"ui_editor_importer_gif_warning_header" : "GIF Size Warning",
 	"ui_editor_importer_gif_warning_body" : "The GIF you are trying to import occupies a lot of memory when converted into a more usable format. Wallpaper Engine can try to convert it anyway, but the process might fail with an error.<br/><br/>The GIF format is generally unsuitable for high resolution images and/or a lot of frames, you should consider using an .mp4 video wallpaper because that would perform better.",
+	"ui_editor_importer_texture_format_rgba8888" : "High Quality - Uncompressed (RGBA 8888)",
+	"ui_editor_importer_texture_format_dxt5" : "Good Performance - Minor Compression (DXT5)",
+	"ui_editor_importer_texture_format_dxt1" : "High Performance - Medium Compression (DXT1)",
+	"ui_editor_importer_pixel_art_optimization" : "Pixel Art Optimization - (Disable Bilinear Filtering)",
 
 	"ui_editor_template_wizard_header" : "Template Wizard",
 	"ui_editor_template_wizard_select_option" : "Select option",
@@ -984,7 +988,6 @@
 	"ui_editor_animation_events_modal_header" : "SceneScript Animation Events",
 	"ui_editor_animation_events_modal_name" : "Name",
 	"ui_editor_animation_events_modal_frame" : "Frame",
-	"ui_editor_animation_events_modal_add_event" : "Add new event",
 	"ui_editor_animation_events_modal_events" : "Events",
 
 	"ui_editor_bone_constraints_modal_header" : "Bone Constraints",
