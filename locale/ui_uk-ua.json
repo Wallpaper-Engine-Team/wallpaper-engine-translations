@@ -648,6 +648,7 @@
 	"ui_welcome_button_last_page": "Все виконано",
 	"ui_welcome_use_led_effects_description": "Вмикання цієї опції синхронізує кольори шпалер з сумісними пристроями Razer Chroma та Corsair iCUE.",
 	"ui_welcome_use_led_effects": "Увімкнути світлодіодні ефекти",
+	"ui_editor_pane_header_camera": "Шляхи камери",
 	"ui_editor_pane_header_preview": "Попередній перегляд",
 	"ui_editor_pane_header_properties": "Налаштування",
 	"ui_editor_pane_header_assets": "Вміст",
