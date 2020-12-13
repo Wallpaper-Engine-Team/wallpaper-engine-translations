@@ -774,6 +774,7 @@
 	"ui_editor_importer_texture_format_rgba8888": "Висока якість — без стиснення (RGBA 8888)",
 	"ui_editor_importer_texture_format_dxt5": "Хороша продуктивність — незначне стиснення (DXT5)",
 	"ui_editor_importer_texture_format_dxt1": "Висока продуктивність — середнє стиснення (DXT1)",
+	"ui_editor_importer_pixel_art_optimization": "Оптимізація для Pixel Art — (Вимкнути Білінейне фільтрування)",
 	"ui_editor_template_wizard_header": "Майстер шаблонів",
 	"ui_editor_template_wizard_select_option": "Виберіть варіант",
 	"ui_editor_template_wizard_details": "Деталі",
