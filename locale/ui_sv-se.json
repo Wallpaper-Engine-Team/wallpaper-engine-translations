@@ -438,7 +438,7 @@
 	"ui_settings_playback_fullscreen": "Annat program är i helskärm:",
 	"ui_settings_playback_sleep": "När skärmen släcks:",
 	"ui_settings_playback_battery": "När laptop är i batteriläge:",
-	"ui_settings_playback_playing_audio": "Annat program spelar upp ljud:",
+	"ui_settings_playback_playing_audio": "När andra program spelar upp ljud:",
 	"ui_settings_playback_application_rules": "Programregler:",
 	"ui_settings_playback_application_rules_header": "Programregler",
 	"ui_settings_playback_application_rules_edit": "Redigera",
