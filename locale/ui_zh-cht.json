@@ -196,7 +196,7 @@
 	"ui_browse_properties_volume_disabled_monitor": "已在顯示器設定中停用音訊",
 	"ui_browse_properties_audio_recording": "音訊錄製",
 	"ui_browse_properties_alignment": "對齊",
-	"ui_browse_properties_alignment_cover": "填滿",
+	"ui_browse_properties_alignment_cover": "覆蓋",
 	"ui_browse_properties_alignment_center": "置中",
 	"ui_browse_properties_alignment_stretch": "延展",
 	"ui_browse_properties_alignment_position": "位置",
