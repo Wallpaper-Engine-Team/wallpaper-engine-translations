@@ -855,6 +855,7 @@
 	"ui_editor_animation_modal_header": "Nastavení animace",
 	"ui_editor_animation_modal_seconds": "Sekundy",
 	"ui_editor_animation_modal_frames": "Snímky",
+	"ui_editor_animation_modal_name": "Název",
 	"ui_editor_animation_modal_fps": "FPS",
 	"ui_editor_animation_modal_mode": "Režim",
 	"ui_editor_animation_modal_loop": "Smyčka",
