@@ -42,6 +42,8 @@
 	"ui_browse_header_option_monitors": "Kijelzők",
 	"ui_browse_header_option_editor": "Háttérkép Szerkesztő",
 	"ui_browse_advertise_workshop": "[[[Host]]] = Házigazda!",
+	"ui_browse_no_service_header": "A [[[Platform]]] nem elérhető",
+	"ui_browse_author_filter_notice": "Háttérképek keresése tőle {{author}}",
 	"ui_browse_details_author": "Készítő:",
 	"ui_browse_details_type": "Típus:",
 	"ui_browse_details_rating": "Értékelés:",
