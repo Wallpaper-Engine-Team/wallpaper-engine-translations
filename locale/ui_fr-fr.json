@@ -193,7 +193,7 @@
 	"ui_browse_properties_playback_rate": "Vitesse de lecture",
 	"ui_browse_properties_volume": "Volume",
 	"ui_browse_properties_volume_disabled": "Son désactivé dans les paramètres globaux",
-	"ui_browse_properties_volume_disabled_monitor": "Son désactivé dans les paramètres d'affichage",
+	"ui_browse_properties_volume_disabled_monitor": "Son désactivé dans les paramètres d'écrans",
 	"ui_browse_properties_audio_recording": "Enregistrement audio",
 	"ui_browse_properties_alignment": "Alignement",
 	"ui_browse_properties_alignment_cover": "Couvrir",
