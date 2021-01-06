@@ -528,6 +528,8 @@
 	"ui_settings_advanced_video_loop": "حلقه ویدئو:",
 	"ui_settings_advanced_video_framework": "چارچوب ویدئو:",
 	"ui_settings_advanced_webm_framework": "چارچوب WebM:",
+	"ui_settings_advanced_log_level": "سطح گزارش:",
+	"ui_settings_advanced_cef_command_line": "خط فرمان CEF:",
 	"ui_settings_about": "درباره",
 	"ui_settings_about_changelog": "تغییرات",
 	"ui_settings_about_community_hub": "مرکز جامعه",
