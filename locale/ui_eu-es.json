@@ -1,5 +1,4 @@
 {
-	"ui_caption_browse": "Wallpaper Engine - [[[Platform]]] edizioa",
 	"ui_caption_settings": "Ezarpenak",
 	"ui_caption_editor": "Horma-paper Editorea",
 	"ui_ok": "OK",
@@ -972,6 +971,7 @@
 	"ui_editor_properties_frequency_start": "Frekuentzia hasiera",
 	"ui_editor_properties_friction": "Marruskadura",
 	"ui_editor_properties_fuzziness": "Desenfokapena",
+	"ui_editor_properties_geometry": "Geometria",
 	"ui_editor_properties_gravity": "Grabitatea",
 	"ui_editor_properties_greyscale": "Gris eskala",
 	"ui_editor_properties_height": "Altuera",
@@ -1186,7 +1186,6 @@
 	"ui_editor_particle_example_cursor_follow": "Jarraitu kurtsorea",
 	"ui_editor_particle_example_cursor_avoid": "Saihestu kurtsorea",
 	"ui_editor_particle_example_turbulence": "Turbulentzia",
-	"ui_editor_properties_geometry": "Geometria",
 	"ui_editor_select_material": "Aukeratu Materiala",
 	"ui_editor_select_texture": "Aukeratu Textura"
 }
