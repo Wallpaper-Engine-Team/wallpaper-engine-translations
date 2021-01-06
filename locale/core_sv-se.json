@@ -67,7 +67,7 @@
 	"core_updater_status_verify_file_missing": "Fil saknas: {{filepath}}",
 	"core_updater_status_verify_file_cannot_open": "Misslyckades att öppna fil: {{filepath}}",
 	"core_updater_status_verify_hash_failed": "Misslyckades att verifiera fil: {{filepath}}",
-	"core_updater_status_verify_success": "Verifierade fil: {{filepath}}",
+	"core_updater_status_verify_success": "Verifierad fil: {{filepath}}",
 	"core_updater_status_verify_failed_message_box_title": "Fel uppstod när fil verifierades",
 	"core_updater_status_verify_failed_message_box_body": "Det verkar som att några filer för Wallpaper Engine inte kunde installeras. Detta kan kända p.g.a. nedladdningsfel i [[[Platform]]] eller ett antivirusprogram som felaktigt identifierar filer och orsakar problem. Om du har ett antivirusprogram förutom Windows Defender, se till att det inte stör [[[Platform]]] och Wallpaper Engine.\n\nSe till att programmet är stängt när du uppdaterar (stäng via ikonen i meddelandefältet eller aktivitetshanteraren om det behövs) och att inga antivirusprogram förhindrar din dator från att arbeta ordentligt.\n\nOm ditt antivirusprogram raderade Wallpaper Engines filer måste du återställa dem och lägga till sökvägen som leder till Wallpaper Engine i vitlistan så att antivirusprogrammet slutar radera slumpartade filer.",
 	"core_updater_status_compat": "Letar efter inkompatibla program...",
