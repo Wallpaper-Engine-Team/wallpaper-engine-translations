@@ -1,5 +1,5 @@
 {
-	"ui_caption_browse" : "Wallpaper Engine - [[[Platform]]] Edition",
+	"ui_caption_browse" : "Wallpaper Engine {{version}} - [[[Platform]]] Edition",
 	"ui_caption_settings" : "Settings",
 	"ui_caption_editor" : "Wallpaper Editor",
 
@@ -158,6 +158,7 @@
 	"ui_browse_monitors_show_on_start" : "Show on start",
 	"ui_browse_monitors_mute" : "Mute",
 	"ui_browse_monitors_unmute" : "Unmute",
+	"ui_browse_monitors_clone_hdr_hint" : "Windows does not support cloning from HDR to non-HDR displays.",
 
 	"ui_browse_sort_name" : "Name",
 	"ui_browse_sort_rating" : "Rating",
@@ -167,6 +168,7 @@
 	"ui_browse_sort_last_updated" : "Last Updated",
 
 	"ui_browse_search_placeholder" : "Search",
+	"ui_browse_search_exact_match" : "Exact phrase",
 	"ui_browse_filter_category_wallpaper" : "Wallpaper",
 	"ui_browse_filter_category_preset" : "Preset",
 	"ui_browse_filter_type_scene" : "Scene",
@@ -1554,6 +1556,7 @@
 	"ui_editor_properties_frequency_start" : "Frequency start",
 	"ui_editor_properties_friction" : "Friction",
 	"ui_editor_properties_fuzziness" : "Fuzziness",
+	"ui_editor_properties_geometry" : "Geometry",
 	"ui_editor_properties_gravity" : "Gravity",
 	"ui_editor_properties_greyscale" : "Greyscale",
 	"ui_editor_properties_hardness" : "Hardness",
@@ -1572,6 +1575,7 @@
 	"ui_editor_properties_invert" : "Invert",
 	"ui_editor_properties_isolate_effect" : "Isolate Effect",
 	"ui_editor_properties_kernel_size" : "Kernel size",
+	"ui_editor_properties_layer" : "Layer",
 	"ui_editor_properties_led_source" : "Limit iCUE & Chroma to this layer",
 	"ui_editor_properties_left" : "Left",
 	"ui_editor_properties_length" : "Length",
@@ -1582,6 +1586,8 @@
 	"ui_editor_properties_lock_to_pointer" : "Lock to pointer",
 	"ui_editor_properties_locked" : "Locked",
 	"ui_editor_properties_loop" : "Loop",
+	"ui_editor_properties_make_background_bone" : "Make Background Limb",
+	"ui_editor_properties_make_foreground_bone" : "Make Foreground Limb",
 	"ui_editor_properties_mask" : "Mask",
 	"ui_editor_properties_material" : "Material",
 	"ui_editor_properties_materials" : "Materials",
@@ -1596,8 +1602,10 @@
 	"ui_editor_properties_mode" : "Mode",
 	"ui_editor_properties_model" : "Model",
 	"ui_editor_properties_monochrome" : "Monochrome",
-	"ui_editor_properties_move_bone_to_front" : "Move Bone to Front",
-	"ui_editor_properties_move_bone_to_back" : "Move Bone to Back",
+	"ui_editor_properties_move_bone_behind_parent" : "Move Bone behind Parent",
+	"ui_editor_properties_move_bone_in_front_parent" : "Move Bone in front of Parent",
+	"ui_editor_properties_move_bone_to_front" : "Move Limb to Front",
+	"ui_editor_properties_move_bone_to_back" : "Move Limb to Back",
 	"ui_editor_properties_multiply" : "Multiply",
 	"ui_editor_properties_mute_in_editor" : "Mute in editor",
 	"ui_editor_properties_name" : "Name",
@@ -1864,7 +1872,6 @@
 	"ui_editor_particle_example_cursor_avoid" : "Avoid cursor",
 	"ui_editor_particle_example_turbulence" : "Turbulence",
 	
-	"ui_editor_properties_geometry" : "Geometry",
 	"ui_editor_properties_geometry_warning_title" : "Image is not transparent",
 	"ui_editor_properties_geometry_warning_body" : "This image is not suitable for the puppet warp animation system.<br/><br/>You should import an image/character that has a transparent background in order for puppet warp to work correctly.<br/><br/>You can either have each limb/animated part as a separate object on the image, or just cut the character/object out of the image and make the background fully transparent.",
 	
