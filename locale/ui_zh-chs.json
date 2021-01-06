@@ -648,7 +648,6 @@
 	"ui_welcome_button_last_page": "全部完成",
 	"ui_welcome_use_led_effects_description": "启用此选项会与兼容的 Razer Chroma 和 Corsair iCUE 设备同步壁纸的颜色。",
 	"ui_welcome_use_led_effects": "启用 LED 效果",
-	"ui_editor_pane_header_camera": "照片路径",
 	"ui_editor_pane_header_preview": "预览",
 	"ui_editor_pane_header_properties": "属性",
 	"ui_editor_pane_header_assets": "组件",
