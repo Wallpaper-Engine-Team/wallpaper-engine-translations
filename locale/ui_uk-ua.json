@@ -1515,6 +1515,8 @@
 	"ui_editor_properties_mode": "Режим",
 	"ui_editor_properties_model": "Модель",
 	"ui_editor_properties_monochrome": "Один колір",
+	"ui_editor_properties_move_bone_to_front": "Перемістити кінцівку вперед",
+	"ui_editor_properties_move_bone_to_back": "Перемістити кінцівку назад",
 	"ui_editor_properties_multiply": "Множення",
 	"ui_editor_properties_mute_in_editor": "Вимк. звук у редакторі",
 	"ui_editor_properties_name": "Ім'я",
