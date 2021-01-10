@@ -1501,6 +1501,8 @@
 	"ui_editor_properties_lock_to_pointer": "Прив'язка до вказівника",
 	"ui_editor_properties_locked": "Прив'язано",
 	"ui_editor_properties_loop": "Цикл",
+	"ui_editor_properties_make_background_bone": "Створити кінцівку на задньому плані",
+	"ui_editor_properties_make_foreground_bone": "Створити кінцівку на передньому плані",
 	"ui_editor_properties_mask": "Маска",
 	"ui_editor_properties_material": "Матеріал",
 	"ui_editor_properties_materials": "Матеріали",
