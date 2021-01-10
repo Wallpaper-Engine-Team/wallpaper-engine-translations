@@ -1,4 +1,5 @@
 {
+	"ui_caption_browse": "Wallpaper Engine {{version}} - [[[Platform]]] Udgave",
 	"ui_caption_settings": "Indstillinger",
 	"ui_caption_editor": "Baggrunds editor",
 	"ui_ok": "OK",

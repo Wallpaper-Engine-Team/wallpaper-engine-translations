@@ -1,4 +1,5 @@
 {
+	"ui_caption_browse": "Wallpaper Engine {{version}} - รุ่น [[[Platform]]]",
 	"ui_caption_settings": "การตั้งค่า",
 	"ui_caption_editor": "ตัวแก้ไขวอลเปเปอร์",
 	"ui_ok": "ตกลง",
