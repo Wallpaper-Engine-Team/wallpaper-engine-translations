@@ -1,5 +1,4 @@
 {
-	"ui_caption_browse": "Wallpaper Engine - [[[Platform]]] verzija",
 	"ui_caption_settings": "Nastavitve",
 	"ui_caption_editor": "Urejevalnik ozadij",
 	"ui_ok": "OK",
@@ -1280,6 +1279,7 @@
 	"ui_editor_properties_frequency_start": "Začetek frekvence",
 	"ui_editor_properties_friction": "Trenje",
 	"ui_editor_properties_fuzziness": "Nejasnost",
+	"ui_editor_properties_geometry": "Geometrija",
 	"ui_editor_properties_gravity": "Gravitacija",
 	"ui_editor_properties_greyscale": "Siva lestvica",
 	"ui_editor_properties_height": "Višina",
@@ -1535,7 +1535,6 @@
 	"ui_editor_particle_example_cursor_follow": "Sledi kazalcu",
 	"ui_editor_particle_example_cursor_avoid": "Izogibaj se kazalca",
 	"ui_editor_particle_example_turbulence": "Turbulenca",
-	"ui_editor_properties_geometry": "Geometrija",
 	"ui_editor_puppet_warp_edit_warning_title": "Ponastavi popačenje lutke",
 	"ui_editor_puppet_warp_edit_warning_body": "Če nadaljuješ z urejanjem te faze ustvarjanja popačenja lutke, boš ponastavil vse nadaljnje faze ustvarjanja in jih moral ponovno urejati od začetka.<br/>Vse obstoječe animacije te lutke bodo izbrisane.",
 	"ui_editor_select_material": "Izberi material",

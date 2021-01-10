@@ -1,5 +1,4 @@
 {
-	"ui_caption_browse": "Háttérkép Készítő - Steam Szerkesztő\n",
 	"ui_caption_settings": "Beállítások",
 	"ui_caption_editor": "Háttérkép Szerkesztő",
 	"ui_ok": "OK",
@@ -1108,6 +1107,7 @@
 	"ui_editor_properties_forward": "Előre",
 	"ui_editor_properties_fps": "FPS",
 	"ui_editor_properties_fuzziness": "Homályosság",
+	"ui_editor_properties_geometry": "Geometria",
 	"ui_editor_properties_gravity": "Gravitáció",
 	"ui_editor_properties_height": "Magasság",
 	"ui_editor_properties_holes": "Lyukak",
@@ -1253,7 +1253,6 @@
 	"ui_editor_particle_example_cursor_follow": "Kövesse a kurzort",
 	"ui_editor_particle_example_cursor_avoid": "Kerülje el a kurzort",
 	"ui_editor_particle_example_turbulence": "Légörvény",
-	"ui_editor_properties_geometry": "Geometria",
 	"ui_editor_properties_geometry_warning_title": "A kép nem átlátszó",
 	"ui_editor_puppet_warp_save_pose_title": "Új póz mentése",
 	"ui_editor_puppet_warp_overwrite_pose_title": "{{name}} póz felülírása",
