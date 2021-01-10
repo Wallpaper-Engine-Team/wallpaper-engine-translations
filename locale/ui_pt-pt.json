@@ -1,4 +1,5 @@
 {
+	"ui_caption_browse": "Wallpaper Engine {{version}} - Edição [[[Platform]]]",
 	"ui_caption_settings": "Configurações",
 	"ui_caption_editor": "Editor de wallpapers",
 	"ui_ok": "OK",
