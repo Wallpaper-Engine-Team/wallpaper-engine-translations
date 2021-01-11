@@ -1488,6 +1488,7 @@
 	"ui_editor_properties_invert": "กลับด้าน",
 	"ui_editor_properties_isolate_effect": "เอฟเฟกต์แยก",
 	"ui_editor_properties_kernel_size": "ขนาดเคอร์เนล",
+	"ui_editor_properties_layer": "เลเยอร์",
 	"ui_editor_properties_led_source": "จำกัด iCUE และ Chroma ไว้ที่เลเยอร์นี้",
 	"ui_editor_properties_left": "ซ้าย",
 	"ui_editor_properties_length": "ความยาว",
