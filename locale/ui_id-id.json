@@ -150,6 +150,7 @@
 	"ui_browse_monitors_show_on_start": "Tampilkan saat memulai",
 	"ui_browse_monitors_mute": "Senyapkan Suara",
 	"ui_browse_monitors_unmute": "Hidupkan Suara",
+	"ui_browse_monitors_clone_hdr_hint": "Windows tidak mendukung duplikasi dari layar HDR ke non-HDR.",
 	"ui_browse_sort_name": "Nama",
 	"ui_browse_sort_rating": "Peringkat",
 	"ui_browse_sort_favorite": "Favorit",
