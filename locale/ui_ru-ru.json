@@ -1378,7 +1378,7 @@
 	"ui_editor_properties_cast_type": "Приведение типов",
 	"ui_editor_properties_center": "Центр",
 	"ui_editor_properties_chromatic_aberration": "Хроматическая аберрация",
-	"ui_editor_properties_clamp_uvs": "Ограничение ультрафиолета",
+	"ui_editor_properties_clamp_uvs": "UV-преобразование (развёртка 3D объекта в 2D)",
 	"ui_editor_properties_clear": "Очистить",
 	"ui_editor_properties_clip": "Обрезать",
 	"ui_editor_properties_color": "Цвет",
