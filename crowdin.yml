@@ -3,3 +3,7 @@ files:
     translation: /locale/%file_name%%locale_with_underscore%.json
     translation_replace:
       en-us: ''
+  - source: /locale_steam/*_en-us.json
+    translation: /locale_steam/%file_name%%locale_with_underscore%.json
+    translation_replace:
+      en-us: ''
