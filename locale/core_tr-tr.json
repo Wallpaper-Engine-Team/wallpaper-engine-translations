@@ -74,7 +74,7 @@
 	"core_updater_status_compat_error": "İşlemleri tarama başarısız",
 	"core_updater_status_compat_found": "Uyumsuz bir işlem bulundu: {{processname}}",
 	"core_updater_status_compat_message_box_title": "Uyumsuz Uygulamalar Bulundu",
-	"core_updater_status_compat_message_box_body": "Wallpaper Engine'in çökmesine veya sisteminizi dengesiz hale getirebilecek aşağıdaki uygulamaları çalıştırıyorsunuz. Bu uygulamalar, Wallpaper Engine'e sorunlara yol açan kodlar ekler. Wallpaper32.exe ve wallpaper64.exe dosyalarını ekleyerek Wallpaper Engine'i dışlama listesine eklediğinizden emin olun.\n\n{{list}}",
+	"core_updater_status_compat_message_box_body": "Wallpaper Engine'in çökmesine veya sisteminizi dengesiz hale getirmesine neden olabilen aşağıdaki uygulamaları çalıştırıyorsunuz. Bunlar, Wallpaper Engine'e sorunlara yol açan kodlar ekler. Wallpaper32.exe ve wallpaper64.exe dosyalarını ekleyerek Wallpaper Engine'i dışlama listesine eklediğinizden emin olun.\n\n{{list}}",
 	"core_updater_status_compat_message_box_body_item_exclude": "{{name}}: Wallpaper Engine'i hariç tut",
 	"core_updater_status_compat_message_box_body_item_update": "{{name}}: {{version}} sürümüne güncelle",
 	"core_updater_status_complete": "Kurulum başarılı olarak tamamlandı",
@@ -82,11 +82,11 @@
 	"core_updater_status_complete_starting": "Wallpaper Engine başlatılıyor...",
 	"core_updater_status_cancelled": "İşlem kullanıcı tarafından iptal edildi",
 	"core_updater_status_corrupted_system_module_message_box_title": "Sistem dosyası eksik veya bozuk",
-	"core_updater_status_corrupted_system_module_message_box_body": "Sisteminiz bozuk veya dosyalar eksik. Wallpaper Engine bilgisayarınıza düzgün yüklenmemiş halde çalışamaz. Windows'unuz ile ilgili bir sorun var ve bu hata Wallpaper Engine'den kaynaklanmıyor.\n\nAşağıdaki adımları takip ederek bilgisayarınızı düzeltmeyi deneyin:\n\n",
-	"core_updater_status_corrupted_system_module_message_box_body_delete": "- İlk olarak, Windows Tarayıcısı aracılığıyla şu dosyaları silin:\n{{modules}}\n\n",
-	"core_updater_status_corrupted_system_module_message_box_body_install_directx": "- DirectX'i şu dosyayı çalıştırarak yeniden yükleyin:\n{{installers}}\nAlternatif olarak DirectX'i Microsoft web sitesinden yeniden indirebilirsiniz",
-	"core_updater_prompt_close": "Wallpaper Engine hala çalışıyor, lütfen önce programı kapatın. Bu işlemlerin kapatılması bekleniyor:",
-	"core_updater_prompt_close_foreign": "Bir program dosyaları kilitlediği için Wallpaper Engine güncellemeye devam edemiyor. Devam etmek için lütfen şu programları kapatın:",
-	"core_updater_status_directx_not_supported_title": "DirectX 10 desteklenmemektedir",
-	"core_updater_status_directx_not_supported_body": "Grafik kartınızın, bu uygulamanın düzgün çalışması için bir gereksinim olan DirectX 10'u desteklemediği veya grafik sürücünüzde bir sorun olduğu görülmektedir.\n\nGrafik kartınızın DirectX 10'u desteklediğini düşünüyorsanız mevcut grafik sürücünüz zarar görmüş olabilir. Sürücüyü yeniden yükleyerek veya donanımınızın sağlayıcısıyla (Nvidia, AMD, Intel) iletişime geçerek bu sorunu çözmeyi deneyebilirsiniz."
+	"core_updater_status_corrupted_system_module_message_box_body": "Sisteminiz bozuk veya dosyalar eksik. Wallpaper Engine bilgisayarınıza doğru olarak yüklenmedikçe çalışamaz. Bu, Windows'unuz ile ilgili bir sorundur ve bu Wallpaper Engine'deki bir hata değildir.\n\nAşağıdaki adımları takip ederek bilgisayarınızı düzeltmeye çalışın:\n\n",
+	"core_updater_status_corrupted_system_module_message_box_body_delete": "- Önce, Windows Tarayıcı aracılığıyla şu dosyaları silin:\n{{modules}}\n\n",
+	"core_updater_status_corrupted_system_module_message_box_body_install_directx": "- DirectX'i şu dosyayı çalıştırarak yeniden yükleyin:\n{{installers}}\nAlternatif olarak DirectX 9'u Microsoft web sitesinden yeniden indirebilirsiniz.",
+	"core_updater_prompt_close": "Wallpaper Engine hala çalışıyor, lütfen önce uygulamayı kapatın. Şu işlemlerin kapatılması bekleniyor:",
+	"core_updater_prompt_close_foreign": "Bir program dosyaları kilitliyor göründüğünden Wallpaper Engine güncellemeye devam edemiyor. Devam etmek için lütfen şu programları kapatın:",
+	"core_updater_status_directx_not_supported_title": "DirectX 10 desteklenmez",
+	"core_updater_status_directx_not_supported_body": "Grafik kartınızın DirectX 10'u desteklemediği veya grafik sürücünüzde bir sorun olduğu görülüyor. DirectX 10, bu uygulamanın düzgün çalışması için bir sistem gereksinimidir.\n\nEğer grafik kartınızın DirectX 10'u desteklemesi gerekiyorsa, Şu anki grafik sürücünüz zarar görmüş olabilir. Bunu çözmek için sürücüyü yeniden yüklemeyi veya donanımınızın satıcısıyla (Nvidia, AMD, Intel) iletişime geçmeyi deneyebilirsiniz."
 }
