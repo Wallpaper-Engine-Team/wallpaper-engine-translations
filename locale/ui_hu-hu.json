@@ -182,6 +182,7 @@
 	"ui_browse_open_url_hotkey_info": "Ahhoz hogy a billentyűzetet használni tudja a háttérképen, rejtse el az ikonokat ezzel a gyorsbillenytűvel először:",
 	"ui_browse_modal_proceed": "Tovább",
 	"ui_browse_modal_advertise_workshop_header": "[[[Host]]] Szűrőbeállítások",
+	"ui_browse_modal_advertise_workshop_body": "A bal oldali szűrősáv segítségével válassza ki az igényeinek megfelelő háttér címkéket.<br/><br/>Haználja a <b>Jóváhagyott</b> <span class='fas fa-trophy browseWallpaperApproved'></span> filtert az általunk kiválasztott, kiváló minőségű háttérképek böngészéséhez.<br/><br/>Állítsa a rendezési sorrendet a jobb felső sarokban a <b>Legnépszerűbb</b> vagy <b>Legjobban értékelt</b> opciókra ha magas minőségű feltöltéseket keres.",
 	"ui_browse_modal_advertise_workshop_anime_question": "A Wallpaper Engine sok <b>Anime</b> háttérképet tartalmaz. Szeretnél látni <b>Anime</b> háttérképeket?",
 	"ui_browse_modal_advertise_workshop_anime_hint": "Bármikor megváltoztathatod ezt a beállítást a filter beállításokban.",
 	"ui_browse_modal_advertise_workshop_anime_button_show": "Anime mutatása",
