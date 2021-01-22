@@ -1246,7 +1246,7 @@
 	"ui_editor_preset_clock_variant_3dclock": "3D Часы",
 	"ui_editor_preset_countdown_title": "Обратный отсчёт",
 	"ui_editor_preset_countdown_description": "Вставьте обратный отсчёт в вашу сцену.",
-	"ui_editor_preset_countdown_variant_release": "Запустить обратный отчёт",
+	"ui_editor_preset_countdown_variant_release": "Запустить обратный отсчёт",
 	"ui_editor_stats_title": "Статистика за кадр",
 	"ui_editor_stats_draw_calls": "Вызовов отрисовки:",
 	"ui_editor_stats_primitives": "Примитивов отрисовано:",
