@@ -195,7 +195,7 @@
 	"ui_browse_properties_playback_rate": "Oynatma hızı",
 	"ui_browse_properties_volume": "Ses düzeyi",
 	"ui_browse_properties_volume_disabled": "Genel ayarlarda ses etkisizleştirildi",
-	"ui_browse_properties_volume_disabled_monitor": "Ekran ayarlarında ses devre dışı",
+	"ui_browse_properties_volume_disabled_monitor": "Ekran ayarlarında ses etkisizleştirildi",
 	"ui_browse_properties_audio_recording": "Ses kaydı",
 	"ui_browse_properties_alignment": "Hizalama",
 	"ui_browse_properties_alignment_cover": "Kapla",
