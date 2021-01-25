@@ -1,6 +1,6 @@
 {
 	"core_tray_change_wallpaper": "Hintergrund ändern",
-	"core_tray_browse_workshop": "[[[Host]]] durchsuchen",
+	"core_tray_browse_workshop": "Workshop durchsuchen",
 	"core_tray_create_wallpaper": "Hintergrund erstellen",
 	"core_tray_settings": "Einstellungen",
 	"core_tray_take_screenshot": "Bildschirmfoto aufnehmen",
@@ -15,6 +15,7 @@
 	"core_tray_next_wallpaper": "Nächster Hintergrund",
 	"core_tray_mute": "Stumm schalten",
 	"core_tray_unmute": "Laut schalten",
+	"core_tray_playlist_prefix": "Wiedergabeliste:",
 	"core_balloon_info": "Wallpaper Engine befindet sich nun in der Startleiste. Doppelklicke auf das Wallpaper Engine-Symbol, um einen Hintergrund auszuwählen.",
 	"core_balloon_desktop_window_error": "Vorbereiten des Desktops für animierten Hintergrund fehlgeschlagen.",
 	"core_balloon_video_error": "Windows Video-Fehler aufgetreten: {{err}}. Für Hilfe hier klicken.",
