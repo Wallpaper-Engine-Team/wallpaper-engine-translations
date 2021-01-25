@@ -898,7 +898,7 @@
 	"ui_editor_publish_modal_button_show_in_workshop_generic" : "Show in Workshop",
 	"ui_editor_publish_modal_steam_error" : "[[[Platform]]] has encountered the following error:<br/><br/>{{error}}<br/><br/>Make sure no firewall or antivirus app is interfering with [[[Platform]]]. Restart [[[Platform]]] and try again later in case there are temporary server or network issues.",
 	"ui_editor_publish_modal_publish_successful" : "Item successfully published.",
-	"ui_editor_publish_modal_publish_prompt_agreement" : "You need to accept the [[[Platform]]] Workshop agreement before your wallpaper will be visible to others. Proceed by viewing your wallpaper on the [[[Platform]]] Workshop now:",
+	"ui_editor_publish_modal_publish_prompt_agreement" : "You need to accept the [[[Platform]]] Workshop agreement before your wallpaper will be visible to others. View your wallpaper on the [[[Platform]]] Workshop now:",
 	"ui_editor_publish_modal_progress_validate" : "Validating Workshop Item...",
 	"ui_editor_publish_modal_progress_create" : "Creating Workshop Item...",
 	"ui_editor_publish_modal_progress_prepare_data" : "Updating Workshop item data...",
