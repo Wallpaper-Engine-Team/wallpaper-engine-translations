@@ -854,7 +854,6 @@
 	"ui_editor_animation_help_modal_shift_ctrl_click": "SHIFT/CTRL + clicar",
 	"ui_editor_animation_help_modal_ctrl_c_v": "CTRL + C/V",
 	"ui_editor_animation_help_modal_del": "DEL",
-	"ui_editor_animation_help_modal_k": "K",
 	"ui_editor_animation_help_modal_left_right": "ESQUERDA/DIREITA",
 	"ui_editor_animation_help_modal_space": "ESPAÇO",
 	"ui_editor_animation_help_modal_lock_point_vertically": "Trava pontos verticalmente ao movê-los.",
