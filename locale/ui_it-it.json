@@ -861,7 +861,6 @@
 	"ui_editor_animation_help_modal_shift_ctrl_click": "SHIFT/CTRL + clic",
 	"ui_editor_animation_help_modal_ctrl_c_v": "CTRL + C/V",
 	"ui_editor_animation_help_modal_del": "CANC",
-	"ui_editor_animation_help_modal_k": "K",
 	"ui_editor_animation_help_modal_left_right": "SINISTRA/DESTRA",
 	"ui_editor_animation_help_modal_space": "SPAZIO",
 	"ui_editor_animation_help_modal_lock_point_vertically": "Blocca i punti verticalmente mentre li sposti.",
