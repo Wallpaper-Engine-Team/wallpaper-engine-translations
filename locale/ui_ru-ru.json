@@ -861,7 +861,6 @@
 	"ui_editor_animation_help_modal_shift_ctrl_click": "SHIFT / CTRL + щелчок мыши",
 	"ui_editor_animation_help_modal_ctrl_c_v": "CTRL + C/V",
 	"ui_editor_animation_help_modal_del": "DEL",
-	"ui_editor_animation_help_modal_k": "K",
 	"ui_editor_animation_help_modal_left_right": "ВЛЕВО / ВПРАВО",
 	"ui_editor_animation_help_modal_space": "ПРОБЕЛ",
 	"ui_editor_animation_help_modal_lock_point_vertically": "При перемещении фиксирует точки по вертикали.",
