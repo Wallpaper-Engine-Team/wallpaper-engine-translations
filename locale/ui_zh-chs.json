@@ -858,7 +858,6 @@
 	"ui_editor_animation_help_modal_shift_ctrl_click": "SHIFT/CTRL + 鼠标单击",
 	"ui_editor_animation_help_modal_ctrl_c_v": "CTRL + C/V",
 	"ui_editor_animation_help_modal_del": "DEL",
-	"ui_editor_animation_help_modal_k": "K",
 	"ui_editor_animation_help_modal_left_right": "左/右方向键",
 	"ui_editor_animation_help_modal_space": "空格键",
 	"ui_editor_animation_help_modal_lock_point_vertically": "可在移动点的同时垂直锁定点。",
