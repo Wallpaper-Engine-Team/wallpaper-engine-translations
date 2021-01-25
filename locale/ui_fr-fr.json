@@ -859,7 +859,6 @@
 	"ui_editor_animation_help_modal_shift_ctrl_click": "MAL/CTRL + clic",
 	"ui_editor_animation_help_modal_ctrl_c_v": "CTRL + C/V",
 	"ui_editor_animation_help_modal_del": "SUPPR",
-	"ui_editor_animation_help_modal_k": "K",
 	"ui_editor_animation_help_modal_left_right": "GAUCHE/DROITE",
 	"ui_editor_animation_help_modal_space": "ESPACE",
 	"ui_editor_animation_help_modal_lock_point_vertically": "Bloque les points verticalement lors de leur déplacement.",
