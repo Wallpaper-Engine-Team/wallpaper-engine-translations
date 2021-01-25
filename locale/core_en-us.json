@@ -1,6 +1,6 @@
 {
 	"core_tray_change_wallpaper" : "Change Wallpaper",
-	"core_tray_browse_workshop" : "Browse [[[Host]]]",
+	"core_tray_browse_workshop" : "Browse Workshop",
 	"core_tray_create_wallpaper" : "Create Wallpaper",
 	"core_tray_settings" : "Settings",
 	"core_tray_take_screenshot" : "Take Screenshot",
@@ -15,6 +15,7 @@
 	"core_tray_next_wallpaper" : "Next Wallpaper",
 	"core_tray_mute" : "Mute",
 	"core_tray_unmute" : "Unmute",
+	"core_tray_playlist_prefix" : "Playlist:",
 
 	"core_balloon_info" : "Wallpaper Engine minimized to your tray. Double click the tray icon to select a wallpaper.",
 	"core_balloon_desktop_window_error" : "Failed preparing desktop for live wallpaper.",
@@ -31,6 +32,7 @@
 	"core_msgbox_prompt_aero_win7" : "Wallpaper Engine needs to enable Aero in order to work. Should Wallpaper Engine try to enable Aero for you now?",
 	"core_msgbox_prompt_aero_win8" : "Wallpaper Engine cannot run with a 'high contrast' theme. Should Wallpaper Engine try to reset the theme for you now?",
 	"core_msgbox_prompt_high_contrast_was_enabled" : "Windows has just applied a 'high contrast' theme which does not allow Wallpaper Engine to work.",
+	"core_msgbox_high_contrast_white" : "You have enabled high contrast mode in Windows in combination with the white high contrast theme. The white high contrast theme prevents Wallpaper Engine from setting a dynamic wallpaper due to how it is built into Windows.\n\nOpen the Windows high contrast settings and either change the high contrast theme or turn off high contrast mode in order to use Wallpaper Engine.",
 	"core_msgbox_dwm_disabled" : "Desktop composition is disabled.",
 	"core_msgbox_aero_denied" : "Wallpaper Engine cannot work without Windows Aero and will now quit.",
 	"core_msgbox_aero_failure" : "Failed to enable Aero.\n\nIt looks like Windows is preventing Aero from being enabled, unfortunately it is an important requirement and Wallpaper Engine cannot work without it.\n\nTry to enable Aero in the Windows theme options directly and start Wallpaper Engine again.",

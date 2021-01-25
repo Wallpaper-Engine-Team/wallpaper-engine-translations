@@ -18,11 +18,7 @@ Some variables are hard-coded and use three square brackets, these are mainly re
 
 ```
 	[[[Platform]]]:   "Steam"
-	[[[Host]]]:       "Workshop"
-	[[[PLATFORM]]]:   "STEAM"
 	[[[Sdk]]]:        "Steamworks"
-	[[[Provider]]]:   "Valve"
-	[[[PROVIDER]]]:   "VALVE"
 ```
 
 If you come across these strings, for example `You can download wallpapers from the [[[Platform]]] [[[Host]]].`, the actual text is `You can download wallpapers from the Steam Workshop.`. Just translate them like that.
