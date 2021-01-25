@@ -1,5 +1,6 @@
 {
 	"core_tray_change_wallpaper": "Duvar Kağıdını Değiştir",
+	"core_tray_browse_workshop": "Atölyeye Gözat",
 	"core_tray_create_wallpaper": "Duvar Kağıdı Oluştur",
 	"core_tray_settings": "Ayarlar",
 	"core_tray_take_screenshot": "Ekran Görüntüsü Al",
@@ -14,6 +15,7 @@
 	"core_tray_next_wallpaper": "Sonraki Duvar Kağıdı",
 	"core_tray_mute": "Sessize al",
 	"core_tray_unmute": "Sesi aç",
+	"core_tray_playlist_prefix": "Oynatma Listesi:",
 	"core_balloon_info": "Wallpaper Engine sistem tepsinize küçültüldü. Bir duvar kağıdı seçmek için tepsi simgesine çift tıklayın.",
 	"core_balloon_desktop_window_error": "Canlı duvar kağıdı için masaüstünü hazırlama başarısız oldu.",
 	"core_balloon_video_error": "Windows görüntü hatası meydana geldi {{err}}. Yardım için buraya tıklayın.",
@@ -27,6 +29,7 @@
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engine'in çalışması için Aero'yu etkinleştirmesi gerekiyor. Wallpaper Engine, sizin için Aero'yu şimdi etkinleştirmeyi denesin mi?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine, 'yüksek karşıtlık' bir temayla çalışamaz. Wallpaper Engine, sizin için şimdi temayı sıfırlamayı denesin mi?",
 	"core_msgbox_prompt_high_contrast_was_enabled": "Windows, Wallpaper Engine'in çalışmasına izin vermeyen 'yüksek karşıtlık' bir temayı uyguladı.",
+	"core_msgbox_high_contrast_white": "Windows'ta beyaz yüksek karşıtlık temasıyla birlikte yüksek karşıtlık kipini etkinleştirdiniz. Beyaz yüksek karşıtlık teması, Wallpaper Engine'in, Windows'un içinde yerleşik olmasından dolayı değişken bir duvar kağıdı ayarlamasını engeller.\n\nWallpaper Engine'i kullanmak için Windows yüksek karşıtlık ayarlarını açın ve yüksek karşıtlık temasını değiştirin ya da yüksek karşıtlık kipini kapatın.",
 	"core_msgbox_dwm_disabled": "Masaüstü bileşimi etkisizleştirildi.",
 	"core_msgbox_aero_denied": "Wallpaper Engine, Windows Aero olmadan çalışamaz ve şimdi kapanacak.",
 	"core_msgbox_aero_failure": "Aero'yu etkinleştirme başarısız.\n\nWindows, Aero'nun etkinleştirilmesini engelliyor gibi görünüyor, maalesef bu önemli bir gerekliliktir ve Wallpaper Engine, Aero olmadan çalışamaz.\n\nAero'yu doğrudan Windows tema seçeneklerinden etkinleştirmeyi deneyin ve Wallpaper Engine'ı tekrar başlatın.",
