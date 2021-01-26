@@ -761,6 +761,7 @@
 	"ui_editor_publish_modal_button_publish": "Terbitkan",
 	"ui_editor_publish_modal_button_publish_update": "Terbitkan pembaruan",
 	"ui_editor_publish_modal_publish_successful": "Item sudah selesai diterbitkan.",
+	"ui_editor_publish_modal_publish_prompt_agreement": "Anda perlu menyetujui persetujuan [[[Platform]]] Workshop sebelum wallpaper Anda akan terlihat oleh orang lain. Lihat wallpaper Anda di [[[Platform]]] Workshop sekarang:",
 	"ui_editor_publish_modal_snapshot_failed_reading": "Gagal membaca ukuran berkas: {{file}}.",
 	"ui_editor_publish_modal_snapshot_too_large": "Gambar ini terlalu besar (maksimal {{size}}).",
 	"ui_editor_publish_modal_snapshot_failed_opening": "Gagal membuka berkas: {{file}}.",
