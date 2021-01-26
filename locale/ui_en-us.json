@@ -11,6 +11,8 @@
 	"ui_select" : "Select",
 	"ui_create" : "Create",
 	"ui_next" : "Next",
+	"ui_discard" : "Discard",
+	"ui_save" : "Save",
 	"ui_show_details" : "Show Details",
 
 	"ui_resolution_widescreen" : "Widescreen",
@@ -803,6 +805,7 @@
 	"ui_editor_filemenu_help_rgb_devices" : "RGB Devices",
 	"ui_editor_filemenu_help_fps_limit" : "FPS Limit",
 	"ui_editor_filemenu_help_debugging" : "Debugging",
+	"ui_editor_filemenu_editor_settings" : "Editor Settings",
 	
 	"ui_editor_save_as_header" : "Save As",
 	"ui_editor_save_as_body" : "Choose a new project name:",
@@ -821,6 +824,9 @@
 	"ui_editor_no_animation_modal_body" : "It looks like you are trying to upload a scene wallpaper without animation. <b>This is not recommended.</b><br/><br/>Wallpaper Engine is optimized for animated wallpapers, so if you only want to use a static image, it is advisable to use your operating system in that case.<br/><br/>Do you want to continue anyway?",
 	"ui_editor_review_info_header" : "Review Process",
 	"ui_editor_review_info_body" : "Your wallpaper will be reviewed before other users can find and download it to ensure that it doesn't violate any local laws.<br/><br/>If you update your wallpaper, it has to be reviewed again and is pushed to the back of the queue.",
+	
+	"ui_editor_modal_unsaved_changes_header" : "Unsaved Changes",
+	"ui_editor_modal_unsaved_changes_body" : "You have unsaved changes in your project. Would you like to save or discard them now?",
 
 	"ui_editor_treeview_header_files" : "Imported Files",
 	"ui_editor_tooltip_layers" : "Layers",
@@ -1081,6 +1087,10 @@
 	"ui_editor_bone_constraints_physics_rotation" : "Physics rotation",
 	"ui_editor_bone_constraints_physics_translation" : "Physics translation",
 	"ui_editor_bone_constraints_reset" : "Reset",
+	
+	"ui_editor_settings_auto_saving" : "Enable autosaving",
+	"ui_editor_settings_auto_saving_hint" : "General project settings and certain assets like textures and puppets will still be saved automatically.",
+	"ui_editor_settings_suggest_import_resolution" : "Resize new wallpapers by default",
 
 	"ui_editor_user_properties_select_info" : "Choose a property with a compatible type ({{types}}).",
 	"ui_editor_user_properties_select_unused_warning" : "This property is not being used by the wallpaper.",
