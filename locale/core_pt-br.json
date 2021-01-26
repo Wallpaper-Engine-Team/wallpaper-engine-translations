@@ -1,5 +1,6 @@
 {
 	"core_tray_change_wallpaper": "Alterar papel de parede",
+	"core_tray_browse_workshop": "Explorar Oficina",
 	"core_tray_create_wallpaper": "Criar papel de parede",
 	"core_tray_settings": "Configurações",
 	"core_tray_take_screenshot": "Capturar tela",
@@ -14,6 +15,7 @@
 	"core_tray_next_wallpaper": "Próximo papel de parede",
 	"core_tray_mute": "Silenciar",
 	"core_tray_unmute": "Remover silêncio",
+	"core_tray_playlist_prefix": "Lista de reprodução:",
 	"core_balloon_info": "Wallpaper Engine minimizado para a bandeja. Dê um duplo clique no ícone da bandeja para selecionar um papel de parede.",
 	"core_balloon_desktop_window_error": "Falha ao preparar área de trabalho para papel de parede animado.",
 	"core_balloon_video_error": "Ocorreu um erro de vídeo do Windows: {{err}}. Clique para obter ajuda.",
