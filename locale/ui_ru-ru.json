@@ -607,6 +607,7 @@
 	"ui_settings_advanced_reset_config": "Сброс конфигурации:",
 	"ui_settings_advanced_reset_config_button": "СБРОСИТЬ",
 	"ui_settings_advanced_reset_config_modal_header": "Подтвердите сброс",
+	"ui_settings_advanced_reset_config_modal_body": "<b>Все</b> приложение будет сброшено, <b>все</b> настройки будут удалены, а Wallpaper Engine потребуется перезапустить.",
 	"ui_settings_video_audio_label": "Вывод звука:",
 	"ui_settings_video_hardware_acceleration_label": "Аппаратное ускорение видео:",
 	"ui_settings_process_priority": "Приоритет процесса:",
