@@ -1,5 +1,6 @@
 {
 	"core_tray_change_wallpaper": "เปลี่ยนวอลเปเปอร์",
+	"core_tray_browse_workshop": "เรียกดูเวิร์กชอป",
 	"core_tray_create_wallpaper": "สร้างวอลเปเปอร์",
 	"core_tray_settings": "การตั้งค่า",
 	"core_tray_take_screenshot": "จับภาพหน้าจอ",
@@ -14,6 +15,7 @@
 	"core_tray_next_wallpaper": "วอลเปเปอร์ถัดไป",
 	"core_tray_mute": "ปิดเสียง",
 	"core_tray_unmute": "เลิกปิดเสียง",
+	"core_tray_playlist_prefix": "เพลย์ลิสต์:",
 	"core_balloon_info": "Wallpaper Engine ถูกย่อลงไปในแถบงาน ดับเบิลคลิกไอคอนที่แถบงานเพื่อเลือกวอลเปเปอร์",
 	"core_balloon_desktop_window_error": "การจัดเตรียมเดสก์ทอปสำหรับวอลเปเปอร์ภาพเคลื่อนไหวล้มเหลว",
 	"core_balloon_video_error": "เกิดข้อผิดพลาดที่วิดีโอของ Windows {{err}} คลิกที่นี่เพื่อขอความช่วยเหลือ",
