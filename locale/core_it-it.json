@@ -1,5 +1,6 @@
 {
 	"core_tray_change_wallpaper": "Cambia sfondo",
+	"core_tray_browse_workshop": "Sfoglia Workshop",
 	"core_tray_create_wallpaper": "Crea sfondo",
 	"core_tray_settings": "Impostazioni",
 	"core_tray_take_screenshot": "Cattura schermata",
@@ -14,6 +15,7 @@
 	"core_tray_next_wallpaper": "Sfondo successivo",
 	"core_tray_mute": "Disattiva audio",
 	"core_tray_unmute": "Riattiva audio",
+	"core_tray_playlist_prefix": "Playlist:",
 	"core_balloon_info": "Wallpaper Engine è ora nella barra delle applicazioni. Fai doppio clic sull'icona per selezionare uno sfondo.",
 	"core_balloon_desktop_window_error": "Preparazione del desktop per lo sfondo live non riuscita.",
 	"core_balloon_video_error": "Si è verificato un errore video Windows {{err}}. Fai clic qui per ricevere assistenza.",
@@ -27,6 +29,7 @@
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engine ha bisogno che Aero sia abilitato per funzionare. Consentire a Wallpaper Engine di abilitare Aero ora?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine non può funzionare con un tema ad alto contrasto. Consentire a Wallpaper Engine di provare a reimpostare il tema ora?",
 	"core_msgbox_prompt_high_contrast_was_enabled": "Windows ha impostato un tema ad alto contrasto che non permette a Wallpaper Engine di funzionare.",
+	"core_msgbox_high_contrast_white": "Hai attivato la modalità a contrasto elevato di Windows in combinazione con il tema bianco a contrasto elevato. Il tema bianco a contrasto elevato impedisce a Wallpaper Engine di attivare uno sfondo dinamico per via di come è stato implementato in Windows.\n\nApri le impostazioni a contrasto elevato di Windows e modifica il tema a contrasto elevato o disattiva la modalità a contrasto elevato per usufruire di Wallpaper Engine.",
 	"core_msgbox_dwm_disabled": "La composizione Desktop è disabilitata.",
 	"core_msgbox_aero_denied": "Wallpaper Engine non può funzionare senza Windows Aero e quindi ora verrà chiuso.",
 	"core_msgbox_aero_failure": "Impossibile abilitare Aero.\n\nSembra che Windows stia impedendo l'abilitazione di Aero. Sfortunatamente, è un requisito importante e Wallpaper Engine non può funzionare senza.\n\nProva ad abilitare Aero direttamente nelle opzioni del tema di Windows e riavvia Wallpaper Engine.",
