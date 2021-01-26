@@ -59,6 +59,7 @@
 	"ui_browse_advertise_explore": "Cliquez ici pour découvrir de nouveaux fonds d'écran via le Workshop !",
 	"ui_browse_advertise_workshop": "Cliquez ici afin de parcourir le Workshop !",
 	"ui_browse_no_service_header": "Services [[[Platform]]] indisponibles",
+	"ui_browse_no_service_body": "Les serveurs du <b>Workshop [[[Platform]]]</b> sont actuellement indisponibles. Il ne s'agit pas d'un problème relatif à Wallpaper Engine ou à votre ordinateur. Veuillez patienter quelques heures et réessayer .<br/><br/>Les serveurs [[[Platform]]] rencontrent un problème et l'équipe [[[Platform]]] met tout en œuvre pour rétablir la situation.",
 	"ui_browse_reload": "Recharger",
 	"ui_browse_clear_filters": "Effacer les filtres",
 	"ui_browse_preset_filter_notice": "Consultation des presets pour : {{title}}",
