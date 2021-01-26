@@ -56,6 +56,8 @@
 	"ui_browse_header_option_settings": "Paramètres",
 	"ui_browse_header_option_monitors": "Écrans",
 	"ui_browse_header_option_editor": "Éditeur",
+	"ui_browse_advertise_explore": "Cliquez ici pour découvrir de nouveaux fonds d'écran via le Workshop !",
+	"ui_browse_advertise_workshop": "Cliquez ici afin de parcourir le Workshop !",
 	"ui_browse_no_service_header": "Services [[[Platform]]] indisponibles",
 	"ui_browse_reload": "Recharger",
 	"ui_browse_clear_filters": "Effacer les filtres",
