@@ -29,6 +29,7 @@
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engine membutuhkan fitur Windows Aero pada Windows 7 agar dapat bekerja. Aktifkan fitur Windows Aero sekarang ?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine tidak dapat berjalan dengan tema 'Kontras Tinggi'. Atur ulang tema sekarang ?",
 	"core_msgbox_prompt_high_contrast_was_enabled": "Windows menerapkan tema 'Kontras Tinggi' dimana Wallpaper Engine tidak diizinkan berjalan.",
+	"core_msgbox_high_contrast_white": "Anda mengaktifkan mode kontras tinggi di Windows dalam kombinasi dengan tema kontras tinggi putih. Tema kontras tinggi putih mencegah Wallpaper Engine menyetel wallpaper dinamis dikarenakan struktur sistem tema yang dibangun didalam Windows (Struktur sistem inti tema tidak bisa dikesampingkan karena terikat dalam fitur inti Windows).\n\nBuka pengaturan kontras tinggi Windows dan lakukan antara mengubah tema kontras tinggi atau menonaktifkan mode kontras tinggi agar dapat menggunakan Wallpaper Engine.",
 	"core_msgbox_dwm_disabled": "Komposisi desktop dinonaktifkan.",
 	"core_msgbox_aero_denied": "Wallpaper Engine tidak dapat bekerja tanpa fitur Windows Aero. Wallpaper Engine akan dikeluarkan sekarang.",
 	"core_msgbox_aero_failure": "Gagal mengaktifkan fitur Windows Aero.\n\nSepertinya Windows 7 mencegah Windows Aero diaktifkan, sayangnya hal tersebut adalah syarat utama untuk Wallpaper Engine agar dapat berjalan.\n\nCobalah untuk mengaktifkan fitur Windows Aero di pengaturan tema Windows 7 dan jalankan Wallpaper Engine nya kembali.",
