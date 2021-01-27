@@ -664,7 +664,6 @@
 	"ui_settings_video_framework_prefer_native": "Préférer Natif",
 	"ui_settings_use_safe_mode": "Utiliser le démarrage en sécurité :",
 	"ui_settings_disable_slideshow": "Supprimer l'atténuation du fond d'écran Windows :",
-	"ui_settings_disable_slideshow_tip": "Lorsque cette option est activée, Wallpaper Engine essaye de supprimer l'effet de fondu que Windows utilise par défaut lors du passage aux fonds d'écran Windows et de la connexion à Windows. Supprimer ce processus Windows n'est pas totalement possible et le fondu peut être visible pendant un bref instant.",
 	"ui_settings_ui_hardware_acceleration": "Accélération matérielle de l'IU :",
 	"ui_settings_show_tray_icon": "Afficher l'icône de barre d'état système :",
 	"ui_settings_ui_performance": "Qualité de l'I.U. :",
