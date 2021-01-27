@@ -1,5 +1,6 @@
 {
 	"core_tray_change_wallpaper": "更换壁纸",
+	"core_tray_browse_workshop": "浏览创意工坊",
 	"core_tray_create_wallpaper": "创建壁纸",
 	"core_tray_settings": "设置",
 	"core_tray_take_screenshot": "截屏",
@@ -14,6 +15,7 @@
 	"core_tray_next_wallpaper": "下一张壁纸",
 	"core_tray_mute": "静音",
 	"core_tray_unmute": "取消静音",
+	"core_tray_playlist_prefix": "播放列表：",
 	"core_balloon_info": "Wallpaper Engine 已最小化到托盘区域。双击托盘图标选择一张壁纸。",
 	"core_balloon_desktop_window_error": "动态壁纸的桌面准备过程失败。",
 	"core_balloon_video_error": "Windows 视频出现错误 {{err}}。点此获取帮助。",
