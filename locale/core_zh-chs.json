@@ -29,6 +29,7 @@
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engine 需要启用 Aero 才能正常工作。需要 Wallpaper Engine 立即启用 Aero 吗？",
 	"core_msgbox_prompt_aero_win8": "使用“高对比度”主题时，Wallpaper Engine 无法正常运行。需要 Wallpaper Engine 立即重置主题吗？",
 	"core_msgbox_prompt_high_contrast_was_enabled": "Windows 已应用“高对比度”主题，这会使 Wallpaper Engine 无法正常工作。",
+	"core_msgbox_high_contrast_white": "您已在 Windows 中结合白色高对比度主题启用了高对比度模式。白色高对比度主题内置到 Windows 的方式使 Wallpaper Engine 无法设置动态壁纸。\n\n打开 Windows 高对比度设置，然后更改高对比度主题或关闭高对比度模式才能使用 Wallpaper Engine。",
 	"core_msgbox_dwm_disabled": "桌面构图已禁用。",
 	"core_msgbox_aero_denied": "Wallpaper Engine 必须与 Windows Aero 配合使用才能正常工作，因而即将退出。",
 	"core_msgbox_aero_failure": "无法启用 Aero。\n\nWindows 似乎正在阻止启用 Aero，但 Wallpaper Engine 必须与 Aero 配合使用才能正常工作。\n\n请尝试直接在 Windows 主题选项中启用 Aero，然后重新启动 Wallpaper Engine。",
