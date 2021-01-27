@@ -664,7 +664,6 @@
 	"ui_settings_video_framework_prefer_native": "Native",
 	"ui_settings_use_safe_mode": "Использовать безопасный запуск:",
 	"ui_settings_disable_slideshow": "Убрать затухание обоев Windows:",
-	"ui_settings_disable_slideshow_tip": "Когда эта опция включена, Wallpaper Engine уберет эффект затухания обоев, который используется в Windows по умолчанию при переключении обоев Windows и при входе в Windows. Полное удаление этого поведения Windows не возможно, и затухание все еще возникает на короткое время.",
 	"ui_settings_ui_hardware_acceleration": "Аппаратное ускорение пользовательского интерфейса:",
 	"ui_settings_show_tray_icon": "Отображать значок в области уведомлений:",
 	"ui_settings_ui_performance": "Качество интерфейса:",
