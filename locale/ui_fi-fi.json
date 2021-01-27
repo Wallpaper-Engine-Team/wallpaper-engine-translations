@@ -664,7 +664,6 @@
 	"ui_settings_video_framework_prefer_native": "Suosi natiivia",
 	"ui_settings_use_safe_mode": "Käytä turvallista käynnistystä:",
 	"ui_settings_disable_slideshow": "Poista Windows-taustakuvan häivytys:",
-	"ui_settings_disable_slideshow_tip": "Kun tämä asetus on käytössä, Wallpaper Engine yrittää poistaa taustakuvan hämärtymistehosteen, jota Windows käyttää oletusarvoisesti Windows-taustakuvan vaihtamisen tai Windowsiin kirjautumisen yhteydessä. Tämän Windows-toiminnon poistaminen ei ole kokonaan mahdollista, ja hämärtyminen voi näkyä asetuksesta huolimatta hetken aikaa.",
 	"ui_settings_ui_hardware_acceleration": "Käyttöliittymän laitteistokiihdytys:",
 	"ui_settings_show_tray_icon": "Näytä tehtäväpalkin kuvake:",
 	"ui_settings_ui_performance": "Käyttöliittymän laatu:",
