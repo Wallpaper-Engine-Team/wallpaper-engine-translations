@@ -664,7 +664,6 @@
 	"ui_settings_video_framework_prefer_native": "ترجیحاً بومی",
 	"ui_settings_use_safe_mode": "از شروع ایمن استفاده کنید:",
 	"ui_settings_disable_slideshow": "حذف محو کردن تصویر زمینه ویندوز:",
-	"ui_settings_disable_slideshow_tip": "وقتی این گزینه فعال باشد، برنامه تلاش خواهد کرد تا جلوه محو تصویر زمینه را که ویندوز به طور پیش فرض هنگام تعویض تصاویر زمینه ویندوز و ورود به ویندوز استفاده می کند، حذف کند. حذف این رفتار ویندوز کاملاً ممکن نیست و محو شدن همچنان برای لحظه ای کوتاه چشمک می زند.",
 	"ui_settings_ui_hardware_acceleration": "شتاب سخت افزاری رابط کاربری:",
 	"ui_settings_show_tray_icon": "نمایش آیکون سینی:",
 	"ui_settings_ui_performance": "کیفیت رابط:",
