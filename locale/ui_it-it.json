@@ -664,6 +664,7 @@
 	"ui_settings_video_framework_prefer_native": "Preferisco Nativo",
 	"ui_settings_use_safe_mode": "Usa avvio sicuro:",
 	"ui_settings_disable_slideshow": "Rimuovi dissolvenza sfondo di Windows:",
+	"ui_settings_disable_slideshow_tip": "Quando questa opzione è attiva, Wallpaper Engine tenterà di rimuovere l'effetto sfocatura che Windows utilizza di default al cambio di uno sfondo o quando si effettua l'accesso a Windows. È impossibile rimuovere del tutto questo processo, pertanto la sfocatura potrebbe comunque tornare visibile per un breve istante.",
 	"ui_settings_ui_hardware_acceleration": "Accelerazione hardware dell'IU:",
 	"ui_settings_show_tray_icon": "Mostra icona nell'area di notifica:",
 	"ui_settings_ui_performance": "Qualità IU:",
