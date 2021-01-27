@@ -701,7 +701,7 @@
 	"ui_settings_video_framework_prefer_native" : "Prefer Native",
 	"ui_settings_use_safe_mode" : "Use safe start:",
 	"ui_settings_disable_slideshow" : "Remove Windows wallpaper fade:",
-	"ui_settings_disable_slideshow_tip" : "When this option is enabled, Wallpaper Engine will attempt to remove the wallpaper fade effect that Windows uses by default when switching Windows wallpapers and when logging into Windows. Removing this Windows behavior is not perfectly possible and the fade made still flash up for a brief moment.",
+	"ui_settings_disable_slideshow_tip" : "When this option is enabled, Wallpaper Engine will attempt to remove the wallpaper fade effect that Windows uses by default when switching Windows wallpapers and when logging into Windows. Removing this Windows behavior is not perfectly possible and the fade effect may still appear for a brief moment.",
 	"ui_settings_ui_hardware_acceleration" : "UI hardware acceleration:",
 	"ui_settings_show_tray_icon" : "Show tray icon:",
 	"ui_settings_ui_performance" : "UI quality:",
