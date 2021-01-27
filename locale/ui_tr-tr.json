@@ -639,6 +639,7 @@
 	"ui_settings_advanced_reset_config": "Yapılandırmayı sıfırla:",
 	"ui_settings_advanced_reset_config_button": "SIFIRLA",
 	"ui_settings_advanced_reset_config_modal_header": "Sıfırlamayı Onayla",
+	"ui_settings_advanced_reset_config_modal_body": "<b>Bütün</b> uygulama sıfırlanacak, ayarlarınızın <b>tüm</b> kaldırılacak ve Wallpaper Engine'in yeniden başlatılması gerekecektir.",
 	"ui_settings_video_audio_label": "Ses çıkışı:",
 	"ui_settings_video_hardware_acceleration_label": "Video donanım hızlandırma:",
 	"ui_settings_process_priority": "İşlem önceliği:",
