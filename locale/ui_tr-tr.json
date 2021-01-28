@@ -867,6 +867,7 @@
 	"ui_editor_publish_modal_snapshot_not_square": "Görüntü kare değil.",
 	"ui_editor_publish_modal_snapshot_resolution_too_high": "Lütfen {{size}} pikselden büyük olmayan bir ön izleme görüntüsü kullanın.",
 	"ui_editor_publish_modal_info_asset_reuse_header": "Kaynak Paylaşım Anlaşması",
+	"ui_editor_publish_modal_info_asset_reuse_body": "[[[Platform]]] Atölye'ye bir varlık yükleyerek, diğer kullanıcıların varlığınızın değiştirilmiş sürümlerini size bildirimde bulunmaksızın yeniden kullanabileceğini ve muhtemelen yeniden yükleyebileceğini kabul etmiş olursunuz. Silinen varlıklar, önceden oluşturulmuş duvar kağıtlarında kalmaya devam edecektir.",
 	"ui_editor_publish_assets_modal_header_alert": "Duvar kâğıdı değil bir <b>Kaynak</b> yayınlamak üzeresiniz. Lütfen bu menü aracılığıyla duvar kâğıtlarının tamamını yayınlamayın. Bir duvar kâğıdı yayınlamak istiyorsanız <b>bu mesaja tıklayın</b>.",
 	"ui_editor_publish_assets_modal_header": "Varlıkları Atölyede Yayınla",
 	"ui_editor_publish_assets_modal_select_asset_type": "Lütfen Atölye'de ne tür varlıkları paylaşmak istediğinizi seçin:",
