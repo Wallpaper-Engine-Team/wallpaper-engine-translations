@@ -10,6 +10,8 @@
 	"ui_select": "选择",
 	"ui_create": "创建",
 	"ui_next": "下一步",
+	"ui_discard": "放弃",
+	"ui_save": "保存",
 	"ui_show_details": "详细信息",
 	"ui_modal_updaterequired_title": "Wallpaper Engine 需要更新",
 	"ui_modal_updaterequired_body": "请关闭 Wallpaper Engine（右键单击托盘图标选择退出），然后通过 [[[Platform]]] 重新启动 Wallpaper Engine 来获取最新的更新。如果该警告仍然出现，请通过 [[[Platform]]] 验证应用程序文件。<br/><br/>应用程序版本：<b>{{callerVersion}}</b>，UI 版本：<b>{{appVersion}}</b>",
