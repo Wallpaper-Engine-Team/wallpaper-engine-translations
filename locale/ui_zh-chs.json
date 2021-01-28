@@ -672,6 +672,7 @@
 	"ui_settings_ui_performance_medium": "中 - 减弱效果",
 	"ui_settings_ui_performance_low": "低 - 禁用所有效果",
 	"ui_settings_restart_after_crash": "崩溃后重新启动",
+	"ui_settings_restart_after_crash_hint": "此选项将使 Wallpaper Engine 在崩溃后立即重新启动，并在主应用程序中禁用崩溃通知。<br/><br/>除非别无选择，否则绝对不要启用此选项。<br/><br/>Wallpaper Engine 本身非常稳定，正常情况下应该不会崩溃。此选项存在的唯一目的是，防止由显卡驱动程序故障导致的不稳定系统崩溃，或由侵略性软件导致的 Wallpaper Engine 崩溃。<br/><br/><b>您可以通过按住 ESCAPE 键来中断自动重启。</b>",
 	"ui_settings_copyright": "保留所有权利。",
 	"ui_settings_thirdparty": "第三方通告",
 	"ui_settings_highpriority_warning_header": "高优先级信息",
