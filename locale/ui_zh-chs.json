@@ -1667,6 +1667,8 @@
 	"ui_editor_properties_mode": "模式",
 	"ui_editor_properties_model": "模型",
 	"ui_editor_properties_monochrome": "单色",
+	"ui_editor_properties_move_bone_behind_parent": "将骨骼移至父项后面",
+	"ui_editor_properties_move_bone_in_front_parent": "将骨骼移至父项前面",
 	"ui_editor_properties_move_bone_to_front": "将肢体移到前面",
 	"ui_editor_properties_move_bone_to_back": "将肢体移到后面",
 	"ui_editor_properties_multiply": "镶嵌",
