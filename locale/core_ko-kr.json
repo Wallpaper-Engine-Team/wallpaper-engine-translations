@@ -29,6 +29,7 @@
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engine이 작동하기 위해서는 Aero 옵션을 켜야합니다. 지금 Aero 옵션을 켜시겠습니까?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine은 '고대비'의 테마에서 실행되지 않습니다. 지금 테마를 초기화하겠습니까?",
 	"core_msgbox_prompt_high_contrast_was_enabled": "방금 Windows에서 Wallpaper Engine에서는 사용할 수 없는 '고대비' 테마를 적용했습니다.",
+	"core_msgbox_high_contrast_white": "Windows 고대비 모드를 고대비 흰색 테마로 사용 중입니다. 고대비 흰색 테마는 Wallpaper Engine이 동적 배경화면을 설정할 수 없도록 설계되어 있습니다.\n\nWallpaper Engine을 사용하려면 Windows 고대비 설정을 열어 고대비 테마를 변경하거나 고대비 모드를 끄십시오.",
 	"core_msgbox_dwm_disabled": "바탕화면 구성이 비활성화되었습니다.",
 	"core_msgbox_aero_denied": "Wallpaper Engine은 Windows Aero 없이 사용할 수 없으므로 종료됩니다.",
 	"core_msgbox_aero_failure": "Aero 활성화에 실패했습니다.\n\nWindows에서 Aero 활성화를 차단하는 것 같습니다. 유감스럽게도, 이는 중요한 사항이며 충족하지 못 할 경우 Wallpaper Engine을 사용할 수 없습니다.\n\nWindows 테마 옵션에서 직접 Aero 사용을 시도한 후 Wallpaper Engine을 다시 시작하십시오.",
