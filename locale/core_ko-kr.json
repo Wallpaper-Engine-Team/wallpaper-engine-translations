@@ -1,5 +1,6 @@
 {
 	"core_tray_change_wallpaper": "배경화면 변경",
+	"core_tray_browse_workshop": "창작마당 탐색",
 	"core_tray_create_wallpaper": "배경화면 제작",
 	"core_tray_settings": "설정",
 	"core_tray_take_screenshot": "스크린샷 찍기",
@@ -14,6 +15,7 @@
 	"core_tray_next_wallpaper": "다음 배경화면",
 	"core_tray_mute": "음소거",
 	"core_tray_unmute": "음소거 해제",
+	"core_tray_playlist_prefix": "재생목록:",
 	"core_balloon_info": "Wallpapaer Engine을 트레이로 최소화시킵니다. 배경화면을 선택하려면 트레이 아이콘을 두 번 클릭하십시오.",
 	"core_balloon_desktop_window_error": "라이브 배경화면을 구동하기 위한 바탕화면을 준비하지 못했습니다.",
 	"core_balloon_video_error": "Windows 비디오 오류 발생 {{err}}. 도움말은 여기를 클릭하십시오.",
