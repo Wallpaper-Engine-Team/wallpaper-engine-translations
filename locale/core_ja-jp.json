@@ -15,6 +15,7 @@
 	"core_tray_next_wallpaper": "次の壁紙",
 	"core_tray_mute": "ミュート",
 	"core_tray_unmute": "ミュート解除",
+	"core_tray_playlist_prefix": "プレイリスト:",
 	"core_balloon_info": "トレイに最小化されたWallpaper Engineトレイアイコンをダブルクリックし壁紙を選択します。",
 	"core_balloon_desktop_window_error": "ライブ壁紙のデスクトップの準備に失敗しました。",
 	"core_balloon_video_error": "ビデオエラーが発生 {{err}}. ヘルプのためにクリックしてください。",
