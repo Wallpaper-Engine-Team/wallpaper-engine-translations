@@ -29,6 +29,7 @@
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engine 需要啟用 Aero 才能運作。要現在啟用 Aero 嗎?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine 無法在「高對比」佈景主題下執行。要讓 Wallpaper Engine 現在重設佈景主題嗎?",
 	"core_msgbox_prompt_high_contrast_was_enabled": "Wallpaper Engine 無法運作，因為 Windows 已套用「高對比」主題。",
+	"core_msgbox_high_contrast_white": "您已在 Windows 啟用高對比模式，且搭配白色高對比模式。由於其內建至 Windows 的機制，白色高對比主題會防止 Wallpaper Engine 設定動態桌布。\n\n如要使用 Wallpaper Engine，請開啟 Windows 高對比設定，接著選擇變更高對比主題或是關閉高對比模式。",
 	"core_msgbox_dwm_disabled": "桌面轉譯緩衝處理已停用。",
 	"core_msgbox_aero_denied": "Wallpaper Engine 無法在 Windows Aero 未啟用的狀態下運作，因此現在將結束程式。",
 	"core_msgbox_aero_failure": "無法啟用 Aero。\n\nWindows 導致 Aero 無法啟用，但 Aero 為重要需求，若未啟用，Wallpaper Engine 將無法運作。\n\n請嘗試在 Windows 佈景主題選項中直接啟用 Aero, 然後再次啟動 Wallpaper Engine。",
