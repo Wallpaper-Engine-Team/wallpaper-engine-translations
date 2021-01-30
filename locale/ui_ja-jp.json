@@ -639,6 +639,7 @@
 	"ui_settings_advanced_reset_config": "設定リセット",
 	"ui_settings_advanced_reset_config_button": "リセット",
 	"ui_settings_advanced_reset_config_modal_header": "リセット確認",
+	"ui_settings_advanced_reset_config_modal_body": " アプリケーション<b>全体</b>がリセットされます。<b>すべての</b>設定が削除され、Wallpaper Engineの再起動が必要になります。",
 	"ui_settings_video_audio_label": "ビデオの音声を出力",
 	"ui_settings_video_hardware_acceleration_label": "ビデオハードウェアアクセラレーション",
 	"ui_settings_process_priority": "プロセス優先順位",
