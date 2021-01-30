@@ -664,6 +664,7 @@
 	"ui_settings_video_framework_prefer_native": "Preferir Nativo",
 	"ui_settings_use_safe_mode": "Usar inicialização segura:",
 	"ui_settings_disable_slideshow": "Remover esmaecimento de papel de parede do sistema:",
+	"ui_settings_disable_slideshow_tip": "Quando essa opção estiver habilitada, Wallpaper Engine tentará remover o efeito de desvanecimento do papel de parede que o Windows utiliza por padrão ao trocar entre papéis de parede e ao fazer logon no Windows. Não é possível remover esse comportamento do Windows perfeitamente e o efeito de desvanecimento ainda aparecerá brevemente.",
 	"ui_settings_ui_hardware_acceleration": "Aceleração por hardware da IU:",
 	"ui_settings_show_tray_icon": "Exibir ícone da bandeja:",
 	"ui_settings_ui_performance": "Qualidade da interface:",
