@@ -1,5 +1,6 @@
 {
 	"core_tray_change_wallpaper": "Skift Baggrund",
+	"core_tray_browse_workshop": "Gennemse Værksted",
 	"core_tray_create_wallpaper": "Opret Baggrund",
 	"core_tray_settings": "Indstillinger",
 	"core_tray_take_screenshot": "Tag Skærmbillede",
@@ -14,6 +15,7 @@
 	"core_tray_next_wallpaper": "Næste Baggrund",
 	"core_tray_mute": "Stum",
 	"core_tray_unmute": "Dæmp fra",
+	"core_tray_playlist_prefix": "Afspilningsliste:",
 	"core_balloon_info": "Wallpaper Engine minimeret til din proceslinje. Dobbelt klik proceslinje-ikonet for at sætte en baggrund.",
 	"core_balloon_desktop_window_error": "Mislykkede ved forberedelse at levende baggrund på skrivebordet.",
 	"core_balloon_video_error": "Video fejl opstået {{err}}. Klik på mig for hjælp.",
