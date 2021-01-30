@@ -664,6 +664,7 @@
 	"ui_settings_video_framework_prefer_native": "ต้องการ Native",
 	"ui_settings_use_safe_mode": "ใช้การเริ่มต้นอย่างปลอดภัย:",
 	"ui_settings_disable_slideshow": "ลบความจางของวอลเปเปอร์ Windows:",
+	"ui_settings_disable_slideshow_tip": "เมื่อเปิดใช้งานตัวเลือกนี้ Wallpaper Engine จะพยายามลบเอฟเฟกต์การเฟดออกจากวอลเปเปอร์ที่ Windows ใช้เป็นค่าเริ่มต้นเมื่อสลับระหว่างวอลเปเปอร์และเมื่อเข้าสู่ระบบ Windows คุณไม่สามารถลบลักษณะการทำงานนี้ออกจาก Windows ได้โดยสมบูรณ์ และเอฟเฟกต์การเฟดจะยังปรากฏขึ้นเป็นช่วงสั้น ๆ",
 	"ui_settings_ui_hardware_acceleration": "การเร่งฮาร์ดแวร์ UI:",
 	"ui_settings_show_tray_icon": "แสดงไอคอนที่แถบงาน:",
 	"ui_settings_ui_performance": "คุณภาพ UI:",
