@@ -29,6 +29,7 @@
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engine er nød til at aktivere Aero for at virke. Aktiver Aero nu?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine kan ikke køre med et 'højt kontrast' tema. Nulstil tema nu?",
 	"core_msgbox_prompt_high_contrast_was_enabled": "Windows har lige anvendt et 'høj kontrast' tema som ikke tillader Wallpaper Engine at arbejde.",
+	"core_msgbox_high_contrast_white": "Du har aktiveret tilstand med høj kontrast i Windows i kombination med det hvide tema med høj kontrast. Det hvide tema med høj kontrast forhindrer Wallpaper Engine i at indstille en dynamisk skrivebordsbaggrund grundet måden den er indbygget i Windows på.\n\nÅbn indstillingerne for høj kontrast i Windows og skift enten temaet med høj kontrast eller sluk for tilstand med høj kontrast, for at kunne bruge Wallpaper Engine.",
 	"core_msgbox_dwm_disabled": "Skrivebords komposition er slået fra.",
 	"core_msgbox_aero_denied": "Wallpaper Engine kan ikke virke uden Aero og vil nu lukke ned.",
 	"core_msgbox_aero_failure": "Kunne ikke aktivere Aero.\n\nDet ser ud til, at Windows forhindrer Aero at blive aktiveret, desværre er det et vigtigt krav og Wallpaper Engine kan ikke fungere uden det.\n\nPrøv at aktivere Aero direkte i Windows-temaindstillingerne og start Wallpaper Engine igen.",
