@@ -1,5 +1,6 @@
 {
 	"core_tray_change_wallpaper": "更改桌布",
+	"core_tray_browse_workshop": "瀏覽工作坊",
 	"core_tray_create_wallpaper": "建立桌布",
 	"core_tray_settings": "設定",
 	"core_tray_take_screenshot": "擷取螢幕畫面",
@@ -14,6 +15,7 @@
 	"core_tray_next_wallpaper": "下一個桌布",
 	"core_tray_mute": "靜音",
 	"core_tray_unmute": "取消靜音",
+	"core_tray_playlist_prefix": "播放清單：",
 	"core_balloon_info": "Wallpaper Engine 已最小化至您的系統匣。按兩下系統匣圖示以選取桌布。",
 	"core_balloon_desktop_window_error": "動態桌布的桌面準備失敗。",
 	"core_balloon_video_error": "Windows 視訊發生錯誤 {{err}}。請按一下這裡以取得說明。",
