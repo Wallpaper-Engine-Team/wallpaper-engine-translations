@@ -1,5 +1,6 @@
 {
 	"core_tray_change_wallpaper": "Змінити шпалери",
+	"core_tray_browse_workshop": "Перегляд Майстерні",
 	"core_tray_create_wallpaper": "Створити шпалери",
 	"core_tray_settings": "Налаштування",
 	"core_tray_take_screenshot": "Зробити скріншот",
@@ -14,6 +15,7 @@
 	"core_tray_next_wallpaper": "Наступні шпалери",
 	"core_tray_mute": "Вимк. звук",
 	"core_tray_unmute": "Увімк. звук",
+	"core_tray_playlist_prefix": "Список відтворення:",
 	"core_balloon_info": "Wallpaper Engine ховається у трей. Два рази натисніть на іконку в треї, що б вибрати шпалери.",
 	"core_balloon_desktop_window_error": "Помилка в підготовці робочого стола для живих шпалер.",
 	"core_balloon_video_error": "Помилка відкриття відео {{err}}. Клацніть тут, щоб отримати допомогу.",
