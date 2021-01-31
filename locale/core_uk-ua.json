@@ -29,6 +29,7 @@
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engine вимагає для роботи увімкнений режим Aero. Увімкнути режим Aero?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine несумісний з режимом «висока контрастність». Скинути тему?",
 	"core_msgbox_prompt_high_contrast_was_enabled": "Windows щойно застосувала тему «висока контрастність», яка не дозволяє Wallpaper Engine працювати.",
+	"core_msgbox_high_contrast_white": "Ви ввімкнули режим високої контрастності у Windows у комбінації з білою висококонтрастною темою. Біла висококонтрастна тема заважає Wallpaper Engine встановити динамічні шпалери через те, як вона вбудована у Windows.\n\nДля використання Wallpaper Engine відкрийте у Windows налаштування високої контрастності та або змініть висококонтрастну тему, або вимкніть режим високої контрастності.",
 	"core_msgbox_dwm_disabled": "Композиція робочого столу вимкнена.",
 	"core_msgbox_aero_denied": "Wallpaper Engine не може працювати без Windows Aero і тому зараз закриється.",
 	"core_msgbox_aero_failure": "Не вдалося увімкнути Aero.\n\nЗдається, Windows не дає увімкнути Aero, але на жаль це важлива вимога і Wallpaper Engine не може працювати без неї.\n\nСпробуйте увімкнути Aero напряму у налаштуваннях тем Windows, і знову запустіть Wallpaper Engine.",
