@@ -1,3 +1,5 @@
 {
-    "launch_option01": "Wallpaper Engine 64-bit (Może używać więcej RAM)"
+    "launch_option01": "Wallpaper Engine 64-bit (Może używać więcej RAM)",
+    "launch_option02": "interfejs użytkownika w trybie awaryjnym",
+    "launch_option03": "wyszukiwanie konfliktów systemowych"
 }

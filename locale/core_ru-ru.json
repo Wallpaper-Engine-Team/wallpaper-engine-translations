@@ -1,5 +1,6 @@
 {
 	"core_tray_change_wallpaper": "Сменить обои",
+	"core_tray_browse_workshop": "Открыть Мастерскую",
 	"core_tray_create_wallpaper": "Создать обои",
 	"core_tray_settings": "Настройки",
 	"core_tray_take_screenshot": "Сделать скриншот",
@@ -14,6 +15,7 @@
 	"core_tray_next_wallpaper": "Следующие обои",
 	"core_tray_mute": "Выкл. звук",
 	"core_tray_unmute": "Вкл. звук",
+	"core_tray_playlist_prefix": "Плейлист:",
 	"core_balloon_info": "Чтобы выбрать обои щёлкните два раза по значку Wallpaper Engine в области уведомлений.",
 	"core_balloon_desktop_window_error": "Ошибка подготовки рабочего стола к живым обоям.",
 	"core_balloon_video_error": "Произошла ошибка видео: {{err}}. Нажмите сюда для получения справки.",
@@ -27,6 +29,7 @@
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engine требует для работы включенный режим Aero. Включить Aero сейчас?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine не может быть запущен вместе с темой \"Высокая контрастность\". Сбросить тему сейчас?",
 	"core_msgbox_prompt_high_contrast_was_enabled": "Windows использует тему \"Высокий контраст\", что препятствует работе Wallpaper Engine.",
+	"core_msgbox_high_contrast_white": "Вы включили режим высокой контрастности в Windows в сочетании с темой «Контрастная белая». Эта тема не позволяет Wallpaper Engine устанавливать динамические обои из-за их способа встраивания в Windows.\n\nОткройте настройки высокой контрастности Windows и измените тему с высокой контрастностью, либо выключите режим высокой контрастности, чтобы использовать Wallpaper Engine.",
 	"core_msgbox_dwm_disabled": "Диспетчер рабочего стола отключён.",
 	"core_msgbox_aero_denied": "Wallpaper Engine не может работать без Windows Aero и будет отключен.",
 	"core_msgbox_aero_failure": "Не удалось включить Aero.\n\nПохоже, Windows препятствует включению Aero. К сожалению, это важная функция для работы Wallpaper Engine, без которой приложение не будет работать.\n\nПопробуйте включить Aero напрямую в параметрах тем Windows и запустите Wallpaper Engine снова.",

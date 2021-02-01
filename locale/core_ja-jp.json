@@ -1,5 +1,6 @@
 {
 	"core_tray_change_wallpaper": "壁紙変更",
+	"core_tray_browse_workshop": "ワークショップをブラウズ",
 	"core_tray_create_wallpaper": "壁紙作成",
 	"core_tray_settings": "設定",
 	"core_tray_take_screenshot": "スクリーンショット撮影",
@@ -14,6 +15,7 @@
 	"core_tray_next_wallpaper": "次の壁紙",
 	"core_tray_mute": "ミュート",
 	"core_tray_unmute": "ミュート解除",
+	"core_tray_playlist_prefix": "プレイリスト:",
 	"core_balloon_info": "トレイに最小化されたWallpaper Engineトレイアイコンをダブルクリックし壁紙を選択します。",
 	"core_balloon_desktop_window_error": "ライブ壁紙のデスクトップの準備に失敗しました。",
 	"core_balloon_video_error": "ビデオエラーが発生 {{err}}. ヘルプのためにクリックしてください。",
@@ -27,6 +29,7 @@
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engineは、動作するためにAeroを有効にする必要があります。今すぐAeroを有効にしますか?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engineは、「高コントラスト」のテーマで実行することはできません。 すぐにテーマをリセットしますか?",
 	"core_msgbox_prompt_high_contrast_was_enabled": "Windowsは壁紙エンジンの動作を許可しない 'ハイコントラスト'テーマを適用しました。",
+	"core_msgbox_high_contrast_white": "白のハイコントラストテーマと組み合わせてWindowsのハイコントラストモードが有効になっています。白のハイコントラストテーマでは、Windowsに組み込まれた状態により、Wallpaper Engineがダイナミック壁紙を設定することができません。\n\nWallpaper Engineを使用するには、Windowsのハイコントラスト設定を開き、ハイコントラストテーマを変更するか、ハイコントラストモードをオフにしてください。",
 	"core_msgbox_dwm_disabled": "デスクトップ構成が無効です。",
 	"core_msgbox_aero_denied": "Wallpaper EngineはAeroなしでは動作できないため終了します。",
 	"core_msgbox_aero_failure": "Aeroを有効にできませんでした。\n\nWindowsによってAeroの有効化が妨げられているようです。残念ながら、Aeroは重要な要件で、これがないとWallpaper Engineは動作しません。\n\nAero を Windowsのテーマオプションで直接有効にして、Wallpaper Engine を再起動してください。",

@@ -1,1 +1,5 @@
-{}
+{
+    "launch_option01": "Wallpaper Engine 64-bit (utilise plus de mémoire vive)",
+    "launch_option02": "Interface utilisateur en mode sans échec",
+    "launch_option03": "Recherche des conflits"
+}
