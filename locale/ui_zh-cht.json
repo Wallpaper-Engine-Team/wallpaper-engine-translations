@@ -1014,6 +1014,7 @@
 	"ui_editor_bone_constraints_physics_translation": "物理平移",
 	"ui_editor_bone_constraints_reset": "重設",
 	"ui_editor_settings_auto_saving": "啟用自動儲存",
+	"ui_editor_settings_auto_saving_hint": "一般專案設定以及貼圖、操控彎曲物件等特定資源仍將自動儲存。",
 	"ui_editor_settings_suggest_import_resolution": "按預設值調整新桌布",
 	"ui_editor_user_properties_select_info": "選擇一個有相容類型的內容（{{types}}）。",
 	"ui_editor_user_properties_select_unused_warning": "此內容未被桌布使用。",
