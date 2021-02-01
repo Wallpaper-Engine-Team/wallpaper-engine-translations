@@ -669,6 +669,7 @@
 	"ui_settings_ui_performance_medium": "Mittel - Effekte reduzieren",
 	"ui_settings_ui_performance_low": "Niedrig - Alle Effekte deaktivieren",
 	"ui_settings_restart_after_crash": "Neustart nach Absturz",
+	"ui_settings_restart_after_crash_hint": "Diese Option sorgt dafür, dass Wallpaper Engine nach einem Absturz von selbst neu startet. Es werden außerdem Absturzfehlermeldungen deaktiviert<br/><br/>Du solltest diese Option definitiv nicht aktivieren, außer du siehst sonst keine andere Möglichkeit deine Absturz-Probleme zu beheben.<br/><br/>Wallpaper Engine selbst ist sehr stabil und sollte unter normalen Umständen nicht abstürzen. Diese Option existiert nur um Abstürze auf instabilen System entgegenzuwirken, wenn beispielsweise Grafikkartentreiber oder aggressive Programme zum Absturz von Wallpaper Engine führen.<br/><br/><b>Der automatische Neustart kann unterbrochen werden, indem die Escape-Taste gedrückt gehalten wird.</b>",
 	"ui_settings_copyright": "Alle Rechte vorbehalten.",
 	"ui_settings_thirdparty": "Drittanbieter-Informationen",
 	"ui_settings_highpriority_warning_header": "Informationen zu höherer Priorität",
