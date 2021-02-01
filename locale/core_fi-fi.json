@@ -1,5 +1,6 @@
 {
 	"core_tray_change_wallpaper": "Vaihda taustakuvaa",
+	"core_tray_browse_workshop": "Selaa Workshopia",
 	"core_tray_create_wallpaper": "Luo taustakuva",
 	"core_tray_settings": "Asetukset",
 	"core_tray_take_screenshot": "Ota näyttökuva",
@@ -14,6 +15,7 @@
 	"core_tray_next_wallpaper": "Seuraava taustakuva",
 	"core_tray_mute": "Mykistä",
 	"core_tray_unmute": "Poista mykistys",
+	"core_tray_playlist_prefix": "Playlist:",
 	"core_balloon_info": "Wallpaper Engine pienennettiin tehtäväpalkkiin. Valitse taustakuva kaksoisnapsauttamalla kuvaketta.",
 	"core_balloon_desktop_window_error": "Työpöydän valmistaminen live-taustakuvaa varten epäonnistui.",
 	"core_balloon_video_error": "Windows-videovirhe: {{err}}. Paina tästä, niin saat apua.",
@@ -27,6 +29,7 @@
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engine tarvitsee luvan käyttääkseen Windows Aeroa. Kytketäänkö Aero päälle?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine ei pysty suorittamaan suuren kontrastin teemaa. Resetoi teema nyt?",
 	"core_msgbox_prompt_high_contrast_was_enabled": "Windows on ottanut käyttöön \"suuren kontrastin\" teeman, mikä estää Wallpaper Engineä toimimasta.",
+	"core_msgbox_high_contrast_white": "Olet ottanut käyttöön Windowsin suuren kontrastin tilan sekä valkoisen suuren kontrastin teeman. Valkoinen suuren kontrastin teema estää Wallpaper Engineä käyttämästä dynaamista taustakuvaa. Tämä johtuu siitä, miten teema on rakennettu Windowsiin.\n\nAvaa Windowsin suuren kontrastin asetukset ja vaihda suuren kontrastin teema tai ota suuren kontrastin tila pois käytöstä, niin voit käyttää Wallpaper Engineä.",
 	"core_msgbox_dwm_disabled": "DWM on pois käytöstä.",
 	"core_msgbox_aero_denied": "Wallpaper Engine tarvitsee Windowsin Aero-ominaisuutta.",
 	"core_msgbox_aero_failure": "Aeron käyttöönotto epäonnistui.\n\nWindows ilmeisesti estää Aeron käyttönoton. Valitettavasti sen käyttö on välttämätöntä, eikä Wallpaper Engine toimi ilman sitä.\n\nKokeile ottaa Aero käyttöön suoraan Windowsin teema-asetuksista ja käynnistä Wallpaper Engine uudelleen.",
