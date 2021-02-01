@@ -203,7 +203,7 @@
 	"ui_browse_modal_advertise_workshop_anime_hint": "Puoi cambiare questa opzione in qualsiasi momento aprendo nuovamente le impostazioni dei filtri.",
 	"ui_browse_modal_advertise_workshop_anime_button_show": "Mostra Anime",
 	"ui_browse_modal_advertise_workshop_anime_button_hide": "Nascondi Anime",
-	"ui_browse_modal_resolution_settings_body": "Selezionando l'opzione <b>Consigliata</b> di seguito, Wallpaper Engine applicherà i filtri di risoluzione ottimali per il tuo sistema.",
+	"ui_browse_modal_resolution_settings_body": "Selezionando l'opzione <b>Consigliata</b> sottostante, Wallpaper Engine applicherà i filtri di risoluzione ottimali per il tuo sistema.",
 	"ui_browse_modal_resolution_settings_recommended": "Consigliata",
 	"ui_browse_modal_resolution_settings_all": "Tutte le risoluzioni",
 	"ui_browse_modal_resolution_settings_pixel_art_hint": "Qualora desiderassi visualizzare sfondi che potrebbero non essere ottimali per il tuo schermo o stessi cercando sfondi in <b>pixel art</b>, attiva l'opzione <b>Tutte le risoluzioni</b>.",
