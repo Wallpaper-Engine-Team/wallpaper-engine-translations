@@ -14,6 +14,7 @@
 	"core_tray_next_wallpaper": "Nästa bakgrund",
 	"core_tray_mute": "Inaktivera ljud",
 	"core_tray_unmute": "Aktivera ljud",
+	"core_tray_playlist_prefix": "Spellista:",
 	"core_balloon_info": "Wallpaper Engine har minimerats till ditt meddelandefält. Dubbelklicka på ikonen i meddelandefältet för att välja en bakgrund.",
 	"core_balloon_desktop_window_error": "Fel uppstod när skrivbord förbereddes för en levande bakgrund.",
 	"core_balloon_video_error": "Ett videofel i Windows uppstod {{err}}. Klicka på mig för hjälp.",
