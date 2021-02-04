@@ -1300,6 +1300,7 @@
 	"ui_editor_effect_shine_description": "Menerapkan efek bersinar untuk menerangkan atau mencerahkan bagian dari gambar dengan nilai variabel sudut.",
 	"ui_editor_effect_refract_title": "Pembiasan",
 	"ui_editor_effect_refract_description": "Distorsikan latar belakang berdasarkan pada sebuah normal map, memungkinkan pencampuran dengan tekstur albedo opsional juga.",
+	"ui_editor_effect_iris_description": "Menganimasikan mata karakter untuk melihat sekelilingnya secara realistis.",
 	"ui_editor_preset_variant_small": "Kecil",
 	"ui_editor_preset_variant_large": "Besar",
 	"ui_editor_preset_foliage_title": "Dedaunan",
