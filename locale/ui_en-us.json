@@ -14,6 +14,7 @@
 	"ui_discard" : "Discard",
 	"ui_save" : "Save",
 	"ui_show_details" : "Show Details",
+	"ui_hotkey" : "Hotkey: {{key}}",
 
 	"ui_resolution_widescreen" : "Widescreen",
 	"ui_resolution_ultrawide" : "Ultra Widescreen",
@@ -324,7 +325,8 @@
 
 	"ui_browse_modal_no_steam_title" : "[[[Platform]]] Error",
 	"ui_browse_modal_no_steam_body" : "[[[Sdk]]] could not be initialized. Please try to restart [[[Platform]]] and afterwards Wallpaper Engine. If you continue seeing this error, this means that your PC cannot correctly authenticate with the [[[Platform]]] servers, check your internet connection and whether you are logged into the correct [[[Platform]]] account.<br/><br/>Do not launch [[[Platform]]] as administrator, that prevents [[[Sdk]]] from connecting to [[[Platform]]]. An anti-virus or security software could be preventing [[[Platform]]] and Wallpaper Engine from working together as well, try turning that off.</br></br>Check the FAQ to get more help if needed: <a href='[[[var_url_faqsteam]]]'>Fix [[[Platform]]] Connection</a>",
-	"ui_browse_query_error" : "A [[[Platform]]] network error occurred, try again later: ",
+	"ui_browse_modal_no_steam_body_wrong_provider" : "You are running the [[[Platform]]] Edition of Wallpaper Engine in combination with a different version of [[[Platform]]]. Please restart Wallpaper Engine through [[[Platform]]] in order to access the Workshop for your specific version of the app. Alternatively, you can also log in to the correct [[[Platform]]] version for this edition of Wallpaper Engine.",
+	"ui_browse_query_error" : "[[[Platform]]] encountered an error, try again later: {{error}}",
 	"ui_browse_modal_safe_mode_header" : "Safe Start",
 	"ui_browse_modal_safe_mode_body" : "It looks like the program did not shut down correctly, the last wallpapers and plugins have not been loaded yet to prevent the issue from recurring.<br/><br/>Press OK to restore them now, or cancel to change them first.",
 	"ui_browse_use_safe_mode" : "Use safe start",
@@ -806,6 +808,7 @@
 	"ui_editor_filemenu_help_fps_limit" : "FPS Limit",
 	"ui_editor_filemenu_help_debugging" : "Debugging",
 	"ui_editor_filemenu_editor_settings" : "Editor Settings",
+	"ui_editor_filemenu_delete_submissions" : "Delete Workshop Uploads",
 	
 	"ui_editor_save_as_header" : "Save As",
 	"ui_editor_save_as_body" : "Choose a new project name:",
@@ -824,9 +827,15 @@
 	"ui_editor_no_animation_modal_body" : "It looks like you are trying to upload a scene wallpaper without animation. <b>This is not recommended.</b><br/><br/>Wallpaper Engine is optimized for animated wallpapers, so if you only want to use a static image, it is advisable to use your operating system in that case.<br/><br/>Do you want to continue anyway?",
 	"ui_editor_review_info_header" : "Review Process",
 	"ui_editor_review_info_body" : "Your wallpaper will be reviewed before other users can find and download it to ensure that it doesn't violate any local laws.<br/><br/>If you update your wallpaper, it has to be reviewed again and is pushed to the back of the queue.",
-	
+
 	"ui_editor_modal_unsaved_changes_header" : "Unsaved Changes",
 	"ui_editor_modal_unsaved_changes_body" : "You have unsaved changes in your project. Would you like to save or discard them now?",
+
+	"ui_editor_modal_delete_published_wallpapers_header" : "Delete Published Wallpapers",
+	"ui_editor_modal_delete_published_wallpapers_danger_alert" : "Any Workshop uploads you delete from this list will be deleted from the [[[Platform]]] Workshop entirely. All contents will also be deleted from every user who has subscribed to it via [[[Platform]]].",
+	"ui_editor_modal_delete_published_wallpapers_button" : "Delete Permanently",
+	"ui_editor_modal_delete_published_wallpapers_confirm_header" : "Permanently Delete {{title}}",
+	"ui_editor_modal_delete_published_wallpapers_confirm_body" : "Are you sure that you want to permanently delete {{title}} from the [[[Platform]]] Workshop?<br/><br/>The Workshop upload will be permanently deleted from the [[[Platform]]] Workshop and for every user who has subscribed to it.",
 
 	"ui_editor_treeview_header_files" : "Imported Files",
 	"ui_editor_tooltip_layers" : "Layers",
@@ -1386,6 +1395,8 @@
 	"ui_editor_effect_shine_description" : "Applies a shine effect to bright parts of the image with a variable number of edges.",
 	"ui_editor_effect_refract_title" : "Refraction",
 	"ui_editor_effect_refract_description" : "Distorts the background based on a normal map, allows blending with an optional albedo texture too.",
+	"ui_editor_effect_iris_title" : "Iris Movement",
+	"ui_editor_effect_iris_description" : "Animates the eyes of a character to look around realistically.",
 
 	"ui_editor_preset_variant_small" : "Small",
 	"ui_editor_preset_variant_large" : "Large",
