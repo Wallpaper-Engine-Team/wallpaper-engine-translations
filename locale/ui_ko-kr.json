@@ -305,7 +305,6 @@
 	"ui_browse_list_source_explore": "검색",
 	"ui_browse_modal_no_steam_title": "[[[Platform]]] 오류",
 	"ui_browse_modal_no_steam_body": "[[[Sdk]]]가 초기화되지 못했습니다. [[[Platform]]]을 재시작한 뒤 Wallpaper Engine을 재시작하십시오. 이 오류가 계속되면, PC가 [[[Platform]]] 서버에 제대로 인증되지 않는 것이므로, 인터넷 연결을 확인하고 올바른 [[[Platform]]] 계정에 로그인되어 있는지 확인하십시오.<br/><br/>관리자로 [[[Platform]]]을 시작하지 마십시오. 그럴 경우 [[[Sdk]]]가 [[[Platform]]]에 연결하지 못하게 됩니다. 안티바이러스 또는 보안 소프트웨어는 [[[Platform]]]과 Wallpaper Engine이 함께 작동하는 것을 막을 수 있으므로 종료해주십시오.</br></br>도움이 더 필요하다면 다음 FAQ를 확인하십시오: <a href='[[[var_url_faqsteam]]]'>[[[Platform]]] 연결 문제 해결</a>",
-	"ui_browse_query_error": "[[[Platform]]] 오류가 발생했습니다. 나중에 다시 시도하십시오: ",
 	"ui_browse_modal_safe_mode_header": "안전 모드",
 	"ui_browse_modal_safe_mode_body": "프로그램이 올바르게 종료되지 않은 것 같습니다. 문제가 다시 생기는 것을 막기 위해 마지막 배경화면 및 플러그인이 아직 로드되지 않았습니다.<br/><br/>지금 복원하려면 확인을 누르고, 먼저 변경하려면 취소를 누르십시오.",
 	"ui_browse_use_safe_mode": "안전 모드 사용",
