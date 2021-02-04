@@ -305,7 +305,6 @@
 	"ui_browse_list_source_explore": "Esplora",
 	"ui_browse_modal_no_steam_title": "Errore di [[[Platform]]]",
 	"ui_browse_modal_no_steam_body": "[[[Sdk]]] non si è potuto avviare. Per favore, prova a riavviare [[[Platform]]] e successivamente Wallpaper Engine. Se continui a vedere questo errore, vuol dire che il tuo PC non si può autenticare correttamente con i server di [[[Platform]]], controlla la tua connessione internet e se sei collegato correttamente con il tuo Account [[[Platform]]].<br/><br/>Non avviare [[[Platform]]] come amministratore, ciò impedisce al [[[Sdk]]] di connettersi a [[[Platform]]]. Un antivirus o un software di sicurezza potrebbero impedire a [[[Platform]]] e a Wallpaper Engine di funzionare assieme, prova a spegnerli.</br></br>Controlla le FAQ per avere più aiuto se necessario: <a href='[[[var_url_faqsteam]]]'>Sistema la Connessione di [[[Platform]]]</a>",
-	"ui_browse_query_error": "Si è verificato un errore nella connessione alla rete di [[[Platform]]], riprova più tardi: ",
 	"ui_browse_modal_safe_mode_header": "Avvio sicuro",
 	"ui_browse_modal_safe_mode_body": "Sembra che il programma non sia stato terminato correttamente. Gli ultimi sfondi e plugin non sono stati caricati per evitare che il problema si ripeta.<br/><br/>Premere OK per ripristinarli ora o Annulla per cambiarli prima.",
 	"ui_browse_use_safe_mode": "Usa l'avvio sicuro",
