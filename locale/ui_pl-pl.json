@@ -305,7 +305,6 @@
 	"ui_browse_list_source_explore": "Odkryj",
 	"ui_browse_modal_no_steam_title": "Błąd platformy [[[Platform]]]",
 	"ui_browse_modal_no_steam_body": "[[[Sdk]]] nie może zostać zainicjowane. Spróbuj ponownie uruchomić platformę [[[Platform]]], a następnie program Wallpaper Engine. Jeżeli wciąż widzisz ten błąd, oznacza to, że wystąpił problem z uwierzytelnianiem pomiędzy Twoim komputerem, a serwerami [[[Platform]]]. Sprawdź połączenie z Internetem oraz czy poprawnie zalogowano się do swojego konta [[[Platform]]].<br/><br/>Nie uruchamiaj platformy [[[Platform]]] jako administrator, bo uniemożliwia to [[[Sdk]]] połączenie z platformą [[[Platform]]]. Oprogramowanie antywirusowe lub zabezpieczające może uniemożliwiać współpracę pomiędzy platformą [[[Platform]]] a programem Wallpaper Engine. Spróbuj je wyłączyć",
-	"ui_browse_query_error": "Wystąpił błąd sieci platformy [[[Platform]]], spróbuj ponownie później: ",
 	"ui_browse_modal_safe_mode_header": "Bezpieczne uruchomienia",
 	"ui_browse_modal_safe_mode_body": "Wygląda na to, że program nie został poprawnie zamknięty, a ostatnie tapety i wtyczki nie zostały jeszcze załadowane, aby zapobiec powtarzaniu się problemu. <br/><br/>Kliknij przycisk OK, aby je teraz przywrócić, lub Anuluj, aby je najpierw zmienić.",
 	"ui_browse_use_safe_mode": "Użyj bezpiecznego uruchomienia",
