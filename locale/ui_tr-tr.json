@@ -305,7 +305,6 @@
 	"ui_browse_list_source_explore": "Keşfet",
 	"ui_browse_modal_no_steam_title": "[[[Platform]]] Hatası",
 	"ui_browse_modal_no_steam_body": "[[[Sdk]]] başlatılamadı. Lütfen [[[Platform]]]'i ve sonrasında Wallpaper Engine'i yeniden başlatmayı deneyin. Eğer bu hatayı görmeye devam etmeniz, bu bilgisayarınızın [[[Platform]]] sunucularıyla doğru bir şekilde kimlik doğrulaması yapamıyor anlamına gelir, internet bağlantınızı ve doğru [[[Platform]]] hesabına oturum açıp açmadığınızı gözden geçirin.<br/><br/>[[[Platform]]]'i yönetici olarak çalıştırmayın, bu [[[Sdk]]]'ün [[[Platform]]]'e bağlanmasını engeller. Bir anti-virüs veya güvenlik yazılımı [[[Platform]]] ve Wallpaper Engine'in birlikte çalışmasını da engelliyor olabilir, bunu katmayı deneyin.</br></br>Gerekirse daha fazla yardım almak için SSS'yi gözden geçirin: <a href='[[[var_url_faqsteam]]]'>[[[Platform]]] Bağlantısını Düzelt</a>",
-	"ui_browse_query_error": "Bir [[[Platform]]] ağ hatası meydana geldi, lütfen daha sonra tekrar deneyin: ",
 	"ui_browse_modal_safe_mode_header": "Güvenli Başlat",
 	"ui_browse_modal_safe_mode_body": "Program doğru şekilde kapatılmamış gibi görünüyor, sorunun tekrarlanmasını önlemek için son duvar kağıtları ve eklentiler henüz yüklenmemiş.<br/><br/>Bunları şimdi geri yüklemek için TAMAM'a basın ya da önce değiştirmek için İptal'e basın.",
 	"ui_browse_use_safe_mode": "Güvenli başlatı kullan",
