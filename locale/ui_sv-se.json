@@ -758,6 +758,7 @@
 	"ui_editor_review_info_body": "Din bakgrund kommer att granskas innan andra användare kan hitta och ladda ned den för att säkerställa att den inte bryter mot några regionala lagar.<br/><br/>If you update your wallpaper, it has to be reviewed again and is pushed to the back of the queue.",
 	"ui_editor_modal_unsaved_changes_header": "Osparade ändringar",
 	"ui_editor_modal_unsaved_changes_body": "Du har osparade ändringar i ditt projekt. Vill du spara eller ignorera dem nu?",
+	"ui_editor_modal_delete_published_wallpapers_button": "Radera permanent",
 	"ui_editor_treeview_header_files": "Importerade filer",
 	"ui_editor_tooltip_layers": "Lager",
 	"ui_editor_tooltip_scene_options": "Scenalternativ",
