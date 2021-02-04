@@ -305,7 +305,6 @@
 	"ui_browse_list_source_explore": "Temukan",
 	"ui_browse_modal_no_steam_title": "Kesalahan [[[Platform]]]",
 	"ui_browse_modal_no_steam_body": "[[[Sdk]]] tidak dapat diinisialisasi. Mohon jalankan ulang [[[Platform]]] dan selanjutnya Wallpaper Engine. Jika Anda masih terus melihat galat ini, ini berarti PC Anda tidak dapat mengotentikasi ke server [[[Platform]]] dengan benar, cek koneksi internet Anda dan pastikan Anda masuk ke akun [[[Platform]]] yang sesuai.<br/><br/>Jangan luncurkan [[[Platform]]] sebagai administrator, hal tersebut dapat mencegah [[[Sdk]]] terhubung ke [[[Platform]]]. Anti-virus atau perangkat lunak keamanan juga dapat mencegah [[[Platform]]] dan Wallpaper Engine bekerja bersamaan, cobalah untuk menonaktifkan perangkat lunak keamanan tersebut.</br></br>Cek di FAQ untuk mendapatkan bantuan lebih lanjut jika diperlukan: <a href='[[[var_url_faqsteam]]]'>Fix [[[Platform]]] Connection</a>",
-	"ui_browse_query_error": "Telah terjadi kesalahan jaringan [[[Platform]]], cobalah beberapa saat lagi: ",
 	"ui_browse_modal_safe_mode_header": "Mode Aman",
 	"ui_browse_modal_safe_mode_body": "Sepertinya program tidak dinonaktifkan dengan benar, wallpaper terakhir dan beberapa plugin belum dimuat untuk mencegah masalah muncul kembali.<br/><br/>Tekan OK untuk mengembalikannya sekarang, atau Batal untuk mengubahnya terlebih dahulu.",
 	"ui_browse_use_safe_mode": "Gunakan Mode Aman",
