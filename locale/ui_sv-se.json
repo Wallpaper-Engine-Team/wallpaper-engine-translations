@@ -67,6 +67,7 @@
 	"ui_browse_advertise_explore": "Klicka här för att upptäcka nya bakgrunder från Workshop!",
 	"ui_browse_advertise_workshop": "Klicka här för att söka på Workshop i detalj!",
 	"ui_browse_no_service_header": "[[[Platform]]]s tjänster är otillgängliga",
+	"ui_browse_no_service_body": "Servrarna för <b>[[[Platform]]]s Workshop</b> är för tillfället inte tillgängliga. Det är inte ett problem med Wallpaper Engine eller din dator. Vänta några timmar och försök igen.<br/><br/>Detta är ett problem med [[[Platform]]]s servrar och [[[Platform]]]-teamet reparerar för tillfället servrarna.",
 	"ui_browse_reload": "Uppdatera",
 	"ui_browse_clear_filters": "Rensa filter",
 	"ui_browse_preset_filter_notice": "Bläddrar förinställningar för: {{title}}",
