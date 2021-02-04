@@ -305,7 +305,6 @@
 	"ui_browse_list_source_explore": "探索",
 	"ui_browse_modal_no_steam_title": "[[[Platform]]] 錯誤",
 	"ui_browse_modal_no_steam_body": "無法初始化[[[Sdk]]]。請嘗試重新啟動 [[[Platform]]] 之後重新啟動 Wallpaper Engine。如果您依然看到此錯誤訊息，代表 [[[Platform]]] 伺服器無法正確驗證您的電腦，請檢查您的網際網路連線，並確認您是否已登入正確的 [[[Platform]]] 帳戶。<br/><br/>請勿以管理員身分執行 [[[Platform]]]，這會導致 [[[Sdk]]] 無法連線至 [[[Platform]]]。防毒程式或安全性軟體亦可能導致 [[[Platform]]] 和 Wallpaper Engine 無法共同運作，請嘗試關閉此類軟體。</br></br>如果需要更多幫助請檢視常見問題集：<a href='[[[var_url_faqsteam]]]'>修復 [[[Platform]]] 連線</a>",
-	"ui_browse_query_error": "[[[Platform]]] 網路發生錯誤，請稍後再試： ",
 	"ui_browse_modal_safe_mode_header": "安全模式",
 	"ui_browse_modal_safe_mode_body": "程式似乎沒有正常關閉。最近使用的桌布以及外掛程式尚未載入，以防止同樣的問題再發生。<br/><br/>點選「確認」以將它們復原，或者點選「取消」以對它們進行變更。",
 	"ui_browse_use_safe_mode": "使用安全模式",
