@@ -305,7 +305,7 @@
 	"ui_browse_list_source_explore": "Descobrir",
 	"ui_browse_modal_no_steam_title": "Erro do [[[Platform]]]",
 	"ui_browse_modal_no_steam_body": "O [[[Sdk]]] não pôde ser inicializado. Tente reiniciar o [[[Platform]]] e o Wallpaper Engine. Caso continue recebendo este erro, isso significa que o seu computador não está conseguindo se autenticar corretamente aos servidores do [[[Platform]]], verifique a sua conexão e se iniciou a sessão com a conta correta.<br/><br/>Os servidores do [[[Platform]]] também podem estar temporariamente inacessíveis. Não inicie o [[[Platform]]] como administrador, isso impede que o [[[Sdk]]] se conecte ao [[[Platform]]].",
-	"ui_browse_query_error": "Ocorreu um erro na rede [[[Platform]]], tente novamente mais tarde: ",
+	"ui_browse_query_error": "Ocorreu um erro na rede [[[Platform]]], tente novamente mais tarde: {{error}}",
 	"ui_browse_modal_safe_mode_header": "Inicialização segura",
 	"ui_browse_modal_safe_mode_body": "Parece que o programa não foi encerrado corretamente, os últimos planos de fundo ainda não foram carregados para evitar que o problema se repita.<br/><br/>Pressione OK para restaurá-los agora ou cancele para alterá-los.",
 	"ui_browse_use_safe_mode": "Usar inicialização segura",
