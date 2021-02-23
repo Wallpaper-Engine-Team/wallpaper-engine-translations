@@ -215,7 +215,6 @@
 	"ui_browse_list_source_installed": "Instalate",
 	"ui_browse_list_source_explore": "Descoperă",
 	"ui_browse_modal_no_steam_title": "Eroare [[[Platform]]] ",
-	"ui_browse_modal_no_steam_body": "[[[Platform]]] [[[Host]]] nu a putut fi inițializat. Încearcă să repornești [[[Platform]]] și apoi Wallpaper Engine. Dacă vezi în continuare această eroare, înseamnă că PC-ul tău nu se poate autentifica corect cu serverele [[[Platform]]], verifică-ți conexiunea la internet și dacă ești conectat(ă) la contul de [[[Platform]]] corect. Serverele [[[Platform]]] ar putea fi, de asemenea, temporar imposibil de accesat.",
 	"ui_browse_modal_safe_mode_header": "Mod de siguranță",
 	"ui_browse_modal_safe_mode_body": "Se pare că programul nu s-a închis corespunzător, ultimul fundal și plugin-uri nu s-au încărcat încă pentru a preveni probleme recurente.<br/><br/>Apăsați OK pentru a le reaplica acum, sau Anulează pentru a le schimba mai întâi.",
 	"ui_browse_use_safe_mode": "Folosește Start Safe",
