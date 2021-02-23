@@ -1,7 +1,7 @@
 {
 	"ui_caption_settings": "Nustatymai",
 	"ui_caption_editor": "Fonų redaktorius",
-	"ui_ok": "OK",
+	"ui_ok": "Gerai",
 	"ui_cancel": "Atšaukti",
 	"ui_back": "Atgal",
 	"ui_close": "Uždaryti",
@@ -66,6 +66,8 @@
 	"ui_browse_properties_playback_rate": "Atkūrimo tempas",
 	"ui_browse_properties_volume": "Garsumas",
 	"ui_browse_properties_audio_recording": "Garso įrašymas",
+	"ui_browse_playlist_modal_delete": "Ištrinti",
+	"ui_browse_preset_modal_open_delete": "Ištrinti",
 	"ui_settings_playback": "Atkūrimas",
 	"ui_settings_playback_focused": "Kai fokusuojama kita programa:",
 	"ui_settings_playback_maximized": "Kai išdidinta kita programa:",

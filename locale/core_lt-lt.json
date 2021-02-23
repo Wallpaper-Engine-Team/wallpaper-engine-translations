@@ -1,5 +1,6 @@
 {
 	"core_tray_change_wallpaper": "Pakeisti foną",
+	"core_tray_browse_workshop": "Naršyti dirbtuvę",
 	"core_tray_create_wallpaper": "Sukurti foną",
 	"core_tray_settings": "Nustatymai",
 	"core_tray_take_screenshot": "Sukurti ekrano kopiją",
@@ -14,6 +15,7 @@
 	"core_tray_next_wallpaper": "Sekantis fonas",
 	"core_tray_mute": "Nutildyti",
 	"core_tray_unmute": "Įjungti garsą",
+	"core_tray_playlist_prefix": "Grojarastis:",
 	"core_balloon_info": "Wallpaper Engine sumažinta į užduočių juostą. Du kartus spragtelkite ant užduočių juostoje esančios piktogramos kad pasirinktumėte foną.",
 	"core_balloon_desktop_window_error": "Nepavyko paruošti darbalaukio gyvam fonui.",
 	"core_balloon_video_error": "Įvyko Windows vaizdo klaida {{err}}. Spragtelkite ant manęs jei reikia pagalbos.",
