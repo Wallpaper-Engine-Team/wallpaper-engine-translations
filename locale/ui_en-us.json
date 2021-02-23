@@ -67,6 +67,7 @@
 	"ui_browse_steam_status_pending" : "Waiting for [[[Platform]]] to respond...",
 	"ui_browse_steam_status_complete" : "[[[Platform]]] update complete.<br/>Wrote {{count}} wallpapers to cache.",
 	"ui_browse_steam_status_complete_generic" : "[[[Platform]]] update complete.<br/>Wrote {{count}} items to cache.",
+	"ui_browse_steam_status_complete_no_subscriptions" : "[[[Platform]]] failed to retrieve your subscriptions.",
 	"ui_browse_header_option_settings" : "Settings",
 	"ui_browse_header_option_monitors" : "Displays",
 	"ui_browse_header_option_editor" : "Wallpaper Editor",
@@ -324,7 +325,7 @@
 	"ui_browse_list_source_explore" : "Discover",
 
 	"ui_browse_modal_no_steam_title" : "[[[Platform]]] Error",
-	"ui_browse_modal_no_steam_body" : "[[[Sdk]]] could not be initialized. Please try to restart [[[Platform]]] and afterwards Wallpaper Engine. If you continue seeing this error, this means that your PC cannot correctly authenticate with the [[[Platform]]] servers, check your internet connection and whether you are logged into the correct [[[Platform]]] account.<br/><br/>Do not launch [[[Platform]]] as administrator, that prevents [[[Sdk]]] from connecting to [[[Platform]]]. An anti-virus or security software could be preventing [[[Platform]]] and Wallpaper Engine from working together as well, try turning that off.</br></br>Check the FAQ to get more help if needed: <a href='[[[var_url_faqsteam]]]'>Fix [[[Platform]]] Connection</a>",
+	"ui_browse_modal_no_steam_body" : "[[[Sdk]]] could not be initialized. Please try to restart [[[Platform]]] and afterwards Wallpaper Engine. If you continue seeing this error, this means that your PC cannot correctly authenticate with the [[[Platform]]] servers, check your internet connection and whether you are logged into the correct [[[Platform]]] account.<br/><br/>Do not launch [[[Platform]]] as administrator, that prevents [[[Sdk]]] from connecting to [[[Platform]]]. An anti-virus or security software could be preventing [[[Platform]]] and Wallpaper Engine from working together as well, try turning that off.<br/><br/>Check the FAQ to get more help if needed: <a href='[[[var_url_faqsteam]]]'>Fix [[[Platform]]] Connection</a>",
 	"ui_browse_modal_no_steam_body_wrong_provider" : "You are running the [[[Platform]]] Edition of Wallpaper Engine in combination with a different version of [[[Platform]]]. Please restart Wallpaper Engine through [[[Platform]]] in order to access the Workshop for your specific version of the app. Alternatively, you can also log in to the correct [[[Platform]]] version for this edition of Wallpaper Engine.",
 	"ui_browse_query_error" : "[[[Platform]]] encountered an error, try again later: {{error}}",
 	"ui_browse_modal_safe_mode_header" : "Safe Start",
@@ -498,6 +499,7 @@
 	"ui_browse_alert_trial_reminder_button" : "Go to Store",
 	"ui_browse_alert_trial_reminder_button_cancel" : "Later",
 	"ui_browse_alert_vram_exhausted" : "Your video memory is exhausted and the wallpapers have been disabled until your system has enough resources again. This feature can be turned off in the general settings.",
+	"ui_browse_alert_remote_steamdown" : "The [[[Platform]]] servers are currently experiencing technical issues and certain Workshop features may not work properly for you. This may include slow search response times or incomplete search results. This problem affects all [[[Platform]]] users and is unrelated to Wallpaper Engine or your computer. You can ignore this message if everything works well for you.",
 
 	"ui_rating_table_suitable_for_everyone" : "Suitable for everyone",
 	"ui_rating_table_partial_nudity_suggestive" : "Partial nudity / suggestive",
@@ -703,7 +705,7 @@
 	"ui_settings_video_framework_prefer_native" : "Prefer Native",
 	"ui_settings_use_safe_mode" : "Use safe start:",
 	"ui_settings_disable_slideshow" : "Remove Windows wallpaper fade:",
-	"ui_settings_disable_slideshow_tip" : "When this option is enabled, Wallpaper Engine will attempt to remove the wallpaper fade effect that Windows uses by default when switching Windows wallpapers and when logging into Windows. Removing this Windows behavior is not perfectly possible and the fade effect may still appear for a brief moment.",
+	"ui_settings_disable_slideshow_tip" : "When this option is enabled, Wallpaper Engine will attempt to remove the wallpaper fade effect that Windows uses by default when switching Windows wallpapers and when logging into Windows. Removing this Windows behavior is not perfectly possible and the fade effect may still flash up for a brief moment.",
 	"ui_settings_ui_hardware_acceleration" : "UI hardware acceleration:",
 	"ui_settings_show_tray_icon" : "Show tray icon:",
 	"ui_settings_ui_performance" : "UI quality:",
@@ -711,7 +713,7 @@
 	"ui_settings_ui_performance_medium" : "Medium - Reduce effects",
 	"ui_settings_ui_performance_low" : "Low - Disable all effects",
 	"ui_settings_restart_after_crash" : "Restart after crashing",
-	"ui_settings_restart_after_crash_hint" : "This option will make Wallpaper Engine immediately restart itself after it crashed and it will disable crash notifications in the main application.<br/><br/>You should absolutely not enable this option unless you have no other choice.<br/><br/>Wallpaper Engine itself is very stable and should not crash under normal circumstances. This option solely exists to combat crashes on unstable systems due to faulty graphics drivers or aggressive software that make Wallpaper Engine helplessly crash.<br/><br/><b>You can interrupt the automatic restart by holding the ESCAPE key down.</b>",
+	"ui_settings_restart_after_crash_hint" : "This option will make Wallpaper Engine immediately restart itself after it crashed and it will disable crash notifications in the main application.<br/><br/>You should absolutely not enable this option unless you have no other choice.<br/><br/>Wallpaper Engine itself is very stable and should not crash under normal circumstances. This option solely exists to combat crashes on unstable systems due to faulty graphics drivers or aggressive software that makes Wallpaper Engine helplessly crash.<br/><br/><b>You can interrupt the automatic restart by holding the ESCAPE key down.</b>",
 
 	"ui_settings_copyright" : "All rights reserved.",
 	"ui_settings_thirdparty" : "Thirdparty notices",
@@ -827,10 +829,10 @@
 	"ui_editor_no_animation_modal_body" : "It looks like you are trying to upload a scene wallpaper without animation. <b>This is not recommended.</b><br/><br/>Wallpaper Engine is optimized for animated wallpapers, so if you only want to use a static image, it is advisable to use your operating system in that case.<br/><br/>Do you want to continue anyway?",
 	"ui_editor_review_info_header" : "Review Process",
 	"ui_editor_review_info_body" : "Your wallpaper will be reviewed before other users can find and download it to ensure that it doesn't violate any local laws.<br/><br/>If you update your wallpaper, it has to be reviewed again and is pushed to the back of the queue.",
-
+	
 	"ui_editor_modal_unsaved_changes_header" : "Unsaved Changes",
 	"ui_editor_modal_unsaved_changes_body" : "You have unsaved changes in your project. Would you like to save or discard them now?",
-
+	
 	"ui_editor_modal_delete_published_wallpapers_header" : "Delete Published Wallpapers",
 	"ui_editor_modal_delete_published_wallpapers_danger_alert" : "Any Workshop uploads you delete from this list will be deleted from the [[[Platform]]] Workshop entirely. All contents will also be deleted from every user who has subscribed to it via [[[Platform]]].",
 	"ui_editor_modal_delete_published_wallpapers_button" : "Delete Permanently",
@@ -1859,6 +1861,7 @@
 	"ui_editor_properties_reset_pose" : "Reset Pose",
 	"ui_editor_properties_reset_to_selected_pose" : "Reset to selected Pose",
 	"ui_editor_properties_resolution" : "Resolution",
+	"ui_editor_properties_resolution_in_memory" : "Resolution in memory",
 	"ui_editor_properties_right" : "Right",
 	"ui_editor_properties_ripple_scale" : "Ripple scale",
 	"ui_editor_properties_ripple_strength" : "Ripple strength",
@@ -1957,6 +1960,7 @@
 	"ui_editor_properties_viewport" : "Viewport",
 	"ui_editor_properties_visible" : "Visible",
 	"ui_editor_properties_volume" : "Volume",
+	"ui_editor_properties_vram" : "Video memory",
 	"ui_editor_properties_waiting_for_compiler" : "Waiting for compiler to complete...",
 	"ui_editor_properties_water_normal" : "Water normalmap",
 	"ui_editor_properties_weights" : "Weights",
@@ -2048,5 +2052,20 @@
 	"ui_editor_puppet_warp_overwrite_pose_title" : "Overwrite pose {{name}}",
 
 	"ui_editor_select_material" : "Select Material",
-	"ui_editor_select_texture" : "Select Texture"
+	"ui_editor_select_texture" : "Select Texture",
+	
+	"ui_provider_error_generic" : "[[[Platform]]] encountered an internal error.",
+	"ui_provider_error_no_network" : "[[[Platform]]] has no network connection.",
+	"ui_provider_error_logged_on_elsewhere" : "[[[Platform]]] user is logged on a different computer.",
+	"ui_provider_error_file_not_found" : "[[[Platform]]] could not find or access certain files on your hard disk.",
+	"ui_provider_error_servers_busy" : "[[[Platform]]]'s servers are unresponsive and may be overloaded or down entirely.",
+	"ui_provider_error_access_denied" : "[[[Platform]]] is denying access. This usually means your account is banned or temporarily restricted.",
+	"ui_provider_error_timeout" : "[[[Platform]]] aborted the request since it took too much time to process.",
+	"ui_provider_error_service_unavailable" : "[[[Platform]]]'s services are currently unavailable.",
+	"ui_provider_error_not_logged_in" : "[[[Platform]]] user is not logged in.",
+	"ui_provider_error_insufficient_privilege" : "[[[Platform]]] is missing privileges.",
+	"ui_provider_error_limit_exceeded" : "[[[Platform]]] has encountered a request limit.",
+	"ui_provider_error_io_failure" : "[[[Platform]]] has run into problems reading or writing files to and from your hard disk.",
+	"ui_provider_error_read_only" : "[[[Platform]]] service is read-only. If you changed your password recently, [[[Platform]]] does not allow uploading new content. This problem usually resolves itself after a few days.",
+	"ui_provider_error_failed_setting_item_data" : "[[[Platform]]] failed applying new Workshop information."
 }

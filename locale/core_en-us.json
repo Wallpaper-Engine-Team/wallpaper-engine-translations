@@ -47,6 +47,7 @@
 
 	"core_fatal_window_creation_failed" : "Failed to create wallpaper window (Error {{error}}). This is usually related to broken graphics card drivers. Perform a clean reinstallation of your graphics card drivers and restart your computer.",
 
+	"core_updater_title" : "Wallpaper Engine Updater",
 	"core_updater_headline_init" : "Setting up Wallpaper Engine...",
 	"core_updater_headline_update" : "Updating Wallpaper Engine to version {{version}}...",
 	"core_updater_headline_init_complete" : "Completed setup of version {{version}}. Starting Wallpaper Engine...",
