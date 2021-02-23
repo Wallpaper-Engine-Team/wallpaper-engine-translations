@@ -304,6 +304,7 @@
 	"ui_browse_list_source_workshop": "ワークショップ",
 	"ui_browse_list_source_explore": "発見",
 	"ui_browse_modal_no_steam_title": "[[[Platform]]]エラー",
+	"ui_browse_modal_no_steam_body": "[[[Sdk]]]を初期化できませんでした。 [[[Platform]]]を再起動してから、Wallpaper Engineを再起動してください。 このエラーが引き続き表示される場合、[[[Platform]]]のサーバーで正しく認証できていないか、[[[Platform]]]のアカウントにログインできていない可能性があります。<br/><br/>[[[Platform]]]を管理者として起動させないでください[[[Sdk]]]が[[[Platform]]]に接続できなくなります。 [[[Platform]]]とWallpaper Engineがセキュリティソフトウェアに誤検知されている場合は、除外またはオフにしてみてください。<br/><br/>解決しない場合はFAQ: <a href='[[[var_url_faqsteam]]]'>の[[[Platform]]]の接続の修復を閲覧してください</a>",
 	"ui_browse_query_error": "[[[Platform]]] ネットワークエラーが発生しました。後でやり直してください: {{error}}",
 	"ui_browse_modal_safe_mode_header": "セーフスタート",
 	"ui_browse_modal_safe_mode_body": "それはプログラムが正しくシャットダウンされなかったように見えますが、問題が再発するのを防ぐために最後の壁紙はまだロードされていません。<br/><br/>OKを押して今すぐ復元するか、キャンセルして最初に変更してください。",
