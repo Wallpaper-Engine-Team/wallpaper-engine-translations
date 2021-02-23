@@ -172,7 +172,6 @@
 	"ui_browse_list_source_installed": "Inštalované",
 	"ui_browse_list_source_explore": "Objavujte",
 	"ui_browse_modal_no_steam_title": "[[[Platform]]] Chyba",
-	"ui_browse_modal_no_steam_body": "[[[Sdk]]] nemohol byť načítaný. Prosím skúste reštartovať [[[Platform]]] a potom Wallpaper Engine. Keď nadalej dostávate túto chybu, to znamená, že váš počítač sa nemôže správne overiť so [[[Platform]]]ovými servermi, skontrolujte si pripojenie k internetu a či ste prihlásený do správneho steamového účtu. [[[Platform]]]ové servery môžu byť dočasne nedostupné.",
 	"ui_browse_modal_safe_mode_header": "Bezpečný štart",
 	"ui_browse_modal_safe_mode_body": "Vyzerá to, že program sa nevypol správne, posledné pozadianeboli ešte načítané aby sa predišlo opakovaniu tejto chyby.<br/><br/>Stlačte OK aby ste ich obnovili teraz, alebo zrušit aby ste ich najprv zmenili.",
 	"ui_browse_use_safe_mode": "Použiť bezpečný štart",
