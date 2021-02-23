@@ -194,7 +194,6 @@
 	"ui_browse_list_source_installed": "Instalatuak",
 	"ui_browse_list_source_explore": "Aurkitu",
 	"ui_browse_modal_no_steam_title": "[[[Platform]]] Errorea",
-	"ui_browse_modal_no_steam_body": "[[[Sdk]]] ezin izan da hasieratu. Mesedez berrabiarazi [[[Platform]]] eta gero Wallpaper Engine. Errore hau ikusten jarraitzen baduzu, zure ordenagailuak arazoak ditu [[[Platform]]]-en zerbitzariekin autentikatzeko, egiaztatu zure internet konexioa eta [[[Platform]]]-era konektatzeko erabiltzen ari zaren kontua. [[[Platform]]] zerbitzariak erorita egon daitezke.",
 	"ui_browse_modal_safe_mode_header": "Hasiera Segurua",
 	"ui_browse_modal_safe_mode_body": "Programa ondo itxi ez zela dirudi, azken horma-paperak ez dira kargatu arazoa saihesteko.<br/><br/>Klik egin OKen berreskuratzeko, edo ezeztatu lehenik aldatzeko.",
 	"ui_browse_use_safe_mode": "Erabili hasiera segurua",
