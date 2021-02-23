@@ -91,7 +91,6 @@
 	"ui_browse_playlist_modal_settings_transition_enabled": "Hiện quá trình chuyển đổi hình nền",
 	"ui_browse_list_source_installed": "Đã tải",
 	"ui_browse_modal_no_steam_title": "Lỗi từ steam",
-	"ui_browse_modal_no_steam_body": "[[[Sdk]]] không thể được khởi tạo. Hãy cố gắng khởi động lại hơi nước và sau đó Wallpaper Engine. Nếu bạn tiếp tục gặp lỗi này, điều này có nghĩa rằng máy tính của bạn không thể xác thực chính xác với các máy chủ [[[Platform]]], kiểm tra kết nối internet của bạn và cho dù bạn đang đăng nhập vào tài khoản [[[Platform]]] chính xác. Các máy chủ [[[Platform]]] cũng có thể không thể truy cập được tạm thời.",
 	"ui_browse_query_sort_by_votes": "Top Đánh giá",
 	"ui_browse_query_sort_by_date": "Gần đây",
 	"ui_browse_query_sort_by_trend_today": "Phổ biến nhất (Hôm nay)",
