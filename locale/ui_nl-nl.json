@@ -233,7 +233,6 @@
 	"ui_browse_list_source_installed": "Geïnstalleerd",
 	"ui_browse_list_source_explore": "Ontdekken",
 	"ui_browse_modal_no_steam_title": "[[[Platform]]] Fout",
-	"ui_browse_modal_no_steam_body": "[[[Sdk]]] kon niet worden geïnitialiseerd. Probeer [[[Platform]]] te herstaten en daarna Wallpaper Engine. Indien u deze fout blijft zien, betekent dit dat uw computer zich niet kan authenticeren of aanmelden bij de [[[Platform]]]-servers. Controleer je internet verbinding en of je bent aangemeld met de juiste [[[Platform]]] account. Het is mogelijk dat de [[[Platform]]] servers tijdelijk onbereikbaar zijn. Start je [[[Platform]]] niet als beheerder, dit voorkomt dat [[[Sdk]]] verbinding maakt met [[[Platform]]].",
 	"ui_browse_modal_safe_mode_header": "Veilige Start",
 	"ui_browse_modal_safe_mode_body": "Het lijkt erop dat het programma niet correct is afgesloten, de laatste wallpapers zijn nog niet geladen om te voorkomen dat dit opnieuw gebeurd.<br/><br/>Druk OK om ze te herstellen, of Annuleer om ze eerst te veranderen.",
 	"ui_browse_use_safe_mode": "Gebruik veilig starten",
