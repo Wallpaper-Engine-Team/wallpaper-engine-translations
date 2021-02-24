@@ -42,6 +42,7 @@
 	"core_msgbox_trial_expired_title": "试玩模式到期",
 	"core_msgbox_trial_expired_body": "您的试玩时间已经用完，Wallpaper Engine将关闭。\n若想继续使用，您可以在[[[Platform]]] 上购买Wallpaper Engine，谢谢！",
 	"core_fatal_window_creation_failed": "无法创建壁纸窗口（错误 {{error}}）。这通常与显卡驱动程序损坏有关。执行显卡驱动程序的全新安装，然后重新启动计算机。",
+	"core_updater_title": "Wallpaper Engine 更新工具",
 	"core_updater_headline_init": "正在安装 Wallpaper Engine...",
 	"core_updater_headline_update": "正在将 Wallpaper Engine 更新到版本 {{version}}...",
 	"core_updater_headline_init_complete": "版本 {{version}} 安装完成。正在启动 Wallpaper Engine...",
