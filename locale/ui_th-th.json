@@ -306,6 +306,7 @@
 	"ui_browse_list_source_workshop": "เวิร์กชอป",
 	"ui_browse_list_source_explore": "ค้นพบ",
 	"ui_browse_modal_no_steam_title": "ข้อผิดพลาด [[[Platform]]]",
+	"ui_browse_modal_no_steam_body_wrong_provider": "คุณกำลังใช้ Wallpaper Engine - รุ่น [[[Platform]]] ร่วมกับ [[[Platform]]] เวอร์ชันอื่น โปรดรีสตาร์ท Wallpaper Engine ผ่าน [[[Platform]]] เพื่อเข้าถึงเวิร์กชอปสำหรับเวอร์ชันของคุณ คุณยังสามารถเข้าสู่ระบบ [[[Platform]]] ในเวอร์ชันที่มีไว้สำหรับ Wallpaper Engine รุ่นนี้ได้",
 	"ui_browse_query_error": "เกิดข้อผิดพลาดในเครือข่าย [[[Platform]]] โปรดลองอีกครั้งในภายหลัง: {{error}}",
 	"ui_browse_modal_safe_mode_header": "การเริ่มต้นอย่างปลอดดภัย",
 	"ui_browse_modal_safe_mode_body": "ดูเหมือนว่าโปรแกรมไม่ได้ปิดอย่างถูกต้อง วอลเปเปอร์และปลั๊กอินล่าสุดจึงยังไม่ได้ถูกโหลดเพื่อป้องกันการเกิดปัญหา<br/><br/>คลิก ตกลง เพื่อกู้คืนทันทีหรือคลิก ยกเลิก เพื่อทำการเปลี่ยนแปลง",
