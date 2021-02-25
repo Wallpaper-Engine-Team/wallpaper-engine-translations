@@ -306,6 +306,7 @@
 	"ui_browse_list_source_workshop": "Workshop",
 	"ui_browse_list_source_explore": "Löydä",
 	"ui_browse_modal_no_steam_title": "[[[Platform]]] Virhe",
+	"ui_browse_modal_no_steam_body": "[[[Sdk]]] -paketin alustaminen ei onnistunut. Kokeile käynnistää [[[Platform]]] uudelleen ja käynnistä Wallpaper Engine sen jälkeen. Jos virhe tapahtuu edelleen, se tarkoittaa, että tietokoneesi ei pysty todentamaan [[[Platform]]] -palvelinten kanssa oikealla tavalla. Tarkista internetyhteytesi ja varmista, että olet kirjautunut oikealle [[[Platform]]] -tilille<br/><br/>Älä käynnistä [[[Platform]]] -alustaa järjestelmänvalvojana, sillä silloin [[[Sdk]]] ei pysty luomaan yhteyttä [[[Platform]]] -alustaan. Virustorjunta- tai muut tietoturvaohjelmat voivat myös estää [[[Platform]]] -alustaa ja Wallpaper Engineä toimimasta yhdessä, joten kokeile ottaa sellaiset pois käytöstä.<br/><br/>Tarvittaessa saat lisää apua FAQ:sta: <a href='[[[var_url_faqsteam]]]'>Korjaa [[[Platform]]] -yhteys</a>",
 	"ui_browse_modal_no_steam_body_wrong_provider": "Käytät Wallpaper Enginen [[[Platform]]] Editionia yhdessä [[[Platform]]] -alustan eri version kanssa. Käynnistä Wallpaper Engine uudelleen [[[Platform]]] -alustan kautta, jotta saat oman sovellusversiosi Workshopin käyttöön. Voit myös kirjautua sisään tämän Wallpaper Engine -version oikeaan [[[Platform]]] -versioon.",
 	"ui_browse_query_error": "[[[Platform]]]-virhe tapahtui. Yritä myöhemmin uudelleen: {{error}}",
 	"ui_browse_modal_safe_mode_header": "Turvallinen käynnistys",
@@ -1955,5 +1956,16 @@
 	"ui_editor_select_texture": "Valitse tekstuuri",
 	"ui_provider_error_generic": "[[[Platform]]] havaitsi sisäisen virheen.",
 	"ui_provider_error_no_network": "[[[Platform]]] ei ole verkkoyhteydessä.",
-	"ui_provider_error_logged_on_elsewhere": "[[[Platform]]] -käyttäjä on kirjautunut toiseen tietokoneeseen."
+	"ui_provider_error_logged_on_elsewhere": "[[[Platform]]] -käyttäjä on kirjautunut toiseen tietokoneeseen.",
+	"ui_provider_error_file_not_found": "[[[Platform]]] ei löytänyt tai saanut käyttöönsä tiettyjä tiedostoja kiintolevylläsi.",
+	"ui_provider_error_servers_busy": "[[[Platform]]] -palvelimet eivät vastaa. Ne voivat olla ylikuormittuneita tai poissa käytöstä kokonaan.",
+	"ui_provider_error_access_denied": "[[[Platform]]] kieltää käytön. Yleensä tämä tarkoittaa, että tilisi on kielletty joko pysyvästi tai väliaikaisesti.",
+	"ui_provider_error_timeout": "[[[Platform]]] keskeytti pyynnön, koska sen käsittely kesti liian kauan.",
+	"ui_provider_error_service_unavailable": "[[[Platform]]] -palvelut eivät ole tällä hetkellä käytettävissä.",
+	"ui_provider_error_not_logged_in": "[[[Platform]]] -käyttäjä ei ole kirjautunut sisään.",
+	"ui_provider_error_insufficient_privilege": "[[[Platform]]] -alustalta puuttuu oikeuksia.",
+	"ui_provider_error_limit_exceeded": "[[[Platform]]] on kohdannut pyyntörajan.",
+	"ui_provider_error_io_failure": "[[[Platform]]] on kohdannut ongelmia liittyen tiedostojen kirjoittamiseen kiintolevyllesi tai lukemiseen kiintolevyltäsi.",
+	"ui_provider_error_read_only": "[[[Platform]]] -palvelulla on vain lukuoikeus. Jos olet vaihtanut salasanaasi äskettäin, [[[Platform]]] ei salli uuden sisällön lataamista. Tämä ongelma korjautuu yleensä muutaman päivän kuluessa itsestään.",
+	"ui_provider_error_failed_setting_item_data": "[[[Platform]]] epäonnistui uusien Workshop-tietojen käyttämisessä."
 }
