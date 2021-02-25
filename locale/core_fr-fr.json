@@ -42,6 +42,7 @@
 	"core_msgbox_trial_expired_title": "Version d'essai expirée",
 	"core_msgbox_trial_expired_body": "La version d'essai a expirée et Wallpaper Engine va maintenant se fermer.\n\nVous devez acheter Wallpaper Engine sur [[[Platform]]] si vous souhaitez continuer de l'utiliser, merci !",
 	"core_fatal_window_creation_failed": "Impossible de créer la fenêtre de fond d'écran (erreur {{error}}). Ceci est généralement lié à des pilotes de carte graphique défaillants. Effectuez une réinstallation propre de vos pilotes de carte graphique et redémarrez votre ordinateur.",
+	"core_updater_title": "Module de mise à jour de Wallpaper Engine",
 	"core_updater_headline_init": "Configuration de Wallpaper Engine...",
 	"core_updater_headline_update": "Mise à jour de Wallpaper Engine vers la version suivante :  {{version}}...",
 	"core_updater_headline_init_complete": "Configuration terminée de la version {{version}}. Démarrage de Wallpaper Engine...",
