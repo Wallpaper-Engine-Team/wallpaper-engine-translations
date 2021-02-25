@@ -61,6 +61,7 @@
 	"ui_browse_steam_status_pending": "[[[Platform]]]'in yanıt vermesi bekleniyor...",
 	"ui_browse_steam_status_complete": "[[[Platform]]] güncellemesi tamamlandı.<br/>Önbelleğe {{count}} duvar kağıdı yazıldı.",
 	"ui_browse_steam_status_complete_generic": "[[[Platform]]] güncellemesi tamamlandı.<br/>Önbelleğe {{count}} öğe yazıldı.",
+	"ui_browse_steam_status_complete_no_subscriptions": "[[[Platform]]] aboneliklerinizi almada başarısız oldu.",
 	"ui_browse_header_option_settings": "Ayarlar",
 	"ui_browse_header_option_monitors": "Ekranlar",
 	"ui_browse_header_option_editor": "Duvar Kağıdı Düzenleyici",
@@ -1864,6 +1865,7 @@
 	"ui_editor_properties_viewport": "Görünüm",
 	"ui_editor_properties_visible": "Görünür",
 	"ui_editor_properties_volume": "Ses Düzeyi",
+	"ui_editor_properties_vram": "Görüntü belleği",
 	"ui_editor_properties_waiting_for_compiler": "Derleyicinin tamamlanması bekleniyor...",
 	"ui_editor_properties_water_normal": "Su Efekti Normalmap",
 	"ui_editor_properties_weights": "Ağırlık",
@@ -1947,5 +1949,10 @@
 	"ui_editor_puppet_warp_save_pose_title": "Yeni pozu Kaydet",
 	"ui_editor_puppet_warp_overwrite_pose_title": "Pozun üstüne yaz {{name}}",
 	"ui_editor_select_material": "Malzeme Seç",
-	"ui_editor_select_texture": "Doku Seç"
+	"ui_editor_select_texture": "Doku Seç",
+	"ui_provider_error_generic": "[[[Platform]]] dahili bir hatayla karşılaştı.",
+	"ui_provider_error_no_network": "[[[Platform]]] ağ bağlantısına sahip değil.",
+	"ui_provider_error_logged_on_elsewhere": "[[[Platform]]] kullanıcısı farklı bir bilgisayarda oturum açtı.",
+	"ui_provider_error_file_not_found": "[[[Platform]]] sabit diskinizdeki belirli dosyaları bulamadı veya bunlara erişemedi.",
+	"ui_provider_error_servers_busy": "[[[Platform]]]'in sunucuları yanıt vermiyor ve aşırı yüklenmiş veya tamamen devre dışı olabilir."
 }
