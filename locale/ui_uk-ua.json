@@ -1964,5 +1964,8 @@
 	"ui_provider_error_service_unavailable": "Сервіси [[[Platform]]] тимчасово недоступні.",
 	"ui_provider_error_not_logged_in": "Вхід в обліковий запис [[[Platform]]] не виконано.",
 	"ui_provider_error_insufficient_privilege": "[[[Platform]]] бракує прав.",
-	"ui_provider_error_limit_exceeded": "Досягнута максимальна кількість запитів [[[Platform]]]."
+	"ui_provider_error_limit_exceeded": "Досягнута максимальна кількість запитів [[[Platform]]].",
+	"ui_provider_error_io_failure": "Під час запису або читання файлів [[[Platform]]] виникли проблеми.",
+	"ui_provider_error_read_only": "Служба [[[Platform]]] має тільки доступ до читання файлів. Якщо ви нещодавно змінювали пароль, [[[Platform]]] не дозволить вам завантажувати новий вміст. Ця проблема зазвичай вирішується сама собою через декілька днів.",
+	"ui_provider_error_failed_setting_item_data": "[[[Platform]]] не вдалося задати нову інформацію для майстерні."
 }
