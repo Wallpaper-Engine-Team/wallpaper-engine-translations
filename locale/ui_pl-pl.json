@@ -1311,6 +1311,7 @@
 	"ui_editor_effect_shine_description": "Dodaje efekt błysku do jasnych części obrazu za pomocą zmiennej liczby krawędzi.",
 	"ui_editor_effect_refract_title": "Załamanie",
 	"ui_editor_effect_refract_description": "Zniekształca tło w oparciu o standardową mapę, pozwalając również na połączenie z opcjonalną teksturą albedo.",
+	"ui_editor_effect_iris_title": "Ruch tęczówki",
 	"ui_editor_effect_iris_description": "Ożywia oczy postaci, aby realistycznie się rozglądały.",
 	"ui_editor_preset_variant_small": "Mały",
 	"ui_editor_preset_variant_large": "Duży",
