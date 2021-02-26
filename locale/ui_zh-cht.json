@@ -1764,6 +1764,7 @@
 	"ui_editor_properties_reset_pose": "重設姿勢",
 	"ui_editor_properties_reset_to_selected_pose": "重設為選取的姿勢",
 	"ui_editor_properties_resolution": "解析度",
+	"ui_editor_properties_resolution_in_memory": "記憶體解析度",
 	"ui_editor_properties_right": "右側",
 	"ui_editor_properties_ripple_scale": "波紋規模",
 	"ui_editor_properties_ripple_strength": "波紋強度",
@@ -1862,6 +1863,7 @@
 	"ui_editor_properties_viewport": "檢視區",
 	"ui_editor_properties_visible": "可見",
 	"ui_editor_properties_volume": "音量",
+	"ui_editor_properties_vram": "視訊隨機存取記憶體 (VRAM)",
 	"ui_editor_properties_waiting_for_compiler": "等待編譯器完成...",
 	"ui_editor_properties_water_normal": "水波法線貼圖",
 	"ui_editor_properties_weights": "權重",
@@ -1945,5 +1947,12 @@
 	"ui_editor_puppet_warp_save_pose_title": "儲存新姿勢",
 	"ui_editor_puppet_warp_overwrite_pose_title": "覆寫姿勢 {{name}}",
 	"ui_editor_select_material": "選取素材",
-	"ui_editor_select_texture": "選取紋理"
+	"ui_editor_select_texture": "選取紋理",
+	"ui_provider_error_generic": "[[[Platform]]] 出現內部錯誤。",
+	"ui_provider_error_no_network": "[[[Platform]]] 沒有網路連線。",
+	"ui_provider_error_logged_on_elsewhere": "[[[Platform]]] 使用者已在另一台電腦上登入。",
+	"ui_provider_error_file_not_found": "[[[Platform]]] 無法找到或存取硬碟上特定檔案。",
+	"ui_provider_error_servers_busy": "[[[Platform]]] 伺服器無回應，可能已經過載或完全停機。",
+	"ui_provider_error_access_denied": "[[[Platform]]] 拒絕存取。通常表示您的帳戶已禁用或暫時受到限制。",
+	"ui_provider_error_timeout": "由於處理程序過長，[[[Platform]]] 已中斷請求。"
 }
