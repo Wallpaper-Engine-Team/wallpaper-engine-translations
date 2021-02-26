@@ -665,6 +665,7 @@
 	"ui_settings_video_framework_prefer_native": "Native",
 	"ui_settings_use_safe_mode": "Использовать безопасный запуск:",
 	"ui_settings_disable_slideshow": "Убрать затухание обоев Windows:",
+	"ui_settings_disable_slideshow_tip": "Если эта опция включена, Wallpaper Engine будет стараться убрать эффект затухания обоев, который используется в Windows по умолчанию при переключении обоев Windows и при входе в систему Windows. Полное удаление этой функции Windows недоступно: затухание все еще будет появляться на короткое время.",
 	"ui_settings_ui_hardware_acceleration": "Аппаратное ускорение пользовательского интерфейса:",
 	"ui_settings_show_tray_icon": "Отображать значок в области уведомлений:",
 	"ui_settings_ui_performance": "Качество интерфейса:",
@@ -672,6 +673,7 @@
 	"ui_settings_ui_performance_medium": "Среднее: уменьшить эффекты",
 	"ui_settings_ui_performance_low": "Низкое: отключить все эффекты",
 	"ui_settings_restart_after_crash": "Перезагрузить после сбоя",
+	"ui_settings_restart_after_crash_hint": "Эта опция перезапустит Wallpaper Engine после сбоя и отключит уведомления о сбоях в основном приложении.<br/><br/>Эту опцию строго не рекомендуется включать без вынужденной необходимости<br/><br/>Приложение Wallpaper Engine очень стабильно и не приводит к сбоям при нормальных условиях работы. Эта опция существует исключительно для борьбы со сбоями в нестабильных системах из-за неисправных графических драйверов или программного обеспечения, которые могут отрицательно влиять на работу Wallpaper Engine.<br/><br/><b>Вы можете прервать автоматический перезапуск, удерживая нажатой клавишу ESCAPE.</b>",
 	"ui_settings_copyright": "Все права защищены.",
 	"ui_settings_thirdparty": "Сторонние заметки",
 	"ui_settings_highpriority_warning_header": "Информация о высоком приоритете",
@@ -1757,6 +1759,7 @@
 	"ui_editor_properties_reset_pose": "Сбросить позу",
 	"ui_editor_properties_reset_to_selected_pose": "Восстановить выбранную позу",
 	"ui_editor_properties_resolution": "Разрешение",
+	"ui_editor_properties_resolution_in_memory": "Разрешение в памяти",
 	"ui_editor_properties_right": "Право",
 	"ui_editor_properties_ripple_scale": "Масштаб ряби",
 	"ui_editor_properties_ripple_strength": "Уровень ряби",
@@ -1855,6 +1858,7 @@
 	"ui_editor_properties_viewport": "Окно просмотра",
 	"ui_editor_properties_visible": "Видимый",
 	"ui_editor_properties_volume": "Громкость",
+	"ui_editor_properties_vram": "Видеопамять",
 	"ui_editor_properties_waiting_for_compiler": "Ожидание завершения компиляции...",
 	"ui_editor_properties_water_normal": "Карта нормали воды",
 	"ui_editor_properties_weights": "Веса",
@@ -1938,5 +1942,10 @@
 	"ui_editor_puppet_warp_save_pose_title": "Сохранить новую позу",
 	"ui_editor_puppet_warp_overwrite_pose_title": "Перезаписать позу «{{name}}»",
 	"ui_editor_select_material": "Выбрать материал",
-	"ui_editor_select_texture": "Выбрать текстуру"
+	"ui_editor_select_texture": "Выбрать текстуру",
+	"ui_provider_error_generic": "Внутренняя ошибка [[[Platform]]].",
+	"ui_provider_error_no_network": "Отсутствует соединение [[[Platform]]] с интернетом.",
+	"ui_provider_error_logged_on_elsewhere": "Пользователь [[[Platform]]] уже вошел в систему на другом компьютере.",
+	"ui_provider_error_file_not_found": "[[[Platform]]] не удалось найти или получить доступ к определенным файлам на жестком диске.",
+	"ui_provider_error_servers_busy": "Серверы [[[Platform]]] не отвечают и могут быть перегружены или отключены."
 }
