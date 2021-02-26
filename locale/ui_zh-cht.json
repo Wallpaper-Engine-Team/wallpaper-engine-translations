@@ -13,6 +13,7 @@
 	"ui_discard": "捨棄",
 	"ui_save": "儲存",
 	"ui_show_details": "顯示詳細資料",
+	"ui_hotkey": "快速鍵：{{key}}",
 	"ui_resolution_widescreen": "寬螢幕",
 	"ui_resolution_ultrawide": "超寬螢幕",
 	"ui_resolution_dual": "雙顯示器",
