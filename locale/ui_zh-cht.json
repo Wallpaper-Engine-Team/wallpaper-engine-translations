@@ -1954,5 +1954,12 @@
 	"ui_provider_error_file_not_found": "[[[Platform]]] 無法找到或存取硬碟上特定檔案。",
 	"ui_provider_error_servers_busy": "[[[Platform]]] 伺服器無回應，可能已經過載或完全停機。",
 	"ui_provider_error_access_denied": "[[[Platform]]] 拒絕存取。通常表示您的帳戶已禁用或暫時受到限制。",
-	"ui_provider_error_timeout": "由於處理程序過長，[[[Platform]]] 已中斷請求。"
+	"ui_provider_error_timeout": "由於處理程序耗時過長，[[[Platform]]] 已中斷要求。",
+	"ui_provider_error_service_unavailable": "[[[Platform]]] 的服務暫時無法使用。",
+	"ui_provider_error_not_logged_in": "[[[Platform]]] 使用者尚未登入。",
+	"ui_provider_error_insufficient_privilege": "[[[Platform]]] 缺少權限。",
+	"ui_provider_error_limit_exceeded": "[[[Platform]]] 遇到了要求限制。",
+	"ui_provider_error_io_failure": "[[[Platform]]] 在讀取與寫入硬碟檔案時遇到問題。",
+	"ui_provider_error_read_only": "[[[Platform]]] 服務為唯讀形式。如果您最近曾變更密碼，[[[Platform]]] 將不允許上傳新內容，這個問題通常數日過後就會自行解決。",
+	"ui_provider_error_failed_setting_item_data": "[[[Platform]]] 無法套用新的工作坊資訊。"
 }
