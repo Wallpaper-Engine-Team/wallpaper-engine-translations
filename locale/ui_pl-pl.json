@@ -61,6 +61,7 @@
 	"ui_browse_steam_status_pending": "Oczekiwanie na odpowiedź platformy [[[Platform]]]...",
 	"ui_browse_steam_status_complete": "Aktualizacja platformy [[[Platform]]] zakończona.<br/>Zapisano tapety ({{count}}) do pamięci podręcznej.",
 	"ui_browse_steam_status_complete_generic": "Aktualizacja [[[Platform]]] zakończona.<br/>Ilość obiektów{{count}} zapisana do pamięci podręcznej.",
+	"ui_browse_steam_status_complete_no_subscriptions": "Platformie [[[Platform]]] nie udało się pozyskać Twoich subskrypcji.",
 	"ui_browse_header_option_settings": "Ustawienia",
 	"ui_browse_header_option_monitors": "Monitory",
 	"ui_browse_header_option_editor": "Edytor",
