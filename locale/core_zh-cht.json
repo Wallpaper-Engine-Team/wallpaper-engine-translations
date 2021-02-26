@@ -42,6 +42,7 @@
 	"core_msgbox_trial_expired_title": "試用版已到期",
 	"core_msgbox_trial_expired_body": "試用版已經到期，即將關閉Wallpaper Engine。\n如果您想繼續使用，您可以在[[[Platform]]]上購買Wallpaper Engine，謝謝！",
 	"core_fatal_window_creation_failed": "建立桌布視窗失敗（錯誤 {{error}}）。這通常和損壞的顯示卡驅動程式有關。請完整重新安裝顯示卡驅動程式並重新啟動您的電腦。",
+	"core_updater_title": "Wallpaper Engine 更新程式",
 	"core_updater_headline_init": "正在設定 Wallpaper Engine...",
 	"core_updater_headline_update": "正在更新 Wallpaper Engine 至版本 {{version}}...",
 	"core_updater_headline_init_complete": "版本 {{version}} 安裝完成。正在啟動 Wallpaper Engine...",
