@@ -42,6 +42,7 @@
 	"core_msgbox_trial_expired_title": "Twoja wersja próbna wygasła",
 	"core_msgbox_trial_expired_body": "Twoja wersja próbna wygasła i Wallpaper Engine teraz zostanie zamknięty.\n\nMusisz kupić Wallpaper Engine na [[[Platform]]] jak chcesz z niego dalej korzystać, dziękujemy!",
 	"core_fatal_window_creation_failed": "Nie udało się utworzyć okna tapety (kod błędu {{error}}). Jest to zwykle powiązane z zepsutymi sterownikami karty graficznej. Przeprowadź czystą instalację sterowników twojej karty graficznej i uruchom ponownie komputer.",
+	"core_updater_title": "Aktualizator Wallpaper Engine",
 	"core_updater_headline_init": "Konfigurowanie programu Wallpaper Engine...",
 	"core_updater_headline_update": "Aktualizowanie programu Wallpaper Engine do wersji {{version}}...",
 	"core_updater_headline_init_complete": "Zakończono konfigurowanie wersji {{version}}. Uruchamianie programu Wallpaper Engine...",
