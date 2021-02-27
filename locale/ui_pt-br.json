@@ -786,6 +786,7 @@
 	"ui_editor_modal_unsaved_changes_header": "Alterações não salvas",
 	"ui_editor_modal_unsaved_changes_body": "Você possui alterações não salvas no seu projeto. Deseja salvá-las ou descartá-las agora?",
 	"ui_editor_modal_delete_published_wallpapers_header": "Excluir papéis de parede publicados",
+	"ui_editor_modal_delete_published_wallpapers_danger_alert": "Todos os uploads da Oficina que forem excluídos desta lista serão excluídos permanentemente da Oficina [[[Platform]]]. Todos os conteúdos também serão excluídos dos usuários que se inscreveram via [[[Platform]]].",
 	"ui_editor_modal_delete_published_wallpapers_button": "Excluído permanentemente",
 	"ui_editor_modal_delete_published_wallpapers_confirm_header": "Excluir {{title}} permanentemente",
 	"ui_editor_modal_delete_published_wallpapers_confirm_body": "Tem certeza de que quer excluir {{title}} permanentemente da Oficina [[[Platform]]]?<br/><br/>O upload da Oficina será excluído permanentemente da Oficina [[[Platform]]] e de todos os usuários que se inscreveram nele.",
