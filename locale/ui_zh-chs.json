@@ -1959,13 +1959,13 @@
 	"ui_provider_error_logged_on_elsewhere": "此 [[[Platform]]] 用户已在另一台计算机上登录。",
 	"ui_provider_error_file_not_found": "[[[Platform]]] 无法找到或无法访问您硬盘上的某些文件。",
 	"ui_provider_error_servers_busy": "[[[Platform]]] 服务器无响应，其可能已经超载或完全停机。",
-	"ui_provider_error_access_denied": "[[[Platform]]] 拒绝了我们的请求。这通常代表您的账户已被永久或临时封禁。",
-	"ui_provider_error_timeout": "由于耗时过长，[[[Platform]]] 中断了我们的请求。",
+	"ui_provider_error_access_denied": "[[[Platform]]] 拒绝访问。这通常代表您的帐户已被禁或暂时受到限制。",
+	"ui_provider_error_timeout": "由于处理耗时过长，[[[Platform]]] 中断了请求。",
 	"ui_provider_error_service_unavailable": "[[[Platform]]] 服务暂时不可用。",
 	"ui_provider_error_not_logged_in": "用户未登录到 [[[Platform]]]。",
 	"ui_provider_error_insufficient_privilege": "[[[Platform]]] 缺少权限。",
-	"ui_provider_error_limit_exceeded": "[[[Platform]]] 遭到了请求限制。",
+	"ui_provider_error_limit_exceeded": "[[[Platform]]] 遇到了请求限制。",
 	"ui_provider_error_io_failure": "[[[Platform]]] 在读写您的硬盘时遇到了错误。",
 	"ui_provider_error_read_only": "目前仅能读取 [[[Platform]]] 服务。如果您最近更改过密码，[[[Platform]]] 将不允许上传新的内容。此问题通常将在数日后自行解决。",
-	"ui_provider_error_failed_setting_item_data": "[[[Platform]]] 未能保存新的创意工坊信息。"
+	"ui_provider_error_failed_setting_item_data": "[[[Platform]]] 未能应用新的创意工坊信息。"
 }
