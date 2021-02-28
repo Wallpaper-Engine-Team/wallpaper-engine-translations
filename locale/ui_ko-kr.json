@@ -727,7 +727,7 @@
 	"ui_editor_filemenu_import_image": "이미지 가져오기",
 	"ui_editor_filemenu_import_sound": "사운드 가져오기",
 	"ui_editor_filemenu_change_project_settings": "프로젝트 설정 변경",
-	"ui_editor_filemenu_open_in_explorer": "Explorer에서 열기",
+	"ui_editor_filemenu_open_in_explorer": "탐색기에서 열기",
 	"ui_editor_filemenu_template_wizard": "템플릿 마법사",
 	"ui_editor_filemenu_view": "보기",
 	"ui_editor_filemenu_restart_preview": "미리보기 재시작",
