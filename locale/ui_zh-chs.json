@@ -61,7 +61,7 @@
 	"ui_browse_steam_status_pending": "正在等待 [[[Platform]]] 响应...",
 	"ui_browse_steam_status_complete": "[[[Platform]]] 更新完成。<br/>向缓存中写入了 {{count}} 个壁纸。",
 	"ui_browse_steam_status_complete_generic": "[[[Platform]]] 升级完毕。<br/>写入 {{count}} 物品来进行缓存。",
-	"ui_browse_steam_status_complete_no_subscriptions": "[[[Platform]]] 未能获取到您的订阅数据。",
+	"ui_browse_steam_status_complete_no_subscriptions": "[[[Platform]]] 未能检索到您的订阅数据。",
 	"ui_browse_header_option_settings": "设置",
 	"ui_browse_header_option_monitors": "显示",
 	"ui_browse_header_option_editor": "编辑器",
