@@ -13,6 +13,7 @@
 	"ui_discard": "버리기",
 	"ui_save": "저장",
 	"ui_show_details": "세부사항 보기",
+	"ui_hotkey": "단축키: {{key}}",
 	"ui_resolution_widescreen": "와이드스크린",
 	"ui_resolution_ultrawide": "울트라 와이드스크린",
 	"ui_resolution_dual": "듀얼 모니터",
@@ -1945,6 +1946,17 @@
 	"ui_editor_select_material": "재질 선택",
 	"ui_editor_select_texture": "텍스처 선택",
 	"ui_provider_error_generic": "[[[Platform]]] 내부 오류가 발생했습니다.",
-	"ui_provider_error_no_network": "[[[Platform]]]이(가) 네트워크에 연결되어 있지 않습니다.",
-	"ui_provider_error_logged_on_elsewhere": "[[[Platform]]] 사용자가 다른 컴퓨터에서 로그인되어 있습니다."
+	"ui_provider_error_no_network": "[[[Platform]]]이 네트워크에 연결되어 있지 않습니다.",
+	"ui_provider_error_logged_on_elsewhere": "[[[Platform]]] 사용자가 다른 컴퓨터에서 로그인되어 있습니다.",
+	"ui_provider_error_file_not_found": "[[[Platform]]]이 하드 디스크에서 특정 파일을 찾거나 접근할 수 없습니다.",
+	"ui_provider_error_servers_busy": "[[[Platform]]] 서버가 응답하지 않습니다. 과부하되었거나 오프라인 상태일 수 있습니다.",
+	"ui_provider_error_access_denied": "[[[Platform]]]이 접근을 거부하고 있습니다. 이는 주로 계정이 차단되었거나 일시적으로 제한되었음을 의미합니다.",
+	"ui_provider_error_timeout": "처리 시간이 너무 길어 [[[Platform]]]이 요청을 취소했습니다.",
+	"ui_provider_error_service_unavailable": "현재 [[[Platform]]] 서비스를 이용할 수 없습니다.",
+	"ui_provider_error_not_logged_in": "[[[Platform]]] 사용자가 로그인되어 있지 않습니다.",
+	"ui_provider_error_insufficient_privilege": "[[[Platform]]]의 권한이 부족합니다.",
+	"ui_provider_error_limit_exceeded": "[[[Platform]]]이 요청 한도에 도달했습니다.",
+	"ui_provider_error_io_failure": "[[[Platform]]]가 하드 디스크에서 파일을 읽거나 하드 디스크에 파일을 쓰는 도중 문제가 발생했습니다.",
+	"ui_provider_error_read_only": "[[[Platform]]] 서비스가 읽기 전용입니다. 최근 비밀번호를 변경한 경우, [[[Platform]]]이 새로운 콘텐츠 업로드를 허용하지 않습니다. 이 문제는 일반적으로 며칠이 지나면 저절로 해결됩니다.",
+	"ui_provider_error_failed_setting_item_data": "[[[Platform]]]이 새로운 창작마당 정보를 적용하는 데 실패했습니다."
 }
