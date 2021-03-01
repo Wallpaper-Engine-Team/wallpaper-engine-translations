@@ -115,7 +115,6 @@
 	"ui_browse_playlist_modal_settings_transition_enabled": "اظهر انتقال الخلفية",
 	"ui_browse_list_source_installed": "المثبت",
 	"ui_browse_modal_no_steam_title": "خطأ في ستيم",
-	"ui_browse_modal_no_steam_body": ".غير قادر على تكوين ستيم ووركس الرجاء اعادة تشغيل ستيم و من ثم محرك الخلفيات اذا لا زلت ترى هذا الخطأ فهذا يعني ان جهازك غير قادر على المصادقة مع سيرفرات ستيم تاكد من اتصالك بالانترنت و ايضا اذا كنت قد سجلت الدخول في الحساب الصحيح في ستيم و قد تكون سيرفرات ستيم معطلة مؤقتا",
 	"ui_browse_query_sort_by_votes": "الاعلى تقييما",
 	"ui_browse_query_sort_by_date": "الاحدث",
 	"ui_browse_query_sort_by_trend_today": "(الاكثر شعبية (اليوم",

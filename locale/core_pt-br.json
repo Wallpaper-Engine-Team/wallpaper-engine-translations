@@ -42,6 +42,7 @@
 	"core_msgbox_trial_expired_title": "Prazo da versão de testes excedido",
 	"core_msgbox_trial_expired_body": "A versão de testes expirou e agora Wallpaper Engine irá fechar.\n\nVocê precisa comprar o aplicativo na [[[Platform]]] caso deseje continuar utilizando-o, obrigado!",
 	"core_fatal_window_creation_failed": "Houve um erro ao criar a janela de papel de parede (Error {{error}}). Normalmente é associado aos drivers da placa de vídeo, que podem estar desatualizado. Reinstale-os e reinicie o computador.",
+	"core_updater_title": "Wallpaper Engine - atualizador",
 	"core_updater_headline_init": "Preparando Wallpaper Engine...",
 	"core_updater_headline_update": "Atualizando Wallpaper Engine para a versão {{version}}...",
 	"core_updater_headline_init_complete": "Instalação da versão {{version}} concluída. Iniciando Wallpaper Engine...",
