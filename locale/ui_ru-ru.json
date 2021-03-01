@@ -13,6 +13,7 @@
 	"ui_discard": "Отменить",
 	"ui_save": "Сохранить",
 	"ui_show_details": "Подробнее",
+	"ui_hotkey": "Горячая клавиша: {{key}}",
 	"ui_resolution_widescreen": "Широкий экран",
 	"ui_resolution_ultrawide": "Широкий экран «Ультра»",
 	"ui_resolution_dual": "Два монитора",
