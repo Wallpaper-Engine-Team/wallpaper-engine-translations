@@ -61,6 +61,7 @@
 	"ui_browse_steam_status_pending": "Väntar på att [[[Platform]]] ska svara...",
 	"ui_browse_steam_status_complete": "[[[Platform]]]uppdatering slutfördes.<br/>Skrev {{count}} bakgrunder till cacheminnet.",
 	"ui_browse_steam_status_complete_generic": "Uppdatering av [[[Platform]]] slutfördes.<br/>Skrev {{count}} objekt till cachen.",
+	"ui_browse_steam_status_complete_no_subscriptions": "[[[Platform]]] misslyckades att hämta dina prenumerationer.",
 	"ui_browse_header_option_settings": "Inställningar",
 	"ui_browse_header_option_monitors": "Skärmar",
 	"ui_browse_header_option_editor": "Bakgrundsredigerare",
@@ -1947,5 +1948,7 @@
 	"ui_editor_puppet_warp_save_pose_title": "Spara ny posering",
 	"ui_editor_puppet_warp_overwrite_pose_title": "Skriv över poseringen {{name}}",
 	"ui_editor_select_material": "Välj material",
-	"ui_editor_select_texture": "Välj textur"
+	"ui_editor_select_texture": "Välj textur",
+	"ui_provider_error_generic": "[[[Platform]]] stötte på ett internt fel.",
+	"ui_provider_error_no_network": "[[[Platform]]] har ingen nätverksanslutning."
 }
