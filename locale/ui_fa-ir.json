@@ -56,7 +56,7 @@
 	"ui_browse_select_prompt": "لطفا یک تصویر زمینه انتخاب کنید",
 	"ui_browse_select_prompt_asset": "لطفا یک دارایی را انتخاب کنید",
 	"ui_browse_steam_status_unavailable": "[[[Platform]]] در دسترس نیست.",
-	"ui_browse_steam_status_unavailable_cache": "[[[Platform]]] در دسترس نیست. <br/>تصاویر زمینه {{count}} را از حافظه پنهان بارگیری کرد.",
+	"ui_browse_steam_status_unavailable_cache": "در دسترس نیست [[[Platform]]].<br/> {{count}} تصویر زمینه را از حافظه پنهان بارگیری کرد.",
 	"ui_browse_steam_status_unavailable_cache_assets": "[[[Platform]]] در دسترس نیست. <br/> {{count}} دارایی از حافظه پنهان بارگیری شد.",
 	"ui_browse_steam_status_pending": "منتظر پاسخ [[[Platform]]]...",
 	"ui_browse_steam_status_complete": "[[[Platform]]] بروزرسانی کامل شد. <br/>تصاویر زمینه را برای حافظه پنهان {{count}} نوشت.",
