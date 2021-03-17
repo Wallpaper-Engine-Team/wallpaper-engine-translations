@@ -41,6 +41,7 @@
 	"core_msgbox_trial_expired_title": "A próbaverzió lejárt",
 	"core_msgbox_trial_expired_body": "A próbaverzió lejárt és a Wallpaper Engine most bezárul.\n\nHa szeretnéd tovább használni a Wallpaper Engine-t, akkor vásárold meg a [[[Platform]]]-on, köszönjük!",
 	"core_fatal_window_creation_failed": "Háttérkép ablak készítése sikertelen (Hiba {{error}}). Ez a hiba általában a hibás videókártya illesztőprogramokra jellemző. Telepítsd újra a videókártyád illesztőprogramját és indítsd újra a számítógéped.",
+	"core_updater_title": "Wallpaper Engine Frissítő",
 	"core_updater_headline_init": "Wallpaper Engine indítása...",
 	"core_updater_headline_update": "A Wallpaper Engine frissítése a {{version}} verzióra...",
 	"core_updater_headline_init_complete": "A {{version}} verzió telepítése kész. Wallpaper Engine indítása...",
