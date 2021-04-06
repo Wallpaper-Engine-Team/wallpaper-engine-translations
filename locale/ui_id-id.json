@@ -1728,7 +1728,7 @@
 	"ui_editor_properties_pinch": "Cubit",
 	"ui_editor_properties_playback": "Pemutar",
 	"ui_editor_properties_playback_rate": "Kecepatan pemutar",
-	"ui_editor_properties_point_filter": "Saring titik",
+	"ui_editor_properties_point_filter": "Filter titik",
 	"ui_editor_properties_point_light": "Titik cahaya",
 	"ui_editor_properties_point_size": "Ukuran titik",
 	"ui_editor_properties_pose_index": "Pose {{index}}",
