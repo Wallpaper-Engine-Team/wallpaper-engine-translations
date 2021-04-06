@@ -644,7 +644,7 @@
 	"ui_settings_advanced_reset_config_button": "SETEL ULANG",
 	"ui_settings_advanced_reset_config_modal_header": "Konfirmasi Penyetelan Ulang",
 	"ui_settings_advanced_reset_config_modal_body": "<b>Seluruh</b> aplikasi akan diatur ulang, <b>semua</b> pengaturan Anda akan dihapus dan Wallpaper Engine perlu diaktifkan ulang.",
-	"ui_settings_video_audio_label": "Keluaran suara:",
+	"ui_settings_video_audio_label": "Output suara:",
 	"ui_settings_video_hardware_acceleration_label": "Akselerasi perangkat keras video",
 	"ui_settings_process_priority": "Prioritas proses:",
 	"ui_settings_process_priority_normal": "Normal",
