@@ -565,7 +565,7 @@
 	"ui_settings_audio_input_device": "Perangkat perekam suara:",
 	"ui_settings_audio_input_device_default": "Bawaan",
 	"ui_settings_adjust_windows_color": "Sesuaikan warna Windows:",
-	"ui_settings_adjust_windows_color_light_theme_hint": "Anda menggunakan tema 'cerah' Windows yang dimana tema tersebut tidak mengizinkan adanya warna pada bar tugas (task bar). Agar dapat mengubah warna pada bar tugas Anda, ubah tema Windows ke 'gelap'.",
+	"ui_settings_adjust_windows_color_light_theme_hint": "Anda menggunakan tema 'cerah' Windows yang dimana tema tersebut tidak mengizinkan adanya warna pada bilah tugas. Agar dapat mengubah warna pada bilah tugas Anda, ubah tema Windows ke 'gelap'.",
 	"ui_settings_adjust_windows_color_disabled": "Mati",
 	"ui_settings_adjust_windows_color_accent": "Aksen warna saja",
 	"ui_settings_adjust_windows_color_everything": "Semuanya",
