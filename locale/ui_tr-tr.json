@@ -923,7 +923,7 @@
 	"ui_editor_workshop_modal_rating_no_rating_info_header": "Uygun İçerik",
 	"ui_editor_workshop_modal_rating_no_rating_info_body": "Lütfen yüklediğiniz içeriklerin herkes için uygun olduğundan emin olun! Tartışmalı veya yasa dışı bir şey yüklemeniz durumunda başvurunuz veya hesabınız tamamen yasaklanabilir.",
 	"ui_editor_open_modal_header": "Duvar Kağıdı Aç",
-	"ui_editor_open_modal_delete": "Sil",
+	"ui_editor_open_modal_delete": " Sil",
 	"ui_editor_context_menu_center": "Ortala",
 	"ui_editor_context_menu_align_with_background": "Arka planla hizala",
 	"ui_editor_context_menu_rotate_clockwise": "Saat Yönünde Döndür",
