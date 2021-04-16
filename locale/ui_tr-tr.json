@@ -74,7 +74,7 @@
 	"ui_browse_clear_filters": "Süzgeçleri temizle",
 	"ui_browse_preset_filter_notice": "Ön ayarların gözatıldığı: {{title}}",
 	"ui_browse_steam_offline_notice": "[[[Platform]]] Atölye sunucuları <b>çevrimdışı</b>. {{date}} tarihinden itibaren bir acil durum yedeklemesine gözatıyorsunuz. </br> Bu, bilgisayarınız veya Wallpaper Engine ile ilgili bir sorun değildir. [[[Platform]]] sunucuları şu anda onarılıyor ve kısa süre sonra tekrar çevrimiçi olacaktır.",
-	"ui_browse_author_filter_notice": "{{author}} tarafından duvar kağıtlarına göz atılıyor",
+	"ui_browse_author_filter_notice": "{{author}} tarafından duvar kağıtlarına gözatılıyor",
 	"ui_browse_offline_error": "[[[Platform]]] sunucuları çevrimdışı. [[[Platform]]] ekibi sunucuları onarıyor, lütfen daha sonra tekrar deneyin.",
 	"ui_browse_download_error_restart_steam": "[[[Platform]]] indirmesi başarısız oldu.<br/><a class='btn btn-default' href='[[[var_url_faqdownloads]]]'>Yardım</a>",
 	"ui_browse_resolution_settings": "Çözünürlük Ayarları",
