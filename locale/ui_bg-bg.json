@@ -101,7 +101,6 @@
 	"ui_browse_modal_application_warning_body": "На път сте да отворите НЕизвестно външно приложение като тапет: <br/><b>{{filepath}}</b><br/>Wallpaper Engine няма контрол върху този файл, трябва да се уверите, че файлът принадлежи на достоверен източник преди да продължите.<br/><br/>ФАЙЛЪТ МОЖЕ ДА ПОВРЕДИ ВАШИЯТ КОМПЮТЪР.",
 	"ui_browse_modal_application_warning_timer": "<br/><br/>Моля, изчакайте {{time}} секунди.",
 	"ui_browse_modal_unsubscribe_header": "Отпиши се",
-	"ui_browse_modal_unsubscribe_body": "Сигурни ли сте, че искате да се отпишете от: <b>{{title}}</b>?",
 	"ui_browse_modal_remove_local_header": "Премахни от историята",
 	"ui_browse_modal_remove_local_body": "Сигурни ли сте, че искате да премахнете локалният тапет: <b>{{title}}</b>?",
 	"ui_browse_open_url_header": "Отворете тапет от интернет адрес",
