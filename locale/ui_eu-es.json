@@ -140,7 +140,6 @@
 	"ui_browse_modal_application_warning_timer": "<br/><br/>Mesedez itxaron {{time}} segundu.",
 	"ui_browse_modal_application_warning_disable_checkbox": "Ez galdetu berriro horma-paper honi buruz",
 	"ui_browse_modal_unsubscribe_header": "Harpidetza kendu",
-	"ui_browse_modal_unsubscribe_body": "<b>{{title}}</b>-(e)n harpidetza kendu nahi duzula ziur zaude?",
 	"ui_browse_modal_remove_local_header": "Historialetik ezabatu",
 	"ui_browse_modal_remove_local_body": "<b>{{title}}</b> horma-paper lokala kendu nahi duzula ziur zaude?",
 	"ui_browse_open_url_header": "Horma-papera URL-tik zabaldu",
