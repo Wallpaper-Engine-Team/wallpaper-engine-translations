@@ -76,7 +76,7 @@
 	"ui_browse_steam_offline_notice": "[[[Platform]]] 창작마당 서버가 <b>오프라인</b> 상태입니다. 현재 {{date}}의 비상용 백업을 탐색하고 있습니다.</br>Wallpaper Engine 또는 해당 컴퓨터의 문제가 아닙니다. [[[Platform]]] 서버는 현재 복구 중이며 곧 다시 연결할 수 있습니다.",
 	"ui_browse_author_filter_notice": "{{author}}의 배경화면 탐색",
 	"ui_browse_offline_error": "[[[Platform]]] 서버가 오프라인 상태입니다. 현재 [[[Platform]]] 팀이 서버를 복구 중이니 잠시 후에 다시 시도하십시오.",
-	"ui_browse_download_error_restart_steam": "[[Platform]]] 다운로드에 실패했습니다.<br/><a class='btn btn-default' href='[[[var_url_faqdownloads]]]'>도움말</a>",
+	"ui_browse_download_error_restart_steam": "[[[Platform]]] 다운로드에 실패했습니다.<br/><a class='btn btn-default' href='[[[var_url_faqdownloads]]]'>도움말</a>",
 	"ui_browse_resolution_settings": "해상도 설정",
 	"ui_browse_details_author": "저자:",
 	"ui_browse_details_author_pending": "< 보류 중 >",
