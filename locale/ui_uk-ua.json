@@ -188,6 +188,7 @@
 	"ui_browse_modal_application_warning_timer": "<br/><br/>Зачекайте {{time}} секунд.",
 	"ui_browse_modal_application_warning_disable_checkbox": "Не питати про ці шпалери знову",
 	"ui_browse_modal_unsubscribe_header": "Відписатись",
+	"ui_browse_modal_unsubscribe_body": "Ви впевнені, що хочете відписатись від: <b>{{title}}</b>?<br/><br/>Після скасування підписки [[[Platform]]] автоматично видалить файли шпалер після закриття вікна огляду шпалер. [[[Platform]]].",
 	"ui_browse_modal_unsubscribe_body_short": "Ви впевнені, що хочете відписатися від: <b>{{title}}</b>?",
 	"ui_browse_modal_remove_local_header": "Видалити з історії",
 	"ui_browse_modal_remove_local_body": "Ви впевнені що ви хочете видалити локальну шпалеру: <b>{{title}}</b>?",
