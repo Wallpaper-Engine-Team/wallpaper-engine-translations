@@ -28,6 +28,7 @@
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engine moet Aero inschakelen om te functioneren. Wilt u Aero nu inschakelen?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine kan niet functioneren met een 'hoog contrast' thema. Wilt u het thema nu resetten?",
 	"core_msgbox_prompt_high_contrast_was_enabled": "Windows heeft een 'hoog contrast' thema aan gezet, hierdoor zal Wallpaper Engine niet werken.",
+	"core_msgbox_high_contrast_white": "U heeft in Windows de modus voor hoog contrast ingeschakeld in combinatie met de witte hoog contrast thema. Vanwege de manier waarop het witte hoog contrast thema in Windows is ingebouwd zorgt het ervoor dat Wallpaper Engine geen dynamische achtergronden kan instellen.\n\nOpen de Windows hoog contrast instellingen en verander de hoog contrast thema of schakel de modus voor hoog contrast uit om Wallpaper Engine te kunnen gebruiken.",
 	"core_msgbox_dwm_disabled": "Bureaubladcompositie is uitgeschakeld.",
 	"core_msgbox_aero_denied": "Wallpaper Engine kan niet zonder Aero functioneren en zal nu afsluiten.",
 	"core_msgbox_aero_failure": "Kon Aero niet aan zetten. \n\nHet ziet er naar uit dat Windows voorkomt dat Aero word aangezet, Aero is een belangrijke eis voor Wallpaper Engine en Wallpaper Engine kan niet werken zonder het.\n\nProbeer Aero in de Windows Thema's aan te zetten en probeer het dan opnieuw.",
