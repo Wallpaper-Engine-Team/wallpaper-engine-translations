@@ -1059,7 +1059,7 @@
 	"ui_editor_user_properties_options": "Ayarlar",
 	"ui_editor_user_properties_options_label": "Etiket",
 	"ui_editor_user_properties_options_value": "Değer",
-	"ui_editor_user_properties_condition": "Koşul",
+	"ui_editor_user_properties_condition": "Görüntü Koşulu",
 	"ui_editor_user_properties_file_type": "Dosya Türü",
 	"ui_editor_user_properties_file_type_video": "Video",
 	"ui_editor_user_properties_file_type_image": "Resim",
