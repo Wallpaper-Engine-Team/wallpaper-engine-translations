@@ -1562,7 +1562,7 @@
 	"ui_editor_properties_cutout": "Potongan",
 	"ui_editor_properties_date": "Tanggal",
 	"ui_editor_properties_default": "Bawaan",
-	"ui_editor_properties_delimiter": "Pembatas",
+	"ui_editor_properties_delimiter": "Delimiter",
 	"ui_editor_properties_depth_test": "Uji kedalaman",
 	"ui_editor_properties_depth_write": "Tulis kedalaman",
 	"ui_editor_properties_deselect_all": "Batalkan semua pilihan",
