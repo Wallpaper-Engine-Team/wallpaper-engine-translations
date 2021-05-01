@@ -1,5 +1,6 @@
 {
 	"core_tray_change_wallpaper": "Промяна на тапета",
+	"core_tray_browse_workshop": "Разглеждане на работилницата",
 	"core_tray_create_wallpaper": "Създаване на тапет",
 	"core_tray_settings": "Настройки",
 	"core_tray_take_screenshot": "Заснемане на екрана",
@@ -34,7 +35,7 @@
 	"core_msgbox_init_secondinstance_failed": "Рестарт НЕуспешен, грешка:",
 	"core_msgbox_below_win_7": "Wallpaper Engine изисква Windows 7 или по-нова версия, както е описано в раздел системни изисквания в [[[Platform]]].\n\nНай-вероятно използвате неподдържана от Wallpaper Engine версия на Windows и Wallpaper Engine може да не работи нормално.",
 	"core_msgbox_media_feature_pack_missing": "mfplat.dll липсва!\nНай-вероятно използвате Windows N. Моля, инсталирайте Media Feature Pack от Microsoft, за да активирате видео поддръжка! (Google: Media Feature Pack Windows 10/8.1/7)\n\n",
-	"core_msgbox_trial_expired_title": "Пробната Версия Изтече",
+	"core_msgbox_trial_expired_title": "Пробната версия изтече",
 	"core_updater_headline_init": "Зареждане на Wallpaper Engine...",
 	"core_updater_headline_update": "Подновяване на Wallpaper Engine до версия {{version}}...",
 	"core_updater_headline_init_complete": "Настройването завършено на версия {{version}}. Стартиране на Wallpaper Engine...",
