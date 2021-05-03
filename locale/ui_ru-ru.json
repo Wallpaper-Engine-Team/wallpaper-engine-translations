@@ -1059,7 +1059,7 @@
 	"ui_editor_user_properties_options": "Опции",
 	"ui_editor_user_properties_options_label": "Метка",
 	"ui_editor_user_properties_options_value": "Значение",
-	"ui_editor_user_properties_condition": "Состояние дисплея",
+	"ui_editor_user_properties_condition": "Условие отображения",
 	"ui_editor_user_properties_file_type": "Тип файла",
 	"ui_editor_user_properties_file_type_video": "Видео",
 	"ui_editor_user_properties_file_type_image": "Изображение",
