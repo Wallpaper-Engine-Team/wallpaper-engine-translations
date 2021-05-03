@@ -159,7 +159,7 @@
 	"ui_browse_monitors_clone": "복제",
 	"ui_browse_monitors_save_profile": "프로필 저장",
 	"ui_browse_monitors_load_profile": "프로필 로드",
-	"ui_browse_monitors_show_on_start": "시작할 때 표",
+	"ui_browse_monitors_show_on_start": "시작할 때 표시",
 	"ui_browse_monitors_mute": "음소거",
 	"ui_browse_monitors_unmute": "음소거 해제",
 	"ui_browse_monitors_clone_hdr_hint": "Windows는 HDR 디스플레이에서 비-HDR 디스플레이로의 복제를 지원하지 않습니다.",
