@@ -42,7 +42,7 @@
 	"core_msgbox_trial_expired_title": "Deneme Sürümü Süresi Doldu",
 	"core_msgbox_trial_expired_body": "Deneme sürümünün süresi doldu ve Wallpaper Engine şimdi kapanacak.\n\nKullanmaya devam etmek isterseniz, Wallpaper Engine'i [[[Platform]]] üzerinden satın almak zorundasınız, teşekkür ederiz!",
 	"core_fatal_window_creation_failed": "Duvar kağıdı penceresi oluşturma başarısız (Hata {{error}}). Bu genellikle bozuk grafik kartı sürücüleriyle ilgilidir. Grafik kartı sürücülerinizi temiz bir şekilde yeniden kurun ve bilgisayarınızı yeniden başlatın.",
-	"core_updater_title": "Wallpaper Engine Güncelleştirici",
+	"core_updater_title": "Wallpaper Engine Güncelleyicisi",
 	"core_updater_headline_init": "Wallpaper Engine ayarlanıyor...",
 	"core_updater_headline_update": "Wallpaper Engine, {{version}} sürümüne güncelleniyor...",
 	"core_updater_headline_init_complete": "{{version}} sürümünün kurulumu tamamlandı. Wallpaper Engine başlatılıyor...",

@@ -58,7 +58,6 @@
 	"ui_browse_modal_application_warning_body": "Du er på vei til å åpne en ukjent ekstern applikasjon som bakgrunnsbilde: <br/><b>{{filepath}}</b><br/>Wallpaper Engine har ingen kontroll over denne filen, du må forsikre deg om at den kommer fra en pålitelig kilde før du fortsetter.<br/><br/>DET KAN SKADE DIN DATAMASKIN.",
 	"ui_browse_modal_application_warning_timer": "<br/><br/>Vennligst vent {{time}} sekunder.",
 	"ui_browse_modal_unsubscribe_header": "Avslutte Abonnementet",
-	"ui_browse_modal_unsubscribe_body": "Er du sikker på at du vil avslutte abonnementet fra: <b>{{title}}</b>?",
 	"ui_browse_modal_remove_local_header": "Fjern fra Historien",
 	"ui_browse_modal_remove_local_body": "Er du sikker på at du vil slette det lokae bakgrunnsbilde: <b>{{title}}</b>?",
 	"ui_browse_open_url_header": "Åpne bakgrunnsbilde fra URL",

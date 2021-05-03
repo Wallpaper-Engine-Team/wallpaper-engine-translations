@@ -1,5 +1,6 @@
 {
 	"core_tray_change_wallpaper": "Aldatu horma-papera",
+	"core_tray_browse_workshop": "Arakatu Workshop",
 	"core_tray_create_wallpaper": "Sortu horma-papera",
 	"core_tray_settings": "Ezarpenak",
 	"core_tray_take_screenshot": "Pantailaren argazkia",
@@ -14,6 +15,7 @@
 	"core_tray_next_wallpaper": "Hurrengo horma-papera",
 	"core_tray_mute": "Isilarazi",
 	"core_tray_unmute": "Kendu isilarazpena",
+	"core_tray_playlist_prefix": "Erreprodukzio-zerrenda:",
 	"core_balloon_info": "Wallpaper Engine zure jakinarazpen eremura minimizatu da. Egin klik bi aldiz ikonoan horma-papera aukeratzeko.",
 	"core_balloon_desktop_window_error": "Errorea horma-papera animatua ezartzean.",
 	"core_balloon_video_error": "{{err}} Windows bideo errorea gertatu da. Klik egin informazio gehiagorako.",
@@ -39,6 +41,7 @@
 	"core_msgbox_trial_expired_title": "Proba bertsioa iraungita",
 	"core_msgbox_trial_expired_body": "Proba bertsioa iraungi da eta Wallpaper Engine itxi egingo da.\n\nWallpaper Engine erosi behar duzu [[[Platform]]](e)n erabiltzen jarraitu nahi baduzu, eskerrik asko!",
 	"core_fatal_window_creation_failed": "Ezin izan da horma-papera leihoa sortu ({{error}} errorea). Hau txarto instalatutako txartel grafikoaren kontrolatzaileengatik gertatzen da normalean. Instalatu txartel grafikoaren kontrolatzaileak modu garbian eta berrabiarazi zure ordenagailua.",
+	"core_updater_title": "Wallpaper Engine eguneratzailea",
 	"core_updater_headline_init": "Wallpaper Engine prestatzen...",
 	"core_updater_headline_update": "Wallpaper Engine {{version}} bertsiora eguneratzen...",
 	"core_updater_headline_init_complete": "{{version}} bertsioaren prestakuntza bukatu da. Wallpaper Engine abiarazten...",

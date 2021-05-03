@@ -57,7 +57,6 @@
 	"ui_browse_modal_application_warning_body": "Jūs bandote atverti nežinomą išorinę programą kaip foną: <br/><b>{{filepath}}</b><br/>Wallpaper Engine nekontroliuoja šio failo, todėl prieš tęsdami privalote įsitikinti jog programa gauta iš patikimo šaltinio.<br/><br/>TAI GALI PAKENKTI JŪSŲ KOMPIUTERIUI.",
 	"ui_browse_modal_application_warning_timer": "<br/><br/>Prašome palaukti {{time}} sekundžių.",
 	"ui_browse_modal_unsubscribe_header": "Atsisakyti",
-	"ui_browse_modal_unsubscribe_body": "Ar tikrai norite atsisakyti: <b>{{title}}</b>?",
 	"ui_browse_modal_remove_local_header": "Pašalinti iš Istorijos",
 	"ui_browse_modal_remove_local_body": "Ar tikrai norite pašalinti vietinį foną: <b>{{title}}</b>?",
 	"ui_browse_open_url_header": "Atverti foną iš nuorodos",
