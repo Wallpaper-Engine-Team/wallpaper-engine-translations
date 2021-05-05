@@ -1126,6 +1126,8 @@
 	"ui_editor_bone_constraints_reset": "Sıfırla",
 	"ui_editor_character_separation_brush_title": "Fırça",
 	"ui_editor_character_separation_brush_erase": "Sil",
+	"ui_editor_character_separation_view_title": "Görünüm",
+	"ui_editor_character_separation_view_faded": "Solmuş",
 	"ui_editor_character_separation_view_original": "Orijinal",
 	"ui_editor_character_separation_view_foreground": "Ön Plan",
 	"ui_editor_character_separation_view_foreground_and_original": "Ön Plan ve Orijinal",
