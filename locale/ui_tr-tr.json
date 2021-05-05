@@ -1032,6 +1032,7 @@
 	"ui_editor_context_menu_paste_all_effects": "Tüm efektleri yapıştır",
 	"ui_editor_context_menu_image_editing": "Resim düzenleme",
 	"ui_editor_context_menu_foreground_separation": "Ön plan ayırma",
+	"ui_editor_context_menu_character_sheet": "Karakter sayfası oluşturma",
 	"ui_editor_context_menu_edit_with_photoshop": "Photoshop ile düzenle",
 	"ui_editor_context_menu_edit_with_gimp": "GIMP ile düzenle",
 	"ui_editor_project_settings_modal_header": "Proje Ayarları",
