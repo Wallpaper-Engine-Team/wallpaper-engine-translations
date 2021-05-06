@@ -2142,9 +2142,9 @@
 	"ui_provider_error_timeout": "[[[Platform]]], işlenmesi çok uzun sürdüğü için isteği iptal etti.",
 	"ui_provider_error_service_unavailable": "[[[Platform]]] hizmetleri şu anda kullanılamıyor.",
 	"ui_provider_error_not_logged_in": "[[[Platform]]] kullanıcısı oturum açmadı.",
-	"ui_provider_error_insufficient_privilege": "[[[Platform]]] ayrıcalıkları eksik.",
+	"ui_provider_error_insufficient_privilege": "[[[Platform]]] yetkileri eksik.",
 	"ui_provider_error_limit_exceeded": "[[[Platform]]], bir istek sınırıyla karşılaştı.",
 	"ui_provider_error_io_failure": "[[[Platform]]], sabit diskinize ve sabit diskinizden dosya okurken veya yazarken sorunlarla karşılaştı.",
-	"ui_provider_error_read_only": "[[[Platform]]] hizmeti salt okunur. Eğer parolanızı yakın zamanda değiştirdiyseniz [[[Platform]]] yeni içerik yüklemeye izin vermez. Bu sorun genellikle birkaç gün sonra kendiliğinden düzelir.",
+	"ui_provider_error_read_only": "[[[Platform]]] hizmeti salt okunur. Eğer parolanızı yakın zamanda değiştirdiyseniz, [[[Platform]]] yeni içerik yüklemeye izin vermez. Bu sorun genellikle birkaç gün sonra kendiliğinden düzelir.",
 	"ui_provider_error_failed_setting_item_data": "[[[Platform]]] yeni Atölye bilgilerinin uygulanmasında başarısız oldu."
 }
