@@ -21,6 +21,9 @@
 	"ui_resolution_dual" : "Dual Monitor",
 	"ui_resolution_triple" : "Triple Monitor",
 	"ui_resolution_portrait" : "Portrait",
+	
+	"ui_title_maximize" : "Maximize (F11)",
+	"ui_title_mini_mode" : "Toggle Mini Mode (F10)",
 
 	"ui_modal_updaterequired_title" : "Wallpaper Engine needs to be updated",
 	"ui_modal_updaterequired_body" : "Please close Wallpaper Engine (right click the tray icon and click Quit) and restart it over [[[Platform]]] to receive the latest updates. If you keep getting this warning, please verify the application files over [[[Platform]]].<br/><br/>Application version: <b>{{callerVersion}}</b>, UI version: <b>{{appVersion}}</b>.",
@@ -65,11 +68,11 @@
 	"ui_browse_select_prompt" : "Please select a wallpaper",
 	"ui_browse_select_prompt_asset" : "Please select an asset",
 	"ui_browse_steam_status_unavailable" : "[[[Platform]]] is unavailable.",
-	"ui_browse_steam_status_unavailable_cache" : "[[[Platform]]] is unavailable.<br/>Loaded {{count}} wallpapers from cache.",
-	"ui_browse_steam_status_unavailable_cache_assets" : "[[[Platform]]] is unavailable.<br/>Loaded {{count}} assets from cache.",
+	"ui_browse_steam_status_unavailable_cache" : "[[[Platform]]] is unavailable.",
+	"ui_browse_steam_status_unavailable_cache_assets" : "[[[Platform]]] is unavailable.",
 	"ui_browse_steam_status_pending" : "Waiting for [[[Platform]]] to respond...",
-	"ui_browse_steam_status_complete" : "[[[Platform]]] update complete.<br/>Wrote {{count}} wallpapers to cache.",
-	"ui_browse_steam_status_complete_generic" : "[[[Platform]]] update complete.<br/>Wrote {{count}} items to cache.",
+	"ui_browse_steam_status_complete" : "[[[Platform]]] update complete.",
+	"ui_browse_steam_status_complete_generic" : "[[[Platform]]] update complete.",
 	"ui_browse_steam_status_complete_no_subscriptions" : "[[[Platform]]] failed to retrieve your subscriptions.",
 	"ui_browse_header_option_settings" : "Settings",
 	"ui_browse_header_option_monitors" : "Displays",
@@ -191,9 +194,9 @@
 	"ui_browse_monitors_screensaver_mode_label" : "Screensaver is:",
 	"ui_browse_monitors_same_as_wallpaper" : "Same as wallpaper",
 	"ui_browse_monitors_configured_separately" : "Configured separately",
-	"ui_browse_monitors_same_as_wallpaper_hint" : "The screensaver displays the same wallpapers as your desktop wallpaper.",
+	"ui_browse_monitors_same_as_wallpaper_hint" : "The screensaver is configured to be the same as your active wallpapers. You can configure your screensavers separately from your wallpapers by enabling the option at the top.",
 	"ui_browse_monitors_configure_in_windows" : "Configure in Windows",
-	"ui_browse_monitors_configure_in_windows_hint" : "Please select Wallpaper Engine in the Windows screensaver settings as the active screensaver.",
+	"ui_browse_monitors_configure_in_windows_hint" : "Please set Wallpaper Engine in the Windows screensaver settings as the active screensaver.",
 	
 	"ui_browse_mobile_devices_header" : "Mobile Devices",
 
@@ -548,7 +551,7 @@
 	"ui_browse_mobile_devices_status_disconnected" : "Paired, not connected",
 	"ui_browse_mobile_devices_btn_connect_new_device" : "Connect new Device",
 	"ui_browse_mobile_devices_qr_hint" : "Install Wallpaper Engine on your <b>Android</b> phone or tablet for free and use your animated wallpapers on the go.",
-	"ui_browse_mobile_devices_pin_hint" : "Enter this PIN code on your mobile device to connect it:",
+	"ui_browse_mobile_devices_pin_hint" : "Enter this PIN on your mobile device to connect it:",
 	"ui_browse_mobile_devices_link_info" : "<i>Wallpaper Engine requires Android 8.1 or newer.</i><br/><br/>Visit our website for additional assistance: <a href='[[[var_url_mobile_faq]]]'>Wallpaper Engine on Mobile Help</a>",
 	
 	"ui_browse_mobile_upload_modal_title" : "Send {{title}} to {{device}}",
@@ -720,6 +723,7 @@
 	"ui_settings_advanced_unpause_during_aero_peek_tip" : "Enabling this option will unpause Wallpaper Engine when any translucent Windows elements overlay the desktop, including the fullscreen start menu, the Windows task view switcher or while using Alt + Tab.",
 	"ui_settings_advanced_stop_on_low_vram" : "Pause when VRAM is exhausted:",
 	"ui_settings_advanced_enable_browser_transparency" : "Show UI transparency option:",
+	"ui_settings_advanced_mini_mode_minimize" : "Hide other applications in mini mode:",
 	"ui_settings_about_changelog" : "Changelog",
 	"ui_settings_about_community_hub" : "Community Hub",
 	"ui_settings_about_faq" : "Support & Frequently Asked Questions",
@@ -1111,6 +1115,7 @@
 	"ui_editor_context_menu_character_sheet" : "Character sheet creation",
 	"ui_editor_context_menu_edit_with_photoshop" : "Edit with Photoshop",
 	"ui_editor_context_menu_edit_with_gimp" : "Edit with GIMP",
+	"ui_editor_context_menu_edit_with_other" : "Edit with Custom Editor",
 
 	"ui_editor_project_settings_modal_header" : "Project Settings",
 	"ui_editor_project_settings_modal_header_general" : "General",
@@ -1271,11 +1276,14 @@
 	"ui_editor_settings_path_ffmpeg" : "FFmpeg Path",
 	"ui_editor_settings_path_photoshop" : "Photoshop Path",
 	"ui_editor_settings_path_gimp" : "GIMP Path",
+	"ui_editor_settings_path_custom_image_editor" : "Custom Image Editor Path",
 	"ui_editor_settings_path_select" : "Select",
 	"ui_editor_settings_path_not_selected" : "No file selected",
 	
 	"ui_editor_external_app_not_found_title" : "{{name}} Not Found",
 	"ui_editor_external_app_not_found_body" : "The external program {{name}} has not been found.<br/><br/>Please install {{name}} and select it in Wallpaper Engine. See here for more information about support for external programs in Wallpaper Engine: <a href='[[[var_url_faqexternalprograms]]]'>help.wallpaperengine.io</a>",
+	"ui_editor_external_custom_image_editor_not_found_title" : "Select Image Editor",
+	"ui_editor_external_custom_image_editor_not_found_body" : "Please select your image editor of choice.<br/><br/>See here for more information about support for external programs in Wallpaper Engine: <a href='[[[var_url_faqexternalprograms]]]'>help.wallpaperengine.io</a>",
 
 	"ui_editor_user_properties_select_info" : "Choose a property with a compatible type ({{types}}).",
 	"ui_editor_user_properties_select_unused_warning" : "This property is not being used by the wallpaper.",
