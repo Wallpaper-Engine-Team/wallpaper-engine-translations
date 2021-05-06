@@ -28,7 +28,6 @@
 	"ui_browse_status_error": "תקלה",
 	"ui_browse_select_prompt": "בחר רקע",
 	"ui_browse_steam_status_unavailable": "[[[Platform]]] לא נגיש",
-	"ui_browse_steam_status_unavailable_cache": "[[[Platform]]] לא נגיש.<br/>נטענו {{count}} רקעים מהמטמון .",
 	"ui_browse_steam_status_pending": "ממתין לתגובה מ-[[[Platform]]]",
 	"ui_browse_details_author": "יוצרת:",
 	"ui_browse_details_type": "סוג:",
