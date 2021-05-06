@@ -70,6 +70,7 @@
 	"ui_browse_reload": "Neu laden",
 	"ui_browse_clear_filters": "Filter zurücksetzen",
 	"ui_browse_preset_filter_notice": "Zeige Vorkonfigurationen für {{title}} an",
+	"ui_browse_steam_offline_notice": "Die [[[Platform]]] Workshop-Server sind <b>offline</b>. Du siehst gerade ein Notfall-Backup vom {{date}}.<br/>Es handelt sich hierbei um kein Problem mit deinem Computer oder Wallpaper Engine. Die [[[Platform]]]-Server werden derzeit repariert und werden bald wieder online sein.",
 	"ui_browse_author_filter_notice": "Zeigt alle Hintergründe von {{author}}",
 	"ui_browse_offline_error": "[[[Platform]]]-Server sind offline. Das [[[Platform]]]-Team repariert derzeit die Server, versuche es später noch einmal.",
 	"ui_browse_download_error_restart_steam": "[[[Platform]]]-Download fehlgeschlagen.<br/><a class='btn btn-default' href='[[[var_url_faqdownloads]]]'>Hilfe</a>",
