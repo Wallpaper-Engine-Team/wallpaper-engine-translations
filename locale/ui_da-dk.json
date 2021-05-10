@@ -1042,7 +1042,7 @@
 	"ui_editor_context_menu_paste_all_effects": "Indsæt alle effekter",
 	"ui_editor_context_menu_image_editing": "Billedredigering",
 	"ui_editor_context_menu_foreground_separation": "Adskillelse af forgrund",
-	"ui_editor_context_menu_character_sheet": "Oprettelse af figuroversigt",
+	"ui_editor_context_menu_character_sheet": "Oprettelse af character sheet",
 	"ui_editor_context_menu_edit_with_photoshop": "Rediger med Photoshop",
 	"ui_editor_context_menu_edit_with_gimp": "Rediger med GIMP",
 	"ui_editor_context_menu_edit_with_other": "Rediger med Custom Editor",
