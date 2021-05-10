@@ -184,6 +184,8 @@
 	"ui_browse_monitors_screensaver_mode_label": "螢幕保護程式為：",
 	"ui_browse_monitors_same_as_wallpaper": "與桌布相同",
 	"ui_browse_monitors_configured_separately": "另外設定",
+	"ui_browse_monitors_same_as_wallpaper_hint": "目前螢幕保護程式設定為與您現行的桌布相同。您可至上方點選，將螢幕保護程式設定為與桌布不同。",
+	"ui_browse_monitors_configure_in_windows": "在 Windows 中設定",
 	"ui_browse_mobile_devices_header": "行動裝置",
 	"ui_browse_sort_name": "名稱",
 	"ui_browse_sort_rating": "評等",
