@@ -234,6 +234,8 @@
 	"ui_browse_modal_resolution_settings_show_other_resolution_hint": "Hvis du slår denne indstilling fra, skjules alle skrivebordsbaggrunde med tagget <b>Anden opløsning</b>.",
 	"ui_browse_modal_screensaver_install_header": "Installer screensaver",
 	"ui_browse_modal_screensaver_install_body": "Vil du installere Wallpaper Engine screensaver?",
+	"ui_browse_modal_screensaver_install_hint": "De fleste nyere LCD- og LED-skærme har ikke problemer med burn-in, og du kan trygt bruge enhver baggrund som screensaver efter behov.<br/><br/>Hvis din skærm er baseret på en teknologi, der er risiko for burn-in af skærmen (f.eks. OLED, Plasma eller CRT), anbefaler vi, at du bruger en baggrund med regelmæssig bevægelse og et overordnet mørkt tema. Alternativt er en baggrunds-playliste også en god beskyttelse til din skærm.",
+	"ui_browse_modal_screensaver_install_error_header": "Screensaveren kunne ikke installeres",
 	"ui_browse_properties_scheme_color": "Farveskema",
 	"ui_browse_properties_playback_rate": "Afspilnings hastighed",
 	"ui_browse_properties_volume": "Lydstyrke",
