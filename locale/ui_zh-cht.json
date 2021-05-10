@@ -73,7 +73,7 @@
 	"ui_browse_header_option_editor": "編輯器",
 	"ui_browse_advertise_explore": "點選這裡來探索工作坊的新桌布！",
 	"ui_browse_advertise_workshop": "點選這裡來詳細搜尋工作坊！",
-	"ui_browse_advertise_send_to_mobile": "點擊此處來傳送桌布到您的行動裝置!",
+	"ui_browse_advertise_send_to_mobile": "按一下此處將桌布傳送至您的行動裝置！",
 	"ui_browse_no_service_header": "[[[Platform]]] 服務無法使用",
 	"ui_browse_no_service_body": "<b>[[[Platform]]] 工作坊</b>伺服器目前無法使用。這並不是 Wallpaper Engine 或電腦出現問題。請等待幾小時後再試。<br/><br/>這是 [[[Platform]]] 伺服器的問題，[[[Platform]]] 團隊目前正在維修。",
 	"ui_browse_no_service_body_use_backup": "<br/><br/>Wallpaper Engine 現在將嘗試顯示緊急備份，直到 [[[Platform]]] 團隊修好 [[[Platform]]] 伺服器。",
