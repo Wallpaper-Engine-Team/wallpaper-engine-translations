@@ -1231,6 +1231,7 @@
 	"ui_editor_user_properties_options": "Opcje",
 	"ui_editor_user_properties_options_label": "Etykieta",
 	"ui_editor_user_properties_options_value": "Wartość",
+	"ui_editor_user_properties_condition": "Warunek wyświetlania",
 	"ui_editor_user_properties_file_type": "Typ pliku",
 	"ui_editor_user_properties_file_type_video": "Wideo",
 	"ui_editor_user_properties_file_type_image": "Obraz",
