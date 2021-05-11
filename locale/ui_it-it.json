@@ -1158,6 +1158,8 @@
 	"ui_editor_character_separation_view_reset": "Ripristina visualizzazione",
 	"ui_editor_character_separation_mask_opacity": "Opacità maschera",
 	"ui_editor_character_separation_analyzer_title": "Analizzatore",
+	"ui_editor_character_separation_analyzer_refine": "Perfeziona ora",
+	"ui_editor_character_separation_analyzer_auto": "Perfezionamento automatico",
 	"ui_editor_character_separation_modal_reset_title": "Ripristina maschera",
 	"ui_editor_settings_auto_saving": "Attiva salvataggio automatico",
 	"ui_editor_settings_auto_saving_hint": "Le impostazioni generali del progetto e alcuni asset come texture e modelli continueranno a venire salvati automaticamente.",
