@@ -181,6 +181,8 @@
 	"ui_browse_monitors_wallpaper": "Configurar fondo",
 	"ui_browse_monitors_screensaver": "Configurar salvapantallas",
 	"ui_browse_monitors_screensaver_mode_label": "Tipo de salvapantallas:",
+	"ui_browse_monitors_same_as_wallpaper": "Igual que el fondo",
+	"ui_browse_monitors_configured_separately": "Configuración distinta",
 	"ui_browse_sort_name": "Nombre",
 	"ui_browse_sort_rating": "Calificación",
 	"ui_browse_sort_favorite": "Favorito",
