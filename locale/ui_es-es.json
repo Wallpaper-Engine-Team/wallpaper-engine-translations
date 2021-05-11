@@ -183,6 +183,8 @@
 	"ui_browse_monitors_screensaver_mode_label": "Tipo de salvapantallas:",
 	"ui_browse_monitors_same_as_wallpaper": "Igual que el fondo",
 	"ui_browse_monitors_configured_separately": "Configuración distinta",
+	"ui_browse_monitors_same_as_wallpaper_hint": "El salvapantallas se configura para que sea igual que los fondos activos. Puedes usar fondos distintos para el salvapantallas si activas la opción de la parte superior.",
+	"ui_browse_monitors_configure_in_windows": "Configurar en Windows",
 	"ui_browse_sort_name": "Nombre",
 	"ui_browse_sort_rating": "Calificación",
 	"ui_browse_sort_favorite": "Favorito",
