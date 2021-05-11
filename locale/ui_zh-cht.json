@@ -1171,6 +1171,7 @@
 	"ui_editor_character_separation_hierarchy_remove_limb_title": "移除肢體 {{name}}",
 	"ui_editor_character_separation_hierarchy_remove_limb_body": "您確定要移除肢體 {{name}} 嗎？",
 	"ui_editor_character_separation_modal_confirm_sheet_title": "確認建立操控彎曲物件表單",
+	"ui_editor_character_separation_modal_confirm_sheet_body": "現有的圖層會和任何效果或設定一起移除，操控彎曲物件的人物表單將會入新的紋理。<br/><br/><b>此動作無法復原。</b><br/><br/>是否仍要繼續？",
 	"ui_editor_character_separation_modal_confirm_sheet_busy": "產生操控彎曲物件表單",
 	"ui_editor_export_modal_header": "匯出",
 	"ui_editor_export_modal_settings_format": "格式",
