@@ -1182,6 +1182,7 @@
 	"ui_editor_export_modal_settings_fps": "FPS",
 	"ui_editor_export_modal_settings_bitrate": "位元速率",
 	"ui_editor_export_modal_settings_duration": "持續時間 (秒)",
+	"ui_editor_export_modal_settings_blend_time": "混合時間 (秒)",
 	"ui_editor_export_modal_export": "匯出",
 	"ui_editor_export_modal_export_progress_hint": "輸入視訊中……",
 	"ui_editor_export_modal_error_format": "無法編碼視訊格式。",
