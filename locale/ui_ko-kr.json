@@ -474,6 +474,7 @@
 	"ui_browse_alert_trial_reminder_button_cancel": "나중에",
 	"ui_browse_alert_vram_exhausted": "비디오 메모리가 부족하여 시스템 리소스가 다시 충분해질 때까지 배경화면이 비활성화되었습니다. 이 기능은 일반 설정에서 끌 수 있습니다.",
 	"ui_browse_alert_remote_steamdown": "현재 [[[Platform]]] 서버에 기술적 문제가 발생하여 검색 반응 시간이 느려지거나 불완전한 검색 결과가 표시되는 등 일부 창작마당 기능이 제대로 작동하지 않을 수 있습니다. 이 문제는 모든 [[[Platform]]] 사용자에게 해당되며 귀하의 컴퓨터에 있는 Wallpaper Engine 프로그램과는 무관합니다. 이러한 문제를 겪고 있지 않다면 이 메시지를 무시하십시오.",
+	"ui_browse_mobile_devices_btn_connect_new_device": "새로운 기기 연결",
 	"ui_browse_mobile_upload_modal_preset_quality": "배경화면 품질",
 	"ui_browse_mobile_upload_modal_video_preset_1080_30": "Full HD - 30 FPS",
 	"ui_browse_mobile_upload_modal_video_preset_1080_60": "Full HD - 60 FPS",
