@@ -510,7 +510,7 @@
 	"ui_browse_alert_vram_exhausted": "La tua memoria video è esaurita e gli sfondi sono stati disattivati fino a quando il tuo sistema non avrà nuovamente risorse sufficienti disponibili. Questa funzionalità può essere disattivata nelle impostazioni generali.",
 	"ui_browse_alert_remote_steamdown": "I server di [[[Platform]]] stanno attualmente riscontrando dei problemi tecnici e alcune funzionalità di Workshop potrebbero non funzionare correttamente. Tra i vari disagi potresti riscontrare tempi di risposta più lunghi o risultati di ricerca incompleti. Questo problema riguarda tutti gli utenti di [[[Platform]]] e non dipende da Wallpaper Engine o dal tuo computer. Se tutto funziona correttamente, ignora questo messaggio.",
 	"ui_browse_alert_screensaver_app": "Gli sfondi dell'applicazione non possono essere usati come salvaschermo.",
-	"ui_browse_mobile_devices_success_toast": "{{name}} connessione avvenuta correttamente.",
+	"ui_browse_mobile_devices_success_toast": "Connessione a {{name}} avvenuta correttamente.",
 	"ui_browse_mobile_devices_unknown_device": "Dispositivo sconosciuto",
 	"ui_browse_mobile_devices_status_connected": "Connesso",
 	"ui_browse_mobile_devices_status_disconnected": "Accoppiato, non connesso",
