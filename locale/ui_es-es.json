@@ -1012,6 +1012,7 @@
 	"ui_editor_workshop_options_upload_as_update": "Actualizar elemento existente {{name}}",
 	"ui_editor_workshop_options_upload_as_pending": "Esperando a que [[[Platform]]] responda...",
 	"ui_editor_workshop_modal_rating_header": "Elegir una clasificación",
+	"ui_editor_workshop_modal_rating_body_preview": "La imagen de vista previa ha de ser adecuada para todas las edades y no puede mostrar desnudez.",
 	"ui_editor_workshop_modal_rating_current": "Clasificación actual:",
 	"ui_editor_workshop_modal_rating_no_rating_info_header": "Contenido adecuado",
 	"ui_editor_workshop_modal_rating_no_rating_info_body": "¡Asegúrate de que el contenido que subas es adecuado para todos! Si subes algo de tipo cuestionable o ilegal, este o toda tu cuenta pueden ser bloqueados.",
