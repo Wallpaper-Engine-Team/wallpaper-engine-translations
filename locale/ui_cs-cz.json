@@ -319,6 +319,7 @@
 	"ui_browse_list_source_explore": "Objevit",
 	"ui_browse_modal_no_steam_title": "Chyba služby [[[Platform]]]",
 	"ui_browse_modal_no_steam_body": "Službu [[[Sdk]]] se nepodařilo spustit. Zkuste restartovat službu [[[Platform]]] a poté aplikaci Wallpaper Engine. Pokud se vám nadále zobrazuje tato chyba, znamená to, že váš počítač nelze správně ověřit na serverech [[[Platform]]] – zkontrolujte své internetové připojení a to, jestli jste připojeni ke správnému účtu [[[Platform]]].<br/><br/>Nespouštějte službu [[[Platform]]] jako správce, to službě [[[Sdk]]] brání v připojení ke službě [[[Platform]]]. Správnému společnému fungování aplikací [[[Platform]]] a Wallpaper Engine může též bránit antivirový či bezpečnostní software, tak je zkuste vypnout.<br/><br/>Podívej se na FAQ pro více informací: <a href='[[[var_url_faqsteam]]]'>Opravit [[[Platform]]] Připojení</a>",
+	"ui_browse_query_error": "[[[Platform]]] narazil na problém zkuste to později znovu: {{error}}",
 	"ui_browse_modal_safe_mode_header": "Bezpečné spuštění",
 	"ui_browse_modal_safe_mode_body": "Zdá se, že byl program nesprávně vypnut. Poslední pozadí a moduly plug-in zatím nebyly načteny, aby se zabránilo opakování problému.<br/><br/>Kliknutím na tlačítko OK je teď obnovte, nebo je tlačítkem Zrušit nejprve změňte.",
 	"ui_browse_use_safe_mode": "Použít bezpečné spuštění",
