@@ -477,6 +477,7 @@
 	"ui_browse_modal_monitor_mismatch_title": "Pozadí nemůže být použito",
 	"ui_browse_modal_monitor_mismatch_body": "Vypadá to, že Wallpaper Engine nemůže použít aktuální pozadí protože nemůže správně identifikovat tvé monitory.<br/><br/>Zkus restartovat Wallpaper Engine. Pokud i přes to máte stále problémy zkuste vypnout <b>vysokou prioritu</b> automatického startu auto a místo toho použít klasický start aplikace místo automatického startu.<br/><br/>Můžeš zkusit také možnost <b>Identifikace monitoru</b> ve <b>Vrstvách</b> v <b>Hlavní</b> záložce nastavení.",
 	"ui_browse_alert_active_application_rule": "Pravidlo pro aplikaci <b>{{executable}}</b> je právě aktivní a překryje tvůj výběr pozadí.",
+	"ui_browse_alert_trial_reminder": "Zakup si Wallpaper Engine nyní a užij si: Jednoduché stahování pozadí z Workshopu včetně některých exkluzivních na [[[Platform]]]u.",
 	"ui_browse_alert_trial_reminder_button": "Přejít do obchodu",
 	"ui_browse_alert_trial_reminder_button_cancel": "Později",
 	"ui_browse_mobile_devices_success_toast": "{{name}} bylo úspěšně připojeno.",
