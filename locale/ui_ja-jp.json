@@ -19,6 +19,7 @@
 	"ui_resolution_dual": "デュアルモニター",
 	"ui_resolution_triple": "トリプルモニター",
 	"ui_resolution_portrait": "縦置き",
+	"ui_title_maximize": "最大化（F11）",
 	"ui_modal_updaterequired_title": "Wallpaper Engineを更新する必要があります",
 	"ui_modal_updaterequired_body": "Wallpaper Engineを閉じて（トレイアイコンを右クリックして[終了]をクリックしてください）、[[[Platform]]]で再起動して最新にアップデートしてください。この警告が表示される場合は、[[[Platform]]]経由でアプリケーションファイルを確認してください。<br/><br/>アプリケーションのバージョン: <b>{{callerVersion}}</b>、UIバージョン: <b>{{appVersion}}</b>",
 	"ui_modal_updateavailable_title": "新しいアップデートが利用可能です",
