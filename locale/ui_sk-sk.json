@@ -13,6 +13,8 @@
 	"ui_save": "Uložiť",
 	"ui_show_details": "Zobraziť detaily",
 	"ui_hotkey": "Klávesová skratka: {{key}}",
+	"ui_resolution_widescreen": "Širokouhlé",
+	"ui_resolution_ultrawide": "Ultra širokouhlé",
 	"ui_modal_updaterequired_title": "Wallpaper Engine musí byť aktualizovaný",
 	"ui_modal_updaterequired_body": "Prosím zatvorte Wallpaper Engine (kliknite pravým na lištovú ikonku a klinite Odísť) a reštartujte ho cez [[[Platform]]] na obdržanie najnovších aktualizácií. Keď dostávate toto upozornenie zas, prosím overte súbory cez [[[Platform]]].<br/><br/>Verzia aplikácie: <b>{{callerVersion}}</b>, UI verzia: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title": "Nová aktualizácia k dispozícii",
