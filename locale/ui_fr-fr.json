@@ -1161,6 +1161,7 @@
 	"ui_editor_character_separation_analyzer_title": "Analyseur",
 	"ui_editor_character_separation_analyzer_refine": "Affiner",
 	"ui_editor_character_separation_analyzer_auto": "Affiner automatiquement",
+	"ui_editor_character_separation_analyzer_bias": "Tolérance masquage",
 	"ui_editor_character_separation_analyzer_quality": "Niveau de qualité",
 	"ui_editor_character_separation_analyzer_fill_gaps": "Combler écarts",
 	"ui_editor_character_separation_analyzer_smoothing": "Lissage",
