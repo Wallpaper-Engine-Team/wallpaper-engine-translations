@@ -673,7 +673,7 @@
 	"ui_settings_advanced_video_loop": "Зацикливание видео:",
 	"ui_settings_advanced_video_framework": "Видео фреймворк:",
 	"ui_settings_advanced_webm_framework": "WebM фреймворк:",
-	"ui_settings_advanced_log_level": "Уровень логирования:",
+	"ui_settings_advanced_log_level": "Уровень отчета:",
 	"ui_settings_advanced_cef_command_line": "Командная строка CEF:",
 	"ui_settings_advanced_cef_devtools_port": "Порт инструментов разработки CEF:",
 	"ui_settings_advanced_unpause_during_aero_peek": "Снять паузу во время Aero Peek:",
