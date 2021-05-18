@@ -1158,6 +1158,7 @@
 	"ui_editor_character_separation_view_mask": "Masker",
 	"ui_editor_character_separation_view_reset": "Atur Ulang Penampil",
 	"ui_editor_character_separation_mask_opacity": "Transparansi masker",
+	"ui_editor_character_separation_analyzer_title": "Penganalisis",
 	"ui_editor_settings_auto_saving": "Aktifkan penyimpanan otomatis",
 	"ui_editor_settings_auto_saving_hint": "Pengaturan umum proyek dan beberapa aset tertentu seperti tekstur dan puppets akan tetap disimpan secara otomatis.",
 	"ui_editor_settings_suggest_import_resolution": "Ubah ukuran bawaan wallpaper baru",
