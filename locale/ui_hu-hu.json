@@ -785,6 +785,7 @@
 	"ui_editor_filemenu_show_grid": "Rács megjelenítése",
 	"ui_editor_filemenu_show_stats": "Statisztikák mutatása",
 	"ui_editor_filemenu_show_axis": "Tengelyek mutatása",
+	"ui_editor_filemenu_show_selection_box": "Kijelőlés mutatása",
 	"ui_editor_filemenu_show_in_workshop": "Megjelenítés a Műhelyben",
 	"ui_editor_filemenu_show_asset_creation": "Eszköz Létrehozás Engedélyezése",
 	"ui_editor_filemenu_show_desktop_preview": "Asztali Előnézet Megjelenítése",
