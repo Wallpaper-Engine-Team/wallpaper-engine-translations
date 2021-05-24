@@ -1169,7 +1169,7 @@
 	"ui_editor_character_separation_modal_reset_title": "Maskeyi Sıfırla",
 	"ui_editor_character_separation_modal_reset_body": "Maskenin tamamını sıfırlamak istediğinize emin misiniz?",
 	"ui_editor_character_separation_modal_confirm_title": "Ön Plan Ayırmayı Onayla",
-	"ui_editor_character_separation_modal_confirm_body": "Mevcut resim katmanı, yeni arka plan resmi ile değiştirilecek ve ön plan resmi ile yeni bir katman eklenecek.<br/><br/><b>Bu geri alınamaz.</b><br/><br/>Devam etmek istiyor musunuz?",
+	"ui_editor_character_separation_modal_confirm_body": "Varolan resim katmanı yeni arka plan resmi ile değiştirilecektir ve ön plan resmi ile yeni bir katman eklenecektir.<br/><br/><b>Bu geri alınamaz.</b><br/><br/>Devam etmek istiyor musunuz?",
 	"ui_editor_character_separation_hierarchy_title": "Hiyerarşi",
 	"ui_editor_character_separation_hierarchy_add_limb": "Uzuv Ekle",
 	"ui_editor_character_separation_hierarchy_add_limb_body": "Karakter uzvunun adını girin:",
