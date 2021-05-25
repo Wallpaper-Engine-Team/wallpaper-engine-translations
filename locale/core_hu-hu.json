@@ -30,6 +30,7 @@
 	"core_msgbox_prompt_aero_win7": "A Wallpaper Engine működéséhez engedélyezni kell az Aero-t. Engedélyezi most?",
 	"core_msgbox_prompt_aero_win8": "A Wallpaper Engine nem kompatibilis a magas kontrasztú témával. Alaphelyzetbe állítja a témát?",
 	"core_msgbox_prompt_high_contrast_was_enabled": "A Windows most alkalmazott egy magas kontrasztú témát, amely miatt a Wallpaper Engine nem képes működni.",
+	"core_msgbox_high_contrast_white": "Bekapcsolta a fehér témájú kontrasztos módot a Windowsban. Ez a mód úgy van beépítve a Windows-ba hogy bekapcsolása megakadályozza a Wallpaper Engine-t a dinamikus háttérképek beállításában.\n\nNyissa meg a Windows kontrasztos megjelenítés beállításait és cserélje le a kontrasztos megjelenítés témáját vagy kapcsolja ki a funkciót ahhoz hogy használni tudja a Wallpaper Engine-t.",
 	"core_msgbox_dwm_disabled": "A Desktop Composition (dwm) le van tiltva.",
 	"core_msgbox_aero_denied": "A Wallpaper Engine nem működik az Aero nélkül, ezért most leáll.",
 	"core_msgbox_aero_failure": "Nem sikerült az Aero engedélyezése.\n\nÚgy tűnik, hogy a Windows nem engedi az Aero engedélyezését, amely sajnos elengedhetetlen eleme a Wallpaper Engine működésének.\n\nPróbálja meg engedélyezni az Aerót a Windows témabeállításaiban közvetlenül, és indítsa el újra a Wallpaper Engine-t.",
