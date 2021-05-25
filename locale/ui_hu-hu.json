@@ -324,7 +324,7 @@
 	"ui_browse_preset_modal_empty": "Még nem készítettél előbeállítást erre a háttérre.",
 	"ui_browse_list_source_installed": "Telepített",
 	"ui_browse_list_source_workshop": "Műhely",
-	"ui_browse_list_source_explore": "Felfedez",
+	"ui_browse_list_source_explore": "Felfedezés",
 	"ui_browse_modal_no_steam_title": "[[[Platform]]] Hiba",
 	"ui_browse_query_error": "A [[[Platform]]] hibát észlelt, próbálkozzon újra később: {{error}}",
 	"ui_browse_modal_safe_mode_header": "Biztonságos indítás",
