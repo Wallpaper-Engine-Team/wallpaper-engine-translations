@@ -500,6 +500,7 @@
 	"ui_browse_mobile_devices_success_toast": "{{name}} har anslutits.",
 	"ui_browse_mobile_devices_unknown_device": "Okänd enhet",
 	"ui_browse_mobile_devices_status_connected": "Ansluten",
+	"ui_browse_mobile_devices_status_disconnected": "Kopplad, inte ansluten",
 	"ui_browse_mobile_devices_btn_connect_new_device": "Anslut till ny enhet",
 	"ui_browse_mobile_devices_qr_hint": "Installera Wallpaper Engine på din <b>Android</b>-telefon eller -surfplatta gratis och använda dina animerade bakgrunder när du är på språng.",
 	"ui_browse_mobile_devices_pin_hint": "Ange denna PIN på din mobila enhet för att ansluta den:",
