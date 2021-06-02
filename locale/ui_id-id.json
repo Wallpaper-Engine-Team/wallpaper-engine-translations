@@ -1192,6 +1192,8 @@
 	"ui_editor_export_modal_settings_blend_time": "Perpaduan waktu (Detik)",
 	"ui_editor_export_modal_export": "Ekspor",
 	"ui_editor_export_modal_export_progress_hint": "Mengekspor video...",
+	"ui_editor_export_modal_error_format": "Tidak dapat menyandikan format video.",
+	"ui_editor_export_modal_error_encode_frame": "Pengkodean frame video gagal.",
 	"ui_editor_settings_auto_saving": "Aktifkan penyimpanan otomatis",
 	"ui_editor_settings_auto_saving_hint": "Pengaturan umum proyek dan beberapa aset tertentu seperti tekstur dan puppets akan tetap disimpan secara otomatis.",
 	"ui_editor_settings_suggest_import_resolution": "Ubah ukuran bawaan wallpaper baru",
