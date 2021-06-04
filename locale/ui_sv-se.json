@@ -1158,6 +1158,7 @@
 	"ui_editor_character_separation_analyzer_title": "Analyserare",
 	"ui_editor_character_separation_analyzer_refine": "Förfina nu",
 	"ui_editor_character_separation_analyzer_auto": "Förfina automatiskt",
+	"ui_editor_character_separation_analyzer_bias": "Masktolerans",
 	"ui_editor_character_separation_analyzer_quality": "Kvalitetnivå",
 	"ui_editor_character_separation_analyzer_fill_gaps": "Fyll i glipor",
 	"ui_editor_character_separation_analyzer_smoothing": "Utjämning",
