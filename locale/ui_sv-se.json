@@ -518,6 +518,7 @@
 	"ui_browse_mobile_devices_pin_hint": "Ange denna PIN på din mobila enhet för att ansluta den:",
 	"ui_browse_mobile_devices_link_info": "<i>Wallpaper Engine kräver Android 8.1 eller nyare.</i><br/><br/>Besök vår webbplats för ytterligare hjälp: <a href='[[[var_url_mobile_faq]]]'>Hjälp för Wallpaper Engine on Mobile</a>",
 	"ui_browse_mobile_upload_modal_title": "Skicka {{title}} till {{device}}",
+	"ui_browse_mobile_upload_modal_hint": "Wallpaper Engine kommer att optimera dina bakgrunder för att dina enheter ska kunna få bästa möjliga prestanda. Välj den prestandaklass som bäst representerar din enhet. Du kan ändra detta val senare och ladda upp bakgrunderna till din enhet igen om du varken gillar visuell kvalitet eller prestanda.",
 	"ui_browse_mobile_upload_modal_texture_compression_high_performance": "Hög prestanda - (Komprimerar alla texturer)",
 	"ui_browse_mobile_upload_modal_texture_compression_high_quality": "Hög kvalitet - (Komprimerar inte texturer)",
 	"ui_browse_mobile_upload_modal_texture_reduction": "Texturreducering",
