@@ -657,7 +657,7 @@
 	"ui_settings_icon_opacity": "Durchsichtigkeit von Desktop-Symbolen:",
 	"ui_settings_recording_volume": "Aufnahmelautstärke:",
 	"ui_settings_recording_threshold": "Aufnahmelimit:",
-	"ui_settings_audio_input_device": "Gerät für Tonaufnahmen:",
+	"ui_settings_audio_input_device": "Audioaufnahme-Geräte:",
 	"ui_settings_audio_input_device_default": "Standard",
 	"ui_settings_adjust_windows_color": "Windows-Farbwechsel erlauben:",
 	"ui_settings_adjust_windows_color_light_theme_hint": "Du nutzt das helle Windows-Design, welches keine Farben in der Taskleiste erlaubt. Um die Farben deiner Taskleiste anzupassen, aktiviere das dunkelne Windows-Design.",
