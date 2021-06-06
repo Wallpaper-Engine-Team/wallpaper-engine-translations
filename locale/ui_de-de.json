@@ -21,6 +21,7 @@
 	"ui_resolution_portrait": "Portrait",
 	"ui_title_maximize": "Maximieren (F11)",
 	"ui_title_mini_mode": "Mini-Modus umschalten (F10)",
+	"ui_monitor_generic": "Bildschirm {{index}}",
 	"ui_modal_updaterequired_title": "Wallpaper Engine muss aktualisiert werden",
 	"ui_modal_updaterequired_body": "Bitte schließe Wallpaper Engine (Rechtsklick auf das Symbol in der Taskleiste und 'Beenden' auswählen) und starte die Anwendung über [[[Platform]]] neu um das neueste Update zu installieren. Sollte diese Meldung wiederholt erscheinen, überprüfe die Anwendungsdateien auf Fehler über [[[Platform]]].<br/><br/>Anwendungsversion: <b>{{callerVersion}}</b>, Interface-Version: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title": "Neue Version verfügbar",
