@@ -1277,6 +1277,7 @@
 	"ui_workshop_tags_local_url": "本地 URL",
 	"ui_workshop_tags_local_image": "本地图片",
 	"ui_workshop_tags_rating_everyone": "大众级（G）",
+	"ui_workshop_tags_rating_questionable": "家长指导级（PG-13）",
 	"ui_workshop_tags_rating_mature": "限制级/成人级（R-18）",
 	"ui_workshop_tags_rating_ban": "禁止",
 	"ui_workshop_tags_visibility_public": "公开的",
