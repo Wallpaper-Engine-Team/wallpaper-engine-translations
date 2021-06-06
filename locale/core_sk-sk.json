@@ -1,5 +1,7 @@
 {
 	"core_tray_change_wallpaper": "Zmeniť pozadie",
+	"core_tray_change_screensaver": "Zmeniť šetrič obrazovky",
+	"core_tray_browse_workshop": "Prezerať si Workshop",
 	"core_tray_create_wallpaper": "Vytvoriť pozadie",
 	"core_tray_settings": "Nastavenia",
 	"core_tray_take_screenshot": "Spraviť screenshot",
@@ -14,6 +16,7 @@
 	"core_tray_next_wallpaper": "Ďalšie pozadie",
 	"core_tray_mute": "Stíšiť",
 	"core_tray_unmute": "Unmute",
+	"core_tray_playlist_prefix": "Playlist:",
 	"core_balloon_info": "Wallpaper Engine bol minimalizovanť na lištu. Dvojkliknite na lištovú ikonku a vyberte si pozadie.",
 	"core_balloon_desktop_window_error": "Nepodarilo sa pripraviť plochu na živé pozadie.",
 	"core_balloon_video_error": "Vyskytol sa error videa {{err}}. Klikni na mna pre pomoc.",
