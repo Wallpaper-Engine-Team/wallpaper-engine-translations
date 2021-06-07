@@ -340,6 +340,7 @@
 	"ui_browse_playlist_modal_settings_clock_12" : "12 Hours",
 	"ui_browse_playlist_modal_settings_clock_24" : "24 Hours",
 	"ui_browse_playlist_modal_settings_begin_first_wallpaper" : "Always begin with the first wallpaper",
+	"ui_browse_playlist_modal_settings_intro_wallpaper" : "First wallpaper played at startup only",
 
 	"ui_browse_profiles_empty" : "You have not created any profiles yet.",
 	"ui_browse_profiles_modal_open_header" : "Load Profile",
@@ -1436,6 +1437,7 @@
 	"ui_workshop_tags_visibility_public" : "Public",
 	"ui_workshop_tags_visibility_friends_only" : "Friends only",
 	"ui_workshop_tags_visibility_private" : "Private",
+	"ui_workshop_tags_visibility_unlisted" : "Unlisted",
 
 	"ui_workshop_tags_asset_type_composite" : "Composite",
 	"ui_workshop_tags_asset_type_fullscreen" : "Fullscreen",
@@ -1472,6 +1474,11 @@
 	"ui_workshop_tags_portrait_1080_x_1920" : "1080 x 1920",
 	"ui_workshop_tags_portrait_1440_x_2560" : "1440 x 2560",
 	"ui_workshop_tags_portrait_2160_x_3840" : "2160 x 3840",
+
+	"ui_workshop_info_visibility_public" : "Public wallpapers appear in the public search results and can be used by anyone.",
+	"ui_workshop_info_visibility_friends" : "Friends-only wallpapers can only be found and downloaded by friends.",
+	"ui_workshop_info_visibility_private" : "Private wallpapers are only visible to you and cannot be downloaded by anyone else.",
+	"ui_workshop_info_visibility_unlisted" : "Hidden wallpapers can be downloaded by anyone with the link, but they cannot be found through the search.",
 
 	"ui_editor_scene_options_bloom" : "Bloom",
 	"ui_editor_scene_options_bloom_hint" : "Please note: Bloom effects require post-processing to be enabled in Wallpaper Engine performance settings.",
