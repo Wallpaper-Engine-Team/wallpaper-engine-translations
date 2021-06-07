@@ -1478,7 +1478,7 @@
 	"ui_workshop_info_visibility_public" : "Public wallpapers appear in the public search results and can be used by anyone.",
 	"ui_workshop_info_visibility_friends" : "Friends-only wallpapers can only be found and downloaded by friends.",
 	"ui_workshop_info_visibility_private" : "Private wallpapers are only visible to you and cannot be downloaded by anyone else.",
-	"ui_workshop_info_visibility_unlisted" : "Hidden wallpapers can be downloaded by anyone with the link, but they cannot be found through the search.",
+	"ui_workshop_info_visibility_unlisted" : "Unlisted wallpapers can be downloaded by anyone with the link, but they cannot be found through the search.",
 
 	"ui_editor_scene_options_bloom" : "Bloom",
 	"ui_editor_scene_options_bloom_hint" : "Please note: Bloom effects require post-processing to be enabled in Wallpaper Engine performance settings.",
