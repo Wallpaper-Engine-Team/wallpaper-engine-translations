@@ -780,6 +780,7 @@
 	"ui_settings_enable_override_lockscreen": "Sovrascrivi la schermata di blocco",
 	"ui_settings_enable_override_system_image_info_title": "Sovrascrivi lo sfondo o la schermata di blocco di Windows",
 	"ui_settings_enable_override_system_image_info_message": "Crea un <b>backup dello sfondo e della schermata di blocco di Windows</b> prima di attivare questa opzione.<br/><br/>Wallpaper Engine tenterà automaticamente di ripristinare entrambi quando queste opzioni verranno disattivate, ma è consigliato avere un backup nel caso in cui il ripristino dello sfondo e della schermata di blocco di Windows non vada a buon fine.",
+	"ui_settings_restore_override_wallpaper_title": "Ripristina sfondo di Windows",
 	"ui_settings_copyright": "Tutti i diritti riservati.",
 	"ui_settings_thirdparty": "Licenze di terze parti",
 	"ui_settings_highpriority_warning_header": "Informazioni sull'alta priorità",
