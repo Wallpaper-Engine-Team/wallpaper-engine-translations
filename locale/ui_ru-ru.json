@@ -1886,6 +1886,7 @@
 	"ui_editor_properties_pulse_phase": "Фаза пульса",
 	"ui_editor_properties_pulse_speed": "Скорость пульса",
 	"ui_editor_properties_puppet": "Марионетка",
+	"ui_editor_properties_puppet_warp_animation": "Анимированная марионеточная деформация",
 	"ui_editor_properties_quality": "Качество",
 	"ui_editor_properties_radius": "Радиус",
 	"ui_editor_properties_random": "Случайно",
