@@ -1835,6 +1835,7 @@
 	"ui_editor_properties_frequency_max": "ความถี่สูงสุด",
 	"ui_editor_properties_frequency_min": "ความถี่ต่ำสุด",
 	"ui_editor_properties_frequency_start": "จุดเริ่มต้นความถี่",
+	"ui_editor_properties_fresnel_exponent": "เอกซ์โพเนนของเฟรสเนล",
 	"ui_editor_properties_friction": "แรงเสียดทาน",
 	"ui_editor_properties_fuzziness": "ความเลือน",
 	"ui_editor_properties_generate": "สร้าง",
