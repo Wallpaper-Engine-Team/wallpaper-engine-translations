@@ -544,7 +544,7 @@
 	"ui_browse_mobile_upload_cancel_title": "モバイルアップロードをキャンセル",
 	"ui_browse_mobile_upload_cancel_body": "モバイルデバイスへの保留されているアップロードをすべてキャンセルしますか？",
 	"ui_browse_mobile_upload_unavailable_title": "インストール未完了",
-	"ui_browse_mobile_upload_unavailable_body": "[[[Platform]]]上でWallpaper Engineを再起動し、Android用Wallpaper Engineコンパニオンアプリ向けのモバイルアップロードシステムをインストールしてください。",
+	"ui_browse_mobile_upload_unavailable_body": "Android向けWallpaper Engineコンパニオンアプリのモバイルアップロードシステムをインストールするには、[[[Platform]]]上でWallpaper Engineを再起動してください。",
 	"ui_browse_mobile_transcoder_error_failed_resetting_transcode_folder": "トランスコードフォルダがリセットできませんでした。",
 	"ui_browse_mobile_transcoder_error_failed_resetting_output_file": "出力ファイルがリセットできませんでした。",
 	"ui_browse_mobile_transcoder_error_failed_creating_output_directory": "出力ディレクトリが作成できませんでした。",
