@@ -40,7 +40,7 @@
 	"ui_browse_screensaver": "スクリーンセーバー",
 	"ui_browse_split": "分割",
 	"ui_browse_choose_monitor": "ディスプレイ選択",
-	"ui_browse_close_screensaver": "閉じる",
+	"ui_browse_close_screensaver": "終了",
 	"ui_browse_windows_screensaver_settings": "設定＆プレビュー",
 	"ui_browse_filter_results": "結果をフィルター",
 	"ui_browse_filter_results_count": "（{{filtered}}/{{unfiltered}}）",
