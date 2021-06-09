@@ -21,7 +21,7 @@
 	"ui_resolution_portrait": "Obraz pionowy",
 	"ui_title_maximize": "Zmaksymalizuj (F11)",
 	"ui_title_mini_mode": "Przełącz tryb mini (F10)",
-	"ui_monitor_generic": "Wyświetl {{index}}",
+	"ui_monitor_generic": "Monitor {{index}}",
 	"ui_modal_updaterequired_title": "Program Wallpaper Engine musi zostać zaktualizowany",
 	"ui_modal_updaterequired_body": "Zamknij program Wallpaper Engine (kliknij ikonę na pasku zadań i wybierz opcję Wyjdź) i uruchom go ponownie poprzez platformę [[[Platform]]] aby otrzymać najnowsze aktualizacje. Jeżeli powiadomienie wciąż się wyświetla, sprawdź spójność plików poprzez platformę [[[Platform]]].<br/><br/>Wersja aplikacji: <b>{{callerVersion}}</b>, wersja interfejsu: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title": "Dostępna jest nowa aktualizacja",
