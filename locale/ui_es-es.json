@@ -39,6 +39,7 @@
 	"ui_browse_screensaver": "Salvapantallas",
 	"ui_browse_split": "Dividir",
 	"ui_browse_choose_monitor": "Elegir pantalla",
+	"ui_browse_windows_screensaver_settings": "Configuración y vista previa",
 	"ui_browse_filter_results": "Filtrar resultados",
 	"ui_browse_filter_results_count": "({{filtered}} de {{unfiltered}})",
 	"ui_browse_filter_results_filtered": "(Filtrado)",
