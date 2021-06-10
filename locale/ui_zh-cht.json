@@ -237,7 +237,7 @@
 	"ui_browse_modal_resolution_settings_show_other_resolution_hint": "關閉此選項將隱藏全部有<b>其他解析度</b>標籤的桌布。",
 	"ui_browse_modal_screensaver_install_header": "安裝螢幕保護程式",
 	"ui_browse_modal_screensaver_install_body": "您確定要安裝 Wallpaper Engine 螢幕保護程式嗎？",
-	"ui_browse_modal_screensaver_install_hint": "絕大多數現代的 LCD 和 LED 顯示器都不會出現螢幕烙印現象，您可安全將任何桌布設定為螢幕保護程式，享受賞心悅目的外觀。<br/><br/>如果您的顯示器技術容易出現螢幕烙印問題 (如： OLED、電漿、CRT 映像管)，建議您使用具規律動態且整體偏暗的主題，或者設定桌布播放清單也能妥善保護您的顯示器。",
+	"ui_browse_modal_screensaver_install_hint": "絕大多數現代的 LCD 和 LED 顯示器都不會出現螢幕烙印現象，您可安全將任何桌布設定為螢幕保護程式，享受賞心悅目的外觀。<br/><br/>如果您的顯示器技術容易出現螢幕烙印問題 (如：OLED、電漿、CRT 映像管)，建議您使用具規律動態且整體偏暗的主題，或者設定桌布播放清單也能妥善保護您的顯示器。",
 	"ui_browse_modal_screensaver_install_error_header": "安裝螢幕保護程式失敗",
 	"ui_browse_modal_screensaver_install_error_body": "Wallpaper Engine 無法安裝螢幕保護程式。<br/><br/>請確保防毒軟體並未阻擋安裝螢幕保護程式的檔案。<br/><br/>前往這裡以獲得更多協助：<a href='[[[var_url_faqscreensaver]]]'>解決螢幕保護程式的安裝問題</a>",
 	"ui_browse_properties_scheme_color": "布置顏色",
