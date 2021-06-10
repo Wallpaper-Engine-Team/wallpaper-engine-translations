@@ -750,6 +750,7 @@
 	"ui_settings_process_priority_normal": "正常",
 	"ui_settings_process_priority_below_normal": "低于正常",
 	"ui_settings_advanced_monitor_identification": "显示器标识：",
+	"ui_settings_advanced_monitor_identification_tip": "此设置控制 Wallpaper Engine 如何将壁纸分配到各个屏幕。如果您遇到壁纸在显示器间交换或者 PC 重新启动或休眠后不显示壁纸的问题，请尝试更改此选项。由于图形驱动程序和 Windows 本身的各种问题，我们不提供普遍适用的建议设置，您可能需要尝试多个选项。<br/><br/><b>Device Path</b><br/>此选项直接将壁纸分配到显卡适配器名称和显示器名称。如果您更换了显卡电缆或屏幕，则必须针对新配置再次选择该壁纸。但您可以更改多显示器布局或主显示器，壁纸会留在您分配的位置。这是一种<i>建议使用</i>的稳定方法。除非图形驱动程序出现严重故障，否则您不会遇到此问题。<br/><br/><b>Shell API</b><br/>此方法是 Windows 10 中引入的最现代的屏幕检测方法。如果您遇到显示器识别问题，请先尝试使用此方法。<br/><br/><b>Layout</b><br/>此选项可根据显示器在 Windows 中的虚拟位置对其进行排序。如果您更改多显示器布局、更改主显示器或移除显示器，程序可能无法以您期望的方式恢复壁纸。仅在选择默认“Device Path”时驱动程序带来太多问题，且您不会定期更换显示器的情况下，才应使用此选项。<br/><br/><b>GDI</b><br/>根据 Windows 的排序和命名方式识别显示器。如果此选项适用于您，即使您更换了显示器本身但保留了其一般位置，您也可以将相同的壁纸恢复到每台显示器。此选项有较高几率导致 PC 在每次启动或从睡眠状态恢复时随机交换壁纸，对许多人来说，这相对容易出错，而且无法正常工作。<br/><br/><b>Deprecated</b><br/>此选项与“GDI”选项类似，使用较老式的显示器识别方法。它通常最容易出错，但在极少数情况下，可以解决与 Windows 或显卡驱动程序相关的问题。请仅在万不得已的情况下尝试使用此选项。",
 	"ui_settings_advanced_sleep_hack": "休眠后安全启动：",
 	"ui_settings_advanced_sleep_hack_tip": "如果在 Windows 休眠后遇到任何兼容性问题，请使用该选项。此选项会让程序在系统休眠之后自动完全重启，以修复由其它程序导致的问题。<br/><br/><b>修复休眠后的程序崩溃</b><br/>如果在系统休眠后，Wallpaper Engine 崩溃，这是因为 Windows 没有按正确的顺序恢复图形驱动程序和 Wallpaper Engine 的状态。此选项能帮助您的系统修复该问题。<br/><br/><b>修复系统休眠之后的 LED 效果</b><br/>在系统休眠后，某些 LED 程序可能会阻止与 Wallpaper Engine 的连接，因此 LED 效果将会停止工作。此选项可以通过完全重新启动 Wallpaper Engine 来解决此问题，使它能够重新连接到 LED 实用程序。",
 	"ui_settings_advanced_sleep_hack_error_auto_start_header": "需要高优先级自动启动",
