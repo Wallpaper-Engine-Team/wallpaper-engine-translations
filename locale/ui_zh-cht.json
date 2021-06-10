@@ -750,6 +750,7 @@
 	"ui_settings_process_priority_normal": "標準",
 	"ui_settings_process_priority_below_normal": "標準以下",
 	"ui_settings_advanced_monitor_identification": "顯示器識別方法：",
+	"ui_settings_advanced_monitor_identification_tip": "此設定控制 Wallpaper Engine 指派桌布到個別螢幕的方法。如果您的桌布在顯示器之間交換，或在重新啟動/休眠電腦後無法顯示，請嘗試變更此選項。由於圖形驅動程式或 Windows 本身問題多樣，在此無法給予一般適用的建議，您可能需要多方嘗試。<br/><br/><b>Device Path</b><br/>此選項會直接指派桌布到顯示卡和顯示器的名稱。如果您變更顯示卡接線或螢幕，必須再次依新設定選取桌布。不過，您可以變更多顯示器配置或主要顯示器，桌布將維持在您指派的位置。此方法能保證運作穩定，也是<i>最建議</i>的設定方法。除非圖形驅動程式發生嚴重問題，否則應能正常運作。<br/><br/><b>Shell API</b><br/>在 Windows 10 推出且最先進的偵測螢幕方法。如果顯示器識別功能出現問題，可優先使用此選項。<br/><br/><b>Layout</b><br/>依顯示器在 Windows 中的虛擬位置下指令。如果您在 Windows 中變更多顯示器配置、主要顯示器或移除顯示器，則程式可能不會按照您預期的方法還原桌布。假如驅動程式使用預設的「Device Path」選項而發生太多問題，或者您並不會定期變更顯示器時，才應該使用此選項。<br/><br/><b>GDI</b><br/>依 Windows 設定的順序和名稱來識別顯示器。如果您的情況適用此選項，即使您變更顯示器，只要桌布儲存在同樣位置，就能將相同的桌布還原到各顯示器。桌布很可能會在每次啟動/從休眠模式喚醒電腦時，在顯示器間隨機交換——大多數情況下較容易發生錯誤，而且運作狀況不佳。<br/><br/><b>Deprecated</b><br/>與「GDI」選項類似，但使用更舊式的顯示器識別方法。一般而言，是最容易發生錯誤的選項，但在罕見的情況下，可能會解決 Windows 或與圖形驅動程式相關的問題。若確定其他方法無法作用，再嘗試此選項。",
 	"ui_settings_advanced_sleep_hack": "休眠後安全啟動：",
 	"ui_settings_advanced_sleep_hack_tip": "如果在Windows休眠後遇到任何相容性問題，請使用該選項。這可以在休眠後完整重新啟動程式，以修復電腦中由其他程式造成的問題。<br/><br/><b>修復休眠後的故障</b><br/>如果Wallpaper Engine在休眠後故障，則表示Windows無法按照順序正確還原顯示卡驅動程式和Wallpaper Engine，此選項可能有助於您的系統修復該問題。<br/><br/><b>修復系統休眠之後的LED效果</b><br/>某些LED工具程序在系統休眠後可能會阻止其與Wallpaper Engine的連接，並且LED效果將會停止運作。此選項可以藉由完整重新啟動Wallpaper Engine來解決此問題，使它重新連接到LED工具程序。",
 	"ui_settings_advanced_sleep_hack_error_auto_start_header": "需要高優先順序自動啟動",
