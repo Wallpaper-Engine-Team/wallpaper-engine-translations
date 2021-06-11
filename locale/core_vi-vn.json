@@ -1,5 +1,6 @@
 {
 	"core_tray_change_wallpaper": "Thay Đổi Hình Nền",
+	"core_tray_browse_workshop": "Duyệt Workshop",
 	"core_tray_create_wallpaper": "Tạo Hình Nền",
 	"core_tray_settings": "Cài Đặt",
 	"core_tray_take_screenshot": "Chụp Ảnh Màn Hình",
@@ -14,6 +15,7 @@
 	"core_tray_next_wallpaper": "Hình Nền Kế Tiếp",
 	"core_tray_mute": "Tắt Tiếng",
 	"core_tray_unmute": "Bật Tiếng",
+	"core_tray_playlist_prefix": "Playlist:",
 	"core_balloon_info": "Wallpaper Engine được thu nhỏ vào Taskbar. Nhấn đúp chuột lên biểu tượng phần mềm để chọn hình nền.",
 	"core_balloon_desktop_window_error": "Hình nền động thay đổi thất bại.",
 	"core_balloon_video_error": "Xảy ra lỗi video {{err}}. Nhấn tôi để được trợ giúp.",
