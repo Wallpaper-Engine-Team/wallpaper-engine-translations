@@ -21,6 +21,7 @@
 	"ui_resolution_portrait": "Portrait",
 	"ui_title_maximize": "Maksimalkan (F11)",
 	"ui_title_mini_mode": "Alihkan Mode Mini (F10)",
+	"ui_monitor_generic": "Layar {{index}}",
 	"ui_modal_updaterequired_title": "Wallpaper Engine perlu diperbarui",
 	"ui_modal_updaterequired_body": "Silakan tutup Wallpaper Engine (klik kanan ikon di baki dan klik Keluar) lalu aktifkan ulang melalui [[[Platform]]] untuk mendapatkan versi terbaru nya. Jika Anda masih mendapatkan pesan peringatan ini, silakan verifikasi berkas aplikasi melalui [[[Platform]]].<br/><br/>Versi Aplikasi: <b>{{callerVersion}}</b>, Versi UI: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title": "Pembaruan tersedia",
