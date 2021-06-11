@@ -1198,6 +1198,8 @@
 	"ui_editor_character_separation_disabled_body": "Fungsionalitas ini tidak tersedia untuk lapisan gambar dengan efek yang ada.<br/><br/>Mohon antara menghapus semua efek gambar dari lapisan ini atau impor ulang sebuah salinan gambar ini dengan nama yang berbeda, lalu coba lagi.",
 	"ui_editor_character_separation_not_image_layer_title": "Hanya untuk Lapisan Gambar",
 	"ui_editor_character_separation_not_image_layer_body": "Fungsionalitas ini hanya tersedia untuk lapisan gambar.<br/><br/>Mohon pilih sebuah lapisan gambar untuk melanjutkan.",
+	"ui_editor_character_separation_hint": "<b>Tip:</b> Hanya gambar garis besar pada latar depan dan latar belakang. Garis besar yang Pixel-perfect (Piksel yang rapi, bersih, dan sempurna tanpa guratan piksel yang kasar) tidak akan memperbaiki hasil. Klik <b>Bantuan</b> untuk informasi lebih lanjut.",
+	"ui_editor_character_separation_cancel_editing_body": "Apakah Anda ingin membatalkan dan membuang masker?",
 	"ui_editor_export_modal_header": "Ekspor",
 	"ui_editor_export_modal_audio_hint": "Alat ini mengizinkan Anda untuk mengekspor sebuah video tanpa audio ataupun elemen interaktif wallpaper.<br/><br/>Jika Anda ingin merekam audio ataupun elemen interaktif juga, mohon ikuti panduan ini: <a href='[[[var_url_faqexport]]]'>help.wallpaperengine.io</a>.",
 	"ui_editor_export_modal_settings_format": "Format",
