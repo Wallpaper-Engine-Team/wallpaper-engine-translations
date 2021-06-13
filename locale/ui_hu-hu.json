@@ -420,7 +420,6 @@
 	"ui_browse_context_menu_hotkey": "Gyorsgombok",
 	"ui_browse_context_menu_assign_hotkey": "Gyorsgomb hozzárendelése",
 	"ui_browse_context_menu_remove_hotkey": "Gyorsgomb eltávolítása",
-	"ui_browse_context_menu_browse_by_author": "Összes keresése {{author}} {{count}} -tal",
 	"ui_browse_context_menu_block_author": "{{author}} tiltása",
 	"ui_browse_context_menu_unblock_author": "{{author}} tiltás feloldása",
 	"ui_browse_context_menu_send_to": "Küldés a következőnek: {{name}}",
