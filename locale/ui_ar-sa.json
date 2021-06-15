@@ -19,6 +19,7 @@
 	"ui_resolution_dual": "شاشة مزدوجة",
 	"ui_resolution_triple": "شاشة ثلاثية",
 	"ui_resolution_portrait": "عامودية",
+	"ui_title_maximize": "تكبير (F11)",
 	"ui_modal_updaterequired_title": "محرك الخلفيات يحتاج الى تحديث",
 	"ui_modal_updateavailable_title": "تحديث جديد متاح",
 	"ui_modal_installationpath_error_title": "مسار التثبيت المسجل في ويندوز خاطئ",
