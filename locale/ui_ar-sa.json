@@ -346,6 +346,8 @@
 	"ui_browse_explore_category_user_favorites": "خلفياتك المفضلة",
 	"ui_browse_explore_category_user_up_voted": "الخلفيات التي صوت لها",
 	"ui_browse_explore_category_seasonal_collection": "خلفيات <b>موسمية</b> {{emoji}} موصى بها",
+	"ui_browse_explore_category_led_support": "رائعة مع ريزر كروما و كورسير اي كيو {{emoji}}",
+	"ui_browse_explore_server_error": "تعذر الاتصال بسيرفرات Wallpaper Engine لجلب قوائم إضافية.",
 	"ui_browse_context_menu_report": "تقرير",
 	"ui_browse_report_modal_header": "تقرير الخلفية:",
 	"ui_browse_report_modal_submit": "إرسال التقرير",
