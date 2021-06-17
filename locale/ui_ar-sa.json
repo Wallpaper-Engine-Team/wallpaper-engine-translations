@@ -441,6 +441,7 @@
 	"ui_browse_mobile_upload_modal_video_preset_1080_60": "Full HD - 60 FPS",
 	"ui_browse_mobile_upload_modal_video_preset_2160_30": "4K UHD - 30 FPS",
 	"ui_browse_mobile_upload_modal_video_preset_2160_60": "4K UHD - 60 FPS",
+	"ui_browse_mobile_upload_cancel_title": "إلغاء تحميلات الجهاز المحمول",
 	"ui_settings_playback": "التشغيل",
 	"ui_settings_playback_focused": ":عند التركيز على برنامج آخر",
 	"ui_settings_playback_maximized": ":عند تكبير برنامج آخر",
