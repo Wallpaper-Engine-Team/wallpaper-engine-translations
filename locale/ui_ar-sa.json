@@ -492,6 +492,8 @@
 	"ui_browse_modal_hotkey_assign_profile": "تعيين اختصار للبروفايل {{name}}",
 	"ui_browse_modal_hotkey_enter_hotkey": "ادخل الاختصار:",
 	"ui_browse_modal_seasonal_info_body": "لقد قمنا بتغيير ثيم Wallpaper Engine ليتناسب مع المناسبة! سيتم تغيير المظهر مرة أخرى في غضون ايام.<br/><br/> يمكنك تعطيل <i> الثيمات الموسمية</i> في الإعدادات إذا لم يعجبك هذا أو تغيير المظهر هناك في أي وقت. <br/><br/> تحتوي علامة التبويب <i> اكتشف </i> أيضًا على قائمة خاصة من الخلفيات التي تتناسب مع الوقت من العام!",
+	"ui_browse_modal_seasonal_info_header_halloween": "خدعة ام حلوى، انه الهالوين",
+	"ui_browse_modal_seasonal_info_header_winter": "إنه فصل الشتاء",
 	"ui_browse_mobile_upload_modal_texture_compression_high_performance": "أداء عالي - (ضغط جميع الرسومات)",
 	"ui_browse_mobile_upload_modal_texture_compression_high_quality": "جودة عالية - (عدم ضغط الرسومات)",
 	"ui_browse_mobile_upload_modal_texture_reduction": "تخفيض الرسومات",
