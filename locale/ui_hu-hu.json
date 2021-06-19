@@ -531,6 +531,7 @@
 	"ui_browse_mobile_modal_delete_device_message": "Biztosan le akarja csatlakoztatni a következőt: <b>{{device}}</b>?",
 	"ui_rating_table_suitable_for_everyone": "Mindenki számára alkalmas",
 	"ui_rating_table_partial_nudity_suggestive": "Részleges meztelenség / szuggesztív",
+	"ui_rating_table_nudity_explicit": "Teljes meztelenség",
 	"ui_rating_table_hardcore_sexual_acts": "Szexuális tevékenységek",
 	"ui_rating_table_excessive_gore": "Túlzott erőszak",
 	"ui_rating_table_header_photographic": "Fényképészeti / való élet",
