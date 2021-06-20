@@ -463,7 +463,7 @@
 	"ui_browse_download_header": "[[[Platform]]] letöltés",
 	"ui_browse_download_pending": "Betöltés",
 	"ui_browse_download_waiting": "Várakozás a [[[Platform]]]-re",
-	"ui_browse_download_missing_files": "Hiányzó fájlok. Ellenőrize a programot a [[[Platform]]]-ben.",
+	"ui_browse_download_missing_files": "Hiányzó fájlok. Ellenőrizze a programot a [[[Platform]]]-ben.",
 	"ui_browse_modal_hotkey_assign_wallpaper": "Rendeljen gyorsbillentyűt ehhez a háttérképhez {{name}}",
 	"ui_browse_modal_hotkey_assign_playlist": "Rendeljen gyorsbillentyűt ehhez a lejátszási listához {{name}}",
 	"ui_browse_modal_hotkey_assign_profile": "Rendeljen gyorsbillentyűt ehhez a profilhoz {{name}}",
