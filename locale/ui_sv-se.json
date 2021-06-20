@@ -39,6 +39,7 @@
 	"ui_browse_screensaver": "Skärmsläckare",
 	"ui_browse_split": "Dela",
 	"ui_browse_choose_monitor": "Välj skärm",
+	"ui_browse_close_screensaver": "Avsluta",
 	"ui_browse_filter_results": "Filtrera resultat",
 	"ui_browse_filter_results_count": "({{filtered}} av {{unfiltered}})",
 	"ui_browse_filter_results_filtered": "(filtrerade)",
