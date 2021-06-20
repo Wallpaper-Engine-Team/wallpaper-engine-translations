@@ -926,6 +926,7 @@
 	"ui_editor_filemenu_help_debugging" : "Debugging",
 	"ui_editor_filemenu_help_puppet_warp" : "Puppet Warp",
 	"ui_editor_filemenu_help_foreground_separation" : "Foreground Separation",
+	"ui_editor_filemenu_help_lighting_and_reflections" : "Lighting & Reflections",
 	"ui_editor_filemenu_editor_settings" : "Editor Settings",
 	"ui_editor_filemenu_delete_submissions" : "Delete Workshop Uploads",
 	
@@ -2288,6 +2289,7 @@
 
 	"ui_editor_select_material" : "Select Material",
 	"ui_editor_select_texture" : "Select Texture",
+	"ui_editor_light_limit_reached" : "Cannot add more than {{count}} lights.",
 
 	"ui_provider_error_generic" : "[[[Platform]]] encountered an internal error.",
 	"ui_provider_error_no_network" : "[[[Platform]]] has no network connection.",
