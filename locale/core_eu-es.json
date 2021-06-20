@@ -1,5 +1,6 @@
 {
 	"core_tray_change_wallpaper": "Aldatu horma-papera",
+	"core_tray_change_screensaver": "Aldatu pantailaren aurrezlea",
 	"core_tray_browse_workshop": "Arakatu Workshop",
 	"core_tray_create_wallpaper": "Sortu horma-papera",
 	"core_tray_settings": "Ezarpenak",
@@ -29,6 +30,7 @@
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engine Aero hasieratua egotea behar du funtzionatzeko. Aero orain hasieratu?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine ezin du 'kontraste altu'-ko tematan funtzionatu. Tema orain berrabiarazi?",
 	"core_msgbox_prompt_high_contrast_was_enabled": "Windows 'kontraste altuko' tema bat ezarri du, honek ez du Wallpaper Engine funtzionatzen uzten.",
+	"core_msgbox_high_contrast_white": "Windows kontraste handiko modua ahalbidetu duzu kontraste zuriaren gaia konbinatuz. Kontraste handiko gai zuriak Wallpaper Enginek horma-paper dinamiko bat jartzea eragozten du, Windows egiteko moduagatik.\n\nWindows kontraste altuko konfigurazioak ireki eta kontraste handiko gaia aldatu edo kontraste handiko modua itzali Wallpaper Engine erabili ahal izateko.",
 	"core_msgbox_dwm_disabled": "Mahaigaineko konposizioa desaktibatuta dago.",
 	"core_msgbox_aero_denied": "Wallpaper Engine ezin du Aero gabe funtzionatu eta irten egingo da.",
 	"core_msgbox_aero_failure": "Ezin izan da Aero hasieratu.\n\nbadirudi Windows Aero gaitzea galarazten ari dela, Tamalez betekizun garrantzitsua da eta Wallpaper Engine ezin du bera gabe funtzionatu.\n\nSaiatu Aero abiarazten Windowseko tema ezarpenetan eta hasieratu Wallpaper Engine berriro.",
