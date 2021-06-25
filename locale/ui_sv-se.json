@@ -770,6 +770,7 @@
 	"ui_settings_ui_performance_low": "Låg - Inaktivera alla effekter",
 	"ui_settings_restart_after_crash": "Starta om efter krasch",
 	"ui_settings_restart_after_crash_hint": "Detta alternativ får Wallpaper Engine att starta om sig själv efter en krasch och inaktiverar meddelanden om krascher i huvudprogrammet.<br/><br/>Du bör absolut inte aktivera detta alternativ såvida du inte har något annat val.<br/><br/>Själva Wallpaper Engine är riktigt stabilt och bör inte krascha under normala förhållanden. Detta alternativ finns endast för att förhindra krascher på instabila systems p.g.a. felaktiga grafikrutiner eller aggressiva program som får Wallpaper Engine att krascha hjälplöst.<br/><br/><b>Du kan avbryta den automatiska omstarten genom att hålla ned MELLANSLAG.</b>",
+	"ui_settings_enable_override_wallpaper": "Åsidosätt bakgrundsbild",
 	"ui_settings_copyright": "Alla rättigheter förbehållna.",
 	"ui_settings_thirdparty": "Tredjepartsinformation",
 	"ui_settings_highpriority_warning_header": "Information om hög prioritet",
