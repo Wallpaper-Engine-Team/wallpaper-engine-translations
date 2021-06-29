@@ -1378,6 +1378,7 @@
 	"ui_workshop_tags_portrait_1440_x_2560": "1440 x 2560",
 	"ui_workshop_tags_portrait_2160_x_3840": "2160 x 3840",
 	"ui_workshop_info_visibility_public": "Offentliga bakgrunder dyker upp i offentliga sökresultat och kan användas av allihopa.",
+	"ui_workshop_info_visibility_private": "Privata bakgrunder är bara synliga för dig och kan inte laddas ned av någon annan.",
 	"ui_workshop_info_visibility_unlisted": "Olistade bakgrunder kan laddas ned av vem som helst med länken, men kan inte hittas med en sökning.",
 	"ui_editor_scene_options_bloom": "Glöd",
 	"ui_editor_scene_options_bloom_hint": "OBS: Glödeffekter kräver att efterbehandlingar aktiveras i Wallpaper Engines prestandainställningar.",
