@@ -778,6 +778,7 @@
 	"ui_settings_restart_after_crash_hint": "Detta alternativ får Wallpaper Engine att starta om sig själv efter en krasch och inaktiverar meddelanden om krascher i huvudprogrammet.<br/><br/>Du bör absolut inte aktivera detta alternativ såvida du inte har något annat val.<br/><br/>Själva Wallpaper Engine är riktigt stabilt och bör inte krascha under normala förhållanden. Detta alternativ finns endast för att förhindra krascher på instabila systems p.g.a. felaktiga grafikrutiner eller aggressiva program som får Wallpaper Engine att krascha hjälplöst.<br/><br/><b>Du kan avbryta den automatiska omstarten genom att hålla ned MELLANSLAG.</b>",
 	"ui_settings_enable_override_wallpaper": "Åsidosätt bakgrundsbild",
 	"ui_settings_enable_override_lockscreen": "Åsidosätt låsskärmsbild",
+	"ui_settings_enable_override_system_image_info_title": "Åsidosätt Windows-bakgrund eller låsskärmsbild",
 	"ui_settings_enable_override_system_image_info_message": "Skapa en <b>säkerhetskopia av din bakgrund- och låsskärmsbild i Windows</b> innan du aktiverar detta alternativ.<br/><br/>Wallpaper Engine kommer automatiskt att försöka återställa bilden när du inaktiverar dessa alternativ igen, men du bör fortfarande se till att ha en säkerhetskopia av bakgrunden och låsskärmen ifall de inte kan återställas.",
 	"ui_settings_restore_override_wallpaper_title": "Återställ Windows-bakgrund",
 	"ui_settings_restore_override_lockscreen_title": "Återställ Windows-låsskärm",
