@@ -782,6 +782,8 @@
 	"ui_settings_enable_override_system_image_info_title": "وضع فوق خلفية الويندوز او صورة شاشة القفل",
 	"ui_settings_enable_override_system_image_info_message": "الرجاء إنشاء <b>نسخة احتياطية من خلفية Windows وصورة شاشة القفل</b> قبل تمكين هذا الخيار.<br/><br/> سيحاول Wallpaper Engine استعادة الصورة عند تعطيل هذه الخيارات مرة أخرى تلقائيًا، ولكن يجب عليك التأكد من أن لديك نسخة احتياطية من خلفية Windows وشاشة القفل في حالة تعذر استعادتها.",
 	"ui_settings_restore_override_wallpaper_title": "استعادة خلفية الويندوز",
+	"ui_settings_restore_override_wallpaper_message": "أنت تقوم بتعطيل خيار الكتابة فوق خلفية Windows. هل ترغب في استعادة خلفية Windows التي حفظها Wallpaper Engine عند تمكين هذا الخيار لأول مرة؟",
+	"ui_settings_restore_override_lockscreen_title": "استعادة صورة شاشة القفل",
 	"ui_settings_copyright": "جميع الحقوق محفوظة",
 	"ui_settings_thirdparty": "إشعارات الطرف الثالث",
 	"ui_settings_highpriority_warning_header": "معلومات عن الافضلية العالية",
