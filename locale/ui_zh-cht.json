@@ -2179,6 +2179,7 @@
 	"ui_editor_puppet_warp_overwrite_pose_title": "覆寫姿勢 {{name}}",
 	"ui_editor_select_material": "選取素材",
 	"ui_editor_select_texture": "選取紋理",
+	"ui_editor_light_limit_reached": "無法新增超過 {{count}} 道亮光。",
 	"ui_provider_error_generic": "[[[Platform]]] 出現內部錯誤。",
 	"ui_provider_error_no_network": "[[[Platform]]] 沒有網路連線。",
 	"ui_provider_error_logged_on_elsewhere": "[[[Platform]]] 使用者已在另一台電腦上登入。",
