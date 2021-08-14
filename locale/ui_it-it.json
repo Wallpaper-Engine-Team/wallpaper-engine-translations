@@ -13,7 +13,7 @@
 	"ui_discard": "Scarta",
 	"ui_save": "Salva",
 	"ui_show_details": "Mostra dettagli",
-	"ui_hotkey": "Hotkey: {{key}}",
+	"ui_hotkey": "Tasto di scelta rapida: {{key}}",
 	"ui_resolution_widescreen": "Widescreen",
 	"ui_resolution_ultrawide": "Ultra widescreen",
 	"ui_resolution_dual": "Doppio monitor",
