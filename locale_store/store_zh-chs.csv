@@ -1,7 +1,7 @@
-system_requirements,"Windows N 版本需要 Microsoft 提供的“Media Feature Pack”。必须在 Windows 7 上启用 Aero。不支持高对比度模式。对于 Windows 8 和 10，最大视频分辨率为 4K，对于 Windows 7 为 1080p
+"system_requirements","Windows N 版本需要 Microsoft 提供的“Media Feature Pack”。必须在 Windows 7 上启用 Aero。不支持高对比度模式。对于 Windows 8 和 10，最大视频分辨率为 4K，对于 Windows 7 为 1080p
 "
-description_short,您可以在桌面上使用惊艳的动态壁纸。可以将您自己的图片制成动画以创建新壁纸，或导入视频/网站并在 Steam Workshop 上分享！
-description_long,"Wallpaper Engine 使您可以在 Windows 桌面上使用动态壁纸。它支持各种类型的动画壁纸，包括 3D 和 2D 动画、网站、视频甚至某些应用程序。既可选择现有壁纸，也可创建自己的壁纸并在 Steam Workshop 上分享！
+"description_short","您可以在桌面上使用惊艳的动态壁纸。可以将您自己的图片制成动画以创建新壁纸，或导入视频/网站并在 Steam Workshop 上分享！"
+"description_long","Wallpaper Engine 使您可以在 Windows 桌面上使用动态壁纸。它支持各种类型的动画壁纸，包括 3D 和 2D 动画、网站、视频甚至某些应用程序。既可选择现有壁纸，也可创建自己的壁纸并在 Steam Workshop 上分享！
 
 [img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
 
@@ -27,11 +27,11 @@ Wallpaper Engine 旨在提供有趣的体验，同时尽可能少占用系统资
 [img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
 [h2][/h2]
 Steam Workshop 中提供超过 350000 张免费壁纸，而且每天都会上传新壁纸！找不到适合您心情的壁纸？通过使用 Wallpaper Engine 编辑器从图片、视频、网站或应用程序创建自己的动画壁纸，尽情发挥您的想象。大量的预设和效果可让您为自己的图片制作动画，并在 Steam Workshop 上分享它们，或者只为自己使用。"
-description_image_features,特性
-description_image_performance,性能
-screenshot_text_customization,自定义壁纸
-screenshot_text_performance,有很多选项可以微调性能
-screenshot_text_images,制作自己的图片动画
-screenshot_text_tools,有许多工具可以创建动画
-screenshot_text_presets,快速添加预设效果
-screenshot_text_effects,构建自己的复杂效果 
+"description_image_features","特性"
+"description_image_performance","性能"
+"screenshot_text_customization","自定义壁纸"
+"screenshot_text_performance","有很多选项可以微调性能"
+"screenshot_text_images","制作自己的图片动画"
+"screenshot_text_tools","有许多工具可以创建动画"
+"screenshot_text_presets","快速添加预设效果"
+"screenshot_text_effects","构建自己的复杂效果 "
