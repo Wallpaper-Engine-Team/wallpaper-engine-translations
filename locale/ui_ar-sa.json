@@ -501,12 +501,25 @@
 	"ui_browse_modal_steam_redownload_error_body": "اكتشف Wallpaper Engine أنه يتم تنزيل الكثير من الخلفيات بواسطة [[[Platform]]] في الوقت الحالي <br/><br/>إذا كنت قد اشتركت مؤخرًا في الكثير من الخلفيات الجديدة، فيرجى تجاهل هذه الرسالة والانتظار من أجل [[[Platform]]] لإنهاء تنزيل كل شيء.<br/><br/> إذا بدا أن [[[Platform]]] ينزل الكثير من الخلفيات التي سبق لك تنزيلها، فحينئذٍ حدث خطأ في [[[Platform]]]. هذا <i>ليس</i> خطأ في Wallpaper Engine. يرجى الاطلاع على هذا المنشور <a href='[[[var_url_faqredownload]]]'> إصلاح [[[Platform]]] إعادة تنزيل كل شيء</a> أو انتظر [[[Platform]]] لإنهاء التنزيل وإصلاح نفسه.",
 	"ui_browse_modal_steam_redownload_never_show_again": "لا تظهر هذا الحوار مرة أخرى",
 	"ui_browse_modal_monitor_mismatch_title": "لا يمكن وضع الخلفية",
+	"ui_browse_modal_monitor_mismatch_body": "يبدو أن Wallpaper Engine لا يمكنه تطبيق الخلفية لأنه لا يمكنه التعرف على شاشاتك بشكل صحيح.<br/><br/> حاول إعادة تشغيل Wallpaper Engine تمامًا. إذا كنت تواجه هذه المشكلة بشكل متكرر ، فحاول تعطيل خيار </b>الأولوية العالية</b> واستخدم البدء التلقائي العادي بدلاً من ذلك. <br/><br/> بالإضافة إلى ذلك، حاول تعيين <b>تعريف الشاشة</b> خيار <b>نسق</b> في علامة التبويب <b>عام</b> للإعدادات لتجنب هذه المشكلة.",
+	"ui_browse_modal_trial_reminder_body": "الخلفيات التي اشتركت فيها الآن رائعة حقًا، أليس كذلك؟ اشترِ Wallpaper Engine الآن، وستحصل على:<br/><br/>*تنزيل جميع الخلفيات الإبداعية مجانًا.<br/>* ستجد خلفيات جديدة كل يوم من العديد من منشئي المحتوى. <br/>* استخدم المحرر لإنشاء خلفيات خاصة بك ونشرها.",
+	"ui_browse_alert_active_application_rule": "قاعدة التطبيق لـ<b>{{executable}}</b> نشطة حاليًا وتلغي اختيار الخلفية.",
+	"ui_browse_alert_trial_reminder": "قم بشراء Wallpaper Engine الآن وستستمتع بـ: تنزيل خلفيات من الوورك شوب بسهولة بما في ذلك بعض الخلفيات الحصرية على [[[Platform]]].",
 	"ui_browse_alert_trial_reminder_button": "الذهاب الى المتجر",
 	"ui_browse_alert_trial_reminder_button_cancel": "لاحقا",
+	"ui_browse_alert_vram_exhausted": "استنفدت ذاكرة الفيديو الخاصة بك وتم تعطيل الخلفيات حتى يحصل نظامك على موارد كافية مرة أخرى. يمكن إيقاف تشغيل هذه الميزة من الإعدادات العامة.",
+	"ui_browse_alert_remote_steamdown": "تواجه خوادم [[[Platform]]] حاليًا مشكلات فنية وقد لا تعمل بعض ميزات الوورك شوب بشكل صحيح. قد يشمل ذلك سرعة استجابة البحث البطيئة أو نتائج بحث غير مكتملة. تؤثر هذه المشكلة على جميع مستخدمي [[[Platform]]] ولا علاقة لها بـWallpaper Engine أو جهاز الكمبيوتر الخاص بك. يمكنك تجاهل هذه الرسالة إذا كان كل شيء يعمل بشكل جيد بالنسبة لك.",
+	"ui_browse_alert_screensaver_app": "لا يمكن استخدام خلفيات التطبيق كشاشة توقف.",
+	"ui_browse_mobile_devices_success_toast": "تم الاتصال بـ{{name}} بنجاح.",
 	"ui_browse_mobile_devices_unknown_device": "جهاز غير معروف",
 	"ui_browse_mobile_devices_status_connected": "متصل",
 	"ui_browse_mobile_devices_status_disconnected": "موصول، لكن غير متصل",
 	"ui_browse_mobile_devices_btn_connect_new_device": "اتصال بجهاز جديد",
+	"ui_browse_mobile_devices_qr_hint": "قم بتثبيت Wallpaper Engine على هاتفك أو جهازك اللوحي الذي يعمل بنظام <b>Android</b> مجانًا واستخدم الخلفيات المتحركة أثناء التنقل.",
+	"ui_browse_mobile_devices_pin_hint": "أدخل رقم التعريف هذا على جهازك المحمول لتوصيله:",
+	"ui_browse_mobile_devices_link_info": "<i>يتطلب Wallpaper Engine تحديث اندرويد 8.1 او احدث.</i><br/><br/>قم بزيارة موقعنا على الإنترنت للحصول على مساعدة إضافية: <a href='[[[var_url_mobile_faq]]]'>مساعدة Wallpaper Engine للأجهزة المحمولة</a>",
+	"ui_browse_mobile_upload_modal_title": "إرسال {{title}} الى {{device}}",
+	"ui_browse_mobile_upload_modal_hint": "سيعمل Wallpaper Engine على تحسين خلفياتك لجهازك لتحقيق أفضل أداء ممكن. الرجاء اختيار تقييم الأداء الذي يمثل جهازك بأفضل شكل. يمكنك تغيير هذا الخيار في وقت لاحق وإعادة تحميل الخلفيات على جهازك إذا كانت الجودة المرئية أو الأداء لا يرضيك.",
 	"ui_browse_mobile_upload_modal_texture_compression_high_performance": "أداء عالي - (ضغط جميع الرسومات)",
 	"ui_browse_mobile_upload_modal_texture_compression_high_quality": "جودة عالية - (عدم ضغط الرسومات)",
 	"ui_browse_mobile_upload_modal_texture_reduction": "تخفيض الرسومات",
@@ -529,48 +542,195 @@
 	"ui_browse_mobile_upload_modal_video_preset_2160_30": "4K UHD - 30 FPS",
 	"ui_browse_mobile_upload_modal_video_preset_2160_60": "4K UHD - 60 FPS",
 	"ui_browse_mobile_upload_cancel_title": "إلغاء تحميلات الجهاز المحمول",
+	"ui_browse_mobile_upload_cancel_body": "هل أنت متأكد من أنك تريد إلغاء جميع التحميلات المعلقة على جهازك المحمول؟",
 	"ui_browse_mobile_upload_unavailable_title": "لم يكتمل التثبيت",
+	"ui_browse_mobile_upload_unavailable_body": "الرجاء إعادة تشغيل Wallpaper Engine عبر [[[Platform]]] لتثبيت تطبيق Wallpaper Engine Companion App لنظام Android.",
+	"ui_browse_mobile_transcoder_error_failed_resetting_transcode_folder": "فشلت إعادة تعيين مجلد التحويل.",
+	"ui_browse_mobile_transcoder_error_failed_resetting_output_file": "فشلت إعادة تعيين مجلد الإخراج.",
+	"ui_browse_mobile_transcoder_error_failed_creating_output_directory": "فشل إنشاء مجلد للإخراج.",
+	"ui_browse_mobile_transcoder_error_failed_opening_pkg": "فشل فتح ملف حزمة الخلفية.",
+	"ui_browse_mobile_transcoder_error_failed_unpacking_files": "فشل تفريغ ملفات المشروع.",
+	"ui_browse_mobile_transcoder_error_failed_copying_wallpaper_files": "فشل نسخ ملفات الخلفية.",
+	"ui_browse_mobile_transcoder_error_failed_creating_thumbnail": "فشل إنشاء الصورة المصغرة.",
+	"ui_browse_mobile_transcoder_error_failed_copying_project_file": "فشل نسخ ملف المشروع.",
+	"ui_browse_mobile_transcoder_error_failed_converting_texture": "فشل تحويل الرسومات.",
+	"ui_browse_mobile_transcoder_error_failed_converting_video": "فشل تحويل الخلفية إلى فيديو.",
+	"ui_browse_mobile_transcoder_error_failed_packing_project": "فشلت تعبئة ملفات الخلفية.",
+	"ui_browse_mobile_transcoder_error": "فشل تحويل للجوال، خطأ في محول الشفرة: {{error}}",
+	"ui_browse_mobile_transcoder_progress_title": "جاري رفع {{title}} إلى {{device}}{{count}}",
+	"ui_browse_mobile_transcoder_progress_title_export": "جاري تصدير {{title}}{{count}}",
+	"ui_browse_mobile_transcoder_progress_converting_project": "جاري تحويل الخلفية",
+	"ui_browse_mobile_transcoder_progress_uploading": "جاري الرفع الى الجهاز المحمول",
 	"ui_browse_mobile_transcoder_progress_finished": "تم الانتهاء",
+	"ui_browse_mobile_modal_delete_device_title": "إلغاء إقتران الجهاز {{device}}",
+	"ui_browse_mobile_modal_delete_device_message": "هل أنت متأكد من أنك تريد إلغاء إقتران <b>{{device}}</b>؟",
+	"ui_rating_table_suitable_for_everyone": "مناسبة للجميع",
+	"ui_rating_table_partial_nudity_suggestive": "عري جزئي / إيحاءات",
+	"ui_rating_table_nudity_explicit": "عري كامل",
+	"ui_rating_table_hardcore_sexual_acts": "أفعال جنسية",
+	"ui_rating_table_excessive_gore": "عنف مفرط",
+	"ui_rating_table_header_photographic": "تصوير فوتوغرافي / واقعي",
+	"ui_rating_table_header_cgi": "رسومات حاسوبية / رسمات",
 	"ui_settings_playback": "التشغيل",
 	"ui_settings_playback_focused": ":عند التركيز على برنامج آخر",
 	"ui_settings_playback_maximized": ":عند تكبير برنامج آخر",
 	"ui_settings_playback_fullscreen": ":وضع ملء الشاشة",
+	"ui_settings_playback_sleep": "الشاشة في وضع السكون:",
+	"ui_settings_playback_battery": "اللابتوب على البطارية:",
+	"ui_settings_playback_playing_audio": "تطبيق آخر يقوم بتشغيل صوت:",
+	"ui_settings_playback_application_rules": "قواعد التطبيق:",
+	"ui_settings_playback_application_rules_header": "قواعد التطبيق",
+	"ui_settings_playback_application_rules_edit": "تعديل",
+	"ui_settings_playback_active_rules": "القواعد النشطة",
+	"ui_settings_playback_new_rule": "أنشئ قاعدة جديدة",
+	"ui_settings_playback_new_rule_application_name": "اسم التطبيق",
+	"ui_settings_playback_new_rule_condition": "الحالة",
+	"ui_settings_playback_new_rule_action": "حالة تشغيل الخلفية",
+	"ui_settings_playback_new_rule_search": "بحث",
+	"ui_settings_playback_new_rule_search_empty": "لم يتم العثور على نتائج",
+	"ui_settings_playback_new_rule_preview": "معاينة",
+	"ui_settings_playback_new_rule_open_in_workshop": "فتح في الـWorkshop",
+	"ui_settings_playback_condition_is_running": "قيد التشغيل",
+	"ui_settings_playback_condition_is_focused": "عليه التركيز",
+	"ui_settings_playback_condition_is_maximized": "مكبر",
+	"ui_settings_playback_condition_is_fullscreen": "في وضع ملء الشاشة",
+	"ui_settings_playback_condition_is_playing_audio": "يقوم بتشغيل صوت",
+	"ui_settings_playback_rule_remove": "حذف",
+	"ui_settings_playback_rule_edit": "تعديل",
 	"ui_settings_gfx_quality": "الجودة",
 	"ui_settings_gfx_preset_low": "منخفض",
 	"ui_settings_gfx_preset_medium": "متوسط",
 	"ui_settings_gfx_preset_high": "عالي",
+	"ui_settings_gfx_preset_ultra": "فائقة",
 	"ui_settings_gfx_antialiasing": "مضاد التعرجات",
+	"ui_settings_gfx_texture_resolution": "جودة الرسومات:",
 	"ui_settings_gfx_fps": "عدد اللقطات في الثانية:",
 	"ui_settings_gfx_reflections": ":الانعكاسات",
 	"ui_settings_gfx_post_processing": ":المعالجة البعدية",
 	"ui_settings_gfx_fps_warning": "!عدد اللقطات العالي قد يبطئ من جهازك",
+	"ui_settings_gfx_fps_warning_high": "قد يؤدي ارتفاع معدل الإطارات في الثانية إلى إبطاء جهاز الكمبيوتر الخاص بك! نحن جادون، هذا كثير 🔥.",
+	"ui_settings_gfx_enabled": "مفعل",
+	"ui_settings_gfx_disabled": "معطل",
+	"ui_settings_gfx_ultra": "فائقة",
+	"ui_settings_gfx_tooltip_warn_post_processing_ultra": "يضيف الوضع الفائق ازدهار HDR إلى الخلفيات المدعومة ويوصى به فقط لكروت الشاشة القوية والمتطورة.",
+	"ui_settings_gfx_tooltip_warn_msaa": "يوصى باستخدام x8 MSAA فقط لكروت الشاشة القوية والمتطورة.",
 	"ui_settings_performance": "الأداء",
 	"ui_settings_general": "عام",
 	"ui_settings_about": "حول",
+	"ui_settings_basic": "الإعداد البسيط",
+	"ui_settings_video": "الفيديو",
+	"ui_settings_audio": "الصوت",
+	"ui_settings_appearance": "المظهر",
+	"ui_settings_startup": "بدء التشغيل التلقائي",
+	"ui_settings_windows": "الويندوز",
+	"ui_settings_advanced": "اعدادات متقدمة",
+	"ui_settings_developers": "للمطورين",
+	"ui_settings_reset": "إعادة ضبط",
 	"ui_settings_ui_language": ":لغة الواجهة",
+	"ui_settings_theme": "سمة (Theme):",
+	"ui_settings_seasonal_theme": "استخدم السمات الموسمية:",
+	"ui_settings_seasonal_theme_hint": "يغير السمة خلال أوقات معينة من السنة.",
+	"ui_settings_hotkeys": "اختصارات:",
+	"ui_settings_hotkeys_header": "اختصارات",
+	"ui_settings_hotkeys_group_playback": "التشغيل",
+	"ui_settings_hotkeys_group_general": "عام",
+	"ui_settings_hotkeys_group_windows": "ويندوز",
+	"ui_settings_hotkeys_group_wallpaper": "تغيير الخلفية",
+	"ui_settings_hotkeys_group_wallpaper_stub": "يمكنك تعيين اختصارات للخلفيات أو قوائم التشغيل أو الملفات الشخصية في متصفح الخلفيات.",
+	"ui_settings_hotkeys_action_pause": "ايقاف خلفيات مؤقتا",
+	"ui_settings_hotkeys_action_stop": "ايقاف خلفيات",
+	"ui_settings_hotkeys_action_mute": "كتم خلفيات",
+	"ui_settings_hotkeys_action_recording": "تبديل تسجيل الصوت",
+	"ui_settings_hotkeys_action_hide_icons": "إخفاء ايقونات سطح المكتب",
+	"ui_settings_hotkeys_action_take_screenshot": "اخذ لقطة شاشة",
+	"ui_settings_hotkeys_action_next_wallpaper": "الخلفية التالية",
+	"ui_settings_hotkeys_action_window_browser": "تصفح خلفيات",
+	"ui_settings_hotkeys_action_window_settings": "الاعدادات",
+	"ui_settings_hotkeys_action_window_editor": "المُعدل",
+	"ui_settings_hotkeys_action_user_wallpaper": "اختيار خلفية",
+	"ui_settings_hotkeys_action_user_playlist": "اختبار قائمة تشغيل",
+	"ui_settings_hotkeys_action_user_profile": "اختيار ملف شخصي",
+	"ui_settings_hotkeys_action_start_screensaver": "بدء شاشة التوقف",
+	"ui_settings_hotkeys_prompt_enter_combination": "اضغط على مجموعة المفاتيح",
+	"ui_settings_hotkeys_modal_prompt_override_header": "استبدال الاختصار",
+	"ui_settings_hotkeys_modal_prompt_override_body": "تم تعيين هذا المفتاح بالفعل لـ '{{action}}'. هل تريد تعيينه هنا بدلاً من ذلك؟",
+	"ui_settings_hotkeys_example": "يجب أن تحتوي الاختصارات على Ctrl و Shift و Alt. أمثلة:<br/><br/>Shift + Ctrl + B<br/>Shift + F1<br/><br/> الحد الأحمر يعني أن مفتاح الاختصار غير صالح.",
 	"ui_settings_icon_opacity": ":شفافية ايقونات سطح المكتب",
 	"ui_settings_recording_volume": ":صوت التسجيل",
+	"ui_settings_recording_threshold": "تأخير التسجيل:",
 	"ui_settings_audio_input_device": ":جهاز ادخال الصوت",
 	"ui_settings_audio_input_device_default": "افتراضي",
 	"ui_settings_adjust_windows_color": ":ضبط لون ويندوز",
+	"ui_settings_adjust_windows_color_light_theme_hint": "أنت تستخدم الثيم \"الفاتح\" للويندوز الذي لا يسمح بوجود ألوان على شريط المهام. لتتمكن من تغيير لون شريط المهام، قم بتغيير ثيم الويندوز إلى \"داكن\".",
 	"ui_settings_adjust_windows_color_disabled": "معطل",
 	"ui_settings_adjust_windows_color_accent": "ألوان الواجهة",
 	"ui_settings_adjust_windows_color_everything": "كل شيء",
+	"ui_settings_adjust_windows_color_warning_header": "تحذير بشأن لون الويندوز",
+	"ui_settings_adjust_windows_color_warning_body": "<b>مهم</b>: الرجاء الانتباه إلى أن تمكين هذه الميزة سيؤدي إلى تعديل شكل وأسلوب نظام الويندوز الخاص بك. لا يمكن لـ Wallpaper Engine العودة إلى المظهر الحالي الخاص بك. إذا كنت ترغب في العودة إلى تصميمك القديم، فأنت بحاجة إلى تغيير إعدادات لون ثيم الويندوز يدويًا.<br/><br/> إذا كنت لا تعرف كيفية القيام بذلك أو إذا كنت تستخدم إصدارًا غير نشط من Windows لا يسمح لك بالقيام بذلك ، يُرجى <br/>عدم</b> تمكين هذه الميزة!<br/><br/>لا يمكن إرجاع الألوان بواسطة Wallpaper Engine. يمكن التراجع عنها في إعدادات الويندوز بدلاً من ذلك.",
 	"ui_settings_start_with_windows": ":البدء مع ويندوز",
 	"ui_settings_remove_service": "ازالة الافضلية العالية",
 	"ui_settings_register_service": "ضبط افضلية عالية",
 	"ui_settings_advanced_video_read": ":تحميل الفيديو",
 	"ui_settings_advanced_video_loop": "حلقة الفيديو",
+	"ui_settings_advanced_video_framework": "إطار عمل الفيديو:",
+	"ui_settings_advanced_webm_framework": "إطار عمل WebM:",
 	"ui_settings_advanced_log_level": ":مستوى السجل",
+	"ui_settings_advanced_cef_command_line": "سطر أوامر CEF:",
+	"ui_settings_advanced_cef_devtools_port": "منفذ CEF devtools:",
+	"ui_settings_advanced_unpause_during_aero_peek": "إلغاء الإيقاف أثناء Aero Peek:",
+	"ui_settings_advanced_unpause_during_aero_peek_tip": "سيؤدي تمكين هذا الخيار إلى إلغاء الإيقاف المؤقت لـWallpaper Engine عندما تتراكب أي عناصر شبه شفافة من Windows على سطح المكتب، بما في ذلك قائمة ابدء بملء الشاشة، ومبدل عرض مهام Windows أو أثناء استخدام Alt + Tab.",
+	"ui_settings_advanced_stop_on_low_vram": "توقف مؤقتًا عند نفاد الـVRAM:",
+	"ui_settings_advanced_enable_browser_transparency": "إظهار خيار شفافية واجهة المستخدم:",
+	"ui_settings_advanced_mini_mode_minimize": "إخفاء التطبيقات الأخرى في الوضع المصغر:",
+	"ui_settings_about_changelog": "لوق التغيير",
+	"ui_settings_about_community_hub": "مركز المجتمع",
+	"ui_settings_about_faq": "الدعم والأسئلة المتكررة",
+	"ui_settings_plugins": "الإضافات",
+	"ui_settings_plugins_options": "خيارات",
+	"ui_settings_plugins_status_loaded": "محمل",
+	"ui_settings_plugins_status_not_loaded": "غير محمل",
+	"ui_settings_plugins_options_delay_load": "تأخير تحميل الاضافة",
+	"ui_settings_plugins_options_delay_load_help_title": "تأخير تحميل الاضافة",
+	"ui_settings_plugins_options_delay_load_help_body": "يمكنك استخدام هذا الخيار لتأخير تحميل جميع الإضافات. يمكن أن يكون هذا مفيدًا إذا كنت تواجه مشكلات مع المكونات الإضافية بعد بدء تشغيل نظامك عندما يبدأ Wallpaper Engine بشكل أسرع من البرامج أو الدرايفرات الأخرى على جهاز الكمبيوتر الخاص بك. <br/><br/> على سبيل المثال، إذا كانت تأثيرات LED الخاصة بالأجهزة لا تعمل بشكل صحيح بعد بدء تشغيل نظامك، اضبط هذا الخيار على 60 أو 120 ثانية ومعرفة ما إذا كان ذلك يسمح لمكوِّن LED الإضافي بالعمل بشكل صحيح. تعد الأرقام الأعلى أكثر أمانًا ولكنها تعني أيضًا تأخيرًا أطول حتى تصبح المكونات الإضافية سارية المفعول بعد بدء تشغيل النظام.",
+	"ui_settings_plugins_options_delay_load_seconds": "ثواني",
+	"ui_settings_plugins_options_modal_header": "خيارات {{name}}",
+	"ui_settings_plugins_options_led_plugin_description": "يتحكم في تأثيرات LED من أجهزة Corsair و Razer.",
+	"ui_settings_plugins_options_led_plugin_enable_icue": "تفعيل تكامل iCUE",
+	"ui_settings_plugins_options_led_plugin_enable_chroma": "تفعيل تكامل Chroma SDK",
+	"ui_settings_plugins_options_led_plugin_enable_scene": "تفعيل تأثيرات المشاهد",
+	"ui_settings_plugins_options_led_plugin_enable_video": "تفعيل تأثيرات الفيديو",
+	"ui_settings_plugins_options_led_plugin_enable_web": "تفعيل تأثيرات الـWeb",
+	"ui_settings_plugins_options_led_plugin_max_brightness": "تعزيز ألوان LED",
+	"ui_settings_plugins_options_led_plugin_source_monitor": "الشاشة المصدر",
+	"ui_settings_plugins_options_led_plugin_source_monitor_option_default": "افتراضي",
+	"ui_settings_plugins_wallpaper_led_plugin_enable_sdks": "تفعيل تأثيرات LED",
 	"ui_settings_no_devices": "لم يتم ايجاد اجهزة",
 	"ui_settings_skin_white": "ابيض",
 	"ui_settings_skin_dark": "غامق",
+	"ui_settings_skin_halloween": "هالوين",
+	"ui_settings_skin_obsidian": "اوبسيدين",
+	"ui_settings_skin_mist": "Mist",
+	"ui_settings_skin_rose": "روز",
+	"ui_settings_skin_moss": "طحلبي",
+	"ui_settings_skin_rust": "صدأ",
+	"ui_settings_skin_metal": "معدن",
+	"ui_settings_skin_space": "فضاء",
+	"ui_settings_skin_winter": "شتاء",
 	"ui_settings_antialiasing_none": "لا شيء",
+	"ui_settings_texture_resolution_high_quality": "جودة عالية",
+	"ui_settings_texture_resolution_high_performance": "أداء عالي",
+	"ui_settings_texture_resolution_automatic": "تلقائي",
 	"ui_settings_playback_keep_running": "دعها تعمل",
-	"ui_settings_playback_pause_per_monitor": "ايقاف لكل شاشة",
+	"ui_settings_playback_mute": "كتم",
+	"ui_settings_playback_pause_per_monitor": "ايقاف مؤقت لكل شاشة",
 	"ui_settings_playback_pause_all": "ايقاف الكل",
 	"ui_settings_playback_pause": "ايقاف",
 	"ui_settings_playback_stop": "(توقف (ذاكرة فارغة",
+	"ui_settings_playback_stop_all": "ايقاف الكل",
+	"ui_settings_playback_stop_per_monitor": "ايقاف لكل شاشة",
+	"ui_settings_playback_load_wallpaper": "تحميل خلفية",
+	"ui_settings_playback_load_playlist": "تحميل قائمة تشغيل",
+	"ui_settings_playback_load_profile": "تحميل ملف شخصي",
 	"ui_settings_read_from_disk": "من القرص الصلب",
 	"ui_settings_read_from_memory": "(من الذاكرة (رام",
 	"ui_settings_loop_default": "افتراضي",
@@ -582,11 +742,48 @@
 	"ui_settings_advanced_reset_config": "اعادة ضبط التكوين",
 	"ui_settings_advanced_reset_config_button": "اعادة ضبط",
 	"ui_settings_advanced_reset_config_modal_header": "تأكيد اعادة الضبط",
+	"ui_settings_advanced_reset_config_modal_body": "ستتم إعادة تعيين التطبيق <b>بالكامل</b>، وستتم إزالة <b>جميع</b> الإعدادات الخاصة بك وسيحتاج Wallpaper Engine إلى إعادة التشغيل.",
 	"ui_settings_video_audio_label": "مخرج الصوت والفيديو",
 	"ui_settings_video_hardware_acceleration_label": "تحسين اجهزة الفيديو",
+	"ui_settings_reload_audio_device_changed": "إعادة التحميل عند تغيير جهاز الإخراج:",
 	"ui_settings_process_priority": "افضلية العملية",
 	"ui_settings_process_priority_normal": "عادي",
 	"ui_settings_process_priority_below_normal": "اقل من العادي",
+	"ui_settings_advanced_monitor_identification": "تحديد الشاشة:",
+	"ui_settings_advanced_monitor_identification_tip": "يتحكم هذا الإعداد في كيفية تعيين Wallpaper Engine للخلفيات للشاشات بشكل منفرد. إذا كانت لديك أية مشكلات تتعلق بتبديل الخلفيات بين الشاشات أو عدم ظهور الخلفيات بعد إعادة تشغيل جهاز الكمبيوتر أو إسباته، فحاول تغيير هذا الخيار. نظرًا لتنوع المشكلات في درايفرات كروت الشاشة ونظام التشغيل Windows نفسه، لا يوجد إعداد موصى به بشكل عام وقد تحتاج إلى تجربة خيارات متعددة. <br/><br/><b>مسار الجهاز</b><br/> هذا يعين خلفيات مباشرة لاسم محول كرت الشاشة واسم الشاشة. إذا قمت بتغيير كابلات كرت الشاشة أو غيرت شاشتك، فيجب تحديد خلفية الشاشة للتهيئة الجديدة مرة أخرى. ومع ذلك، يمكنك تغيير تخطيط الشاشات المتعددة أو الشاشة الأساسية وستبقى الخلفيات في المكان الذي قمت بتعيينه لها. هذه طريقة مستقرة و <i>موصى بها</i>. لن تواجهك مشكلات مع هذا ما لم يكن درايفر كرت الشاشة لديك يعاني من مشكلات خطيرة.<br/><br/><b>Shell API</b><br/> هذه الطريقة هي أحدث طريقة للكشف عن الشاشات المقدمة في Windows 10. إذا كنت تواجه مشكلات في تعريف الشاشة، فحاول استخدام هذه الطريقة أولاً. <br/><br/><b>التخطيط</b><br/> يرتب هذا على أجهزة العرض بناءً على موقعها الافتراضي في Windows. إذا قمت بتغيير تخطيط الشاشات المتعددة، أو غيرت الشاشة الأساسية، أو أزلت الشاشات، فقد لا يستعيد البرنامج الخلفيات بالطريقة التي تتوقعها. يجب ألا تستخدم هذا الخيار إلا إذا كان برنامج التشغيل الخاص بك يسبب لك الكثير من المشكلات مع خيار \"مسار الجهاز\" الافتراضي وإذا لم تقم بتغيير الشاشات بانتظام. <br/><br/><b>GDI</b><br/> تحديد الشاشات بناءً على كيفية قيام Windows بطلبها وتسميتها. إذا كان هذا الخيار مناسبًا لك، فستتمكن من استعادة نفس الخلفية لكل شاشة حتى إذا قمت باستبدال الشاشات نفسها مع الحفاظ على وضعها العام. لديه احتمالية عالية لمبادلة الخلفيات بشكل عشوائي في كل مرة تبدأ فيها تشغيل الكمبيوتر أو تستأنف العمل من وضع السكون - بالنسبة للعديد من الأشخاص، يكون هذا عرضة للأخطاء نسبيًا ولن يعمل بشكل جيد. <br/><br/><b>موقوف</b><br/>مشابه لخيار \"GDI\" الذي يستخدم طريقة قديمة لتحديد الشاشات. يعد بشكل عام الخيار الأكثر عرضة للخطأ ولكن في حالات نادرة قد يحل المشكلات المتعلقة بنظام التشغيل Windows أو كرت الشاشة. جرب هذا فقط كملاذ أخير.",
+	"ui_settings_advanced_sleep_hack": "البداية الآمنة بعد السبات:",
+	"ui_settings_advanced_sleep_hack_tip": "استخدم هذا الخيار إذا كانت لديك أية مشكلات في التوافق بعد وضع الإسبات في Windows. سيؤدي هذا إلى إعادة تشغيل البرنامج بالكامل بعد الإسبات لإصلاح المشكلات التي تسببها البرامج الأخرى على الكمبيوتر.<br/><br/><b>إصلاح التعطل بعد الإسبات</b><br/>إذا تعطل برنامج Wallpaper Engine بعد الإسبات، حيث لا يقوم Windows باستعادة درايفر كرت الشاشة والبرنامج بالترتيب الصحيح. قد يساعد هذا الخيار نظامك في إصلاح ذلك.<br/><br/><b>إصلاح تأثيرات LED بعد السبات</b><br/>قد تحظر بعض أدوات LED المساعدة بالاتصال بـWallpaper Engine بعد السبات وستتوقف التأثيرات عن العمل. قد يساعد هذا الخيار في إصلاح ذلك عن طريق إعادة تشغيل Wallpaper Engine بالكامل وجعله يعيد الاتصال بأدوات LED المساعدة.",
+	"ui_settings_advanced_sleep_hack_error_auto_start_header": "يتطلب بدء تشغيل تلقائي عالي الأولوية",
+	"ui_settings_advanced_sleep_hack_error_auto_start_body": "تحتاج إلى تمكين خيار البدء التلقائي مع <b>أولوية عالية</b> في أعلى هذه الصفحة قبل أن تتمكن من استخدام هذا.",
+	"ui_settings_advanced_sleep_hack_enable_warning_header": "تحذير",
+	"ui_settings_advanced_sleep_hack_enable_warning_body": "استخدم هذا الخيار فقط إذا كنت تواجه مشكلات مع Wallpaper Engine بعد الإسبات.<br/><br/> يكون هذا الخيار مطلوبًا فقط إذا تسبب شيء ما في توقف Wallpaper Engine عن العمل بشكل صحيح بعد الإسبات وسيُعيد تشغيله في كل مرة تقوم فيها بتعيين Windows على وضع السبات.",
+	"ui_settings_advanced_restart_setting_modal_header": "تأكيد اعادة تشغيل",
+	"ui_settings_advanced_restart_setting_modal_body": "يحتاج البرنامج إلى إعادة تشغيل لتطبيق الإعدادات. اعادة التشغيل الان؟",
+	"ui_settings_windows_7_wallpaper_mode": "وضع Windows 7",
+	"ui_settings_windows_7_wallpaper_mode_compatibility": "التوافق",
+	"ui_settings_windows_7_wallpaper_mode_block_background": "حظر الخلفية",
+	"ui_settings_video_framework_prefer_media_foundation": "تفضيل Media Foundation",
+	"ui_settings_video_framework_prefer_directshow_lav": "تفضيل DirectShow LAV",
+	"ui_settings_video_framework_prefer_chromium": "تفضيل Chromium",
+	"ui_settings_video_framework_prefer_native": "تفضل الأصلي",
+	"ui_settings_use_safe_mode": "استخدم التشغيل الآمن (Safe Start):",
+	"ui_settings_disable_slideshow": "إزالة تلاشي خلفية Windows:",
+	"ui_settings_disable_slideshow_tip": "عند تمكين هذا الخيار، سيحاول Wallpaper Engine إزالة تأثير تلاشي خلفية الشاشة الذي يستخدمه Windows افتراضيًا عند تبديل خلفيات Windows وعند تسجيل الدخول إلى Windows. إن إزالة سلوك Windows هذا ليس ممكنًا تمامًا وقد يستمر ظهور تأثير التلاشي للحظة وجيزة.",
+	"ui_settings_ui_hardware_acceleration": "تحسين أجهزة واجهة المستخدم:",
+	"ui_settings_show_tray_icon": "إظهار ايقونة البرنامج الصغيرة:",
+	"ui_settings_ui_performance": "جودة واجهة المستخدم:",
+	"ui_settings_ui_performance_high": "عالية - تمكين التأثيرات",
+	"ui_settings_ui_performance_medium": "متوسطة - تقليل التأثيرات",
+	"ui_settings_ui_performance_low": "منخفض - تعطيل كافة التأثيرات",
+	"ui_settings_restart_after_crash": "أعد التشغيل بعد حدوث كراش",
+	"ui_settings_restart_after_crash_hint": "سيؤدي هذا الخيار إلى جعل Wallpaper Engine يعيد تشغيل نفسه فورًا بعد تعطله وسيعطل إشعارات التعطل في التطبيق الرئيسي.<br/><br/> لا يجب عليك مطلقًا تمكين هذا الخيار إلا إذا لم يكن لديك خيار آخر.<br/><br/>Wallpaper Engine نفسه مستقر للغاية ويجب ألا يتعطل في الظروف العادية. هذا الخيار موجود فقط لمكافحة الأعطال على الأنظمة غير المستقرة بسبب برامج تشغيل كرت الشاشة المتعطلة أو البرامج القوية التي تجعل Wallpaper Engine يتعطل بلا حول ولا قوة.<br/><br/><b> يمكنك مقاطعة إعادة التشغيل التلقائي عن طريق الضغط باستمرار على مفتاح ESCAPE.</b>",
+	"ui_settings_enable_override_wallpaper": "وضع فوق صورة الخلفية",
+	"ui_settings_enable_override_lockscreen": "وضع فوق صورة شاشة القفل",
+	"ui_settings_enable_override_system_image_info_title": "وضع فوق خلفية الويندوز او صورة شاشة القفل",
+	"ui_settings_enable_override_system_image_info_message": "الرجاء إنشاء <b>نسخة احتياطية من خلفية Windows وصورة شاشة القفل</b> قبل تمكين هذا الخيار.<br/><br/> سيحاول Wallpaper Engine استعادة الصورة عند تعطيل هذه الخيارات مرة أخرى تلقائيًا، ولكن يجب عليك التأكد من أن لديك نسخة احتياطية من خلفية Windows وشاشة القفل في حالة تعذر استعادتها.",
+	"ui_settings_restore_override_wallpaper_title": "استعادة خلفية الويندوز",
+	"ui_settings_restore_override_wallpaper_message": "أنت تقوم بتعطيل خيار الكتابة فوق خلفية Windows. هل ترغب في استعادة خلفية Windows التي حفظها Wallpaper Engine عند تمكين هذا الخيار لأول مرة؟",
+	"ui_settings_restore_override_lockscreen_title": "استعادة صورة شاشة القفل",
 	"ui_settings_copyright": "جميع الحقوق محفوظة",
 	"ui_settings_thirdparty": "إشعارات الطرف الثالث",
 	"ui_settings_highpriority_warning_header": "معلومات عن الافضلية العالية",
@@ -598,24 +795,45 @@
 	"ui_welcome_quality_reflections": ":انعكاسات",
 	"ui_welcome_windows_color_description": "دع الخلفيات تضبط ألوان حواف ويندوز تلقائيا",
 	"ui_welcome_windows_color_header": "ضبط ألوان ويندوز",
+	"ui_welcome_use_dark_theme": "تفعيل الدارك ثيم",
+	"ui_welcome_autostart_description": "<b>إظهار الخلفيات المتحركة عند بدء تشغيل الويندوز</b> عن طريق تشغيل Wallpaper Engine بهدوء في الخلفية عند بدء تشغيل الكمبيوتر <b>(موصى به)</b>:",
+	"ui_welcome_autostart_label": "اشتغل تلقائيًا",
+	"ui_welcome_finish_body": "تم إعداد كل شيء!<br/><br/> يتوفر Wallpaper Engine الآن في الايقونات المخفية في شريط المهام لديك. <b>انقر نقرًا مزدوجًا</b> لتحديد خلفية أو <b>انقر بزر الماوس الأيمن</b> للوصول إلى الإعدادات، وورك شوب [[[Platform]]] أو محرر الخلفية.",
 	"ui_welcome_browse_wallpapers_now": "تصفح الخلفيات الان",
 	"ui_welcome_button_first_page": "فلنذهب",
 	"ui_welcome_button_next_page": "التالي",
 	"ui_welcome_button_last_page": "انتهى كل شيء",
+	"ui_welcome_use_led_effects_description": "سيؤدي تمكين هذا الخيار إلى مزامنة ألوان الخلفيات مع أجهزة Razer Chroma و Corsair iCUE المتوافقة.",
+	"ui_welcome_use_led_effects": "تفعيل تأثيرات LED",
+	"ui_editor_pane_header_camera": "مسارات الكاميرا",
 	"ui_editor_pane_header_preview": "معاينة",
 	"ui_editor_pane_header_properties": "الخصائص",
 	"ui_editor_pane_header_assets": "الاصول",
+	"ui_editor_pane_header_log": "سجل",
+	"ui_editor_pane_header_brush": "فرشاة",
+	"ui_editor_pane_header_animation_editor": "تحريك",
+	"ui_editor_pane_header_animation": "تحريك - {{name}}",
+	"ui_editor_pane_header_script_editor": "محرر النص",
+	"ui_editor_pane_header_shader_editor": "محرر الشادر",
+	"ui_editor_pane_header_script": "محرر النص - {{name}}",
+	"ui_editor_pane_header_shader": "الشادر - {{name}}",
+	"ui_editor_pane_header_hlsl": "HLSL - {{name}}",
 	"ui_editor_filemenu_file": "ملف",
 	"ui_editor_filemenu_new": "جديد",
 	"ui_editor_filemenu_open": "فتح",
 	"ui_editor_filemenu_open_recent": "فتح الاخيرة",
 	"ui_editor_filemenu_save": "حفظ",
+	"ui_editor_filemenu_save_as": "حفظ بإسم",
+	"ui_editor_filemenu_export": "تصدير",
 	"ui_editor_filemenu_quit": "خروج",
 	"ui_editor_filemenu_edit": "تعديل",
+	"ui_editor_filemenu_undo": "رجوع",
+	"ui_editor_filemenu_redo": "الغاء الرجوع",
 	"ui_editor_filemenu_change_video_file": "تغيير ملف الفيديو",
 	"ui_editor_filemenu_import_model": "استيراد نموذج",
 	"ui_editor_filemenu_add_light": "اضافة ضوء",
 	"ui_editor_filemenu_import_image": "استيراد صورة",
+	"ui_editor_filemenu_import_sound": "استيراد صوت",
 	"ui_editor_filemenu_change_project_settings": "تغيير اعدادات المشروع",
 	"ui_editor_filemenu_open_in_explorer": "فتح في المستكشف",
 	"ui_editor_filemenu_template_wizard": "معالج القالب",
@@ -623,7 +841,36 @@
 	"ui_editor_filemenu_restart_preview": "اعادة المعاينة",
 	"ui_editor_filemenu_preview_aspect_ratio": "ابعاد المعاينة",
 	"ui_editor_filemenu_reset_camera": "اعادة ضبط الكاميرا",
+	"ui_editor_filemenu_reset_layout": "إعادة تعيين التخطيط",
+	"ui_editor_filemenu_windows": "ويندوز",
 	"ui_editor_filemenu_show_grid": "اظهار الشبكة",
+	"ui_editor_filemenu_show_stats": "إظهار الإحصائيات",
+	"ui_editor_filemenu_show_axis": "إظهار المحور",
+	"ui_editor_filemenu_show_selection_box": "إظهار مربع التحديد",
+	"ui_editor_filemenu_show_in_workshop": "إضهار في الوورك شوب",
+	"ui_editor_filemenu_show_asset_creation": "تمكين إنشاء الأصول",
+	"ui_editor_filemenu_show_desktop_preview": "إظهار المعاينة في سطح المكتب",
+	"ui_editor_filemenu_show_phone_preview": "إظهار معاينة الهاتف",
+	"ui_editor_filemenu_prepare_for_publishing": "نشر الخلفية في الوورك شوب",
+	"ui_editor_filemenu_apply_wallpaper": "تطبيق الخلفية",
+	"ui_editor_filemenu_close_wallpaper": "اغلاق المشروع",
+	"ui_editor_filemenu_browse_assets": "تصفح الأصول في الوورك شوب",
+	"ui_editor_filemenu_publish_asset": "نشر الأصول في الوورك شوب",
+	"ui_editor_filemenu_provider": "الوورك شوب",
+	"ui_editor_filemenu_help": "مساعدة",
+	"ui_editor_filemenu_help_show_documentation_scene": "مستند مصمم المشاهد",
+	"ui_editor_filemenu_help_show_documentation_web": "مستند مصمم Web",
+	"ui_editor_filemenu_help_image_effects": "تأثيرات الصور",
+	"ui_editor_filemenu_help_particle_effects": "تأثيرات الجسيمات",
+	"ui_editor_filemenu_help_timeline_animation": "الرسوم المتحركة للجدول الزمني",
+	"ui_editor_filemenu_help_user_properties": "خصائص المستخدم",
+	"ui_editor_filemenu_help_audio_visualization": "التصور الصوتي",
+	"ui_editor_filemenu_help_scenescript": "برمجة سيناريو السكربت",
+	"ui_editor_filemenu_help_shaders": "برمجة تأثير الشادر",
+	"ui_editor_filemenu_help_rgb_devices": "اجهزة الـRGB",
+	"ui_editor_filemenu_help_fps_limit": "حد الفريمات",
+	"ui_editor_filemenu_help_debugging": "التصحيح",
+	"ui_editor_filemenu_help_puppet_warp": "Puppet Warp",
 	"ui_editor_treeview_header_files": "الملفات المستوردة",
 	"ui_editor_tooltip_layers": "طبقات",
 	"ui_editor_tooltip_scene_options": "خيارات المشهد",
@@ -647,13 +894,27 @@
 	"ui_editor_welcome_modal_template": "قالب",
 	"ui_editor_welcome_modal_title_new": "جديد",
 	"ui_editor_welcome_modal_title_welcome": "مرحبا",
+	"ui_editor_importer_crop_transparency_warning": "يبدو أن المنطقة الشفافة من الصورة قد تغيرت. إذا كان لديك أي تأثيرات على هذه الصورة بالفعل، فقد تضطر إلى إصلاحها إذا واصلت استيراد هذه الصورة.",
+	"ui_editor_importer_please_wait": "الرجاء الانتظار",
+	"ui_editor_importer_compiling_assets_for": "تجميع الأصول لـ",
+	"ui_editor_importer_compiling_file": "تجميع الملف",
+	"ui_editor_importer_gif_warning_header": "تحذير بشأن حجم الـGIF",
+	"ui_editor_importer_gif_warning_body": "يحتل ملف GIF الذي تحاول استيراده مساحة كبيرة من الذاكرة عند تحويله إلى تنسيق أكثر قابلية للاستخدام. يمكن لـ Wallpaper Engine محاولة تحويله على أي حال، ولكن قد تفشل العملية بسبب حدوث خطأ.<br/><br/> تنسيق GIF بشكل عام غير مناسب للصور عالية الدقة و/أو الكثير من الفريمات، يجب أن تفكر في استخدام ملف mp4 للخلفية لأنه سيعمل بشكل أفضل.",
+	"ui_editor_importer_texture_format_rgba8888": "جودة عالية - غير مضغوط (RGBA 8888)",
+	"ui_editor_importer_texture_format_dxt5": "أداء جيد - ضغط خفيف (DXT5)",
+	"ui_editor_importer_texture_format_dxt1": "أداء عالٍ - ضغط متوسط (DXT1)",
+	"ui_editor_importer_pixel_art_optimization": "تحسين الـPixel Art - (تعطيل التصفية الخطية)",
 	"ui_editor_template_wizard_header": "معالج القوالب",
 	"ui_editor_template_wizard_select_option": "حدد خيارا",
 	"ui_editor_template_wizard_details": "تفاصيل",
 	"ui_editor_template_wizard_last_import": ":اخر استيراد",
 	"ui_editor_template_wizard_import_image": "استيراد صورة",
+	"ui_editor_publish_modal_header": "نشر الى الوورك شوب",
+	"ui_editor_publish_modal_header_upload": "جاري الرفع الى [[[Platform]]]",
 	"ui_editor_publish_modal_button_publish": "انشر",
 	"ui_editor_publish_modal_button_publish_update": "نشر تحديث",
+	"ui_editor_publish_modal_button_show_in_workshop": "إظهار الخلفية في الوورك شوب",
+	"ui_editor_publish_modal_button_show_in_workshop_generic": "إظهار في الوورك شوب",
 	"ui_editor_publish_modal_publish_successful": ".تم نشر العنصر بنجاح",
 	"ui_editor_workshop_options_title": "العنوان",
 	"ui_editor_workshop_options_description": "الوصف",
