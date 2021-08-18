@@ -7,3 +7,6 @@ files:
     translation: /locale_steam/%file_name%%locale_with_underscore%.json
     translation_replace:
       en-us: ''
+  - source: /locale_store/store_en-us.csv
+    translation: /locale_store/store_%locale_with_underscore%.csv
+    scheme: 'identifier,source_or_translation'
