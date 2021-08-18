@@ -1,7 +1,7 @@
-system_requirements,"Windows N-Versionen benötigen das 'Media Feature Pack' von Microsoft. Aero muss auf Windows 7 aktiviert sein. Der Windows-Modus für hohen Kontrast wird nicht unterstützt. Maximale Videoauflösung für Windows 8, 10: 4K, Windows 7: 1080p
+"system_requirements","Windows N-Versionen benötigen das 'Media Feature Pack' von Microsoft. Aero muss auf Windows 7 aktiviert sein. Der Windows-Modus für hohen Kontrast wird nicht unterstützt. Maximale Videoauflösung für Windows 8, 10: 4K, Windows 7: 1080p
 "
-description_short,Nutze atemberaubende animierte Hintergründe auf deinem Desktop. Erstelle Animationen für eigene Bilder oder importiere Videos / Websiten und teile sie auf dem Steam-Workshop!
-description_long,"Wallpaper Engine erlaubt es dir, animierte Hintergründe auf deinem Windows-Desktop zu verwenden. Es werden verschiedene Arten von animierten Hintergründen unterstützt, darunter 3D- und 2D-Animationen, Websiten, Videos und sogar eine Auswahl an Anwendungen. Wähle aus bereits existierenden Hintergründen oder erstelle deine eigenen und teile sie auf dem Steam Workshop!
+"description_short","Nutze atemberaubende animierte Hintergründe auf deinem Desktop. Erstelle Animationen für eigene Bilder oder importiere Videos / Websiten und teile sie auf dem Steam-Workshop!"
+"description_long","Wallpaper Engine erlaubt es dir, animierte Hintergründe auf deinem Windows-Desktop zu verwenden. Es werden verschiedene Arten von animierten Hintergründen unterstützt, darunter 3D- und 2D-Animationen, Websiten, Videos und sogar eine Auswahl an Anwendungen. Wähle aus bereits existierenden Hintergründen oder erstelle deine eigenen und teile sie auf dem Steam Workshop!
 
 [img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
 
@@ -27,11 +27,11 @@ Wallpaper Engine liefert einen unterhaltsamen Desktop und nutzt dabei so wenig S
 [img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
 [h2][/h2]
 Wähle aus über 350,000 kostenlosen Hintergründen aus dem Steam Workshop, darüber hinaus werden jeden Tag unzählige neue Hintergründe hochgeladen! Du kannst keinen Hintergrund finden, welcher deinem Geschmack entspricht? Entfalte deine Kreativität mit dem Wallpaper Engine-Editor um deine eigenen animierten Hintergründe von Bildern, Videos, Websites oder Anwendungen zu erstellen. Eine große Auswahl an Vorkonfigurationen und Effekten erlauben es dir, Hintergründen von eigenen Bildern zu erstellen und diese im Workshop zu teilen oder diese nur für dich selbst zu nutzen."
-description_image_features,Features
-description_image_performance,Leistung
-screenshot_text_customization,Hintergründe personalisieren
-screenshot_text_performance,"Eine große Anzahl an Optionen, um Leistung auf dein System abzustimmen"
-screenshot_text_images,Animiere deine eigenen Bilder
-screenshot_text_tools,Große Auswahl an Werkzeugen zum Animieren von Bildern
-screenshot_text_presets,Füge schnell vorkonfigurierte Effekte hinzu
-screenshot_text_effects,Baue eigene komplexe Effekte
+"description_image_features","Features"
+"description_image_performance","Leistung"
+"screenshot_text_customization","Hintergründe personalisieren"
+"screenshot_text_performance","Eine große Anzahl an Optionen, um Leistung auf dein System abzustimmen"
+"screenshot_text_images","Animiere deine eigenen Bilder"
+"screenshot_text_tools","Große Auswahl an Werkzeugen zum Animieren von Bildern"
+"screenshot_text_presets","Füge schnell vorkonfigurierte Effekte hinzu"
+"screenshot_text_effects","Baue eigene komplexe Effekte"
