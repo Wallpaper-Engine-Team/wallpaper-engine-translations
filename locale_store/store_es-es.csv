@@ -1,6 +1,6 @@
-system_requirements,"Las versiones N de Windows requieren el ""Media Feature Pack"" de Microsoft. Aero debe estar activado en Windows 7. El modo de alto contraste no es compatible. Máxima resolución de vídeo para Windows 8, 10: 4K, para Windows 7: 1080p."
-description_short,Pon increíbles fondos animados en tu escritorio. Anima tus propias imágenes para crear nuevos fondos o importa vídeos/páginas web y compártelos en Steam Workshop.
-description_long,"Wallpaper Engine te permite utilizar fondos animados en tu escritorio de Windows. Es compatible con diversos tipos de fondos animados, incluidas animaciones 3D y 2D, páginas web, vídeos e incluso algunas aplicaciones. Elige un fondo existente o crea tus propios fondos y compártelos en Steam Workshop.
+"system_requirements","Las versiones N de Windows requieren el ""Media Feature Pack"" de Microsoft. Aero debe estar activado en Windows 7. El modo de alto contraste no es compatible. Máxima resolución de vídeo para Windows 8, 10: 4K, para Windows 7: 1080p."
+"description_short","Pon increíbles fondos animados en tu escritorio. Anima tus propias imágenes para crear nuevos fondos o importa vídeos/páginas web y compártelos en Steam Workshop."
+"description_long","Wallpaper Engine te permite utilizar fondos animados en tu escritorio de Windows. Es compatible con diversos tipos de fondos animados, incluidas animaciones 3D y 2D, páginas web, vídeos e incluso algunas aplicaciones. Elige un fondo existente o crea tus propios fondos y compártelos en Steam Workshop.
 
 [img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
 
@@ -26,11 +26,11 @@ Wallpaper Engine tiene como objetivo ofrecer una experiencia de entretenimiento 
 [img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
 [h2][/h2]
 Puedes elegir entre más de 350 000 fondos gratuitos en Steam Workshop, donde se cargan nuevos fondos todos los días. ¿No encuentras un fondo que refleje tu estado de ánimo? Deja volar tu imaginación con el editor de Wallpaper Engine para crear tus propios fondos animados a partir de imágenes, vídeos, páginas web o aplicaciones. Una gran selección de valores predeterminados y efectos te permitirán animar las imágenes y compartirlas en Steam Workshop o usarlas solo para ti."
-description_image_features,Características
-description_image_performance,Rendimiento
-screenshot_text_customization,Personalizar fondos
-screenshot_text_performance,Una gran cantidad de opciones para ajustar el rendimiento
-screenshot_text_images,Anima tus propias imágenes
-screenshot_text_tools,Muchas herramientas para crear animaciones
-screenshot_text_presets,Agrega de forma rápida efectos predeterminados
-screenshot_text_effects,Crea tus propios efectos complejos 
+"description_image_features","Características"
+"description_image_performance","Rendimiento"
+"screenshot_text_customization","Personalizar fondos"
+"screenshot_text_performance","Una gran cantidad de opciones para ajustar el rendimiento"
+"screenshot_text_images","Anima tus propias imágenes"
+"screenshot_text_tools","Muchas herramientas para crear animaciones"
+"screenshot_text_presets","Agrega de forma rápida efectos predeterminados"
+"screenshot_text_effects","Crea tus propios efectos complejos "
