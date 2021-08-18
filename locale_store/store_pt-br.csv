@@ -1,6 +1,6 @@
-system_requirements,"As versões N do Windows requerem o ""Media Feature Pack"" da Microsoft. O Aero deve estar ativado no Windows 7. O modo de alto contraste não é suportado. Resolução máxima de vídeo para o Windows 8, 10: 4K, Windows 7: 1080p"
-description_short,Use papéis de parede animados deslumbrantes na sua área de trabalho. Faça a animação das suas próprias imagens para criar novos papéis de parede ou importe vídeos/websites e compartilhe-os na Oficina Steam!
-description_long,"O Wallpaper Engine permite que você use papéis de parede animados na sua área de trabalho do Windows. Vários tipos de papéis de parede animados são suportados, incluindo animações em 3D e 2D, websites, vídeos e até mesmo certos aplicativos. Escolha um papel de parede já existente ou crie o seu próprio e compartilhe-o na Oficina Steam!
+"system_requirements","As versões N do Windows requerem o ""Media Feature Pack"" da Microsoft. O Aero deve estar ativado no Windows 7. O modo de alto contraste não é suportado. Resolução máxima de vídeo para o Windows 8, 10: 4K, Windows 7: 1080p"
+"description_short","Use papéis de parede animados deslumbrantes na sua área de trabalho. Faça a animação das suas próprias imagens para criar novos papéis de parede ou importe vídeos/websites e compartilhe-os na Oficina Steam!"
+"description_long","O Wallpaper Engine permite que você use papéis de parede animados na sua área de trabalho do Windows. Vários tipos de papéis de parede animados são suportados, incluindo animações em 3D e 2D, websites, vídeos e até mesmo certos aplicativos. Escolha um papel de parede já existente ou crie o seu próprio e compartilhe-o na Oficina Steam!
 
 [img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
 
@@ -26,11 +26,11 @@ O Wallpaper Engine tem como objetivo oferecer uma experiência divertida usando 
 [img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
 [h2][/h2]
 Escolha entre mais de 350.000 papéis de parede gratuitos da Oficina Steam, com novos papéis de parede adicionados todos os dias! Não encontra nenhum papel de parede que combine com o seu humor? Dê asas à sua imaginação utilizando o editor do Wallpaper Engine para criar os seus próprios papéis de parede animados a partir de imagens, vídeos, websites ou aplicativos. Uma grande variedade de predefinições e efeitos permitem que você anime as suas próprias imagens e compartilhe-as na Oficina Steam ou use-as apenas para você mesmo."
-description_image_features,Recursos
-description_image_performance,Desempenho
-screenshot_text_customization,Personalize papéis de parede
-screenshot_text_performance,Muitas opções para o ajuste fino do desempenho
-screenshot_text_images,Anime as suas próprias imagens
-screenshot_text_tools,Várias ferramentas para criar animações
-screenshot_text_presets,Adicione efeitos predefinidos rapidamente
-screenshot_text_effects,Crie os seus próprios efeitos complexos 
+"description_image_features","Recursos"
+"description_image_performance","Desempenho"
+"screenshot_text_customization","Personalize papéis de parede"
+"screenshot_text_performance","Muitas opções para o ajuste fino do desempenho"
+"screenshot_text_images","Anime as suas próprias imagens"
+"screenshot_text_tools","Várias ferramentas para criar animações"
+"screenshot_text_presets","Adicione efeitos predefinidos rapidamente"
+"screenshot_text_effects","Crie os seus próprios efeitos complexos "

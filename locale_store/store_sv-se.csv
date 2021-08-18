@@ -1,7 +1,7 @@
-system_requirements,"Versioner av Windows N kräver ""Media Feature Pack"" från Microsoft. Aero måste aktiveras på Windows 7. Högkontrastläge stöds inte. Maximal videoupplösning för Windows 8, 10: 4K, Windows 7: 1080p
+"system_requirements","Versioner av Windows N kräver ""Media Feature Pack"" från Microsoft. Aero måste aktiveras på Windows 7. Högkontrastläge stöds inte. Maximal videoupplösning för Windows 8, 10: 4K, Windows 7: 1080p
 "
-description_short,Använd förbluffande levande bakgrunder på din dator. Animera dina egna bilder för att skapa nya bakgrunder eller importera videor/webbplatser och dela dem på Steam Workshop!
-description_long,"Wallpaper Engine låter dig använda levande bakgrunder på din Windows-dator. Det stöder olika typer av animerade bakgrunder, inklusive 3D- och 2D-animeringar, webbplatser, videor och t.o.m. vissa program. Välj en befintlig bakgrund eller skapa din egen och dela den på Steam Workshop!
+"description_short","Använd förbluffande levande bakgrunder på din dator. Animera dina egna bilder för att skapa nya bakgrunder eller importera videor/webbplatser och dela dem på Steam Workshop!"
+"description_long","Wallpaper Engine låter dig använda levande bakgrunder på din Windows-dator. Det stöder olika typer av animerade bakgrunder, inklusive 3D- och 2D-animeringar, webbplatser, videor och t.o.m. vissa program. Välj en befintlig bakgrund eller skapa din egen och dela den på Steam Workshop!
 
 [img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
 
@@ -27,11 +27,11 @@ Wallpaper Engine siktar mot att leverera en underhållande upplevelse och samtid
 [img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
 [h2][/h2]
 Välj bland över 350 000 kostnadsfria bakgrunder från Steam Workshop med nya skrivbordsbakgrunder som laddas upp varje dag! Kan du inte hitta en bakgrund som passar ditt humör? Låt fantasin flöda med Wallpaper Engines bakgrundsredigerare för att skapa dina egna animerade bakgrunder från bilder, videor, webbplatser eller program. Ett stort urval förinställningar och effekter låter dig animera dina egna bilder och dela dem på Steam Workshop eller för att använda dem bara för dig själv."
-description_image_features,Funktioner
-description_image_performance,Prestanda
-screenshot_text_customization,Anpassa bakgrunder
-screenshot_text_performance,Många alternativ för att finjustera prestandan
-screenshot_text_images,Animera dina egna bilder
-screenshot_text_tools,Många verktyg för att skapa animeringar
-screenshot_text_presets,Lägg snabbt till förinställda effekter
-screenshot_text_effects,Bygg dina egna komplexa effekter 
+"description_image_features","Funktioner"
+"description_image_performance","Prestanda"
+"screenshot_text_customization","Anpassa bakgrunder"
+"screenshot_text_performance","Många alternativ för att finjustera prestandan"
+"screenshot_text_images","Animera dina egna bilder"
+"screenshot_text_tools","Många verktyg för att skapa animeringar"
+"screenshot_text_presets","Lägg snabbt till förinställda effekter"
+"screenshot_text_effects","Bygg dina egna komplexa effekter "

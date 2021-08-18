@@ -1,6 +1,6 @@
-system_requirements,"Le versioni N di Windows richiedono il Media Feature Pack di Microsoft. È necessario abilitare Aero su Windows 7. La modalità ad alto contrasto non è supportata. Risoluzione video massima per Windows 8, 10: 4K, Windows 7: 1080p"
-description_short,"È possibile usare straordinari sfondi animati per il desktop, animando le immagini per creare nuovi sfondi o importando video/siti Web e condividendoli sul workshop di Steam!"
-description_long,"Wallpaper Engine consente di utilizzare sfondi animati sul desktop Windows. Sono supportati vari tipi di sfondi animati, come animazioni 3D e 2D, siti Web, video e persino alcune applicazioni. È possibile scegliere uno sfondo esistente o creare uno sfondo personalizzato, condividendolo poi sul workshop di Steam!
+"system_requirements","Le versioni N di Windows richiedono il Media Feature Pack di Microsoft. È necessario abilitare Aero su Windows 7. La modalità ad alto contrasto non è supportata. Risoluzione video massima per Windows 8, 10: 4K, Windows 7: 1080p"
+"description_short","È possibile usare straordinari sfondi animati per il desktop, animando le immagini per creare nuovi sfondi o importando video/siti Web e condividendoli sul workshop di Steam!"
+"description_long","Wallpaper Engine consente di utilizzare sfondi animati sul desktop Windows. Sono supportati vari tipi di sfondi animati, come animazioni 3D e 2D, siti Web, video e persino alcune applicazioni. È possibile scegliere uno sfondo esistente o creare uno sfondo personalizzato, condividendolo poi sul workshop di Steam!
 
 [img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
 
@@ -26,11 +26,11 @@ Wallpaper Engine intende offrire un'esperienza divertente utilizzando la minore 
 [img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
 [h2][/h2]
 È possibile scegliere tra oltre 350.000 sfondi gratuiti dal workshop di Steam, in cui vengono caricati nuovi sfondi ogni giorno! Non si riesce a trovare uno sfondo adatto al proprio umore? È possibile far viaggiare l'immaginazione usando l'editor di Wallpaper Engine per creare sfondi animati personalizzati a partire da immagini, video, siti Web o applicazioni. Un'ampia selezione di impostazioni e di effetti predefiniti consente di dare vita alle proprie immagini e condividerle sul workshop di Steam o semplicemente utilizzarle da soli."
-description_image_features,Caratteristiche
-description_image_performance,Prestazioni
-screenshot_text_customization,Personalizza sfondi
-screenshot_text_performance,Tante opzioni per ottimizzare le prestazioni
-screenshot_text_images,Applica animazioni alle immagini
-screenshot_text_tools,Tanti strumenti per creare animazioni
-screenshot_text_presets,Aggiungi rapidamente gli effetti predefiniti
-screenshot_text_effects,Realizza effetti complessi 
+"description_image_features","Caratteristiche"
+"description_image_performance","Prestazioni"
+"screenshot_text_customization","Personalizza sfondi"
+"screenshot_text_performance","Tante opzioni per ottimizzare le prestazioni"
+"screenshot_text_images","Applica animazioni alle immagini"
+"screenshot_text_tools","Tanti strumenti per creare animazioni"
+"screenshot_text_presets","Aggiungi rapidamente gli effetti predefiniti"
+"screenshot_text_effects","Realizza effetti complessi "

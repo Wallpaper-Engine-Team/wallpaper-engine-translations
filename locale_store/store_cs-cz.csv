@@ -1,7 +1,7 @@
-system_requirements,"Verze Windows N vyžadují balíček „Media Feature Pack“ od společnosti Microsoft. V systému Windows 7 musí být povoleno prostředí Aero. Není podporován režim Vysoký kontrast. Maximální rozlišení videa pro systémy Windows 8 a 10: 4K, Windows7: 1080p
+"system_requirements","Verze Windows N vyžadují balíček „Media Feature Pack“ od společnosti Microsoft. V systému Windows 7 musí být povoleno prostředí Aero. Není podporován režim Vysoký kontrast. Maximální rozlišení videa pro systémy Windows 8 a 10: 4K, Windows7: 1080p
 "
-description_short,Nastavte si na plochu působivá živá pozadí. Vytvořte si nová pozadí animací vlastních obrázků nebo importujte videa/weby a sdílejte je ve službě Steam Workshop.
-description_long,"Aplikace Wallpaper Engine umožňuje používat na ploše systému Windows živá pozadí. Podporovány jsou různé druhy animovaných pozadí, včetně 3D a 2D animací, webů, videí a dokonce některých aplikací. Vyberte si z hotových pozadí nebo si vytvořte vlastní a sdílejte ho ve službě Steam Workshop.
+"description_short","Nastavte si na plochu působivá živá pozadí. Vytvořte si nová pozadí animací vlastních obrázků nebo importujte videa/weby a sdílejte je ve službě Steam Workshop."
+"description_long","Aplikace Wallpaper Engine umožňuje používat na ploše systému Windows živá pozadí. Podporovány jsou různé druhy animovaných pozadí, včetně 3D a 2D animací, webů, videí a dokonce některých aplikací. Vyberte si z hotových pozadí nebo si vytvořte vlastní a sdílejte ho ve službě Steam Workshop.
 
 [img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
 
@@ -27,11 +27,11 @@ Aplikace Wallpaper Engine má za cíl nabídnout zábavnou grafiku s využitím 
 [img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
 [h2][/h2]
 Vyberte si z více než 350 000 volně dostupných pozadí ve službě Steam Workshop (denně přibývají nové). Nemůžete najít pozadí podle svých představ? Popusťte uzdu své představivosti a vytvořte si pomocí editoru Wallpaper Engine Editor svá vlastní pozadí z obrázků, videí, webů nebo aplikací. K dispozici je široká paleta předvoleb a efektů, díky kterým můžete vytvořit animace z vlastních obrázků a podělit se o ně ve službě Steam Workshop nebo je používat sami."
-description_image_features,Vlastnosti
-description_image_performance,Výkon
-screenshot_text_customization,Přizpůsobení pozadí
-screenshot_text_performance,Mnoho možností vyladění výkonu
-screenshot_text_images,Animace z vlastních obrázků
-screenshot_text_tools,Spousta nástrojů k vytváření animací
-screenshot_text_presets,Rychlé přidávání předvoleb a efektů
-screenshot_text_effects,Vytváření vlastních komplexních efektů 
+"description_image_features","Vlastnosti"
+"description_image_performance","Výkon"
+"screenshot_text_customization","Přizpůsobení pozadí"
+"screenshot_text_performance","Mnoho možností vyladění výkonu"
+"screenshot_text_images","Animace z vlastních obrázků"
+"screenshot_text_tools","Spousta nástrojů k vytváření animací"
+"screenshot_text_presets","Rychlé přidávání předvoleb a efektů"
+"screenshot_text_effects","Vytváření vlastních komplexních efektů "

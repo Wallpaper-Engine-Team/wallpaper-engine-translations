@@ -1198,6 +1198,7 @@
 	"ui_workshop_tags_local_url": "Helyi URL",
 	"ui_workshop_tags_local_image": "Helyi kép",
 	"ui_workshop_tags_rating_everyone": "Mindenki",
+	"ui_workshop_tags_rating_questionable": "Részleges meztelenség",
 	"ui_workshop_tags_rating_mature": "Felnőtt",
 	"ui_workshop_tags_rating_ban": "Tiltva",
 	"ui_workshop_tags_visibility_public": "Publikus",
