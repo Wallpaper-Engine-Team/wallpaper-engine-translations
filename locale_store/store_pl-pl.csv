@@ -1,7 +1,7 @@
-system_requirements,"Wersje N systemu Windows wymagają pakietu „Media Feature Pack” od firmy Microsoft. Interfejs graficzny Aero musi być włączony w systemie Windows 7. Tryb wysokiego kontrastu nie jest obsługiwany. Maksymalna rozdzielczość wideo wynosi 4K dla systemu Windows 8 i 10 oraz 1080p dla systemu Windows 7.
+"system_requirements","Wersje N systemu Windows wymagają pakietu „Media Feature Pack” od firmy Microsoft. Interfejs graficzny Aero musi być włączony w systemie Windows 7. Tryb wysokiego kontrastu nie jest obsługiwany. Maksymalna rozdzielczość wideo wynosi 4K dla systemu Windows 8 i 10 oraz 1080p dla systemu Windows 7.
 "
-description_short,"Ustaw niezwykłe tapety animowane na swoim pulpicie. Animuj obrazy, aby tworzyć nowe tapety, lub importuj filmy/strony internetowe i podziel się nimi w Warsztacie Steam!"
-description_long,"Program Wallpaper Engine umożliwia ustawianie tapet animowanych na pulpicie w systemie Windows. Obsługiwane są różne typy tapet animowanych, w tym animacje 3D i 2D, strony internetowe, filmy, a nawet niektóre aplikacje. Wybierz istniejącą tapetę lub utwórz własną tapetę i podziel się nią w Warsztacie Steam!
+"description_short","Ustaw niezwykłe tapety animowane na swoim pulpicie. Animuj obrazy, aby tworzyć nowe tapety, lub importuj filmy/strony internetowe i podziel się nimi w Warsztacie Steam!"
+"description_long","Program Wallpaper Engine umożliwia ustawianie tapet animowanych na pulpicie w systemie Windows. Obsługiwane są różne typy tapet animowanych, w tym animacje 3D i 2D, strony internetowe, filmy, a nawet niektóre aplikacje. Wybierz istniejącą tapetę lub utwórz własną tapetę i podziel się nią w Warsztacie Steam!
 
 [img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
 
@@ -27,11 +27,11 @@ Program Wallpaper Engine ma na celu zapewnienie rozrywki przy użyciu możliwie 
 [img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
 [h2][/h2]
 Dokonaj wyboru spośród 350 000 darmowych tapet z Warsztatu Steam, do którego dodawane są nowe tapety każdego dnia! Nie możesz znaleźć tapety, która spełnia Twoje oczekiwania? Popuść wodzę fantazji, korzystając z edytora Wallpaper Engine, aby utworzyć własne tapety animowane na podstawie obrazów, filmów, stron internetowych lub aplikacji. Duża liczba ustawień zaprogramowanych i efektów umożliwia animowanie własnych obrazów i dzielenie się nimi w Warsztacie Steam. Możesz również zachować je tylko dla siebie."
-description_image_features,Funkcje
-description_image_performance,Wydajność
-screenshot_text_customization,Dostosuj tapety
-screenshot_text_performance,Wiele opcji służących do precyzyjnego dostrajania wydajności
-screenshot_text_images,Animuj własne obrazy
-screenshot_text_tools,Wiele narzędzi do tworzenia animacji
-screenshot_text_presets,Szybko dodawaj wstępnie ustawione efekty
-screenshot_text_effects,Stwórz własne złożone efekty 
+"description_image_features","Funkcje"
+"description_image_performance","Wydajność"
+"screenshot_text_customization","Dostosuj tapety"
+"screenshot_text_performance","Wiele opcji służących do precyzyjnego dostrajania wydajności"
+"screenshot_text_images","Animuj własne obrazy"
+"screenshot_text_tools","Wiele narzędzi do tworzenia animacji"
+"screenshot_text_presets","Szybko dodawaj wstępnie ustawione efekty"
+"screenshot_text_effects","Stwórz własne złożone efekty "
