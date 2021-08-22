@@ -816,6 +816,7 @@
 	"ui_editor_filemenu_help_rgb_devices": "RGB eszközök",
 	"ui_editor_filemenu_help_fps_limit": "Frissítési Korlát",
 	"ui_editor_filemenu_help_debugging": "Hibakeresés",
+	"ui_editor_filemenu_help_lighting_and_reflections": "Világítás és tükröződések",
 	"ui_editor_filemenu_editor_settings": "Szerkesztő Beállítások",
 	"ui_editor_filemenu_delete_submissions": "Műhelyfeltöltések Törlése",
 	"ui_editor_save_as_header": "Mentés másként",
