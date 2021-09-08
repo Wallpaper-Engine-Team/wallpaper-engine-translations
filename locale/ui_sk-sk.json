@@ -820,6 +820,8 @@
 	"ui_editor_filemenu_show_selection_box": "Zobraziť box výberu",
 	"ui_editor_filemenu_apply_wallpaper": "Aplikovať pozadie",
 	"ui_editor_filemenu_close_wallpaper": "Zavrieť projekt",
+	"ui_editor_filemenu_provider": "Workshop",
+	"ui_editor_filemenu_help": "Nápoveda",
 	"ui_editor_delete_project_modal_header": "Potvrdiť zmazanie",
 	"ui_editor_delete_project_modal_body": "Ste si istý že chcete zmazať projekt: <br/><b>{{title}}</b> ?",
 	"ui_editor_no_animation_modal_header": "Pozadie nie je animované",
