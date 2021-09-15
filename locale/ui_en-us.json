@@ -197,7 +197,7 @@
 	"ui_browse_monitors_configured_separately" : "Configured separately",
 	"ui_browse_monitors_same_as_wallpaper_hint" : "The screensaver is configured to be the same as your active wallpapers. You can configure your screensavers separately from your wallpapers by enabling the option at the top.",
 	"ui_browse_monitors_configure_in_windows" : "Configure in Windows",
-	"ui_browse_monitors_configure_in_windows_hint" : "Please set Wallpaper Engine in the Windows screensaver settings as the active screensaver.",
+	"ui_browse_monitors_configure_in_windows_hint" : "To use Wallpaper Engine as a screensaver, set it as the active screensaver in Windows.",
 	
 	"ui_browse_mobile_devices_header" : "Mobile Devices",
 
@@ -235,7 +235,13 @@
 	"ui_browse_modal_subscribe_preset_body" : "The wallpaper <b>{{title}}</b> is a preset for another wallpaper which you need to subscribe to as well to use it.<br/><br/>Subscribe to both now?",
 	"ui_browse_modal_subscribe_preset_open_dependency" : "Open Dependency",
 	"ui_browse_open_url_header" : "Open Wallpaper from URL",
+	"ui_browse_open_url_name" : "Name",
 	"ui_browse_open_url_hotkey_info" : "To use your keyboard on the wallpaper, hide the icons with this hotkey first:",
+	"ui_browse_open_url_livestream_info" : "You can enable <b>Livestream Mode</b> if the URL you are trying to load contains a video livestream. Some Wallpaper Engine features may not work properly in Livestream Mode.",
+	"ui_browse_open_url_livestream_checkbox" : "Use Livestream Mode",
+	"ui_browse_open_url_livestream_warning" : "<b>Please Note:</b> You are opening this URL using the alternative Edge WebView browser with a limited set of features, many Wallpaper Engine features might not work properly with Livestream Mode enabled.<br/><br/><b>You should only use this option if you intend to use a livestream as a wallpaper</b>.",
+	"ui_browse_open_url_livestream_runtime_modal_title" : "Install Edge WebView",
+	"ui_browse_open_url_livestream_runtime_modal_message" : "You need to install the Edge WebView web browser runtime before being able to use Livestream Mode. Do you want to install the runtime now?<br/><br/>You can also disable the <b>Use Livestream Mode</b> option in the URL settings instead.",
 	"ui_browse_modal_proceed" : "Proceed",
 	"ui_browse_modal_advertise_workshop_header" : "Workshop Filter Settings",
 	"ui_browse_modal_advertise_workshop_body" : "Use the filter sidebar on the left to select tags that match your wallpaper preferences.<br/><br/>Use the <b>Approved</b> <span class='fas fa-trophy browseWallpaperApproved'></span> filter to browse hand-picked, high-quality wallpapers.<br/><br/>Set the sort order in the upper right corner to <b>Most Popular</b> or <b>Top Rated</b> if you are looking for high-quality submissions.",
@@ -254,6 +260,8 @@
 	"ui_browse_modal_screensaver_install_hint" : "Most modern LCD and LED displays do not suffer from screen burn-in and you can safely use any wallpaper as a screensaver for aesthetic purposes.<br/><br/>If your display is based on a technology that is susceptible to screen burn-in (e.g. OLED, Plasma or CRT), we recommend using a wallpaper with regular motion and an overall dark theme, alternatively a wallpaper playlist also works well to protect your display.",
 	"ui_browse_modal_screensaver_install_error_header" : "Failed to Install Screensaver",
 	"ui_browse_modal_screensaver_install_error_body" : "Wallpaper Engine was unable to install the screensaver.<br/><br/>Make sure no anti-virus is restricting the program from installing the screensaver files.<br/><br/>Go here for more help: <a href='[[[var_url_faqscreensaver]]]'>Fix Screensaver Installation</a>",
+	"ui_browse_modal_windows_10_warning_title" : "Windows 10 or Newer Required",
+	"ui_browse_modal_windows_10_warning_message" : "The wallpaper <b>{{title}}</b> uses modern video features that require Windows 10 or newer and cannot be used on this computer.<br/><br/>Use the built-in Workshop to find new wallpapers while hiding incompatible wallpapers automatically.",
 
 	"ui_browse_properties_scheme_color" : "Scheme color",
 	"ui_browse_properties_playback_rate" : "Playback rate",
@@ -364,7 +372,7 @@
 	"ui_browse_list_source_explore" : "Discover",
 
 	"ui_browse_modal_no_steam_title" : "[[[Platform]]] Error",
-	"ui_browse_modal_no_steam_body" : "[[[Sdk]]] could not be initialized. Please try to restart [[[Platform]]] and afterwards Wallpaper Engine. If you continue seeing this error, this means that your PC cannot correctly authenticate with the [[[Platform]]] servers, check your internet connection and whether you are logged into the correct [[[Platform]]] account.<br/><br/>Do not launch [[[Platform]]] as administrator, that prevents [[[Sdk]]] from connecting to [[[Platform]]]. An anti-virus or security software could be preventing [[[Platform]]] and Wallpaper Engine from working together as well, try turning that off.<br/><br/>Check the FAQ to get more help if needed: <a href='[[[var_url_faqsteam]]]'>Fix [[[Platform]]] Connection</a>",
+	"ui_browse_modal_no_steam_body" : "[[[Platform]]] connection could not be initialized. Please try restarting [[[Platform]]] and Wallpaper Engine.<br/><br/><b>This problem is frequently caused by outdated [[[Platform]]] installations. Please make sure your [[[Platform]]]] is up-to-date.</b><br/><br/>If you continue seeing this error, this means that your PC cannot correctly authenticate with the [[[Platform]]] servers, check your internet connection and whether you are logged into the correct [[[Platform]]] account.<br/><br/>An anti-virus or other types of security software could be preventing [[[Platform]]] and Wallpaper Engine from working together, try turning them off.<br/><br/>Check our support page for additional help: <a href='[[[var_url_faqsteam]]]'>Fix [[[Platform]]] Connection</a>",
 	"ui_browse_modal_no_steam_body_wrong_provider" : "You are running the [[[Platform]]] Edition of Wallpaper Engine in combination with a different version of [[[Platform]]]. Please restart Wallpaper Engine through [[[Platform]]] in order to access the Workshop for your specific version of the app. Alternatively, you can also log in to the correct [[[Platform]]] version for this edition of Wallpaper Engine.",
 	"ui_browse_query_error" : "[[[Platform]]] encountered an error, try again later: {{error}}",
 	"ui_browse_modal_safe_mode_header" : "Safe Start",
@@ -479,6 +487,7 @@
 	"ui_browse_context_menu_send_to_device" : "Send to Mobile Device",
 	"ui_browse_context_menu_export_pkg" : "Export .mpkg",
 	"ui_browse_context_menu_connect_new_device" : "Connect new Mobile Device",
+	"ui_browse_context_menu_rename" : "Rename",
 
 	"ui_browse_report_modal_header" : "Report wallpaper:",
 	"ui_browse_report_modal_submit" : "Send Report",
@@ -509,6 +518,8 @@
 	"ui_browse_modal_folder_remove_title" : "Remove Folder '{{title}}'",
 	"ui_browse_modal_folder_remove_body" : "Are you sure that you want to remove this folder?",
 	"ui_browse_modal_folder_remove_unsubscribe_and_remove_items" : "Unsubscribe or remove wallpapers in folder",
+
+	"ui_browse_modal_rename_title" : "Rename Wallpaper",
 
 	"ui_browse_navigation_top" : "Home",
 	"ui_browse_download_header" : "[[[Platform]]] download",
@@ -544,7 +555,7 @@
 	"ui_browse_alert_vram_exhausted" : "Your video memory is exhausted and the wallpapers have been disabled until your system has enough resources again. This feature can be turned off in the general settings.",
 	"ui_browse_alert_remote_steamdown" : "The [[[Platform]]] servers are currently experiencing technical issues and certain Workshop features may not work properly for you. This may include slow search response times or incomplete search results. This problem affects all [[[Platform]]] users and is unrelated to Wallpaper Engine or your computer. You can ignore this message if everything works well for you.",
 	"ui_browse_alert_screensaver_app" : "Application wallpapers cannot be used as a screensaver.",
-	
+
 	"ui_browse_mobile_devices_success_toast" : "{{name}} has connected successfully.",
 	"ui_browse_mobile_devices_unknown_device" : "Unknown device",
 	"ui_browse_mobile_devices_status_connected" : "Connected",
@@ -553,7 +564,7 @@
 	"ui_browse_mobile_devices_qr_hint" : "Install Wallpaper Engine on your <b>Android</b> phone or tablet for free and use your animated wallpapers on the go.",
 	"ui_browse_mobile_devices_pin_hint" : "Enter this PIN on your mobile device to connect it:",
 	"ui_browse_mobile_devices_link_info" : "<i>Wallpaper Engine requires Android 8.1 or newer.</i><br/><br/>Visit our website for additional assistance: <a href='[[[var_url_mobile_faq]]]'>Wallpaper Engine on Mobile Help</a>",
-	
+
 	"ui_browse_mobile_upload_modal_title" : "Send {{title}} to {{device}}",
 	"ui_browse_mobile_upload_modal_hint" : "Wallpaper Engine will optimize your wallpapers for your device to achieve the best possible performance. Please choose the performance rating that best represents your device. You can change this selection at a later time and reupload the wallpapers to your device if either the visual quality or performance are not to your liking.",
 	"ui_browse_mobile_upload_modal_texture_compression_high_performance" : "High Performance - (Compress all textures)",
@@ -577,12 +588,12 @@
 	"ui_browse_mobile_upload_modal_video_preset_1080_60" : "Full HD - 60 FPS",
 	"ui_browse_mobile_upload_modal_video_preset_2160_30" : "4K UHD - 30 FPS",
 	"ui_browse_mobile_upload_modal_video_preset_2160_60" : "4K UHD - 60 FPS",
-	
+
 	"ui_browse_mobile_upload_cancel_title" : "Cancel Mobile Uploads",
 	"ui_browse_mobile_upload_cancel_body" : "Are you sure that you want to cancel all pending uploads to your mobile device?",
 	"ui_browse_mobile_upload_unavailable_title" : "Installation Incomplete",
 	"ui_browse_mobile_upload_unavailable_body" : "Please restart Wallpaper Engine over [[[Platform]]] to install the mobile upload system for the Wallpaper Engine Companion App for Android.",
-	
+
 	"ui_browse_mobile_transcoder_error_failed_resetting_transcode_folder" : "Failed resetting transcode folder.",
 	"ui_browse_mobile_transcoder_error_failed_resetting_output_file" : "Failed resetting output file.",
 	"ui_browse_mobile_transcoder_error_failed_creating_output_directory" : "Failed creating output directory.",
@@ -603,6 +614,11 @@
 	
 	"ui_browse_mobile_modal_delete_device_title" : "Unpair Device {{device}}",
 	"ui_browse_mobile_modal_delete_device_message" : "Are you sure you want to unpair <b>{{device}}</b>?",
+	"ui_browse_mobile_modal_author_permission_missing_title" : "Mobile Usage Permission Required",
+	"ui_browse_mobile_modal_author_permission_missing_message" : "The wallpaper cannot be exported to your mobile device because the wallpaper creator has to accept the latest [[[Platform]]] Workshop Subscriber Agreement first.<br/><br/>You can send the following link to the creator and ask them to review and accept the latest agreement, afterwards the wallpaper will become available for mobile devices:",
+	"ui_browse_mobile_modal_author_permission_missing_open_workshop" : "Open Workshop",
+	"ui_browse_mobile_modal_author_permission_missing_alert" : "The [[[Platform]]] Workshop Subscriber Agreement has been updated to support the usage of wallpapers on mobile devices. Please review and accept the new agreement on the [[[Platform]]] website:",
+	"ui_browse_mobile_modal_author_permission_missing_open_agreement" : "Open Agreement",
 
 	"ui_rating_table_suitable_for_everyone" : "Suitable for everyone",
 	"ui_rating_table_partial_nudity_suggestive" : "Partial nudity / suggestive",
@@ -927,8 +943,12 @@
 	"ui_editor_filemenu_help_puppet_warp" : "Puppet Warp",
 	"ui_editor_filemenu_help_foreground_separation" : "Foreground Separation",
 	"ui_editor_filemenu_help_lighting_and_reflections" : "Lighting & Reflections",
+	"ui_editor_filemenu_help_texture_optimization" : "Texture Optimization",
 	"ui_editor_filemenu_editor_settings" : "Editor Settings",
 	"ui_editor_filemenu_delete_submissions" : "Delete Workshop Uploads",
+	"ui_editor_filemenu_show_stats_never" : "Never",
+	"ui_editor_filemenu_show_stats_auto" : "Automatically",
+	"ui_editor_filemenu_show_stats_always" : "Always",
 	
 	"ui_editor_save_as_header" : "Save As",
 	"ui_editor_save_as_body" : "Choose a new project name:",
@@ -947,6 +967,10 @@
 	"ui_editor_no_animation_modal_body" : "It looks like you are trying to upload a scene wallpaper without animation. <b>This is not recommended.</b><br/><br/>Wallpaper Engine is optimized for animated wallpapers, so if you only want to use a static image, it is advisable to use your operating system in that case.<br/><br/>Do you want to continue anyway?",
 	"ui_editor_review_info_header" : "Review Process",
 	"ui_editor_review_info_body" : "Your wallpaper will be reviewed before other users can find and download it to ensure that it doesn't violate any local laws.<br/><br/>If you update your wallpaper, it has to be reviewed again and is pushed to the back of the queue.",
+	"ui_editor_workshop_eula_title" : "Workshop EULA Changed",
+	"ui_editor_workshop_eula_body" : "Please review and accept the latest [[[Host]]] Workshop Subscriber Agreement on before you can continue with the upload process of your wallpaper:",
+	"ui_editor_workshop_eula_button" : "Show EULA on Steam",
+	"ui_editor_workshop_eula_waiting_hint" : "Waiting for EULA to be accepted",
 	
 	"ui_editor_modal_unsaved_changes_header" : "Unsaved Changes",
 	"ui_editor_modal_unsaved_changes_body" : "You have unsaved changes in your project. Would you like to save or discard them now?",
