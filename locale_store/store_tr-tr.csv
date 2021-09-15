@@ -1,32 +1,6 @@
-"system_requirements","Windows N sürümlerinde Microsoft'un ""Medya Özellik Paketi"" bulunması gerekir. Windows 7' de Aero'nun etkinleştirilmesi gerekir. Yüksek kontrast modu desteklenmez. Maks. video çözünürlüğü Windows 8 ve 10 için 4K, Windows 7 için 1080p'dir.
-"
-"description_short","Masaüstünüzde etkileyici canlı duvar kağıtları kullanın. Yeni duvar kağıtları oluşturmak için kendi görüntülerinizi canlandırın veya videoları/web sitelerini içe aktarın ve bunları Steam Atölyesinde paylaşın!"
-"description_long","Wallpaper Engine, Windows masaüstünüzde canlı duvar kağıtları kullanmanızı sağlar. 3D ve 2D animasyonlar, web siteleri, videolar ve hatta bazı uygulamalar dahil pek çok animasyonlu duvar kağıdı çeşitleri desteklenmektedir. Mevcut bir duvar kağıdı seçin veya özel bir duvar kağıdı oluşturup Steam Atölyesinde paylaşın!
-
-[img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
-
-[list]
-[*]Gerçek zamanlı grafikler, videolar, uygulamalar ve web siteleriyle masaüstünüzü canlandırın.
-[*]Animasyonlu duvar kağıtlarınızı favori renklerinizle kişiselleştirin.
-[*]Farenizle kontrol edebileceğiniz etkileşimli duvar kağıtları kullanın.
-[*]Desteklenen pek çok en boy oranları ve standart çözünürlükler arasında 16:9, 21:9, 16:10, 4:3 bulunmaktadır.
-[*]Birden fazla ekranlı yapılandırmalar desteklenmektedir.
-[*]Duvar kağıtları, oyun oynarken performans tasarrufu sağlamak için duraklatılır.
-[*]Wallpaper Engine Editör'de özel animasyonlu duvar kağıtlarınızı oluşturun.
-[*]Basit görüntülerden yeni canlı duvar kağıtları oluşturun veya HTML ya da video dosyalarını duvar kağıdına içe aktarın.
-[*]Duvar kağıtlarını Steam Atölyesinde paylaşın ve indirin.
-[*]Wallpaper Engine, herhangi bir Steam oyunu veya uygulamasıyla aynı anda kullanılabilir.
-[*]Desteklenen video biçimleri: mp4, WebM, avi, m4v, mov, wmv (yerel dosyalar için Atölye sadece mp4'e izin verir).
-[*]Corsair iCUE desteği.
-[/list]
-
-[img]{STEAM_APP_IMAGE}/extras/title_performance.png[/img]
-[h2][/h2]
-Wallpaper Engine, mümkün olduğunca az sistem kaynağı kullanarak eğlence deneyimi sunmayı amaçlar. Başka bir uygulama kullanırken veya tam ekran (kenarlıksız pencere modu dahil) bir oyun oynarken ya da çalışırken sizi bölmemesi için duvar kağıdını otomatik olarak duraklatmayı veya tamamen durdurmayı seçebilirsiniz. Wallpaper Engine, sahip olduğu pek çok kalite ve performans ayarlarıyla bilgisayarınıza en iyi şekilde uyum sağlar. Genel kural olarak küçük resim, 3D, 2D ve video tabanlı duvar kağıtları en iyi performansı sunar. Web siteleri ve uygulamalar ise daha fazla sistem kaynağı gerektirir. Harici bir GPU bulunması önerilir ancak zorunlu değildir.
-[h2][/h2]
-[img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
-[h2][/h2]
-Steam Atölyesinde her gün yenileri yüklenen 350.000 ücretsiz duvar kağıdı arasından seçim yapın! Ruh halinize uygun bir duvar kağıdı bulamadınız mı? Görüntüler, videolar, web siteleri ve uygulamalar ile hayal gücünüzü açığa çıkararak kendi animasyonlu duvar kağıtlarınızı oluşturmak için Wallpaper Engine Editor'ü kullanın. Pek çok seçenekten oluşan ön ayarlar ve efektler, özel görüntülerinizi canlandırmanızı ve Steam Atölyesinde paylaşmanızı veya sadece kendiniz için kullanmanızı sağlar."
+"system_requirements",""
+"description_short",""
+"description_long",""
 "description_image_features","Özellikler"
 "description_image_performance","Performans"
 "screenshot_text_customization","Duvar kağıtlarını özelleştir"
@@ -34,4 +8,6 @@ Steam Atölyesinde her gün yenileri yüklenen 350.000 ücretsiz duvar kağıdı
 "screenshot_text_images","Kendi resimlerinizi canlandırın"
 "screenshot_text_tools","Animasyonlar oluşturmak için birçok araç"
 "screenshot_text_presets","Ön ayarlı efektleri hızlıca ekleyin"
-"screenshot_text_effects","Kendi karmaşık efektlerinizi oluşturun "
+"screenshot_text_effects",""
+"additional_notes_recommended",""
+"ssa_addendum",""
