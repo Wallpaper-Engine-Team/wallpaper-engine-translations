@@ -1,12 +1,15 @@
-system_requirements,"Windows N versions require the 'Media Feature Pack' from Microsoft. Aero must be enabled on Windows 7. High contrast mode is not supported. Max video resolution for Windows 8, 10: 4K, Windows 7: 1080p
+system_requirements,"Windows N versions require the 'Media Feature Pack' from Microsoft. Aero must be enabled on Windows 7. High contrast mode is not supported. Max video resolution for Windows 8, 10, 11: 4K, Windows 7: 1080p
 "
-description_short,Use stunning live wallpapers on your desktop. Animate your own images to create new wallpapers or import videos/websites and share them on Steam Workshop!
-description_long,"Wallpaper Engine enables you to use live wallpapers on your Windows desktop. Various types of animated wallpapers are supported, including 3D and 2D animations, websites, videos and even certain applications. Choose an existing wallpaper or create your own and share it on Steam Workshop!
+description_short,"Use stunning live wallpapers on your desktop. Animate your own images to create new wallpapers or import videos/websites and share them on the Steam Workshop!"
+description_long,"Wallpaper Engine enables you to use live wallpapers on your Windows desktop. Various types of animated wallpapers are supported, including 3D and 2D animations, websites, videos and even certain applications. Choose an existing wallpaper or create your own and share it on the Steam Workshop! In addition to that, you can use the free Wallpaper Engine companion app for Android to transfer your favorite wallpapers to your Android mobile device and take your live wallpapers on the go.
+
+[b]NEW:[/b] Use the free Android companion app to transfer your favorite wallpapers to your Android mobile device.
 
 [img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
 
 [list]
-[*]Bring your desktop alive with realtime graphics, videos, applications or websites.
+[*]Bring your desktop wallpapers alive with realtime graphics, videos, applications or websites.
+[*]Use animated screensavers while you are away from your computer.
 [*]Personalize animated wallpapers with your favorite colors.
 [*]Use interactive wallpapers that can be controlled with your mouse.
 [*]Many aspect ratios and native resolutions supported including 16:9, 21:9, 16:10, 4:3.
@@ -14,11 +17,14 @@ description_long,"Wallpaper Engine enables you to use live wallpapers on your Wi
 [*]Wallpapers will pause while playing games to save performance.
 [*]Create your own animated wallpapers in the Wallpaper Engine Editor.
 [*]Animate new live wallpapers from basic images or import HTML or video files for the wallpaper.
-[*]Steam Workshop to share and download wallpapers.
+[*]Use the Steam Workshop to share and download wallpapers for free.
 [*]Wallpaper Engine can be used at the same time as any other Steam game or application.
 [*]Supported video formats: mp4, WebM, avi, m4v, mov, wmv (for local files, Workshop only allows mp4).
-[*]Support for Corsair iCUE.
+[*]Use the free Android companion app to take your favorite scene and video wallpapers on the go.
+[*]Support for Razer Chroma and Corsair iCUE.
 [/list]
+
+[img]{STEAM_APP_IMAGE}/extras/partners.png[/img]
 
 [img]{STEAM_APP_IMAGE}/extras/title_performance.png[/img]
 [h2][/h2]
@@ -26,12 +32,14 @@ Wallpaper Engine aims to deliver an entertaining experience while using as few s
 [h2][/h2]
 [img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
 [h2][/h2]
-Choose from over 350.000 free wallpapers from the Steam Workshop with new wallpapers being uploaded every day! Can't find a wallpaper that fits your mood? Let your imagination go wild by using the Wallpaper Engine Editor to create your own animated wallpapers from images, videos, websites or applications. A large selection of presets and effects allow you to animate your own images and share them on the Steam Workshop or to just use them for yourself."
-description_image_features,Features
-description_image_performance,Performance
-screenshot_text_customization,Customize wallpapers
-screenshot_text_performance,Lots of options to fine-tune performance
-screenshot_text_images,Animate your own images
-screenshot_text_tools,Many tools to create animations
-screenshot_text_presets,Quickly add preset effects
-screenshot_text_effects,Build your own complex effects 
+Choose from over a million free wallpapers from the Steam Workshop with new wallpapers being uploaded every day! Can't find a wallpaper that fits your mood? Let your imagination go wild by using the Wallpaper Engine Editor to create your own animated wallpapers from images, videos, websites or applications. A large selection of presets and effects allow you to animate your own images and share them on the Steam Workshop or to just use them for yourself."
+description_image_features,"Features"
+description_image_performance,"Performance"
+screenshot_text_customization,"Customize wallpapers"
+screenshot_text_performance,"Lots of options to fine-tune performance"
+screenshot_text_images,"Animate your own images"
+screenshot_text_tools,"Many tools to create animations"
+screenshot_text_presets,"Quickly add preset effects"
+screenshot_text_effects,"Build your own complex effects"
+additional_notes_recommended,"Mobile App requires Android 8.1 or newer"
+ssa_addendum,"In addition to the rules set forth by the Steam Subscriber Agreement, you agree that your Steam Workshop content uploaded to the Wallpaper Engine Workshop may be exported and transferred to compatible mobile devices. End-users who subscribe to your Steam Workshop submissions may use your submitted content on these devices for the purpose of displaying wallpapers. You agree that your Workshop submissions may be modified on the system of individual end-users for the purpose enabling technical compatibility with the aforementioned mobile devices, which may alter visual aspects of your submissions."
