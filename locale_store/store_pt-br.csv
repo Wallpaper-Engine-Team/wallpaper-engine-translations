@@ -1,31 +1,6 @@
-"system_requirements","As versões N do Windows requerem o ""Media Feature Pack"" da Microsoft. O Aero deve estar ativado no Windows 7. O modo de alto contraste não é suportado. Resolução máxima de vídeo para o Windows 8, 10: 4K, Windows 7: 1080p"
-"description_short","Use papéis de parede animados deslumbrantes na sua área de trabalho. Faça a animação das suas próprias imagens para criar novos papéis de parede ou importe vídeos/websites e compartilhe-os na Oficina Steam!"
-"description_long","O Wallpaper Engine permite que você use papéis de parede animados na sua área de trabalho do Windows. Vários tipos de papéis de parede animados são suportados, incluindo animações em 3D e 2D, websites, vídeos e até mesmo certos aplicativos. Escolha um papel de parede já existente ou crie o seu próprio e compartilhe-o na Oficina Steam!
-
-[img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
-
-[list]
-[*]Dê vida à sua área de trabalho com gráficos, vídeos, aplicativos ou websites em tempo real.
-[*]Personalize papéis de parede animados com as suas cores favoritas.
-[*]Use papéis de parede interativos que podem ser controlados com o seu mouse.
-[*]Muitas proporções de tela e resoluções nativas suportadas, incluindo 16:9, 21:9, 16:10, 4:3.
-[*]Vários ambientes de monitores são suportados.
-[*]Os papéis de parede são pausados enquanto se joga para melhorar o desempenho.
-[*]Crie os seus próprios papéis de parede animados no editor do Wallpaper Engine.
-[*]Anime novos papéis de parede a partir de imagens básicas ou importe arquivos HTML ou de vídeo para o papel de parede.
-[*]Oficina Steam para compartilhar e baixar papéis de parede.
-[*]O Wallpaper Engine pode ser utilizado simultaneamente com outro jogo ou aplicativo do Steam.
-[*]Formatos de vídeo suportados: mp4, WebM, avi, m4v, mov, wmv (para arquivos locais, a Oficina só permite mp4).
-[*]Suporte para Corsair iCUE.
-[/list]
-
-[img]{STEAM_APP_IMAGE}/extras/title_performance.png[/img]
-[h2][/h2]
-O Wallpaper Engine tem como objetivo oferecer uma experiência divertida usando o mínimo possível de recursos do sistema. Você pode optar por pausar ou parar completamente o papel de parede automaticamente enquanto usa outro aplicativo ou joga em tela cheia (incluindo o modo de janela sem bordas) para não distraí-lo ou atrapalhá-lo enquanto você estiver jogando ou trabalhando. Muitas opções de ajuste da qualidade e do desempenho permitem que você instale o Wallpaper Engine perfeitamente no seu computador. Como regra geral, os papéis de parede em 3D, 2D e baseados em vídeo terão melhor desempenho, enquanto websites e aplicativos irão requerer mais recursos do seu sistema. Ter uma GPU dedicada é altamente recomendado, mas não obrigatório.
-[h2][/h2]
-[img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
-[h2][/h2]
-Escolha entre mais de 350.000 papéis de parede gratuitos da Oficina Steam, com novos papéis de parede adicionados todos os dias! Não encontra nenhum papel de parede que combine com o seu humor? Dê asas à sua imaginação utilizando o editor do Wallpaper Engine para criar os seus próprios papéis de parede animados a partir de imagens, vídeos, websites ou aplicativos. Uma grande variedade de predefinições e efeitos permitem que você anime as suas próprias imagens e compartilhe-as na Oficina Steam ou use-as apenas para você mesmo."
+"system_requirements",""
+"description_short",""
+"description_long",""
 "description_image_features","Recursos"
 "description_image_performance","Desempenho"
 "screenshot_text_customization","Personalize papéis de parede"
@@ -33,4 +8,6 @@ Escolha entre mais de 350.000 papéis de parede gratuitos da Oficina Steam, com 
 "screenshot_text_images","Anime as suas próprias imagens"
 "screenshot_text_tools","Várias ferramentas para criar animações"
 "screenshot_text_presets","Adicione efeitos predefinidos rapidamente"
-"screenshot_text_effects","Crie os seus próprios efeitos complexos "
+"screenshot_text_effects",""
+"additional_notes_recommended",""
+"ssa_addendum",""
