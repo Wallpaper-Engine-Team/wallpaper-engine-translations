@@ -237,7 +237,7 @@
 	"ui_browse_open_url_header" : "Open Wallpaper from URL",
 	"ui_browse_open_url_name" : "Name",
 	"ui_browse_open_url_hotkey_info" : "To use your keyboard on the wallpaper, hide the icons with this hotkey first:",
-	"ui_browse_open_url_livestream_info" : "You can enable <b>Livestream Mode</b> if the URL you are trying to load contains a video livestream. Some Wallpaper Engine features may not work properly in Livestream Mode.",
+	"ui_browse_open_url_livestream_info" : "Enable <b>Livestream Mode</b> if the URL you are trying to load contains a video livestream. Some Wallpaper Engine features may not work properly in Livestream Mode.",
 	"ui_browse_open_url_livestream_checkbox" : "Use Livestream Mode",
 	"ui_browse_open_url_livestream_warning" : "<b>Please Note:</b> You are opening this URL using the alternative Edge WebView browser with a limited set of features, many Wallpaper Engine features might not work properly with Livestream Mode enabled.<br/><br/><b>You should only use this option if you intend to use a livestream as a wallpaper</b>.",
 	"ui_browse_open_url_livestream_runtime_modal_title" : "Install Edge WebView",
