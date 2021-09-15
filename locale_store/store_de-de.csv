@@ -1,5 +1,6 @@
-"system_requirements",""
-"description_short",""
+"system_requirements","Windows N-Versionen benötigen das 'Media Feature Pack' von Microsoft. Aero muss auf Windows 7 aktiviert sein. Der Windows-Modus für hohen Kontrast wird nicht unterstützt. Maximale Videoauflösung für Windows 8, 10, 11: 4K, Windows 7: 1080p
+"
+"description_short","Nutze atemberaubende animierte Hintergründe auf deinem Desktop. Erstelle Animationen für eigene Bilder oder importiere Videos / Websiten und teile sie auf dem Steam-Workshop!"
 "description_long",""
 "description_image_features","Features"
 "description_image_performance","Leistung"
@@ -8,6 +9,6 @@
 "screenshot_text_images","Animiere deine eigenen Bilder"
 "screenshot_text_tools","Große Auswahl an Werkzeugen zum Animieren von Bildern"
 "screenshot_text_presets","Füge schnell vorkonfigurierte Effekte hinzu"
-"screenshot_text_effects",""
-"additional_notes_recommended",""
+"screenshot_text_effects","Baue eigene komplexe Effekte"
+"additional_notes_recommended","Mobile App benötigt Android 8.1 oder neuer"
 "ssa_addendum",""
