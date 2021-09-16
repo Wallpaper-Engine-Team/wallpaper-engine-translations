@@ -1,5 +1,6 @@
-"system_requirements",""
-"description_short",""
+"system_requirements","Windows เวอร์ชัน N กำหนดให้ต้องมี 'Media Feature Pack' จาก Microsoft Aero ต้องเปิดใช้งานบน Windows 7 โดยไม่รองรับโหมด High Contrast ความละเอียดวิดีโอสูงสุดสำหรับ Windows 8, 10, 11: 4K และ Windows 7: 1080p
+"
+"description_short","ใช้วอลเปเปอร์ภาพเคลื่อนไหวอันน่าทึ่งบนเดสก์ทอปของคุณ กำหนดให้รูปภาพของคุณเป็นภาพเคลื่อนไหวเพื่อสร้างวอลเปเปอร์ใหม่ หรือนำเข้าวิดีโอ/เว็บไซต์และแบ่งปันใน Steam Workshop!"
 "description_long",""
 "description_image_features","คุณลักษณะ"
 "description_image_performance","ประสิทธิภาพการทำงาน"
@@ -8,6 +9,6 @@
 "screenshot_text_images","กำหนดการเคลื่อนไหวให้กับรูปภาพของคุณ"
 "screenshot_text_tools","เครื่องมือจำนวนมากเพื่อสร้างภาพเคลื่อนไหว"
 "screenshot_text_presets","เพิ่มเอฟเฟ็กต์ที่ตั้งไว้ล่วงหน้าอย่างรวดเร็ว"
-"screenshot_text_effects",""
-"additional_notes_recommended",""
+"screenshot_text_effects","สร้างเอฟเฟ็กต์ที่ซับซ้อนของคุณเอง"
+"additional_notes_recommended","แอปมือถือต้องใช้ Android 8.1 หรือใหม่กว่า"
 "ssa_addendum",""
