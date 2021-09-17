@@ -351,6 +351,7 @@
 	"ui_browse_list_source_workshop": "Workshop",
 	"ui_browse_list_source_explore": "Temukan",
 	"ui_browse_modal_no_steam_title": "Kesalahan [[[Platform]]]",
+	"ui_browse_modal_no_steam_body": "[[[Platform]]] tidak dapat di inisialisasi. Mohon aktifkan ulang [[[Platform]]] dan selanjutnya Wallpaper Engine.<br/><br/><b>Masalah ini sering disebabkan karena usang nya pemasangan [[[Platform]]]. Mohon pastikan [[[Platform]]]] sudah yang terbaru.</b><br/><br/>Jika Anda masih terus melihat galat ini, ini berarti PC Anda tidak dapat mengautentikasi ke server [[[Platform]]] dengan benar, cek koneksi internet Anda dan pastikan Anda masuk ke akun [[[Platform]]] yang sesuai.<br/><br/>Anti-virus atau perangkat lunak keamanan mungkin juga dapat mencegah [[[Platform]]] dan Wallpaper Engine bekerja bersamaan, cobalah untuk menonaktifkan perangkat lunak keamanan tersebut.<br/><br/>Cek di halaman dukungan kami untuk mendapatkan bantuan lebih lanjut: <a href='[[[var_url_faqsteam]]]'>Fix [[[Platform]]] Connection</a>",
 	"ui_browse_modal_no_steam_body_wrong_provider": "Anda menjalankan Wallpaper Engine Edisi [[[Platform]]] dalam kombinasi dengan versi berbeda dari [[[Platform]]]. Mohon aktifkan ulang Wallpaper Engine melalui [[[Platform]]] agar dapat mengakses Workshop untuk versi spesifik aplikasi Anda. Atau, Anda dapat masuk ke versi [[[Platform]]] yang benar untuk edisi Wallpaper Engine ini.",
 	"ui_browse_query_error": "[[[Platform]]] mengalami sebuah masalah, coba lagi nanti: {{error}}",
 	"ui_browse_modal_safe_mode_header": "Mode Aman",
