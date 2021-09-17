@@ -247,6 +247,7 @@
 	"ui_browse_modal_screensaver_install_error_header": "スクリーンセーバーがインストールできませんでした",
 	"ui_browse_modal_screensaver_install_error_body": "Wallpaper Engineは、スクリーンセーバーをインストールすることができませんでした。<br/><br/>アンチウイルスがスクリーンセーバーファイルのインストールを制限していないことを確認してください。<br/><br/>詳しくはこちらをご覧ください：<a href='[[[var_url_faqscreensaver]]]'>スクリーンセーバーのインストールの修正</a>",
 	"ui_browse_modal_windows_10_warning_title": "Windows 10以降が必要です",
+	"ui_browse_modal_windows_10_warning_message": "<b>{{title}}</b>の壁紙はWindows 10以降が必要となる新しいタイプの動画機能が使用されており、本PCでの利用ができません。<br/><br/>互換性のない壁紙を自動的に非表示にする新規壁紙をSTEAMのワークショップよりご利用ください。",
 	"ui_browse_properties_scheme_color": "ツールバーの色",
 	"ui_browse_properties_playback_rate": "再生速度",
 	"ui_browse_properties_volume": "音量",
