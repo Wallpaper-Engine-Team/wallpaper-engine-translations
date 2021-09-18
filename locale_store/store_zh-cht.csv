@@ -1,4 +1,5 @@
-"system_requirements",""
+"system_requirements","Windows N 版本需要 Microsoft 提供的「Media Feature Pack」。Aero 必須在 Windows 7 上啟用。不支援高對比模式。Windows 8、10、11 的視訊最高解析度：4K，Windows 7 的視訊最高解析度：1080p
+"
 "description_short",""
 "description_long",""
 "description_image_features","功能"
@@ -9,5 +10,5 @@
 "screenshot_text_tools","提供多種製作動畫的工具"
 "screenshot_text_presets","快速新增預設效果"
 "screenshot_text_effects",""
-"additional_notes_recommended",""
+"additional_notes_recommended","行動應用程式需要 Android 8.1 或更新版本"
 "ssa_addendum",""
