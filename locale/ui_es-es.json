@@ -209,7 +209,7 @@
 	"ui_browse_modal_application_warning_header": "Abriendo aplicación desconocida",
 	"ui_browse_modal_application_warning_body": "Estás a punto de abrir una aplicación externa desconocida como fondo: <br/><b>{{filepath}}</b><br/>Wallpaper Engine no tiene control sobre este archivo, debes asegurarte que es de un origen de confianza antes de continuar.",
 	"ui_browse_modal_application_warning_timer": "<br/><br/>Espera {{time}} segundos.",
-	"ui_browse_modal_application_warning_disable_checkbox": "No volver a pedir este fondo",
+	"ui_browse_modal_application_warning_disable_checkbox": "No volver a mostrar para este fondo",
 	"ui_browse_modal_unsubscribe_header": "Anular suscripción",
 	"ui_browse_modal_unsubscribe_body": "¿Seguro de que quieres anular la suscripción de: <b>{{title}}</b>?<br/><br/>Tras anular la suscripción, [[[Platform]]] borrará los archivos del fondo automáticamente en cuando se cierre la ventana de búsqueda de fondos. [[[Platform]]] retrasa la eliminación de fondos hasta que cierres la ventana de búsqueda de fondos.",
 	"ui_browse_modal_unsubscribe_body_short": "¿Seguro de que quieres anular la suscripción de: <b>{{title}}</b>?",
