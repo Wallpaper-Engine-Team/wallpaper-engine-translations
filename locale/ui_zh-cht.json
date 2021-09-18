@@ -225,6 +225,7 @@
 	"ui_browse_open_url_hotkey_info": "要在桌布上使用鍵盤輸入，請先使用此快速鍵隱藏圖示：",
 	"ui_browse_open_url_livestream_info": "若您想載入的連結中含有影片即時串流，可啟用<b>即時串流模式</b>。在即時串流模式中，部分 Wallpaper Engine 功能可能無法正常運作。",
 	"ui_browse_open_url_livestream_checkbox": "使用即時串流模式",
+	"ui_browse_open_url_livestream_warning": "<b>請注意：</b>您正利用功能較有限的 Edge WebView 瀏覽器開啟此連結，即時串流模式開啟時，許多 Wallpaper Engine 可能無法正常運作。<br/><br/><b>若您打算將即時串流設為桌布，再使用本選項</b>。",
 	"ui_browse_open_url_livestream_runtime_modal_title": "安裝 Edge WebView",
 	"ui_browse_modal_proceed": "繼續",
 	"ui_browse_modal_advertise_workshop_header": "工作坊篩選器設定",
