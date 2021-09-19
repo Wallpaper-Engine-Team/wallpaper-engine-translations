@@ -1,5 +1,6 @@
-"system_requirements",""
-"description_short",""
+"system_requirements","Versioner av Windows N kräver ""Media Feature Pack"" från Microsoft. Aero måste aktiveras på Windows 7. Högkontrastläge stöds inte. Maximal videoupplösning för Windows 8, 10, 11: 4K, Windows 7: 1080p
+"
+"description_short","Använd förbluffande levande bakgrunder på din dator. Animera dina egna bilder för att skapa nya bakgrunder eller importera videor/webbplatser och dela dem på Steam Workshop!"
 "description_long",""
 "description_image_features","Funktioner"
 "description_image_performance","Prestanda"
@@ -8,6 +9,6 @@
 "screenshot_text_images","Animera dina egna bilder"
 "screenshot_text_tools","Många verktyg för att skapa animeringar"
 "screenshot_text_presets","Lägg snabbt till förinställda effekter"
-"screenshot_text_effects",""
+"screenshot_text_effects","Bygg dina egna komplexa effekter"
 "additional_notes_recommended",""
 "ssa_addendum",""
