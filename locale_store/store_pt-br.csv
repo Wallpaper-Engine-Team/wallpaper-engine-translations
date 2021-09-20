@@ -1,5 +1,6 @@
-"system_requirements",""
-"description_short",""
+"system_requirements","As versões N do Windows requerem o ""Media Feature Pack"" da Microsoft. O Aero deve estar ativado no Windows 7. O modo de alto contraste não é suportado. Resolução máxima de vídeo para o Windows 8, 10, 11: 4K, Windows 7: 1080p
+"
+"description_short","Use papéis de parede animados deslumbrantes na sua área de trabalho. Faça a animação das suas próprias imagens para criar novos papéis de parede ou importe vídeos/websites e compartilhe-os na Oficina Steam!"
 "description_long",""
 "description_image_features","Recursos"
 "description_image_performance","Desempenho"
@@ -8,6 +9,6 @@
 "screenshot_text_images","Anime as suas próprias imagens"
 "screenshot_text_tools","Várias ferramentas para criar animações"
 "screenshot_text_presets","Adicione efeitos predefinidos rapidamente"
-"screenshot_text_effects",""
-"additional_notes_recommended",""
-"ssa_addendum",""
+"screenshot_text_effects","Crie os seus próprios efeitos complexos"
+"additional_notes_recommended","O aplicativo móvel requer Android 8.1 ou mais recente"
+"ssa_addendum","Além das regras estabelecidas pelo Acordo de Assinatura do Steam, você concorda que os usuários do conteúdo da sua Oficina Steam podem exportar e transferir o seu conteúdo para dispositivos móveis compatíveis. Os usuários finais que assinarem o conteúdo da sua Oficina Steam poderão utilizar o conteúdo enviado nos dispositivos móveis pessoais deles com a finalidade de exibir papéis de parede. Você concorda que seus conteúdos da Oficina poderão sofrer modificações e otimizações no sistema de usuários finais individuais com a finalidade de permitir a compatibilidade técnica com os dispositivos móveis mencionados acima."
