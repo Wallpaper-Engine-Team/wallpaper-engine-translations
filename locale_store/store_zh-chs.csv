@@ -1,7 +1,38 @@
 "system_requirements","Windows N 版本需要 Microsoft 提供的“媒体功能包”。必须在 Windows 7 上启用 Aero。不支持高对比度模式。对于 Windows 8、Windows 10、Windows 11，最大视频分辨率为 4K，对于 Windows 7，最大视频分辨率为 1080p
 "
 "description_short","您可以在桌面上使用令人惊艳的动态壁纸。将您自己的图片制成动画以创建新壁纸，或导入视频/网站并在 Steam 创意工坊上分享！"
-"description_long",""
+"description_long","Wallpaper Engine 使您可在 Windows 桌面上使用动态壁纸。它支持各种类型的动画壁纸，包括 3D 和 2D 动画、网站、视频、乃至某些应用程序。选择现有壁纸，或创建自己的壁纸并在 Steam 创意工坊上分享！此外，您还可以使用适用于 Android 的 Wallpaper Engine 免费配套应用程序，将您最喜爱的壁纸传输到 Android 移动设备，并随身携带动态壁纸。
+
+[b]新功能：[/b]使用免费的 Android 配套应用程序，将您最喜爱的壁纸传输到 Android 移动设备。
+
+[img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
+
+[list]
+[*]通过实时图形、视频、应用程序或网站让您的桌面充满活力。
+[*]在您离开计算机时使用动画屏幕保护程序。
+[*]用您最喜欢的颜色个性化动画壁纸。
+[*]使用可通过鼠标控制的交互式壁纸。
+[*]支持多种宽高比和原始分辨率，包括 16:9、21:9、16:10、4:3。
+[*]支持多显示器环境。
+[*]壁纸将在玩游戏时暂停，以节省性能。
+[*]在 Wallpaper Engine 编辑器中创建自己的动画壁纸。
+[*]通过基本图片制作新的动态壁纸动画，或为壁纸导入 HTML 或视频文件。
+[*]使用 Steam 创意工坊免费分享和下载壁纸。
+[*]Wallpaper Engine 可与任何其他 Steam 游戏或应用程序同时使用。
+[*]支持的视频格式：mp4、WebM、avi、m4v、mov、wmv（对于本地文件，创意工坊仅支持 mp4）。
+[*]使用免费的 Android 配套应用程序，随身携带您最喜爱的场景和视频壁纸。
+[*]支持 Razer Chroma 和 Corsair iCUE。
+[/list]
+
+[img]{STEAM_APP_IMAGE}/extras/partners.png[/img]
+
+[img]{STEAM_APP_IMAGE}/extras/title_performance.png[/img]
+[h2][/h2]
+Wallpaper Engine 旨在提供有趣的体验，同时尽可能少占用系统资源。您可以选择在使用其他应用程序或全屏播放（包括无边框窗口模式）时自动暂停或完全停止壁纸，以免在玩游戏或工作时分散注意力或受到妨碍。许多微调质量和性能的选项可使 Wallpaper Engine 完美地适合您的计算机。根据一般经验，3D、2D 和基于视频的壁纸表现最佳，而网站和应用程序需要占用您系统中更多的资源。强烈建议您使用专用 GPU，但这不是必要要求。
+[h2][/h2]
+[img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
+[h2][/h2]
+Steam 创意工坊中提供超过一百万张免费壁纸，而且每天都会上传新壁纸！找不到适合您心情的壁纸？通过使用 Wallpaper Engine 编辑器从图片、视频、网站或应用程序创建自己的动画壁纸，尽情发挥您的想象力。大量的预设和效果可让您为自己的图片制作动画，并在 Steam 创意工坊上分享或仅为己用。"
 "description_image_features","特性"
 "description_image_performance","性能"
 "screenshot_text_customization","自定义壁纸"
