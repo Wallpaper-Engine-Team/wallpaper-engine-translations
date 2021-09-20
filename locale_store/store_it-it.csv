@@ -1,7 +1,38 @@
 "system_requirements","Le versioni N di Windows richiedono il Media Feature Pack di Microsoft. È necessario abilitare Aero su Windows 7. La modalità ad alto contrasto non è supportata. Risoluzione video massima per Windows 8, 10, 11: 4K, Windows 7: 1080p
 "
 "description_short","Usa incredibili sfondi dinamici sul tuo desktop. Anima le tue immagini per creare nuovi sfondi o importa video/siti web e condividili sul Workshop di Steam!"
-"description_long",""
+"description_long","Wallpaper Engine ti consente di usare sfondi dinamici sul tuo desktop di Windows. Supporta vari tipi di sfondi animati, tra cui animazioni 3D e 2D, siti web, video e alcune applicazioni. Seleziona uno sfondo esistente o creane uno nuovo e condividilo sul Workshop di Steam! Puoi anche usare l'app gratuita complementare di Wallpaper Engine per Android per trasferire i tuoi sfondi preferiti sul tuo dispositivo mobile Android quando e dove vuoi.
+
+[b]NEW:[/b] Trasferisci i tuoi sfondi preferiti sul tuo dispositivo mobile Android con l'app gratuita complementare per Android!
+
+[img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
+
+[list]
+[*]Dai vita agli sfondi sul tuo desktop con grafica, video, applicazioni e siti web in tempo reale.
+[*]Usa salvaschermi animati quando sei AFK.
+[*]Personalizza gli sfondi animati con i tuoi colori preferiti.
+[*]Usa sfondi interattivi che puoi controllare tramite mouse.
+[*]Supporta molte proporzioni e risoluzioni native, tra cui 16:9, 21:9, 16:10, 4:3.
+[*]Supporta ambienti con più monitor.
+[*]Gli sfondi si metteranno in pausa durante il gioco per proteggere le prestazioni.
+[*]Crea sfondi animati nell'editor di Wallpaper Engine.
+[*]Anima nuovi sfondi dinamici a partire da immagini di base oppure importa file HTML o video per creare lo sfondo.
+[*]Usa il Workshop di Steam per condividere e scaricare sfondi.
+[*]Usa Wallpaper Engine contemporaneamente con un gioco o un'applicazione di Steam.
+[*]Formati video supportati: mp4, WebM, avi, m4v, mov, wmv (per file locali, Workshop consente solo il formato mp4).
+[*]Usa l'app gratuita complementare per Android per portare i tuoi sfondi video preferiti sempre con te.
+[*]Supporta Razer Chroma e Corsair iCUE.
+[/list]
+
+[img]{STEAM_APP_IMAGE}/extras/partners.png[/img]
+
+[img]{STEAM_APP_IMAGE}/extras/title_performance.png[/img]
+[h2][/h2]
+Wallpaper Engine ti offre un'esperienza divertente utilizzando la minore quantità di risorse possibile. Per evitare distrazioni o problemi mentre giochi o lavorio, potrai mettere in pausa o interrompere completamente lo sfondo in automatico quando usi un'altra applicazione o durante la riproduzione a schermo intero (compresa la modalità a finestre senza bordi). Le tante opzioni per perfezionare la qualità e le prestazioni ti consentiranno di adattare perfettamente Wallpaper Engine al tuo computer. In generale, gli sfondi basati su video 3D e 2D offriranno le prestazioni migliori, mentre i siti web e le applicazioni richiederanno risorse aggiuntive di sistema. Ti consigliamo di utilizzare una GPU dedicata, anche se non necessario.
+[h2][/h2]
+[img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
+[h2][/h2]
+Scegli tra oltre un milione di sfondi gratuiti dal Workshop di Steam, su cui vengono caricati nuovi sfondi ogni giorno! Non riesci a trovare uno sfondo adatto al tuo umore? Lascia viaggiare la tua immaginazione con l'editor di Wallpaper Engine per creare sfondi animati personalizzati a partire da immagini, video, siti web o applicazioni. Grazie all'ampia selezione di impostazioni ed effetti predefiniti, potrai dare vita alle tue immagini, condividerle sul Workshop di Steam o farne l'uso che preferisci."
 "description_image_features","Caratteristiche"
 "description_image_performance","Prestazioni"
 "screenshot_text_customization","Personalizza sfondi"
@@ -9,6 +40,6 @@
 "screenshot_text_images","Applica animazioni alle immagini"
 "screenshot_text_tools","Tanti strumenti per creare animazioni"
 "screenshot_text_presets","Aggiungi rapidamente gli effetti predefiniti"
-"screenshot_text_effects",""
-"additional_notes_recommended",""
-"ssa_addendum",""
+"screenshot_text_effects","Realizza effetti complessi"
+"additional_notes_recommended","L'app per dispositivi mobili richiede Android 8.1 o successivi"
+"ssa_addendum","Oltre alle regole definite nel contratto di sottoscrizione a Steam, accetti che i sottoscrittori ai contenuti sul tuo Workshop di Steam possano esportare e trasferire tali contenuti su dispositivi mobili compatibili. Gli utenti finali che sottoscriveranno al tuo Workshop di Steam potranno utilizzare i contenuti caricati sui loro dispositivi mobili personali per visualizzare sfondi. Accetti che i tuoi oggetti del Workshop possano venire modificati e ottimizzati sul sistema degli utenti finali individuali al fine di abilitare compatibilità tecniche con i suddetti dispositivi mobili."
