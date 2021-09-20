@@ -1,5 +1,6 @@
-"system_requirements",""
-"description_short",""
+"system_requirements","Для версий Windows N требуется Media Feature Pack от Microsoft. Функция Aero должна быть включена в Windows 7. Режим высокой контрастности не поддерживается. Максимальное разрешение для видео в Windows 8, 10, 11 — 4K, в Windows 7 — 1080p
+"
+"description_short","Устанавливайте шикарные живые обои на рабочий стол. Анимируйте собственные изображения для создания новых обоев или импортируйте видео/веб-сайты и делитесь ими в Мастерской Steam!"
 "description_long",""
 "description_image_features","Функции"
 "description_image_performance","Производительность"
@@ -8,6 +9,6 @@
 "screenshot_text_images","Анимация собственных изображений"
 "screenshot_text_tools","Множество инструментов для создания анимаций"
 "screenshot_text_presets","Быстрое добавление предустановленных эффектов"
-"screenshot_text_effects",""
+"screenshot_text_effects","Создание собственных сложных эффектов"
 "additional_notes_recommended",""
 "ssa_addendum",""
