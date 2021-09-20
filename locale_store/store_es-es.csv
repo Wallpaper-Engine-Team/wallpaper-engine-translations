@@ -1,7 +1,38 @@
 "system_requirements","Las versiones N de Windows requieren el ""Media Feature Pack"" de Microsoft. Aero debe estar activado en Windows 7. El modo de alto contraste no es compatible. Máxima resolución de vídeo para Windows 8, 10, 11: 4K, para Windows 7: 1080p.
 "
 "description_short","Usa fondos animados increíbles en tu escritorio. Anima tus propias imágenes para crear fondos nuevos o importa vídeos o páginas web y compártelos en Steam Workshop."
-"description_long",""
+"description_long","Wallpaper Engine te permite utilizar fondos de pantalla animados en el escritorio de Windows. Es compatible con varios tipos de fondos, incluyendo animaciones 3D y 2D, páginas web, vídeos e incluso aplicaciones. Elige un fondo de pantalla ya preparado o crea el tuyo propio y compártelo en Steam Workshop. Además, puedes utilizar la aplicación gratuita de Wallpaper Engine para Android y así transferirte tus fondos de pantalla favoritos a tu dispositivo y llevártelos a todas partes.
+
+[b]NOVEDAD:[/b] Usa la aplicación de Android para transferirte tus fondos favoritos a un dispositivo Android.
+
+[img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
+
+[list]
+[*]Da vida a tus fondos de escritorio con gráficos, vídeos, aplicaciones o páginas web en tiempo real.
+[*]Usa salvapantallas animados mientras no estés en el ordenador.
+[*]Personaliza los fondos de pantalla animados con tus colores favoritos.
+[*]Usa fondos de pantalla interactivos que puedes controlar con el ratón.
+[*]Es compatible con muchas relaciones de aspecto y resoluciones nativas como, por ejemplo, 16:9, 21:9, 16:10, 4:3.
+[*]Es compatible con el uso de varios monitores.
+[*]Los fondos de pantalla se pausarán cuando jueges para que no afecten al rendimiento.
+[*]Crea tus propios fondos de pantalla animados con el editor de Wallpaper Engine.
+[*]Anima fondos de pantalla a partir de imágenes básicas o importa archivos HTML o de vídeo para el fondo de pantalla.
+[*]Usa Steam Workshop para compartir y descargar fondos de pantalla de forma gratuita.
+[*]Puedes usar Wallpaper Engine al mismo tiempo que cualquier otro juego o aplicación de Steam.
+[*]Formatos de vídeo compatibles: mp4, WebM, avi, m4v, mov, wmv (para archivos locales, Workshop solo admite mp4).
+[*]Usa la aplicación gratis para Android y llévate tus fondos de pantalla de escena o de vídeo favoritos a cualquier parte.
+[*]Compatible con Razer Chroma y Corsair iCUE.
+[/list]
+
+[img]{STEAM_APP_IMAGE}/extras/partners.png[/img]
+
+[img]{STEAM_APP_IMAGE}/extras/title_performance.png[/img]
+[h2][/h2]
+Wallpaper Engine tiene como objetivo ofrecer una experiencia de entretenimiento empleando la menor cantidad posible de recursos del sistema. Puedes elegir poner en pausa automáticamente o detener por completo el fondo mientras utilizas otra aplicación o la pantalla completa (incluido el modo de ventana sin bordes), para no distraerte o que no te afecte mientras juegas o trabajas. Las opciones para retocar la calidad y el rendimiento a tu gusto te permiten adaptar el fondo a tu equipo a la perfección. Por lo general, los fondos 3D, 2D y de vídeo funcionan mejor, mientras que las páginas web y las aplicaciones requerirán más recursos del sistema. Es muy recomendable tener una GPU dedicada, aunque no es obligatorio.
+[h2][/h2]
+[img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
+[h2][/h2]
+Elige entre más de 1 000 000 de fondos gratuitos en Steam Workshop: ¡los usuarios suben fondos nuevos todos los días! ¿No encuentras el fondo perfecto para ti? Pues deja volar tu imaginación con el editor de Wallpaper Engine para crear tus propios fondos animados a partir de imágenes, vídeos, páginas web o aplicaciones. La gran selección de valores predeterminados y efectos te permitirá animar las imágenes y compartirlas en Steam Workshop o crearlas para tu uso personal."
 "description_image_features","Características"
 "description_image_performance","Rendimiento"
 "screenshot_text_customization","Personalizar fondos"
@@ -10,5 +41,5 @@
 "screenshot_text_tools","Muchas herramientas para crear animaciones"
 "screenshot_text_presets","Agrega de forma rápida efectos predeterminados"
 "screenshot_text_effects","Crea tus propios efectos complejos"
-"additional_notes_recommended",""
+"additional_notes_recommended","La aplicación móvil es compatible con Android 8.1 o superior"
 "ssa_addendum",""
