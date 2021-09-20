@@ -223,6 +223,8 @@
 	"ui_browse_open_url_header": "从 URL 打开壁纸",
 	"ui_browse_open_url_name": "名称",
 	"ui_browse_open_url_hotkey_info": "要在壁纸上使用键盘，请先使用此热键隐藏图标：",
+	"ui_browse_open_url_livestream_info": "如果您尝试加载的 URL 包含视频直播，请启用<b>直播模式</b>。在直播模式下，Wallpaper Engine 的某些功能可能无法正常工作。",
+	"ui_browse_open_url_livestream_checkbox": "使用直播模式",
 	"ui_browse_modal_proceed": "继续进行",
 	"ui_browse_modal_advertise_workshop_header": "创意工坊筛选器设置",
 	"ui_browse_modal_advertise_workshop_body": "使用左侧的筛选器侧栏来选择与您的壁纸首选项相匹配的标签。<br/><br/>使用<b>好评</b><span class='fas fa-trophy browseWallpaperApproved'></span>筛选器可浏览精选高品质壁纸。<br/><br/>如果要查找高品质提交内容，请将右上角的排序顺序设置为<b>最热门</b>或<b>评分最高</b>。",
