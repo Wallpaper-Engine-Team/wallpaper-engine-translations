@@ -1,5 +1,6 @@
-"system_requirements",""
-"description_short",""
+"system_requirements","Las versiones N de Windows requieren el ""Media Feature Pack"" de Microsoft. Aero debe estar activado en Windows 7. El modo de alto contraste no es compatible. Máxima resolución de vídeo para Windows 8, 10, 11: 4K, para Windows 7: 1080p.
+"
+"description_short","Usa fondos animados increíbles en tu escritorio. Anima tus propias imágenes para crear fondos nuevos o importa vídeos o páginas web y compártelos en Steam Workshop."
 "description_long",""
 "description_image_features","Características"
 "description_image_performance","Rendimiento"
@@ -8,6 +9,6 @@
 "screenshot_text_images","Anima tus propias imágenes"
 "screenshot_text_tools","Muchas herramientas para crear animaciones"
 "screenshot_text_presets","Agrega de forma rápida efectos predeterminados"
-"screenshot_text_effects",""
+"screenshot_text_effects","Crea tus propios efectos complejos"
 "additional_notes_recommended",""
 "ssa_addendum",""
