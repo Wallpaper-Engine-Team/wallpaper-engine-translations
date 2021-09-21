@@ -1,6 +1,39 @@
-"system_requirements",""
-"description_short",""
-"description_long",""
+"system_requirements","Windows N sürümlerinde Microsoft'un ""Medya Özellik Paketi"" bulunması gerekir. Windows 7' de Aero'nun etkinleştirilmesi gerekir. Yüksek kontrast modu desteklenmez. Maks. video çözünürlüğü Windows 8, 10 ve 11 için 4K, Windows 7 için 1080p'dir
+"
+"description_short","Masaüstünüzde etkileyici canlı duvar kağıtları kullanın. Yeni duvar kağıtları oluşturmak için kendi görüntülerinizi canlandırın veya videoları/web sitelerini içe aktarın ve bunları Steam Atölyesinde paylaşın!"
+"description_long","Wallpaper Engine, Windows masaüstünüzde canlı duvar kâğıtları kullanmanızı sağlar. 3D ve 2D animasyonlar, internet siteleri, videolar ve hatta birtakım uygulamalar da dahil olmak üzere çeşitli hareketli duvar kâğıtları desteklenir. Mevcut bit duvar kâğıdını seçin veya kendi duvar kâğıdınızı oluşturun ve Steam Atölyesi'nde paylaşın! Buna ek olarak, favori duvar kâğıtlarınızı Android mobil cihazınıza aktarmak ve canlı duvar kâğıtlarınızı yanınızda taşımak için Android için ücretsiz Wallpaper Engine cep uygulamasını kullanabilirsiniz.
+
+[b]YENİ:[/b] Favori duvar kâğıtlarınızı Android mobil cihazınıza aktarmak için ücretsiz Android cep uygulamasını kullanın.
+
+[img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
+
+[list]
+[*]Gerçek zamanlı grafikler, videolar, uygulamalar veya internet siteleri ile masaüstü duvar kâğıtlarınıza hayat verin.
+[*]Bilgisayarınızın başında değilken hareketli ekran koruyucular kullanın.
+[*]En sevdiğiniz renkler ile hareketli duvar kâğıtlarını kişiselleştirin.
+[*]Fareniz ile kontrol edebildiğiniz etkileşimli duvar kağıtları kullanın.
+[*]16:9, 21:9, 16:10, 4:3 dahil olmak üzere birçok en boy oranı ve gerçek çözünürlük desteklenir.
+[*]Birden fazla monitörlü ortamları desteklenir.
+[*]Performanstan tasarruf için oyun oynarken duvar kâğıtları duraklatılacaktır.
+[*]Wallpaper Engine Düzenleyicisi üzerinden kendi hareketli duvar kâğıtlarınızı oluşturun.
+[*]Temel görüntülerden yeni canlı duvar kâğıtları yaratın veya duvar kâğıdı için HTML veya video dosyalarını içe aktarın.
+[*]Duvar kâğıtlarını ücretsiz olarak paylaşmak ve indirmek için Steam Atölyesi'ni kullanın.
+[*]Wallpaper Engine, diğer herhangi bir Steam oyunu veya uygulaması ile aynı anda kullanılabilir.
+[*]Desteklenen video formatları: mp4, WebM, avi, m4v, mov, wmv (yerel dosyalarda, Atölye yalnızca mp4'e izin verir).
+[*]En sevdiğiniz sahneyi ve video duvar kâğıtlarını yanınızda taşımak için ücretsiz Android cep uygulamasını kullanın.
+[*]Razer Chroma ve Corsair iCUE desteklenir.
+[/list]
+
+[img]{STEAM_APP_IMAGE}/extras/partners.png[/img]
+
+[img]{STEAM_APP_IMAGE}/extras/title_performance.png[/img]
+[h2][/h2]
+
+Wallpaper Engine, mümkün olduğunca az sistem kaynağı kullanırken eğlenceli bir deneyim sunmayı amaçlamaktadır. Oyun oynarken veya çalışırken dikkatinizi dağıtmamak veya sizi engellememesi için farklı bir uygulama kullanırken veya tam ekran oyun oynarken (kenarlıksız pencereli mod dahil) duvar kâğıdını otomatik olarak duraklatmayı veya tamamen durdurmayı tercih edebilirsiniz. Kalite ve performansta gelişmiş ayar yapmaya yönelik birçok seçenek, Wallpaper Engine'in bilgisayarınıza mükemmel şekilde uymasını sağlar. Genel bir kural olarak; 3D, 2D ve video tabanlı duvar kağıtları en iyi performansı gösterirken, internet siteleri ve uygulamalar sisteminizden daha fazla kaynak kullanılmasını gerektirecektir. Bunun için özel bir GPU'ya sahip olmanızı şiddetle tavsiye etsek de bunun kullanılması şart değildir.
+[h2][/h2]
+[img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
+[h2][/h2]
+Her gün yeni duvar kâğıtlarının yüklendiği Steam Atölyesi'ndeki bir milyondan fazla ücretsiz duvar kâğıdı arasından seçim yapın! Ruh halinize uyan bir duvar kâğıdı bulamadınız mı? Resimlerden, videolardan, internet sitelerinden veya uygulamalardan kendi hareketli duvar kâğıtlarınızı oluşturmak için Wallpaper Engine Düzenleyicisi'ni kullanarak hayal gücünüzü serbest bırakın. Çok çeşitli ön ayar ve efektler, kendi görüntülerinize hayat vermenize ve bunları Steam Atölyesi'nde paylaşmanıza ya da yalnızca kendiniz için kullanmanıza olanak tanır."
 "description_image_features","Özellikler"
 "description_image_performance","Performans"
 "screenshot_text_customization","Duvar kağıtlarını özelleştir"
@@ -10,4 +43,4 @@
 "screenshot_text_presets","Ön ayarlı efektleri hızlıca ekleyin"
 "screenshot_text_effects","Kendi karmaşık efektlerinizi oluşturun"
 "additional_notes_recommended","Mobil Uygulama için Android 8.1 veya üstü gereklidir"
-"ssa_addendum",""
+"ssa_addendum","Steam Abonelik Sözleşmesi tahtında belirlenen kurallara ek olarak, Steam Atölyesi içeriğinizin abonelerinin içeriğinizi uyumlu mobil cihazlara aktarabileceğini kabul edersiniz. Steam Atölyesi gönderilerinize abone olan son kullanıcılar, gönderdiğiniz içeriği duvar kâğıtlarını görüntülemek amacıyla kişisel mobil cihazlarında kullanabilir. Atölye gönderilerinizin, yukarıda belirtilen mobil cihazlar ile teknik açıdan uyumunu sağlamak amacıyla bireysel son kullanıcıların sisteminde değiştirilebileceğini ve optimize edilebileceğini kabul edersiniz."
