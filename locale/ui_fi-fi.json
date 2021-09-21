@@ -913,6 +913,7 @@
 	"ui_editor_review_info_header": "Tarkastusprosessi",
 	"ui_editor_review_info_body": "Taustakuvasi tarkastetaan, ennen kuin muut käyttäjät pystyvät lataamaan sen, jotta voidaan varmistaa, ettei se riko lakia.<br/><br/>Jos päivität taustakuvasi, se on tarkastettava uudelleen ja se siirretään tarkastusjonon perälle.",
 	"ui_editor_workshop_eula_title": "Workshop-lisenssisopimus muuttunut",
+	"ui_editor_workshop_eula_body": "Lue ja hyväksy uusin [[[Platform]]] Workshop -tilaussopimus, ennen kuin jatkat taustakuvasi latausta:",
 	"ui_editor_workshop_eula_button": "Näytä lisenssisopimus Steamissa",
 	"ui_editor_workshop_eula_waiting_hint": "Odotetaan lisenssisopimuksen hyväksymistä",
 	"ui_editor_modal_unsaved_changes_header": "Tallentamattomia muutoksia",
