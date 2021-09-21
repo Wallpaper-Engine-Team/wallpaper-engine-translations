@@ -912,7 +912,6 @@
 	"ui_editor_review_info_header": "Proses Peninjauan",
 	"ui_editor_review_info_body": "Wallpaper Anda akan ditinjau sebelum pengguna lain dapat menemukan dan mengunduh wallpaper Anda agar memastikan bahwa wallpaper Anda tidak melanggar hukum setempat yang berlaku.<br/><br/>Jika Anda memperbarui wallpaper Anda, wallpaper Anda akan ditinjau kembali dan terdorong ke belakang antrian tinjauan.",
 	"ui_editor_workshop_eula_title": "Workshop EULA Berubah",
-	"ui_editor_workshop_eula_body": "Silakan meninjau dan terima persetujuan [[[Host]]] Workshop Subscriber Agreement terbaru sebelum Anda melanjutkan proses pengunggahan wallpaper Anda:",
 	"ui_editor_workshop_eula_button": "Tunjukkan EULA di Steam",
 	"ui_editor_workshop_eula_waiting_hint": "Menunggu EULA diterima",
 	"ui_editor_modal_unsaved_changes_header": "Perubahan Belum Disimpan",
