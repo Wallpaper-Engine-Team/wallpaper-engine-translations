@@ -913,7 +913,6 @@
 	"ui_editor_review_info_header": "Gennemse proces",
 	"ui_editor_review_info_body": "Din skrivebordsbaggrund bliver gennemset inden andre bruger kan finde eller downloade den for at sikre, at den ikke bryder lokal lovgivning.<br/><br/>Hvis du opdaterer din skrivebordsbaggrund, skal den gennemses igen og rykkes tilbage i køen.",
 	"ui_editor_workshop_eula_title": "EULA for Værksted er blevet ændret",
-	"ui_editor_workshop_eula_body": "Gennemse og accepter den seneste [[[Host]]] værksted--abonnementsaftale, så du kan fortsætte med overførselsprocessen af din baggrund:",
 	"ui_editor_workshop_eula_button": "Vis EULA på Stream",
 	"ui_editor_workshop_eula_waiting_hint": "Afventer, at EULA accepteres",
 	"ui_editor_modal_unsaved_changes_header": "Ændringer der ikke er gemt",
