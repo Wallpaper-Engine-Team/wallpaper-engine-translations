@@ -913,7 +913,6 @@
 	"ui_editor_review_info_header": "Überprüfungsprozess",
 	"ui_editor_review_info_body": "Dein Hintergrund wird zunächst geprüft bevor andere Nutzer es finden können, um sicherzustellen, dass es gegen keine landesspezifischen Gesetze verstößt.<br/><br/>Wenn du den Hintergrund aktualisierst, muss er erneut überprüft werden und wird wieder ans Ende der Überprüfungsliste gesetzt.",
 	"ui_editor_workshop_eula_title": "Aktualisierte Workshop-EULA",
-	"ui_editor_workshop_eula_body": "Bitte überprüfe und akzeptiere die neueste [[[Host]]]-Workshop-Abonnementvereinbarung, bevor du mit dem Upload-Prozess deines Hintergrunds fortfahren kannst:",
 	"ui_editor_workshop_eula_button": "EULA in Steam anzeigen",
 	"ui_editor_workshop_eula_waiting_hint": "Warte darauf, dass EULA akzeptiert wird",
 	"ui_editor_modal_unsaved_changes_header": "Ungespeicherte Änderungen",
