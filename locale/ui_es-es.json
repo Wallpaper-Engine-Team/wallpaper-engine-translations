@@ -913,6 +913,7 @@
 	"ui_editor_review_info_header": "En proceso de revisión",
 	"ui_editor_review_info_body": "Tu fondo será revisado antes de que otros usuarios puedan verlo y descargarlo, esto para asegurarnos de que no viola ninguna ley local.<br/><br/>Si lo actualizas, este será revisado de nuevo y colocado al final de la cola.",
 	"ui_editor_workshop_eula_title": "Cambios en el acuerdo de licencia de usuario final",
+	"ui_editor_workshop_eula_body": "Revisa y acepta el acuerdo de suscriptor a [[[Platform]]] Workshop más reciente antes de continuar con el proceso de subida del fondo:",
 	"ui_editor_workshop_eula_button": "Mostrar acuerdo de licencia de usuario final en Steam",
 	"ui_editor_workshop_eula_waiting_hint": "Esperando a que se acepte el acuerdo de licencia de usuario final",
 	"ui_editor_modal_unsaved_changes_header": "Cambios sin guardar",
