@@ -913,7 +913,6 @@
 	"ui_editor_review_info_header": "İşlemi Gözden Geçir",
 	"ui_editor_review_info_body": "Herhangi bir yerel yasanın ihlal edilmediğinden emin olmak için duvar kâğıdınız diğer kullanıcılar tarafından bulunup indirilmeden önce gözden geçirilecektir.<br/><br/>Duvar kâğıdınızı güncellerseniz yeniden gözden geçirilmek üzere tekrar sıraya alınır.",
 	"ui_editor_workshop_eula_title": "Değişikliğe Uğramış Atölye EULA Sözleşmesi",
-	"ui_editor_workshop_eula_body": "Duvar kâğıdınızı karşıya yükleme sürecine devam edebilmek için en son [[[Host]]] Atölye Abonelik Sözleşmesini inceleyin ve kabul edin:",
 	"ui_editor_workshop_eula_button": "Steam'de EULA Sözleşmesini Görüntüle",
 	"ui_editor_workshop_eula_waiting_hint": "EULA Sözleşmesinin kabul edilmesi bekleniyor",
 	"ui_editor_modal_unsaved_changes_header": "Kaydedilmemiş Değişiklikler",
