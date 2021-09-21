@@ -913,6 +913,7 @@
 	"ui_editor_review_info_header": "Proces weryfikacji",
 	"ui_editor_review_info_body": "Twoja tapeta zostanie zweryfikowana, zanim inni użytkownicy będą mogli ją znaleźć i pobrać, aby upewnić się, że nie narusza żadnych lokalnych przepisów.<br/><br/>Jeśli zaktualizujesz swoją tapetę, musi ona zostać zweryfikowana ponownie i znajdzie się na końcu kolejki weryfikacyjnej.",
 	"ui_editor_workshop_eula_title": "Zmiana EULA Warsztatu",
+	"ui_editor_workshop_eula_body": "Przeczytaj i zaakceptuj najnowszą umowę użytkownika Warsztatu [[[Platform]]] przed kontynuowaniem przesyłania tapety:",
 	"ui_editor_workshop_eula_button": "Pokaż EULA na platformie Steam",
 	"ui_editor_workshop_eula_waiting_hint": "Oczekiwanie na zaakceptowanie EULA",
 	"ui_editor_modal_unsaved_changes_header": "Niezapisane zmiany",
