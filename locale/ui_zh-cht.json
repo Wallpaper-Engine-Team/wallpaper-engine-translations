@@ -913,7 +913,7 @@
 	"ui_editor_review_info_header": "檢查步驟",
 	"ui_editor_review_info_body": "您的桌布將在其他使用者找到並下載之前進行審查，以確保不會違反任何當地法律。<br/><br/>如果您更新了桌布，則必須對此再次進行審查。",
 	"ui_editor_workshop_eula_title": "工作坊使用者授權合約變更",
-	"ui_editor_workshop_eula_body": "請檢視並同意最新的 [[[Host]]] 工作坊訂戶協議，之後方可繼續上傳桌布：",
+	"ui_editor_workshop_eula_body": "請檢視並同意最新的 [[[Platform]]] 工作坊訂戶協議，之後方可繼續上傳桌布：",
 	"ui_editor_workshop_eula_button": "在 Steam 顯示使用者授權合約",
 	"ui_editor_workshop_eula_waiting_hint": "正在等待使用者授權合約獲得同意",
 	"ui_editor_modal_unsaved_changes_header": "未儲存的變更",

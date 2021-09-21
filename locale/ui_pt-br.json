@@ -913,7 +913,7 @@
 	"ui_editor_review_info_header": "Processo de análise",
 	"ui_editor_review_info_body": "Seu papel de parede deve ser analisado antes de outros usuários possam encontra-lo e baixa-lo para assegurar que ele não viola nenhuma lei local.</b></b>Se você atualizar seu walpaper, ele terá que ser analisado novamente e isso pode leva-lo de volta para o final da fila.",
 	"ui_editor_workshop_eula_title": "Licença de Software da Oficina foi alterada",
-	"ui_editor_workshop_eula_body": "Leia e aceite o [[[Host]]] Acordo de Assinatura da Oficina mais recente antes de fazer o upload do seu papel de parede:",
+	"ui_editor_workshop_eula_body": "Leia e aceite o [[[Platform]]] Acordo de Assinatura da Oficina mais recente antes de fazer o upload do seu papel de parede:",
 	"ui_editor_workshop_eula_button": "Exibir Licença de Software no Steam",
 	"ui_editor_workshop_eula_waiting_hint": "Aguardando a Licença de Software ser aceita",
 	"ui_editor_modal_unsaved_changes_header": "Alterações não salvas",
