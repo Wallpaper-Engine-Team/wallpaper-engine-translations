@@ -913,6 +913,7 @@
 	"ui_editor_review_info_header": "Granskningsprocess",
 	"ui_editor_review_info_body": "Din bakgrund kommer att granskas innan andra användare kan hitta och ladda ned den för att säkerställa att den inte bryter mot några regionala lagar.<br/><br/>If you update your wallpaper, it has to be reviewed again and is pushed to the back of the queue.",
 	"ui_editor_workshop_eula_title": "Licensvillkoren för Workshop har ändrats",
+	"ui_editor_workshop_eula_body": "Var god granska och acceptera [[[Platform]]]s senaste abonnentavtal för Workshop innan du fortsätter med uppladdningsprocessen för din bakgrund:",
 	"ui_editor_workshop_eula_button": "Visa licensvillkoren på Steam",
 	"ui_editor_workshop_eula_waiting_hint": "Väntar på att licensvillkoren ska accepteras",
 	"ui_editor_modal_unsaved_changes_header": "Osparade ändringar",
