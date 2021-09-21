@@ -913,6 +913,7 @@
 	"ui_editor_review_info_header": "검토 진행 중",
 	"ui_editor_review_info_body": "당신의 배경화면은 어떠한 지역 법도 위반하고 있지 않은지 확인하기 위해서 다른 유저들이 찾아서 다운로드하게되기 전에 검토될 것입니다.</b></b>배경화면을 업데이트하신다면, 리뷰를 다시 받아야 하고, 대기열의 맨 뒤로 밀릴 것입니다.",
 	"ui_editor_workshop_eula_title": "창작마당 이용약관 변경",
+	"ui_editor_workshop_eula_body": "배경화면 업로드를 계속하려면 먼저 최신 [[[Platform]]] 창작마당 이용 약관을 검토하고 수락하세요:",
 	"ui_editor_workshop_eula_button": "Steam에서 이용약관 보기",
 	"ui_editor_workshop_eula_waiting_hint": "이용약관 수락 대기 중",
 	"ui_editor_modal_unsaved_changes_header": "저장되지 않은 변경사항",
