@@ -913,6 +913,7 @@
 	"ui_editor_review_info_header": "بازبینی پردازش",
 	"ui_editor_review_info_body": "کاغذ دیواری شما قبل از یافتن و بارگیری آن برای اطمینان از نقض قوانین محلی، مورد بررسی قرار می گیرد. <br/> <br/> اگر کاغذ دیواری خود را به روز کنید، باید دوباره بررسی و به پشت صف می رود.",
 	"ui_editor_workshop_eula_title": "توافقنامه کارگاه تغییر کرد",
+	"ui_editor_workshop_eula_body": "لطفاً قبل از اینکه بتوانید مراحل بارگذاری کاغذ دیواری خود را ادامه دهید ، جدیدترین [[[Platform]]] قرارداد مشترک کارگاه را بررسی کرده و بپذیرید:",
 	"ui_editor_workshop_eula_button": "نمایش توافقنامه در استیم",
 	"ui_editor_workshop_eula_waiting_hint": "منتظر تایید توافقنامه",
 	"ui_editor_modal_unsaved_changes_header": "تغییرات ذخیره نشده",
