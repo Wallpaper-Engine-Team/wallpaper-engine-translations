@@ -968,7 +968,7 @@
 	"ui_editor_review_info_header" : "Review Process",
 	"ui_editor_review_info_body" : "Your wallpaper will be reviewed before other users can find and download it to ensure that it doesn't violate any local laws.<br/><br/>If you update your wallpaper, it has to be reviewed again and is pushed to the back of the queue.",
 	"ui_editor_workshop_eula_title" : "Workshop EULA Changed",
-	"ui_editor_workshop_eula_body" : "Please review and accept the latest [[[Host]]] Workshop Subscriber Agreement on before you can continue with the upload process of your wallpaper:",
+	"ui_editor_workshop_eula_body" : "Please review and accept the latest [[[Platform]]] Workshop Subscriber Agreement on before you can continue with the upload process of your wallpaper:",
 	"ui_editor_workshop_eula_button" : "Show EULA on Steam",
 	"ui_editor_workshop_eula_waiting_hint" : "Waiting for EULA to be accepted",
 	
