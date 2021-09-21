@@ -913,6 +913,7 @@
 	"ui_editor_review_info_header": "Processo de revisão",
 	"ui_editor_review_info_body": "O seu wallpaper será revisto antes que outros utilizadores o possam encontrar, de forma a garantir que não infringe quaisquer leis locais.<br/><br/>Se atualizar o seu wallpaper, ele terá de voltar a ser revisto e será empurrado para o fim da fila.",
 	"ui_editor_workshop_eula_title": "O EULA do Workshop foi alterado",
+	"ui_editor_workshop_eula_body": "Leia e aceite o mais recente Contrato de Subscritor do Workshop para [[[Platform]]] antes de poder continuar o processo de envio do seu wallpaper:",
 	"ui_editor_workshop_eula_button": "Mostrar EULA no Steam",
 	"ui_editor_workshop_eula_waiting_hint": "À espera que o EULA seja aceite",
 	"ui_editor_modal_unsaved_changes_header": "Alterações não guardadas",
