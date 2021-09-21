@@ -180,7 +180,6 @@
 	"ui_browse_monitors_configured_separately": "Külön konfigurált",
 	"ui_browse_monitors_same_as_wallpaper_hint": "A képernyőkímélő azonos az aktív háttérképekkel. A képernyőkímélőket a háttérképektől függetlenül konfigurálhatja, ha engedélyezi a fenti lehetőséget.",
 	"ui_browse_monitors_configure_in_windows": "Konfigurálás Windows-ban",
-	"ui_browse_monitors_configure_in_windows_hint": "Kérjük, a Windows képernyővédő beállításaiban állítsa be a Wallpaper Engine-t aktív képernyővédőként.",
 	"ui_browse_mobile_devices_header": "Mobil eszközök",
 	"ui_browse_sort_name": "Név",
 	"ui_browse_sort_rating": "Értékelés",

@@ -219,7 +219,6 @@
 	"ui_browse_list_source_installed": "Shranjeno",
 	"ui_browse_list_source_explore": "Priporočeno",
 	"ui_browse_modal_no_steam_title": "[[[Platform]]] napaka",
-	"ui_browse_modal_no_steam_body": "[[[Sdk]]] se ni uspel zagnati. Prosimo, poskusite ponovno zagnati [[[Platform]]] in za tem še Wallpaper Engine. Če se napaka ponovi, to lahko pomeni, da se vaš PC ne more pravilno preveriti na [[[Platform]]]. Preverite internetno povezavo in če ste prijavljeni v pravilni [[[Platform]]] račun.<br/><br/>Ne zaganjajte [[[Platform]]] kot administrator, ki preprečuje [[[Sdk]]] povezavo na [[[Platform]]]. Antivirusnik ali drug varnostni program lahko prav tako preprečuje povezavo med [[[Platform]]] in Wallpaper Engine, tako da ga morda poskusno izklopite.<br/><br/> Za dodatno pomoč preverite FAQ na: <a href='[[[var_url_faqsteam]]]'>Fix [[[Platform]]] Connection</a>",
 	"ui_browse_modal_safe_mode_header": "Varni zagon",
 	"ui_browse_modal_safe_mode_body": "Zgleda, da se program ni pravilno izklopil. Zadnja ozadja in vtičniki še niso bili naloženi, da se prepreči ponovitev težave.<br/><br/>Klikni OK, da jih obnoviš ali prekliči, da jih pred tem spremeniš.",
 	"ui_browse_use_safe_mode": "Uporabi varni zagon",

@@ -1,31 +1,38 @@
-"system_requirements","Le versioni N di Windows richiedono il Media Feature Pack di Microsoft. È necessario abilitare Aero su Windows 7. La modalità ad alto contrasto non è supportata. Risoluzione video massima per Windows 8, 10: 4K, Windows 7: 1080p"
-"description_short","È possibile usare straordinari sfondi animati per il desktop, animando le immagini per creare nuovi sfondi o importando video/siti Web e condividendoli sul workshop di Steam!"
-"description_long","Wallpaper Engine consente di utilizzare sfondi animati sul desktop Windows. Sono supportati vari tipi di sfondi animati, come animazioni 3D e 2D, siti Web, video e persino alcune applicazioni. È possibile scegliere uno sfondo esistente o creare uno sfondo personalizzato, condividendolo poi sul workshop di Steam!
+"system_requirements","Le versioni N di Windows richiedono il Media Feature Pack di Microsoft. È necessario abilitare Aero su Windows 7. La modalità ad alto contrasto non è supportata. Risoluzione video massima per Windows 8, 10, 11: 4K, Windows 7: 1080p
+"
+"description_short","Usa incredibili sfondi dinamici sul tuo desktop. Anima le tue immagini per creare nuovi sfondi o importa video/siti web e condividili sul Workshop di Steam!"
+"description_long","Wallpaper Engine ti consente di usare sfondi dinamici sul tuo desktop di Windows. Supporta vari tipi di sfondi animati, tra cui animazioni 3D e 2D, siti web, video e alcune applicazioni. Seleziona uno sfondo esistente o creane uno nuovo e condividilo sul Workshop di Steam! Puoi anche usare l'app gratuita complementare di Wallpaper Engine per Android per trasferire i tuoi sfondi preferiti sul tuo dispositivo mobile Android quando e dove vuoi.
+
+[b]NEW:[/b] Trasferisci i tuoi sfondi preferiti sul tuo dispositivo mobile Android con l'app gratuita complementare per Android!
 
 [img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
 
 [list]
-[*]È possibile dare vita al desktop con immagini grafiche, video, applicazioni o siti Web in tempo reale.
-[*]Sfondi animati personalizzabili con i colori preferiti.
-[*]Utilizzare gli sfondi interattivi controllabili con il mouse.
-[*]Sono supportate molte proporzioni e risoluzioni native, come 16:9, 21:9, 16:10, 4:3.
-[*]Sono supportati ambienti con più monitor.
+[*]Dai vita agli sfondi sul tuo desktop con grafica, video, applicazioni e siti web in tempo reale.
+[*]Usa salvaschermi animati quando sei AFK.
+[*]Personalizza gli sfondi animati con i tuoi colori preferiti.
+[*]Usa sfondi interattivi che puoi controllare tramite mouse.
+[*]Supporta molte proporzioni e risoluzioni native, tra cui 16:9, 21:9, 16:10, 4:3.
+[*]Supporta ambienti con più monitor.
 [*]Gli sfondi si metteranno in pausa durante il gioco per proteggere le prestazioni.
-[*]È possibile creare sfondi animati nell'editor di Wallpaper Engine.
-[*]È possibile animare nuovi sfondi live a partire da immagini di base oppure importare file HTML o video per creare lo sfondo.
-[*]Il workshop di Steam serve a condividere e scaricare sfondi.
-[*]È possibile utilizzare Wallpaper Engine nello stesso momento in cui si utilizza un gioco o un'applicazione Steam.
-[*]Formati di video supportati: mp4, WebM, avi, m4v, mov, wmv (per i file locali, il workshop ammette solo il formato mp4).
-[*]Supporto per Corsair iCUE.
+[*]Crea sfondi animati nell'editor di Wallpaper Engine.
+[*]Anima nuovi sfondi dinamici a partire da immagini di base oppure importa file HTML o video per creare lo sfondo.
+[*]Usa il Workshop di Steam per condividere e scaricare sfondi.
+[*]Usa Wallpaper Engine contemporaneamente con un gioco o un'applicazione di Steam.
+[*]Formati video supportati: mp4, WebM, avi, m4v, mov, wmv (per file locali, Workshop consente solo il formato mp4).
+[*]Usa l'app gratuita complementare per Android per portare i tuoi sfondi video preferiti sempre con te.
+[*]Supporta Razer Chroma e Corsair iCUE.
 [/list]
+
+[img]{STEAM_APP_IMAGE}/extras/partners.png[/img]
 
 [img]{STEAM_APP_IMAGE}/extras/title_performance.png[/img]
 [h2][/h2]
-Wallpaper Engine intende offrire un'esperienza divertente utilizzando la minore quantità di risorse possibile. È possibile scegliere di mettere in pausa o arrestare completamente, in modo automatico, lo sfondo durante l'uso di un'altra applicazione o la riproduzione a schermo intero (compresa la modalità a finestre senza bordi), per evitare distrazione o problemi mentre si gioca o si lavora. Tante opzioni per perfezionare la qualità e le prestazioni consentono di adattare perfettamente Wallpaper Engine al computer. Come regola generale, gli sfondi basati su video 3D e 2D avranno le prestazioni migliori, mentre i siti Web e le applicazioni necessiteranno di altre risorse di sistema. Si consiglia di utilizzare una GPU dedicata, anche se non è necessario.
+Wallpaper Engine ti offre un'esperienza divertente utilizzando la minore quantità di risorse possibile. Per evitare distrazioni o problemi mentre giochi o lavorio, potrai mettere in pausa o interrompere completamente lo sfondo in automatico quando usi un'altra applicazione o durante la riproduzione a schermo intero (compresa la modalità a finestre senza bordi). Le tante opzioni per perfezionare la qualità e le prestazioni ti consentiranno di adattare perfettamente Wallpaper Engine al tuo computer. In generale, gli sfondi basati su video 3D e 2D offriranno le prestazioni migliori, mentre i siti web e le applicazioni richiederanno risorse aggiuntive di sistema. Ti consigliamo di utilizzare una GPU dedicata, anche se non necessario.
 [h2][/h2]
 [img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
 [h2][/h2]
-È possibile scegliere tra oltre 350.000 sfondi gratuiti dal workshop di Steam, in cui vengono caricati nuovi sfondi ogni giorno! Non si riesce a trovare uno sfondo adatto al proprio umore? È possibile far viaggiare l'immaginazione usando l'editor di Wallpaper Engine per creare sfondi animati personalizzati a partire da immagini, video, siti Web o applicazioni. Un'ampia selezione di impostazioni e di effetti predefiniti consente di dare vita alle proprie immagini e condividerle sul workshop di Steam o semplicemente utilizzarle da soli."
+Scegli tra oltre un milione di sfondi gratuiti dal Workshop di Steam, su cui vengono caricati nuovi sfondi ogni giorno! Non riesci a trovare uno sfondo adatto al tuo umore? Lascia viaggiare la tua immaginazione con l'editor di Wallpaper Engine per creare sfondi animati personalizzati a partire da immagini, video, siti web o applicazioni. Grazie all'ampia selezione di impostazioni ed effetti predefiniti, potrai dare vita alle tue immagini, condividerle sul Workshop di Steam o farne l'uso che preferisci."
 "description_image_features","Caratteristiche"
 "description_image_performance","Prestazioni"
 "screenshot_text_customization","Personalizza sfondi"
@@ -33,4 +40,6 @@ Wallpaper Engine intende offrire un'esperienza divertente utilizzando la minore 
 "screenshot_text_images","Applica animazioni alle immagini"
 "screenshot_text_tools","Tanti strumenti per creare animazioni"
 "screenshot_text_presets","Aggiungi rapidamente gli effetti predefiniti"
-"screenshot_text_effects","Realizza effetti complessi "
+"screenshot_text_effects","Realizza effetti complessi"
+"additional_notes_recommended","L'app per dispositivi mobili richiede Android 8.1 o successivi"
+"ssa_addendum","Oltre alle regole definite nel contratto di sottoscrizione a Steam, accetti che i sottoscrittori ai contenuti sul tuo Workshop di Steam possano esportare e trasferire tali contenuti su dispositivi mobili compatibili. Gli utenti finali che sottoscriveranno al tuo Workshop di Steam potranno utilizzare i contenuti caricati sui loro dispositivi mobili personali per visualizzare sfondi. Accetti che i tuoi oggetti del Workshop possano venire modificati e ottimizzati sul sistema degli utenti finali individuali al fine di abilitare compatibilità tecniche con i suddetti dispositivi mobili."
