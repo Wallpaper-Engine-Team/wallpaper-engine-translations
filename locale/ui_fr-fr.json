@@ -913,7 +913,6 @@
 	"ui_editor_review_info_header": "Procéder à la révision",
 	"ui_editor_review_info_body": "Votre fond d’écran sera examiné avant que d’autres utilisateurs puissent le voir et le et télécharger pour s’assurer qu’il ne viole aucune loi locale.<br/><br/>Si vous mettez à jour votre fond d'écran, il devra être examiné à nouveau et sera envoyé à la fin de la file d’attente.",
 	"ui_editor_workshop_eula_title": "Modification du CLUF de Workshop",
-	"ui_editor_workshop_eula_body": "Veuillez lire et accepter la dernière version de l'accord d'abonnement de [[[Host]]] Workshop avant de pouvoir continuer le processus de téléchargement de votre fond d'écran :",
 	"ui_editor_workshop_eula_button": "Afficher le CLUF sur Steam",
 	"ui_editor_workshop_eula_waiting_hint": "En attente de l'acceptation du CLUF",
 	"ui_editor_modal_unsaved_changes_header": "Changements non sauvegardés",
