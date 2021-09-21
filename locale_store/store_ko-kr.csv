@@ -1,6 +1,38 @@
-"system_requirements",""
-"description_short",""
-"description_long",""
+"system_requirements","Windows N 버전에는 Microsoft의 'Media Feature Pack'이 필요합니다. Windows 7에서 Aero를 활성화해야 합니다. 고대비 모드는 지원되지 않습니다. 최대 비디오 해상도는 Windows 8, 10, 11의 경우 4K, Windows 7의 경우 1080p입니다.
+"
+"description_short","바탕화면에서 멋진 라이브 배경화면을 사용하세요. 자신의 이미지를 애니메이션으로 만들어서 새 배경화면을 생성하거나 비디오/웹 사이트를 가져와서 Steam 창작마당에서 공유하세요!"
+"description_long","WWallpaper Engine을 사용하면 Windows 바탕화면에서 라이브 배경화면을 사용할 수 있습니다. 3D 및 2D 애니메이션, 웹 사이트, 비디오 및 특정 응용 프로그램까지 포함한 다양한 유형의 애니메이션 배경화면이 지원됩니다. 기존 배경화면을 선택하거나 자신만의 배경화면을 만들어 Steam Workshop에서 공유하세요! 또한 Android용 무료 Wallpaper Engine 모바일 앱을 사용하여 가장 좋아하는 배경화면을 Android 기기로 옮기고 라이브 배경화면을 모바일로 확인할 수 있습니다.
+
+[b]새 소식:[/b] Android용 무료 모바일 앱을 사용하여 가장 좋아하는 배경화면을 Android 기기로 옮기세요.
+
+[img]{STEAM_APP_IMAGE}/extras/title_features.png[/img]
+
+[list]
+[*]실시간 그래픽, 비디오, 응용 프로그램 또는 웹 사이트로 바탕화면을 생기 있게 만드세요.
+[*]애니메이션 화면 보호기를 사용하세요.
+[*]선호하는 색상으로 애니메이션 배경화면을 맞춤 설정하세요.
+[*]마우스로 제어할 수 있는 상호작용 배경화면을 사용하세요. 
+[*]16:9, 21:9, 16:10, 4:3을 비롯한 많은 가로 세로 비율과 고유 해상도를 지원합니다.
+[*]다중 모니터 환경을 지원합니다.
+[*]게임을 할 때는 성능 절약을 위해 배경화면이 일시중지됩니다.
+[*]Wallpaper Engine 편집기에서 자신만의 애니메이션 배경화면을 생성하세요.
+[*]기본 이미지에서 새 라이브 배경화면을 애니메이션으로 만들거나 배경화면용 HTML 또는 비디오 파일을 가져오세요.
+[*]Steam 창작마당을 사용하여 무료로 배경화면을 공유하고 다운로드하세요.
+[*]Wallpaper Engine은 다른 Steam 게임이나 응용 프로그램과 동시에 사용할 수 있습니다.
+[*]지원되는 비디오 형식: mp4, WebM, avi, m4v, mov, wmv(로컬 파일용, Workshop은 mp4만 허용).
+[*]Android용 무료 모바일 앱으로 자신이 가장 좋아하는 장면과 영상 배경화면을 모바일에서 즐기세요.
+[*]Razer Chroma와 Corsair iCUE를 지원합니다.
+[/list]
+
+[img]{STEAM_APP_IMAGE}/extras/partners.png[/img]
+
+[img]{STEAM_APP_IMAGE}/extras/title_performance.png[/img]
+[h2][/h2]
+Wallpaper Engine의 목적은 시스템 리소스를 최대한 적게 사용하면서 재미있는 경험을 제공하는 것입니다. 다른 응용 프로그램을 사용하거나 전체 화면(경계가 없는 창 모드 포함)으로 재생하는 동안 배경화면을 자동으로 일시중지하거나 완전히 중지하도록 선택하여 게임을 하거나 작업하는 동안 사용자를 방해하지 않도록 할 수 있습니다. 품질 및 성능을 수정하는 다양한 옵션을 통해 Wallpaper Engine이 사용자의 컴퓨터에 완벽하게 맞도록 설정할 수 있습니다. 경험상, 3D, 2D 및 비디오 기반 배경화면은 최상으로 작동하는 반면 웹 사이트 및 응용 프로그램의 경우 시스템 리소스가 더 많이 필요합니다. 전용 GPU 사용을 적극 권장하지만 필수는 아닙니다.
+[h2][/h2]
+[img]{STEAM_APP_IMAGE}/extras/title_workshop.png[/img]
+[h2][/h2]
+매일 새 배경화면이 업로드되는 Steam 창작마당의 백만 개가 넘는 무료 배경화면 중에서 선택하세요! 자신의 분위기에 맞는 배경화면을 찾을 수 없나요? 그러면 Wallpaper Engine 편집기를 사용하여 상상의 나래를 펼치면서 이미지, 비디오, 웹 사이트 또는 응용 프로그램으로 자신만의 움직이는 배경화면을 만들어보세요. 다양한 종류의 사전 설정과 효과를 통해 자신만의 이미지를 애니메이션으로 만들고 Steam 창작마당에서 이를 공유하거나 그냥 본인이 사용할 수도 있습니다."
 "description_image_features","기능"
 "description_image_performance","성능"
 "screenshot_text_customization","배경화면 사용자 정의"
@@ -8,6 +40,6 @@
 "screenshot_text_images","자체 이미지로 애니메이션 만들기"
 "screenshot_text_tools","애니메이션 생성을 위한 다양한 도구"
 "screenshot_text_presets","사전 설정 효과 빠르게 추가"
-"screenshot_text_effects",""
-"additional_notes_recommended",""
-"ssa_addendum",""
+"screenshot_text_effects","자신만의 복합 효과 만들기"
+"additional_notes_recommended","모바일 앱은 Android 8.1 또는 이후 버전이 필요합니다"
+"ssa_addendum","Steam 이용 약관에 명시된 규정에 더해, 귀하는 귀하의 Steam 창작마당 콘텐츠의 구독자들이 귀하의 콘텐츠를 호환되는 모바일 기기로 내보내기 및 이전할 수 있음에 동의하게 됩니다. 귀하의 Steam 창작마당 게시물을 구독한 최종 사용자는 자신의 모바일 기기에서 귀하가 게시한 콘텐츠를 배경화면을 표시하는 목적으로 사용할 수 있습니다. 귀하의 창작마당 게시물은 각 최종 사용자의 시스템에서 서술한 모바일 기기와의 기술적 호환성을 위해 변경되고 최적화될 수 있습니다."
