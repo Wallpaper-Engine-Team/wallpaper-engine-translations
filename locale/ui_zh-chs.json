@@ -913,6 +913,7 @@
 	"ui_editor_review_info_header": "审核过程",
 	"ui_editor_review_info_body": "您的壁纸将在其他用户找到并下载之前进行审查，以确保不会违反任何当地法律。<br/><br/>如果您更新了壁纸，则必须对此再次进行审查。",
 	"ui_editor_workshop_eula_title": "创意工坊最终用户许可协议已更改",
+	"ui_editor_workshop_eula_body": "请先查看并接受最新的 [[[Platform]]] 创意工坊订户协议，然后才能继续上传壁纸：",
 	"ui_editor_workshop_eula_button": "在 Steam 上显示最终用户许可协议",
 	"ui_editor_workshop_eula_waiting_hint": "正在等待最终用户许可协议被接受",
 	"ui_editor_modal_unsaved_changes_header": "未保存的修改",
