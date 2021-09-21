@@ -913,6 +913,7 @@
 	"ui_editor_review_info_header": "レビュープロセス",
 	"ui_editor_review_info_body": "あなたの壁紙は他のユーザーが使用する前に法などに違反していないか審査します。</b></b>もしも、変更などを加えた場合は、再び審査する必要があります。",
 	"ui_editor_workshop_eula_title": "ワークショップに関するエンドユーザー使用許諾契約が更新されました",
+	"ui_editor_workshop_eula_body": "壁紙のアップロードを実行する前に、[[[Platform]]]のワークショップに関する最新の利用規約を読んだ上で同意してください。",
 	"ui_editor_workshop_eula_button": "Steamのエンドユーザー使用許諾契約を表示",
 	"ui_editor_workshop_eula_waiting_hint": "エンドユーザー使用許諾契約の同意待ち",
 	"ui_editor_modal_unsaved_changes_header": "未保存の変更",
