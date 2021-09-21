@@ -913,6 +913,7 @@
 	"ui_editor_review_info_header": "Processo di revisione",
 	"ui_editor_review_info_body": "Il tuo sfondo verrà revisionato prima che gli altri utenti possano trovarlo e usarlo per assicurarci che non violi le leggi locali.<br/><br/>Se aggiorni il tuo sfondo, dovrà essere revisionato nuovamente e verrà rimesso infondo alla coda.",
 	"ui_editor_workshop_eula_title": "EULA di Workshop modificato",
+	"ui_editor_workshop_eula_body": "Prima di continuare con il processo di caricamento del tuo sfondo, devi leggere e accettare il contratto di sottoscrizione a Workshop per [[[Platform]]]:",
 	"ui_editor_workshop_eula_button": "Mostra EULA su Steam",
 	"ui_editor_workshop_eula_waiting_hint": "In attesa dell'accettazione dell'EULA",
 	"ui_editor_modal_unsaved_changes_header": "Modifiche non salvate",
