@@ -470,6 +470,7 @@
 	"ui_browse_report_modal_genre_current": "Aliran saat ini",
 	"ui_browse_report_modal_genre_label": "Saran aliran baru",
 	"ui_browse_report_modal_category_rating": "Konten vulgar atau kekerasan",
+	"ui_browse_report_modal_category_rating_description": "Anda melaporkan wallpaper ini karena menggunakan klasifikasi usia yang tidak sesuai dan melanggar aturan ketelanjangan dan kekerasan. Jika wallpaper tersebut tidak dapat ditandai sebagai 'ketelanjangan sebagian' atau 'dewasa', silakan pilih opsi 'DILARANG', yang akan mengakibatkan wallpaper tersebut dihapus.",
 	"ui_browse_report_modal_rating_current": "Klasifikasi usia saat ini",
 	"ui_browse_report_modal_rating_label": "Saran klasifikasi usia baru",
 	"ui_browse_report_modal_category_copyright": "Pelanggaran hak cipta",
