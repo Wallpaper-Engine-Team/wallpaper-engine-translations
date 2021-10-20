@@ -819,7 +819,7 @@
 	"ui_welcome_autostart_label": "Otomatik başlat",
 	"ui_welcome_finish_body": "Her şey ayarlandı!<br/><br/>Wallpaper Engine artık sistem tepsinizde kullanılabilir. Bir duvar kağıdı seçmek için <b>çift tıklayın</b> veya ayarlara, [[[Platform]]] Atölye veya Duvar Kağıdı Düzenleyicisine erişmek için <b>sağ tıklayın</b>.",
 	"ui_welcome_browse_wallpapers_now": "Şimdi duvar kağıtlarına gözat",
-	"ui_welcome_button_first_page": "Haydi başlayalım",
+	"ui_welcome_button_first_page": "Başlayalım",
 	"ui_welcome_button_next_page": "Sonraki",
 	"ui_welcome_button_last_page": "Tümü tamamlandı",
 	"ui_welcome_use_led_effects_description": "Bu seçeneği etkinleştirmek, duvar kağıtlarının renklerini, Razer Chroma ve Corsair iCUE cihazlarıyla eşitleyecek.",
