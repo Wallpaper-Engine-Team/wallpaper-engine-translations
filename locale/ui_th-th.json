@@ -960,7 +960,6 @@
 	"ui_editor_welcome_modal_resize_toggle_label": "ปรับขนาดรูปภาพ",
 	"ui_editor_welcome_modal_resize_resolution_label": "ปรับขนาดความละเอียด",
 	"ui_editor_welcome_modal_resize_alert": "รูปภาพของคุณมีความละเอียด {{width}} x {{height}} พิกเซลซึ่งไม่ใช่ความละเอียดหน้าจอในการแสดงผลทั่วไป ขอแนะนำให้คุณอนุญาตให้ Wallpaper Engine ปรับขนาดรูปภาพให้คุณ",
-	"ui_editor_welcome_modal_resize_alert_portrait": "รูปภาพของคุณเป็นภาพแนวตั้งที่มีความละเอียด {{width}} x {{height}} พิกเซล หากคุณไม่มีจอภาพแนวตั้ง ภาพจำนวนมากจะถูกซ่อน",
 	"ui_editor_welcome_modal_resize_recommended": "(แนะนำ)",
 	"ui_editor_importer_title": "นำเข้า {{type}} {{file}}",
 	"ui_editor_importer_type_image": "รูปภาพ",
