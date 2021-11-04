@@ -960,7 +960,6 @@
 	"ui_editor_welcome_modal_resize_toggle_label": "Ubah gambar",
 	"ui_editor_welcome_modal_resize_resolution_label": "Ubah resolusi",
 	"ui_editor_welcome_modal_resize_alert": "Gambar Anda beresolusi {{width}} x {{height}} pixel dimana resolusi tersebut bukanlah resolusi layar umum. Dianjurkan untuk membiarkan Wallpaper Engine mengubah ukuran gambarnya untuk Anda.",
-	"ui_editor_welcome_modal_resize_alert_portrait": "Gambar Anda adalah gambar portrait bertegak lurus dengan resolusi {{width}} x {{height}} pixel. Kecuali kalau Anda mempunyai layar monitor dalam posisi portrait, kebanyakan gambar akan terpotong.",
 	"ui_editor_welcome_modal_resize_recommended": "(Rekomendasi)",
 	"ui_editor_importer_title": "Impor {{type}}: {{file}}",
 	"ui_editor_importer_type_image": "Gambar",
