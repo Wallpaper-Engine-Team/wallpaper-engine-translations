@@ -960,7 +960,6 @@
 	"ui_editor_welcome_modal_resize_toggle_label": "Cambiar tamaño de imagen",
 	"ui_editor_welcome_modal_resize_resolution_label": "Cambiar resolución",
 	"ui_editor_welcome_modal_resize_alert": "La imagen tiene una resolución de {{width}} x {{height}} píxeles, por lo que no es una resolución de pantalla común. Te recomendamos dejar que Wallpaper Engine cambie el tamaño de la imagen.",
-	"ui_editor_welcome_modal_resize_alert_portrait": "La imagen es vertical y tiene una resolución de {{width}} x {{height}} píxeles. Si no tienes un monitor vertical, se cortará la gran mayoría de la imagen.",
 	"ui_editor_welcome_modal_resize_recommended": "(Recomendada)",
 	"ui_editor_importer_title": "Importar {{type}}: {{file}}",
 	"ui_editor_importer_type_image": "Imagen",
