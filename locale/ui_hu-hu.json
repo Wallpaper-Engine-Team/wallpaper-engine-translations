@@ -886,7 +886,6 @@
 	"ui_editor_welcome_modal_resize_toggle_label": "Kép átméretezése",
 	"ui_editor_welcome_modal_resize_resolution_label": "Felbontás átméretezése",
 	"ui_editor_welcome_modal_resize_alert": "A kép felbontása {{width}} x {{height}} pixel, ami nem általános megjelenítési felbontás. Javasoljuk, hagyja hogy a Wallpaper Engine átméretezze a képet.",
-	"ui_editor_welcome_modal_resize_alert_portrait": "A kép egy függőleges álló kép, amelynek felbontása {{width}} x {{height}} pixel. Hacsak nincs portrémonitorja, a kép nagy része le lesz vágva.",
 	"ui_editor_welcome_modal_resize_recommended": "(Ajánlott)",
 	"ui_editor_importer_title": "{{file}} {{type}} Importálása",
 	"ui_editor_importer_type_image": "Kép",
