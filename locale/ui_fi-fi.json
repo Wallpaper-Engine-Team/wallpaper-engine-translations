@@ -960,7 +960,6 @@
 	"ui_editor_welcome_modal_resize_toggle_label": "Muuta kuvan kokoa",
 	"ui_editor_welcome_modal_resize_resolution_label": "Muuta resoluutiota",
 	"ui_editor_welcome_modal_resize_alert": "Kuvasi resoluutio on {{width}} x {{height}} pikseliä, joka ei ole yleinen näyttöresoluutio. Suosittelemme, että annat Wallpaper Enginen muuttaa kuvan kokoa.",
-	"ui_editor_welcome_modal_resize_alert_portrait": "Kuvasi on pystysuuntainen kuva, jonka resoluutio {{width}} x {{height}} pikseliä. Iso osa kuvasta leikkautuu pois, ellei sinulla ole pystysuuntaista monitoria.",
 	"ui_editor_welcome_modal_resize_recommended": "(Suositeltu)",
 	"ui_editor_importer_title": "Tuo {{type}} {{file}}",
 	"ui_editor_importer_type_image": "Kuva",
