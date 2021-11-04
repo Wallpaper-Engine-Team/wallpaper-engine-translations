@@ -960,7 +960,6 @@
 	"ui_editor_welcome_modal_resize_toggle_label": "تغییر اندازه تصویر",
 	"ui_editor_welcome_modal_resize_resolution_label": "تغییر اندازه وضوح",
 	"ui_editor_welcome_modal_resize_alert": "وضوح تصویر شما {{width}} x {{height}} پیکسل است که وضوح نمایش معمول نیست. توصیه می شود اجازه دهید برنامه تصویر را برای شما تغییر اندازه دهد.",
-	"ui_editor_welcome_modal_resize_alert_portrait": "تصویر شما یک عکس عمودی با وضوح {{width}} x {{height}} پیکسل است. تا زمانی که مانیتور عمودی نداشته باشید، بسیاری از تصویر قطع می شود.",
 	"ui_editor_welcome_modal_resize_recommended": "(توصیه شده)",
 	"ui_editor_importer_title": "وارد کردن {{type}} {{file}}",
 	"ui_editor_importer_type_image": "عکس",
