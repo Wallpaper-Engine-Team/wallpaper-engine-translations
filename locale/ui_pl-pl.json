@@ -960,7 +960,6 @@
 	"ui_editor_welcome_modal_resize_toggle_label": "Zmień rozmiar obrazu",
 	"ui_editor_welcome_modal_resize_resolution_label": "Zmień rozdzielczość",
 	"ui_editor_welcome_modal_resize_alert": "Rozdzielczość Twojego obrazu to {{width}} x {{height}} pikseli, co nie jest standardową wartością. Zalecamy zezwolenie programowi Wallpaper Engine na zmianę rozmiaru tego obrazu.",
-	"ui_editor_welcome_modal_resize_alert_portrait": "Twój obraz ma orientację pionową oraz rozdzielczość {{width}} x {{height}} pikseli. Jeśli nie posiadasz monitora pionowego, znaczna część obrazu będzie niewidoczna.",
 	"ui_editor_welcome_modal_resize_recommended": "(Zalecane)",
 	"ui_editor_importer_title": "Zaimportuj {{type}}: {{file}}",
 	"ui_editor_importer_type_image": "Obraz",
