@@ -960,7 +960,6 @@
 	"ui_editor_welcome_modal_resize_toggle_label": "Skift billedstørrelse",
 	"ui_editor_welcome_modal_resize_resolution_label": "Skift opløsning",
 	"ui_editor_welcome_modal_resize_alert": "Dit billede har en opløsning på {{width}} x {{height}} pixels, hvilket ikke er en normal skærmopløsning. Det anbefales at give Wallpaper Engine mulighed for at ændre billedstørrelsen.",
-	"ui_editor_welcome_modal_resize_alert_portrait": "Dit billede er i portrættilstand med en opløsning på {{width}} x {{height}} pixels. Medmindre du har en opretstående skærm, vil en stor del af billedet blive beskåret.",
 	"ui_editor_welcome_modal_resize_recommended": "(anbefalet)",
 	"ui_editor_importer_title": "Importér {{type}} {{file}}",
 	"ui_editor_importer_type_image": "Billede",
