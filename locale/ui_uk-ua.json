@@ -960,7 +960,6 @@
 	"ui_editor_welcome_modal_resize_toggle_label": "Змінити розмір зображення",
 	"ui_editor_welcome_modal_resize_resolution_label": "Змінити розмір розширення",
 	"ui_editor_welcome_modal_resize_alert": "Ваше зображення має розширення {{width}} х {{height}} пікселів, що не є стандартним розширенням екрану. Рекомендується дати Wallpaper Engine змінити розмір зображення для вас.",
-	"ui_editor_welcome_modal_resize_alert_portrait": "Ваше зображення є вертикальним портретним зображенням з розширенням {{width}} х {{height}} пікселів. Якщо у вас не портретний монітор, велика його частина буде обрізана.",
 	"ui_editor_welcome_modal_resize_recommended": "(Рекомендовано)",
 	"ui_editor_importer_title": "Імпорт: {{type}} {{file}}",
 	"ui_editor_importer_type_image": "Зображення",
