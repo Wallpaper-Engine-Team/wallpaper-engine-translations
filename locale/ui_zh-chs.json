@@ -960,7 +960,6 @@
 	"ui_editor_welcome_modal_resize_toggle_label": "调整图像大小",
 	"ui_editor_welcome_modal_resize_resolution_label": "调整分辨率大小",
 	"ui_editor_welcome_modal_resize_alert": "您图像的分辨率为 {{width}} x {{height}} 像素，这并非常见的显示器分辨率。建议让 Wallpaper Engine 为您调整图像大小。",
-	"ui_editor_welcome_modal_resize_alert_portrait": "您的图像为垂直纵向图像，分辨率为 {{width}} x {{height}} 像素。除非您有纵向监视器，否则该图像的许多部分会被剪切掉。",
 	"ui_editor_welcome_modal_resize_recommended": "（建议）",
 	"ui_editor_importer_title": "导入 {{type}} {{file}}",
 	"ui_editor_importer_type_image": "图像",
