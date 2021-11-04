@@ -912,7 +912,6 @@
 	"ui_editor_welcome_modal_resize_toggle_label": "Změnit velikost obrázku",
 	"ui_editor_welcome_modal_resize_resolution_label": "Změnit rozlišení",
 	"ui_editor_welcome_modal_resize_alert": "Tvůj obrázek má rozlišení {{width}} x {{height}} pixelů což není obvyklé rozlišení monitoru. Je doporučené nechat Wallpaper Engine změnit velikost tvého obrázku.",
-	"ui_editor_welcome_modal_resize_alert_portrait": "Váš obrázek je svislý portrét s rozlišením {{width}} x {{height}} pixelů. Pokud nemáte monitor na výšku, bude většina obrazu oříznuta.",
 	"ui_editor_welcome_modal_resize_recommended": "(Doporučené)",
 	"ui_editor_importer_title": "Importovat {{type}} {{file}}",
 	"ui_editor_importer_type_image": "Obrázek",
