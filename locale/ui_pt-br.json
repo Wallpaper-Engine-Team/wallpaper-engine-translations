@@ -960,7 +960,6 @@
 	"ui_editor_welcome_modal_resize_toggle_label": "Redimensionar imagem",
 	"ui_editor_welcome_modal_resize_resolution_label": "Redimensionar resolução",
 	"ui_editor_welcome_modal_resize_alert": "Sua imagem possui uma resolução de {{width}} x {{height}} píxeis, o que não é uma resolução de exibição comum. É recomendado que você permita o Wallpaper Engine redimensioná-la para você.",
-	"ui_editor_welcome_modal_resize_alert_portrait": "Sua imagem é uma imagem de retrato vertical com uma resolução de {{width}} x {{height}} píxeis. A menos que você tenha um monitor em posição de retrato, boa parte da imagem ficará oculta.",
 	"ui_editor_welcome_modal_resize_recommended": "(Recomendado)",
 	"ui_editor_importer_title": "Importar {{file}} {{type}}",
 	"ui_editor_importer_type_image": "Imagem",
