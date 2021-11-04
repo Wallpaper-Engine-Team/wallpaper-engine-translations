@@ -960,7 +960,6 @@
 	"ui_editor_welcome_modal_resize_toggle_label": "Ridimensiona immagine",
 	"ui_editor_welcome_modal_resize_resolution_label": "Ridimensiona risoluzione",
 	"ui_editor_welcome_modal_resize_alert": "La risoluzione della tua immagine è {{width}} x {{height}} pixel. Si tratta di un formato non comune per uno schermo, pertanto consigliamo di lasciare che sia Wallpaper Engine a ridimensionarla.",
-	"ui_editor_welcome_modal_resize_alert_portrait": "La tua immagine è in posizione verticale e presenta una risoluzione di {{width}} x {{height}} pixel. A meno che tu non possieda uno schermo verticale, una grossa porzione dello sfondo risulterà tagliata.",
 	"ui_editor_welcome_modal_resize_recommended": "(Consigliato)",
 	"ui_editor_importer_title": "Importa {{type}} {{file}}",
 	"ui_editor_importer_type_image": "Immagine",
