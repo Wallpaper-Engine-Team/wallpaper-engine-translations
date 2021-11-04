@@ -960,7 +960,6 @@
 	"ui_editor_welcome_modal_resize_toggle_label": "Ändra storleken på bilden",
 	"ui_editor_welcome_modal_resize_resolution_label": "Ändra storleken på upplösningen",
 	"ui_editor_welcome_modal_resize_alert": "Din bild har en upplösning på {{width}} x {{height}} bildpunkter som inte är en vanlig skärmupplösning. Du rekommenderas att låta Wallpaper Engine ändra storleken på bilden åt dig.",
-	"ui_editor_welcome_modal_resize_alert_portrait": "Din bild är en stående porträttbild med en upplösning på {{width}} x {{height}} bildpunkter. Om du inte har en porträttskärm kommer mycket av bilden att klippas bort.",
 	"ui_editor_welcome_modal_resize_recommended": "(rekommenderas)",
 	"ui_editor_importer_title": "Importera {{type}} {{file}}",
 	"ui_editor_importer_type_image": "Bild",
