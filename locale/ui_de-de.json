@@ -960,7 +960,6 @@
 	"ui_editor_welcome_modal_resize_toggle_label": "Bildgröße anpassen",
 	"ui_editor_welcome_modal_resize_resolution_label": "Angepasste Auflösung",
 	"ui_editor_welcome_modal_resize_alert": "Dein Bild hat eine Auflösung von {{width}} x {{height}} Pixeln, was keiner gewöhnlichen Auflösung von Computer-Monitoren entspricht. Wir empfehlen, dass du Wallpaper Engine die Bildgröße für dich anpassen lässt.",
-	"ui_editor_welcome_modal_resize_alert_portrait": "Dein Bild ist ein Portraitbild im Hochkantformat mit einer Auflösung von {{width}} x {{height}} Pixeln. Wenn du keinen Bildschirm im Hochkantformat hast, wird ein Großteil des Bildes abgeschnitten.",
 	"ui_editor_welcome_modal_resize_recommended": "(Empfohlen)",
 	"ui_editor_importer_title": "{{type}} importieren: {{file}}",
 	"ui_editor_importer_type_image": "Bild",
