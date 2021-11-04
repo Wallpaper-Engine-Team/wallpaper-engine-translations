@@ -15,7 +15,7 @@
 	"core_tray_recent_wallpapers_clear": "Limpar lista",
 	"core_tray_next_wallpaper": "Próximo Papel de Parede",
 	"core_tray_mute": "Silenciar",
-	"core_tray_unmute": "Ouvir",
+	"core_tray_unmute": "Remover silêncio",
 	"core_tray_playlist_prefix": "Lista de reprodução:",
 	"core_balloon_info": "Wallpaper Engine minimizado para a área de notificação. Dê um duplo clique no ícone da bandeja para selecionar um papel de parede.",
 	"core_balloon_desktop_window_error": "Falha ao preparar a área de trabalho para papel de parede animado.",
