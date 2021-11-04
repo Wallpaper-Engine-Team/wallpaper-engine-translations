@@ -960,7 +960,6 @@
 	"ui_editor_welcome_modal_resize_toggle_label": "調整圖像大小",
 	"ui_editor_welcome_modal_resize_resolution_label": "調整解析度大小",
 	"ui_editor_welcome_modal_resize_alert": "您的圖像解析度為 {{width}} x {{height}} 像素，並非常見的顯示器解析度。建議允許 Wallpaper Engine 為您調整圖像大小。",
-	"ui_editor_welcome_modal_resize_alert_portrait": "您的圖像為垂直直向，解析度為 {{width}} x {{height}} 像素。除非您有直向顯示器，否則該圖像許多部分將會裁切掉。",
 	"ui_editor_welcome_modal_resize_recommended": "(建議解析度)",
 	"ui_editor_importer_title": "匯入 {{type}} {{file}}",
 	"ui_editor_importer_type_image": "圖像",
