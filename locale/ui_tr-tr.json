@@ -960,7 +960,6 @@
 	"ui_editor_welcome_modal_resize_toggle_label": "Resmi yeniden boyutlandır",
 	"ui_editor_welcome_modal_resize_resolution_label": "Çözünürlüğü yeniden boyutlandır",
 	"ui_editor_welcome_modal_resize_alert": "Resminiz, yaygın bir ekran çözünürlüğü olamayan {{width}} x {{height}} piksel çözünürlüğe sahip. Wallpaper Engine'in resmi sizin için yeniden boyutlandırmasına izin vermeniz önerilir.",
-	"ui_editor_welcome_modal_resize_alert_portrait": "Resminiz, {{width}} x {{height}} piksel çözünürlüğe sahip dik duran bir dikey resimdir. Dikey bir monitörünüz olmadıkça, resmin büyük bir kısmı kesilecektir.",
 	"ui_editor_welcome_modal_resize_recommended": "(Önerilen)",
 	"ui_editor_importer_title": "{{type}} {{file}} İçe Aktar",
 	"ui_editor_importer_type_image": "Resim",
