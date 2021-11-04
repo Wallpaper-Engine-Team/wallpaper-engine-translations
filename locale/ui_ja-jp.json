@@ -960,7 +960,6 @@
 	"ui_editor_welcome_modal_resize_toggle_label": "画像サイズ変更",
 	"ui_editor_welcome_modal_resize_resolution_label": "解像度変更",
 	"ui_editor_welcome_modal_resize_alert": "この画像の解像度は{{width}} x {{height}}ピクセルですが、これは一般的なディスプレイの解像度ではありません。Wallpaper Engineに解像度の変更を行わせることをお勧めします。",
-	"ui_editor_welcome_modal_resize_alert_portrait": "この画像は解像度が{{width}} x {{height}}ピクセルの縦長です。縦置きのモニターを使用されない限り、画像の大部分は表示されなくなります。",
 	"ui_editor_welcome_modal_resize_recommended": "(推奨)",
 	"ui_editor_importer_title": "{{type}} {{file}} をインポート",
 	"ui_editor_importer_type_image": "イメージ",
