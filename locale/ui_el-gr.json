@@ -838,7 +838,6 @@
 	"ui_editor_script_snippet_click_play_sound": "Ήχος κλικ",
 	"ui_editor_script_snippet_cursor_follow": "Ακολούθηση δρομέα",
 	"ui_editor_script_snippet_cursor_avoid": "Αποφυγή δρομέα",
-	"ui_editor_script_snippet_audio_scale": "Κλίμακα ήχου",
 	"ui_editor_script_snippet_audio_factor": "Παράγοντας ήχου",
 	"ui_editor_properties_accumulation_rate": "Βαθμός συσσώρευσης",
 	"ui_editor_properties_additive": "Πρόσθετη",

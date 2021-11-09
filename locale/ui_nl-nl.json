@@ -18,7 +18,6 @@
 	"ui_resolution_ultrawide": "Ultra Widescreen",
 	"ui_resolution_dual": "Dubbele monitor",
 	"ui_resolution_triple": "Driedubbele monitor",
-	"ui_resolution_portrait": "Portret",
 	"ui_modal_updaterequired_title": "Wallpaper Engine moeten worden bijgewerkt",
 	"ui_modal_updaterequired_body": "Sluit alstublieft Wallpaper Engine af (rechtermuisknop op het bakje en klik sluiten) en herstart het via [[[Platform]]] om de laatste updates te ontvangen. Indien je nog steeds deze waaschuwing krijgt, verifiër de applicatie bestanden via [[[Platform]]].<br/><br/>Applicatie versie: <b>{{callerVersion}}</b>, UI versie: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title": "Nieuwe versie beschikbaar",

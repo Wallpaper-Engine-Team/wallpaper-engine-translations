@@ -58,6 +58,7 @@
 	"core_updater_status_distro_file_copy": "Đang sao chép tệp: {{filepath}}",
 	"core_updater_status_distro_file_skip": "Bỏ qua tập tin giống nhau: {{filepath}}",
 	"core_updater_status_distro_file_copy_error": "Sao chép tệp thất bại: {{error}}",
+	"core_updater_status_distro_file_delete_error": "Xoá tệp thất bại: {{error}}",
 	"core_updater_status_verify": "Đang xác minh cài đặt...",
 	"core_updater_status_verify_file_missing": "Thiếu tệp tin: {{filepath}}",
 	"core_updater_status_verify_file_cannot_open": "Không thể mở tệp: {{filepath}}",

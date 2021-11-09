@@ -1034,7 +1034,6 @@
 	"ui_editor_script_snippet_click_play_sound": "Klikni Predvajaj zvok",
 	"ui_editor_script_snippet_cursor_follow": "Sledi kazalcu",
 	"ui_editor_script_snippet_cursor_avoid": "Izogibaj se kazalca",
-	"ui_editor_script_snippet_audio_scale": "Obseg zvoka",
 	"ui_editor_script_snippet_audio_factor": "Faktor zvoka",
 	"ui_editor_script_insert_property_slider": "Drsnik",
 	"ui_editor_script_insert_property_checkbox": "Potrdilo",
