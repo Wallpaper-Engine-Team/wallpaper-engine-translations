@@ -1,5 +1,12 @@
-"dlc_title",""
+"dlc_title","Wallpaper Engine - 编辑器扩展"
 "dlc_system_os,Windows 10 and Windows 11 - 64-Bit"""
-"dlc_system_additional",""
-"dlc_description",""
-"dlc_short_descriptions",""
+"dlc_system_additional","支持CUDA 11.3"
+"dlc_description","免费的Wallpaper Engine编辑器扩展 DLC 为该编辑器添加了高级功能。 此附加组件需要大量磁盘空间，我们只建议为想要在编辑器中使用这些高级功能来创建新墙纸的用户安装编辑器扩展。 所有订阅者都可以使用通过此附加组件创建的壁纸，而无需安装编辑器扩展。
+
+[b]如果您不确定您是否要使用它，请不要安装此扩展。 如果您尝试使用任何需要它的功能，Wallpaper Engine 编辑器将推荐此扩展程序。[/b]
+
+
+[h2]包含的功能[/h2]
+[list][*]使用机器学习从单个图像生成深度图。
+[/list]"
+"dlc_short_descriptions","免费的Wallpaper Engine编辑器扩展 DLC 为该编辑器添加了高级功能。"
