@@ -18,6 +18,7 @@
 	"ui_browse_filter_resolution": "Độ phần giải",
 	"ui_browse_filter_tags": "Tags",
 	"ui_browse_grid_no_results": "Không có kết quả phụ hợp với tìm kiếm của bạn",
+	"ui_browse_grid_no_results_generic": "Không có kết quả phụ hợp với tìm kiếm của bạn.<br/>Mở rộng hoặc đặt lại các danh mục trong thanh bên bộ lọc hoặc thử một cụm từ tìm kiếm khác.",
 	"ui_browse_status_error": "Lỗi...",
 	"ui_browse_select_prompt": "Vui lòng chọn hình nền",
 	"ui_browse_steam_status_unavailable": "[[[Platform]]] không phản hồi",
