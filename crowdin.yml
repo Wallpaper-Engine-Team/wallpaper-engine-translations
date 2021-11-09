@@ -10,3 +10,6 @@ files:
   - source: /locale_store/store_en-us.csv
     translation: /locale_store/store_%locale_with_underscore%.csv
     scheme: 'identifier,source_or_translation'
+  - source: /locale_store/dlc_en-us.csv
+    translation: /locale_store/dlc_%locale_with_underscore%.csv
+    scheme: 'identifier,source_or_translation'
