@@ -1576,6 +1576,7 @@
 	"ui_editor_effect_iris_title": "Gerakan Mata",
 	"ui_editor_effect_iris_description": "Menganimasikan mata karakter untuk melihat sekelilingnya secara realistis.",
 	"ui_editor_effect_depth_parallax_title": "Kedalaman Paralaks",
+	"ui_editor_effect_depth_parallax_description": "Efek ini membutuhkan <b>opsi paralaks</b> di <b>pengaturan penyunting adegan</b> aktif!<br/><br/>Menerapkan pemindahan (displacement) paralaks gambar berdasarkan kedalaman map yang dapat Anda ciptakan otomatis, gambarkan, atau imporkan.",
 	"ui_editor_preset_variant_small": "Kecil",
 	"ui_editor_preset_variant_large": "Besar",
 	"ui_editor_preset_foliage_title": "Dedaunan",
