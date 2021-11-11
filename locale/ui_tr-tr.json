@@ -937,6 +937,7 @@
 	"ui_editor_modal_delete_published_wallpapers_confirm_header": "{{title}} Öğesini Kalıcı Olarak Sil",
 	"ui_editor_modal_delete_published_wallpapers_confirm_body": "{{title}} öğesini [[[Platform]]] Atölye'den kalıcı olarak silmek istediğinize emin misiniz?<br/><br/>Atölye yüklemesi [[[Platform]]] Atölye'den ve buna abone olan her kullanıcıdan kalıcı olarak silinecektir.",
 	"ui_editor_modal_dlc_prompt_title": "Ücretsiz DLC Gerekli",
+	"ui_editor_modal_dlc_prompt_message_offline": "Bu gelişmiş işlevsellik, {{size}} disk alanı gerektiren ücretsiz <b>{{name}}</b> DLC'sinin bir parçasıdır.<br/><br/>Lütfen [[[Platform]]]'i başlatın ve indirmek için Wallpaper Engine'i yeniden başlatın.",
 	"ui_editor_modal_dlc_prompt_message_ask_download": "Bu gelişmiş işlevsellik, {{size}} disk alanı gerektiren ücretsiz <b>{{name}}</b> DLC'sinin bir parçasıdır.<br/><br/>[[[Platform]]]'in bunu şimdi indirmesi gerekli mi?",
 	"ui_editor_modal_dlc_prompt_message_ask_manual": "Bu gelişmiş işlevsellik, ücretsiz <b>{{name}}</b> DLC'sinin bir parçasıdır, kullanmak için lütfen bunu [[[Platform]]]] aracılığıyla indirin.",
 	"ui_editor_modal_dlc_prompt_message_progress": "Lütfen <b>{{name}}</b> DLC'sinin indirilmesini bekleyin.",
