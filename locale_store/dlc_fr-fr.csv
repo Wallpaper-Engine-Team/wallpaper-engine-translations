@@ -1,5 +1,12 @@
-"dlc_title",""
+"dlc_title","Wallpaper Engine - Extensions Éditeur"
 "dlc_system_os,Windows 10 and Windows 11 - 64-Bit"""
-"dlc_system_additional",""
-"dlc_description",""
-"dlc_short_descriptions",""
+"dlc_system_additional","Prise en charge pour CUDA 11.3 recommandée"
+"dlc_description","Le DLC gratuit Extensions Éditeur pour Wallpaper Engine ajoute des fonctions avancées à l'éditeur de fonds d'écran. Cet add-on nécessite un espace disque important et nous ne recommandons l'installation des extensions de l'éditeur qu'aux utilisateurs qui souhaitent utiliser eux-mêmes ces fonctions avancées dans l'éditeur pour créer de nouveaux fonds d'écran. Tous les abonnés peuvent utiliser les fonds d'écran créés avec cet add-on sans avoir besoin d'installer les extensions de l'éditeur.
+
+[b]Si vous n'êtes pas sûr, n'installez pas cette extension. L'éditeur de Wallpaper Engine recommandera cette extension si vous essayez d'utiliser une fonction qui le requiert.[/b]
+
+
+[h2]Caractéristiques incluses[/h2]
+[list][*]Génération de cartes de profondeur à partir d'une seule image en utilisant l'apprentissage automatique.
+[/list]"
+"dlc_short_descriptions","Le DLC gratuit Extensions Éditeur pour Wallpaper Engine ajoute des fonctions avancées à l'éditeur de fonds d'écran."
