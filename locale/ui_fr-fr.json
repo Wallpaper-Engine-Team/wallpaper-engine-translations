@@ -1197,6 +1197,7 @@
 	"ui_editor_bone_constraints_preset_bouncy_rotation": "Rotation de rebondissement",
 	"ui_editor_bone_constraints_preset_drag_position": "Emplacement de glissement",
 	"ui_editor_bone_constraints_preset_drag_rotation": "Rotation de glissement",
+	"ui_editor_bone_constraints_preset_gravity_position": "Emplacement gravitationnel",
 	"ui_editor_bone_constraints_preset_gravity_rotation": "Rotation gravitationnelle",
 	"ui_editor_bone_constraints_reset": "Réinitialiser",
 	"ui_editor_bone_constraints_responsiveness": "Réactivité",
