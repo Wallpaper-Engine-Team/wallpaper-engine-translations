@@ -324,6 +324,7 @@
 	"ui_browse_playlist_modal_settings_timing_on_timer": "In zeitliche Abfolge",
 	"ui_browse_playlist_modal_settings_timing_on_logon": "Beim Anmelden",
 	"ui_browse_playlist_modal_settings_timing_daytime": "Nach Uhrzeit",
+	"ui_browse_playlist_modal_settings_timing_dayofweek": "Wochentag",
 	"ui_browse_playlist_modal_settings_timing_never": "Niemals",
 	"ui_browse_playlist_modal_settings_timing_hours": "Stunden",
 	"ui_browse_playlist_modal_settings_timing_minutes": "Minuten",
