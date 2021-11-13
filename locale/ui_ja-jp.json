@@ -1180,7 +1180,7 @@
 	"ui_editor_bone_constraints_gravity_direction": "重力の方向",
 	"ui_editor_bone_constraints_gravity_enabled": "重力有効",
 	"ui_editor_bone_constraints_layout": "モード",
-	"ui_editor_bone_constraints_layout_advanced": "詳細",
+	"ui_editor_bone_constraints_layout_advanced": "上級",
 	"ui_editor_bone_constraints_layout_simple": "シンプル",
 	"ui_editor_bone_constraints_limit_rotation": "回転を制限",
 	"ui_editor_bone_constraints_limit_torque": "ねじれを制限",
