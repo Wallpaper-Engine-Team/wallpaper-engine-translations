@@ -1,5 +1,12 @@
-"dlc_title","Wallpaper Engine - 編輯器擴充功能"
+"dlc_title","Wallpaper Engine - 編輯器擴充程式"
 "dlc_system_os,Windows 10 and Windows 11 - 64-Bit"""
-"dlc_system_additional","推薦支援 CUDA 11.3"
-"dlc_description",""
+"dlc_system_additional","支援所建議的 CUDA 11.3"
+"dlc_description","免費的 Wallpaper Engine 編輯器擴充 DLC 為該編輯器新增了進階功能。 此外掛程式需要大量磁碟空間，我們僅建議想使用編輯器進階功能的使用者來安裝，以便建立新桌布。所有訂戶皆可使用由此編輯器擴充程式建立的桌布，無須另外安裝。
+
+[b]如果您有任何疑慮，請勿安裝此擴充程式。如果您想使用任何需要此擴充程式的功能，Wallpaper Engine 編輯器將主動提供建議。[/b]
+
+
+[h2]內含的功能[/h2]
+[list][*]利用機器學習從單一圖像生成深度圖。
+[/list]"
 "dlc_short_descriptions","免費的 Wallpaper Engine 編輯器擴充 DLC 為該編輯器新增了進階功能。"
