@@ -1,5 +1,12 @@
-"dlc_title",""
+"dlc_title","Wallpaper Engine - Editor Esteso"
 "dlc_system_os,Windows 10 and Windows 11 - 64-Bit"""
-"dlc_system_additional",""
-"dlc_description",""
-"dlc_short_descriptions",""
+"dlc_system_additional","Supporto per CUDA 11.3 consigliato"
+"dlc_description","Il DLC gratuito Wallpaper Engine Editor Esteso aggiunge funzionalità avanzate all'editor degli sfondi. Questo componente aggiuntivo richiede una notevole quantità di spazio sul disco rigido e ne consigliamo l'installazione solo agli utenti che desiderano fare uso di queste funzionalità avanzate per creare nuovi sfondi. Tutti i possessori di Wallpaper Engine possono usufruire degli sfondi creati con questo componente aggiuntivo senza dover installare l'editor esteso.
+
+[b]Se nutri dei dubbi in merito, non scaricare questa estensione. L'editor di Wallpaper Engine ti consiglierà il download se tenterai di utilizzare una funzionalità che ne richiede l'installazione.[/b]
+
+
+[h2]Funzionalità incluse[/h2]
+[list][*]Generazione mappa di profondità da una singola immagine utilizzando l'apprendimento automatico.
+[/list]"
+"dlc_short_descriptions","Il DLC gratuito Wallpaper Engine Editor Esteso aggiunge funzionalità avanzate all'editor degli sfondi."
