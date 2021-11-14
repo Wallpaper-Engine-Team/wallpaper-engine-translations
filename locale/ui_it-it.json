@@ -554,7 +554,7 @@
 	"ui_browse_mobile_upload_modal_texture_reduction_original": "Alta qualità - (Non ridurre la risoluzione delle texture)",
 	"ui_browse_mobile_upload_modal_texture_reduction_x2": "Prestazione migliore - (Riduci le texture a metà della loro risoluzione)",
 	"ui_browse_mobile_upload_modal_texture_reduction_x4": "Prestazioni elevate - (Riduce di 4 la risoluzione delle texture)",
-	"ui_browse_mobile_upload_modal_high_res_info": "Gli sfondi ad alta risoluzione potrebbero incidere sulle prestazioni del tuo dispositivo mobile. Prova a usare l'opzione di qualità <b>Bilanciato</b> o l'opzione di pre-reindirizzamento <b>Prestazioni elevate</b> se noti un calo delle prestazioni con questo sfondo.",
+	"ui_browse_mobile_upload_modal_high_res_info": "Gli sfondi ad alta risoluzione potrebbero incidere sulle prestazioni del tuo dispositivo mobile. Prova a usare l'opzione di qualità <b>Bilanciato</b> o l'opzione di pre-renderizzamento <b>Prestazioni elevate</b> se noti un calo delle prestazioni con questo sfondo.",
 	"ui_browse_mobile_upload_modal_pixel_art_info": "Sembra che tu stia caricando uno sfondo pixel art. Consigliamo di usare impostazioni di alta qualità per gli sfondi pixel art, ma se noti dei problemi di prestazione, prova ad abbassare la qualità.",
 	"ui_browse_mobile_upload_modal_video_info": "Pre-renderizzare gli sfondi con scena può migliorare drasticamente le prestazioni, ma elementi dinamici come orologi o il tocco interattivo non funzioneranno.",
 	"ui_browse_mobile_upload_modal_preset_quality": "Qualità sfondo",
