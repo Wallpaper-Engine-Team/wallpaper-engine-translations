@@ -952,7 +952,7 @@
 	"ui_editor_modal_dlc_prompt_message_ask_download": "Questa funzionalità avanzata è inclusa nel DLC gratuito <b>{{name}}</b>, che richiede uno spazio di {{size}} nel disco rigido.<br/><br/>Desideri che [[[Platform]]] avvii subito il download?",
 	"ui_editor_modal_dlc_prompt_message_ask_manual": "Questa funzionalità avanzata è inclusa nel DLC gratuito <b>{{name}}</b>: scaricalo tramite [[[Platform]]] per farne uso.",
 	"ui_editor_modal_dlc_prompt_message_progress": "Attendi che il DLC <b>{{name}}</b> abbia terminato il download.",
-	"ui_editor_modal_dlc_prompt_message_progress_info": "Hai scaricato {{sizeDownloaded}} su {{sizeTotal}}.",
+	"ui_editor_modal_dlc_prompt_message_progress_info": "{{sizeDownloaded}} di {{sizeTotal}} scaricati.",
 	"ui_editor_modal_dlc_prompt_cancel_download_title": "Annulla il download di {{name}}",
 	"ui_editor_modal_dlc_prompt_cancel_download_message": "Vuoi annullare il download del DLC <b>{{name}}</b>?",
 	"ui_dlc_editor_extensions_name": "Wallpaper Engine - Estensioni per l'editor",
