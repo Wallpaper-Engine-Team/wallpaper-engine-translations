@@ -735,6 +735,7 @@
 	"ui_settings_plugins_options_led_plugin_enable_video": "Görüntü efektlerini etkinleştir",
 	"ui_settings_plugins_options_led_plugin_enable_web": "Web efektlerini etkinleştir",
 	"ui_settings_plugins_options_led_plugin_max_brightness": "LED renklerini artır",
+	"ui_settings_plugins_options_led_plugin_reduce_fps": "LED güncelleme oranını azalt",
 	"ui_settings_plugins_options_led_plugin_source_monitor": "Kaynak monitör",
 	"ui_settings_plugins_options_led_plugin_source_monitor_option_default": "Varsayılan",
 	"ui_settings_plugins_wallpaper_led_plugin_enable_sdks": "LED efektlerini etkinleştir",
