@@ -732,6 +732,7 @@
 	"ui_settings_plugins_options_led_plugin_enable_video": "Aktivera videoeffekter",
 	"ui_settings_plugins_options_led_plugin_enable_web": "Aktivera webbeffekter",
 	"ui_settings_plugins_options_led_plugin_max_brightness": "Förstärk LED-färger",
+	"ui_settings_plugins_options_led_plugin_reduce_fps": "Reducera uppdateringsfrekvensen för LED",
 	"ui_settings_plugins_options_led_plugin_source_monitor": "Källskärm",
 	"ui_settings_plugins_options_led_plugin_source_monitor_option_default": "Standard",
 	"ui_settings_plugins_wallpaper_led_plugin_enable_sdks": "Aktivera LED-effekter",
