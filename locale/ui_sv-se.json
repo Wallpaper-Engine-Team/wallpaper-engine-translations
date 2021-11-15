@@ -1261,6 +1261,7 @@
 	"ui_editor_character_separation_invert": "Invertera",
 	"ui_editor_character_separation_exponent": "Exponent",
 	"ui_editor_character_separation_outline_compensation": "Konturkompensation",
+	"ui_editor_character_separation_outline_compensation_hint": "Ökar konturkompensationen en aning för att reducera förvrängning i hörnen på tecken och små objekt. Detta fungerar särskilt bra på handritat innehåll.",
 	"ui_editor_character_separation_auto_contrast": "Automatisk kontrast",
 	"ui_editor_character_separation_disabled_title": "Bildlagret har effekter",
 	"ui_editor_character_separation_disabled_body": "Denna funktionalitet är inte tillgänglig på bildlager med befintliga effekter.<br/><br/>Ta antingen bort alla bildeffekter från detta lager eller återimportera en kopia av denna bild med ett annat namn och försök sedan igen.",
