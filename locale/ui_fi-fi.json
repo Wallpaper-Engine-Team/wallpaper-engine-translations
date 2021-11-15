@@ -735,6 +735,7 @@
 	"ui_settings_plugins_options_led_plugin_enable_video": "Ota videotehosteet käyttöön",
 	"ui_settings_plugins_options_led_plugin_enable_web": "Ota verkkotehosteet käyttöön",
 	"ui_settings_plugins_options_led_plugin_max_brightness": "Tehosta LED-värejä",
+	"ui_settings_plugins_options_led_plugin_reduce_fps": "Pienennä LED:n päivitysnopeutta",
 	"ui_settings_plugins_options_led_plugin_source_monitor": "Lähdenäyttö",
 	"ui_settings_plugins_options_led_plugin_source_monitor_option_default": "Oletus",
 	"ui_settings_plugins_wallpaper_led_plugin_enable_sdks": "Ota LED-tehosteet käyttöön",
