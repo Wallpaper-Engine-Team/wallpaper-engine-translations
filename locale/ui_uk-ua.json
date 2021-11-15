@@ -416,6 +416,7 @@
 	"ui_browse_explore_category_seasonal_collection": "Рекомендовані <b>сезонні</b> {{emoji}} шпалери",
 	"ui_browse_explore_category_classics": "Вічна класика {{emoji}}",
 	"ui_browse_explore_category_led_support": "Чудово разом з Razer Chroma & Corsair iCUE {{emoji}}",
+	"ui_browse_explore_category_mobile": "Повинно бути на кожному телефоні {{emoji}}",
 	"ui_browse_explore_server_error": "Не вдалося з'єднатися з сервером Wallpaper Engine, аби отримати додаткові списки.",
 	"ui_browse_explore_create_query_modal_header_new": "Створити новий запит",
 	"ui_browse_explore_create_query_modal_header_edit": "Редагувати запит",
