@@ -1,5 +1,12 @@
 "dlc_title","Wallpaper Engine - Redigerartillägg"
 "dlc_system_os,Windows 10 and Windows 11 - 64-Bit"""
 "dlc_system_additional","Stöd för CUDA 11.3 rekommenderas"
-"dlc_description",""
-"dlc_short_descriptions",""
+"dlc_description","Det kostnadsfria DLC:et ""Redigeringstillägg"" för Wallpaper Engine lägger till avancerade funktioner i bakgrundsredigeraren. Detta tillägg kräver en avsevärd mängd diskutrymme och vi kan endast rekommendera att installera redigeringstilläggen till användare som vill använda dessa avancerade funktion i redigeraren för att skapa nya bakgrunder. Alla prenumeranter kan använda bakgrunder som skapas med detta tillägg utan att behöva installera redigeringstilläggen.
+
+[b]Om du är osäker bör du inte installera detta tillägg. Redigeraren i Wallpaper Engine kommer att rekommendera detta tillägg om du försöker använda några av funktionerna som kräver detta.[/b]
+
+
+[h2]Funktioner[/h2]
+[list][*]Generering av depth map från en enda bild med hjälp av maskininlärning.
+[/list]"
+"dlc_short_descriptions","Det kostnadsfria DLC:et ""Redigeringstillägg"" för Wallpaper Engine lägger till avancerade funktioner i bakgrundsredigeraren."
