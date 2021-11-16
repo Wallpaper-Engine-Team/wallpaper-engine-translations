@@ -223,6 +223,11 @@
 	"ui_browse_filter_source_official" : "Official",
 	"ui_browse_filter_source_workshop" : "Workshop",
 	"ui_browse_filter_source_my_wallpapers" : "My Wallpapers",
+	
+	"ui_browse_wallpaper_info_approved" : "Approved",
+	"ui_browse_wallpaper_info_favorite" : "Favorite",
+	"ui_browse_wallpaper_info_portrait" : "Portrait / Phone",
+	"ui_browse_wallpaper_info_installed" : "Installed",
 
 	"ui_browse_modal_application_warning_header" : "Opening Unknown Application",
 	"ui_browse_modal_application_warning_body" : "You are about to open an external application as a wallpaper: <br/><b>{{filepath}}</b><br/>Wallpaper Engine has no control over this file, you must ensure that it comes from a reliable source before proceeding.",
@@ -383,7 +388,7 @@
 	"ui_browse_list_source_explore" : "Discover",
 
 	"ui_browse_modal_no_steam_title" : "[[[Platform]]] Error",
-	"ui_browse_modal_no_steam_body" : "[[[Platform]]] connection could not be initialized. Please try restarting [[[Platform]]] and Wallpaper Engine.<br/><br/><b>This problem is frequently caused by outdated [[[Platform]]] installations. Please make sure your [[[Platform]]]] is up-to-date.</b><br/><br/>If you continue seeing this error, this means that your PC cannot correctly authenticate with the [[[Platform]]] servers, check your internet connection and whether you are logged into the correct [[[Platform]]] account.<br/><br/>An anti-virus or other types of security software could be preventing [[[Platform]]] and Wallpaper Engine from working together, try turning them off.<br/><br/>Check our support page for additional help: <a href='[[[var_url_faqsteam]]]'>Fix [[[Platform]]] Connection</a>",
+	"ui_browse_modal_no_steam_body" : "[[[Platform]]] connection could not be initialized. Please try restarting [[[Platform]]] and Wallpaper Engine.<br/><br/><b>This problem is frequently caused by outdated [[[Platform]]] installations. Please make sure your [[[Platform]]] is up-to-date.</b><br/><br/>If you continue seeing this error, this means that your PC cannot correctly authenticate with the [[[Platform]]] servers, check your internet connection and whether you are logged into the correct [[[Platform]]] account.<br/><br/>An anti-virus or other types of security software could be preventing [[[Platform]]] and Wallpaper Engine from working together, try turning them off.<br/><br/>Check our support page for additional help: <a href='[[[var_url_faqsteam]]]'>Fix [[[Platform]]] Connection</a>",
 	"ui_browse_modal_no_steam_body_wrong_provider" : "You are running the [[[Platform]]] Edition of Wallpaper Engine in combination with a different version of [[[Platform]]]. Please restart Wallpaper Engine through [[[Platform]]] in order to access the Workshop for your specific version of the app. Alternatively, you can also log in to the correct [[[Platform]]] version for this edition of Wallpaper Engine.",
 	"ui_browse_query_error" : "[[[Platform]]] encountered an error, try again later: {{error}}",
 	"ui_browse_modal_safe_mode_header" : "Safe Start",
@@ -1073,6 +1078,8 @@
 	"ui_editor_importer_compiling_file" : "Compiling file",
 	"ui_editor_importer_gif_warning_header" : "GIF Size Warning",
 	"ui_editor_importer_gif_warning_body" : "The GIF you are trying to import occupies a lot of memory when converted into a more usable format. Wallpaper Engine can try to convert it anyway, but the process might fail with an error.<br/><br/>The GIF format is generally unsuitable for high resolution images and/or a lot of frames, you should consider using an .mp4 video wallpaper because that would perform better.",
+	"ui_editor_importer_texture_format_r8" : "High Quality - Uncompressed Single Channel (R 8)",
+	"ui_editor_importer_texture_format_rg88" : "High Quality - Uncompressed Dual Channel (RG 88)",
 	"ui_editor_importer_texture_format_rgba8888" : "High Quality - Uncompressed (RGBA 8888)",
 	"ui_editor_importer_texture_format_dxt5" : "Good Performance - Minor Compression (DXT5)",
 	"ui_editor_importer_texture_format_dxt1" : "High Performance - Medium Compression (DXT1)",
