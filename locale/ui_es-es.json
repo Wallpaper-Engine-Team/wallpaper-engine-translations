@@ -362,6 +362,7 @@
 	"ui_browse_list_source_workshop": "Workshop",
 	"ui_browse_list_source_explore": "Descubrir",
 	"ui_browse_modal_no_steam_title": "Error de [[[Platform]]]",
+	"ui_browse_modal_no_steam_body": "No se ha podido iniciar la conexión con [[[Platform]]]. Prueba a reiniciar [[[Platform]]] y Wallpaper Engine.<br/><br/><b>Este problema suele ocurrir al tener una instalación de [[[Platform]]] obsoleta, así que asegúrate de tener [[[Platform]]] al día.</b><br/><br/>Si continúas viendo este error, significa que tu equipo no se puede autenticar correctamente con los servidores de [[[Platform]]]; comprueba la conexión a internet y si has iniciado sesión con la cuenta de [[[Platform]]] correcta.<br/><br/>Un antivirus o un programa de seguridad también podría impedir que [[[Platform]]] y Wallpaper Engine funcionen correctamente a la vez, así que prueba a desactivarlos.<br/><br/>Echa un vistazo a la página de ayuda si necesitas más información: <a href='[[[var_url_faqsteam]]]'>Solucionar la conexión con [[[Platform]]]</a>",
 	"ui_browse_modal_no_steam_body_wrong_provider": "Estás usando la versión de [[[Platform]]] de Wallpaper Engine, además de una versión distinta de [[[Platform]]]. Reinicia Wallpaper Engine desde [[[Platform]]] para poder acceder a Workshop de tu versión de la aplicación. También puedes iniciar sesión en la versión correcta de [[[Platform]]] para esta edición de Wallpaper Engine.",
 	"ui_browse_query_error": "Se ha producido un error en la red de [[[Platform]]]. Inténtalo más tarde: {{error}}",
 	"ui_browse_modal_safe_mode_header": "Inicio seguro",
