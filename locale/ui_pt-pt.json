@@ -1045,6 +1045,7 @@
 	"ui_editor_workshop_options_upload_as_pending": "À espera que o [[[Platform]]] responda...",
 	"ui_editor_workshop_modal_rating_header": "Escolher uma classificação",
 	"ui_editor_workshop_modal_rating_body_preview": "A imagem de pré-visualização deve ser apropriada para todos e nunca deve mostrar nudez total.",
+	"ui_editor_workshop_modal_rating_body": "Consulte esta tabela para escolher uma classificação adequada. Em caso de dúvidas, escolha uma classificação mais restritiva. Enviar conteúdo ilegal ou classificar muito abaixo do adequado pode fazer com que o wallpaper seja banido e a sua conta fique marcada. Tenha em mente que não precisa de enviar wallpapers para uso próprio.",
 	"ui_editor_workshop_modal_rating_no_rating_info_header": "Conteúdo apropriado",
 	"ui_editor_workshop_modal_rating_no_rating_info_body": "Certifique-se de que qualquer conteúdo que enviou é apropriado para todos! Se enviar algo questionável ou ilegal, o seu envio ou a sua conta inteira poderão ser banidos.",
 	"ui_editor_open_modal_header": "Abrir wallpaper",
