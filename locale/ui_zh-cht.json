@@ -362,6 +362,7 @@
 	"ui_browse_list_source_workshop": "工作坊",
 	"ui_browse_list_source_explore": "探索",
 	"ui_browse_modal_no_steam_title": "[[[Platform]]] 錯誤",
+	"ui_browse_modal_no_steam_body": "[[[Platform]]] 連線無法初始化。請嘗試重新啟動 [[[Platform]]] 與 Wallpaper Engine。<br/><br/><b>此問題會出現常是因為安裝了過時的 [[[Platform]]] 。請確保您的 [[[Platform]]] 為最新版本。</b><br/><br/>如果你持續發現此錯誤，代表您的個人電腦無法正確驗證 [[[Platform]]] 伺服器，請檢查網路連線狀態，並確認已登入至正確的 [[[Platform]]] 帳戶。<br/><br/>防毒應用程式或其他安全軟體可能會防止 [[[Platform]]] 和 Wallpaper Engine 同時運作，可先關閉。<br/><br/>如需額外協助，請檢視支援頁面：<a href='[[[var_url_faqsteam]]]'>修復 [[[Platform]]] 連線</a>",
 	"ui_browse_modal_no_steam_body_wrong_provider": "您正在將 [[[Platform]]] 版的 Wallpaper Engine 與另一個 [[[Platform]]] 版配合使用。請使用 [[[Platform]]] 重新啟動 Wallpaper Engine，以存取符合您應用程式版本的工作坊。或者，您也可以登入相應的 [[[Platform]]] 以使用此版本的 Wallpaper Engine。",
 	"ui_browse_query_error": "[[[Platform]]] 網路發生錯誤，請稍後再試： {{error}}",
 	"ui_browse_modal_safe_mode_header": "安全模式",
