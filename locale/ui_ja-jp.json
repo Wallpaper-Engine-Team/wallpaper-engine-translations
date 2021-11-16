@@ -362,7 +362,6 @@
 	"ui_browse_list_source_workshop": "ワークショップ",
 	"ui_browse_list_source_explore": "発見",
 	"ui_browse_modal_no_steam_title": "[[[Platform]]]エラー",
-	"ui_browse_modal_no_steam_body": "[[[Platform]]]の接続を初期化できませんでした。[[[Platform]]]とWallpaper Engineを再起動してください。<br/><br/><b>この種のエラーは、期限が切れた[[[Platform]]]がインストールされていることによって頻繁に発生します。[[[Platform]]]のバージョンが最新であることをご確認ください。</b><br/><br/>同エラーが頻繁に発生する現象は、お使いのPCが[[[Platform]]]のサーバーを正しく認証していない時に見られます。インターネット接続、ならびに正しい[[[Platform]]]のアカウントにログインされていることをご確認ください。<br/><br/>また、ウイルス対策ソフトやその他のセキュリティソフトにより、[[[Platform]]]とWallpaper Engineの同時起動が阻害されている可能性もあります。当てはまると思われるソフトを無効にしてみてください。<br/><br/>詳細な情報に関してはサポートページの<a href='[[[var_url_faqsteam]]]'>「[[[Platform]]]の接続の修復」</a>をご覧ください。",
 	"ui_browse_modal_no_steam_body_wrong_provider": "Wallpaper Engineの[[[Platform]]]エディションと、別のバージョンの[[[Platform]]]が同時に起動しています。アプリケーションの指定したバージョンのワークショップにアクセスするには、[[[Platform]]]からWallpaper Engineを再起動してください。または、このエディションのWallpaper Engine用の正しいバージョンの[[[Platform]]]にログインすることもできます。",
 	"ui_browse_query_error": "[[[Platform]]] ネットワークエラーが発生しました。後でやり直してください: {{error}}",
 	"ui_browse_modal_safe_mode_header": "セーフスタート",
