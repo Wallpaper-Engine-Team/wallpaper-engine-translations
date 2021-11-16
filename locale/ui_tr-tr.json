@@ -362,6 +362,7 @@
 	"ui_browse_list_source_workshop": "Atölye",
 	"ui_browse_list_source_explore": "Keşfet",
 	"ui_browse_modal_no_steam_title": "[[[Platform]]] Hatası",
+	"ui_browse_modal_no_steam_body": "[[[Platform]]] bağlantısı başlatılamadı. [[[Platform]]] ve Wallpaper Engine'i yeniden başlatmayı deneyin.<br/><br/><b>Bu soruna, güncel olmayan [[[Platform]]] kurulumları sıkça neden olur. Lütfen [[[Platform]]] kurulumunuzun güncel olduğundan emin olun.</b><br/><br/>Eğer bu hatayı görmeye devam ederseniz, PC'nizin [[[Platform]]] sunucularıyla doğru olarak kimlik doğrulayamadığı anlamına gelir, internet bağlantınızı ve doğru [[[Platform]]] hesabına oturum açıp açamadığınızı denetleyin.<br/><br/>Antivirüs veya farklı türde güvenlik yazılımları [[[Platform]]] ve Wallpaper Engine'in beraber çalışmasını engelliyor olabilir, bunları kapatmayı deneyin.<br/><br/>Ek yardım için destek sayfamızı gözden geçirin: <a href='[[[var_url_faqsteam]]]'>[[[Platform]]] Bağlantısını Düzeltin</a>",
 	"ui_browse_modal_no_steam_body_wrong_provider": "Wallpaper Engine'in [[[Platform]]] Sürümünü, farklı bir [[[Platform]]] sürümüyle birlikte çalıştırıyorsunuz. Uygulamanızın belirli sürümü için Atölye'ye erişmek amacıyla lütfen Wallpaper Engine'i [[[Platform]]] aracılığıyla yeniden başlatın. Alternatif olarak, Wallpaper Engine'in bu sürümü için doğru [[[Platform]]] sürümünde de oturum açabilirsiniz.",
 	"ui_browse_query_error": "[[[Platform]]] bir hatayla karşılaştı, daha sonra tekrar deneyin: {{error}}",
 	"ui_browse_modal_safe_mode_header": "Güvenli Başlat",
