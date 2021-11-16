@@ -347,6 +347,7 @@
 	"ui_browse_list_source_workshop": "창작마당",
 	"ui_browse_list_source_explore": "검색",
 	"ui_browse_modal_no_steam_title": "[[[Platform]]] 오류",
+	"ui_browse_modal_no_steam_body": "[[[Platform]]]에 연결할 수 없습니다. [[[Platform]]] 및 Wallpaper Engine을 재시작하세요.<br/><br/><b>이 문제는 주로 이전 버전의 [[[Platform]]] 설치로 인해 발생합니다. [[[Platform]]]의 최신 버전이 설치되어 있는지 확인해주세요.</b><br/><br/>이 문제가 계속 발생할 경우, 귀하의 PC가 [[[Platform]]] 서버와 올바르게 인증할 수 없다는 뜻입니다. 인터넷 연결을 확인하고 올바른 [[[Platform]]] 계정에 로그인했는지 확인해주세요.<br/><br/>백신 프로그램 등 보안 소프트웨어가 [[[Platform]]] 및 Wallpaper Engine이 함께 작동하지 못하게 막고 있을 수도 있습니다. 보안 소프트웨어를 꺼보세요.<br/><br/>저희 지원 페이지에서 더 자세한 정보를 확인하세요. <a href='[[[var_url_faqsteam]]]'><a href='[[[var_url_faqsteam]]]'><a href='[[[var_url_faqsteam]]]'>[[[Platform]]] 연결 문제 해결</a>",
 	"ui_browse_modal_no_steam_body_wrong_provider": "[[[Platform]]]판 Wallpaper Engine을 다른 [[[Platform]]] 버전으로 실행하고 있습니다. [[[Platform]]]으로 Wallpaper Engine을 재시작하여 자신의 앱 버전과 맞는 창작마당을 사용하거나, 자신의 Wallpaper Engine에 해당하는 [[[Platform]]] 버전으로 로그인하십시오.",
 	"ui_browse_query_error": "[[[Platform]]] 오류가 발생했습니다. 나중에 다시 시도하십시오: {{error}}",
 	"ui_browse_modal_safe_mode_header": "안전 모드",
