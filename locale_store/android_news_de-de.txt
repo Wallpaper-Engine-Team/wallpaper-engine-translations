@@ -57,14 +57,14 @@ Wir freuen uns endlich die [i][b]kostenlose[/b] Android-App für Wallpaper Engin
 Wir empfehlen die App über einen offiziellen App-Store zu installieren, wir bieten zusätzlich aber einen direkten APK-Download für versierte User an. Schaue dir unsere Website an, um alle Installationsmöglichkeiten zu sehen:
 
 [list][*][h3][i][b][url=wallpaperengine.io/android]Wallpaper Engine Android-App herunterladen[/url][/b][/i][/h3][/list]
-[h3]Adding new Wallpapers to Android[/h3]
-Directly connecting to the Workshop from a mobile device is not possible from a technical and legal point of view. However, we built a convenient system that allows owners of Wallpaper Engine on Windows to transfer their wallpapers to Android devices with ease:
+[h3]Neue Hintergründe auf Android hinzufügen[/h3]
+Eine direkte Verbindung zum Workshop von einem Mobilgerät ist nicht möglich aus technischer und rechtlicher Sicht. Wir haben deswegen ein möglichst-einfaches System gebaut, welches es allen Besitzern von Wallpaper Engine für Windows erlaubt, ihre Hintergründe auf ihre Android-Geräte zu übertragen:
 
-[b]Step 1:[/b] Click on the new [b]Mobile[/b] button in Wallpaper Engine on Windows, then select [b]Connect new device[/b]. Wallpaper Engine will show you a 4 digit PIN that you can use to connect to your mobile device now.
+[b]Schritt 1:[/b] Klicke auf die neue Schaltfläche [b]Mobil[/b] in Wallpaper Engine auf Windows, dann wähle [b]Neues Gerät verbinden[/b] aus. Wallpaper Engine zeigt dir nun einen 4-stelligen PIN an, welchen du nutzen kannst, um dein Mobilgerät zu verbinden.
 
-[b]Step 2:[/b] Open Wallpaper Engine on your Android device and click on the [b]Add[/b] button in the lower right corner. Select [b]Pair with Computer[/b], your computer should now be visible in the device list. Select it and enter the 4 digit PIN from step 1.
+[b]Schritt 2:[/b] Öffne Wallpaper Engine auf deinem Android-Gerät und klicke unten rechts auf [b]Hinzufügen[/b]. Wähle [b]Mit Computer verbinden[/b] aus, dein Computer sollte nun in der Geräteliste angezeigt werden. Wähle den Computer aus und gebe den 4-stelligen PIN aus Schritt 1 ein.
 
-[b]Step 3:[/b] Your devices should now be connected. Right-click on any compatible wallpaper and click on [b]Send to mobile device[/b], then select your mobile device from the list. Your wallpaper will now be transferred.
+[b]Schritt 3:[/b] Deine Geräte sollten nun miteinander verbunden sein. Right-click on any compatible wallpaper and click on [b]Send to mobile device[/b], then select your mobile device from the list. Your wallpaper will now be transferred.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/0fc8bc609bd7d959fa87fe7f90e3f1612ba67cd1.gif[/img]
 
