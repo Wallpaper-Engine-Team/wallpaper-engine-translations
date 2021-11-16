@@ -1045,6 +1045,7 @@
 	"ui_editor_workshop_options_upload_as_pending": "[[[Platform]]]의 응답을 기다리고있습니다...",
 	"ui_editor_workshop_modal_rating_header": "등급 선택",
 	"ui_editor_workshop_modal_rating_body_preview": "미리보기 이미지는 누구에게나 적절해야 하며 절대 전신 노출이 있어서는 안 됩니다.",
+	"ui_editor_workshop_modal_rating_body": "이 표를 참조하여 적절한 콘텐츠 등급을 선택하십시오. 잘 모르겠다면, 본인이 생각하는 등급에 비하여 더 엄격한 등급을 선택하십시오. 불법 콘텐츠를 제출하거나 등급을 너무 낮게 평가하면 제출이 금지되고 계정에 플래그가 지정될 수 있습니다. 본인이 사용하는 경우 배경화면을 제출할 필요는 없습니다.",
 	"ui_editor_workshop_modal_rating_no_rating_info_header": "적합한 콘텐츠",
 	"ui_editor_workshop_modal_rating_no_rating_info_body": "업로드한 콘텐츠는 모두에게 적합해야 합니다! 의심스럽거나 불법의 콘텐츠를 업로드하면, 제출 내용 또는 계정 전체가 금지될 수 있습니다.",
 	"ui_editor_open_modal_header": "배경화면 열기",
