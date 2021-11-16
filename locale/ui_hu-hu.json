@@ -1039,6 +1039,7 @@
 	"ui_editor_workshop_options_upload_as_pending": "Várakozás a [[[Platform]]] válaszára...",
 	"ui_editor_workshop_modal_rating_header": "Válasszon egy minősítést",
 	"ui_editor_workshop_modal_rating_body_preview": "Az előnézeti képnek mindenki számára megfelelőnek kell lennie, és soha nem mutathat teljes meztelenséget.",
+	"ui_editor_workshop_modal_rating_body": "A megfelelő tartalmi besorolás kiválasztásához olvassa el ezt a táblázatot. Ha kétségei vannak, válasszon szigorúbb minősítést. Illegális tartalom beküldése vagy túl alacsony besorolás esetén a beküldés tiltásra kerülhet, és a fiók meg lesz jelölve. Ne feledje, hogy nem kell beküldenie egy háttérképeket, ahhoz hogy használhassa azokat.",
 	"ui_editor_workshop_modal_rating_no_rating_info_header": "Megfelelő tartalom",
 	"ui_editor_workshop_modal_rating_no_rating_info_body": "Kérjük, győződjön meg arról, hogy minden feltöltött tartalom mindenki számára megfelelő! Ha bármi kérdéses vagy jogellenes dolgot tölt fel, előfordulhat, hogy beküldését vagy teljes fiókját tiltják.",
 	"ui_editor_open_modal_header": "Háttér megnyitása",
