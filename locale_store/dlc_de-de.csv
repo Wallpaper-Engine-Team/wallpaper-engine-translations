@@ -1,12 +1,12 @@
 "dlc_title","Wallpaper Engine - Editor-Erweiterungen"
 "dlc_system_os,Windows 10 and Windows 11 - 64-Bit"""
-"dlc_system_additional",""
-"dlc_description","Das kostenlose Wallpaper Engine Editor Erweiterungen DLC fügt erweiterte Funktionen zum Hintergrund-Editor hinzu. Die Erweiterung benötigt eine beträchtliche Menge an Speicherplatz und wir empfehlen ausschließlich Nutzern die Installation, die die erweiterten Funktionen zum Erstellen von neuen Hintergründen verwenden möchten. Hintergrunde die mit den erweiterten Funktionen erstellt wurden, können auch ohne die Installation der Erweiterung verwendet werden.
+"dlc_system_additional","Unterstützung für CUDA 11.3 empfohlen"
+"dlc_description","Das kostenlose Wallpaper Engine DLC für Editor-Erweiterungen fügt erweiterte Funktionen zum Hintergrund-Editor hinzu. Die Erweiterung benötigt eine beträchtliche Menge an Speicherplatz und wir empfehlen ausschließlich Nutzern die Installation, die die erweiterten Funktionen zum Erstellen von neuen Hintergründen verwenden möchten. Hintergründe, die mit den erweiterten Funktionen erstellt wurden, können auch ohne die Installation der Erweiterung verwendet werden.
 
 [b]Wenn du dir unsicher bist, installiere die Erweiterung nicht. Der Wallpaper Engine Editor wird dir die Installation vorschlagen, wenn du eine Funktion der Erweiterung nutzen möchtest.[/b]
 
 
 [h2]Enthaltene Funktionen[/h2]
-[list][*] Generieren einer Tiefenkarte aus einem einzigen Bild mithilfe von maschinellem lernen.
+[list][*] Generieren einer Depth-Map aus einem einzigen Bild mit Hilfe von maschinellem Lernen.
 [/list]"
-"dlc_short_descriptions","Das kostenlose Wallpaper Engine Editor Erweiterungen DLC fügt erweiterte Funktionen zum Hintergrund-Editor hinzu."
+"dlc_short_descriptions","Das kostenlose Wallpaper Engine DLC für Editor-Erweiterungen fügt erweiterte Funktionen zum Hintergrund-Editor hinzu."
