@@ -362,6 +362,7 @@
 	"ui_browse_list_source_workshop": "Workshop",
 	"ui_browse_list_source_explore": "Löydä",
 	"ui_browse_modal_no_steam_title": "[[[Platform]]] Virhe",
+	"ui_browse_modal_no_steam_body": "[[[Platform]]] -yhteyden alustaminen ei onnistunut. Kokeile käynnistää [[[Platform]]] ja Wallpaper Engine uudelleen.<br/><br/><b>Tämä ongelma johtuu usein vanhentuneista [[[Platform]]] -asennuksista. Varmista, että [[[Platform]]] on ajan tasalla.</b><br/><br/>Jos tämä ongelma jatkuu, tietokoneesi ei pysty todentamaan [[[Platform]]] -palvelinten kanssa. Tarkista internetyhteytesi ja varmista, että olet kirjautunut oikealle [[[Platform]]] -tilille.<br/><br/>Virustorjuntaohjelma tai muut tietoturvaohjelmat voivat estää [[[Platform]]] -alustaa ja Wallpaper Engineä toimimasta yhdessä, joten kokeile ottaa ne pois käytöstä.<br/><br/>Lue tarvittaessa lisäohjeita tukisivuiltamme: <a href='[[[var_url_faqsteam]]]'>Korjaa [[[Platform]]] -yhteys</a>",
 	"ui_browse_modal_no_steam_body_wrong_provider": "Käytät Wallpaper Enginen [[[Platform]]] Editionia yhdessä [[[Platform]]] -alustan eri version kanssa. Käynnistä Wallpaper Engine uudelleen [[[Platform]]] -alustan kautta, jotta saat oman sovellusversiosi Workshopin käyttöön. Voit myös kirjautua sisään tämän Wallpaper Engine -version oikeaan [[[Platform]]] -versioon.",
 	"ui_browse_query_error": "[[[Platform]]]-virhe tapahtui. Yritä myöhemmin uudelleen: {{error}}",
 	"ui_browse_modal_safe_mode_header": "Turvallinen käynnistys",
