@@ -13,3 +13,5 @@ files:
   - source: /locale_store/dlc_en-us.csv
     translation: /locale_store/dlc_%locale_with_underscore%.csv
     scheme: 'identifier,source_or_translation'
+  - source: /locale_store/android_news.txt
+    translation: /locale_store/android_news_%locale_with_underscore%.txt
