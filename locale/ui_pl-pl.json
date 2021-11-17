@@ -1891,7 +1891,7 @@
 	"ui_editor_properties_extrusion_preview": "Podgląd wytłoczenia",
 	"ui_editor_properties_extrusion_scale": "Skala wytłoczenia",
 	"ui_editor_properties_extrusion_smoothing": "Wygładzanie wytłoczenia",
-	"ui_editor_properties_eye_dropper_hotkey": "Narzędzie do wybierania kolorów ({{key}})",
+	"ui_editor_properties_eye_dropper_hotkey": "Selektor kolorów ({{key}})",
 	"ui_editor_properties_fade_in_time": "Czas rozjaśniania",
 	"ui_editor_properties_fade_out_time": "Czas przyciemniania",
 	"ui_editor_properties_feather": "Pióro",
