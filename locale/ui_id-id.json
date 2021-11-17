@@ -212,7 +212,7 @@
 	"ui_browse_filter_source_my_wallpapers": "Wallpaper Saya",
 	"ui_browse_wallpaper_info_approved": "Disetujui",
 	"ui_browse_wallpaper_info_favorite": "Favorit",
-	"ui_browse_wallpaper_info_portrait": "Portrait / Seluler",
+	"ui_browse_wallpaper_info_portrait": "Portrait / Ponsel",
 	"ui_browse_wallpaper_info_installed": "Terpasang",
 	"ui_browse_modal_application_warning_header": "Membuka aplikasi yang tidak dikenal",
 	"ui_browse_modal_application_warning_body": "Anda akan membuka aplikasi eksternal sebagai latar belakang: <br/><b>{{filepath}}</b><br/>Wallpaper Engine tidak mempunyai akses kendali terhadap berkas ini. Sebelum melanjutkan, Anda harus pastikan bahwa aplikasi tersebut berasal dari sumber yang terpercaya.",
