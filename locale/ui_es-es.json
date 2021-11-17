@@ -2017,6 +2017,8 @@
 	"ui_editor_properties_phase_min": "Fase mín.",
 	"ui_editor_properties_phase_scale": "Fase escala",
 	"ui_editor_properties_pinch": "Pellizcar",
+	"ui_editor_properties_pivot_offset_x": "Desplazamiento del pivote X",
+	"ui_editor_properties_pivot_offset_y": "Desplazamiento del pivote Y",
 	"ui_editor_properties_playback": "Reproducción",
 	"ui_editor_properties_playback_rate": "Velocidad de reproducción",
 	"ui_editor_properties_point_filter": "Filtro de puntos",
