@@ -345,7 +345,7 @@
 	"ui_browse_playlist_modal_settings_begin_first_wallpaper": "Começar sempre pelo primeiro wallpaper",
 	"ui_browse_playlist_modal_settings_intro_wallpaper": "Primeiro wallpaper reproduzido apenas no início de sessão",
 	"ui_browse_playlist_modal_settings_day_of_week_warning_title": "Lista de Reprodução Dia da Semana",
-	"ui_browse_playlist_modal_settings_day_of_week_warning_option_message": "A lista de reprodução <b>Dia da Semana</b> não suporta mais do que 7 wallpapers. Remover os walpapers em excesso agora?",
+	"ui_browse_playlist_modal_settings_day_of_week_warning_option_message": "A lista de reprodução <b>Dia da Semana</b> não suporta mais do que 7 wallpapers. Remover os wallpapers em excesso agora?",
 	"ui_browse_playlist_modal_settings_day_of_week_warning_message": "A lista de reprodução <b>Dia da Semana</b> não suporta mais do que 7 wallpapers.",
 	"ui_browse_profiles_empty": "Ainda não criou nenhum perfil.",
 	"ui_browse_profiles_modal_open_header": "Carregar perfil",
