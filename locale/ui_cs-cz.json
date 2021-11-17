@@ -223,6 +223,8 @@
 	"ui_browse_open_url_header": "Otevřít pozadí z adresy URL",
 	"ui_browse_open_url_name": "Název",
 	"ui_browse_open_url_hotkey_info": "Pro použití klávesnice na pozadí, skrýt ikony klávesovou zkratkou napřed:",
+	"ui_browse_open_url_livestream_info": "Zapněte <b>režim Livestream</b> pokud adresa URL, kterou se snažíte načíst, obsahuje video livestream. Některé funkce Wallpaper Enginu nemusí v režimu Livestreamu pracovat správně.",
+	"ui_browse_open_url_livestream_checkbox": "Použít režim Livestream",
 	"ui_browse_modal_proceed": "Pokračovat",
 	"ui_browse_modal_advertise_workshop_header": "Nastavení filtrování Workshopu",
 	"ui_browse_modal_advertise_workshop_body": "Použij postraní panel na filtrování a pro výběr tagů, které se shodují s tvýma preferencema.<br/><br/>Použij filtr <b>Schválené</b> <span class='fas fa-trophy browseWallpaperApproved'></span> pro vyhledání velmi kvalitních pozadí, které musely projít ruční kontrolou.<br/><br/>Nastav řazení v pravém horním rohu na <b>Nejoblíbenější</b> nebo <b>Nejlépe hodnocené</b> pokud hledáš ty nejkvalitnější pozadí.",
