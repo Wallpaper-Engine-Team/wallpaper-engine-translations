@@ -1,7 +1,7 @@
-"dlc_title","Wallpaper Engine – Rozszerzenia edytora"
+"dlc_title","Wallpaper Engine – rozszerzenia edytora"
 "dlc_system_os,Windows 10 and Windows 11 - 64-Bit"""
-"dlc_system_additional","Zalecane wsparcie CUDA 11.3"
-"dlc_description","Darmowa zawartość do pobrania Wallpaper Engine Rozszerzenia edytora dodaje zaawansowane funkcje do edytora tapet. Do instalacji dodatku wymagana jest spora ilość wolnego miejsca na dysku i zalecamy zainstalować rozszerzenia edytora jedynie tym użytkownikom, którzy chcą używać zaawansowanych funkcji do tworzenia nowych tapet. Wszyscy użytkownicy mogą używać tapet zrobionych przy pomocy tego dodatku bez konieczności jego instalacji.
+"dlc_system_additional","Zalecana obsługa architektury CUDA 11.3"
+"dlc_description","Darmowy dodatek Wallpaper Engine – rozszerzenia edytora dodaje zaawansowane funkcje do edytora tapet. Do instalacji dodatku wymagana jest spora ilość wolnego miejsca na dysku, dlatego zalecamy instalację rozszerzenia edytora jedynie tym użytkownikom, którzy chcą używać zaawansowanych funkcji do tworzenia nowych tapet. Wszyscy użytkownicy mogą używać tapet zrobionych za pomocą tego dodatku bez konieczności jego instalacji.
 
 [b]Jeśli masz wątpliwości, nie instaluj tego rozszerzenia. Edytor Wallpaper Engine zaleci jego instalację, jeśli funkcja, której chcesz użyć, będzie tego wymagała.[/b]
 
@@ -9,4 +9,4 @@
 [h2]Zawarte funkcje[/h2]
 [list][*]Generowanie mapy głębokości z jednego obrazu przy użyciu uczenia maszynowego.
 [/list]"
-"dlc_short_descriptions","Darmowa zawartość do pobrania Wallpaper Engine Rozszerzenia edytora dodaje zaawansowane funkcje do edytora tapet."
+"dlc_short_descriptions","Darmowy dodatek Wallpaper Engine – rozszerzenia edytora dodaje zaawansowane funkcje do edytora tapet."
