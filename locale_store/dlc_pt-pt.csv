@@ -1,5 +1,12 @@
 "dlc_title","Wallpaper Engine - Extensões do Editor"
 "dlc_system_os,Windows 10 and Windows 11 - 64-Bit"""
 "dlc_system_additional","Recomendamos suporte para CUDA 11.3"
-"dlc_description",""
-"dlc_short_descriptions",""
+"dlc_description","O conteúdo transferível (DLC) de Extensões do Editor do Wallpaper Engine adiciona funcionalidades avançadas ao editor de wallpapers. Este suplemento requer uma quantidade significativa de espaço no disco e só recomendamos a instalação das extensões do editor a utilizadores que queiram utilizar estas funcionalidades avançadas no editor em si para criar novos wallpapers. Todos os subscritores podem utilizar wallpapers criados com este suplemento sem que seja necessário instalar as extensções do editor.
+
+[b]Se não tiver a certeza, não instale esta extensão. O editor do Wallpaper Engine recomendará esta extensão se tentar utilizar qualquer funcionalidade que a requeira.[/b]
+
+
+[h2]Funcionalidades incluídas[/h2]
+[list][*]Geração de mapa de profundidade a partir de uma única imagem através de ""machine learning"".
+[/list]"
+"dlc_short_descriptions","O conteúdo transferível (DLC) de Extensões do Editor do Wallpaper Engine adiciona funcionalidades avançadas ao editor de wallpapers."
