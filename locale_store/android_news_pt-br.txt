@@ -93,48 +93,48 @@ Para fazer um uso completo do efeito no editor de papéis de parede, recomendamo
 [b]É importante observar:[/b] você não precisa instalar o DLC gratuito a menos que queira usar o efeito no editor por conta própria. O efeito ainda funciona em computadores e dispositivos móveis mesmo que o DLC gratuito não esteja instalado.
 
 [h2]Listas de reprodução para dias de semana[/h2]
-Um pedido popular que recebemos ao longo do tempo foi de ter uma maneira para configurar um papel de parede por dia da semana. Nessa atualização, estamos introduzindo uma nova lista de produção dos dias da semana. Simply add up to seven wallpapers to the playlist in the [b]Installed[/b] tab of Wallpaper Engine, then click on [b]Configure[/b] in the playlist section and select the [b]Day of Week[/b] option from there. You will also find the already existing playlist options there, such as the [b]Time of Day[/b] playlist type.
+Um pedido popular que recebemos ao longo do tempo foi de ter uma maneira para configurar um papel de parede por dia da semana. Nessa atualização, estamos introduzindo uma nova lista de produção dos dias da semana. Basta adicionar até sete papéis de parede na lista de reprodução na aba [b]Instalados[/b] do Wallpaper Engine e depois clicar em [b]Configurar[/b] na seção da lista de reprodução e selecionar a opção [b]Dia da Semana[/b]. Você também encontrará as opções da lista de produção já existentes aqui, tais como o tipo de reprodução [b]Hora do Dia[/b].
 
 [h2]Windows 11[/h2]
-Wallpaper Engine fully supports Windows 11, with this update, we are also adding support for the new rounded corners user interface design. If you are upgrading to Windows 11 and experience any issues with Wallpaper Engine, make sure to do a full re-installation of the latest graphics card drivers. Most Windows 11 users who reached out to us with issues were using outdated graphics card drivers.
+Wallpaper Engine suporta perfeitamente o Windows 11. Com essa atualização, também estamos adicionando suporte às bordas arredondadas da interface do usuário. Se atualizar para o Windows 11 e enfrentar qualquer problema com o Wallpaper Engine, certifique-se de fazer uma reinstalação completa dos drivers gráficos do seu dispositivo. A maior parte dos usuários do Windows 11 que entraram em contato conosco relatando problemas estavam usando drivers gráficos desatualizados.
 
-If you are using a Windows 11 theme with transparency, you will notice that Wallpaper Engine will be ignored by Windows 11. To fix this issue, simply enable the new [b]Override wallpaper[/b] option in the Wallpaper Engine settings. This will keep your Windows wallpaper in sync with your Wallpaper Engine wallpaper and fix any issues with transparency on Windows 11.
+Se você está usando um tema do Windows 11 com transparência, você perceberá que o Wallpaper Engine será ignorado pelo Windows 11. Para corrigir esse problema, basta ativar a nova opção [b]Substituir papel de parede[/b] nas configurações do Wallpaper Engine. Isso fará com que o papel de parede do Windows sincronize com o papel de parede do Wallpaper Engine e corrija qualquer problema com a transparência no Windows 11.
 
-[h2]Changelog[/h2]
+[h2]Lista de alterações[/h2]
 
-[h3]Additions / Changes[/h3]
-[h4]Main App[/h4]
+[h3]Adições / Alterações[/h3]
+[h4]Aplicativo principal[/h4]
 [list]
-[*]Added Android support and released the new Wallpaper Engine Companion app for Android.
-[*]Added mobile collection to Discover tab.
-[*]Updated Wallpaper Engine logo, color theme, including app icons.
-[*]Added rounded corner support for Windows 11.
-[*]Added "day of week" playlist mode, limited to 7 wallpapers.
-[*]Re-arranged search filters, added new "mobile compatible" filter option.
-[*]Added "favorite" button when right-clicking on a wallpaper.
-[*]"Stop mode" now turns off automatically while wallpaper is being changed manually.
-[*]Improved user interface for configuring physics bones.
-[*]Increased automatic audio unmute delay from 3 to 5 seconds.
-[*]Added scheme color to "apply to all wallpapers" dialog.
-[*]Removed 12h / 24h clock option from playlist, now detected automatically depending on system settings.
-[*]Added CLI applyProperties support to windowed wallpapers.
-[*]Improved app performance with new JSON parser.
-[*]Updated core application binaries to latest Visual Studio 2022 compiler and latest Win SDK.
-[*]Reduced occurrence of rare cursor flickering issue in CEF.
+[*]Adicionamos suporte para Android e lançamos o novo Aplicativo Complementar do Wallpaper Engine para Android.
+[*]Adicionamos a coleção móvel para a aba Descobrir.
+[*]Atualizamos o logotipo, tema de cores e ícones do aplicativo do Wallpaper Engine.
+[*]Adicionamos suporte a bordas arredondadas para o Windows 11.
+[*]Adicionamos um modo de reprodução "dias da semana", limitado a 7 papéis de parede.
+[*]Reorganizamos os filtros de pesquisa, adicionamos uma nova opção de filtro, "compatível com dispositivos móveis".
+[*]Adicionamos o botão "Adicionar aos favoritos" ao clicar com o botão direito em qualquer papel de parede.
+[*]O "modo parar" agora desativa automaticamente quando um papel de parede é alterado manualmente.
+[*]Melhoramos a interface do usuário na configurações de ossos de física.
+[*]Aumentamos o atraso de acionamento do áudio automático de 3 para 5 segundos.
+[*]Adicionamos um novo esquema d cores para o diálogo "aplicar a todos os papéis de parede".
+[*]Removemos a opção de relógio 12h/24h da lista de reprodução. Essa configuração agora é detectada automaticamente dependendo das configurações do sistema.
+[*]Adicionamos suporte a CLI applyProperties para papéis de parede em janelas.
+[*]Melhoramos o desempenho do aplicativo com o novo analisador JSON.
+[*]Atualizamos os arquivos binários principais do aplicativo para o novo compilador Visual Studio 2022 e o mais novo Win SDK.
+[*]Reduzimos a ocorrência rara de cintilação do cursor em CEF.
 [/list]
 [h4]Wallpaper Editor[/h4]
 [list]
-[*]Added new depth parallax effect.
-[*]Added FREE editor extensions DLC for depth parallax effect. You only need this if you want to use it in the editor, users of your wallpapers do not need this DLC.
-[*]Added color picker tool to editor painting tools.
-[*]Improved support for rendering Chinese, Japanese, Korean and more characters in scene wallpapers text layers with new fonts.
-[*]Improved "Rope Renderer" for particle systems.
-[*]SceneScript: [i]init()[/i] and [i]update()[/i] function will now automatically convert numbers into vectors (Vec2, Vec3, Vec4) when they are returned. This helps to simplify some scripts.
-[*]SceneScript: Reviewed and improved all sample code snippets slightly.
-[*]SceneScript: Update reference URLs to [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url].
-[*]Made transparency cropping work with DXT compression in the editor.
+[*]Adicionamos um novo efeito paralaxe de profundidade.
+[*]Adicionamos um novo DLC de Extensões do Editor GRATUITO para o efeito paralaxe de profundidade. Você só precisa desse complemento se deseja usá-lo no editor. Os usuários dos papéis de parede não precisam do DLC.
+[*]Adicionamos uma ferramenta de escolha de cores às ferramentas de pintura do editor.
+[*]Melhoramos o suporte à renderização de caracteres chineses, japoneses, coreanos e mais nas camadas de texto dos papéis de parede de cena com novas fontes.
+[*]Melhoramos o "Renderizador de Cordas" para o sistema de partículas.
+[*]SceneScript: as funções [i]init()[/i] e [i]update()[/i] converterão automaticamente números em vetores agora (Vec2, Vec3, Vec4) ao darem um retorno. Isso ajuda a simplificar alguns scripts.
+[*]SceneScript: revisamos e melhoramos um pouco todos os fragmentos de código de exemplo.
+[*]SceneScript: atualizamos os URLs de referência para [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url].
+[*]Fizemos o recorte de transparência funcionar com compressões DXT no editor.
 [/list]
-[h3]Bug Fixes[/h3]
+[h3]Correções de bugs[/h3]
 [list]
 [*]Fixed "High Performance" option for the texture resolution settings breaking a low number of wallpapers.
 [*]Fixed editor crashing when importing textures with resolutions below the minimum required size.
