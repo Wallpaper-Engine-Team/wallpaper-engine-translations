@@ -60,18 +60,18 @@ Recomendamos instalar o aplicativo através da loja oficial de aplicativos. Por�
 [h3]Adicionando novos papéis de parede ao Android[/h3]
 Conectar a Oficina diretamente a um dispositivo móvel não é possível por motivos técnicos e legais. Porém, construímos um sistema conveniente que permite que os proprietários do Wallpaper Engine no Windows possam transferir seus papéis de parede para dispositivos Android com facilidade:
 
-[b]Passo 1:[/b] Clique no novo botão [b]Dispositivo Móvel[/b] no Wallpaper Engine no Windows e depois selecione [b]Conectar novo dispositivo[/b]. Wallpaper Engine exibirá um código PIN de 4 dígitos que você pode usar para conectar seu dispositivo móvel agora.
+[b]Passo 1:[/b] clique no novo botão [b]Dispositivo Móvel[/b] no Wallpaper Engine no Windows e depois selecione [b]Conectar novo dispositivo[/b]. O Wallpaper Engine exibirá um código PIN de 4 dígitos que você pode usar para conectar seu dispositivo móvel agora.
 
-[b]Passo 2:[/b] Abra o Wallpaper Engine no seu dispositivo Android e clique no botão [b]Adicionar[/b] no canto inferior direito. Selecione [b]Parear com o computador[/b]. Seu computador deve ficar visível na lista de dispositivos agora. Selecione-o e insira o código PIN de 4 dígitos obtido no passo 1.
+[b]Passo 2:[/b] abra o Wallpaper Engine no seu dispositivo Android e clique no botão [b]Adicionar[/b] no canto inferior direito. Selecione [b]Parear com o computador[/b]. Seu computador deve ficar visível na lista de dispositivos agora. Selecione-o e insira o código PIN de 4 dígitos obtido no passo 1.
 
-[b]Passo 3:[/b] Seus dispositivos estarão conectados agora. Clique com o botão direito em qualquer papel de parede compatível e clique em [b]Enviar para o dispositivo móvel[/b], e depois selecione seu dispositivo móvel na lista. Seu papel de parede será transferido agora.
+[b]Passo 3:[/b] seus dispositivos estarão conectados agora. Clique com o botão direito em qualquer papel de parede compatível e clique em [b]Enviar para o dispositivo móvel[/b], e depois selecione seu dispositivo móvel na lista. Seu papel de parede será transferido agora.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/0fc8bc609bd7d959fa87fe7f90e3f1612ba67cd1.gif[/img]
 
-[b]Se você não conseguir conectar seu Android:[/b] clique com o botão direito em qualquer papel de parede e selecione [b]Enviar ao dispositivo móvel[/b], e depois selecione [b]Exportar .mpkg[/b]. Você pode transferir o arquivo pacote móvel exportado para o seu dispositivo móvel por um cabo ou qualquer outro meio de transferência ao seu dispositivo móvel.
+[b]Se você não conseguir conectar seu Android:[/b] clique com o botão direito em qualquer papel de parede e selecione [b]Enviar ao dispositivo móvel[/b], e depois selecione [b]Exportar .mpkg[/b]. Você pode transferir o arquivo pacote móvel exportado para o seu dispositivo móvel por um cabo, ou qualquer outro meio de transferência.
 
 [list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Clique aqui para ler nosso guia de conexão com o Android.[/url][/list]
-[i]Dica: você também pode transferir pastas ou vários papéis e parede ao mesmo tempo selecionando múltiplos arquivos enquanto segura a tecla CTRL. Pressionar [b]CTRL + A[/b] na aba [b]instalada[/b] seleciona todos os papéis de parede instalados e permite que você os transfira todos de uma vez.[/i]
+[i]Dica: você também pode transferir pastas ou vários papéis de parede ao mesmo tempo selecionando múltiplos arquivos enquanto segura a tecla CTRL. Pressionar [b]CTRL + A[/b] na aba [b]instalados[/b] seleciona todos os papéis de parede instalados e permite que você os transfira todos de uma vez.[/i]
 
 [h2]Novo logotipo do Wallpaper Engine[/h2]
 Junto do lançamento da versão Android do Wallpaper Engine, sentimos que era hora de atualizar o nosso logotipo. O logotipo antigo consistia majoritariamente de uma tela de computador, o que não faz muito sentido em um dispositivo móvel. O grande lançamento da versão 2.0 pareceu um bom momento para tentarmos algo novo, e estamos felizes com o resultado.
@@ -83,17 +83,17 @@ Experimentamos muito com modelos diferentes e ficamos com um novo logotipo que m
 [img]{STEAM_CLAN_IMAGE}/26312799/ecb522ad46fedd9502a715ae38937246172dfcbe.png[/img]
 
 [h2]Novo efeito paralaxe de profundidade[/h2]
-Uma grande nova adição ao editor do Wallpaper Engine é o nosso novo efeito paralaxe de profundidade. Esse efeito permitirá que você crie um efeito de profundidade 3D falsa com as suas imagens. Nos computadores, o efeito é influenciado pelo mouse, enquanto no Android, o movimento do dispositivo simulará o movimento do mouse.
+Uma grande nova adição ao editor do Wallpaper Engine é o nosso novo efeito paralaxe de profundidade. Esse efeito permitirá que você crie um efeito de profundidade 3D falsa com as suas imagens. Nos computadores, o efeito é influenciado pelo mouse, enquanto no Android o movimento do dispositivo simulará o movimento do mouse.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
-Para fazer um uso completo do efeito no editor de papéis de parede, recomendamos que instale nosso novo [i]DLC Extensões do Editor[/i] [b][i]gratuito[/i][/b]. Decidimos separar esse recurso do editor em particular em um DLC opcional porque os recursos exigem um download com vários gigabytes de tamanho. Ao usar o efeito no editor pela primeira vez, o Wallpaper Engine pedirá para instalar o DLC por você. Para mais informações, veja o nosso guia completo sobre como instalar e usar o efeito paralaxe de profundidade no editor:
+Para fazer um uso completo do efeito no editor de papéis de parede, recomendamos que instale nosso novo [i]DLC Extensões do Editor[/i] [b][i]gratuito[/i][/b]. Decidimos separar esse recurso em particular do editor e colocá-lo em um DLC opcional porque os recursos exigem um download com vários gigabytes de tamanho. Ao usar o efeito no editor pela primeira vez, o Wallpaper Engine pedirá para instalar o DLC por você. Para mais informações, veja o nosso guia completo sobre como instalar e usar o efeito paralaxe de profundidade no editor:
 
 [list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Paralaxe de Profundidade[/url] (Disponível apenas em inglês no momento - motores de tradução por máquina funcionam bem)[/list]
-[b]É importante observar:[/b] você não precisa instalar o DLC gratuito a menos que queira usar o efeito no editor por conta própria. O efeito ainda funciona em computadores e dispositivos móveis mesmo que o DLC gratuito não esteja instalado.
+[b]É importante observar:[/b] você não precisa instalar o DLC gratuito a menos que queira criar o efeito no editor por conta própria. O efeito ainda funciona em computadores e dispositivos móveis mesmo que o DLC gratuito não esteja instalado.
 
 [h2]Listas de reprodução para dias de semana[/h2]
-Um pedido popular que recebemos ao longo do tempo foi de ter uma maneira para configurar um papel de parede por dia da semana. Nessa atualização, estamos introduzindo uma nova lista de produção dos dias da semana. Basta adicionar até sete papéis de parede na lista de reprodução na aba [b]Instalados[/b] do Wallpaper Engine e depois clicar em [b]Configurar[/b] na seção da lista de reprodução e selecionar a opção [b]Dia da Semana[/b]. Você também encontrará as opções da lista de produção já existentes aqui, tais como o tipo de reprodução [b]Hora do Dia[/b].
+Um pedido popular que recebemos ao longo do tempo foi de ter uma maneira para configurar um papel de parede por dia da semana. Nessa atualização, estamos introduzindo uma nova lista de reprodução para os dias da semana. Basta adicionar até sete papéis de parede na lista de reprodução na aba [b]Instalados[/b] do Wallpaper Engine e depois clicar em [b]Configurar[/b] na seção da lista de reprodução e selecionar a opção [b]Dia da Semana[/b]. Você também encontrará as opções já existentes da lista de reprodução aqui, tais como o tipo de reprodução [b]Hora do Dia[/b].
 
 [h2]Windows 11[/h2]
 Wallpaper Engine suporta perfeitamente o Windows 11. Com essa atualização, também estamos adicionando suporte às bordas arredondadas da interface do usuário. Se atualizar para o Windows 11 e enfrentar qualquer problema com o Wallpaper Engine, certifique-se de fazer uma reinstalação completa dos drivers gráficos do seu dispositivo. A maior parte dos usuários do Windows 11 que entraram em contato conosco relatando problemas estavam usando drivers gráficos desatualizados.
@@ -110,19 +110,19 @@ Se você está usando um tema do Windows 11 com transparência, você perceberá
 [*]Atualizamos o logotipo, tema de cores e ícones do aplicativo do Wallpaper Engine.
 [*]Adicionamos suporte a bordas arredondadas para o Windows 11.
 [*]Adicionamos um modo de reprodução "dias da semana", limitado a 7 papéis de parede.
-[*]Reorganizamos os filtros de pesquisa, adicionamos uma nova opção de filtro, "compatível com dispositivos móveis".
+[*]Reorganizamos os filtros de pesquisa e adicionamos uma nova opção de filtro: "compatível com dispositivos móveis".
 [*]Adicionamos o botão "Adicionar aos favoritos" ao clicar com o botão direito em qualquer papel de parede.
 [*]O "modo parar" agora desativa automaticamente quando um papel de parede é alterado manualmente.
 [*]Melhoramos a interface do usuário na configurações de ossos de física.
 [*]Aumentamos o atraso de acionamento do áudio automático de 3 para 5 segundos.
-[*]Adicionamos um novo esquema d cores para o diálogo "aplicar a todos os papéis de parede".
+[*]Adicionamos um novo esquema de cores para o diálogo "aplicar a todos os papéis de parede".
 [*]Removemos a opção de relógio 12h/24h da lista de reprodução. Essa configuração agora é detectada automaticamente dependendo das configurações do sistema.
 [*]Adicionamos suporte a CLI applyProperties para papéis de parede em janelas.
 [*]Melhoramos o desempenho do aplicativo com o novo analisador JSON.
 [*]Atualizamos os arquivos binários principais do aplicativo para o novo compilador Visual Studio 2022 e o mais novo Win SDK.
 [*]Reduzimos a ocorrência rara de cintilação do cursor em CEF.
 [/list]
-[h4]Wallpaper Editor[/h4]
+[h4]Editor de Papel de Parede[/h4]
 [list]
 [*]Adicionamos um novo efeito paralaxe de profundidade.
 [*]Adicionamos um novo DLC de Extensões do Editor GRATUITO para o efeito paralaxe de profundidade. Você só precisa desse complemento se deseja usá-lo no editor. Os usuários dos papéis de parede não precisam do DLC.
@@ -140,14 +140,14 @@ Se você está usando um tema do Windows 11 com transparência, você perceberá
 [*]Corrigimos um erro no editor ao importar texturas com resoluções abaixo do tamanho mínimo necessário.
 [*]Corrigimos certas configurações de filtro fazendo com que os papéis de parede aparecessem duas vezes na aba "Instalados".
 [*]Corrigimos um erro relacionado a texturas de vídeos.
-[*]Corrigimos o fato dos metadados JPEG EXIF não serem aplicados algumas vezes nas camadas de imagens. Se você rotacionar as imagens com o Windows, elas devem aparecer rotacionadas no aplicativo corretamente também.
-[*]Corrigimos um problema com as cores do sistema de partículas não funcionando corretamente.
+[*]Corrigimos o fato dos metadados JPEG EXIF não serem aplicados algumas vezes nas camadas de imagens. Se você rotacionar as imagens com o Windows, elas devem aparecer rotacionadas corretamente no aplicativo também.
+[*]Corrigimos um problema com as cores do sistema de partículas não estarem funcionando corretamente.
 [/list]
 
 [h2]Perguntas frequentes sobre o aplicativo Android[/h2]
 
 [h3]Quanto custa o aplicativo Android?[/h3]
-O aplicativo Android é gratuito, não há custos ocultos, nenhuma compra no aplicativo e nenhum anúncio. Ele também pode ser usado como aplicativo independente sem o Wallpaper Engine no seu computador, e importar arquivos de papel de parede compatíveis a partir do seu dispositivo móvel.
+O aplicativo Android é gratuito, não há custos ocultos, nenhuma compra no aplicativo e nenhum anúncio. Ele também pode ser usado como aplicativo independente sem o Wallpaper Engine no seu computador, e para importar arquivos de papel de parede compatíveis a partir do seu dispositivo móvel.
 
 [h3]A Oficina pode ser acessada diretamente a partir do aplicativo móvel?[/h3]
 Não, a Oficina não pode ser acessada a partir de dispositivos móveis devido a restrições técnicas e legais. Nós construímos uma maneira conveniente de transferir sua coleção existente de papéis de parede a partir do seu computador para o Android. Nós tentamos tornar o processo o mais fácil e simples quanto possível. Na maior parte dos casos, você só precisa se certificar de que seu dispositivo móvel e seu computador estejam conectados na mesma rede. [url=https://help.wallpaperengine.io/mobile/pairing.html]Clique aqui para saber mais.[/url]
@@ -163,7 +163,7 @@ Estivemos usando o aplicativo durante meses nos nossos dispositivos pessoais e e
 Não, todos os papéis de parede são silenciosos no Android. Porém, os visualizadores de áudio funcionam desde que você conceda a permissão ao aplicativo para gravar o áudio do seu dispositivo.
 
 [h3]Posso configurar um papel de parede para a minha tela de bloqueio?[/h3]
-Isso depende do seu dispositivo. Alguns fabricantes de Android não permitem papeis de parede animados na tela de bloqueio, como outros fazem. Se você não possui a possibilidade de definir um papel de parede para a tela de bloqueio, então o fabricando do seu dispositivo não permite.
+Isso depende do seu dispositivo. Alguns fabricantes de Android não permitem papeis de parede animados na tela de bloqueio, como outros fazem. Se você não possui a possibilidade de definir um papel de parede para a tela de bloqueio, então o fabricante do seu dispositivo não permite.
 
 [h3]Existe uma versão do Wallpaper Engine para iOS, em iPhones e iPads?[/h3]
 Infelizmente, o iOS da Apple não suporta papeis de parede animados de verdade como o Android. Não é possível criar algo semelhante ao Wallpaper Engine no iOS. Se a Apple mudar essa característica em algum momento, nós provavelmente também faremos uma versão iOS. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Clique aqui para saber mais sobre a nossa longa explicação a respeito do Linux, Mac OS e iOS.[/url]
