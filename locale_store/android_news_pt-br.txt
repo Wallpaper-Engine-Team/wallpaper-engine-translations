@@ -157,10 +157,10 @@ Adicionalmente, você pode importar diretamente qualquer arquivo de papel de par
 [h3]O Wallpaper Engine drena a bateria dos meus dispositivos?[/h3]
 Não, nós otimizamos o aplicativo extensamente e a maior parte dos dispositivos modernos não notarão efeitos negativos na vida da bateria no uso do dia a dia.
 
-Estivemos usando o aplicativo durante meses nos nossos dispositivos pessoais e em dias normais nós não percebemos nenhum consumo significativo da bateria pelo Wallpaper Engine. The app automatically pauses when another app is full-screened on your device and when your device is turned off. Battery saving mode will automatically pause your live wallpaper to reduce its impact on battery life even further. On top of that, you can also tweak the performance impact in the app settings by adjusting the FPS limit.
+Estivemos usando o aplicativo durante meses nos nossos dispositivos pessoais e em dias normais nós não percebemos nenhum consumo significativo da bateria pelo Wallpaper Engine. O aplicativo pausa automaticamente quando outro aplicativo está em tela cheia no seu dispositivo, e quando seu dispositivo está desligado. O modo de economia de bateria pausará automaticamente seu papel de parede vivo para reduzir o impacto na vida da bateria ainda mais. Além disso, você também pode ajustar o impacto no desempenho nas configurações do aplicativo ajustando o limite de QPS.
 
-[h3]Do wallpapers also play sounds like on Windows?[/h3]
-No, all wallpapers are muted on Android. However, audio visualizers work as long as you grant the app the permission to record your device's audio.
+[h3]Papéis de parede também reproduzem sons como fazem no Windows?[/h3]
+Não, todos os papéis de parede são silenciosos no Android. Porém, os visualizadores de áudio funcionam desde que você conceda a permissão ao aplicativo para gravar o áudio do seu dispositivo.
 
 [h3]Can I set a wallpaper on my Android lock screen?[/h3]
 This depends on your device. Some Android manufacturers do not allow live wallpapers on the lock screen while some others do. If you are not offered the option to set a lock screen wallpaper, then your device manufacturer does not allow it.
