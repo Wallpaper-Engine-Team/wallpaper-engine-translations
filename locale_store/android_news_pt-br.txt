@@ -1,22 +1,22 @@
 Wallpaper Engine 2.0 - App Android gratuito, novo logotipo, recursos e mais!
 
-Wallpaper Engine 2.0 introduz suporte ao Android, vem com um novo logotipo, adiciona um novo efeito de profundidade 3D e muitas outras adições e melhorias ao Wallpaper Engine.
+Wallpaper Engine 2.0 introduz suporte ao Android, traz um novo logotipo, adiciona um novo efeito de profundidade 3D e muitas outras novidades e melhorias ao Wallpaper Engine.
 
 Aplicativo Android GRATUITO
 
-Olá, pessoal, hoje estamos lançando o [b]Wallpaper Engine 2.0[/b]! A atualização traz suporte ao Android, um novo logotipo, um novo efeito de profundidade 3D e muitas outras adições e melhorias ao Wallpaper Engine.
+Olá, pessoal, hoje estamos lançando o [b]Wallpaper Engine 2.0[/b]! A atualização traz suporte ao Android, um novo logotipo, um novo efeito de profundidade 3D e muitas outras novidades e melhorias ao Wallpaper Engine.
 
 [h2]Aplicativo Complementar do Wallpaper Engine para Android[/h2]
 
-Estamos felizes pelo lançamento [i][b]gratuito[/b] do aplicativo complementar para Android, Wallpaper Engine[/i]. Alguns recursos-chave do aplicativo:
+Estamos felizes pelo lançamento [i][b]gratuito[/b] do aplicativo complementar do Wallpaper Engine para Android[/i]. Alguns recursos-chave do aplicativo:
 
 [list][*]Nenhum custo oculto, nenhum anúncio, nenhuma coleta de dados ou rastreamento de usuários.
-[*]Transfira papéis de parede dos tipos [b]Cena[/b] e [b]Vídeo[/b] do Wallpaper Engine no seu computador para o Android sem fio.
+[*]Transfira papéis de parede dos tipos [b]Cena[/b] e [b]Vídeo[/b] do Wallpaper Engine no seu computador para o Android sem cabos.
 [*]Importe qualquer arquivo compatível a partir no seu dispositivo como papel de parede: [i]Vídeos, GIFs, imagens e papéis de parede do Wallpaper Engine[/i].
 [*]Cria uma lista de produção dos seus papéis de parede e use modos diferentes de reprodução.
 [*]Pausa automaticamente no modo economia de bateria, oferece configurações de QPS e qualidade.
 [*]Suporte completo a visualizadores de áudio dinâmico, relógios e outros elementos de papel de parede dinâmicos.
-[*]Permita que os papéis de parede se movam junto dos movimentos do seu dispositivo [i](para dispositivos com giroscópio)[/i].
+[*]Permite que os papéis de parede se movam junto dos movimentos do seu dispositivo [i](para dispositivos com giroscópio)[/i].
 [*]Suporte a temas de cores automáticos com base no papel de parede atual, incluindo o [b]Material You[/b] do Android 12.[/list]
 [table equalcells=1 noborder=1]
     [tr]
@@ -54,7 +54,7 @@ Estamos felizes pelo lançamento [i][b]gratuito[/b] do aplicativo complementar p
     [/tr]
 [/table]
 [h3]Baixe o Wallpaper Engine para Android[/h3]
-Recomendamos instalar o aplicativo através da loja oficial de aplicativos. Porém, também oferecemos um download direto do APK para os usuários avançados. Consulte nosso site para ver todas as opções de instalação aqui:
+Recomendamos instalar o aplicativo através da loja oficial de aplicativos. Porém, também oferecemos um download direto do APK para os usuários mais avançados. Consulte nosso site para ver todas as opções de instalação aqui:
 
 [list][*][h3][i][b][url=wallpaperengine.io/android]Baixe o Aplicativo Complementar do Wallpaper Engine para Android[/url][/b][/i][/h3][/list]
 [h3]Adicionando novos papéis de parede ao Android[/h3]
@@ -157,23 +157,23 @@ Adicionalmente, você pode importar diretamente qualquer arquivo de papel de par
 [h3]O Wallpaper Engine drena a bateria dos meus dispositivos?[/h3]
 Não, nós otimizamos o aplicativo extensamente e a maior parte dos dispositivos modernos não notarão efeitos negativos na vida da bateria no uso do dia a dia.
 
-Estivemos usando o aplicativo durante meses nos nossos dispositivos pessoais e em dias normais nós não percebemos nenhum consumo significativo da bateria pelo Wallpaper Engine. O aplicativo pausa automaticamente quando outro aplicativo está em tela cheia no seu dispositivo, e quando seu dispositivo está desligado. O modo de economia de bateria pausará automaticamente seu papel de parede vivo para reduzir o impacto na vida da bateria ainda mais. Além disso, você também pode ajustar o impacto no desempenho nas configurações do aplicativo ajustando o limite de QPS.
+Estivemos usando o aplicativo durante meses nos nossos dispositivos pessoais e em dias normais nós não percebemos nenhum consumo significativo da bateria pelo Wallpaper Engine. O aplicativo pausa automaticamente quando outro aplicativo está em tela cheia no seu dispositivo, e quando seu dispositivo está desligado. O modo de economia de bateria pausará automaticamente seu papel de parede animado para reduzir o impacto na vida da bateria ainda mais. Além disso, você também pode ajustar o impacto no desempenho nas configurações do aplicativo ajustando o limite de QPS.
 
 [h3]Papéis de parede também reproduzem sons como fazem no Windows?[/h3]
 Não, todos os papéis de parede são silenciosos no Android. Porém, os visualizadores de áudio funcionam desde que você conceda a permissão ao aplicativo para gravar o áudio do seu dispositivo.
 
-[h3]Can I set a wallpaper on my Android lock screen?[/h3]
-This depends on your device. Some Android manufacturers do not allow live wallpapers on the lock screen while some others do. If you are not offered the option to set a lock screen wallpaper, then your device manufacturer does not allow it.
+[h3]Posso configurar um papel de parede para a minha tela de bloqueio?[/h3]
+Isso depende do seu dispositivo. Alguns fabricantes de Android não permitem papeis de parede animados na tela de bloqueio, como outros fazem. Se você não possui a possibilidade de definir um papel de parede para a tela de bloqueio, então o fabricando do seu dispositivo não permite.
 
-[h3]What about Wallpaper Engine on iOS for iPhones and iPads?[/h3]
-Unfortunately, Apple's iOS does not support true live wallpapers like Android. It is not possible to create anything similar to Wallpaper Engine on iOS. If Apple ever changes their mind on this, we will likely also follow-up with an iOS version. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Click here to learn our lengthy explanation about Linux, Mac OS and iOS.[/url]
+[h3]Existe uma versão do Wallpaper Engine para iOS, em iPhones e iPads?[/h3]
+Infelizmente, o iOS da Apple não suporta papeis de parede animados de verdade como o Android. Não é possível criar algo semelhante ao Wallpaper Engine no iOS. Se a Apple mudar essa característica em algum momento, nós provavelmente também faremos uma versão iOS. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Clique aqui para saber mais sobre a nossa longa explicação a respeito do Linux, Mac OS e iOS.[/url]
 
 
 [table equalcells=1 noborder=1]
     [tr][td][/td][td][/td][td][img]{STEAM_CLAN_IMAGE}/26312799/c42514f38e70a8cab07f98f9263ba8a12b0a0c0c.gif[/img][/td][td][/td][td][/td][/tr]
 [/table]
 
-[h2]Feedback, Questions and Technical Support for Android[/h2]
-If you have any questions, suggestions or general feedback about the new Android app or if you run into any technical issues, be sure to post a message on the Android section of our Steam board:
+[h2]Feedback, dúvidas e suporte técnico para Android[/h2]
+Caso você tenha qualquer dúvida, sugestão ou feedback geral sobre o novo aplicativo para Android, ou se você enfrentar qualquer problema técnico, certifque-se de postar uma mensagem na seção Android das nossas discussões no Steam:
 
-[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android App Discussions[/url][/list]
+[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Discussões do Aplicativo Android[/url][/list]
