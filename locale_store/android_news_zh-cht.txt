@@ -1,10 +1,10 @@
 Wallpaper Engine 2.0：免費 Android 應用程式，享受新標誌、新功能、新體驗！
 
-Wallpaper Engine 2.0 introduces support for Android, comes with a new logo, adds a new 3D depth effect and a handful of other additions and improvements to Wallpaper Engine.
+Wallpaper Engine 2.0 支援 Android，與新標誌共同亮相，新增一款 3D 深度效果以及各式各樣其他的功能，讓 Wallpaper Engine 更上層樓。
 
 免費 Android 應用程式
 
-大家好！我們今天要推出 [b]Wallpaper Engine 2.0[/b] 了！ The update brings support for Android, a new logo, a new 3D depth effect and a handful of other additions and improvements to Wallpaper Engine.
+大家好！我們今天推出 [b]Wallpaper Engine 2.0[/b] 了！ The update brings support for Android, a new logo, a new 3D depth effect and a handful of other additions and improvements to Wallpaper Engine.
 
 [h2]Wallpaper Engine Android Companion App[/h2]
 
