@@ -14,16 +14,16 @@ Estamos felizes pelo lançamento [i][b]gratuito[/b] do aplicativo complementar p
 [*]Transfira papéis de parede dos tipos [b]Cena[/b] e [b]Vídeo[/b] do Wallpaper Engine no seu computador para o Android sem fio.
 [*]Importe qualquer arquivo compatível a partir no seu dispositivo como papel de parede: [i]Vídeos, GIFs, imagens e papéis de parede do Wallpaper Engine[/i].
 [*]Cria uma lista de produção dos seus papéis de parede e use modos diferentes de reprodução.
-[*]Automatically pauses when power saving mode is enabled, offers FPS and quality settings.
-[*]Full support for dynamic audio visualizers, clocks & other dynamic wallpaper elements
-[*]Let wallpapers move along with the motion of your device [i](devices with gyroscope)[/i]
-[*]Support for automatic theme colors based on the current wallpaper, including Android 12's [b]Material You[/b][/list]
+[*]Pausa automaticamente no modo economia de bateria, oferece configurações de QPS e qualidade.
+[*]Suporte completo a visualizadores de áudio dinâmico, relógios e outros elementos de papel de parede dinâmicos.
+[*]Permita que os papéis de parede se movam junto dos movimentos do seu dispositivo [i](para dispositivos com giroscópio)[/i].
+[*]Suporte a temas de cores automáticos com base no papel de parede atual, incluindo o [b]Material You[/b] do Android 12.[/list]
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Real-time interactive wallpapers on Android[/b]
+        [td][b]Papéis de parede interativos em tempo real no Android[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/757da27656323aa0dcd02c29678906c7efd09442.gif[/img][/td]
-        [td][b]Customize your wallpapers to your liking[/b]
+        [td][b]Personalize seus papéis de parede de acordo com o seu gosto[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/779d938b4f04f2e7e9a07a46ca09517749f105ec.gif[/img][/td]
     [/tr]
@@ -32,11 +32,11 @@ Estamos felizes pelo lançamento [i][b]gratuito[/b] do aplicativo complementar p
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Visualize your music with audio responsive wallpapers. Credit: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
+        [td][b]Visualize sua música com papéis de parede que reagem ao áudio. Crédito: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/d590754450672c1b121668604832ef5b61568972.gif[/img]
 [/td]
-        [td][b]Let wallpapers react to the motion of your device [i](devices with gyroscope)[/i][/b]
+        [td][b]Papéis de parede que reagem ao movimento do seu dispositivo [i](dispositivos com giroscópio).[/i][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/75962cf9e8e5635216d7ded68e3527a731e1e565.gif[/img][/td]
     [/tr]
@@ -44,17 +44,17 @@ Estamos felizes pelo lançamento [i][b]gratuito[/b] do aplicativo complementar p
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Customize the app by configuring playlists, performance settings and more[/b]
+        [td][b]Personalize o aplicativo configurando listas de reprodução, configurações de desempenho e mais.[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/a609a043455539f48a87e7d692a4eea9722ff9d1.gif[/img]
 [/td]
-        [td][b]Wirelessly transfer your Workshop wallpapers from your computer[/b]
+        [td][b]Transfira seus papéis de parede da Oficina no seu computador por rede sem fio.[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/f8f24e382022472d8972af5f3dbd73f2556cdfdc.gif[/img][/td]
     [/tr]
 [/table]
-[h3]Download Wallpaper Engine for Android[/h3]
-We recommend installing the app through an official app store, however, we also offer a direct APK download for more advanced users. View our website for all installation options here:
+[h3]Baixe o Wallpaper Engine para Android[/h3]
+Recomendamos instalar o aplicativo através da loja oficial de aplicativos. Porém, também oferecemos um download direto do APK para os usuários avançados. View our website for all installation options here:
 
 [list][*][h3][i][b][url=wallpaperengine.io/android]Download the Wallpaper Engine Android Companion App[/url][/b][/i][/h3][/list]
 [h3]Adding new Wallpapers to Android[/h3]
