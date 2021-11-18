@@ -6,7 +6,7 @@ Aplicativo Android GRATUITO
 
 Olá, pessoal, hoje estamos lançando o [b]Wallpaper Engine 2.0[/b]! A atualização traz suporte ao Android, um novo logotipo, um novo efeito de profundidade 3D e muitas outras adições e melhorias ao Wallpaper Engine.
 
-[h2]Wallpaper Engine Aplicativo Complementar Android[/h2]
+[h2]Aplicativo Complementar do Wallpaper Engine para Android[/h2]
 
 Estamos felizes pelo lançamento [i][b]gratuito[/b] do aplicativo complementar para Android, Wallpaper Engine[/i]. Alguns recursos-chave do aplicativo:
 
@@ -54,10 +54,10 @@ Estamos felizes pelo lançamento [i][b]gratuito[/b] do aplicativo complementar p
     [/tr]
 [/table]
 [h3]Baixe o Wallpaper Engine para Android[/h3]
-Recomendamos instalar o aplicativo através da loja oficial de aplicativos. Porém, também oferecemos um download direto do APK para os usuários avançados. View our website for all installation options here:
+Recomendamos instalar o aplicativo através da loja oficial de aplicativos. Porém, também oferecemos um download direto do APK para os usuários avançados. Consulte nosso site para ver todas as opções de instalação aqui:
 
-[list][*][h3][i][b][url=wallpaperengine.io/android]Download the Wallpaper Engine Android Companion App[/url][/b][/i][/h3][/list]
-[h3]Adding new Wallpapers to Android[/h3]
+[list][*][h3][i][b][url=wallpaperengine.io/android]Baixe o Aplicativo Complementar do Wallpaper Engine para Android[/url][/b][/i][/h3][/list]
+[h3]Adicionando novos papéis de parede ao Android[/h3]
 Directly connecting to the Workshop from a mobile device is not possible from a technical and legal point of view. However, we built a convenient system that allows owners of Wallpaper Engine on Windows to transfer their wallpapers to Android devices with ease:
 
 [b]Step 1:[/b] Click on the new [b]Mobile[/b] button in Wallpaper Engine on Windows, then select [b]Connect new device[/b]. Wallpaper Engine will show you a 4 digit PIN that you can use to connect to your mobile device now.
