@@ -1,19 +1,19 @@
-Wallpaper Engine 2.0 - Free Android App, New Logo, New Features and More!
+Wallpaper Engine 2.0 - App Android gratuito, novo logotipo, recursos e mais!
 
-Wallpaper Engine 2.0 introduces support for Android, comes with a new logo, adds a new 3D depth effect and a handful of other additions and improvements to Wallpaper Engine.
+Wallpaper Engine 2.0 introduz suporte ao Android, vem com um novo logotipo, adiciona um novo efeito de profundidade 3D e muitas outras adições e melhorias ao Wallpaper Engine.
 
-FREE Android App
+Aplicativo Android GRATUITO
 
-Hello everyone, today we are releasing [b]Wallpaper Engine 2.0[/b]! The update brings support for Android, a new logo, a new 3D depth effect and a handful of other additions and improvements to Wallpaper Engine.
+Olá, pessoal, hoje estamos lançando o [b]Wallpaper Engine 2.0[/b]! A atualização traz suporte ao Android, um novo logotipo, um novo efeito de profundidade 3D e muitas outras adições e melhorias ao Wallpaper Engine.
 
-[h2]Wallpaper Engine Android Companion App[/h2]
+[h2]Wallpaper Engine Aplicativo Complementar Android[/h2]
 
-We are happy to finally release the [i][b]free[/b] Wallpaper Engine Android companion app[/i]. Some key features of the app are as follows:
+Estamos felizes pelo lançamento [i][b]gratuito[/b] do aplicativo complementar para Android, Wallpaper Engine[/i]. Alguns recursos-chave do aplicativo:
 
-[list][*]No hidden costs, no advertisements, no user tracking or data collection.
-[*]Transfer [b]Scene[/b] and [b]Video[/b] type wallpapers from Wallpaper Engine on your computer to Android wirelessly.
-[*]Import any compatible files from your device as a wallpaper: [i]Videos, GIFs, images & Wallpaper Engine wallpapers[/i]
-[*]Create a playlist of your wallpapers and use different playlist modes
+[list][*]Nenhum custo oculto, nenhum anúncio, nenhuma coleta de dados ou rastreamento de usuários.
+[*]Transfira papéis de parede dos tipos [b]Cena[/b] e [b]Vídeo[/b] do Wallpaper Engine no seu computador para o Android sem fio.
+[*]Importe qualquer arquivo compatível a partir no seu dispositivo como papel de parede: [i]Vídeos, GIFs, imagens e papéis de parede do Wallpaper Engine[/i].
+[*]Cria uma lista de produção dos seus papéis de parede e use modos diferentes de reprodução.
 [*]Automatically pauses when power saving mode is enabled, offers FPS and quality settings.
 [*]Full support for dynamic audio visualizers, clocks & other dynamic wallpaper elements
 [*]Let wallpapers move along with the motion of your device [i](devices with gyroscope)[/i]
