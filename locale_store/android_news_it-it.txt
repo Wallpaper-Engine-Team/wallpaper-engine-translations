@@ -106,29 +106,29 @@ Se usi un tema di Windows 11 con trasparenza, noterai che Wallpaper Engine verr�
 [h4]App principale[/h4]
 [list]
 [*]Aggiunto il supporto per Android e pubblicata la nuova app Android complementare per Wallpaper Engine.
-[*]Added mobile collection to Discover tab.
-[*]Updated Wallpaper Engine logo, color theme, including app icons.
-[*]Added rounded corner support for Windows 11.
-[*]Added "day of week" playlist mode, limited to 7 wallpapers.
-[*]Re-arranged search filters, added new "mobile compatible" filter option.
-[*]Added "favorite" button when right-clicking on a wallpaper.
-[*]"Stop mode" now turns off automatically while wallpaper is being changed manually.
-[*]Improved user interface for configuring physics bones.
-[*]Increased automatic audio unmute delay from 3 to 5 seconds.
-[*]Added scheme color to "apply to all wallpapers" dialog.
-[*]Removed 12h / 24h clock option from playlist, now detected automatically depending on system settings.
-[*]Added CLI applyProperties support to windowed wallpapers.
-[*]Improved app performance with new JSON parser.
-[*]Updated core application binaries to latest Visual Studio 2022 compiler and latest Win SDK.
-[*]Reduced occurrence of rare cursor flickering issue in CEF.
+[*]Aggiunta una raccolta dispositivi mobili nella scheda Scopri.
+[*]Aggiornati logo, tavolozza e icone di Wallpaper Engine.
+[*]Aggiunto supporto angoli arrotondanti per Windows 11.
+[*]Aggiunta modalità playlist "Giorno della settimana", per un massimo di 7 sfondi.
+[*]Riorganizzati i filtri di ricerca e aggiunta una nuova opzione di filtro "Compatibili con Android".
+[*]Aggiunto pulsante "Preferiti" quando si clicca con il pulsante destro su uno sfondo.
+[*]Ora la "Modalità di interruzione" si disattiva automaticamente quando uno sfondo viene cambiato manualmente.
+[*]Interfaccia utente migliorata per la configurazione di ossa fisiche.
+[*]Esteso ritardo automatico di riattivazione audio da 3 a 5 secondi.
+[*]Aggiunta tavolozza per la finestra di dialogo "Applica a tutti gli sfondi".
+[*]Rimossa opzione orologio 12h/24h dalla playlist, ora rilevata automaticamente in base alle impostazioni di sistema.
+[*]Aggiunto supporto applyProperties CLI agli sfondi con modalità finestra.
+[*]Migliorate prestazioni app con il nuovo parser JSON.
+[*]Aggiornati binari dell'applicazione core al compilatore di Visual Studio 2022 e all'SDK Windows più recenti.
+[*]Ridotta occorrenza di sfarfallio del cursore nel CEF.
 [/list]
-[h4]Wallpaper Editor[/h4]
+[h4]Editor di sfondi[/h4]
 [list]
-[*]Added new depth parallax effect.
-[*]Added FREE editor extensions DLC for depth parallax effect. You only need this if you want to use it in the editor, users of your wallpapers do not need this DLC.
-[*]Added color picker tool to editor painting tools.
-[*]Improved support for rendering Chinese, Japanese, Korean and more characters in scene wallpapers text layers with new fonts.
-[*]Improved "Rope Renderer" for particle systems.
+[*]Aggiunto nuovo effetto di profondità parallasse.
+[*]Aggiunto DLC GRATUITO con estensioni dell'editor per l'effetto di profondità parallasse. Ti servirà soltanto se vorrai utilizzarlo nell'editor, gli utenti dei tuoi sfondi non avranno bisogno di questo DLC.
+[*]Aggiunto strumento di selezione colori.
+[*]Migliorato il supporto per i caratteri cinesi, giapponesi e coreani, aggiunti più caratteri per i livelli di testo negli sfondi scena.
+[*]Migliorato il "Renderer delle corde" per i sistemi di particelle.
 [*]SceneScript: [i]init()[/i] and [i]update()[/i] function will now automatically convert numbers into vectors (Vec2, Vec3, Vec4) when they are returned. This helps to simplify some scripts.
 [*]SceneScript: Reviewed and improved all sample code snippets slightly.
 [*]SceneScript: Update reference URLs to [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url].
