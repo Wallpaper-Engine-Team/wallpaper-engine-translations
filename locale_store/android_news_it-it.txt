@@ -90,22 +90,22 @@ Il nostro nuovo effetto di profondità parallasse rappresenta un'importante aggi
 Per sfruttare al massimo l'effetto nell'editor degli sfondi, raccomandiamo di installare il nostro nuovo [i]DLC di estensioni per l'editor [b][i]gratuito[/i][/b] [/i]. Abbiamo deciso di separare questo particolare editor, rendendolo un DLC opzionale, perché le sue funzionalità richiedono un download di diversi gigabyte. Al primo utilizzo dell'effetto nell'editor, Wallpaper Engine ti chiederà di installare il DLC per te. Per maggiori informazioni, consulta la nostra guida completa su come installare e utilizzare l'effetto di profondità parallasse nell'editor:
 
 [list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Profondità parallasse[/url] (al momento disponibile solo in inglese - è possibile avvalersi della traduzione automatica)[/list]
-[b]It's important to note:[/b] You do not need to install the free DLC unless you want to use the effect in the editor yourself - the effect will still work on computers and mobile devices even if the free DLC is not installed.
+[b]Importante:[/b] non devi installare il DLC gratuito a meno che tu stesso non voglia usare l'effetto nell'editor; l'effetto funzionerà comunque sui computer e sui dispositivo mobili anche se il DLC non sarà installato.
 
-[h2]Weekday Playlists[/h2]
-A popular request that we have received over time was the way to configure one wallpaper per weekday. With this update, we are introducing a new weekday playlist. Simply add up to seven wallpapers to the playlist in the [b]Installed[/b] tab of Wallpaper Engine, then click on [b]Configure[/b] in the playlist section and select the [b]Day of Week[/b] option from there. You will also find the already existing playlist options there, such as the [b]Time of Day[/b] playlist type.
+[h2]Playlist per i giorni feriali[/h2]
+Una richiesta ricorrente che abbiamo ricevuto riguardava la configurazione di uno sfondo per giorno feriale. Questo aggiornamento, introdurremo una nuova playlist per i giorni feriali. Basterà aggiungere fino a sette sfondi alla playlist nella scheda [b]Installati[/b] di Wallpaper Engine, quindi cliccare su [b]Configura[/b] nella sezione della playlist e selezionare l'opzione [b]Giorno della settimana[/b]. Troverai anche le opzioni della playlist esistenti, quali l'[b]Ora del giorno[/b].
 
 [h2]Windows 11[/h2]
-Wallpaper Engine fully supports Windows 11, with this update, we are also adding support for the new rounded corners user interface design. If you are upgrading to Windows 11 and experience any issues with Wallpaper Engine, make sure to do a full re-installation of the latest graphics card drivers. Most Windows 11 users who reached out to us with issues were using outdated graphics card drivers.
+Wallpaper Engine supporta completamente Windows 11. Con questo aggiornamento, stiamo aggiungendo il supporto anche per il design dell'interfaccia utente con gli angoli arrotondati. Se stai eseguendo l'upgrade a Windows 11 e riscontri dei problemi con Wallpaper Engine, assicurati di installare gli ultimi driver della scheda grafica. La maggior parte degli utenti di Windows 11 che ci hanno contattati per dei problemi stava usando driver della scheda grafica obsoleti.
 
-If you are using a Windows 11 theme with transparency, you will notice that Wallpaper Engine will be ignored by Windows 11. To fix this issue, simply enable the new [b]Override wallpaper[/b] option in the Wallpaper Engine settings. This will keep your Windows wallpaper in sync with your Wallpaper Engine wallpaper and fix any issues with transparency on Windows 11.
+Se usi un tema di Windows 11 con trasparenza, noterai che Wallpaper Engine verrà ignorato da Windows 11. Per risolvere il problema, basterà abilitare la nuova opzione [b]Sovrascrivi lo sfondo[/b] nelle impostazioni di Wallpaper Engine. Questa operazione manterrà il tuo sfondo di Windows sincronizzato con il tuo sfondo di Wallpaper Engine e risolverà eventuali problemi con la trasparenza in Windows 11.
 
-[h2]Changelog[/h2]
+[h2]Note di rilascio[/h2]
 
-[h3]Additions / Changes[/h3]
-[h4]Main App[/h4]
+[h3]Aggiunte/Modifiche[/h3]
+[h4]App principale[/h4]
 [list]
-[*]Added Android support and released the new Wallpaper Engine Companion app for Android.
+[*]Aggiunto il supporto per Android e pubblicata la nuova app Android complementare per Wallpaper Engine.
 [*]Added mobile collection to Discover tab.
 [*]Updated Wallpaper Engine logo, color theme, including app icons.
 [*]Added rounded corner support for Windows 11.
