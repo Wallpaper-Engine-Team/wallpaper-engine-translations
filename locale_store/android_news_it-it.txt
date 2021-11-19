@@ -74,22 +74,22 @@ La connessione diretta al Workshop da un dispositivo mobile non è possibile da 
 [i]Suggerimento: puoi anche trasferire cartelle o più sfondi contemporaneamente eseguendo una seleziona multipla, tenendo premuto il tasto CTRL. Cliccare su [b]CTRL + A[/b] nella scheda [b]Installati[/b] seleziona tutti gli sfondi installati e ti consente di trasferirli tutti insieme.[/i]
 
 [h2]Nuovo logo di Wallpaper Engine[/h2]
-Insieme all'introduzione della versione di Wallpaper Engine per Android, abbiamo pensato che fosse arrivato il momento di aggiornare il logo. The old logo mainly consisted of a computer screen - which does not make much sense on a mobile device. A major release 2.0 release felt like the best time to try something new and we are very happy with the outcome.
+Insieme all'introduzione della versione di Wallpaper Engine per Android, abbiamo pensato che fosse arrivato il momento di aggiornare il logo. Il vecchio logo rappresentava principalmente lo schermo di un computer, il che non ha molto senso per un dispositivo mobile. L'aggiornamento 2.0 ci è parso l'occasione migliore per provare qualcosa di nuovo e siamo felici del risultato.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/1f283ac68453f6bf3beb36c1fd49ebbe680685a0.png[/img]
 
-We have experimented a lot with different designs and settled on a new logo which keeps the spirit of the old design, but with a more modern spin. With Wallpaper Engine 2.0, you will find the new logo throughout the application, in Windows and on our websites:
+Abbiamo sperimentato un sacco di design diversi e optato per un nuovo logo che mantiene lo spirito del design precedente, ma con un tocco più moderno. Con Wallpaper Engine 2.0, troverai il nuovo logo in tutta l'applicazione, in Windows e sui nostri siti:
 
 [img]{STEAM_CLAN_IMAGE}/26312799/ecb522ad46fedd9502a715ae38937246172dfcbe.png[/img]
 
-[h2]New Depth Parallax Effect[/h2]
-A major new addition to the Wallpaper Engine editor is our new Depth Parallax effect. This effect will allow you to create a perceived 3D depth to your images. On computers, the effect is influenced by the mouse while on Android, the movement of the phone will simulate the mouse movement.
+[h2]Nuovo effetto di profondità parallasse[/h2]
+Il nostro nuovo effetto di profondità parallasse rappresenta un'importante aggiunta all'editor di Wallpaper Engine. Questo effetto ti consentirà di creare una profondità 3D percepibile nelle tue immagini. Sui computer l'effetto è influenzato dal mouse, mentre con Android il movimento del telefono simulerà il movimento del mouse.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
-To make full-use of the effect in the wallpaper editor, we recommend installing our new [b][i]free[/i][/b] [i]Editor Extensions DLC[/i]. We decided to separate this particular editor feature into an optional DLC because the features requires a download which is several gigabytes in size. When first using the effect in the editor, Wallpaper Engine will ask you to install the DLC for you. For more infos, see our full guide on how to install and use the depth parallax effect in the editor:
+Per sfruttare al massimo l'effetto nell'editor degli sfondi, raccomandiamo di installare il nostro nuovo [i]DLC di estensioni per l'editor [b][i]gratuito[/i][/b] [/i]. Abbiamo deciso di separare questo particolare editor, rendendolo un DLC opzionale, perché le sue funzionalità richiedono un download di diversi gigabyte. Al primo utilizzo dell'effetto nell'editor, Wallpaper Engine ti chiederà di installare il DLC per te. Per maggiori informazioni, consulta la nostra guida completa su come installare e utilizzare l'effetto di profondità parallasse nell'editor:
 
-[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Depth Parallax[/url] (Only available in English right now - machine translation works well)[/list]
+[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Profondità parallasse[/url] (al momento disponibile solo in inglese - è possibile avvalersi della traduzione automatica)[/list]
 [b]It's important to note:[/b] You do not need to install the free DLC unless you want to use the effect in the editor yourself - the effect will still work on computers and mobile devices even if the free DLC is not installed.
 
 [h2]Weekday Playlists[/h2]
