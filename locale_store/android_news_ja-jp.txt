@@ -8,7 +8,7 @@ Wallpaper Engine 2.0では、Wallpaper EngineがAndroid対応になります。�
 
 [h2]Wallpaper Engineコンパニオン（Android用）[/h2]
 
-We are happy to finally release the [i][b]free[/b] Wallpaper Engine Android companion app[/i]. Some key features of the app are as follows:
+ついに[i][b]無料アプリ[/b]の「Wallpaper Engineコンパニオン（Android用）」[/i]をリリースすることができ嬉しい限りです。 いくつかの主要機能を以下で紹介します。
 
 [list][*]No hidden costs, no advertisements, no user tracking or data collection.
 [*]Transfer [b]Scene[/b] and [b]Video[/b] type wallpapers from Wallpaper Engine on your computer to Android wirelessly.
