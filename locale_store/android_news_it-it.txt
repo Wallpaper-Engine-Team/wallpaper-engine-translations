@@ -176,4 +176,4 @@ Unfortunately, Apple's iOS does not support true live wallpapers like Android. I
 [h2]Feedback, Questions and Technical Support for Android[/h2]
 If you have any questions, suggestions or general feedback about the new Android app or if you run into any technical issues, be sure to post a message on the Android section of our Steam board:
 
-[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android App Discussions[/url][/list]
+[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Discussioni app Android[/url][/list]
