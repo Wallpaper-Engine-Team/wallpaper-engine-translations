@@ -1,16 +1,16 @@
 Wallpaper Engine 2.0：免費 Android 應用程式，享受新標誌、新功能、新體驗！
 
-Wallpaper Engine 2.0 支援 Android，與新標誌共同亮相，新增一款 3D 深度效果以及各式各樣其他的功能，讓 Wallpaper Engine 更上層樓。
+Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增一款 3D 深度效果以及各式各樣功能，讓 Wallpaper Engine 更上層樓。
 
 免費 Android 應用程式
 
-大家好！我們今天推出 [b]Wallpaper Engine 2.0[/b] 了！ The update brings support for Android, a new logo, a new 3D depth effect and a handful of other additions and improvements to Wallpaper Engine.
+大家好！我們今天推出 [b]Wallpaper Engine 2.0[/b] 了！ Wallpaper Engine 新支援 Android，與新標誌共同亮相，新增一款 3D 深度效果以及各式各樣其他的功能，讓 Wallpaper Engine 更上層樓。
 
-[h2]Wallpaper Engine Android Companion App[/h2]
+[h2]Wallpaper Engine Android 版隨附應用程式[/h2]
 
-We are happy to finally release the [i][b]free[/b] Wallpaper Engine Android companion app[/i]. Some key features of the app are as follows:
+很開心在此宣布，終於推出[i][b]免費的[/b] Wallpaper Engine Android 版隨附應用程式[/i]。 部分關鍵功能如下：
 
-[list][*]No hidden costs, no advertisements, no user tracking or data collection.
+[list][*]j無隱藏費用、無廣告、無使用者追蹤功能、無資料收集機制。
 [*]Transfer [b]Scene[/b] and [b]Video[/b] type wallpapers from Wallpaper Engine on your computer to Android wirelessly.
 [*]Import any compatible files from your device as a wallpaper: [i]Videos, GIFs, images & Wallpaper Engine wallpapers[/i]
 [*]Create a playlist of your wallpapers and use different playlist modes

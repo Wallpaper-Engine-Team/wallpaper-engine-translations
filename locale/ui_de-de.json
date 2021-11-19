@@ -564,7 +564,7 @@
 	"ui_browse_mobile_upload_modal_export_info": "<b>Tipp:</b> Verbinde Wallpaper Engine mit deinem Android-Gerät, um deine Hintergründe kabellos auf dein Mobilgerät zu übertragen, ohne diese zuerst exportieren zu müssen: <a href='[[[var_url_mobile_faq]]]'>Klicke hier um mehr zu erfahren</a>.",
 	"ui_browse_mobile_upload_modal_preset_quality": "Hintergrund-Qualität",
 	"ui_browse_mobile_upload_modal_preset_high": "Hohe Qualität",
-	"ui_browse_mobile_upload_modal_preset_medium": "Ausbalanciert",
+	"ui_browse_mobile_upload_modal_preset_medium": "Ausgewogen",
 	"ui_browse_mobile_upload_modal_preset_low": "Hohe Leistung",
 	"ui_browse_mobile_upload_modal_preset_section_live": "Dynamisch",
 	"ui_browse_mobile_upload_modal_preset_section_pre_rendered": "Vorgerendert",
