@@ -17,13 +17,13 @@ Wallpaper Engine 2.0では、Wallpaper EngineがAndroid対応になります。�
 [*]省電力モードが有効になっていると自動で一時停止します。フレームレートやクオリティを設定することも可能です。
 [*]オーディオビジュアライザー、時計、その他の壁紙のエレメントなど動的なものにも完全対応しています。
 [*]自分のデバイスの動きに合わせて壁紙を動かすことができます。[i]（ジャイロスコープ機能を搭載している場合）[/i]
-[*]Support for automatic theme colors based on the current wallpaper, including Android 12's [b]Material You[/b][/list]
+[*]Android 12の「[b]Material You[/b]」など、現在使っている壁紙の色調に合わせて自動的にカラーテーマを設定してくれる機能にも対応しています。[/list]
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Real-time interactive wallpapers on Android[/b]
+        [td][b]Android用リアルタイムインタラクティブ壁紙[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/757da27656323aa0dcd02c29678906c7efd09442.gif[/img][/td]
-        [td][b]Customize your wallpapers to your liking[/b]
+        [td][b]自分好みに壁紙をカスタマイズ可能[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/779d938b4f04f2e7e9a07a46ca09517749f105ec.gif[/img][/td]
     [/tr]
@@ -32,11 +32,11 @@ Wallpaper Engine 2.0では、Wallpaper EngineがAndroid対応になります。�
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Visualize your music with audio responsive wallpapers. Credit: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
+        [td][b]オーディオ応答壁紙でお気に入りの音楽を可視化。 引用： [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/d590754450672c1b121668604832ef5b61568972.gif[/img]
 [/td]
-        [td][b]Let wallpapers react to the motion of your device [i](devices with gyroscope)[/i][/b]
+        [td][b]自分のデバイスの動きに合わせて壁紙が反応[i]（ジャイロスコープ機能が搭載されている場合）[/i][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/75962cf9e8e5635216d7ded68e3527a731e1e565.gif[/img][/td]
     [/tr]
