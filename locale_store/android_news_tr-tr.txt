@@ -12,18 +12,18 @@ Sonunda [i][b]ücretsiz[/b] Wallpaper Engine Android yardımcı uygulamasını[/
 
 [list][*]Gizli ücretlendirmeler yok, reklam yok, kullanıcı takibi veya veri toplama yok.
 [*]Transfer [b]Scene[/b] and [b]Video[/b] type wallpapers from Wallpaper Engine on your computer to Android wirelessly.
-[*]Import any compatible files from your device as a wallpaper: [i]Videos, GIFs, images & Wallpaper Engine wallpapers[/i]
-[*]Create a playlist of your wallpapers and use different playlist modes
-[*]Automatically pauses when power saving mode is enabled, offers FPS and quality settings.
-[*]Full support for dynamic audio visualizers, clocks & other dynamic wallpaper elements
-[*]Let wallpapers move along with the motion of your device [i](devices with gyroscope)[/i]
+[*]Cihazınızdaki uyumlu dosyaları duvar kağıdı olarak içe aktarın: [i]Videolar, GIF'ler, resimler ve Wallpaper Engine duvar kağıtları[/i]
+[*]Duvar kağıtlarınızdan bir çalma listesi oluşturun ve farklı çalma listesi modlarını kullanın
+[*]Güç tasarrufu modu etkinleştirildiğinde otomatik olarak duraklar, FPS ve kalite ayarları sunar.
+[*]Dinamik ses görselleştiriciler, saatler ve diğer dinamik duvar kağıdı öğeleri için tam destek
+[*]Duvar kağıtlarının cihazınızın hareketiyle birlikte hareket etmesine izin verin [i](jiroskoplu cihazlar)[/i]
 [*]Support for automatic theme colors based on the current wallpaper, including Android 12's [b]Material You[/b][/list]
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Real-time interactive wallpapers on Android[/b]
+        [td][b]Android'de gerçek zamanlı etkileşimli duvar kağıtları[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/757da27656323aa0dcd02c29678906c7efd09442.gif[/img][/td]
-        [td][b]Customize your wallpapers to your liking[/b]
+        [td][b]Duvar kağıtlarınızı zevkinize göre özelleştirin[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/779d938b4f04f2e7e9a07a46ca09517749f105ec.gif[/img][/td]
     [/tr]
@@ -32,11 +32,11 @@ Sonunda [i][b]ücretsiz[/b] Wallpaper Engine Android yardımcı uygulamasını[/
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Visualize your music with audio responsive wallpapers. Credit: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
+        [td][b]Ses duyarlı duvar kağıtları ile müziğinizi görselleştirin. Kaynak: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/d590754450672c1b121668604832ef5b61568972.gif[/img]
 [/td]
-        [td][b]Let wallpapers react to the motion of your device [i](devices with gyroscope)[/i][/b]
+        [td][b]Duvar kağıtlarının cihazınızın hareketine tepki vermesine izin verin [i](jiroskoplu cihazlar)[/i][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/75962cf9e8e5635216d7ded68e3527a731e1e565.gif[/img][/td]
     [/tr]
@@ -44,41 +44,41 @@ Sonunda [i][b]ücretsiz[/b] Wallpaper Engine Android yardımcı uygulamasını[/
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Customize the app by configuring playlists, performance settings and more[/b]
+        [td][b]Oynatma listelerini, performans ayarlarını ve daha fazlasını yapılandırarak uygulamayı özelleştirin[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/a609a043455539f48a87e7d692a4eea9722ff9d1.gif[/img]
 [/td]
-        [td][b]Wirelessly transfer your Workshop wallpapers from your computer[/b]
+        [td][b]Atölye duvar kağıtlarınızı bilgisayarınızdan kablosuz olarak aktarın[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/f8f24e382022472d8972af5f3dbd73f2556cdfdc.gif[/img][/td]
     [/tr]
 [/table]
-[h3]Download Wallpaper Engine for Android[/h3]
-We recommend installing the app through an official app store, however, we also offer a direct APK download for more advanced users. View our website for all installation options here:
+[h3]Android için Wallpaper Engine'i indirin[/h3]
+Uygulamayı resmi bir uygulama mağazası aracılığıyla yüklemenizi öneririz ancak daha ileri düzey kullanıcılar için doğrudan APK indirme seçeneği de sunuyoruz. Tüm kurulum seçenekleri için web sitemizi buradan görüntüleyin:
 
-[list][*][h3][i][b][url=wallpaperengine.io/android]Download the Wallpaper Engine Android Companion App[/url][/b][/i][/h3][/list]
-[h3]Adding new Wallpapers to Android[/h3]
-Directly connecting to the Workshop from a mobile device is not possible from a technical and legal point of view. However, we built a convenient system that allows owners of Wallpaper Engine on Windows to transfer their wallpapers to Android devices with ease:
+[list][*][h3][i][b][url=wallpaperengine.io/android]Wallpaper Engine Arkadaş Android Uygulamasını İndirin[/url][/b][/i][/h3][/list]
+[h3]Android'e yeni Duvar Kağıtları Eklemek[/h3]
+Atölyeye mobil cihazdan doğrudan bağlanmak, teknik ve hukuki açıdan mümkün değildir. Ancak, Windows'ta Wallpaper Engine sahiplerinin duvar kağıtlarını kolaylıkla Android cihazlara aktarmalarını sağlayan kullanışlı bir sistem oluşturduk:
 
-[b]Step 1:[/b] Click on the new [b]Mobile[/b] button in Wallpaper Engine on Windows, then select [b]Connect new device[/b]. Wallpaper Engine will show you a 4 digit PIN that you can use to connect to your mobile device now.
+[b]Step 1:[/b] Click on the new [b]Mobile[/b] button in Wallpaper Engine on Windows, then select [b]Connect new device[/b]. Wallpaper Engine, şimdi mobil cihazınıza bağlanmak için kullanabileceğiniz 4 haneli bir PIN gösterecektir.
 
-[b]Step 2:[/b] Open Wallpaper Engine on your Android device and click on the [b]Add[/b] button in the lower right corner. Select [b]Pair with Computer[/b], your computer should now be visible in the device list. Select it and enter the 4 digit PIN from step 1.
+[b]Step 2:[/b] Open Wallpaper Engine on your Android device and click on the [b]Add[/b] button in the lower right corner. Select [b]Pair with Computer[/b], your computer should now be visible in the device list. Seçin ve 1. adımdaki 4 haneli PIN'i girin.
 
-[b]Step 3:[/b] Your devices should now be connected. Right-click on any compatible wallpaper and click on [b]Send to mobile device[/b], then select your mobile device from the list. Your wallpaper will now be transferred.
+[b]Step 3:[/b] Your devices should now be connected. Right-click on any compatible wallpaper and click on [b]Send to mobile device[/b], then select your mobile device from the list. Duvar kağıdınız şimdi aktarılacaktır.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/0fc8bc609bd7d959fa87fe7f90e3f1612ba67cd1.gif[/img]
 
 [b]If you are unable to connect to Android:[/b] Right-click on any wallpaper and select [b]Send to mobile device[/b], then select [b]Export .mpkg[/b]. You can then transfer the exported mobile package file to your mobile device via cable or by transferring it to your mobile device in another way.
 
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to read our Android connection guide.[/url][/list]
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Android bağlantı kılavuzumuzu okumak için buraya tıklayın.[/url][/list]
 [i]Tip: You can also transfer folders or multiple wallpapers at the same time by multi-selecting them by holding the CTRL key. Clicking [b]CTRL + A[/b] in the [b]Installed[/b] tab selects all installed wallpapers and lets you transfer them all at the same time.[/i]
 
-[h2]New Wallpaper Engine Logo[/h2]
-Along with the release of the Android version of Wallpaper Engine, we felt it was time to update our logo. The old logo mainly consisted of a computer screen - which does not make much sense on a mobile device. A major release 2.0 release felt like the best time to try something new and we are very happy with the outcome.
+[h2]Yeni Wallpaper Engine Logosu[/h2]
+Wallpaper Engine'in Android sürümünün yayınlanmasıyla birlikte logomuzu güncelleme zamanının geldiğini hissettik. Eski logo, esas olarak bir bilgisayar ekranından oluşuyordu ve bu, bir mobil cihazda pek bir anlam ifade etmiyor. Büyük bir 2.0 sürümü, yeni bir şey denemek için en iyi zaman gibi geldi ve sonuçtan oldukça memnunuz.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/1f283ac68453f6bf3beb36c1fd49ebbe680685a0.png[/img]
 
-We have experimented a lot with different designs and settled on a new logo which keeps the spirit of the old design, but with a more modern spin. With Wallpaper Engine 2.0, you will find the new logo throughout the application, in Windows and on our websites:
+Farklı tasarımlarla çok şey denedik ve eski tasarımın ruhunu koruyan ancak daha modern bir dönüşle yeni bir logo üzerinde karar kıldık. With Wallpaper Engine 2.0, you will find the new logo throughout the application, in Windows and on our websites:
 
 [img]{STEAM_CLAN_IMAGE}/26312799/ecb522ad46fedd9502a715ae38937246172dfcbe.png[/img]
 
