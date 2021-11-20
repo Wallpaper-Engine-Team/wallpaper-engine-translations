@@ -87,12 +87,12 @@ Android版Wallpaper Engineのリリースにともなって、そろそろロゴ
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
-壁紙エディタでこの効果を十分に活用するためには、当社の新しい[b][i]無料[/i][/b][i]エディタ拡張機能DLC[/i]をインストールすることを推奨します。 We decided to separate this particular editor feature into an optional DLC because the features requires a download which is several gigabytes in size. When first using the effect in the editor, Wallpaper Engine will ask you to install the DLC for you. For more infos, see our full guide on how to install and use the depth parallax effect in the editor:
+壁紙エディタでこの効果を十分に活用するためには、当社の新しい[b][i]無料[/i][/b][i]エディタ拡張機能DLC[/i]をインストールすることを推奨します。 何GBものデータをダウンロードをしなくてはいけないため、このエディタ機能だけはDLCとして分割させていただくことにしました。 エディタで初めて視差効果を使用するときに、Wallpaper EngineからDLCをインストールするように求められます。 詳しい情報は、エディタで視差効果をインストールし使用する方法に関するフルガイドでご確認ください。
 
-[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Depth Parallax[/url] (Only available in English right now - machine translation works well)[/list]
-[b]It's important to note:[/b] You do not need to install the free DLC unless you want to use the effect in the editor yourself - the effect will still work on computers and mobile devices even if the free DLC is not installed.
+[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]視差効果[/url] (現在は英語版しか利用できません。機械翻訳で問題なく理解できます。)[/list]
+※[b]重要[/b]：エディタで自ら視差効果を使って編集しない場合、無料DLCをダウンロードする必要はありません。DLCがインストールされていなくても、視差効果はPCやモバイルデバイスできちんと機能します。
 
-[h2]Weekday Playlists[/h2]
+[h2]曜日毎プレイリスト[/h2]
 A popular request that we have received over time was the way to configure one wallpaper per weekday. With this update, we are introducing a new weekday playlist. Simply add up to seven wallpapers to the playlist in the [b]Installed[/b] tab of Wallpaper Engine, then click on [b]Configure[/b] in the playlist section and select the [b]Day of Week[/b] option from there. You will also find the already existing playlist options there, such as the [b]Time of Day[/b] playlist type.
 
 [h2]Windows 11[/h2]
