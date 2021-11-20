@@ -58,7 +58,7 @@ Wallpaper Engine 2.0では、Wallpaper EngineがAndroid対応になります。�
 
 [list][*][h3][i][b][url=wallpaperengine.io/android]「アンドロイド版Wallpaper Engineコンパニオン」をダウンロード[/url][/b][/i][/h3][/list]
 [h3]新しい壁紙をAndroidに追加[/h3]
-技術的ならびに法的な制約によって、モバイルデバイスからワークショップに直接アクセスすることはできません。 However, we built a convenient system that allows owners of Wallpaper Engine on Windows to transfer their wallpapers to Android devices with ease:
+技術的ならびに法的な制約によって、モバイルデバイスからワークショップに直接アクセスすることは不可能です。 しかし、我々の開発した便利なシステムによりWindowsでWallpaper Engineを所有している人ならば、Androidデバイスに自分の壁紙を転送することができるようになりました。
 
 [b]Step 1:[/b] Click on the new [b]Mobile[/b] button in Wallpaper Engine on Windows, then select [b]Connect new device[/b]. Wallpaper Engine will show you a 4 digit PIN that you can use to connect to your mobile device now.
 
