@@ -1,4 +1,4 @@
-Wallpaper Engine 2.0：Android用の無料アプリ、ロゴの更新、新機能など！
+Wallpaper Engine 2.0：Android用の無料アプリ、新ロゴ、新機能など！
 
 Wallpaper Engine 2.0では、Wallpaper EngineがAndroid対応になります。また、ロゴが一新され、新しい3D奥行き効果など様々な機能も追加・改善されます。
 
@@ -74,15 +74,15 @@ Wallpaper Engine 2.0では、Wallpaper EngineがAndroid対応になります。�
 [i]ヒント：CTRLキー長押しで複数選択することで、フォルダや複数の壁紙を一括転送することができます。 「[b]インストール済み[/b]」タブで[b]CTRL + A[/b]を押したままクリックすることで、インストール済みの壁紙をすべて選択し一括で転送することも可能です。[/i]
 
 [h2]Wallpaper Engineの新ロゴ[/h2]
-Android版Wallpaper Engineのリリースにともなって、そろそろロゴを新しいものにする頃合いだと感じました。 The old logo mainly consisted of a computer screen - which does not make much sense on a mobile device. A major release 2.0 release felt like the best time to try something new and we are very happy with the outcome.
+Android版Wallpaper Engineのリリースにともなって、そろそろロゴを新しいものにする頃合いだと感じました。 これまでのロゴはPCモニターを基調としたものでした。しかし、そのままではモバイルデバイスにそぐわなかったのです。 そして、大変満足のいくものができあがりました。
 
 [img]{STEAM_CLAN_IMAGE}/26312799/1f283ac68453f6bf3beb36c1fd49ebbe680685a0.png[/img]
 
-We have experimented a lot with different designs and settled on a new logo which keeps the spirit of the old design, but with a more modern spin. With Wallpaper Engine 2.0, you will find the new logo throughout the application, in Windows and on our websites:
+色々なデザインで何度も試行錯誤を繰り返しました。その結果、これまでのデザインの面影を残しながらも、現代的なアレンジが加わったロゴが新ロゴに決定しました。 Wallpaper Engine2.0ではアプリ、Windows、当社のウェブサイトなどあちこちで新しくなったロゴを見かけることになるでしょう。
 
 [img]{STEAM_CLAN_IMAGE}/26312799/ecb522ad46fedd9502a715ae38937246172dfcbe.png[/img]
 
-[h2]New Depth Parallax Effect[/h2]
+[h2]新しくなった視差効果[/h2]
 A major new addition to the Wallpaper Engine editor is our new Depth Parallax effect. This effect will allow you to create a perceived 3D depth to your images. On computers, the effect is influenced by the mouse while on Android, the movement of the phone will simulate the mouse movement.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
