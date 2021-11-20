@@ -58,22 +58,22 @@ Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增一款
 
 [list][*][h3][i][b][url=wallpaperengine.io/android]下載 Wallpaper Engine Android 版隨附應用程式[/url][/b][/i][/h3][/list]
 [h3]將新桌布新增至 Android[/h3]
-Directly connecting to the Workshop from a mobile device is not possible from a technical and legal point of view. However, we built a convenient system that allows owners of Wallpaper Engine on Windows to transfer their wallpapers to Android devices with ease:
+從技術和法律面來看，行動裝置直接連線至工作坊並不可行。 不過，我們打造了簡便好用的系統，供 Windows 版 Wallpaper Engine 使用者輕鬆將桌布傳輸至 Android 裝置：
 
-[b]Step 1:[/b] Click on the new [b]Mobile[/b] button in Wallpaper Engine on Windows, then select [b]Connect new device[/b]. Wallpaper Engine will show you a 4 digit PIN that you can use to connect to your mobile device now.
+[b]步驟 1：[/b]按一下 Windows 版 Wallpaper Engine 新的[b]行動裝置[/b]按鈕，接著選取[b]連接新的行動裝置[/b]。 Wallpaper Engine 將顯示 4 位數的 PIN 碼，可用來連接至行動裝置。
 
-[b]Step 2:[/b] Open Wallpaper Engine on your Android device and click on the [b]Add[/b] button in the lower right corner. Select [b]Pair with Computer[/b], your computer should now be visible in the device list. Select it and enter the 4 digit PIN from step 1.
+[b]步驟 2：[/b]開啟 Android 裝置上的 Wallpaper Engine，按一下右下角的[b]新增[/b]按鈕。 選取[b]與電腦配對[/b]，現在裝置清單中應可看見您的電腦。 選取後輸入步驟 1 所列的 4 位數 PIN 碼。
 
-[b]Step 3:[/b] Your devices should now be connected. Right-click on any compatible wallpaper and click on [b]Send to mobile device[/b], then select your mobile device from the list. Your wallpaper will now be transferred.
+[b]步驟 3：[/b]現在裝置應已連接。 以滑鼠右鍵在任何相容的桌布上按一下，點選[b]傳送至行動裝置[/b]，從清單選取您的行動裝置。 您的桌布將開始傳輸。
 
 [img]{STEAM_CLAN_IMAGE}/26312799/0fc8bc609bd7d959fa87fe7f90e3f1612ba67cd1.gif[/img]
 
-[b]If you are unable to connect to Android:[/b] Right-click on any wallpaper and select [b]Send to mobile device[/b], then select [b]Export .mpkg[/b]. You can then transfer the exported mobile package file to your mobile device via cable or by transferring it to your mobile device in another way.
+[b]如果無法連線至 Android：[/b]以滑鼠右鍵在任一桌布上按一下，選取[b]傳送至行動裝置[/b]，再選取[b]匯出 .mpkg[/b]。 接著即可利用傳輸線將匯出的行動封裝檔案傳輸至行動裝置，或是以其他方式傳輸。
 
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to read our Android connection guide.[/url][/list]
-[i]Tip: You can also transfer folders or multiple wallpapers at the same time by multi-selecting them by holding the CTRL key. Clicking [b]CTRL + A[/b] in the [b]Installed[/b] tab selects all installed wallpapers and lets you transfer them all at the same time.[/i]
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]按一下此處閱讀 Android 連線指南。[/url][/list]
+[i]提示：您也可按住鍵盤上的 CTRL 鍵同時選取多個資料夾或多張桌布，並一次傳輸。 在[b]已安裝[/b]分頁按一下 [b]CTRL + A[/b]，即可選取所有已安裝的桌布，並同時傳輸。[/i]
 
-[h2]New Wallpaper Engine Logo[/h2]
+[h2]新的 Wallpaper Engine 標誌[/h2]
 Along with the release of the Android version of Wallpaper Engine, we felt it was time to update our logo. The old logo mainly consisted of a computer screen - which does not make much sense on a mobile device. A major release 2.0 release felt like the best time to try something new and we are very happy with the outcome.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/1f283ac68453f6bf3beb36c1fd49ebbe680685a0.png[/img]
