@@ -74,15 +74,15 @@ Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增一款
 [i]提示：您也可按住鍵盤上的 CTRL 鍵同時選取多個資料夾或多張桌布，並一次傳輸。 在[b]已安裝[/b]分頁按一下 [b]CTRL + A[/b]，即可選取所有已安裝的桌布，並同時傳輸。[/i]
 
 [h2]新的 Wallpaper Engine 標誌[/h2]
-Along with the release of the Android version of Wallpaper Engine, we felt it was time to update our logo. The old logo mainly consisted of a computer screen - which does not make much sense on a mobile device. A major release 2.0 release felt like the best time to try something new and we are very happy with the outcome.
+隨著 Android 版 Wallpaper Engine 推出，我們認為也該是時候更新標誌了。 原本的標誌含有電腦畫面，似乎不太適合用在行動裝置上。 2.0 版隆重推出之際，正是改頭換面的最佳時機，我們很滿意新標誌、新氣象。
 
 [img]{STEAM_CLAN_IMAGE}/26312799/1f283ac68453f6bf3beb36c1fd49ebbe680685a0.png[/img]
 
-We have experimented a lot with different designs and settled on a new logo which keeps the spirit of the old design, but with a more modern spin. With Wallpaper Engine 2.0, you will find the new logo throughout the application, in Windows and on our websites:
+我們多方嘗試各式各樣的設計，最終推出的成品保留既有設計的精神，也增添更符合現代的氣息。 在 Wallpaper Engine 2.0 版中，您將可在應用程式、Windows 及官網上看見這款新標誌：
 
 [img]{STEAM_CLAN_IMAGE}/26312799/ecb522ad46fedd9502a715ae38937246172dfcbe.png[/img]
 
-[h2]New Depth Parallax Effect[/h2]
+[h2]新的深度視差效果[/h2]
 A major new addition to the Wallpaper Engine editor is our new Depth Parallax effect. This effect will allow you to create a perceived 3D depth to your images. On computers, the effect is influenced by the mouse while on Android, the movement of the phone will simulate the mouse movement.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
@@ -100,10 +100,10 @@ Wallpaper Engine fully supports Windows 11, with this update, we are also adding
 
 If you are using a Windows 11 theme with transparency, you will notice that Wallpaper Engine will be ignored by Windows 11. To fix this issue, simply enable the new [b]Override wallpaper[/b] option in the Wallpaper Engine settings. This will keep your Windows wallpaper in sync with your Wallpaper Engine wallpaper and fix any issues with transparency on Windows 11.
 
-[h2]Changelog[/h2]
+[h2]變更記錄[/h2]
 
-[h3]Additions / Changes[/h3]
-[h4]Main App[/h4]
+[h3]新增/變更[/h3]
+[h4]主要應用程式功能[/h4]
 [list]
 [*]Added Android support and released the new Wallpaper Engine Companion app for Android.
 [*]Added mobile collection to Discover tab.
@@ -122,7 +122,7 @@ If you are using a Windows 11 theme with transparency, you will notice that Wall
 [*]Updated core application binaries to latest Visual Studio 2022 compiler and latest Win SDK.
 [*]Reduced occurrence of rare cursor flickering issue in CEF.
 [/list]
-[h4]Wallpaper Editor[/h4]
+[h4]Wallpaper 編輯器[/h4]
 [list]
 [*]Added new depth parallax effect.
 [*]Added FREE editor extensions DLC for depth parallax effect. You only need this if you want to use it in the editor, users of your wallpapers do not need this DLC.
@@ -176,4 +176,4 @@ Unfortunately, Apple's iOS does not support true live wallpapers like Android. I
 [h2]Feedback, Questions and Technical Support for Android[/h2]
 If you have any questions, suggestions or general feedback about the new Android app or if you run into any technical issues, be sure to post a message on the Android section of our Steam board:
 
-[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android App Discussions[/url][/list]
+[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android 版應用程式討論區[/url][/list]
