@@ -90,28 +90,28 @@ Dużą nowością w edytorze Wallpaper Engine jest nasz nowy efekt głębokości
 Aby w pełni wykorzystać ten efekt w edytorze tapet, zalecamy instalację naszego nowego [b][i]darmowego[/i][/b] dodatku [i]Rozszerzenia edytora[/i]. Postanowiliśmy oddzielić tę konkretną funkcję edytora w formie opcjonalnego dodatku, ponieważ wymaga ona pobrania kilku gigabajtów danych. Gdy po raz pierwszy wybierzesz tę funkcję w edytorze, Wallpaper Engine poprosi Cię o instalację tego dodatku. Po więcej informacji zajrzyj do naszego obszernego poradnika o tym, jak zainstalować i używać efektu głębokości paralaksy w edytorze:
 
 [list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Głebokość paralaksy[/url] (poradnik jest aktualnie dostępny jedynie w wersji angielskiej, ale tłumaczenie maszynowe działa dobrze)[/list]
-[b]It's important to note:[/b] You do not need to install the free DLC unless you want to use the effect in the editor yourself - the effect will still work on computers and mobile devices even if the free DLC is not installed.
+[b]Ważne[/b] nie musisz instalować darmowego dodatku, jeśli nie chcesz tworzyć własnych tapet z jego pomocą w edytorze – efekt będzie widoczny na tapetach na komputerach i urządzeniach mobilnych, nawet jeśli nie zainstalujesz darmowego dodatku.
 
-[h2]Weekday Playlists[/h2]
-A popular request that we have received over time was the way to configure one wallpaper per weekday. With this update, we are introducing a new weekday playlist. Simply add up to seven wallpapers to the playlist in the [b]Installed[/b] tab of Wallpaper Engine, then click on [b]Configure[/b] in the playlist section and select the [b]Day of Week[/b] option from there. You will also find the already existing playlist options there, such as the [b]Time of Day[/b] playlist type.
+[h2]Playlisty na dzień tygodnia[/h2]
+Często dostawaliśmy prośby o możliwość konfiguracji jednej tapety na każdy dzień tygodnia. Wraz z tą aktualizacją wprowadzamy taką możliwość. Po prostu dodaj maksymalnie siedem tapet do playlisty w zakładce [b]Zainstalowane[/b] w programie Wallpaper Engine, a następnie kliknij [b]Skonfiguruj[/b] w sekcji z playlistami i wybierz tam opcję [b]Dzień tygodnia[/b]. Znajdziesz tam również wcześniejsze opcje playlisty, jak np. playlista [b]Pora dnia[/b].
 
 [h2]Windows 11[/h2]
-Wallpaper Engine fully supports Windows 11, with this update, we are also adding support for the new rounded corners user interface design. If you are upgrading to Windows 11 and experience any issues with Wallpaper Engine, make sure to do a full re-installation of the latest graphics card drivers. Most Windows 11 users who reached out to us with issues were using outdated graphics card drivers.
+Wallpaper Engine w pełni obsługuje system Windows 11, z tą aktualizacją dodajemy również obsługę nowych zaokrąglonych rogów interfejsu. Jeśli zaktualizujesz swój system do systemu Windows 11 i doświadczysz jakichkolwiek problemów z działaniem Wallpaper Engine, zainstaluj ponownie najnowsze wersje wszystkich sterowników karty graficznej. Większość użytkowników systemu Windows 11, którzy się z nami kontaktowali, używali starych sterowników do kart graficznych.
 
-If you are using a Windows 11 theme with transparency, you will notice that Wallpaper Engine will be ignored by Windows 11. To fix this issue, simply enable the new [b]Override wallpaper[/b] option in the Wallpaper Engine settings. This will keep your Windows wallpaper in sync with your Wallpaper Engine wallpaper and fix any issues with transparency on Windows 11.
+Jeśli używasz motywu Windows 11 z przezroczystością, program Wallpaper Engine będzie przez niego ignorowany. Aby rozwiązać ten problem, wystarczy że włączysz nową opcję [b]Nadpisz tapetę[/b] w ustawieniach programu Wallpaper Engine. Dzięki temu Twoja tapeta systemu Windows będzie zsynchronizowana z tapetą Wallpaper Engine, a problem z przezroczystością na systemie Windows 11 zostanie rozwiązany.
 
-[h2]Changelog[/h2]
+[h2]Dziennik zmian[/h2]
 
-[h3]Additions / Changes[/h3]
-[h4]Main App[/h4]
+[h3]Nowości/zmiany[/h3]
+[h4]Główna aplikacja[/h4]
 [list]
-[*]Added Android support and released the new Wallpaper Engine Companion app for Android.
-[*]Added mobile collection to Discover tab.
-[*]Updated Wallpaper Engine logo, color theme, including app icons.
-[*]Added rounded corner support for Windows 11.
-[*]Added "day of week" playlist mode, limited to 7 wallpapers.
-[*]Re-arranged search filters, added new "mobile compatible" filter option.
-[*]Added "favorite" button when right-clicking on a wallpaper.
+[*]Dodaliśmy obsługę systemów Android i wypuściliśmy nową aplikację na systemy Android Wallpaper Engine: aplikacja towarzysząca.
+[*]Dodaliśmy kolekcje na urządzenia mobilne w zakładce „Odkryj”.
+[*]Odświeżyliśmy logo Wallpaper Engine, motyw kolorystyczny oraz ikony aplikacji.
+[*]Dodaliśmy obsługę zaokrąglonych rogów na system Windows 11.
+[*]Dodaliśmy tyb playlisty „Dzień tygodnia”, ograniczoną do siedmiu tapet.
+[*]Zmieniliśmy kolejność filtrów wyszukiwania i dodaliśmy nową opcję filtrowania „Na urządzenia mobilne”.
+[*]Dodaliśmy przycisk „Ulubione” dostępny po kliknięciu prawym przyciskiem myszy tapety.
 [*]"Stop mode" now turns off automatically while wallpaper is being changed manually.
 [*]Improved user interface for configuring physics bones.
 [*]Increased automatic audio unmute delay from 3 to 5 seconds.
