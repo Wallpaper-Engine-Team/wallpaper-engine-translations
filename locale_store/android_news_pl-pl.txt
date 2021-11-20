@@ -6,24 +6,24 @@ DARMOWA aplikacja na systemy Android
 
 Cześć! Dzisiaj swoją premierę ma [b]Wallpaper Engine 2.0[/b]! Aktualizacja dodaje obsługę urządzeń z systemem Android, nowe logo, nowy efekt głębi 3D oraz garść innych nowości i poprawek do Wallpaper Engine.
 
-[h2]Wallpaper Engine Android Companion App[/h2]
+[h2]Wallpaper Engine: Aplikacja towarzysząca na systemy Android[/h2]
 
-We are happy to finally release the [i][b]free[/b] Wallpaper Engine Android companion app[/i]. Some key features of the app are as follows:
+Niezmiernie miło nam ogłosić premierę [i][b]darmowej[/b] aplikacji Wallpaper Engine: Aplikacja towarzysząca na systemy Android[/i]. Główne funkcje aplikacji:
 
-[list][*]No hidden costs, no advertisements, no user tracking or data collection.
-[*]Transfer [b]Scene[/b] and [b]Video[/b] type wallpapers from Wallpaper Engine on your computer to Android wirelessly.
-[*]Import any compatible files from your device as a wallpaper: [i]Videos, GIFs, images & Wallpaper Engine wallpapers[/i]
-[*]Create a playlist of your wallpapers and use different playlist modes
-[*]Automatically pauses when power saving mode is enabled, offers FPS and quality settings.
-[*]Full support for dynamic audio visualizers, clocks & other dynamic wallpaper elements
-[*]Let wallpapers move along with the motion of your device [i](devices with gyroscope)[/i]
-[*]Support for automatic theme colors based on the current wallpaper, including Android 12's [b]Material You[/b][/list]
+[list][*]Brak ukrytych kosztów, brak reklam, nie śledzi i nie zbiera danych użytkowników.
+[*]Bezprzewodowe wysyłanie tapet z rodzaju [b]Scena[/b] oraz [b]Wideo[/b] z komputerowej wersji programu Wallpaper Engine na urządzenia z systemem Android.
+[*]Możliwość importowania wszystkich kompatybilnych plików z urządzenia jako tapety: [i]widea, GIFy, obrazy i tapety programu Wallpaper Engine[/i]
+[*]Twórz playlisty ze swoich tapet i używaj różnych trybów playlist.
+[*]Automatyczna pauza przy włączonym trybie oszczędzania baterii, ustawienia kl./s oraz jakości.
+[*]Pełna obsługa dynamicznych wizualizatorów audio, zegarów i pozostałych dynamicznych elementów tapety.
+[*]Tapety poruszają się razem z Tobą [i](dot. urządzeń z żyroskopem)[/i].
+[*]Ustawia automatyczne kolory motywu zależnie od wybranej tapety, w tym obsługa funkcji [b]Material You[/b] na systemy Android 12[/list]
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Real-time interactive wallpapers on Android[/b]
+        [td][b]Interaktywne dynamiczne tapety zmieniające się w zależności od pory dnia na systemy Android[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/757da27656323aa0dcd02c29678906c7efd09442.gif[/img][/td]
-        [td][b]Customize your wallpapers to your liking[/b]
+        [td][b]Dostosuj tapety według własnego gustu[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/779d938b4f04f2e7e9a07a46ca09517749f105ec.gif[/img][/td]
     [/tr]
@@ -32,11 +32,11 @@ We are happy to finally release the [i][b]free[/b] Wallpaper Engine Android comp
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Visualize your music with audio responsive wallpapers. Credit: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
+        [td][b]Zwizualizuj piosenkę tapetą reagującą na dźwięk. Autorstwa: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/d590754450672c1b121668604832ef5b61568972.gif[/img]
 [/td]
-        [td][b]Let wallpapers react to the motion of your device [i](devices with gyroscope)[/i][/b]
+        [td][b]Patrz, jak tapeta reaguje na ruch Twojego urządzenia [i](dot. urządzeń z żyroskopem)[/i][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/75962cf9e8e5635216d7ded68e3527a731e1e565.gif[/img][/td]
     [/tr]
@@ -44,20 +44,20 @@ We are happy to finally release the [i][b]free[/b] Wallpaper Engine Android comp
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Customize the app by configuring playlists, performance settings and more[/b]
+        [td][b]Dostosuj aplikację za pomocą konfiguracji playlist, ustawień wydajności i nie tylko[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/a609a043455539f48a87e7d692a4eea9722ff9d1.gif[/img]
 [/td]
-        [td][b]Wirelessly transfer your Workshop wallpapers from your computer[/b]
+        [td][b]Przesyłaj bezprzewodowo tapety z Warsztatu ze swojego komputera[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/f8f24e382022472d8972af5f3dbd73f2556cdfdc.gif[/img][/td]
     [/tr]
 [/table]
-[h3]Download Wallpaper Engine for Android[/h3]
-We recommend installing the app through an official app store, however, we also offer a direct APK download for more advanced users. View our website for all installation options here:
+[h3]Pobierz Wallpaper Engine na urządzenie z systemem Android[/h3]
+Zalecamy instalację aplikacji przez oficjalny sklep, jednak zaawansowani użytkownicy mogą również skorzystać z bezpośredniego pobierania pliku APK. Przejdź na naszą stronę, by zobaczyć wszystkie możliwości instalacji:
 
-[list][*][h3][i][b][url=wallpaperengine.io/android]Download the Wallpaper Engine Android Companion App[/url][/b][/i][/h3][/list]
-[h3]Adding new Wallpapers to Android[/h3]
+[list][*][h3][i][b][url=wallpaperengine.io/android]Pobierz Wallpaper Engine: aplikacja towarzysząca na systemy android[/url][/b][/i][/h3][/list]
+[h3]Dodawanie nowych tapet na urządzenia z systemem Android[/h3]
 Directly connecting to the Workshop from a mobile device is not possible from a technical and legal point of view. However, we built a convenient system that allows owners of Wallpaper Engine on Windows to transfer their wallpapers to Android devices with ease:
 
 [b]Step 1:[/b] Click on the new [b]Mobile[/b] button in Wallpaper Engine on Windows, then select [b]Connect new device[/b]. Wallpaper Engine will show you a 4 digit PIN that you can use to connect to your mobile device now.
