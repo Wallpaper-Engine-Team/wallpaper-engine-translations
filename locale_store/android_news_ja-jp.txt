@@ -12,7 +12,7 @@ Wallpaper Engine 2.0では、Wallpaper EngineがAndroid対応になります。�
 
 [list][*]後から利用料が発生することはなく、広告が表示されることもありません。また、ユーザーの行動を追跡することやデータを収集することもありません。
 [*]PC上のWallpaper Engineから[b]シーン壁紙[/b]と[b]ビデオ壁紙[/b]をAndroidにワイヤレスで転送することができます。
-[i]動画、GIF、画像、Wallpaper Engine用の壁紙[/i]など、自分のデバイスに存在する互換性のあるファイルならどのようなものでも壁紙としてインポートすることが可能です。
+[i]動画、GIF、画像、Wallpaper Engine用の壁紙[/i]など、互換性のあるファイルならどのようなものでも自分のデバイスから壁紙としてインポートすることが可能です。
 [*]壁紙のプレイリストを作成できます。さらに、複数のプレイリストモードも用意されています。
 [*]省電力モードが有効になっていると自動で一時停止します。フレームレートやクオリティを設定することも可能です。
 [*]オーディオビジュアライザー、時計、その他の壁紙のエレメントなど動的なものにも完全対応しています。
@@ -60,15 +60,15 @@ Wallpaper Engine 2.0では、Wallpaper EngineがAndroid対応になります。�
 [h3]新しい壁紙をAndroidに追加[/h3]
 技術的ならびに法的な制約によって、モバイルデバイスからワークショップに直接アクセスすることは不可能です。 しかし、我々の開発した便利なシステムによりWindowsでWallpaper Engineを所有している人ならば、Androidデバイスに自分の壁紙を転送することができるようになりました。
 
-[b]Step 1:[/b] Click on the new [b]Mobile[/b] button in Wallpaper Engine on Windows, then select [b]Connect new device[/b]. Wallpaper Engine will show you a 4 digit PIN that you can use to connect to your mobile device now.
+[b]手順１：[/b]WindowsのWallpaper Engineに追加された[b]モバイル[/b]ボタンをクリックします。その後、「[b]新しいデバイスを接続[/b]」を選択してください。 Wallpaper Engineに4桁のPINが表示されます。このPINは自分のモバイルデバイスに接続する際に使用します。
 
-[b]Step 2:[/b] Open Wallpaper Engine on your Android device and click on the [b]Add[/b] button in the lower right corner. Select [b]Pair with Computer[/b], your computer should now be visible in the device list. Select it and enter the 4 digit PIN from step 1.
+[b]手順２：[/b]お手持ちのAndroidデバイスでWallpaper Engineを開き、画面右下にある[b]追加[/b]ボタンをクリックしてください。 「[b]PCとペアリング[/b]」を選択すると、デバイス一覧に自分のPCが表示されます。 自分のPCを選択し、手順１で入手した4桁のPINを入力してください。
 
-[b]Step 3:[/b] Your devices should now be connected. Right-click on any compatible wallpaper and click on [b]Send to mobile device[/b], then select your mobile device from the list. Your wallpaper will now be transferred.
+[b]手順３：[/b]これで、自分のデバイスが接続されているはずです。 互換性のある壁紙を右クリックし、「[b]モバイルデバイスに送信[/b]」をクリックします。その後、自分のモバイルデバイスを一覧から選択してください。 すると、選択した壁紙が転送されます。
 
 [img]{STEAM_CLAN_IMAGE}/26312799/0fc8bc609bd7d959fa87fe7f90e3f1612ba67cd1.gif[/img]
 
-[b]If you are unable to connect to Android:[/b] Right-click on any wallpaper and select [b]Send to mobile device[/b], then select [b]Export .mpkg[/b]. You can then transfer the exported mobile package file to your mobile device via cable or by transferring it to your mobile device in another way.
+[b]Androidを接続できない場合[/b]は、任意の壁紙を右クリックし「[b]モバイルデバイスに送信[/b]」を選択した後、「[b].mpkgをエクスポート[/b]」を選んでください。 その後、エクスポートされたモバイルパッケージファイルを自分のモバイルデバイスに転送することができます。ファイルの転送にはケーブルを使うか、何か別の方法をお試しください。
 
 [list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to read our Android connection guide.[/url][/list]
 [i]Tip: You can also transfer folders or multiple wallpapers at the same time by multi-selecting them by holding the CTRL key. Clicking [b]CTRL + A[/b] in the [b]Installed[/b] tab selects all installed wallpapers and lets you transfer them all at the same time.[/i]
