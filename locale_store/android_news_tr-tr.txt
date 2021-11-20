@@ -13,7 +13,7 @@ Sonunda [i][b]ücretsiz[/b] Wallpaper Engine Android yardımcı uygulamasını[/
 [list][*]Gizli ücretlendirmeler yok, reklam yok, kullanıcı takibi veya veri toplama yok.
 [*]Transfer [b]Scene[/b] and [b]Video[/b] type wallpapers from Wallpaper Engine on your computer to Android wirelessly.
 [*]Cihazınızdaki uyumlu dosyaları duvar kağıdı olarak içe aktarın: [i]Videolar, GIF'ler, resimler ve Wallpaper Engine duvar kağıtları[/i]
-[*]Duvar kağıtlarınızdan bir çalma listesi oluşturun ve farklı çalma listesi modlarını kullanın
+[*]Duvar kağıtlarınızdan bir oynatma listesi oluşturun ve farklı oynatma listesi modlarını kullanın
 [*]Güç tasarrufu modu etkinleştirildiğinde otomatik olarak duraklar, FPS ve kalite ayarları sunar.
 [*]Dinamik ses görselleştiriciler, saatler ve diğer dinamik duvar kağıdı öğeleri için tam destek
 [*]Duvar kağıtlarının cihazınızın hareketiyle birlikte hareket etmesine izin verin [i](jiroskoplu cihazlar)[/i]
@@ -71,7 +71,7 @@ Atölyeye mobil cihazdan doğrudan bağlanmak, teknik ve hukuki açıdan mümkü
 [b]If you are unable to connect to Android:[/b] Right-click on any wallpaper and select [b]Send to mobile device[/b], then select [b]Export .mpkg[/b]. You can then transfer the exported mobile package file to your mobile device via cable or by transferring it to your mobile device in another way.
 
 [list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Android bağlantı kılavuzumuzu okumak için buraya tıklayın.[/url][/list]
-[i]Tip: You can also transfer folders or multiple wallpapers at the same time by multi-selecting them by holding the CTRL key. Clicking [b]CTRL + A[/b] in the [b]Installed[/b] tab selects all installed wallpapers and lets you transfer them all at the same time.[/i]
+[i]İpucu: CTRL tuşunu basılı tutup çoklu seçim yaparak klasörleri veya birden çok duvar kağıdını aynı anda aktarabilirsiniz. Clicking [b]CTRL + A[/b] in the [b]Installed[/b] tab selects all installed wallpapers and lets you transfer them all at the same time.[/i]
 
 [h2]Yeni Wallpaper Engine Logosu[/h2]
 Wallpaper Engine'in Android sürümünün yayınlanmasıyla birlikte logomuzu güncelleme zamanının geldiğini hissettik. Eski logo, esas olarak bir bilgisayar ekranından oluşuyordu ve bu, bir mobil cihazda pek bir anlam ifade etmiyor. Büyük bir 2.0 sürümü, yeni bir şey denemek için en iyi zaman gibi geldi ve sonuçtan oldukça memnunuz.
@@ -82,7 +82,7 @@ Farklı tasarımlarla çok şey denedik ve eski tasarımın ruhunu koruyan ancak
 
 [img]{STEAM_CLAN_IMAGE}/26312799/ecb522ad46fedd9502a715ae38937246172dfcbe.png[/img]
 
-[h2]New Depth Parallax Effect[/h2]
+[h2]Yeni Derinlik Paralaksı Efekti[/h2]
 Wallpaper Engine düzenleyicisine yapılan önemli bir yenilik, yeni Derinlik Paralaksı efektimizdir. Bu efekt, resimlerinize algılanan bir 3B derinlik oluşturmanıza olanak tanır. Bilgisayarlarda efekt fareden etkilenirken Android'de telefonun hareketi fare hareketini simüle eder.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
@@ -96,20 +96,20 @@ To make full-use of the effect in the wallpaper editor, we recommend installing 
 A popular request that we have received over time was the way to configure one wallpaper per weekday. With this update, we are introducing a new weekday playlist. Simply add up to seven wallpapers to the playlist in the [b]Installed[/b] tab of Wallpaper Engine, then click on [b]Configure[/b] in the playlist section and select the [b]Day of Week[/b] option from there. You will also find the already existing playlist options there, such as the [b]Time of Day[/b] playlist type.
 
 [h2]Windows 11[/h2]
-Wallpaper Engine fully supports Windows 11, with this update, we are also adding support for the new rounded corners user interface design. If you are upgrading to Windows 11 and experience any issues with Wallpaper Engine, make sure to do a full re-installation of the latest graphics card drivers. Most Windows 11 users who reached out to us with issues were using outdated graphics card drivers.
+Wallpaper Engine fully supports Windows 11, with this update, we are also adding support for the new rounded corners user interface design. If you are upgrading to Windows 11 and experience any issues with Wallpaper Engine, make sure to do a full re-installation of the latest graphics card drivers. Sorunlarla ilgili olarak bize ulaşan çoğu Windows 11 kullanıcısı, güncel olmayan grafik kartı sürücüleri kullanıyordu.
 
-If you are using a Windows 11 theme with transparency, you will notice that Wallpaper Engine will be ignored by Windows 11. To fix this issue, simply enable the new [b]Override wallpaper[/b] option in the Wallpaper Engine settings. This will keep your Windows wallpaper in sync with your Wallpaper Engine wallpaper and fix any issues with transparency on Windows 11.
+Saydamlık içeren bir Windows 11 teması kullanıyorsanız, Wallpaper Engine'in Windows 11 tarafından yok sayılacağını fark edeceksiniz. Bu sorunu düzeltmek için Wallpaper Engine ayarlarından yeni eklenen [b]Duvar kağıdını geçersiz kıl[/b] seçeneğini etkinleştirmeniz yeterlidir. Bu, Windows duvar kağıdınızın Wallpaper Engine duvar kağıdınızla senkronize olmasını sağlar ve Windows 11'de şeffaflıkla ilgili sorunları giderir.
 
 [h2]Changelog[/h2]
 
-[h3]Additions / Changes[/h3]
+[h3]Eklemeler / Değişiklikler[/h3]
 [h4]Ana Uygulama[/h4]
 [list]
 [*]Android desteği eklendi ve Android için yeni Wallpaper Engine Akradaş uygulaması yayınlandı.
 [*]Keşfet sekmesine mobil koleksiyon eklendi.
 [*]Wallpaper Engine logosu ve uygulama simgeleri de dâhil olmak üzere renk teması güncellendi.
 [*]Windows 11 için yuvarlak köşe desteği eklendi.
-[*]7 duvar kağıdı ile sınırlı "haftanın günü" çalma listesi modu eklendi.
+[*]7 duvar kağıdı ile sınırlı "haftanın günü" oynatma listesi modu eklendi.
 [*]Arama filtreleri yeniden düzenlendi ve yeni "mobil uyumlu" filtre seçeneği eklendi.
 [*]Bir duvar kağıdına sağ tıklandığında "favorilere ekle" düğmesi eklendi.
 [*]"Stop mode" now turns off automatically while wallpaper is being changed manually.
@@ -122,7 +122,7 @@ If you are using a Windows 11 theme with transparency, you will notice that Wall
 [*]Updated core application binaries to latest Visual Studio 2022 compiler and latest Win SDK.
 [*]Reduced occurrence of rare cursor flickering issue in CEF.
 [/list]
-[h4]Wallpaper Editor[/h4]
+[h4]Duvar Kağıdı Düzenleyici[/h4]
 [list]
 [*]Added new depth parallax effect.
 [*]Added FREE editor extensions DLC for depth parallax effect. You only need this if you want to use it in the editor, users of your wallpapers do not need this DLC.
@@ -134,7 +134,7 @@ If you are using a Windows 11 theme with transparency, you will notice that Wall
 [*]SceneScript: Update reference URLs to [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url].
 [*]Made transparency cropping work with DXT compression in the editor.
 [/list]
-[h3]Bug Fixes[/h3]
+[h3]Hata Düzeltmeleri[/h3]
 [list]
 [*]Fixed "High Performance" option for the texture resolution settings breaking a low number of wallpapers.
 [*]Fixed editor crashing when importing textures with resolutions below the minimum required size.
@@ -150,7 +150,7 @@ If you are using a Windows 11 theme with transparency, you will notice that Wall
 The Android app is free of charge, there are no hidden costs, no in-app purchases and no advertisements. It can also be used as a standalone app without owning Wallpaper Engine on your computer and import compatible wallpaper files from your mobile device.
 
 [h3]Can the Workshop be accessed directly from the Mobile App?[/h3]
-No, the Workshop cannot be accessed from mobile devices due to technical and legal restrictions. We built a convenient way to transfer your existing collection of wallpapers from your computer to Android. We tried to make this process as easy and simple as possible, in most cases you just need to make sure your mobile device and your computer are connected to the same network. [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to learn more.[/url]
+No, the Workshop cannot be accessed from mobile devices due to technical and legal restrictions. We built a convenient way to transfer your existing collection of wallpapers from your computer to Android. We tried to make this process as easy and simple as possible, in most cases you just need to make sure your mobile device and your computer are connected to the same network. [url=https://help.wallpaperengine.io/mobile/pairing.html]Daha fazlasını öğrenmek için buraya tıklayın.[/url]
 
 Additionally, you can also just directly import any compatible wallpaper files from the files stored on your mobile device. Wallpaper Engine for Android also works well if you are simply looking for a way to turn any video files on your Android phone or tablet into your mobile wallpaper or if you want to use several static wallpapers in a playlist.
 
@@ -163,10 +163,10 @@ We have been using the app for months on our private devices now and on an avera
 No, all wallpapers are muted on Android. However, audio visualizers work as long as you grant the app the permission to record your device's audio.
 
 [h3]Can I set a wallpaper on my Android lock screen?[/h3]
-This depends on your device. Some Android manufacturers do not allow live wallpapers on the lock screen while some others do. If you are not offered the option to set a lock screen wallpaper, then your device manufacturer does not allow it.
+Bu, cihazınıza bağlıdır. Some Android manufacturers do not allow live wallpapers on the lock screen while some others do. If you are not offered the option to set a lock screen wallpaper, then your device manufacturer does not allow it.
 
 [h3]What about Wallpaper Engine on iOS for iPhones and iPads?[/h3]
-Unfortunately, Apple's iOS does not support true live wallpapers like Android. It is not possible to create anything similar to Wallpaper Engine on iOS. If Apple ever changes their mind on this, we will likely also follow-up with an iOS version. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Click here to learn our lengthy explanation about Linux, Mac OS and iOS.[/url]
+Unfortunately, Apple's iOS does not support true live wallpapers like Android. It is not possible to create anything similar to Wallpaper Engine on iOS. If Apple ever changes their mind on this, we will likely also follow-up with an iOS version. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Linux, Mac OS ve iOS hakkında uzun açıklamamızı görüntülemek için buraya tıklayın.[/url]
 
 
 [table equalcells=1 noborder=1]
@@ -176,4 +176,4 @@ Unfortunately, Apple's iOS does not support true live wallpapers like Android. I
 [h2]Feedback, Questions and Technical Support for Android[/h2]
 If you have any questions, suggestions or general feedback about the new Android app or if you run into any technical issues, be sure to post a message on the Android section of our Steam board:
 
-[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android App Discussions[/url][/list]
+[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android Uygulama Tartışmaları[/url][/list]
