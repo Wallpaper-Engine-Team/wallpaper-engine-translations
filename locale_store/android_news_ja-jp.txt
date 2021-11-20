@@ -70,11 +70,11 @@ Wallpaper Engine 2.0では、Wallpaper EngineがAndroid対応になります。�
 
 [b]Androidを接続できない場合[/b]は、任意の壁紙を右クリックし「[b]モバイルデバイスに送信[/b]」を選択した後、「[b].mpkgをエクスポート[/b]」を選んでください。 その後、エクスポートされたモバイルパッケージファイルを自分のモバイルデバイスに転送することができます。ファイルの転送にはケーブルを使うか、何か別の方法をお試しください。
 
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to read our Android connection guide.[/url][/list]
-[i]Tip: You can also transfer folders or multiple wallpapers at the same time by multi-selecting them by holding the CTRL key. Clicking [b]CTRL + A[/b] in the [b]Installed[/b] tab selects all installed wallpapers and lets you transfer them all at the same time.[/i]
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]ここをクリックするとAndroid接続ガイドを確認できます。[/url][/list]
+[i]ヒント：CTRLキー長押しで複数選択することで、フォルダや複数の壁紙を一括転送することができます。 「[b]インストール済み[/b]」タブで[b]CTRL + A[/b]を押したままクリックすることで、インストール済みの壁紙をすべて選択し一括で転送することも可能です。[/i]
 
-[h2]New Wallpaper Engine Logo[/h2]
-Along with the release of the Android version of Wallpaper Engine, we felt it was time to update our logo. The old logo mainly consisted of a computer screen - which does not make much sense on a mobile device. A major release 2.0 release felt like the best time to try something new and we are very happy with the outcome.
+[h2]Wallpaper Engineの新ロゴ[/h2]
+Android版Wallpaper Engineのリリースにともなって、そろそろロゴを新しいものにする頃合いだと感じました。 The old logo mainly consisted of a computer screen - which does not make much sense on a mobile device. A major release 2.0 release felt like the best time to try something new and we are very happy with the outcome.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/1f283ac68453f6bf3beb36c1fd49ebbe680685a0.png[/img]
 
