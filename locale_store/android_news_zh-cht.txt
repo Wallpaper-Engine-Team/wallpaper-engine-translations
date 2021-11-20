@@ -11,7 +11,7 @@ Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增一款
 很開心在此宣布，終於推出[i][b]免費的[/b] Wallpaper Engine Android 版隨附應用程式[/i]。 部分關鍵功能如下：
 
 [list][*]j無隱藏費用、無廣告、無使用者追蹤功能、無資料收集機制。
-[*]Transfer [b]Scene[/b] and [b]Video[/b] type wallpapers from Wallpaper Engine on your computer to Android wirelessly.
+[*]將電腦上[b]場景[/b]及[b]視訊[/b]類型的 Wallpaper Engine 桌布無線傳輸至 Android。
 [*]Import any compatible files from your device as a wallpaper: [i]Videos, GIFs, images & Wallpaper Engine wallpapers[/i]
 [*]Create a playlist of your wallpapers and use different playlist modes
 [*]Automatically pauses when power saving mode is enabled, offers FPS and quality settings.
@@ -20,7 +20,7 @@ Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增一款
 [*]Support for automatic theme colors based on the current wallpaper, including Android 12's [b]Material You[/b][/list]
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Real-time interactive wallpapers on Android[/b]
+        [td][b]Android 上即時互動式桌布[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/757da27656323aa0dcd02c29678906c7efd09442.gif[/img][/td]
         [td][b]Customize your wallpapers to your liking[/b]
