@@ -11,7 +11,7 @@ Selam millet, bugün [b]Wallpaper Engine 2.0[/b]'ı piyasaya sürüyoruz! Günce
 Sonunda [i][b]ücretsiz[/b] Wallpaper Engine Android yardımcı uygulamasını[/i] piyasaya sürmekten mutluluk duyuyoruz. Uygulamanın bazı temel özellikleri aşağıdaki gibidir:
 
 [list][*]Gizli ücretlendirmeler yok, reklam yok, kullanıcı takibi veya veri toplama yok.
-[*]Transfer [b]Scene[/b] and [b]Video[/b] type wallpapers from Wallpaper Engine on your computer to Android wirelessly.
+[*]Bilgisayarınızdaki Wallpaper Engine'den [b]Sahne[/b] ve [b]Video[/b] tipi duvar kağıtlarını kablosuz olarak Android'e aktarın.
 [*]Cihazınızdaki uyumlu dosyaları duvar kağıdı olarak içe aktarın: [i]Videolar, GIF'ler, resimler ve Wallpaper Engine duvar kağıtları[/i]
 [*]Duvar kağıtlarınızdan bir oynatma listesi oluşturun ve farklı oynatma listesi modlarını kullanın
 [*]Güç tasarrufu modu etkinleştirildiğinde otomatik olarak duraklar, FPS ve kalite ayarları sunar.
@@ -60,15 +60,15 @@ Uygulamayı resmi bir uygulama mağazası aracılığıyla yüklemenizi öneriri
 [h3]Android'e yeni Duvar Kağıtları Eklemek[/h3]
 Atölyeye mobil cihazdan doğrudan bağlanmak, teknik ve hukuki açıdan mümkün değildir. Ancak, Windows'ta Wallpaper Engine sahiplerinin duvar kağıtlarını kolaylıkla Android cihazlara aktarmalarını sağlayan kullanışlı bir sistem oluşturduk:
 
-[b]Step 1:[/b] Click on the new [b]Mobile[/b] button in Wallpaper Engine on Windows, then select [b]Connect new device[/b]. Wallpaper Engine, şimdi mobil cihazınıza bağlanmak için kullanabileceğiniz 4 haneli bir PIN gösterecektir.
+[b]1. Adım:[/b] Windows'ta Wallpaper Engine'deki yeni eklenen [b]Mobil[/b] düğmesine tıklayın ve ardından [b]Yeni cihaz bağla[/b] öğesini seçin. Wallpaper Engine, şimdi mobil cihazınıza bağlanmak için kullanabileceğiniz 4 haneli bir PIN gösterecektir.
 
-[b]Step 2:[/b] Open Wallpaper Engine on your Android device and click on the [b]Add[/b] button in the lower right corner. Select [b]Pair with Computer[/b], your computer should now be visible in the device list. Seçin ve 1. adımdaki 4 haneli PIN'i girin.
+[b]2. Adım:[/b] Android cihazınızda Wallpaper Engine'i açın ve sağ alt köşedeki [b]Ekle[/b] düğmesini basın. [b]Bilgisayarla Eşleştir[/b] seçeneğini seçin ve bilgisayarınız artık cihaz listesinde görünmelidir. Seçin ve 1. adımdaki 4 haneli PIN'i girin.
 
-[b]Step 3:[/b] Your devices should now be connected. Right-click on any compatible wallpaper and click on [b]Send to mobile device[/b], then select your mobile device from the list. Duvar kağıdınız şimdi aktarılacaktır.
+[b]3. Adım:[/b] Cihazlarınız şimdi bağlanmış olmalıdır. Right-click on any compatible wallpaper and click on [b]Send to mobile device[/b], then select your mobile device from the list. Duvar kağıdınız şimdi aktarılacaktır.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/0fc8bc609bd7d959fa87fe7f90e3f1612ba67cd1.gif[/img]
 
-[b]If you are unable to connect to Android:[/b] Right-click on any wallpaper and select [b]Send to mobile device[/b], then select [b]Export .mpkg[/b]. You can then transfer the exported mobile package file to your mobile device via cable or by transferring it to your mobile device in another way.
+[b]Android'e bağlanamıyorsanız:[/b] Bir duvar kağıdına sağ tıklayın ve [b]Mobil cihaza gönder[/b] seçeneğini ve ardından [b].mpkg'yi dışa aktar[/b] seçeneğini seçin. You can then transfer the exported mobile package file to your mobile device via cable or by transferring it to your mobile device in another way.
 
 [list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Android bağlantı kılavuzumuzu okumak için buraya tıklayın.[/url][/list]
 [i]İpucu: CTRL tuşunu basılı tutup çoklu seçim yaparak klasörleri veya birden çok duvar kağıdını aynı anda aktarabilirsiniz. Clicking [b]CTRL + A[/b] in the [b]Installed[/b] tab selects all installed wallpapers and lets you transfer them all at the same time.[/i]
@@ -87,9 +87,9 @@ Wallpaper Engine düzenleyicisine yapılan önemli bir yenilik, yeni Derinlik Pa
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
-To make full-use of the effect in the wallpaper editor, we recommend installing our new [b][i]free[/i][/b] [i]Editor Extensions DLC[/i]. We decided to separate this particular editor feature into an optional DLC because the features requires a download which is several gigabytes in size. When first using the effect in the editor, Wallpaper Engine will ask you to install the DLC for you. For more infos, see our full guide on how to install and use the depth parallax effect in the editor:
+To make full-use of the effect in the wallpaper editor, we recommend installing our new [b][i]free[/i][/b] [i]Editor Extensions DLC[/i]. Bu özel düzenleyici özelliğini isteğe bağlı bir indirilebilir pakete ayırmaya karar verdik çünkü özellikler, birkaç gigabayt boyutunda bir indirme gerektiriyor. Efekti düzenleyicide ilk kullandığınızda Wallpaper Engine, indirilebilir içeriği sizin için yüklemek isteyecektir. Daha fazla bilgi için düzenleyicide derinlik paralaksı efektinin nasıl kurulacağı ve kullanılacağıyla ilgili tam kılavuzumuza göz atın:
 
-[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Depth Parallax[/url] (Only available in English right now - machine translation works well)[/list]
+[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Derinlik Paralaksı[/url] (Şu anda yalnızca İngilizce olarak mevcuttur; makine çevirisi işinize yarayabilir)[/list]
 [b]It's important to note:[/b] You do not need to install the free DLC unless you want to use the effect in the editor yourself - the effect will still work on computers and mobile devices even if the free DLC is not installed.
 
 [h2]Weekday Playlists[/h2]
