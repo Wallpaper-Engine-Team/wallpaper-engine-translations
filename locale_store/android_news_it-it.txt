@@ -176,4 +176,4 @@ Purtroppo l'iOS di Apple non supporta gli sfondi animati come Android. Non è po
 [h2]Feedback, domande e supporto tecnico per Android[/h2]
 In caso di domande, suggerimenti o feedback generale sulla nuova app per Android, o nell'eventualità di problemi tecnici, puoi postare un messaggio nella sezione di Android sulla nostra bacheca di Steam:
 
-[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Discussioni app Android[/url][/list]
+[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Discussioni app per Android[/url][/list]
