@@ -36,7 +36,7 @@ Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增一款
 
 [img]{STEAM_CLAN_IMAGE}/26312799/d590754450672c1b121668604832ef5b61568972.gif[/img]
 [/td]
-        [td][b]Let wallpapers react to the motion of your device [i](devices with gyroscope)[/i][/b]
+        [td][b]使桌布回應裝置動作 [i](裝設陀螺儀的裝置)[/i][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/75962cf9e8e5635216d7ded68e3527a731e1e565.gif[/img][/td]
     [/tr]
@@ -44,20 +44,20 @@ Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增一款
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Customize the app by configuring playlists, performance settings and more[/b]
+        [td][b]設定播放清單、效能等，自訂應用程式[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/a609a043455539f48a87e7d692a4eea9722ff9d1.gif[/img]
 [/td]
-        [td][b]Wirelessly transfer your Workshop wallpapers from your computer[/b]
+        [td][b]從電腦自動傳輸工作坊桌布[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/f8f24e382022472d8972af5f3dbd73f2556cdfdc.gif[/img][/td]
     [/tr]
 [/table]
-[h3]Download Wallpaper Engine for Android[/h3]
-We recommend installing the app through an official app store, however, we also offer a direct APK download for more advanced users. View our website for all installation options here:
+[h3]下載 Android 版 Wallpaper Engine[/h3]
+建議您透過官方應用程式商店下載此應用程式，不過我們也為進階使用者提供直接的 APK 下載檔案。 檢視網站所列的安裝選項：
 
-[list][*][h3][i][b][url=wallpaperengine.io/android]Download the Wallpaper Engine Android Companion App[/url][/b][/i][/h3][/list]
-[h3]Adding new Wallpapers to Android[/h3]
+[list][*][h3][i][b][url=wallpaperengine.io/android]下載 Wallpaper Engine Android 版隨附應用程式[/url][/b][/i][/h3][/list]
+[h3]將新桌布新增至 Android[/h3]
 Directly connecting to the Workshop from a mobile device is not possible from a technical and legal point of view. However, we built a convenient system that allows owners of Wallpaper Engine on Windows to transfer their wallpapers to Android devices with ease:
 
 [b]Step 1:[/b] Click on the new [b]Mobile[/b] button in Wallpaper Engine on Windows, then select [b]Connect new device[/b]. Wallpaper Engine will show you a 4 digit PIN that you can use to connect to your mobile device now.
