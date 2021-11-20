@@ -10,8 +10,8 @@ Wallpaper Engine 2.0では、Wallpaper EngineがAndroid対応になります。�
 
 ついに[i][b]無料アプリ[/b]の「Wallpaper Engineコンパニオン（Android用）」[/i]をリリースすることができ嬉しい限りです。 いくつかの主要機能を以下で紹介します。
 
-[list][*]No hidden costs, no advertisements, no user tracking or data collection.
-[*]Transfer [b]Scene[/b] and [b]Video[/b] type wallpapers from Wallpaper Engine on your computer to Android wirelessly.
+[list][*]後から利用料が発生することはなく、広告が表示されることもありません。また、ユーザーの行動を追跡することやデータを収集することもありません。
+[*]PC上のWallpaper Engineから[b]シーン壁紙[/b]と[b]ビデオ壁紙[/b]をAndroidにワイヤレスで転送することができます。
 [*]Import any compatible files from your device as a wallpaper: [i]Videos, GIFs, images & Wallpaper Engine wallpapers[/i]
 [*]Create a playlist of your wallpapers and use different playlist modes
 [*]Automatically pauses when power saving mode is enabled, offers FPS and quality settings.
