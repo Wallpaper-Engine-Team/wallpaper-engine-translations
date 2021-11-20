@@ -1,16 +1,16 @@
-Wallpaper Engine 2.0 - Free Android App, New Logo, New Features and More!
+Wallpaper Engine 2.0 - Ücretsiz Android Uygulaması, Yeni Logo, Yeni Özellikler!
 
-Wallpaper Engine 2.0 introduces support for Android, comes with a new logo, adds a new 3D depth effect and a handful of other additions and improvements to Wallpaper Engine.
+Wallpaper Engine 2.0, yeni bir logo, yeni bir 3B derinlik efekti ve Wallpaper Engine'e bir dizi başka ekleme ve iyileştirmeyle birlikte Android desteği sunar.
 
-FREE Android App
+ÜCRETSİZ Android Uygulaması
 
-Hello everyone, today we are releasing [b]Wallpaper Engine 2.0[/b]! The update brings support for Android, a new logo, a new 3D depth effect and a handful of other additions and improvements to Wallpaper Engine.
+Selam millet, bugün [b]Wallpaper Engine 2.0[/b]'ı piyasaya sürüyoruz! Güncelleme, Android desteği, yeni bir logo, yeni bir 3B derinlik efekti ve Wallpaper Engine'e bir dizi başka ekleme ve iyileştirme getiriyor.
 
-[h2]Wallpaper Engine Android Companion App[/h2]
+[h2]Wallpaper Engine Android Arkadaş Uygulaması[/h2]
 
-We are happy to finally release the [i][b]free[/b] Wallpaper Engine Android companion app[/i]. Some key features of the app are as follows:
+Sonunda [i][b]ücretsiz[/b] Wallpaper Engine Android yardımcı uygulamasını[/i] piyasaya sürmekten mutluluk duyuyoruz. Uygulamanın bazı temel özellikleri aşağıdaki gibidir:
 
-[list][*]No hidden costs, no advertisements, no user tracking or data collection.
+[list][*]Gizli ücretlendirmeler yok, reklam yok, kullanıcı takibi veya veri toplama yok.
 [*]Transfer [b]Scene[/b] and [b]Video[/b] type wallpapers from Wallpaper Engine on your computer to Android wirelessly.
 [*]Import any compatible files from your device as a wallpaper: [i]Videos, GIFs, images & Wallpaper Engine wallpapers[/i]
 [*]Create a playlist of your wallpapers and use different playlist modes
