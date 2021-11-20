@@ -12,11 +12,11 @@ Wallpaper Engine 2.0では、Wallpaper EngineがAndroid対応になります。�
 
 [list][*]後から利用料が発生することはなく、広告が表示されることもありません。また、ユーザーの行動を追跡することやデータを収集することもありません。
 [*]PC上のWallpaper Engineから[b]シーン壁紙[/b]と[b]ビデオ壁紙[/b]をAndroidにワイヤレスで転送することができます。
-[*]Import any compatible files from your device as a wallpaper: [i]Videos, GIFs, images & Wallpaper Engine wallpapers[/i]
-[*]Create a playlist of your wallpapers and use different playlist modes
-[*]Automatically pauses when power saving mode is enabled, offers FPS and quality settings.
-[*]Full support for dynamic audio visualizers, clocks & other dynamic wallpaper elements
-[*]Let wallpapers move along with the motion of your device [i](devices with gyroscope)[/i]
+[i]動画、GIF、画像、Wallpaper Engine用の壁紙[/i]など、自分のデバイスに存在する互換性のあるファイルならどのようなものでも壁紙としてインポートすることが可能です。
+[*]壁紙のプレイリストを作成できます。さらに、複数のプレイリストモードも用意されています。
+[*]省電力モードが有効になっていると自動で一時停止します。フレームレートやクオリティを設定することも可能です。
+[*]オーディオビジュアライザー、時計、その他の壁紙のエレメントなど動的なものにも完全対応しています。
+[*]自分のデバイスの動きに合わせて壁紙を動かすことができます。[i]（ジャイロスコープ機能を搭載している場合）[/i]
 [*]Support for automatic theme colors based on the current wallpaper, including Android 12's [b]Material You[/b][/list]
 [table equalcells=1 noborder=1]
     [tr]
