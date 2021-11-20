@@ -147,26 +147,26 @@ Se usi un tema di Windows 11 con trasparenza, noterai che Wallpaper Engine verr�
 [h2]Domande frequenti sull'app per Android[/h2]
 
 [h3]Quanto costa l'app per Android?[/h3]
-The Android app is free of charge, there are no hidden costs, no in-app purchases and no advertisements. It can also be used as a standalone app without owning Wallpaper Engine on your computer and import compatible wallpaper files from your mobile device.
+L'app per Android è gratuita, non ci sono costi nascosti, acquisti In-App né pubblicità. Puoi usarla anche come app standalone senza possedere Wallpaper Engine sul tuo computer, e importare file di sfondi compatibili dal tuo dispositivo mobile.
 
-[h3]Can the Workshop be accessed directly from the Mobile App?[/h3]
-No, the Workshop cannot be accessed from mobile devices due to technical and legal restrictions. We built a convenient way to transfer your existing collection of wallpapers from your computer to Android. We tried to make this process as easy and simple as possible, in most cases you just need to make sure your mobile device and your computer are connected to the same network. [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to learn more.[/url]
+[h3]Posso accedere al Workshop direttamente dall'app per dispositivi mobili?[/h3]
+No, non è possibile accedere al Workshop dai dispositivi mobili per via di alcune restrizioni tecniche e legali. Abbiamo sviluppato un modo pratico per trasferire le tue raccolte di sfondi esistenti dal tuo computer ad Android. Abbiamo cercato di rendere questo processo il più semplice possibile, nella maggior parte dei casi dovrai solo assicurarti che il tuo dispositivo mobile e il tuo computer sia connessi alla stessa rete. [url=https://help.wallpaperengine.io/mobile/pairing.html]Clicca qui per maggiori informazioni.[/url]
 
-Additionally, you can also just directly import any compatible wallpaper files from the files stored on your mobile device. Wallpaper Engine for Android also works well if you are simply looking for a way to turn any video files on your Android phone or tablet into your mobile wallpaper or if you want to use several static wallpapers in a playlist.
+Inoltre, potrai anche importare direttamente qualsiasi file di sfondi compatibile presente sul tuo dispositivo mobile. Wallpaper Engine per Android è perfetto anche se stai semplicemente cercando un modo per trasformare i file video sul tuo telefono o tablet Android nel tuo sfondo per dispositivo mobile, o se vuoi utilizzare diversi sfondi statici in una playlist.
 
-[h3]Does Wallpaper Engine drain the battery of my devices?[/h3]
-No, we have optimized the app extensively and most modern devices will not notice a negative effect on battery life in day-to-day usage.
+[h3]Wallpaper Engine prevede un consumo elevato della batteria dei miei dispositivi?[/h3]
+No, abbiamo ottimizzato estensivamente l'app e i dispositivi più moderni non noteranno alcun un effetto negativo sulla vita della batteria nell'utilizzo quotidiano.
 
-We have been using the app for months on our private devices now and on an average day and we have not seen any meaningful battery usage through Wallpaper Engine. The app automatically pauses when another app is full-screened on your device and when your device is turned off. Battery saving mode will automatically pause your live wallpaper to reduce its impact on battery life even further. On top of that, you can also tweak the performance impact in the app settings by adjusting the FPS limit.
+Abbiamo utilizzato l'app per diversi mesi sui nostri dispositivi personali, e non abbiamo rilevato consumi significativo della batteria con Wallpaper Engine. Quando un'altra app è visualizzata a schermo intero sul tuo dispositivo o quando quest'ultimo è spento, l'app si mette in pausa automaticamente. La modalità di risparmio della batteria metterà in pausa il tuo sfondo attivo automaticamente per ridurne ulteriormente l'impatto sulla vita della tua batteria. Inoltre, puoi anche ottimizzare l'impatto delle prestazioni nelle impostazioni dell'app modificando il limite di FPS.
 
-[h3]Do wallpapers also play sounds like on Windows?[/h3]
-No, all wallpapers are muted on Android. However, audio visualizers work as long as you grant the app the permission to record your device's audio.
+[h3]Gli sfondi emettono anche dei suoni come su Windows?[/h3]
+No, su Android tutti gli sfondi sono silenziosi. Tuttavia, i visualizzatori audio saranno attivi a condizione che tu abbia concesso loro l'autorizzazione a registrare l'audio del tuo dispositivo.
 
-[h3]Can I set a wallpaper on my Android lock screen?[/h3]
-This depends on your device. Some Android manufacturers do not allow live wallpapers on the lock screen while some others do. If you are not offered the option to set a lock screen wallpaper, then your device manufacturer does not allow it.
+[h3]Posso impostare uno sfondo sulla mia schermata di blocco di Android?[/h3]
+Dipende dal tuo dispositivo. Alcuni produttori di dispositivi Android non consentono l'esecuzione di sfondi animati sulla schermata di blocco, altri sì. Se non disponi dell'opzione per impostare uno sfondo sulla schermata di blocco, allora il produttore del tuo dispositivo non la consente.
 
-[h3]What about Wallpaper Engine on iOS for iPhones and iPads?[/h3]
-Unfortunately, Apple's iOS does not support true live wallpapers like Android. It is not possible to create anything similar to Wallpaper Engine on iOS. If Apple ever changes their mind on this, we will likely also follow-up with an iOS version. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Click here to learn our lengthy explanation about Linux, Mac OS and iOS.[/url]
+[h3]Posso eseguire gli sfondi animati di Wallpaper Engine su iOS per iPhone e iPad?[/h3]
+Purtroppo l'iOS di Apple non supporta gli sfondi animati come Android. Non è possibile creare qualcosa di simile a Wallpaper Engine su iOS. Se Apple cambierà idea in merito, allora probabilmente svilupperemo una versione anche per iOS. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Clicca qui per leggere la nostra lunga spiegazione su Linux, Mac OS e iOS.[/url]
 
 
 [table equalcells=1 noborder=1]
