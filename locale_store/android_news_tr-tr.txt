@@ -83,7 +83,7 @@ Farklı tasarımlarla çok şey denedik ve eski tasarımın ruhunu koruyan ancak
 [img]{STEAM_CLAN_IMAGE}/26312799/ecb522ad46fedd9502a715ae38937246172dfcbe.png[/img]
 
 [h2]New Depth Parallax Effect[/h2]
-A major new addition to the Wallpaper Engine editor is our new Depth Parallax effect. This effect will allow you to create a perceived 3D depth to your images. On computers, the effect is influenced by the mouse while on Android, the movement of the phone will simulate the mouse movement.
+Wallpaper Engine düzenleyicisine yapılan önemli bir yenilik, yeni Derinlik Paralaksı efektimizdir. Bu efekt, resimlerinize algılanan bir 3B derinlik oluşturmanıza olanak tanır. Bilgisayarlarda efekt fareden etkilenirken Android'de telefonun hareketi fare hareketini simüle eder.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
@@ -103,15 +103,15 @@ If you are using a Windows 11 theme with transparency, you will notice that Wall
 [h2]Changelog[/h2]
 
 [h3]Additions / Changes[/h3]
-[h4]Main App[/h4]
+[h4]Ana Uygulama[/h4]
 [list]
-[*]Added Android support and released the new Wallpaper Engine Companion app for Android.
-[*]Added mobile collection to Discover tab.
-[*]Updated Wallpaper Engine logo, color theme, including app icons.
-[*]Added rounded corner support for Windows 11.
-[*]Added "day of week" playlist mode, limited to 7 wallpapers.
-[*]Re-arranged search filters, added new "mobile compatible" filter option.
-[*]Added "favorite" button when right-clicking on a wallpaper.
+[*]Android desteği eklendi ve Android için yeni Wallpaper Engine Akradaş uygulaması yayınlandı.
+[*]Keşfet sekmesine mobil koleksiyon eklendi.
+[*]Wallpaper Engine logosu ve uygulama simgeleri de dâhil olmak üzere renk teması güncellendi.
+[*]Windows 11 için yuvarlak köşe desteği eklendi.
+[*]7 duvar kağıdı ile sınırlı "haftanın günü" çalma listesi modu eklendi.
+[*]Arama filtreleri yeniden düzenlendi ve yeni "mobil uyumlu" filtre seçeneği eklendi.
+[*]Bir duvar kağıdına sağ tıklandığında "favorilere ekle" düğmesi eklendi.
 [*]"Stop mode" now turns off automatically while wallpaper is being changed manually.
 [*]Improved user interface for configuring physics bones.
 [*]Increased automatic audio unmute delay from 3 to 5 seconds.
