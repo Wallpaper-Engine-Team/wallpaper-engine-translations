@@ -58,17 +58,17 @@ Zalecamy instalację aplikacji przez oficjalny sklep, jednak zaawansowani użytk
 
 [list][*][h3][i][b][url=wallpaperengine.io/android]Pobierz Wallpaper Engine: aplikacja towarzysząca na systemy android[/url][/b][/i][/h3][/list]
 [h3]Dodawanie nowych tapet na urządzenia z systemem Android[/h3]
-Directly connecting to the Workshop from a mobile device is not possible from a technical and legal point of view. However, we built a convenient system that allows owners of Wallpaper Engine on Windows to transfer their wallpapers to Android devices with ease:
+Bezpośrednie połączenie Warsztatu i urządzenia mobilnego nie jest możliwe ze względów technicznych oraz prawnych. Dlatego zbudowaliśmy wygodny system, który umożliwia posiadaczom programu Wallpaper Engine na systemy Windows łatwe bezpośrednie przesyłanie tapet na urządzenia z systemem Android:
 
-[b]Step 1:[/b] Click on the new [b]Mobile[/b] button in Wallpaper Engine on Windows, then select [b]Connect new device[/b]. Wallpaper Engine will show you a 4 digit PIN that you can use to connect to your mobile device now.
+[b]Krok 1:[/b] kliknij nowy przycisk [b]Urządzenia mobilne[/b] w programie Wallpaper Engine na systemy Windows, a następnie wybierz opcję [b]Połącz nowe urządzenie mobilne[/b]. Wallpaper Engine wyświetli czterocyfrowy kod, za pomocą którego podłączysz urządzenie mobilne.
 
-[b]Step 2:[/b] Open Wallpaper Engine on your Android device and click on the [b]Add[/b] button in the lower right corner. Select [b]Pair with Computer[/b], your computer should now be visible in the device list. Select it and enter the 4 digit PIN from step 1.
+[b]Krok 2:[/b] otwórz aplikację Wallpaper Engine na urządzeniu z systemem Android i kliknij przycisk [b]Dodaj[/b] w prawym dolnym rogu. Wybierz opcję [b]Sparuj z komputerem[/b], Twój komputer powinien być teraz widoczny na liście urządzeń. Wybierz swój komputer i wprowadź czterocyfrowy kod z kroku pierwszego.
 
-[b]Step 3:[/b] Your devices should now be connected. Right-click on any compatible wallpaper and click on [b]Send to mobile device[/b], then select your mobile device from the list. Your wallpaper will now be transferred.
+[b]Krok 3:[/b] twoje urządzenie powinno być teraz podłączone. Kliknij prawym przyciskiem myszy kompatybilną tapetę i kliknij przycisk [b]Wyślij na urządzenie mobilne[/b], następnie wybierz właściwe urządzenie mobilne z listy. Twoja tapeta zostanie przesłana na urządzenie.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/0fc8bc609bd7d959fa87fe7f90e3f1612ba67cd1.gif[/img]
 
-[b]If you are unable to connect to Android:[/b] Right-click on any wallpaper and select [b]Send to mobile device[/b], then select [b]Export .mpkg[/b]. You can then transfer the exported mobile package file to your mobile device via cable or by transferring it to your mobile device in another way.
+[b]Jeśli nie możesz połączyć się z urządzeniem z systemem Android:[/b] kliknij prawym przyciskiem myszy dowolną tapetę i wybierz [b]Wyślij na urządzenie mobilne[/b], następnie wybierz opcję [b]Wyeksportuj .mpkg[/b]. You can then transfer the exported mobile package file to your mobile device via cable or by transferring it to your mobile device in another way.
 
 [list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to read our Android connection guide.[/url][/list]
 [i]Tip: You can also transfer folders or multiple wallpapers at the same time by multi-selecting them by holding the CTRL key. Clicking [b]CTRL + A[/b] in the [b]Installed[/b] tab selects all installed wallpapers and lets you transfer them all at the same time.[/i]
