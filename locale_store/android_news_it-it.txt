@@ -129,24 +129,24 @@ Se usi un tema di Windows 11 con trasparenza, noterai che Wallpaper Engine verr√
 [*]Aggiunto strumento di selezione colori.
 [*]Migliorato il supporto per i caratteri cinesi, giapponesi e coreani, aggiunti pi√π caratteri per i livelli di testo negli sfondi scena.
 [*]Migliorato il "Renderer delle corde" per i sistemi di particelle.
-[*]SceneScript: [i]init()[/i] and [i]update()[/i] function will now automatically convert numbers into vectors (Vec2, Vec3, Vec4) when they are returned. This helps to simplify some scripts.
-[*]SceneScript: Reviewed and improved all sample code snippets slightly.
-[*]SceneScript: Update reference URLs to [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url].
-[*]Made transparency cropping work with DXT compression in the editor.
+[*]SceneScript: d'ora in poi, le funzioni [i]init()[/i] e [i]update()[/i] convertiranno automaticamente i numeri in vettori (Vec2, Vec3, Vec4) quando verranno restituiti. Questo aiuta a semplificare alcuni script.
+[*]SceneScript: tutti gli esempi di frammento di codice sono stati riesaminati e migliorati leggermente.
+[*]SceneScript: aggiornamento URL di riferimento in [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]nuova documentazione SceneScript[/url].
+[*]Ritaglio trasparenza ora compatibile con la compressione DXT nell'editor.
 [/list]
-[h3]Bug Fixes[/h3]
+[h3]Risoluzioni di bug[/h3]
 [list]
-[*]Fixed "High Performance" option for the texture resolution settings breaking a low number of wallpapers.
-[*]Fixed editor crashing when importing textures with resolutions below the minimum required size.
-[*]Fixed certain filter settings causing wallpapers to show up twice in the "installed" tab.
-[*]Fixed crash related to video textures.
-[*]Fixed JPEG EXIF meta data sometimes not being applied on image layers. If you rotate images with Windows, they should now also appear rotated in the app properly.
-[*]Fixed issue with particle system colors not working properly.
+[*]Risolto bug dell'opzione di "Prestazioni elevate" per le impostazioni di risoluzione della texture che interrompeva un basso numero di sfondi.
+[*]Risolto bug che causava l'arresto anomalo dell'editor durante l'importazione di texture con risoluzione inferiore alle dimensioni minime richieste.
+[*]Risolto bug di alcune impostazioni del filtro che causava doppioni nell'elenco degli sfondi della scheda "Installati".
+[*]Risolto bug che causava un arresto anomalo relativo alle texture dei video.
+[*]Risolto bug relativo all'applicazione dei metadati JPEG EXIF ai livelli delle immagini. Ruotando le immagini con Windows, ora dovrebbero apparire anch'esse ruotate correttamente nell'app.
+[*]Risolto problema di funzionamento dei colori nei sistemi di particelle.
 [/list]
 
-[h2]Frequent Questions About The Android App[/h2]
+[h2]Domande frequenti sull'app per Android[/h2]
 
-[h3]How much does the Android app cost?[/h3]
+[h3]Quanto costa l'app per Android?[/h3]
 The Android app is free of charge, there are no hidden costs, no in-app purchases and no advertisements. It can also be used as a standalone app without owning Wallpaper Engine on your computer and import compatible wallpaper files from your mobile device.
 
 [h3]Can the Workshop be accessed directly from the Mobile App?[/h3]
