@@ -98,9 +98,9 @@ Android版Wallpaper Engineのリリースにともなって、そろそろロゴ
 [h2]Windows 11[/h2]
 今回のアップデートでWallpaper EngineはWindows 11にも完全対応になります。また、新たに角が丸いデザインのユーザーインターフェースにも対応予定です。 Windows 11にアップグレードしてWallpaper Engineに何か問題が生じた場合は、必ず最新のグラフィックスカードドライバを再インストールしてください。 私たちに問い合わせをしてきたWindows 11ユーザーのほとんどが古いグラフィックスカードドライバーを使用していました。
 
-Windows 11で透過効果のあるテーマを使用している場合、Windows 11によってWallpaper Engineが無視されてしまいます。 To fix this issue, simply enable the new [b]Override wallpaper[/b] option in the Wallpaper Engine settings. This will keep your Windows wallpaper in sync with your Wallpaper Engine wallpaper and fix any issues with transparency on Windows 11.
+Windows 11で透過効果のあるテーマを使用している場合、Windows 11によってWallpaper Engineが無視されてしまいます。 この問題を解決するには、Wallpaper Engineの設定から新しいオプションの「[b]壁紙の上書き[/b]」を有効にするだけで大丈夫です。 そうすることで、Windowsの壁紙とWallpaper Engineの壁紙の同期を保つことができ、Windows 11の透過効果に関する問題を修正することも可能です。
 
-[h2]Changelog[/h2]
+[h2]変更履歴[/h2]
 
 [h3]Additions / Changes[/h3]
 [h4]Main App[/h4]
