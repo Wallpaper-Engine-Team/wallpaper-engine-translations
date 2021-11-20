@@ -92,13 +92,13 @@ Android版Wallpaper Engineのリリースにともなって、そろそろロゴ
 [list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]視差効果[/url] (現在は英語版しか利用できません。機械翻訳で問題なく理解できます。)[/list]
 ※[b]重要[/b]：エディタで自ら視差効果を使って編集しない場合、無料DLCをダウンロードする必要はありません。DLCがインストールされていなくても、視差効果はPCやモバイルデバイスできちんと機能します。
 
-[h2]曜日毎プレイリスト[/h2]
-A popular request that we have received over time was the way to configure one wallpaper per weekday. With this update, we are introducing a new weekday playlist. Simply add up to seven wallpapers to the playlist in the [b]Installed[/b] tab of Wallpaper Engine, then click on [b]Configure[/b] in the playlist section and select the [b]Day of Week[/b] option from there. You will also find the already existing playlist options there, such as the [b]Time of Day[/b] playlist type.
+[h2]曜日別プレイリスト[/h2]
+かねてから要望の声が多かったのは、曜日ごとに1つの壁紙を設定する機能でした。 今回のアップデートでは、新しく曜日別プレイリストを導入します。 Wallpaper Engineの「[b]インストール済み[/b]」タブにあるプレイリストに壁紙を7枚まで追加します。その後、プレイリストの「[b]設定[/b]」をクリックし、そこから「[b]曜日別[/b]」オプションを選択してください。 設定では、「[b]時刻別[/b]」プレイリストなど既存のプレイリストも確認できます。
 
 [h2]Windows 11[/h2]
-Wallpaper Engine fully supports Windows 11, with this update, we are also adding support for the new rounded corners user interface design. If you are upgrading to Windows 11 and experience any issues with Wallpaper Engine, make sure to do a full re-installation of the latest graphics card drivers. Most Windows 11 users who reached out to us with issues were using outdated graphics card drivers.
+今回のアップデートでWallpaper EngineはWindows 11にも完全対応になります。また、新たに角が丸いデザインのユーザーインターフェースにも対応予定です。 Windows 11にアップグレードしてWallpaper Engineに何か問題が生じた場合は、必ず最新のグラフィックスカードドライバを再インストールしてください。 私たちに問い合わせをしてきたWindows 11ユーザーのほとんどが古いグラフィックスカードドライバーを使用していました。
 
-If you are using a Windows 11 theme with transparency, you will notice that Wallpaper Engine will be ignored by Windows 11. To fix this issue, simply enable the new [b]Override wallpaper[/b] option in the Wallpaper Engine settings. This will keep your Windows wallpaper in sync with your Wallpaper Engine wallpaper and fix any issues with transparency on Windows 11.
+Windows 11で透過効果のあるテーマを使用している場合、Windows 11によってWallpaper Engineが無視されてしまいます。 To fix this issue, simply enable the new [b]Override wallpaper[/b] option in the Wallpaper Engine settings. This will keep your Windows wallpaper in sync with your Wallpaper Engine wallpaper and fix any issues with transparency on Windows 11.
 
 [h2]Changelog[/h2]
 
