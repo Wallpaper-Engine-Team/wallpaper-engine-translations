@@ -12,18 +12,18 @@ Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增一款
 
 [list][*]j無隱藏費用、無廣告、無使用者追蹤功能、無資料收集機制。
 [*]將電腦上[b]場景[/b]及[b]視訊[/b]類型的 Wallpaper Engine 桌布無線傳輸至 Android。
-[*]Import any compatible files from your device as a wallpaper: [i]Videos, GIFs, images & Wallpaper Engine wallpapers[/i]
-[*]Create a playlist of your wallpapers and use different playlist modes
-[*]Automatically pauses when power saving mode is enabled, offers FPS and quality settings.
-[*]Full support for dynamic audio visualizers, clocks & other dynamic wallpaper elements
-[*]Let wallpapers move along with the motion of your device [i](devices with gyroscope)[/i]
-[*]Support for automatic theme colors based on the current wallpaper, including Android 12's [b]Material You[/b][/list]
+[*]將任何相容檔案以桌布形式從裝置匯入：[i]視訊、GIF、圖像、Wallpaper Engine 桌布[/i]
+[*]建立桌布播放清單，使用不同的播放清單模式
+[*]省電模式啟用時自動暫停，可設定 FPS 及品質。
+[*]完全支援動態音訊可視化工具、時鐘及其他動態桌布元素
+[*]桌布沿著裝置動作移動 [i](裝設陀螺儀的裝置)[/i]
+[*]根據目前桌布支援自動主題色彩，包含 Android 12 的 [b]Material You[/b][/list]
 [table equalcells=1 noborder=1]
     [tr]
         [td][b]Android 上即時互動式桌布[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/757da27656323aa0dcd02c29678906c7efd09442.gif[/img][/td]
-        [td][b]Customize your wallpapers to your liking[/b]
+        [td][b]根據喜好自訂桌布[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/779d938b4f04f2e7e9a07a46ca09517749f105ec.gif[/img][/td]
     [/tr]
@@ -32,7 +32,7 @@ Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增一款
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Visualize your music with audio responsive wallpapers. 作者：[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
+        [td][b]根據具音訊回應效果的桌布將音樂視覺化。 作者：[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/d590754450672c1b121668604832ef5b61568972.gif[/img]
 [/td]
