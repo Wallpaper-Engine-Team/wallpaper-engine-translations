@@ -17,7 +17,7 @@ Sonunda [i][b]ücretsiz[/b] Wallpaper Engine Android yardımcı uygulamasını[/
 [*]Güç tasarrufu modu etkinleştirildiğinde otomatik olarak duraklar, FPS ve kalite ayarları sunar.
 [*]Dinamik ses görselleştiriciler, saatler ve diğer dinamik duvar kağıdı öğeleri için tam destek
 [*]Duvar kağıtlarının cihazınızın hareketiyle birlikte hareket etmesine izin verin [i](jiroskoplu cihazlar)[/i]
-[*]Support for automatic theme colors based on the current wallpaper, including Android 12's [b]Material You[/b][/list]
+[*]Android 12'nin [b]Material You[/b][/list]'su dâhil olmak üzere mevcut duvar kağıdına dayalı otomatik tema renkleri desteği
 [table equalcells=1 noborder=1]
     [tr]
         [td][b]Android'de gerçek zamanlı etkileşimli duvar kağıtları[/b]
@@ -64,7 +64,7 @@ Atölyeye mobil cihazdan doğrudan bağlanmak, teknik ve hukuki açıdan mümkü
 
 [b]2. Adım:[/b] Android cihazınızda Wallpaper Engine'i açın ve sağ alt köşedeki [b]Ekle[/b] düğmesini basın. [b]Bilgisayarla Eşleştir[/b] seçeneğini seçin ve bilgisayarınız artık cihaz listesinde görünmelidir. Seçin ve 1. adımdaki 4 haneli PIN'i girin.
 
-[b]3. Adım:[/b] Cihazlarınız şimdi bağlanmış olmalıdır. Right-click on any compatible wallpaper and click on [b]Send to mobile device[/b], then select your mobile device from the list. Duvar kağıdınız şimdi aktarılacaktır.
+[b]3. Adım:[/b] Cihazlarınız şimdi bağlanmış olmalıdır. Uyumlu bir duvar kağıdına sağ tıkladıktan sonra [b]Mobil cihaza gönder[/b] seçeneğine tıklayın ve listeden mobil cihazınızı seçin. Duvar kağıdınız şimdi aktarılacaktır.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/0fc8bc609bd7d959fa87fe7f90e3f1612ba67cd1.gif[/img]
 
@@ -78,7 +78,7 @@ Wallpaper Engine'in Android sürümünün yayınlanmasıyla birlikte logomuzu g�
 
 [img]{STEAM_CLAN_IMAGE}/26312799/1f283ac68453f6bf3beb36c1fd49ebbe680685a0.png[/img]
 
-Farklı tasarımlarla çok şey denedik ve eski tasarımın ruhunu koruyan ancak daha modern bir dönüşle yeni bir logo üzerinde karar kıldık. With Wallpaper Engine 2.0, you will find the new logo throughout the application, in Windows and on our websites:
+Farklı tasarımlarla çok şey denedik ve eski tasarımın ruhunu koruyan ancak daha modern bir dönüşle yeni bir logo üzerinde karar kıldık. Wallpaper Engine 2.0 ile birlikte uygulamanın her yerinde, Windows'ta ve web sitelerimizde yeni logoyla karşılaşacaksınız:
 
 [img]{STEAM_CLAN_IMAGE}/26312799/ecb522ad46fedd9502a715ae38937246172dfcbe.png[/img]
 
@@ -125,39 +125,39 @@ Saydamlık içeren bir Windows 11 teması kullanıyorsanız, Wallpaper Engine'in
 [h4]Duvar Kağıdı Düzenleyici[/h4]
 [list]
 [*]Yeni derinlik paralaksı efekti eklendi.
-[*]Derinlik paralaksı efekti için ÜCRETSİZ düzenleyici uzantı içerik paketleri eklendi. You only need this if you want to use it in the editor, users of your wallpapers do not need this DLC.
-[*]Added color picker tool to editor painting tools.
-[*]Improved support for rendering Chinese, Japanese, Korean and more characters in scene wallpapers text layers with new fonts.
-[*]Improved "Rope Renderer" for particle systems.
-[*]SceneScript: [i]init()[/i] and [i]update()[/i] function will now automatically convert numbers into vectors (Vec2, Vec3, Vec4) when they are returned. This helps to simplify some scripts.
-[*]SceneScript: Reviewed and improved all sample code snippets slightly.
-[*]SceneScript: Update reference URLs to [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url].
-[*]Made transparency cropping work with DXT compression in the editor.
+[*]Derinlik paralaksı efekti için ÜCRETSİZ düzenleyici uzantı içerik paketleri eklendi. Buna sadece düzelticide kullanmak istiyorsanız ihtiyacınız var; duvar kağıtlarınızın kullanıcılarının bu indirilebilir içeriğe ihtiyacı yok.
+[*]Düzenleyici boyama araçlarına renk seçme aracı eklendi.
+[*]Yeni yazı tipleriyle sahne duvar kağıtları metin katmanlarında Çince, Japonca, Korece ve daha fazla karakter oluşturmak için geliştirilmiş destek.
+[*]Parçacık sistemleri için iyileştirilmiş "Rope İşleyici".
+[*]SceneScript: [i]init()[/i] ve [i]update()[/i] işlevleri, geri döndürüldüklerinde sayıları otomatik olarak vektörlere (Vec2, Vec3, Vec4) dönüştürür. Bu, bazı komutları basitleştirmeye yardımcı olur.
+[*]SceneScript: Tüm örnek kod parçaları gözden geçirildi ve bir miktar geliştirildi.
+[*]SceneScript: Referans bağlantılarını [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]yeni SceneScript belgeleri[/url] olarak güncelleyin.
+[*]Düzenleyicide DXT sıkıştırması ile şeffaflık kırpma çalışması yapıldı.
 [/list]
 [h3]Hata Düzeltmeleri[/h3]
 [list]
-[*]Fixed "High Performance" option for the texture resolution settings breaking a low number of wallpapers.
-[*]Fixed editor crashing when importing textures with resolutions below the minimum required size.
-[*]Fixed certain filter settings causing wallpapers to show up twice in the "installed" tab.
-[*]Fixed crash related to video textures.
-[*]Fixed JPEG EXIF meta data sometimes not being applied on image layers. If you rotate images with Windows, they should now also appear rotated in the app properly.
-[*]Fixed issue with particle system colors not working properly.
+[*]Az sayıda duvar kağıdını bozan doku çözünürlüğü ayarları için "Yüksek Performans" seçeneği düzeltildi.
+[*]Gerekli minimum boyutun altındaki çözünürlüklere sahip dokuları içe aktarırken düzenleyicinin çökme sorunu düzeltildi.
+[*] Duvar kağıtlarının "yüklü" sekmesinde iki kez görünmesine neden olan belirli filtre ayarları düzeltildi.
+[*]Video dokuları nedeniyle yaşanan çökme düzeltildi.
+[*]Görüntü katmanlarına bazen uygulanmayan JPEG EXIF meta verileri düzeltildi. Görüntüleri Windows ile döndürürseniz artık uygulamada da düzgün bir şekilde döndürülmüş olarak görünmelidirler.
+[*]Parçacık sistemi renklerinin düzgün çalışmamasıyla ilgili sorun düzeltildi.
 [/list]
 
-[h2]Frequent Questions About The Android App[/h2]
+[h2]Android Uygulaması Hakkında Sık Sorulan Sorular[/h2]
 
-[h3]How much does the Android app cost?[/h3]
-The Android app is free of charge, there are no hidden costs, no in-app purchases and no advertisements. It can also be used as a standalone app without owning Wallpaper Engine on your computer and import compatible wallpaper files from your mobile device.
+[h3]Android uygulamasının ücreti nedir?[/h3]
+Android uygulaması ücretsizdir; hiçbir gizli maliyet, uygulama içi satın alma ve reklam bulunmaz. Bilgisayarınızda Wallpaper Engine'e sahip olmadan bağımsız bir uygulama olarak da kullanılabilir ve uyumlu duvar kağıdı dosyalarını mobil cihazınızdan içe aktarabilirsiniz.
 
-[h3]Can the Workshop be accessed directly from the Mobile App?[/h3]
-No, the Workshop cannot be accessed from mobile devices due to technical and legal restrictions. We built a convenient way to transfer your existing collection of wallpapers from your computer to Android. We tried to make this process as easy and simple as possible, in most cases you just need to make sure your mobile device and your computer are connected to the same network. [url=https://help.wallpaperengine.io/mobile/pairing.html]Daha fazlasını öğrenmek için buraya tıklayın.[/url]
+[h3]Atölyeye doğrudan Mobil Uygulama üzerinden erişebilir miyim?[/h3]
+Hayır, teknik ve yasal kısıtlamalar nedeniyle Atölyeye mobil cihazlardan erişilemez. Mevcut duvar kağıtları koleksiyonunuzu bilgisayarınızdan Android cihazınıza aktarmanın düzgün bir yolunu bulduk. Bu işlemi olabildiğince kolay ve basit hâle getirmeye çalıştık; çoğu durumda mobil cihazınızın ve bilgisayarınızın aynı ağa bağlı olduğundan emin olmanız yeterlidir. [url=https://help.wallpaperengine.io/mobile/pairing.html]Daha fazlasını öğrenmek için buraya tıklayın.[/url]
 
-Additionally, you can also just directly import any compatible wallpaper files from the files stored on your mobile device. Wallpaper Engine for Android also works well if you are simply looking for a way to turn any video files on your Android phone or tablet into your mobile wallpaper or if you want to use several static wallpapers in a playlist.
+Ek olarak uyumlu duvar kağıdı dosyalarını, mobil cihazınızda depolanan dosyalardan doğrudan içe aktarabilirsiniz. Android için Wallpaper Engine, Android telefonunuzdaki veya tabletinizdeki bir video dosyasını mobil duvar kağıdınıza dönüştürmenin bir yolunu arıyorsanız veya bir oynatma listesinde birkaç statik duvar kağıdı kullanmak istiyorsanız da işinize yarar.
 
-[h3]Does Wallpaper Engine drain the battery of my devices?[/h3]
-No, we have optimized the app extensively and most modern devices will not notice a negative effect on battery life in day-to-day usage.
+[h3]Duvar Kağıdı Motoru cihazlarımın pilini tüketir mi?[/h3]
+Hayır, uygulamayı kapsamlı bir şekilde optimize ettik ve çoğu modern cihaz, günlük kullanımda pil ömrü üzerinde olumsuz bir etki görmeyecek.
 
-We have been using the app for months on our private devices now and on an average day and we have not seen any meaningful battery usage through Wallpaper Engine. The app automatically pauses when another app is full-screened on your device and when your device is turned off. Güç tasarrufu modu, pil ömrü üzerindeki etkisini daha da azaltmak amacıyla canlı duvar kağıdınızı otomatik olarak duraklatır. Bunun da ötesinde FPS sınırını ayarlayarak uygulama ayarları üzerinden performans etkisi üzerinde ince ayar yapabilirsiniz.
+Uygulamayı özel cihazlarımızda aylardır ortalama bir gün içinde kullanıyoruz ve Wallpaper Engine kaynaklı kayda değer bir pil kullanımı gözlemlemedik. Cihazınızda başka bir uygulama tam ekran görüntülendiğinde ve cihazınız kapatıldığında uygulama otomatik olarak duraklatılır. Güç tasarrufu modu, pil ömrü üzerindeki etkisini daha da azaltmak amacıyla canlı duvar kağıdınızı otomatik olarak duraklatır. Bunun da ötesinde FPS sınırını ayarlayarak uygulama ayarları üzerinden performans etkisi üzerinde ince ayar yapabilirsiniz.
 
 [h3]Duvar kağıtları, Windows'taki gibi sesler de çalar mı?[/h3]
 Hayır, Android'de tüm duvar kağıtlarının sesi kapatılır. Ancak sesli görselleştiriciler, uygulamaya cihazınızın sesini kaydetme izni verdiğiniz sürece çalışır.
