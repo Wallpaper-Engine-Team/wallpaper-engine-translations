@@ -96,17 +96,17 @@ Wallpaper Engine 編輯器的重大新功能就是新的深度視差效果。 �
 長久以來我們常收到的問題是，如何為週間每天設定一張桌布。 我們在這次更新推出新的週間播放清單功能。 設定相當簡單，只要在 Wallpaper Engine 的[b]已安裝[/b]分頁新增最多七張桌布，接著在播放清單部分按一下[b]設定[/b]，選取[b]星期幾[/b]即完成。 您也可以在同一處找到既有的播放清單選項，例如[b]特定時刻[/b]播放清單類型。
 
 [h2]Windows 11[/h2]
-Wallpaper Engine 完全支援 Windows 11，趁著這次更新，我們也為新的圓角使用者介面設計新增支援。 If you are upgrading to Windows 11 and experience any issues with Wallpaper Engine, make sure to do a full re-installation of the latest graphics card drivers. Most Windows 11 users who reached out to us with issues were using outdated graphics card drivers.
+Wallpaper Engine 完全支援 Windows 11，趁著這次更新，我們也為新的圓角使用者介面設計新增支援。 如果您升級至 Windows 11 後發現 Wallpaper Engine 出現問題，請下載最新版顯示卡驅動程式並執行全新安裝。 大多數 Windows 11 使用者回報的問題，原因都是使用了過時的顯示卡驅動程式。
 
-If you are using a Windows 11 theme with transparency, you will notice that Wallpaper Engine will be ignored by Windows 11. To fix this issue, simply enable the new [b]Override wallpaper[/b] option in the Wallpaper Engine settings. This will keep your Windows wallpaper in sync with your Wallpaper Engine wallpaper and fix any issues with transparency on Windows 11.
+如果您使用帶有透明效果的 Windows 11 佈景主題，會發現 Windows 11 忽略了 Wallpaper Engine。 如要解決此問題，只要在 Wallpaper Engine 設定中啟用新推出的[b]覆寫桌布[/b]選項即可。 如此一來，您的 Windows 桌布即可與 Wallpaper Engine 桌布同步，不會再出現與 Windows 11 透明效果有關的問題。
 
 [h2]變更記錄[/h2]
 
 [h3]新增/變更[/h3]
 [h4]主要應用程式功能[/h4]
 [list]
-[*]Added Android support and released the new Wallpaper Engine Companion app for Android.
-[*]Added mobile collection to Discover tab.
+[*]新增 Android 支援並發布新的 Android 版 Wallpaper Engine 隨附應用程式。
+[*]新增行動裝置收藏至「探索」分頁。
 [*]Updated Wallpaper Engine logo, color theme, including app icons.
 [*]Added rounded corner support for Windows 11.
 [*]Added "day of week" playlist mode, limited to 7 wallpapers.
