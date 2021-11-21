@@ -150,14 +150,14 @@ Windows 11で透過効果のあるテーマを使用している場合、Windows
 Androidアプリは無料で使用でき、後から利用料が発生することもありません。また、アプリ内購入や広告も一切存在しません。 さらに、Wallpaper EngineをPＣで所有していなくてもスタンドアロンアプリとして使うことができ、モバイルデバイスから互換性のある壁紙のファイルをインポートすることも可能です。
 
 [h3]ワークショップはモバイルアプリからでも直接アクセスすることができるのでしょうか？[/h3]
-いいえ、技術的ならびに法的な制約によってワークショップはモバイルデバイスからアクセスすることができません。 既存の壁紙コレクションをコンピューターからAndroidへと転送する便利な方法は開発しました。 We tried to make this process as easy and simple as possible, in most cases you just need to make sure your mobile device and your computer are connected to the same network. [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to learn more.[/url]
+いいえ、技術的ならびに法的な制約によってワークショップはモバイルデバイスからアクセスすることができません。 既存の壁紙コレクションをコンピューターからAndroidへと転送する便利な方法は開発しました。 転送のプロセスがなるべく簡単で単純なものになるように努めたので、ほとんどの場合、自分のモバイルデバイスとPCが同じネットワークに繋がっていることを確かめるだけで大丈夫です。 [url=https://help.wallpaperengine.io/mobile/pairing.html]詳細はこちら。[/url]
 
-Additionally, you can also just directly import any compatible wallpaper files from the files stored on your mobile device. Wallpaper Engine for Android also works well if you are simply looking for a way to turn any video files on your Android phone or tablet into your mobile wallpaper or if you want to use several static wallpapers in a playlist.
+さらに、自分のモバイルデバイスに保管してある壁紙ファイルの中から互換性のあるものを直接インポートすることもできます。 Androidスマートフォンやタブレットにあるビデオファイルをモバイル用壁紙に変換したい場合や、プレイリスト内にある静的壁紙を使いたい場合にも、アンドロイド版Wallpaper Engineの機能はうってつけでしょう。
 
-[h3]Does Wallpaper Engine drain the battery of my devices?[/h3]
-No, we have optimized the app extensively and most modern devices will not notice a negative effect on battery life in day-to-day usage.
+[h3]Wallpaper Engineは自分のデバイスのバッテリーを消耗しますか？[/h3]
+いいえ、アプリは広範囲にわたって最適化されており、最新のデバイスで毎日使用してもバッテリー寿命に悪影響が及ぶことはないでしょう。
 
-We have been using the app for months on our private devices now and on an average day and we have not seen any meaningful battery usage through Wallpaper Engine. The app automatically pauses when another app is full-screened on your device and when your device is turned off. Battery saving mode will automatically pause your live wallpaper to reduce its impact on battery life even further. On top of that, you can also tweak the performance impact in the app settings by adjusting the FPS limit.
+私たち自身も手持ちの個人デバイスで何か月間も日常的にアプリを使っていますが、Wallpaper Engineによる大きなバッテリー消耗などはみられませんでした。 お手持ちのデバイスで別のアプリがフルスクリーン表示されたりデバイスの電源が切られたりすると、このアプリは自動的に一時停止状態になります。 Battery saving mode will automatically pause your live wallpaper to reduce its impact on battery life even further. On top of that, you can also tweak the performance impact in the app settings by adjusting the FPS limit.
 
 [h3]Do wallpapers also play sounds like on Windows?[/h3]
 No, all wallpapers are muted on Android. However, audio visualizers work as long as you grant the app the permission to record your device's audio.
