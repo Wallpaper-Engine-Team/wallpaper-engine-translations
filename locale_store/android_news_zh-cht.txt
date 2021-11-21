@@ -4,7 +4,7 @@ Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增一款
 
 免費 Android 應用程式
 
-大家好！我們今天推出 [b]Wallpaper Engine 2.0[/b] 了！ Wallpaper Engine 新支援 Android，與新標誌共同亮相，新增一款 3D 深度效果以及各式各樣其他的功能，讓 Wallpaper Engine 更上層樓。
+大家好！我們今天推出 [b]Wallpaper Engine 2.0[/b] 了！ Wallpaper Engine 本次更新開始支援 Android，與新標誌共同亮相，新增一款 3D 深度效果以及各式各樣其他的功能，讓 Wallpaper Engine 更上層樓。
 
 [h2]Wallpaper Engine Android 版隨附應用程式[/h2]
 
