@@ -150,7 +150,7 @@ Windows 11で透過効果のあるテーマを使用している場合、Windows
 Androidアプリは無料で使用でき、後から利用料が発生することもありません。また、アプリ内購入や広告も一切存在しません。 さらに、Wallpaper EngineをPＣで所有していなくてもスタンドアロンアプリとして使うことができ、モバイルデバイスから互換性のある壁紙のファイルをインポートすることも可能です。
 
 [h3]ワークショップはモバイルアプリからでも直接アクセスすることができるのでしょうか？[/h3]
-いいえ、技術的ならびに法的な制約によってワークショップはモバイルデバイスからアクセスすることができません。 We built a convenient way to transfer your existing collection of wallpapers from your computer to Android. We tried to make this process as easy and simple as possible, in most cases you just need to make sure your mobile device and your computer are connected to the same network. [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to learn more.[/url]
+いいえ、技術的ならびに法的な制約によってワークショップはモバイルデバイスからアクセスすることができません。 既存の壁紙コレクションをコンピューターからAndroidへと転送する便利な方法は開発しました。 We tried to make this process as easy and simple as possible, in most cases you just need to make sure your mobile device and your computer are connected to the same network. [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to learn more.[/url]
 
 Additionally, you can also just directly import any compatible wallpaper files from the files stored on your mobile device. Wallpaper Engine for Android also works well if you are simply looking for a way to turn any video files on your Android phone or tablet into your mobile wallpaper or if you want to use several static wallpapers in a playlist.
 
