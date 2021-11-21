@@ -15,15 +15,15 @@ Jsme rádi, že můžeme konečně vydat [i][b]bezplatnou[/b] doplňkovou aplika
 [*]Jakékoli kompatibilní soubory můžete importovat ze svého zařízení jako tapetu: [i]Videa, GIFy, obrázky a tapety z aplikace Wallpaper Engine.[/i]
 [*]Vytvořte si seznam svých tapet a používejte různé režimy playlistů.
 [*]Při aktivaci úsporného režimu se aplikace automaticky pozastaví. K dispozici jsou nastavení upřednostňující rychlost nebo kvalitu.
-[*]Full support for dynamic audio visualizers, clocks & other dynamic wallpaper elements
-[*]Let wallpapers move along with the motion of your device [i](devices with gyroscope)[/i]
-[*]Support for automatic theme colors based on the current wallpaper, including Android 12's [b]Material You[/b][/list]
+[*]Úplná podpora pro dynamickou vizualizaci zvuku, hodiny a další dynamické prvky tapet.
+[*]Nechte tapety plynout spolu s pohybem vašeho zařízení [i](zařízení s gyroskopem)[/i].
+[*]Podpora pro automatické barvy motivů v závislosti na aktuální tapetě, a to včetně motivu [b]Material You[/b] z Androidu 12.[/list]
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Real-time interactive wallpapers on Android[/b]
+        [td][b]Interaktivní tapety pro Android v reálném čase[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/757da27656323aa0dcd02c29678906c7efd09442.gif[/img][/td]
-        [td][b]Customize your wallpapers to your liking[/b]
+        [td][b]Přizpůsobte si tapety k obrazu svému[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/779d938b4f04f2e7e9a07a46ca09517749f105ec.gif[/img][/td]
     [/tr]
