@@ -129,35 +129,35 @@ Jeśli używasz motywu Windows 11 z przezroczystością, program Wallpaper Engin
 [*]Dodaliśmy narzędzie selektora kolorów do narzędzi malowania edytora.
 [*]Poprawiliśmy obsługę renderowania chińskich, japońskich, koreańskich i innych znaków z pomocą nowych czcionek w warstwach tekstowych tapet z rodzaju scenerii.
 [*]Poprawiliśmy „Renderera liny” w systemach cząstek.
-[*]SceneScript: [i]init()[/i] and [i]update()[/i] function will now automatically convert numbers into vectors (Vec2, Vec3, Vec4) when they are returned. This helps to simplify some scripts.
-[*]SceneScript: Reviewed and improved all sample code snippets slightly.
-[*]SceneScript: Update reference URLs to [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url].
-[*]Made transparency cropping work with DXT compression in the editor.
+[*]SceneScript: funkcje [i]init()[/i] oraz [i]update()[/i] będą teraz automatycznie konwertowały liczby na wektory (Vec2, Vec3, Vec4) po ich powrocie. Pomoże tu uprościć część skryptów.
+[*]SceneScript: przejrzeliśmy i poprawiliśmy nieco wszystkie próbki skrawków kodu.
+[*]SceneScript: zaktualizowaliśmy wszystkie hiperłącza do [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]nowej dokumentacji SceneScript[/url].
+[*]Przycinanie przezroczystych obszarów działa teraz z kompresją DXT w edytorze.
 [/list]
-[h3]Bug Fixes[/h3]
+[h3]Naprawione błędy[/h3]
 [list]
-[*]Fixed "High Performance" option for the texture resolution settings breaking a low number of wallpapers.
-[*]Fixed editor crashing when importing textures with resolutions below the minimum required size.
-[*]Fixed certain filter settings causing wallpapers to show up twice in the "installed" tab.
-[*]Fixed crash related to video textures.
-[*]Fixed JPEG EXIF meta data sometimes not being applied on image layers. If you rotate images with Windows, they should now also appear rotated in the app properly.
-[*]Fixed issue with particle system colors not working properly.
+[*]Naprawiliśmy opcję „Wysoka wydajność” ustawień rozdzielczości tekstur, co psuło niewielką liczbę tapet.
+[*]Naprawiliśmy błąd awarii edytora przy importowaniu tekstur z rozdzielczością poniżej minimalnego wymaganego rozmiaru.
+[*]Naprawiliśmy ustawienia filtrów, które sprawiały, że tapety pojawiały się dwukrotnie w zakładce „Zainstalowane”.
+[*]Naprawiliśmy awarie związane z teksturami wideo.
+[*]Naprawiliśmy błąd, przez który metadane JPEG EXIF czasami nie były stosowane na warstwy obrazu. Jeśli obracasz obrazy w systemie Windows, powinny one teraz wyświetlać się prawidłowo obrócone również w aplikacji.
+[*]Naprawiliśmy błąd nieprawidłowego działania kolorów systemu cząstek.
 [/list]
 
-[h2]Frequent Questions About The Android App[/h2]
+[h2]Często zadawane pytania o aplikację na systemy Android[/h2]
 
-[h3]How much does the Android app cost?[/h3]
-The Android app is free of charge, there are no hidden costs, no in-app purchases and no advertisements. It can also be used as a standalone app without owning Wallpaper Engine on your computer and import compatible wallpaper files from your mobile device.
+[h3]Ile kosztuje aplikacja na systemy Android?[/h3]
+Aplikacja na systemy Android jest darmowa, nie ma w niej żadnych ukrytych kosztów, zakupów w aplikacji oraz reklam. Można jej również używać samodzielnie bez konieczności posiadania Wallpaper Engine na komputerze, by importować kompatybilne pliki z tapetami z urządzenia mobilnego.
 
-[h3]Can the Workshop be accessed directly from the Mobile App?[/h3]
-No, the Workshop cannot be accessed from mobile devices due to technical and legal restrictions. We built a convenient way to transfer your existing collection of wallpapers from your computer to Android. We tried to make this process as easy and simple as possible, in most cases you just need to make sure your mobile device and your computer are connected to the same network. [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to learn more.[/url]
+[h3]Czy Warsztat jest bezpośrednio dostępny w aplikacji mobilnej?[/h3]
+Nie, nie można korzystać z Warsztatu bezpośrednio z urządzenia mobilnego z uwagi na ograniczenia techniczne i prawne. Zbudowaliśmy wygodny sposób przesyłania Twoich obecnych kolekcji tapet z komputera na urządzenia z systemem Android. Staraliśmy się, by proces ten był jak najprostszy, w większości przypadków wystarczy sprawdzić, czy Twoje urządzenie mobilne i komputer są podłączone do tej samej sieci. [url=https://help.wallpaperengine.io/mobile/pairing.html]Kliknij tutaj, aby dowiedzieć się więcej.[/url]
 
-Additionally, you can also just directly import any compatible wallpaper files from the files stored on your mobile device. Wallpaper Engine for Android also works well if you are simply looking for a way to turn any video files on your Android phone or tablet into your mobile wallpaper or if you want to use several static wallpapers in a playlist.
+Dodatkowo możesz bezpośrednio przesyłać wszystkie kompatybilne pliki z tapetami, które przechowujesz na urządzeniu mobilnym. Wallpaper Engine na systemy Android działa dobrze, jeśli chcesz po prostu wykorzystać pliki wideo na Twoim telefonie lub tablecie z systemem Android jako tapetę na tym urządzeniu albo gdy chcesz stworzyć playlistę z kilku statycznych tapet.
 
-[h3]Does Wallpaper Engine drain the battery of my devices?[/h3]
-No, we have optimized the app extensively and most modern devices will not notice a negative effect on battery life in day-to-day usage.
+[h3]Czy Wallpaper Engine bardzo obciąża baterię mojego urządzenia?[/h3]
+Nie, szczegółowo zoptymalizowaliśmy aplikację i na większości nowoczesnych urządzeń nie wpłynie ona negatywnie na żywotności baterii w codziennym użytku.
 
-We have been using the app for months on our private devices now and on an average day and we have not seen any meaningful battery usage through Wallpaper Engine. The app automatically pauses when another app is full-screened on your device and when your device is turned off. Battery saving mode will automatically pause your live wallpaper to reduce its impact on battery life even further. On top of that, you can also tweak the performance impact in the app settings by adjusting the FPS limit.
+Używaliśmy aplikacji przez wiele miesięcy na naszych prywatnych urządzeniach i w przeciętne dni nie zauważyliśmy znacznego zużycia baterii przez Wallpaper Engine. Aplikacja automatycznie wstrzymuje swoje działanie, gdy włączysz inną aplikację na swoim urządzeniu w trybie pełnego ekranu oraz gdy urządzenie zostanie wyłączone. Tryb oszczędzania baterii automatycznie wstrzyma działanie animowanej tapety, aby jeszcze bardziej obniżyć wpływ aplikacji na żywotność baterii. Ponadto możesz również poprawić wpływ na wydajność w ustawieniach aplikacji, dostosowując limit kl./s.
 
 [h3]Do wallpapers also play sounds like on Windows?[/h3]
 No, all wallpapers are muted on Android. However, audio visualizers work as long as you grant the app the permission to record your device's audio.
