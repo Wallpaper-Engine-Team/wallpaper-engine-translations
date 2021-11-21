@@ -68,10 +68,10 @@ Atölyeye mobil cihazdan doğrudan bağlanmak, teknik ve hukuki açıdan mümkü
 
 [img]{STEAM_CLAN_IMAGE}/26312799/0fc8bc609bd7d959fa87fe7f90e3f1612ba67cd1.gif[/img]
 
-[b]Android'e bağlanamıyorsanız:[/b] Bir duvar kağıdına sağ tıklayın ve [b]Mobil cihaza gönder[/b] seçeneğini ve ardından [b].mpkg'yi dışa aktar[/b] seçeneğini seçin. You can then transfer the exported mobile package file to your mobile device via cable or by transferring it to your mobile device in another way.
+[b]Android'e bağlanamıyorsanız:[/b] Bir duvar kağıdına sağ tıklayın ve [b]Mobil cihaza gönder[/b] seçeneğini ve ardından [b].mpkg'yi dışa aktar[/b] seçeneğini seçin. Daha sonra dışa aktarılan mobil paket dosyasını mobil cihazınıza kablo aracılığıyla veya başka bir yöntemle mobil cihazınıza aktarabilirsiniz.
 
 [list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Android bağlantı kılavuzumuzu okumak için buraya tıklayın.[/url][/list]
-[i]İpucu: CTRL tuşunu basılı tutup çoklu seçim yaparak klasörleri veya birden çok duvar kağıdını aynı anda aktarabilirsiniz. Clicking [b]CTRL + A[/b] in the [b]Installed[/b] tab selects all installed wallpapers and lets you transfer them all at the same time.[/i]
+[i]İpucu: CTRL tuşunu basılı tutup çoklu seçim yaparak klasörleri veya birden çok duvar kağıdını aynı anda aktarabilirsiniz. [b]Yüklenenler[/b] sekmesindeyken [b]CTRL + A[/b] kısayolunu kulllanmak, yüklü tüm duvar kağıtlarını seçerek hepsini aynı anda aktarmanıza olanak tanır.[/i]
 
 [h2]Yeni Wallpaper Engine Logosu[/h2]
 Wallpaper Engine'in Android sürümünün yayınlanmasıyla birlikte logomuzu güncelleme zamanının geldiğini hissettik. Eski logo, esas olarak bir bilgisayar ekranından oluşuyordu ve bu, bir mobil cihazda pek bir anlam ifade etmiyor. Büyük bir 2.0 sürümü, yeni bir şey denemek için en iyi zaman gibi geldi ve sonuçtan oldukça memnunuz.
@@ -87,13 +87,13 @@ Wallpaper Engine düzenleyicisine yapılan önemli bir yenilik, yeni Derinlik Pa
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
-To make full-use of the effect in the wallpaper editor, we recommend installing our new [b][i]free[/i][/b] [i]Editor Extensions DLC[/i]. Bu özel düzenleyici özelliğini isteğe bağlı bir indirilebilir pakete ayırmaya karar verdik çünkü özellikler, birkaç gigabayt boyutunda bir indirme gerektiriyor. Efekti düzenleyicide ilk kullandığınızda Wallpaper Engine, indirilebilir içeriği sizin için yüklemek isteyecektir. Daha fazla bilgi için düzenleyicide derinlik paralaksı efektinin nasıl kurulacağı ve kullanılacağıyla ilgili tam kılavuzumuza göz atın:
+Duvar kağıdı düzenleyicisindeki efektten tam anlamıyla faydalanmak için yeni [b][i]ücretsiz[/i][/b] [i]Düzenleyici Uzantıları İndirilebilir İçeriğimizi[/i] yüklemenizi öneririz. Bu özel düzenleyici özelliğini isteğe bağlı bir indirilebilir pakete ayırmaya karar verdik çünkü özellikler, birkaç gigabayt boyutunda bir indirme gerektiriyor. Efekti düzenleyicide ilk kullandığınızda Wallpaper Engine, indirilebilir içeriği sizin için yüklemek isteyecektir. Daha fazla bilgi için düzenleyicide derinlik paralaksı efektinin nasıl kurulacağı ve kullanılacağıyla ilgili tam kılavuzumuza göz atın:
 
 [list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Derinlik Paralaksı[/url] (Şu anda yalnızca İngilizce olarak mevcuttur; makine çevirisi işinize yarayabilir)[/list]
-[b]It's important to note:[/b] You do not need to install the free DLC unless you want to use the effect in the editor yourself - the effect will still work on computers and mobile devices even if the free DLC is not installed.
+[b]Dikkat:[/b] Düzenleyicideki efekti kendiniz kullanmak istemiyorsanız ücretsiz indirilebilir içeriği yüklemeniz gerekmez; ücretsiz indirilebilir içerik yüklü olmadan da efekt bilgisayarlarda ve mobil cihazlarda çalışmayı sürdürür.
 
 [h2]Haftanın Günü Oynatma Listeleri[/h2]
-Haftanın her günü için bir duvar kağıdı yapılandırma yöntemi, zaman içinde aldığımız popüler bir istekti. Bu güncelleme ile haftanın günleri için yeni bir oynatma listesi sunuyoruz. Simply add up to seven wallpapers to the playlist in the [b]Installed[/b] tab of Wallpaper Engine, then click on [b]Configure[/b] in the playlist section and select the [b]Day of Week[/b] option from there. You will also find the already existing playlist options there, such as the [b]Time of Day[/b] playlist type.
+Haftanın her günü için bir duvar kağıdı yapılandırma yöntemi, zaman içinde aldığımız popüler bir istekti. Bu güncelleme ile haftanın günleri için yeni bir oynatma listesi sunuyoruz. Wallpaper Engine'in [b]Yüklenenler[/b] sekmesindeki oynatma listesine en fazla yedi adet duvar kağıdı ekleyip oynatma listesi bölümünden [b]Yapılandır[/b]'a ve buradan [b]Haftanın Günü[/b] seçeneğine basın. [b]Günün Saati[/b] oynatma listesi türü gibi zaten var olan oynatma listesi seçeneklerini de burada bulursunuz.
 
 [h2]Windows 11[/h2]
 Wallpaper Engine, Windows 11'i tam olarak destekler; bu güncellemeyle birlikte yeni yuvarlak köşeli kullanıcı arayüzü tasarımı için destek de ekliyoruz. Windows 11'e yükseltme yapıyorsanız ve Wallpaper Engine ile ilgili bir sorun yaşıyorsanız en son grafik kartı sürücülerini tam olarak yeniden yüklediğinizden emin olun. Sorunlarla ilgili olarak bize ulaşan çoğu Windows 11 kullanıcısı, güncel olmayan grafik kartı sürücüleri kullanıyordu.
