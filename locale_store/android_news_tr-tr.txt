@@ -112,20 +112,20 @@ Saydamlık içeren bir Windows 11 teması kullanıyorsanız, Wallpaper Engine'in
 [*]7 duvar kağıdı ile sınırlı "haftanın günü" oynatma listesi modu eklendi.
 [*]Arama filtreleri yeniden düzenlendi ve yeni "mobil uyumlu" filtre seçeneği eklendi.
 [*]Bir duvar kağıdına sağ tıklandığında "favorilere ekle" düğmesi eklendi.
-[*]"Stop mode" now turns off automatically while wallpaper is being changed manually.
-[*]Improved user interface for configuring physics bones.
-[*]Increased automatic audio unmute delay from 3 to 5 seconds.
-[*]Added scheme color to "apply to all wallpapers" dialog.
-[*]Removed 12h / 24h clock option from playlist, now detected automatically depending on system settings.
-[*]Added CLI applyProperties support to windowed wallpapers.
-[*]Improved app performance with new JSON parser.
-[*]Updated core application binaries to latest Visual Studio 2022 compiler and latest Win SDK.
-[*]Reduced occurrence of rare cursor flickering issue in CEF.
+[*]"Durma modu" artık duvar kağıdı manuel olarak değiştirilirken otomatik olarak kapanıyor.
+[*]Fizik kemiklerini yapılandırmak için geliştirilmiş kullanıcı arayüzü.
+[*]Otomatik sesi açma gecikmesi 3 saniyeden 5 saniyeye çıkarıldı.
+[*]"Tüm duvar kağıtlarına uygula" iletişim kutusuna şema rengi eklendi.
+[*]Oynatma listesinden 12 saat/24 saat seçeneği kaldırıldı ve artık sistem ayarlarına bağlı olarak otomatik olarak algılanıyor.
+[*]Pencereli duvar kağıtlarına CLI applicationProperties desteği eklendi.
+[*]Yeni JSON ayrıştırıcı ile geliştirilmiş uygulama performansı.
+[*]Çekirdek uygulama ikili dosyaları en son Visual Studio 2022 derleyicisine ve en son Win SDK'ya güncellendi.
+[*]CEF'de nadiren görülen imleç titremesi sorunu azaltıldı.
 [/list]
 [h4]Duvar Kağıdı Düzenleyici[/h4]
 [list]
-[*]Added new depth parallax effect.
-[*]Added FREE editor extensions DLC for depth parallax effect. You only need this if you want to use it in the editor, users of your wallpapers do not need this DLC.
+[*]Yeni derinlik paralaksı efekti eklendi.
+[*]Derinlik paralaksı efekti için ÜCRETSİZ düzenleyici uzantı içerik paketleri eklendi. You only need this if you want to use it in the editor, users of your wallpapers do not need this DLC.
 [*]Added color picker tool to editor painting tools.
 [*]Improved support for rendering Chinese, Japanese, Korean and more characters in scene wallpapers text layers with new fonts.
 [*]Improved "Rope Renderer" for particle systems.
