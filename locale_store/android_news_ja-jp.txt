@@ -102,12 +102,12 @@ Windows 11で透過効果のあるテーマを使用している場合、Windows
 
 [h2]変更履歴[/h2]
 
-[h3]Additions / Changes[/h3]
-[h4]Main App[/h4]
+[h3]追加・変更[/h3]
+[h4]メインアプリ[/h4]
 [list]
-[*]Added Android support and released the new Wallpaper Engine Companion app for Android.
-[*]Added mobile collection to Discover tab.
-[*]Updated Wallpaper Engine logo, color theme, including app icons.
+[*]Androidに対応し、Android向けに「Wallpaper Engineコンパニオン」という新アプリをリリース。
+[*]モバイルコレクションを「発見」タグに追加。
+[*]Wallpaper Engineのロゴ、カラーテーマ、アプリアイコンなどを一新。
 [*]Added rounded corner support for Windows 11.
 [*]Added "day of week" playlist mode, limited to 7 wallpapers.
 [*]Re-arranged search filters, added new "mobile compatible" filter option.
