@@ -112,23 +112,23 @@ Jeśli używasz motywu Windows 11 z przezroczystością, program Wallpaper Engin
 [*]Dodaliśmy tyb playlisty „Dzień tygodnia”, ograniczoną do siedmiu tapet.
 [*]Zmieniliśmy kolejność filtrów wyszukiwania i dodaliśmy nową opcję filtrowania „Na urządzenia mobilne”.
 [*]Dodaliśmy przycisk „Ulubione” dostępny po kliknięciu prawym przyciskiem myszy tapety.
-[*]"Stop mode" now turns off automatically while wallpaper is being changed manually.
-[*]Improved user interface for configuring physics bones.
-[*]Increased automatic audio unmute delay from 3 to 5 seconds.
-[*]Added scheme color to "apply to all wallpapers" dialog.
-[*]Removed 12h / 24h clock option from playlist, now detected automatically depending on system settings.
-[*]Added CLI applyProperties support to windowed wallpapers.
-[*]Improved app performance with new JSON parser.
-[*]Updated core application binaries to latest Visual Studio 2022 compiler and latest Win SDK.
-[*]Reduced occurrence of rare cursor flickering issue in CEF.
+[*]„Tryb stop” wyłącza się teraz automatycznie, gdy tapeta jest zmieniana ręcznie.
+[*]Poprawiliśmy interfejs konfiguracji kości fizyki.
+[*]Zwiększyliśmy czas automatycznego odciszenia audio z trzech na pięć sekund.
+[*]Dodaliśmy kolor schematu do okna „Zastosuj do wszystkich tapet”.
+[*]Usunęliśmy opcję zegara dwunastogodzinnego i dwudziestoczterogodzinnego z playlisty. Zegar będzie teraz wykrywany automatycznie zależnie od ustawień systemowych.
+[*]Dodaliśmy obsługę applyProperties wiersza poleceń do tapet odtwarzanych w oknie.
+[*]Poprawiliśmy działanie aplikacji nowym analizatorem składniowym JSON.
+[*]Zaktualizowaliśmy główny kod aplikacji do najnowszej wersji kompilatora Visual Studio 2022 i najnowszej wersji Win SDK.
+[*]Zmniejszyliśmy częstotliwość występowania rzadkiego problemu z migającym kursorem w CEF.
 [/list]
-[h4]Wallpaper Editor[/h4]
+[h4]Edytor tapet[/h4]
 [list]
-[*]Added new depth parallax effect.
-[*]Added FREE editor extensions DLC for depth parallax effect. You only need this if you want to use it in the editor, users of your wallpapers do not need this DLC.
-[*]Added color picker tool to editor painting tools.
-[*]Improved support for rendering Chinese, Japanese, Korean and more characters in scene wallpapers text layers with new fonts.
-[*]Improved "Rope Renderer" for particle systems.
+[*]Dodaliśmy nowy efekt paralaksy głębokości.
+[*]Dodaliśmy DARMOWY dodatek rozszerzeń edytora z efektem głębokości paralaksy. Potrzebujesz tego dodatku, tylko jeśli chcesz używać efektu w edytorze. Użytkownicy Twoich tapet nie muszą go instalować.
+[*]Dodaliśmy narzędzie selektora kolorów do narzędzi malowania edytora.
+[*]Poprawiliśmy obsługę renderowania chińskich, japońskich, koreańskich i innych znaków z pomocą nowych czcionek w warstwach tekstowych tapet z rodzaju scenerii.
+[*]Poprawiliśmy „Renderera liny” w systemach cząstek.
 [*]SceneScript: [i]init()[/i] and [i]update()[/i] function will now automatically convert numbers into vectors (Vec2, Vec3, Vec4) when they are returned. This helps to simplify some scripts.
 [*]SceneScript: Reviewed and improved all sample code snippets slightly.
 [*]SceneScript: Update reference URLs to [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url].
