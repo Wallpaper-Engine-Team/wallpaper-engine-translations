@@ -87,16 +87,16 @@ Wallpaper Engine 編輯器的重大新功能就是新的深度視差效果。 �
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
-為了善加發揮桌布編輯器的效果，建議您安裝新推出的[b][i]免費[/i][/b]的[i]編輯器擴充 DLC[/i]. 我們決定將這個特定的編輯器功能與選用的 DLC 分開，因為此功能需要下載數 GB 的大小。 When first using the effect in the editor, Wallpaper Engine will ask you to install the DLC for you. For more infos, see our full guide on how to install and use the depth parallax effect in the editor:
+為了善加發揮桌布編輯器的效果，建議您安裝新推出的[b][i]免費[/i][/b]的[i]編輯器擴充 DLC[/i]。 我們決定將這個特定的編輯器功能與選用的 DLC 分開，因為此功能需要下載數 GB 的大小。 第一次在此編輯器使用此效果時，Wallpaper Engine 將提醒您安裝 DLC。 如需詳細資訊，請見在編輯器中安裝與使用深度視差效果的指南：
 
 [list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]深度視差[/url] (目前僅有英語版；機器翻譯成果佳)[/list]
-[b]It's important to note:[/b] You do not need to install the free DLC unless you want to use the effect in the editor yourself - the effect will still work on computers and mobile devices even if the free DLC is not installed.
+[b]重要事項：[/b]您如果不需要使用此效果，則不需要安裝此免費的 DLC；如果未安裝此免費 DLC，該效果仍可在電腦和行動裝置上使用。
 
-[h2]Weekday Playlists[/h2]
-A popular request that we have received over time was the way to configure one wallpaper per weekday. With this update, we are introducing a new weekday playlist. Simply add up to seven wallpapers to the playlist in the [b]Installed[/b] tab of Wallpaper Engine, then click on [b]Configure[/b] in the playlist section and select the [b]Day of Week[/b] option from there. You will also find the already existing playlist options there, such as the [b]Time of Day[/b] playlist type.
+[h2]週間播放清單[/h2]
+長久以來我們常收到的問題是，如何為週間每天設定一張桌布。 我們在這次更新推出新的週間播放清單功能。 設定相當簡單，只要在 Wallpaper Engine 的[b]已安裝[/b]分頁新增最多七張桌布，接著在播放清單部分按一下[b]設定[/b]，選取[b]星期幾[/b]即完成。 您也可以在同一處找到既有的播放清單選項，例如[b]特定時刻[/b]播放清單類型。
 
 [h2]Windows 11[/h2]
-Wallpaper Engine fully supports Windows 11, with this update, we are also adding support for the new rounded corners user interface design. If you are upgrading to Windows 11 and experience any issues with Wallpaper Engine, make sure to do a full re-installation of the latest graphics card drivers. Most Windows 11 users who reached out to us with issues were using outdated graphics card drivers.
+Wallpaper Engine 完全支援 Windows 11，趁著這次更新，我們也為新的圓角使用者介面設計新增支援。 If you are upgrading to Windows 11 and experience any issues with Wallpaper Engine, make sure to do a full re-installation of the latest graphics card drivers. Most Windows 11 users who reached out to us with issues were using outdated graphics card drivers.
 
 If you are using a Windows 11 theme with transparency, you will notice that Wallpaper Engine will be ignored by Windows 11. To fix this issue, simply enable the new [b]Override wallpaper[/b] option in the Wallpaper Engine settings. This will keep your Windows wallpaper in sync with your Wallpaper Engine wallpaper and fix any issues with transparency on Windows 11.
 
@@ -173,7 +173,7 @@ Unfortunately, Apple's iOS does not support true live wallpapers like Android. I
     [tr][td][/td][td][/td][td][img]{STEAM_CLAN_IMAGE}/26312799/c42514f38e70a8cab07f98f9263ba8a12b0a0c0c.gif[/img][/td][td][/td][td][/td][/tr]
 [/table]
 
-[h2]Feedback, Questions and Technical Support for Android[/h2]
-If you have any questions, suggestions or general feedback about the new Android app or if you run into any technical issues, be sure to post a message on the Android section of our Steam board:
+[h2]對 Android 版的回饋、問題及技術支援[/h2]
+如果您對新的 Android 版應用程式有任何問題、建議等任何回饋，或是遇上技術問題，請至 Steam 討論區的 Android 部分發文：
 
 [list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android 版應用程式討論區[/url][/list]
