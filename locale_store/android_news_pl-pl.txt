@@ -159,21 +159,21 @@ Nie, szczegółowo zoptymalizowaliśmy aplikację i na większości nowoczesnych
 
 Używaliśmy aplikacji przez wiele miesięcy na naszych prywatnych urządzeniach i w przeciętne dni nie zauważyliśmy znacznego zużycia baterii przez Wallpaper Engine. Aplikacja automatycznie wstrzymuje swoje działanie, gdy włączysz inną aplikację na swoim urządzeniu w trybie pełnego ekranu oraz gdy urządzenie zostanie wyłączone. Tryb oszczędzania baterii automatycznie wstrzyma działanie animowanej tapety, aby jeszcze bardziej obniżyć wpływ aplikacji na żywotność baterii. Ponadto możesz również poprawić wpływ na wydajność w ustawieniach aplikacji, dostosowując limit kl./s.
 
-[h3]Do wallpapers also play sounds like on Windows?[/h3]
-No, all wallpapers are muted on Android. However, audio visualizers work as long as you grant the app the permission to record your device's audio.
+[h3]Czy tapety odtwarzają dźwięk tak jak na systemie Windows?[/h3]
+Nie, wszystkie tapety na systemach Android są wyciszone. Jednak wizualizatory audio działają, o ile udzielisz aplikacji dostępu do nagrywania dźwięku z urządzenia.
 
-[h3]Can I set a wallpaper on my Android lock screen?[/h3]
-This depends on your device. Some Android manufacturers do not allow live wallpapers on the lock screen while some others do. If you are not offered the option to set a lock screen wallpaper, then your device manufacturer does not allow it.
+[h3]Czy mogę ustawić tapetę na ekranie blokady urządzenia z systemem Android?[/h3]
+To zależy od Twojego urządzenia. Część producentów urządzeń z systemem Android nie pozwala ustawiać animowanych tapet na ekran blokady, a część z nich na to pozwala. Jeśli nie masz możliwości ustawienia tapety na ekranie blokady, oznacza to, że producent Twojego urządzenia na to nie zezwala.
 
-[h3]What about Wallpaper Engine on iOS for iPhones and iPads?[/h3]
-Unfortunately, Apple's iOS does not support true live wallpapers like Android. It is not possible to create anything similar to Wallpaper Engine on iOS. If Apple ever changes their mind on this, we will likely also follow-up with an iOS version. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Click here to learn our lengthy explanation about Linux, Mac OS and iOS.[/url]
+[h3]Czy będzie kiedyś aplikacja Wallpaper Engine na systemy iOS na telefony iPhone i tablety iPad?[/h3]
+Niestety system iOS firmy Apple nie obsługuje prawdziwych tapet animowanych, tak jak robi to system Android. Nie da się stworzyć czegoś podobnego do Wallpaper Engine na systemy iOS. Jeśli kiedyś Apple zmieni zdanie co do tej kwestii, najprawdopodobniej stworzymy również wersję na systemy iOS. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Kliknij tutaj, aby przeczytać dokładne wyjaśnienie dotyczące systemów Linux, Mac OS oraz iOS.[/url]
 
 
 [table equalcells=1 noborder=1]
     [tr][td][/td][td][/td][td][img]{STEAM_CLAN_IMAGE}/26312799/c42514f38e70a8cab07f98f9263ba8a12b0a0c0c.gif[/img][/td][td][/td][td][/td][/tr]
 [/table]
 
-[h2]Feedback, Questions and Technical Support for Android[/h2]
-If you have any questions, suggestions or general feedback about the new Android app or if you run into any technical issues, be sure to post a message on the Android section of our Steam board:
+[h2]Opinie, pytania i wsparcie techniczne urządzeń z systemem Android[/h2]
+Jeśli masz jakiekolwiek pytania, sugestie lub po prostu chcesz wyrazić swoją opinię o nowej aplikacji na systemy Android, lub jeśli natrafisz na jakiś problem techniczny, śmiało napisz wiadomość w sekcji Android naszej tablicy na platformie Steam:
 
-[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android App Discussions[/url][/list]
+[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine – dyskusje dotyczące aplikacji na systemy Android[/url][/list]
