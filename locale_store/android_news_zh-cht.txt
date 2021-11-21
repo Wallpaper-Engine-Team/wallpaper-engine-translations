@@ -83,13 +83,13 @@ Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增一款
 [img]{STEAM_CLAN_IMAGE}/26312799/ecb522ad46fedd9502a715ae38937246172dfcbe.png[/img]
 
 [h2]新的深度視差效果[/h2]
-Wallpaper Engine 編輯器的重大新功能就是新的深度視差效果。 This effect will allow you to create a perceived 3D depth to your images. On computers, the effect is influenced by the mouse while on Android, the movement of the phone will simulate the mouse movement.
+Wallpaper Engine 編輯器的重大新功能就是新的深度視差效果。 您可運用此效果為圖像建立知覺 3D 深度。 在電腦上，此效果會受到滑鼠影響，而在 Android，手機螢幕的動作會模擬滑鼠動作。
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
-To make full-use of the effect in the wallpaper editor, we recommend installing our new [b][i]free[/i][/b] [i]Editor Extensions DLC[/i]. We decided to separate this particular editor feature into an optional DLC because the features requires a download which is several gigabytes in size. When first using the effect in the editor, Wallpaper Engine will ask you to install the DLC for you. For more infos, see our full guide on how to install and use the depth parallax effect in the editor:
+為了善加發揮桌布編輯器的效果，建議您安裝新推出的[b][i]免費[/i][/b]的[i]編輯器擴充 DLC[/i]. We decided to separate this particular editor feature into an optional DLC because the features requires a download which is several gigabytes in size. When first using the effect in the editor, Wallpaper Engine will ask you to install the DLC for you. For more infos, see our full guide on how to install and use the depth parallax effect in the editor:
 
-[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Depth Parallax[/url] (Only available in English right now - machine translation works well)[/list]
+[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]深度視差[/url] (目前僅有英語版；機器翻譯成果佳)[/list]
 [b]It's important to note:[/b] You do not need to install the free DLC unless you want to use the effect in the editor yourself - the effect will still work on computers and mobile devices even if the free DLC is not installed.
 
 [h2]Weekday Playlists[/h2]
