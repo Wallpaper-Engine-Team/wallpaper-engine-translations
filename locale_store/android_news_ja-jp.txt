@@ -157,23 +157,24 @@ Androidアプリは無料で使用でき、後から利用料が発生するこ�
 [h3]Wallpaper Engineは自分のデバイスのバッテリーを消耗しますか？[/h3]
 いいえ、アプリは広範囲にわたって最適化されており、最新のデバイスで毎日使用してもバッテリー寿命に悪影響が及ぶことはないでしょう。
 
-私たち自身も手持ちの個人デバイスで何か月間も日常的にアプリを使っていますが、Wallpaper Engineによる大きなバッテリー消耗などはみられませんでした。 お手持ちのデバイスで別のアプリがフルスクリーン表示されたりデバイスの電源が切られたりすると、このアプリは自動的に一時停止状態になります。 Battery saving mode will automatically pause your live wallpaper to reduce its impact on battery life even further. On top of that, you can also tweak the performance impact in the app settings by adjusting the FPS limit.
+私たち自身も手持ちの個人デバイスで何か月間も日常的にアプリを使っていますが、Wallpaper Engineによる大きなバッテリー消耗などはみられませんでした。 お手持ちのデバイスで別のアプリがフルスクリーン表示されたりデバイスの電源が切られたりすると、このアプリは自動的に一時停止状態になります。 バッテリーセーバーモードでは、自動的にライブ壁紙を一時停止するので、バッテリー寿命に及ぼす影響をさらに減らすことができます。 それに加え、フレームレート制限を変更することで、アプリ設定からもパフォーマンスへの影響を調整することができます。
 
-[h3]Do wallpapers also play sounds like on Windows?[/h3]
-No, all wallpapers are muted on Android. However, audio visualizers work as long as you grant the app the permission to record your device's audio.
+[h3]Windows版のように壁紙からサウンドが再生されますか？[/h3]
+いいえ、Android版ではすべての壁紙がミュートされます。 しかし、アプリが自分のデバイスのオーディオを録音することを許可している場合、オーディオビジュアライザは機能します。
 
-[h3]Can I set a wallpaper on my Android lock screen?[/h3]
-This depends on your device. Some Android manufacturers do not allow live wallpapers on the lock screen while some others do. If you are not offered the option to set a lock screen wallpaper, then your device manufacturer does not allow it.
+[h3]Androidのロック画面に壁紙を設定することはできますか？[/h3]
+これに関してはデバイスによります。 Androidメーカーの中にはライブ壁紙をロック画面に設定することを許可していないメーカーがあります。それ以外のメーカーの場合は可能です。 ロック画面に壁紙をセットするオプションがない場合、それはお使いのデバイスのメーカーが許可していないということです。
 
-[h3]What about Wallpaper Engine on iOS for iPhones and iPads?[/h3]
-Unfortunately, Apple's iOS does not support true live wallpapers like Android. It is not possible to create anything similar to Wallpaper Engine on iOS. If Apple ever changes their mind on this, we will likely also follow-up with an iOS version. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Click here to learn our lengthy explanation about Linux, Mac OS and iOS.[/url]
+[h3] iPhoneやiPad向けのiOS版Wallpaper Engineはどうなっていますか？[/h3]
+残念なことに、AppleのiOSではAndroidのようにライブ壁紙がサポートされていません。 なので、iOSWallpaper Engineに似たようなものを作ることは不可能です。 Appleがこの現状を見直すことがあれば、iOS版を用意することもできるでしょう。 [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]長めですが、ここをクリックすることで Linux、Mac OS、iOSなどに関する説明を確認できます。[/url]
 
 
 [table equalcells=1 noborder=1]
-    [tr][td][/td][td][/td][td][img]{STEAM_CLAN_IMAGE}/26312799/c42514f38e70a8cab07f98f9263ba8a12b0a0c0c.gif[/img][/td][td][/td][td][/td][/tr]
+    No translations matched your search
+[tr][td][/td][td][/td][td][img]{STEAM_CLAN_IMAGE}/26312799/c42514f38e70a8cab07f98f9263ba8a12b0a0c0c.gif[/img][/td][td][/td][td][/td][/tr]
 [/table]
 
-[h2]Feedback, Questions and Technical Support for Android[/h2]
+[h2]Android版に関するフィードバック、質問、技術サポート[/h2]
 If you have any questions, suggestions or general feedback about the new Android app or if you run into any technical issues, be sure to post a message on the Android section of our Steam board:
 
 [list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android App Discussions[/url][/list]
