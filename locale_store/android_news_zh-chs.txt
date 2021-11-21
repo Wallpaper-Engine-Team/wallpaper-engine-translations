@@ -32,11 +32,11 @@ Wallpaper Engine 2.0 引入了对 Android 的支持，推出了新徽标，还�
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]利用音频响应壁纸可视化您的音乐。 Credit: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
+        [td][b]利用音频响应壁纸可视化您的音乐。 感谢：[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/d590754450672c1b121668604832ef5b61568972.gif[/img]
 [/td]
-        [td][b]Let wallpapers react to the motion of your device [i](devices with gyroscope)[/i][/b]
+        [td][b]让壁纸对您设备的运动做出反应[i]（带陀螺仪的设备）[/i][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/75962cf9e8e5635216d7ded68e3527a731e1e565.gif[/img][/td]
     [/tr]
@@ -44,20 +44,20 @@ Wallpaper Engine 2.0 引入了对 Android 的支持，推出了新徽标，还�
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Customize the app by configuring playlists, performance settings and more[/b]
+        [td][b]通过配置播放列表和性能设置等自定义应用程序[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/a609a043455539f48a87e7d692a4eea9722ff9d1.gif[/img]
 [/td]
-        [td][b]Wirelessly transfer your Workshop wallpapers from your computer[/b]
+        [td][b]从您的计算机无线传输创意工坊壁纸[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/f8f24e382022472d8972af5f3dbd73f2556cdfdc.gif[/img][/td]
     [/tr]
 [/table]
-[h3]Download Wallpaper Engine for Android[/h3]
-We recommend installing the app through an official app store, however, we also offer a direct APK download for more advanced users. View our website for all installation options here:
+[h3]下载 Android 版 Wallpaper Engine[/h3]
+我们建议通过官方应用商店安装该应用程序，但是，我们也为更高级的用户提供直接 APK 下载。 在此查看我们的网站以了解所有安装选项：
 
-[list][*][h3][i][b][url=wallpaperengine.io/android]Download the Wallpaper Engine Android Companion App[/url][/b][/i][/h3][/list]
-[h3]Adding new Wallpapers to Android[/h3]
+[list][*][h3][i][b][url=wallpaperengine.io/android]下载 Wallpaper Engine Android 伴侣应用程序[/url][/b][/i][/h3][/list]
+[h3]将新壁纸添加到 Android[/h3]
 Directly connecting to the Workshop from a mobile device is not possible from a technical and legal point of view. However, we built a convenient system that allows owners of Wallpaper Engine on Windows to transfer their wallpapers to Android devices with ease:
 
 [b]Step 1:[/b] Click on the new [b]Mobile[/b] button in Wallpaper Engine on Windows, then select [b]Connect new device[/b]. Wallpaper Engine will show you a 4 digit PIN that you can use to connect to your mobile device now.
