@@ -105,10 +105,10 @@ Windows 11で透過効果のあるテーマを使用している場合、Windows
 [h3]追加・変更[/h3]
 [h4]メインアプリ[/h4]
 [list]
-[*]Androidに対応し、Android向けに「Wallpaper Engineコンパニオン」という新アプリをリリース
+[*]Androidサポートを追加し、Android向けに「Wallpaper Engineコンパニオン」という新アプリをリリース
 [*]モバイルコレクションを「発見」タグに追加
 [*]Wallpaper Engineのロゴ、カラーテーマ、アプリアイコンなどを一新
-[*]Windows 11の丸角デザインに対応
+[*]Windows 11の丸角デザインサポートを追加
 [*]「曜日毎」プレイリストモードを追加。壁紙を7枚まで選択可能
 [*]検索フィルターを再調整し、新しく「モバイル対応」フィルターオプションを追加
 [*]壁紙を右クリックで表示される「お気に入り」ボタンを追加
@@ -117,17 +117,17 @@ Windows 11で透過効果のあるテーマを使用している場合、Windows
 [*]オーディオミュート自動解除の遅延が3秒から5秒に増加
 [*]ツールバーの色設定に「すべての壁紙に適用」ダイアログを追加
 [*]プレイリストから時計の12時間表示と24時間表示のオプションを削除。今後はシステム設定を検出し、それに応じて自動で設定
-[*]Added CLI applyProperties support to windowed wallpapers.
-[*]Improved app performance with new JSON parser.
-[*]Updated core application binaries to latest Visual Studio 2022 compiler and latest Win SDK.
-[*]Reduced occurrence of rare cursor flickering issue in CEF.
+[*]ウィンドウ化された壁紙用にCLI applyPropertiesサポートを追加
+[*]新しいJSONパーサー使用時のアプリのパフォーマンスを改善
+[*] コアアプリケーションバイナリを最新バージョンのVisual Studio 2022コンパイルとWin SDKにアップデート
+[*]稀にCEFでカーソルがちらついていた問題の発生頻度が減少
 [/list]
-[h4]Wallpaper Editor[/h4]
+[h4]壁紙エディタ[/h4]
 [list]
-[*]Added new depth parallax effect.
-[*]Added FREE editor extensions DLC for depth parallax effect. You only need this if you want to use it in the editor, users of your wallpapers do not need this DLC.
-[*]Added color picker tool to editor painting tools.
-[*]Improved support for rendering Chinese, Japanese, Korean and more characters in scene wallpapers text layers with new fonts.
+[*]新たに視差効果を追加
+[*]視差効果用の無料エディタ拡張機能DLCを追加。 ただし、このDLCはエディタで視差効果を使う方のみ必要であり、壁紙を使うだけという方には不要
+[*]エディタペイントツールにカラーピッカーツールを追加
+[*]新しいフォントを使用したシーン壁紙のテキストレイヤーで、中国語、日本語、韓国語などの文字レンダリングサポートを改善
 [*]Improved "Rope Renderer" for particle systems.
 [*]SceneScript: [i]init()[/i] and [i]update()[/i] function will now automatically convert numbers into vectors (Vec2, Vec3, Vec4) when they are returned. This helps to simplify some scripts.
 [*]SceneScript: Reviewed and improved all sample code snippets slightly.
