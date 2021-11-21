@@ -128,29 +128,29 @@ Windows 11で透過効果のあるテーマを使用している場合、Windows
 [*]視差効果用の無料エディタ拡張機能DLCを追加。 ただし、このDLCはエディタで視差効果を使う方のみ必要であり、壁紙を使うだけという方には不要
 [*]エディタペイントツールにカラーピッカーツールを追加
 [*]新しいフォントを使用したシーン壁紙のテキストレイヤーで、中国語、日本語、韓国語などの文字レンダリングサポートを改善
-[*]Improved "Rope Renderer" for particle systems.
-[*]SceneScript: [i]init()[/i] and [i]update()[/i] function will now automatically convert numbers into vectors (Vec2, Vec3, Vec4) when they are returned. This helps to simplify some scripts.
-[*]SceneScript: Reviewed and improved all sample code snippets slightly.
-[*]SceneScript: Update reference URLs to [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url].
-[*]Made transparency cropping work with DXT compression in the editor.
+[*]パーティクルシステム用「ロープレンダラ―」を改善
+[*]SceneScript：[i]init()[/i]と[i]update()[/i]機能は、呼び出し元に戻った数字を自動的にvector（Vec2、Vec3、Vec4）に変換するように。 これによりいくつかのスクリプトが簡略化可能
+[*]SceneScript：すべてのサンプルコードのスニペットを見直してわずかに改善
+[*]SceneScript：参考URLを[url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url]にアップデート
+[*]透過エリア切り取りがエディタのDXT圧縮でも機能するように
 [/list]
-[h3]Bug Fixes[/h3]
+[h3]バグ修正[/h3]
 [list]
-[*]Fixed "High Performance" option for the texture resolution settings breaking a low number of wallpapers.
-[*]Fixed editor crashing when importing textures with resolutions below the minimum required size.
-[*]Fixed certain filter settings causing wallpapers to show up twice in the "installed" tab.
-[*]Fixed crash related to video textures.
-[*]Fixed JPEG EXIF meta data sometimes not being applied on image layers. If you rotate images with Windows, they should now also appear rotated in the app properly.
-[*]Fixed issue with particle system colors not working properly.
+[*]壁紙を稀に破損させていたテクスチャ解像度設定の「高パフォーマンス」オプションを修正
+[*]必要最小サイズ以下の解像度でテクスチャをインポートした時にエディタがクラッシュしていた問題の修正
+[*]特定のフィルタ設定にしていると「インストール済み」タブで壁紙が2度表示されていたバグの修正
+[*]ビデオテクスチャに関連して生じていたクラッシュの修正
+[*]JPEG EXIFのメタデータが画像レイヤーに適用されないことがあったバグの修正。 Windowsで画像を回転させると、アプリでも正しく回転させて表示されるように
+[*]パーティクルシステムの色が正しく機能していなかった問題の修正
 [/list]
 
-[h2]Frequent Questions About The Android App[/h2]
+[h2]Androidアプリに関するよくある質問[/h2]
 
-[h3]How much does the Android app cost?[/h3]
-The Android app is free of charge, there are no hidden costs, no in-app purchases and no advertisements. It can also be used as a standalone app without owning Wallpaper Engine on your computer and import compatible wallpaper files from your mobile device.
+[h3]Androidアプリはいくらするんでしょうか？[/h3]
+Androidアプリは無料で使用でき、後から利用料が発生することもありません。また、アプリ内購入や広告も一切存在しません。 さらに、Wallpaper EngineをPＣで所有していなくてもスタンドアロンアプリとして使うことができ、モバイルデバイスから互換性のある壁紙のファイルをインポートすることも可能です。
 
-[h3]Can the Workshop be accessed directly from the Mobile App?[/h3]
-No, the Workshop cannot be accessed from mobile devices due to technical and legal restrictions. We built a convenient way to transfer your existing collection of wallpapers from your computer to Android. We tried to make this process as easy and simple as possible, in most cases you just need to make sure your mobile device and your computer are connected to the same network. [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to learn more.[/url]
+[h3]ワークショップはモバイルアプリからでも直接アクセスすることができるのでしょうか？[/h3]
+いいえ、技術的ならびに法的な制約によってワークショップはモバイルデバイスからアクセスすることができません。 We built a convenient way to transfer your existing collection of wallpapers from your computer to Android. We tried to make this process as easy and simple as possible, in most cases you just need to make sure your mobile device and your computer are connected to the same network. [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to learn more.[/url]
 
 Additionally, you can also just directly import any compatible wallpaper files from the files stored on your mobile device. Wallpaper Engine for Android also works well if you are simply looking for a way to turn any video files on your Android phone or tablet into your mobile wallpaper or if you want to use several static wallpapers in a playlist.
 
