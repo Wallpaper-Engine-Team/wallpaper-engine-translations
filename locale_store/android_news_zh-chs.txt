@@ -23,7 +23,7 @@ Wallpaper Engine 2.0 引入了对 Android 的支持，推出了新徽标，还�
         [td][b]Android 上的实时交互式壁纸[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/757da27656323aa0dcd02c29678906c7efd09442.gif[/img][/td]
-        [td][b]Customize your wallpapers to your liking[/b]
+        [td][b]根据自己的喜好自定义壁纸[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/779d938b4f04f2e7e9a07a46ca09517749f105ec.gif[/img][/td]
     [/tr]
@@ -32,7 +32,7 @@ Wallpaper Engine 2.0 引入了对 Android 的支持，推出了新徽标，还�
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Visualize your music with audio responsive wallpapers. Credit: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
+        [td][b]利用音频响应壁纸可视化您的音乐。 Credit: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/d590754450672c1b121668604832ef5b61568972.gif[/img]
 [/td]
