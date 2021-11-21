@@ -32,11 +32,11 @@ Jsme rádi, že můžeme konečně vydat [i][b]bezplatnou[/b] doplňkovou aplika
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Visualize your music with audio responsive wallpapers. Credit: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
+        [td][b]Dodejte své hudbě vizuální vyjádření díky tapetám reagujícím na zvuk. Autoři: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/d590754450672c1b121668604832ef5b61568972.gif[/img]
 [/td]
-        [td][b]Let wallpapers react to the motion of your device [i](devices with gyroscope)[/i][/b]
+        [td][b]Nechte tapety reagovat na pohyb vašeho zařízení [i](zařízení s gyroskopem)[/i][/b].
 
 [img]{STEAM_CLAN_IMAGE}/26312799/75962cf9e8e5635216d7ded68e3527a731e1e565.gif[/img][/td]
     [/tr]
