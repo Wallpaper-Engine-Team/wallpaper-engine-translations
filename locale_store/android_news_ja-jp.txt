@@ -96,7 +96,7 @@ Android版Wallpaper Engineのリリースにともなって、そろそろロゴ
 かねてから要望の声が多かったのは、曜日ごとに1つの壁紙を設定する機能でした。 今回のアップデートでは、新しく曜日別プレイリストを導入します。 Wallpaper Engineの「[b]インストール済み[/b]」タブにあるプレイリストに壁紙を7枚まで追加します。その後、プレイリストの「[b]設定[/b]」をクリックし、そこから「[b]曜日別[/b]」オプションを選択してください。 設定では、「[b]時刻別[/b]」プレイリストなど既存のプレイリストも確認できます。
 
 [h2]Windows 11[/h2]
-今回のアップデートでWallpaper EngineはWindows 11にも完全対応になります。また、新たに角が丸いデザインのユーザーインターフェースにも対応予定です。 Windows 11にアップグレードしてWallpaper Engineに何か問題が生じた場合は、必ず最新のグラフィックスカードドライバを再インストールしてください。 私たちに問い合わせをしてきたWindows 11ユーザーのほとんどが古いグラフィックスカードドライバーを使用していました。
+今回のアップデートでWallpaper EngineはWindows 11にも完全対応になります。また、新たに追加された丸角デザインのユーザーインターフェースにも対応予定です。 Windows 11にアップグレードしてWallpaper Engineに何か問題が生じた場合は、必ず最新のグラフィックスカードドライバを再インストールしてください。 私たちに問い合わせをしてきたWindows 11ユーザーのほとんどが古いグラフィックスカードドライバーを使用していました。
 
 Windows 11で透過効果のあるテーマを使用している場合、Windows 11によってWallpaper Engineが無視されてしまいます。 この問題を解決するには、Wallpaper Engineの設定から新しいオプションの「[b]壁紙の上書き[/b]」を有効にするだけで大丈夫です。 そうすることで、Windowsの壁紙とWallpaper Engineの壁紙の同期を保つことができ、Windows 11の透過効果に関する問題を修正することも可能です。
 
@@ -105,18 +105,18 @@ Windows 11で透過効果のあるテーマを使用している場合、Windows
 [h3]追加・変更[/h3]
 [h4]メインアプリ[/h4]
 [list]
-[*]Androidに対応し、Android向けに「Wallpaper Engineコンパニオン」という新アプリをリリース。
-[*]モバイルコレクションを「発見」タグに追加。
-[*]Wallpaper Engineのロゴ、カラーテーマ、アプリアイコンなどを一新。
-[*]Added rounded corner support for Windows 11.
-[*]Added "day of week" playlist mode, limited to 7 wallpapers.
-[*]Re-arranged search filters, added new "mobile compatible" filter option.
-[*]Added "favorite" button when right-clicking on a wallpaper.
-[*]"Stop mode" now turns off automatically while wallpaper is being changed manually.
-[*]Improved user interface for configuring physics bones.
-[*]Increased automatic audio unmute delay from 3 to 5 seconds.
-[*]Added scheme color to "apply to all wallpapers" dialog.
-[*]Removed 12h / 24h clock option from playlist, now detected automatically depending on system settings.
+[*]Androidに対応し、Android向けに「Wallpaper Engineコンパニオン」という新アプリをリリース
+[*]モバイルコレクションを「発見」タグに追加
+[*]Wallpaper Engineのロゴ、カラーテーマ、アプリアイコンなどを一新
+[*]Windows 11の丸角デザインに対応
+[*]「曜日毎」プレイリストモードを追加。壁紙を7枚まで選択可能
+[*]検索フィルターを再調整し、新しく「モバイル対応」フィルターオプションを追加
+[*]壁紙を右クリックで表示される「お気に入り」ボタンを追加
+[*]壁紙が手動で変更されると「停止モード」が自動で無効になるように
+[*]物理ボーンの設定用ユーザーインターフェースを改善
+[*]オーディオミュート自動解除の遅延が3秒から5秒に増加
+[*]ツールバーの色設定に「すべての壁紙に適用」ダイアログを追加
+[*]プレイリストから時計の12時間表示と24時間表示のオプションを削除。今後はシステム設定を検出し、それに応じて自動で設定
 [*]Added CLI applyProperties support to windowed wallpapers.
 [*]Improved app performance with new JSON parser.
 [*]Updated core application binaries to latest Visual Studio 2022 compiler and latest Win SDK.
