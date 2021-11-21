@@ -8,13 +8,13 @@ Ahoj všichni, dnes vydáváme [b]Wallpaper Engine 2.0[/b]! Tato aktualizace př
 
 [h2]Doplňková aplikace Wallpaper Engine pro Android[/h2]
 
-We are happy to finally release the [i][b]free[/b] Wallpaper Engine Android companion app[/i]. Some key features of the app are as follows:
+Jsme rádi, že můžeme konečně vydat [i][b]bezplatnou[/b] doplňkovou aplikaci Wallpaper Engine pro Android[/i]. Pojďme si představit několik klíčových vlastností aplikace:
 
-[list][*]No hidden costs, no advertisements, no user tracking or data collection.
-[*]Transfer [b]Scene[/b] and [b]Video[/b] type wallpapers from Wallpaper Engine on your computer to Android wirelessly.
-[*]Import any compatible files from your device as a wallpaper: [i]Videos, GIFs, images & Wallpaper Engine wallpapers[/i]
-[*]Create a playlist of your wallpapers and use different playlist modes
-[*]Automatically pauses when power saving mode is enabled, offers FPS and quality settings.
+[list][*]Žádné skryté poplatky, žádné reklamy, žádné sledování uživatelů ani shromažďování údajů.
+[*]Bezdrátový přenos tapet typu [b]Scéna[/b] a [b]Video[/b] z programu Wallpaper Engine na počítači do aplikace v systému Android.
+[*]Jakékoli kompatibilní soubory můžete importovat ze svého zařízení jako tapetu: [i]Videa, GIFy, obrázky a tapety z aplikace Wallpaper Engine.[/i]
+[*]Vytvořte si seznam svých tapet a používejte různé režimy playlistů.
+[*]Při aktivaci úsporného režimu se aplikace automaticky pozastaví. K dispozici jsou nastavení upřednostňující rychlost nebo kvalitu.
 [*]Full support for dynamic audio visualizers, clocks & other dynamic wallpaper elements
 [*]Let wallpapers move along with the motion of your device [i](devices with gyroscope)[/i]
 [*]Support for automatic theme colors based on the current wallpaper, including Android 12's [b]Material You[/b][/list]
