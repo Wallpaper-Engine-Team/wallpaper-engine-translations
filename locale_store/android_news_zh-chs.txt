@@ -11,16 +11,16 @@ Wallpaper Engine 2.0 引入了对 Android 的支持，推出了新徽标，还�
 我们很高兴终于发布了[i][b]免费[/b] Wallpaper Engine Android 伴侣应用程序[/i]。 该应用程序的一些主要功能如下：
 
 [list][*]无隐藏成本、无广告、无用户跟踪或数据收集。
-[*]Transfer [b]Scene[/b] and [b]Video[/b] type wallpapers from Wallpaper Engine on your computer to Android wirelessly.
-[*]Import any compatible files from your device as a wallpaper: [i]Videos, GIFs, images & Wallpaper Engine wallpapers[/i]
-[*]Create a playlist of your wallpapers and use different playlist modes
-[*]Automatically pauses when power saving mode is enabled, offers FPS and quality settings.
-[*]Full support for dynamic audio visualizers, clocks & other dynamic wallpaper elements
-[*]Let wallpapers move along with the motion of your device [i](devices with gyroscope)[/i]
-[*]Support for automatic theme colors based on the current wallpaper, including Android 12's [b]Material You[/b][/list]
+[*]将[b]场景[/b]和[b]视频[/b]类型的壁纸从您计算机上的 Wallpaper Engine 无线传输到 Android。
+[*]从您的设备导入任何兼容文件作为壁纸：[i]视频、GIF、图像和 Wallpaper Engine 壁纸[/i]
+[*]创建壁纸播放列表并使用不同的播放列表模式
+[*]在省电模式启用时自动暂停，提供 FPS 和质量设置。
+[*]完全支持动态音频可视化、时钟和其他动态壁纸元素
+[*]让壁纸随着设备的运动而移动[i]（带陀螺仪的设备）[/i]
+[*]支持基于当前壁纸的自动主题颜色，包括 Android 12 的 [b]Material You[/b][/list]
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Real-time interactive wallpapers on Android[/b]
+        [td][b]Android 上的实时交互式壁纸[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/757da27656323aa0dcd02c29678906c7efd09442.gif[/img][/td]
         [td][b]Customize your wallpapers to your liking[/b]
