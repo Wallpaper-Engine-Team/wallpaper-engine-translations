@@ -175,6 +175,6 @@ Androidアプリは無料で使用でき、後から利用料が発生するこ�
 [/table]
 
 [h2]Android版に関するフィードバック、質問、技術サポート[/h2]
-If you have any questions, suggestions or general feedback about the new Android app or if you run into any technical issues, be sure to post a message on the Android section of our Steam board:
+Android版の新アプリに関する質問、提案、全般的なフィードバックなどがある方や、技術的問題に直面した方は、SteamボードのAndroidセクションに必ずメッセージを投稿してください。
 
 [list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android App Discussions[/url][/list]
