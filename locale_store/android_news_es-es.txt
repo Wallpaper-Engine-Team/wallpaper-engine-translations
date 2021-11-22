@@ -54,13 +54,13 @@ Por fin ha llegado el lanzamiento de la [i]aplicación de Wallpaper Engine para 
     [/tr]
 [/table]
 [h3]Descargar Wallpaper Engine para Android[/h3]
-We recommend installing the app through an official app store, however, we also offer a direct APK download for more advanced users. View our website for all installation options here:
+Recomendamos instalar la aplicación a través de una tienda de aplicaciones oficial, pero también ofrecemos una descarga directa de la APK para los usuarios avanzados. Aquí puedes consultar nuestra página para ver las opciones de instalación:
 
-[list][*][h3][i][b][url=wallpaperengine.io/android]Download the Wallpaper Engine Android Companion App[/url][/b][/i][/h3][/list]
-[h3]Adding new Wallpapers to Android[/h3]
-Directly connecting to the Workshop from a mobile device is not possible from a technical and legal point of view. However, we built a convenient system that allows owners of Wallpaper Engine on Windows to transfer their wallpapers to Android devices with ease:
+[list][*][h3][i][b][url=wallpaperengine.io/android]Descarga la aplicación de Wallpaper Engine para Android[/url][/b][/i][/h3][/list]
+[h3]Añadir más fondos a Android[/h3]
+No se puede conectar a Workshop desde un dispositivo móvil desde un punto de vista técnico y legal. Sin embargo, hemos creado un sistema muy práctico que permite transferir los fondos a los dispositivos Android de una forma sencilla a todos los usuarios de Wallpaper Engine en Windows:
 
-[b]Step 1:[/b] Click on the new [b]Mobile[/b] button in Wallpaper Engine on Windows, then select [b]Connect new device[/b]. Wallpaper Engine will show you a 4 digit PIN that you can use to connect to your mobile device now.
+[b]Paso 1.[/b] Haz clic en el botón [b]Dispositivo[/b] en Wallpaper Engine en Windows y luego selecciona [b]Conectar otro dispositivo[/b]. Wallpaper Engine will show you a 4 digit PIN that you can use to connect to your mobile device now.
 
 [b]Step 2:[/b] Open Wallpaper Engine on your Android device and click on the [b]Add[/b] button in the lower right corner. Select [b]Pair with Computer[/b], your computer should now be visible in the device list. Select it and enter the 4 digit PIN from step 1.
 
