@@ -64,39 +64,39 @@ Bezpośrednie połączenie Warsztatu i urządzenia mobilnego nie jest możliwe z
 
 [b]Krok 2:[/b] otwórz aplikację Wallpaper Engine na urządzeniu z systemem Android i kliknij przycisk [b]Dodaj[/b] w prawym dolnym rogu. Wybierz opcję [b]Sparuj z komputerem[/b], Twój komputer powinien być teraz widoczny na liście urządzeń. Wybierz swój komputer i wprowadź czterocyfrowy kod z kroku pierwszego.
 
-[b]Krok 3:[/b] twoje urządzenie powinno być teraz podłączone. Kliknij prawym przyciskiem myszy kompatybilną tapetę i kliknij przycisk [b]Wyślij na urządzenie mobilne[/b], następnie wybierz właściwe urządzenie mobilne z listy. Twoja tapeta zostanie przesłana na urządzenie.
+[b]Krok 3:[/b] Twoje urządzenie powinno być teraz podłączone. Kliknij prawym przyciskiem myszy kompatybilną tapetę i kliknij przycisk [b]Wyślij na urządzenie mobilne[/b], następnie wybierz właściwe urządzenie mobilne z listy. Twoja tapeta zostanie przesłana na urządzenie.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/0fc8bc609bd7d959fa87fe7f90e3f1612ba67cd1.gif[/img]
 
 [b]Jeśli nie możesz połączyć się z urządzeniem z systemem Android:[/b] kliknij prawym przyciskiem myszy dowolną tapetę i wybierz [b]Wyślij na urządzenie mobilne[/b], następnie wybierz opcję [b]Wyeksportuj .mpkg[/b]. Następnie prześlij wyeksportowaną paczkę plików na urządzenie mobilne, używając kabla lub prześlij ją w inny sposób.
 
 [list][*][url=https://help.wallpaperengine.io/mobile/pairing.html]Kliknij tutaj, aby przeczytać nasz poradnik parowania urządzeń z systemem Android.[/url][/list]
-[i]Wskazówka: możesz przesyłać foldery lub wiele tapet na raz, wybierając ich kilka na raz przez przytrzymanie klawisza CTRL. Prześlij wszystkie zainstalowane tapety na raz, wybierając je wszystkie, używając kombinacji klawiszy [b]CTRL + A[/b] w zakładce [b]Zainstalowane[/b].[/i]
+[i]Wskazówka: możesz przesyłać foldery lub wiele tapet na raz, wybierając ich kilka jednocześnie przez przytrzymanie klawisza CTRL. Prześlij wszystkie zainstalowane tapety na raz, wybierając je wszystkie, używając kombinacji klawiszy [b]CTRL + A[/b] w zakładce [b]Zainstalowane[/b].[/i]
 
 [h2]Nowe logo Wallpaper Engine[/h2]
 Przy okazji premiery wersji Wallpaper Engine na urządzenia z systemem Android, poczuliśmy, że to najwyższy czas odświeżyć nasze logo. Stare logo składało się głównie z ekranu komputera, co nie ma za bardzo sensu w przypadku urządzeń mobilnych. Wielka premiera wersji 2.0 wydała nam się idealnym momentem, aby wypróbować coś nowego i jesteśmy bardzo zadowoleni z otrzymanego efektu.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/1f283ac68453f6bf3beb36c1fd49ebbe680685a0.png[/img]
 
-Eksperymentowaliśmy z wieloma różnymi projektami i zdecydowaliśmy się na logo, które ma w sobie ducha starego projektu, ale w bardziej nowoczesnym wydaniu. Wraz z premierą Wallpaper Engine 2.0 nowe logo będzie widniało w aplikacji, wersji na systemy Windows oraz na naszych stronach internetowych:
+Eksperymentowaliśmy z wieloma różnymi pomysłami i zdecydowaliśmy się na logo, które ma w sobie ducha starego projektu, ale w bardziej nowoczesnym wydaniu. Od premiery Wallpaper Engine 2.0 nowe logo będzie widniało w aplikacji, wersji na systemy Windows oraz na naszych stronach internetowych:
 
 [img]{STEAM_CLAN_IMAGE}/26312799/ecb522ad46fedd9502a715ae38937246172dfcbe.png[/img]
 
 [h2]Nowy efekt paralaksy głębokości[/h2]
-Dużą nowością w edytorze Wallpaper Engine jest nasz nowy efekt głębokości paralaksy. Efekt ten umożliwi Ci stworzenie wrażenia głębi 3D w Twoich obrazach. Na komputerach efekt reaguje na ruch myszki, a na urządzeniach z systemem Android ruch myszki będzie symulowany ruchem telefonu.
+Dużą nowością w edytorze Wallpaper Engine jest nasz nowy efekt paralaksy głębokości. Efekt ten umożliwi Ci stworzenie wrażenia głębi 3D w Twoich obrazach. Na komputerach efekt reaguje na ruch myszki, a na urządzeniach z systemem Android ruch myszki będzie symulowany ruchem telefonu.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
-Aby w pełni wykorzystać ten efekt w edytorze tapet, zalecamy instalację naszego nowego [b][i]darmowego[/i][/b] dodatku [i]Rozszerzenia edytora[/i]. Postanowiliśmy oddzielić tę konkretną funkcję edytora w formie opcjonalnego dodatku, ponieważ wymaga ona pobrania kilku gigabajtów danych. Gdy po raz pierwszy wybierzesz tę funkcję w edytorze, Wallpaper Engine poprosi Cię o instalację tego dodatku. Po więcej informacji zajrzyj do naszego obszernego poradnika o tym, jak zainstalować i używać efektu głębokości paralaksy w edytorze:
+Aby w pełni wykorzystać ten efekt w edytorze tapet, zalecamy instalację naszego nowego [b][i]darmowego[/i][/b] dodatku [i]Rozszerzenia edytora[/i]. Postanowiliśmy oddzielić tę konkretną funkcję edytora w formie opcjonalnego dodatku, ponieważ wymaga ona pobrania kilku gigabajtów danych. Gdy po raz pierwszy wybierzesz tę funkcję w edytorze, Wallpaper Engine poprosi Cię o instalację tego dodatku. Po więcej informacji zajrzyj do naszego obszernego poradnika o tym, jak zainstalować i używać efektu paralaksy głębokości w edytorze:
 
-[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Głebokość paralaksy[/url] (poradnik jest aktualnie dostępny jedynie w wersji angielskiej, ale tłumaczenie maszynowe działa dobrze)[/list]
-[b]Ważne[/b] nie musisz instalować darmowego dodatku, jeśli nie chcesz tworzyć własnych tapet z jego pomocą w edytorze – efekt będzie widoczny na tapetach na komputerach i urządzeniach mobilnych, nawet jeśli nie zainstalujesz darmowego dodatku.
+[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Paralaksa głębokości[/url] (poradnik jest aktualnie dostępny jedynie w wersji angielskiej, ale tłumaczenie maszynowe działa dobrze)[/list]
+[b]Ważne:[/b] nie musisz instalować darmowego dodatku, jeśli nie chcesz tworzyć własnych tapet z jego pomocą w edytorze – efekt będzie widoczny na tapetach na komputerach i urządzeniach mobilnych, nawet jeśli nie zainstalujesz darmowego dodatku.
 
 [h2]Playlisty na dzień tygodnia[/h2]
 Często dostawaliśmy prośby o możliwość konfiguracji jednej tapety na każdy dzień tygodnia. Wraz z tą aktualizacją wprowadzamy taką możliwość. Po prostu dodaj maksymalnie siedem tapet do playlisty w zakładce [b]Zainstalowane[/b] w programie Wallpaper Engine, a następnie kliknij [b]Skonfiguruj[/b] w sekcji z playlistami i wybierz tam opcję [b]Dzień tygodnia[/b]. Znajdziesz tam również wcześniejsze opcje playlisty, jak np. playlista [b]Pora dnia[/b].
 
 [h2]Windows 11[/h2]
-Wallpaper Engine w pełni obsługuje system Windows 11, z tą aktualizacją dodajemy również obsługę nowych zaokrąglonych rogów interfejsu. Jeśli zaktualizujesz swój system do systemu Windows 11 i doświadczysz jakichkolwiek problemów z działaniem Wallpaper Engine, zainstaluj ponownie najnowsze wersje wszystkich sterowników karty graficznej. Większość użytkowników systemu Windows 11, którzy się z nami kontaktowali, używali starych sterowników do kart graficznych.
+Wallpaper Engine w pełni obsługuje system Windows 11, z tą aktualizacją dodajemy również obsługę nowych zaokrąglonych rogów interfejsu. Jeśli zaktualizujesz swój system do systemu Windows 11 i doświadczysz jakichkolwiek problemów z działaniem Wallpaper Engine, zainstaluj ponownie najnowsze wersje wszystkich sterowników karty graficznej. Większość użytkowników systemu Windows 11, którzy się z nami kontaktowali, używało starych sterowników do kart graficznych.
 
 Jeśli używasz motywu Windows 11 z przezroczystością, program Wallpaper Engine będzie przez niego ignorowany. Aby rozwiązać ten problem, wystarczy że włączysz nową opcję [b]Nadpisz tapetę[/b] w ustawieniach programu Wallpaper Engine. Dzięki temu Twoja tapeta systemu Windows będzie zsynchronizowana z tapetą Wallpaper Engine, a problem z przezroczystością na systemie Windows 11 zostanie rozwiązany.
 
@@ -105,11 +105,11 @@ Jeśli używasz motywu Windows 11 z przezroczystością, program Wallpaper Engin
 [h3]Nowości/zmiany[/h3]
 [h4]Główna aplikacja[/h4]
 [list]
-[*]Dodaliśmy obsługę systemów Android i wypuściliśmy nową aplikację na systemy Android Wallpaper Engine: aplikacja towarzysząca.
-[*]Dodaliśmy kolekcje na urządzenia mobilne w zakładce „Odkryj”.
+[*]Dodaliśmy obsługę systemów Android i wypuściliśmy nową aplikację na te systemy – Wallpaper Engine: aplikacja towarzysząca na systemy Android.
+[*]Dodaliśmy kolekcję na urządzenia mobilne w zakładce „Odkryj”.
 [*]Odświeżyliśmy logo Wallpaper Engine, motyw kolorystyczny oraz ikony aplikacji.
 [*]Dodaliśmy obsługę zaokrąglonych rogów na system Windows 11.
-[*]Dodaliśmy tyb playlisty „Dzień tygodnia”, ograniczoną do siedmiu tapet.
+[*]Dodaliśmy tyb playlisty „Dzień tygodnia”, ograniczony do siedmiu tapet.
 [*]Zmieniliśmy kolejność filtrów wyszukiwania i dodaliśmy nową opcję filtrowania „Na urządzenia mobilne”.
 [*]Dodaliśmy przycisk „Ulubione” dostępny po kliknięciu prawym przyciskiem myszy tapety.
 [*]„Tryb stop” wyłącza się teraz automatycznie, gdy tapeta jest zmieniana ręcznie.
@@ -125,11 +125,11 @@ Jeśli używasz motywu Windows 11 z przezroczystością, program Wallpaper Engin
 [h4]Edytor tapet[/h4]
 [list]
 [*]Dodaliśmy nowy efekt paralaksy głębokości.
-[*]Dodaliśmy DARMOWY dodatek rozszerzeń edytora z efektem głębokości paralaksy. Potrzebujesz tego dodatku, tylko jeśli chcesz używać efektu w edytorze. Użytkownicy Twoich tapet nie muszą go instalować.
+[*]Dodaliśmy DARMOWY dodatek rozszerzeń edytora z efektem paralaksy głębokości. Potrzebujesz tego dodatku, tylko jeśli chcesz używać efektu w edytorze. Użytkownicy Twoich tapet nie muszą go instalować.
 [*]Dodaliśmy narzędzie selektora kolorów do narzędzi malowania edytora.
-[*]Poprawiliśmy obsługę renderowania chińskich, japońskich, koreańskich i innych znaków z pomocą nowych czcionek w warstwach tekstowych tapet z rodzaju scenerii.
+[*]Poprawiliśmy obsługę renderowania chińskich, japońskich, koreańskich i innych znaków z pomocą nowych czcionek w warstwach tekstowych tapet z rodzaju scena.
 [*]Poprawiliśmy „Renderera liny” w systemach cząstek.
-[*]SceneScript: funkcje [i]init()[/i] oraz [i]update()[/i] będą teraz automatycznie konwertowały liczby na wektory (Vec2, Vec3, Vec4) po ich powrocie. Pomoże tu uprościć część skryptów.
+[*]SceneScript: funkcje [i]init()[/i] oraz [i]update()[/i] będą teraz automatycznie konwertowały liczby na wektory (Vec2, Vec3, Vec4) przy zwrocie. Pomoże tu uprościć część skryptów.
 [*]SceneScript: przejrzeliśmy i poprawiliśmy nieco wszystkie próbki skrawków kodu.
 [*]SceneScript: zaktualizowaliśmy wszystkie hiperłącza do [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]nowej dokumentacji SceneScript[/url].
 [*]Przycinanie przezroczystych obszarów działa teraz z kompresją DXT w edytorze.
@@ -140,7 +140,7 @@ Jeśli używasz motywu Windows 11 z przezroczystością, program Wallpaper Engin
 [*]Naprawiliśmy błąd awarii edytora przy importowaniu tekstur z rozdzielczością poniżej minimalnego wymaganego rozmiaru.
 [*]Naprawiliśmy ustawienia filtrów, które sprawiały, że tapety pojawiały się dwukrotnie w zakładce „Zainstalowane”.
 [*]Naprawiliśmy awarie związane z teksturami wideo.
-[*]Naprawiliśmy błąd, przez który metadane JPEG EXIF czasami nie były stosowane na warstwy obrazu. Jeśli obracasz obrazy w systemie Windows, powinny one teraz wyświetlać się prawidłowo obrócone również w aplikacji.
+[*]Naprawiliśmy błąd, przez który metadane JPEG EXIF czasami nie były stosowane na warstwach obrazu. Jeśli obracasz obrazy w systemie Windows, powinny one teraz wyświetlać się prawidłowo obrócone również w aplikacji.
 [*]Naprawiliśmy błąd nieprawidłowego działania kolorów systemu cząstek.
 [/list]
 
@@ -152,10 +152,10 @@ Aplikacja na systemy Android jest darmowa, nie ma w niej żadnych ukrytych koszt
 [h3]Czy Warsztat jest bezpośrednio dostępny w aplikacji mobilnej?[/h3]
 Nie, nie można korzystać z Warsztatu bezpośrednio z urządzenia mobilnego z uwagi na ograniczenia techniczne i prawne. Zbudowaliśmy wygodny sposób przesyłania Twoich obecnych kolekcji tapet z komputera na urządzenia z systemem Android. Staraliśmy się, by proces ten był jak najprostszy, w większości przypadków wystarczy sprawdzić, czy Twoje urządzenie mobilne i komputer są podłączone do tej samej sieci. [url=https://help.wallpaperengine.io/mobile/pairing.html]Kliknij tutaj, aby dowiedzieć się więcej.[/url]
 
-Dodatkowo możesz bezpośrednio przesyłać wszystkie kompatybilne pliki z tapetami, które przechowujesz na urządzeniu mobilnym. Wallpaper Engine na systemy Android działa dobrze, jeśli chcesz po prostu wykorzystać pliki wideo na Twoim telefonie lub tablecie z systemem Android jako tapetę na tym urządzeniu albo gdy chcesz stworzyć playlistę z kilku statycznych tapet.
+Dodatkowo możesz bezpośrednio przesyłać wszystkie kompatybilne pliki z tapetami, które przechowujesz na urządzeniu mobilnym. Wallpaper Engine na systemy Android dobrze sprawdzi się również, jeśli chcesz po prostu wykorzystać pliki wideo na Twoim telefonie lub tablecie z systemem Android jako tapetę na tym urządzeniu albo gdy chcesz stworzyć playlistę z kilku statycznych tapet.
 
 [h3]Czy Wallpaper Engine bardzo obciąża baterię mojego urządzenia?[/h3]
-Nie, szczegółowo zoptymalizowaliśmy aplikację i na większości nowoczesnych urządzeń nie wpłynie ona negatywnie na żywotności baterii w codziennym użytku.
+Nie, dokładnie zoptymalizowaliśmy aplikację i na większości nowoczesnych urządzeń nie wpłynie ona negatywnie na żywotności baterii w codziennym użytku.
 
 Używaliśmy aplikacji przez wiele miesięcy na naszych prywatnych urządzeniach i w przeciętne dni nie zauważyliśmy znacznego zużycia baterii przez Wallpaper Engine. Aplikacja automatycznie wstrzymuje swoje działanie, gdy włączysz inną aplikację na swoim urządzeniu w trybie pełnego ekranu oraz gdy urządzenie zostanie wyłączone. Tryb oszczędzania baterii automatycznie wstrzyma działanie animowanej tapety, aby jeszcze bardziej obniżyć wpływ aplikacji na żywotność baterii. Ponadto możesz również poprawić wpływ na wydajność w ustawieniach aplikacji, dostosowując limit kl./s.
 
