@@ -4,7 +4,7 @@ Wallpaper Engine 2.0에서는 Android 지원, 신규 로고, 새로운 3D 깊이
 
 무료 Android 앱
 
-안녕하세요, 여러분. 오늘 [b]Wallpaper Engine 2.0[/b]이 출시됩니다! The update brings support for Android, a new logo, a new 3D depth effect and a handful of other additions and improvements to Wallpaper Engine.
+안녕하세요, 여러분. 오늘 [b]Wallpaper Engine 2.0[/b]이 출시됩니다! 이번 업데이트에서는 Wallpaper Engine에 Android 지원, 신규 로고, 새로운 3D 깊이 효과 등 다양한 추가 및 개선 사항이 추가되었습니다.
 
 [h2]Wallpaper Engine Android Companion App[/h2]
 
