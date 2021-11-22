@@ -78,12 +78,12 @@ Wallpaper Engine 2.0 引入了对 Android 的支持，推出了新徽标，还�
 
 [img]{STEAM_CLAN_IMAGE}/26312799/1f283ac68453f6bf3beb36c1fd49ebbe680685a0.png[/img]
 
-We have experimented a lot with different designs and settled on a new logo which keeps the spirit of the old design, but with a more modern spin. With Wallpaper Engine 2.0, you will find the new logo throughout the application, in Windows and on our websites:
+我们尝试了许多不同的设计，并最终确定了一个新徽标，该徽标保留了旧设计的精髓，但风格更加现代。 使用 Wallpaper Engine 2.0，您会在整个应用程序中、Windows 中和我们的网站上找到新徽标：
 
 [img]{STEAM_CLAN_IMAGE}/26312799/ecb522ad46fedd9502a715ae38937246172dfcbe.png[/img]
 
-[h2]New Depth Parallax Effect[/h2]
-A major new addition to the Wallpaper Engine editor is our new Depth Parallax effect. This effect will allow you to create a perceived 3D depth to your images. On computers, the effect is influenced by the mouse while on Android, the movement of the phone will simulate the mouse movement.
+[h2]全新深度视差效果[/h2]
+Wallpaper Engine 的一个主要新增功能是全新的深度视差效果。 This effect will allow you to create a perceived 3D depth to your images. On computers, the effect is influenced by the mouse while on Android, the movement of the phone will simulate the mouse movement.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
