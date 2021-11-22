@@ -6,11 +6,11 @@ Aplicación para Android GRATIS
 
 Hola a todos, ¡ha llegado el lanzamiento de [b]Wallpaper Engine 2.0[/b]! La actualización cuenta con compatibilidad con Android, un logo y un efecto de profundidad 3D nuevos y muchas más novedades y mejoras de Wallpaper Engine.
 
-[h2]Wallpaper Engine Android Companion App[/h2]
+[h2]Aplicación de Wallpaper Engine para Android[/h2]
 
-We are happy to finally release the [i][b]free[/b] Wallpaper Engine Android companion app[/i]. Some key features of the app are as follows:
+Por fin ha llegado el lanzamiento de la [i]aplicación de Wallpaper Engine para Android [b]gratis[/b][/i]. Estas son algunas de sus características:
 
-[list][*]No hidden costs, no advertisements, no user tracking or data collection.
+[list][*]No hay cargos ocultos, anuncios, seguimiento de usuarios ni recopilación de datos.
 [*]Transfer [b]Scene[/b] and [b]Video[/b] type wallpapers from Wallpaper Engine on your computer to Android wirelessly.
 [*]Import any compatible files from your device as a wallpaper: [i]Videos, GIFs, images & Wallpaper Engine wallpapers[/i]
 [*]Create a playlist of your wallpapers and use different playlist modes
