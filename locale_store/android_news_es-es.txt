@@ -32,11 +32,11 @@ Por fin ha llegado el lanzamiento de la [i]aplicación de Wallpaper Engine para 
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Visualize your music with audio responsive wallpapers. Credit: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
+        [td][b]Visualiza la música con los fondos de detección de audio. Créditos: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/d590754450672c1b121668604832ef5b61568972.gif[/img]
 [/td]
-        [td][b]Let wallpapers react to the motion of your device [i](devices with gyroscope)[/i][/b]
+        [td][b]Permite que los fondos reaccionen al movimiento del dispositivo [i](dispositivos con giroscopio).[/i][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/75962cf9e8e5635216d7ded68e3527a731e1e565.gif[/img][/td]
     [/tr]
@@ -44,16 +44,16 @@ Por fin ha llegado el lanzamiento de la [i]aplicación de Wallpaper Engine para 
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Customize the app by configuring playlists, performance settings and more[/b]
+        [td][b]Configura las listas de reproducción, los ajustes de rendimiento y muchas otras cosas para personalizar la aplicación.[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/a609a043455539f48a87e7d692a4eea9722ff9d1.gif[/img]
 [/td]
-        [td][b]Wirelessly transfer your Workshop wallpapers from your computer[/b]
+        [td][b]Transfiere los fondos de Workshop de tu ordenador de forma inalámbrica.[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/f8f24e382022472d8972af5f3dbd73f2556cdfdc.gif[/img][/td]
     [/tr]
 [/table]
-[h3]Download Wallpaper Engine for Android[/h3]
+[h3]Descargar Wallpaper Engine para Android[/h3]
 We recommend installing the app through an official app store, however, we also offer a direct APK download for more advanced users. View our website for all installation options here:
 
 [list][*][h3][i][b][url=wallpaperengine.io/android]Download the Wallpaper Engine Android Companion App[/url][/b][/i][/h3][/list]
