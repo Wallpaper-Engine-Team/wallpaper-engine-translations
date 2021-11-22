@@ -60,7 +60,7 @@ Wallpaper Engine 2.0 引入了对 Android 的支持，推出了新徽标，还�
 [h3]将新壁纸添加到 Android[/h3]
 从技术和法律的角度来看，从移动设备直接连接到创意工坊是不可能的。 但是，我们构建了一个方便的系统，可让 Wallpaper Engine 的所有者从 Windows 上轻松地将壁纸传输到 Android 设备：
 
-[b]Step 1:[/b] Click on the new [b]Mobile[/b] button in Wallpaper Engine on Windows, then select [b]Connect new device[/b]. Wallpaper Engine will show you a 4 digit PIN that you can use to connect to your mobile device now.
+[b]第 1 步：[/b]在 Windows 上的 Wallpaper Engine 中单击新的[b]移动设备[/b]按钮，然后选择[b]连接新设备[/b]。 Wallpaper Engine 将显示 4 位数 PIN，您可以立即使用该 PIN 连接到您的移动设备。
 
 [b]Step 2:[/b] Open Wallpaper Engine on your Android device and click on the [b]Add[/b] button in the lower right corner. Select [b]Pair with Computer[/b], your computer should now be visible in the device list. Select it and enter the 4 digit PIN from step 1.
 
