@@ -83,13 +83,13 @@ Wallpaper Engine 2.0 引入了对 Android 的支持，推出了新徽标，还�
 [img]{STEAM_CLAN_IMAGE}/26312799/ecb522ad46fedd9502a715ae38937246172dfcbe.png[/img]
 
 [h2]全新深度视差效果[/h2]
-Wallpaper Engine 的一个主要新增功能是全新的深度视差效果。 This effect will allow you to create a perceived 3D depth to your images. On computers, the effect is influenced by the mouse while on Android, the movement of the phone will simulate the mouse movement.
+Wallpaper Engine 的一个主要新增功能是全新的深度视差效果。 此效果可让您为图像创建可感知到的 3D 深度。 在计算机上，该效果受鼠标影响，而在 Android 上，手机的移动会模拟鼠标的移动。
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
-To make full-use of the effect in the wallpaper editor, we recommend installing our new [b][i]free[/i][/b] [i]Editor Extensions DLC[/i]. We decided to separate this particular editor feature into an optional DLC because the features requires a download which is several gigabytes in size. When first using the effect in the editor, Wallpaper Engine will ask you to install the DLC for you. For more infos, see our full guide on how to install and use the depth parallax effect in the editor:
+为了充分利用壁纸编辑器中的效果，我们建议安装我们全新的[b][i]免费[/i][/b][i]编辑器扩展 DLC[/i]。 我们决定将这个特殊的编辑器功能分离到可选的 DLC 中，因为这些功能需要下载几 GB 大小的文件。 首次在编辑器中使用该效果时，Wallpaper Engine 会要求您安装此 DLC。 有关更多信息，请参阅有关如何在编辑器中安装和使用深度视差效果的完整指南：
 
-[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Depth Parallax[/url] (Only available in English right now - machine translation works well)[/list]
+[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]深度视差[/url]（目前仅提供英语版——机器翻译效果很好）[/list]
 [b]It's important to note:[/b] You do not need to install the free DLC unless you want to use the effect in the editor yourself - the effect will still work on computers and mobile devices even if the free DLC is not installed.
 
 [h2]Weekday Playlists[/h2]
