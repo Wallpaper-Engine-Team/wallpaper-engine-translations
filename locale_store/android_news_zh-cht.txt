@@ -107,11 +107,11 @@ Wallpaper Engine 完全支援 Windows 11，趁著這次更新，我們也為新�
 [list]
 [*]新增 Android 支援並發布新的 Android 版 Wallpaper Engine 隨附應用程式。
 [*]新增行動裝置收藏至「探索」分頁。
-[*]Updated Wallpaper Engine logo, color theme, including app icons.
-[*]Added rounded corner support for Windows 11.
-[*]Added "day of week" playlist mode, limited to 7 wallpapers.
-[*]Re-arranged search filters, added new "mobile compatible" filter option.
-[*]Added "favorite" button when right-clicking on a wallpaper.
+[*]更新 Wallpaper Engine 標誌、色彩主題，包括應用程式圖示。
+[*]新增 Windows 11 圓角功能支援。
+[*]新增「星期幾」播放清單模式，最多 7 張桌布。
+[*]重新安排篩選器，新增「與行動裝置相容」篩選條件。
+[*]以滑鼠右鍵按一下桌布時，新增「最愛」按鈕。
 [*]"Stop mode" now turns off automatically while wallpaper is being changed manually.
 [*]Improved user interface for configuring physics bones.
 [*]Increased automatic audio unmute delay from 3 to 5 seconds.
