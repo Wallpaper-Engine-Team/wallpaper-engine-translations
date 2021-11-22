@@ -11,19 +11,19 @@ Hola a todos, ¡ha llegado el lanzamiento de [b]Wallpaper Engine 2.0[/b]! La act
 Por fin ha llegado el lanzamiento de la [i]aplicación de Wallpaper Engine para Android [b]gratis[/b][/i]. Estas son algunas de sus características:
 
 [list][*]No hay cargos ocultos, anuncios, seguimiento de usuarios ni recopilación de datos.
-[*]Transfer [b]Scene[/b] and [b]Video[/b] type wallpapers from Wallpaper Engine on your computer to Android wirelessly.
-[*]Import any compatible files from your device as a wallpaper: [i]Videos, GIFs, images & Wallpaper Engine wallpapers[/i]
-[*]Create a playlist of your wallpapers and use different playlist modes
-[*]Automatically pauses when power saving mode is enabled, offers FPS and quality settings.
-[*]Full support for dynamic audio visualizers, clocks & other dynamic wallpaper elements
-[*]Let wallpapers move along with the motion of your device [i](devices with gyroscope)[/i]
-[*]Support for automatic theme colors based on the current wallpaper, including Android 12's [b]Material You[/b][/list]
+[*]Transfiere fondos de tipo [b]Escena[/b] y [b]Vídeo[/b] desde Wallpaper Engine en tu ordenador a un dispositivo Android de forma inalámbrica.
+[*]Importa cualquier archivo compatible de tu dispositivo como fondo: [i]vídeos, GIFs, imágenes y fondos de Wallpaper Engine[/i].
+[*]Crea una lista de reproducción de fondos y usa varios modos de lista de reproducción.
+[*]Se pausa automáticamente al activar el modo de ahorro de energía, cuenta con ajustes de FPS y de calidad.
+[*]Compatible con visualizadores de audio dinámicos, relojes y otros elementos dinámicos del fondo de pantalla.
+[*]Permite que los fondos se muevan a la par que el movimiento del dispositivo [i](dispositivos con giroscopio)[/i].
+[*]Colores de tema automáticos basados en función del fondo de pantalla actual, incluido el [b]Material You[/b] de Android 12[/list].
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Real-time interactive wallpapers on Android[/b]
+        [td][b]Fondos interactivos en tiempo real para Android[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/757da27656323aa0dcd02c29678906c7efd09442.gif[/img][/td]
-        [td][b]Customize your wallpapers to your liking[/b]
+        [td][b]Personaliza los fondos a tu gusto[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/779d938b4f04f2e7e9a07a46ca09517749f105ec.gif[/img][/td]
     [/tr]
