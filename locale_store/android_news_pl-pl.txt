@@ -1,6 +1,6 @@
 Wallpaper Engine 2.0 – darmowa aplikacja na Androida, nowe logo i nowe funkcje!
 
-Wallpaper Engine 2.0 wprowadza obsługę urządzeń z systemem Android, a do tego nowe logo oraz efekt głębi 3D oraz garść innych nowości i poprawek do programu Wallpaper Engine.
+Wallpaper Engine 2.0 wprowadza obsługę urządzeń z systemem Android, a do tego nowe logo, efekt głębi 3D oraz garść innych nowości i poprawek do programu Wallpaper Engine.
 
 DARMOWA aplikacja na systemy Android
 
@@ -8,7 +8,7 @@ Cześć! Dzisiaj swoją premierę ma [b]Wallpaper Engine 2.0[/b]! Aktualizacja d
 
 [h2]Wallpaper Engine: aplikacja towarzysząca na systemy Android[/h2]
 
-Niezmiernie miło nam ogłosić premierę [i][b]darmowej[/b] aplikacji Wallpaper Engine: aplikacja towarzysząca na systemy Android[/i]. Główne funkcje aplikacji:
+Niezmiernie miło ogłosić nam premierę [i][b]darmowej[/b] aplikacji „Wallpaper Engine: aplikacja towarzysząca na systemy Android”[/i]. Główne funkcje aplikacji:
 
 [list][*]Brak ukrytych kosztów, brak reklam, nie śledzi i nie zbiera danych użytkowników.
 [*]Bezprzewodowe wysyłanie tapet z rodzaju [b]Scena[/b] oraz [b]Wideo[/b] z komputerowej wersji programu Wallpaper Engine na urządzenia z systemem Android.
@@ -16,8 +16,8 @@ Niezmiernie miło nam ogłosić premierę [i][b]darmowej[/b] aplikacji Wallpaper
 [*]Twórz playlisty ze swoich tapet i używaj różnych trybów playlist.
 [*]Automatyczna pauza przy włączonym trybie oszczędzania baterii, ustawienia kl./s oraz jakości.
 [*]Pełna obsługa dynamicznych wizualizatorów audio, zegarów i innych dynamicznych elementów tapety.
-[*]Tapety poruszają się razem z Tobą [i](dot. urządzeń z żyroskopem)[/i].
-[*]Ustawia automatyczne kolory motywu zależnie od wybranej tapety, w tym obsługa funkcji [b]Material You[/b] na systemy Android 12.[/list]
+[*]Tapety poruszają się razem z Twoim urządzeniem [i](dot. urządzeń z żyroskopem)[/i].
+[*]Ustawia automatyczne kolory motywu zależnie od wybranej tapety, w tym obsługuje funkcję [b]Material You[/b] systemu Android 12.[/list]
 [table equalcells=1 noborder=1]
     [tr]
         [td][b]Interaktywne dynamiczne tapety na systemy Android, zmieniające się w zależności od pory dnia.[/b]
@@ -56,7 +56,7 @@ Niezmiernie miło nam ogłosić premierę [i][b]darmowej[/b] aplikacji Wallpaper
 [h3]Pobierz Wallpaper Engine na urządzenie z systemem Android[/h3]
 Zalecamy instalację aplikacji przez oficjalny sklep, jednak zaawansowani użytkownicy mogą również skorzystać z bezpośredniego pobierania pliku APK. Przejdź na naszą stronę, by zobaczyć wszystkie możliwości instalacji:
 
-[list][*][h3][i][b][url=wallpaperengine.io/android]Pobierz Wallpaper Engine: aplikacja towarzysząca na systemy android[/url][/b][/i][/h3][/list]
+[list][*][h3][i][b][url=wallpaperengine.io/android]Pobierz Wallpaper Engine: aplikacja towarzysząca na systemy Android[/url][/b][/i][/h3][/list]
 [h3]Dodawanie nowych tapet na urządzenia z systemem Android[/h3]
 Bezpośrednie połączenie Warsztatu i urządzenia mobilnego nie jest możliwe ze względów technicznych oraz prawnych. Dlatego zbudowaliśmy wygodny system, który umożliwia posiadaczom programu Wallpaper Engine na systemy Windows łatwe bezpośrednie przesyłanie tapet na urządzenia z systemem Android:
 
@@ -87,7 +87,7 @@ Dużą nowością w edytorze Wallpaper Engine jest nasz nowy efekt paralaksy gł
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
-Aby w pełni wykorzystać ten efekt w edytorze tapet, zalecamy instalację naszego nowego [b][i]darmowego[/i][/b] dodatku [i]Rozszerzenia edytora[/i]. Postanowiliśmy oddzielić tę konkretną funkcję edytora w formie opcjonalnego dodatku, ponieważ wymaga ona pobrania kilku gigabajtów danych. Gdy po raz pierwszy wybierzesz tę funkcję w edytorze, Wallpaper Engine poprosi Cię o instalację tego dodatku. Po więcej informacji zajrzyj do naszego obszernego poradnika o tym, jak zainstalować i używać efektu paralaksy głębokości w edytorze:
+Aby w pełni wykorzystać ten efekt w edytorze tapet, zalecamy instalację naszego nowego [b][i]darmowego[/i][/b] dodatku [i]Rozszerzenia edytora[/i]. Postanowiliśmy oddzielić tę konkretną funkcję edytora w formie opcjonalnego dodatku, ponieważ wymaga ona pobrania kilku gigabajtów danych. Wallpaper Engine poprosi Cię o instalację tego dodatku, gdy po raz pierwszy wybierzesz tę funkcję w edytorze. Po więcej informacji zajrzyj do naszego obszernego poradnika o tym, jak zainstalować i używać efektu paralaksy głębokości w edytorze:
 
 [list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Paralaksa głębokości[/url] (poradnik jest aktualnie dostępny jedynie w wersji angielskiej, ale tłumaczenie maszynowe działa dobrze)[/list]
 [b]Ważne:[/b] nie musisz instalować darmowego dodatku, jeśli nie chcesz tworzyć własnych tapet z jego pomocą w edytorze – efekt będzie widoczny na tapetach na komputerach i urządzeniach mobilnych, nawet jeśli nie zainstalujesz darmowego dodatku.
@@ -96,7 +96,7 @@ Aby w pełni wykorzystać ten efekt w edytorze tapet, zalecamy instalację nasze
 Często dostawaliśmy prośby o możliwość konfiguracji jednej tapety na każdy dzień tygodnia. Wraz z tą aktualizacją wprowadzamy taką możliwość. Po prostu dodaj maksymalnie siedem tapet do playlisty w zakładce [b]Zainstalowane[/b] w programie Wallpaper Engine, a następnie kliknij [b]Skonfiguruj[/b] w sekcji z playlistami i wybierz tam opcję [b]Dzień tygodnia[/b]. Znajdziesz tam również wcześniejsze opcje playlisty, jak np. playlista [b]Pora dnia[/b].
 
 [h2]Windows 11[/h2]
-Wallpaper Engine w pełni obsługuje system Windows 11, z tą aktualizacją dodajemy również obsługę nowych zaokrąglonych rogów interfejsu. Jeśli zaktualizujesz swój system do systemu Windows 11 i doświadczysz jakichkolwiek problemów z działaniem Wallpaper Engine, zainstaluj ponownie najnowsze wersje wszystkich sterowników karty graficznej. Większość użytkowników systemu Windows 11, którzy się z nami kontaktowali, używało starych sterowników do kart graficznych.
+Wallpaper Engine w pełni obsługuje system Windows 11, z tą aktualizacją dodajemy również obsługę nowych zaokrąglonych rogów interfejsu. Jeśli zaktualizujesz swój system do systemu Windows 11 i doświadczysz jakichkolwiek problemów z działaniem Wallpaper Engine, zainstaluj ponownie najnowsze wersje wszystkich sterowników karty graficznej. Większość użytkowników systemu Windows 11, która się z nami kontaktowała, używała starych sterowników do kart graficznych.
 
 Jeśli używasz motywu Windows 11 z przezroczystością, program Wallpaper Engine będzie przez niego ignorowany. Aby rozwiązać ten problem, wystarczy że włączysz nową opcję [b]Nadpisz tapetę[/b] w ustawieniach programu Wallpaper Engine. Dzięki temu Twoja tapeta systemu Windows będzie zsynchronizowana z tapetą Wallpaper Engine, a problem z przezroczystością na systemie Windows 11 zostanie rozwiązany.
 
@@ -109,7 +109,7 @@ Jeśli używasz motywu Windows 11 z przezroczystością, program Wallpaper Engin
 [*]Dodaliśmy kolekcję na urządzenia mobilne w zakładce „Odkryj”.
 [*]Odświeżyliśmy logo Wallpaper Engine, motyw kolorystyczny oraz ikony aplikacji.
 [*]Dodaliśmy obsługę zaokrąglonych rogów na system Windows 11.
-[*]Dodaliśmy tyb playlisty „Dzień tygodnia”, ograniczony do siedmiu tapet.
+[*]Dodaliśmy tryb playlisty „Dzień tygodnia”, ograniczony do siedmiu tapet.
 [*]Zmieniliśmy kolejność filtrów wyszukiwania i dodaliśmy nową opcję filtrowania „Na urządzenia mobilne”.
 [*]Dodaliśmy przycisk „Ulubione” dostępny po kliknięciu prawym przyciskiem myszy tapety.
 [*]„Tryb stop” wyłącza się teraz automatycznie, gdy tapeta jest zmieniana ręcznie.
@@ -125,7 +125,7 @@ Jeśli używasz motywu Windows 11 z przezroczystością, program Wallpaper Engin
 [h4]Edytor tapet[/h4]
 [list]
 [*]Dodaliśmy nowy efekt paralaksy głębokości.
-[*]Dodaliśmy DARMOWY dodatek rozszerzeń edytora z efektem paralaksy głębokości. Potrzebujesz tego dodatku, tylko jeśli chcesz używać efektu w edytorze. Użytkownicy Twoich tapet nie muszą go instalować.
+[*]Dodaliśmy DARMOWY dodatek rozszerzeń edytora z efektem paralaksy głębokości. Potrzebujesz tego dodatku, tylko jeśli chcesz używać tego efektu w edytorze. Użytkownicy Twoich tapet nie muszą go instalować.
 [*]Dodaliśmy narzędzie selektora kolorów do narzędzi malowania edytora.
 [*]Poprawiliśmy obsługę renderowania chińskich, japońskich, koreańskich i innych znaków z pomocą nowych czcionek w warstwach tekstowych tapet z rodzaju scena.
 [*]Poprawiliśmy „Renderera liny” w systemach cząstek.
@@ -174,6 +174,6 @@ Niestety system iOS firmy Apple nie obsługuje prawdziwych tapet animowanych, ta
 [/table]
 
 [h2]Opinie, pytania i wsparcie techniczne urządzeń z systemem Android[/h2]
-Jeśli masz jakiekolwiek pytania, sugestie lub po prostu chcesz wyrazić swoją opinię o nowej aplikacji na systemy Android, lub jeśli natrafisz na jakiś problem techniczny, śmiało napisz wiadomość w sekcji Android naszej tablicy na platformie Steam:
+Jeśli masz jakiekolwiek pytania, sugestie lub po prostu chcesz wyrazić swoją opinię o nowej aplikacji na systemy Android lub jeśli natrafisz na jakiś problem techniczny, śmiało napisz wiadomość w sekcji Android naszej tablicy na platformie Steam:
 
 [list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine – dyskusje dotyczące aplikacji na systemy Android[/url][/list]
