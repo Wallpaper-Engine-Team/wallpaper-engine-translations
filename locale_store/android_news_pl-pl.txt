@@ -1,26 +1,26 @@
 Wallpaper Engine 2.0 – darmowa aplikacja na Androida, nowe logo i nowe funkcje!
 
-Wallpaper Engine 2.0 wprowadza obsługę urządzeń z systemem Android, a do tego nowe logo oraz efekt głębi 3D, a także garść innych nowości i poprawek do programu Wallpaper Engine.
+Wallpaper Engine 2.0 wprowadza obsługę urządzeń z systemem Android, a do tego nowe logo oraz efekt głębi 3D oraz garść innych nowości i poprawek do programu Wallpaper Engine.
 
 DARMOWA aplikacja na systemy Android
 
 Cześć! Dzisiaj swoją premierę ma [b]Wallpaper Engine 2.0[/b]! Aktualizacja dodaje obsługę urządzeń z systemem Android, nowe logo, nowy efekt głębi 3D oraz garść innych nowości i poprawek do Wallpaper Engine.
 
-[h2]Wallpaper Engine: Aplikacja towarzysząca na systemy Android[/h2]
+[h2]Wallpaper Engine: aplikacja towarzysząca na systemy Android[/h2]
 
-Niezmiernie miło nam ogłosić premierę [i][b]darmowej[/b] aplikacji Wallpaper Engine: Aplikacja towarzysząca na systemy Android[/i]. Główne funkcje aplikacji:
+Niezmiernie miło nam ogłosić premierę [i][b]darmowej[/b] aplikacji Wallpaper Engine: aplikacja towarzysząca na systemy Android[/i]. Główne funkcje aplikacji:
 
 [list][*]Brak ukrytych kosztów, brak reklam, nie śledzi i nie zbiera danych użytkowników.
 [*]Bezprzewodowe wysyłanie tapet z rodzaju [b]Scena[/b] oraz [b]Wideo[/b] z komputerowej wersji programu Wallpaper Engine na urządzenia z systemem Android.
-[*]Możliwość importowania wszystkich kompatybilnych plików z urządzenia jako tapety: [i]widea, GIFy, obrazy i tapety programu Wallpaper Engine[/i]
+[*]Możliwość importowania wszystkich kompatybilnych plików z urządzenia jako tapety: [i]widea, GIFy, obrazy i tapety programu Wallpaper Engine[/i].
 [*]Twórz playlisty ze swoich tapet i używaj różnych trybów playlist.
 [*]Automatyczna pauza przy włączonym trybie oszczędzania baterii, ustawienia kl./s oraz jakości.
-[*]Pełna obsługa dynamicznych wizualizatorów audio, zegarów i pozostałych dynamicznych elementów tapety.
+[*]Pełna obsługa dynamicznych wizualizatorów audio, zegarów i innych dynamicznych elementów tapety.
 [*]Tapety poruszają się razem z Tobą [i](dot. urządzeń z żyroskopem)[/i].
-[*]Ustawia automatyczne kolory motywu zależnie od wybranej tapety, w tym obsługa funkcji [b]Material You[/b] na systemy Android 12[/list]
+[*]Ustawia automatyczne kolory motywu zależnie od wybranej tapety, w tym obsługa funkcji [b]Material You[/b] na systemy Android 12.[/list]
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Interaktywne dynamiczne tapety zmieniające się w zależności od pory dnia na systemy Android[/b]
+        [td][b]Interaktywne dynamiczne tapety na systemy Android, zmieniające się w zależności od pory dnia.[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/757da27656323aa0dcd02c29678906c7efd09442.gif[/img][/td]
         [td][b]Dostosuj tapety według własnego gustu[/b]
@@ -32,7 +32,7 @@ Niezmiernie miło nam ogłosić premierę [i][b]darmowej[/b] aplikacji Wallpaper
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Zwizualizuj piosenkę tapetą reagującą na dźwięk. Autorstwa: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
+        [td][b]Zwizualizuj piosenkę tapetą, reagującą na dźwięk. Autorstwa: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/d590754450672c1b121668604832ef5b61568972.gif[/img]
 [/td]
