@@ -60,11 +60,11 @@ Recomendamos instalar la aplicación a través de una tienda de aplicaciones ofi
 [h3]Añadir más fondos a Android[/h3]
 No se puede conectar a Workshop desde un dispositivo móvil desde un punto de vista técnico y legal. Sin embargo, hemos creado un sistema muy práctico que permite transferir los fondos a los dispositivos Android de una forma sencilla a todos los usuarios de Wallpaper Engine en Windows:
 
-[b]Paso 1.[/b] Haz clic en el botón [b]Dispositivo[/b] en Wallpaper Engine en Windows y luego selecciona [b]Conectar otro dispositivo[/b]. Wallpaper Engine will show you a 4 digit PIN that you can use to connect to your mobile device now.
+[b]Paso 1.[/b] Haz clic en el botón [b]Dispositivo[/b] en Wallpaper Engine en Windows y luego selecciona [b]Conectar otro dispositivo[/b]. Wallpaper Engine te mostrará un PIN de 4 dígitos que te servirá para emparejar tu dispositivo.
 
-[b]Step 2:[/b] Open Wallpaper Engine on your Android device and click on the [b]Add[/b] button in the lower right corner. Select [b]Pair with Computer[/b], your computer should now be visible in the device list. Select it and enter the 4 digit PIN from step 1.
+[b]Paso 2.[/b] Abre Wallpaper Engine en tu dispositivo Android y haz clic en el botón [b]Añadir[/b] en la esquina inferior derecha. Selecciona [b]Emparejar con el ordenador[/b] y tu ordenador debería aparecer en la lista de dispositivos. Selecciónalo e introduce el PIN de 4 dígitos del paso 1.
 
-[b]Step 3:[/b] Your devices should now be connected. Right-click on any compatible wallpaper and click on [b]Send to mobile device[/b], then select your mobile device from the list. Your wallpaper will now be transferred.
+[b]Paso 3.[/b] Los dispositivos ya tendrían que estar emparejados. Haz clic con el botón derecho en cualquier fondo compatible y haz clic en [b]Enviar a dispositivo móvil[/b] y selecciona tu dispositivo en la lista. El fondo se transferirá inmediatamente.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/0fc8bc609bd7d959fa87fe7f90e3f1612ba67cd1.gif[/img]
 
