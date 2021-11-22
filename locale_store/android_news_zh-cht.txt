@@ -112,13 +112,13 @@ Wallpaper Engine 完全支援 Windows 11，趁著這次更新，我們也為新�
 [*]新增「星期幾」播放清單模式，最多 7 張桌布。
 [*]重新安排篩選器，新增「與行動裝置相容」篩選條件。
 [*]以滑鼠右鍵按一下桌布時，新增「最愛」按鈕。
-[*]"Stop mode" now turns off automatically while wallpaper is being changed manually.
-[*]Improved user interface for configuring physics bones.
-[*]Increased automatic audio unmute delay from 3 to 5 seconds.
-[*]Added scheme color to "apply to all wallpapers" dialog.
-[*]Removed 12h / 24h clock option from playlist, now detected automatically depending on system settings.
-[*]Added CLI applyProperties support to windowed wallpapers.
-[*]Improved app performance with new JSON parser.
+[*]桌布手動變更時，「停止模式」會自動關閉。
+[*]改善設定物理骨幹時的使用者介面。
+[*]音訊自動取消靜音的延遲時間增加至 3 至 5 秒。
+[*]將配置顏色功能新增至「套用到所有桌布」的對話方塊。
+[*]移除播放清單上 12小時制/24 小時制的選項，現已可自動偵測系統設定。
+[*]新增 CLI applyProperties 對視窗桌布的支援。
+[*]推出新的 JSON 剖析器，改善應用程式效能。
 [*]Updated core application binaries to latest Visual Studio 2022 compiler and latest Win SDK.
 [*]Reduced occurrence of rare cursor flickering issue in CEF.
 [/list]
