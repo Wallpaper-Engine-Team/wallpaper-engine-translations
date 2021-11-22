@@ -137,14 +137,14 @@ Wallpaper Engine 完全支援 Windows 11，趁著這次更新，我們也為新�
 [h3]修復錯誤[/h3]
 [list]
 [*]修復少部分桌布會因紋理解析度設定中「高效能」選項而遭到破壞的問題。
-[*]Fixed editor crashing when importing textures with resolutions below the minimum required size.
-[*]Fixed certain filter settings causing wallpapers to show up twice in the "installed" tab.
-[*]Fixed crash related to video textures.
-[*]Fixed JPEG EXIF meta data sometimes not being applied on image layers. If you rotate images with Windows, they should now also appear rotated in the app properly.
-[*]Fixed issue with particle system colors not working properly.
+[*]修復匯入解析度低於最低所需大小的紋理時編輯器會當機的問題。
+[*]修復特定篩選器紹定導致桌布在「已安裝」分頁中顯示兩次的問題。
+[*]修復與視訊紋理相關的當機問題。
+[*]修復 JPEG EXIF 中繼資料有時候並未套用至圖像圖層的問題。 如果圖像在 Windows 已旋轉，現在應用程式中應該也會正確出現旋轉後的結果。
+[*]修復粒子系統顏色並未正確運作的問題。
 [/list]
 
-[h2]Frequent Questions About The Android App[/h2]
+[h2]有關此 Android 應用程式的常見問題[/h2]
 
 [h3]How much does the Android app cost?[/h3]
 The Android app is free of charge, there are no hidden costs, no in-app purchases and no advertisements. It can also be used as a standalone app without owning Wallpaper Engine on your computer and import compatible wallpaper files from your mobile device.
