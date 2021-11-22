@@ -87,12 +87,12 @@ Una de las novedades del editor de Wallpaper Engine es el efecto nuevo de parala
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
-To make full-use of the effect in the wallpaper editor, we recommend installing our new [b][i]free[/i][/b] [i]Editor Extensions DLC[/i]. We decided to separate this particular editor feature into an optional DLC because the features requires a download which is several gigabytes in size. When first using the effect in the editor, Wallpaper Engine will ask you to install the DLC for you. For more infos, see our full guide on how to install and use the depth parallax effect in the editor:
+Para aprovechar al máximo el efecto en el editor de fondos, te recomendamos instalar las [i]extensiones de edición[/i], que es un contenido descargable [b][i]gratuito[/i][/b] . Hemos decidido separar estas funciones del editor en un contenido descargable opcional porque la descarga tiene un tamaño de varios gigabytes. La primera vez que uses el efecto en el editor, Wallpaper Engine te ofrecerá instalar dicho contenido. Para más información, consulta nuestra guía completa sobre cómo instalar y utilizar el efecto de paralaje profundo en el editor:
 
-[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Depth Parallax[/url] (Only available in English right now - machine translation works well)[/list]
-[b]It's important to note:[/b] You do not need to install the free DLC unless you want to use the effect in the editor yourself - the effect will still work on computers and mobile devices even if the free DLC is not installed.
+[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Parajale profundo[/url] (Solo disponible en inglés, pero es comprensible con traducción automática)[/list]
+[b]Importante a tener en cuenta.[/b] No necesitas instalar el contenido descargable gratuito a menos que quieras usar el efecto en el editor. El efecto funcionará tanto en ordenadores como en dispositivos móviles aunque no tengas instalado el contenido.
 
-[h2]Weekday Playlists[/h2]
+[h2]Listas de reproducción semanales[/h2]
 A popular request that we have received over time was the way to configure one wallpaper per weekday. With this update, we are introducing a new weekday playlist. Simply add up to seven wallpapers to the playlist in the [b]Installed[/b] tab of Wallpaper Engine, then click on [b]Configure[/b] in the playlist section and select the [b]Day of Week[/b] option from there. You will also find the already existing playlist options there, such as the [b]Time of Day[/b] playlist type.
 
 [h2]Windows 11[/h2]
