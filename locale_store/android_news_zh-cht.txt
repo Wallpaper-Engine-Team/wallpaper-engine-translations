@@ -119,24 +119,24 @@ Wallpaper Engine 完全支援 Windows 11，趁著這次更新，我們也為新�
 [*]移除播放清單上 12小時制/24 小時制的選項，現已可自動偵測系統設定。
 [*]新增 CLI applyProperties 對視窗桌布的支援。
 [*]推出新的 JSON 剖析器，改善應用程式效能。
-[*]Updated core application binaries to latest Visual Studio 2022 compiler and latest Win SDK.
-[*]Reduced occurrence of rare cursor flickering issue in CEF.
+[*]更新核心應用程式二進位至最新的 Visual Studio 2022 編譯器及最新的 Win SDK。
+[*]減少 CEF 中原本偶爾出現的游標亮光問題。
 [/list]
 [h4]Wallpaper 編輯器[/h4]
 [list]
-[*]Added new depth parallax effect.
-[*]Added FREE editor extensions DLC for depth parallax effect. You only need this if you want to use it in the editor, users of your wallpapers do not need this DLC.
-[*]Added color picker tool to editor painting tools.
-[*]Improved support for rendering Chinese, Japanese, Korean and more characters in scene wallpapers text layers with new fonts.
-[*]Improved "Rope Renderer" for particle systems.
-[*]SceneScript: [i]init()[/i] and [i]update()[/i] function will now automatically convert numbers into vectors (Vec2, Vec3, Vec4) when they are returned. This helps to simplify some scripts.
-[*]SceneScript: Reviewed and improved all sample code snippets slightly.
-[*]SceneScript: Update reference URLs to [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url].
-[*]Made transparency cropping work with DXT compression in the editor.
+[*]新增新的深度視差效果。
+[*]新增免費的編輯器擴充 DLC 以提供深度視差效果。 您僅在需要編輯器中使用的時候下載此 DLC，桌布使用者不需要。
+[*]新增編輯器繪製工具的色彩選擇器。
+[*]新增場景桌布文字圖層對中文、日文、韓文等方塊字的支援，並推出新字型。
+[*]改善粒子系統的「繩子轉譯器」。
+[*]SceneScript: [i]init()[/i] 及 [i]update()[/i] 功能現可在回傳時自動將數字轉換成向量 (Vec2, Vec3, Vec4)。 此有助腳本簡化。
+[*]SceneScript：稍微檢視並改善範例程式碼片段。
+[*]SceneScript：更新參考連結 [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url]。
+[*]編輯器中 DXT 壓縮格式現可裁剪透明背景。
 [/list]
-[h3]Bug Fixes[/h3]
+[h3]修復錯誤[/h3]
 [list]
-[*]Fixed "High Performance" option for the texture resolution settings breaking a low number of wallpapers.
+[*]修復少部分桌布會因紋理解析度設定中「高效能」選項而遭到破壞的問題。
 [*]Fixed editor crashing when importing textures with resolutions below the minimum required size.
 [*]Fixed certain filter settings causing wallpapers to show up twice in the "installed" tab.
 [*]Fixed crash related to video textures.
