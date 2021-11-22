@@ -103,21 +103,21 @@ Wallpaper Engine 完全支持 Windows 11，在本次更新中，我们还增加�
 [h2]更改日志[/h2]
 
 [h3]添加/更改[/h3]
-[h4]Main App[/h4]
+[h4]主应用程序[/h4]
 [list]
-[*]Added Android support and released the new Wallpaper Engine Companion app for Android.
-[*]Added mobile collection to Discover tab.
-[*]Updated Wallpaper Engine logo, color theme, including app icons.
-[*]Added rounded corner support for Windows 11.
-[*]Added "day of week" playlist mode, limited to 7 wallpapers.
-[*]Re-arranged search filters, added new "mobile compatible" filter option.
-[*]Added "favorite" button when right-clicking on a wallpaper.
-[*]"Stop mode" now turns off automatically while wallpaper is being changed manually.
-[*]Improved user interface for configuring physics bones.
-[*]Increased automatic audio unmute delay from 3 to 5 seconds.
-[*]Added scheme color to "apply to all wallpapers" dialog.
-[*]Removed 12h / 24h clock option from playlist, now detected automatically depending on system settings.
-[*]Added CLI applyProperties support to windowed wallpapers.
+[*]添加了 Android 支持并发布了全新 Android 版 Wallpaper Engine 伴侣应用程序。
+[*]“发现”选项卡中添加了移动设备集合。
+[*]更新了 Wallpaper Engine 徽标、颜色主题，包括应用程序图标。
+[*]添加了对 Windows 11 的圆角支持。
+[*]添加了“星期几”播放列表模式，仅限 7 张壁纸。
+[*]重新安排了搜索筛选器，并添加了新的“移动设备兼容”筛选选项。
+[*]添加了右键单击壁纸时显示的“收藏”按钮。
+[*]“停止模式”现在会在手动更改壁纸时自动关闭。
+[*]改进了用于配置物理骨骼的用户界面。
+[*]增加了 3 到 5 秒的自动音频取消静音延迟。
+[*]向“应用于所有壁纸”对话框添加了主题颜色。
+[*]从播放列表中移除了 12 小时/24 小时时钟选项，现在根据系统设置自动检测。
+[*]为窗口化壁纸添加了 CLI applyProperties 支持。
 [*]Improved app performance with new JSON parser.
 [*]Updated core application binaries to latest Visual Studio 2022 compiler and latest Win SDK.
 [*]Reduced occurrence of rare cursor flickering issue in CEF.
