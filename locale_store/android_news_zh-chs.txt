@@ -62,13 +62,13 @@ Wallpaper Engine 2.0 引入了对 Android 的支持，推出了新徽标，还�
 
 [b]第 1 步：[/b]在 Windows 上的 Wallpaper Engine 中单击新的[b]移动设备[/b]按钮，然后选择[b]连接新设备[/b]。 Wallpaper Engine 将显示 4 位数 PIN，您可以立即使用该 PIN 连接到您的移动设备。
 
-[b]Step 2:[/b] Open Wallpaper Engine on your Android device and click on the [b]Add[/b] button in the lower right corner. Select [b]Pair with Computer[/b], your computer should now be visible in the device list. Select it and enter the 4 digit PIN from step 1.
+[b]第 2 步：[/b]在您的 Android 设备上打开 Wallpaper Engine，然后单击右下角的[b]添加[/b]按钮。 选择[b]与计算机配对[/b]，此时您的计算机应该会出现在设备列表中。 选择您的计算机，然后输入第 1 步中的 4 位数 PIN。
 
-[b]Step 3:[/b] Your devices should now be connected. Right-click on any compatible wallpaper and click on [b]Send to mobile device[/b], then select your mobile device from the list. Your wallpaper will now be transferred.
+[b]第 3 步：[/b]您的设备现在应该已连接。 右键单击任何兼容的壁纸，并单击[b]发送到移动设备[/b]，然后从列表中选择您的移动设备。 您的壁纸现在将会传输。
 
 [img]{STEAM_CLAN_IMAGE}/26312799/0fc8bc609bd7d959fa87fe7f90e3f1612ba67cd1.gif[/img]
 
-[b]If you are unable to connect to Android:[/b] Right-click on any wallpaper and select [b]Send to mobile device[/b], then select [b]Export .mpkg[/b]. You can then transfer the exported mobile package file to your mobile device via cable or by transferring it to your mobile device in another way.
+[b]如果您无法连接到 Android：[/b]右键单击任何壁纸并选择[b]发送到移动设备[/b]，然后选择[b]导出 .mpkg[/b]。 You can then transfer the exported mobile package file to your mobile device via cable or by transferring it to your mobile device in another way.
 
 [list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to read our Android connection guide.[/url][/list]
 [i]Tip: You can also transfer folders or multiple wallpapers at the same time by multi-selecting them by holding the CTRL key. Clicking [b]CTRL + A[/b] in the [b]Installed[/b] tab selects all installed wallpapers and lets you transfer them all at the same time.[/i]
