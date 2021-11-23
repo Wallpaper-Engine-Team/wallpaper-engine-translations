@@ -129,51 +129,51 @@ Windows 11 투명 테마를 사용하고 계실 경우, Windows 11이 Wallpaper 
 [*]편집기 채색 도구에 색상 선택기 도구를 추가했습니다.
 [*]새로운 글꼴을 추가하여 장면 배경화면 텍스트 레이어에서의 중국어, 일본어, 한국어 등의 문자 렌더링 지원을 개선했습니다.
 [*]입자 시스템의 "로프 렌더러"를 개선했습니다.
-[*]SceneScript: [i]init()[/i] and [i]update()[/i] function will now automatically convert numbers into vectors (Vec2, Vec3, Vec4) when they are returned. This helps to simplify some scripts.
-[*]SceneScript: Reviewed and improved all sample code snippets slightly.
-[*]SceneScript: Update reference URLs to [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url].
-[*]Made transparency cropping work with DXT compression in the editor.
+[*]SceneScript: [i]init()[/i] 및 [i]update()[/i] 함수가 반환될 때 이제 자동으로 숫자를 벡터(Vec2, Vec3, Vec4)로 변환합니다. 일부 스크립트를 간소화하는 데 도움이 될 것입니다.
+[*]SceneScript: 모든 샘플 코드 스니펫을 검토 및 개선했습니다.
+[*]SceneScript: 참조 URL을 [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]새로운 SceneScript 문서[/url]로 업데이트했습니다.
+[*]이제 편집기에서 투명 자르기 기능이 DXT 압축과 호환됩니다.
 [/list]
-[h3]Bug Fixes[/h3]
+[h3]버그 수정[/h3]
 [list]
-[*]Fixed "High Performance" option for the texture resolution settings breaking a low number of wallpapers.
-[*]Fixed editor crashing when importing textures with resolutions below the minimum required size.
-[*]Fixed certain filter settings causing wallpapers to show up twice in the "installed" tab.
-[*]Fixed crash related to video textures.
-[*]Fixed JPEG EXIF meta data sometimes not being applied on image layers. If you rotate images with Windows, they should now also appear rotated in the app properly.
-[*]Fixed issue with particle system colors not working properly.
+[*]텍스처 해상도 설정의 "고성능" 옵션에서 일부 배경화면이 작동하지 않던 문제를 수정했습니다.
+[*]최소 크기보다 작은 해상도의 텍스쳐를 가져올 때 편집기가 작동 중단되던 문제를 수정했습니다.
+[*]특정 필터 설정을 사용할 때 배경화면이 "설치됨" 탭에 두 번 표시되던 문제를 수정했습니다.
+[*]영상 텍스쳐 관련 작동 중단 문제를 수정했습니다.
+[*]JPEG EXIF 메타 데이터가 때때로 이미지 레이어에 적용되지 않던 문제를 수정했습니다. 이제 Windows로 이미지를 회전하면 앱에서도 이에 맞게 회전된 상태로 표시됩니다.
+[*]입자 시스템 색상이 제대로 작동하지 않던 문제를 수정했습니다.
 [/list]
 
-[h2]Frequent Questions About The Android App[/h2]
+[h2]Android 앱 관련 자주 묻는 질문[/h2]
 
-[h3]How much does the Android app cost?[/h3]
-The Android app is free of charge, there are no hidden costs, no in-app purchases and no advertisements. It can also be used as a standalone app without owning Wallpaper Engine on your computer and import compatible wallpaper files from your mobile device.
+[h3]Android 앱의 가격은 얼마인가요?[/h3]
+Android 앱은 무료이며 숨겨진 비용, 인앱 구매 혹은 광고가 없습니다. 또한 컴퓨터 버전 Wallpaper Engine을 소유하고 있지 않아도 별개의 앱으로 사용할 수 있으며, 모바일 기기에서 호환되는 배경화면 파일을 가져올 수 있습니다.
 
-[h3]Can the Workshop be accessed directly from the Mobile App?[/h3]
-No, the Workshop cannot be accessed from mobile devices due to technical and legal restrictions. We built a convenient way to transfer your existing collection of wallpapers from your computer to Android. We tried to make this process as easy and simple as possible, in most cases you just need to make sure your mobile device and your computer are connected to the same network. [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to learn more.[/url]
+[h3]모바일 앱에서 직접 창작마당을 이용할 수 있나요?[/h3]
+기술적 및 법적 제약으로 인해 모바일 기기에서 직접 창작마당을 이용할 수 없습니다. 하지만 컴퓨터에 있는 기존 배경화면 컬렉션을 Android 기기로 전송할 수 있게 해주는 편리한 시스템을 개발했습니다. 해당 절차를 최대한 쉽고 간단하게 만들기 위해 노력했으며, 대부분의 경우 모바일 기기와 컴퓨터가 같은 네트워크에서 연결되어 있기만 하면 됩니다. [url=https://help.wallpaperengine.io/mobile/pairing.html]더 자세히 알아보려면 여기를 클릭하세요.[/url]
 
-Additionally, you can also just directly import any compatible wallpaper files from the files stored on your mobile device. Wallpaper Engine for Android also works well if you are simply looking for a way to turn any video files on your Android phone or tablet into your mobile wallpaper or if you want to use several static wallpapers in a playlist.
+또한, 모바일 기기에 저장된 파일 중 호환되는 배경화면 파일을 직접 가져올 수도 있습니다. Android Wallpaper Engine은 Android 모바일 기기에 있는 영상 파일을 손쉽게 모바일 배경화면으로 변환하고 싶을 때 혹은 다수의 정지 배경화면을 하나의 재생목록으로 사용하고 싶을 때도 유용합니다.
 
-[h3]Does Wallpaper Engine drain the battery of my devices?[/h3]
-No, we have optimized the app extensively and most modern devices will not notice a negative effect on battery life in day-to-day usage.
+[h3]Android Wallpaper Engine이 배터리를 많이 소모하나요?[/h3]
+아닙니다. 이 앱은 매우 최적화되어 있으며, 최근 발매된 대부분의 기기에서는 평상시 배터리 수명에 눈에 띌 만한 악영향을 주지 않을 것입니다.
 
-We have been using the app for months on our private devices now and on an average day and we have not seen any meaningful battery usage through Wallpaper Engine. The app automatically pauses when another app is full-screened on your device and when your device is turned off. Battery saving mode will automatically pause your live wallpaper to reduce its impact on battery life even further. On top of that, you can also tweak the performance impact in the app settings by adjusting the FPS limit.
+저희는 지난 몇 달 동안 개인 기기에서 앱을 사용했으며, 일반적으로 Wallpaper Engine은 배터리 사용량에 유의미한 영향을 미치지 않았습니다. 다른 앱이 기기에서 전체 화면으로 실행 중이거나 기기가 꺼져 있을 때 앱은 자동으로 일시 정지됩니다. 절전모드를 사용하면 라이브 배경화면이 자동으로 일시 정지되어 배터리에 미치는 영향이 더욱 감소합니다. 이에 더해 앱 설정에서 FPS 제한을 조정하여 성능에 미치는 영향을 조절할 수도 있습니다.
 
-[h3]Do wallpapers also play sounds like on Windows?[/h3]
-No, all wallpapers are muted on Android. However, audio visualizers work as long as you grant the app the permission to record your device's audio.
+[h3]Windows에서처럼 배경화면의 소리가 재생되나요?[/h3]
+아니요. Android에서는 모든 배경화면이 음소거됩니다. 하지만 앱이 기기의 오디오를 녹음할 권한이 허용되어 있는 한 오디오 시각화는 작동합니다.
 
-[h3]Can I set a wallpaper on my Android lock screen?[/h3]
-This depends on your device. Some Android manufacturers do not allow live wallpapers on the lock screen while some others do. If you are not offered the option to set a lock screen wallpaper, then your device manufacturer does not allow it.
+[h3]Android 잠금화면에 배경화면을 설정할 수 있나요?[/h3]
+기기에 따라 다릅니다. 일부 Android 기기 제조사는 잠금화면에 라이브 배경화면을 지원하지 않으며, 일부 제조사는 지원합니다. 잠금화면 배경화면을 지정하라는 옵션이 표시되지 않는 경우, 해당 기기의 제조사가 잠금화면에 라이브 배경화면을 지원하지 않는 것입니다.
 
-[h3]What about Wallpaper Engine on iOS for iPhones and iPads?[/h3]
-Unfortunately, Apple's iOS does not support true live wallpapers like Android. It is not possible to create anything similar to Wallpaper Engine on iOS. If Apple ever changes their mind on this, we will likely also follow-up with an iOS version. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Click here to learn our lengthy explanation about Linux, Mac OS and iOS.[/url]
+[h3]iPhone과 iPad의 iOS 지원은 언제 추가되나요?[/h3]
+아쉽게도 Apple의 iOS는 Android와는 다르게 진정한 의미에서의 라이브 배경화면을 지원하지 않습니다. iOS에서 Wallpaper Engine 혹은 유사한 기능을 제작하는 것은 불가능합니다. 이와 관련된 Apple의 정책이 변경될 경우, iOS 지원 추가를 긍정적으로 고려하겠습니다. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Linux, Mac OS, iOS에 대한 상세 설명을 확인하려면 여기를 클릭하세요.[/url]
 
 
 [table equalcells=1 noborder=1]
     [tr][td][/td][td][/td][td][img]{STEAM_CLAN_IMAGE}/26312799/c42514f38e70a8cab07f98f9263ba8a12b0a0c0c.gif[/img][/td][td][/td][td][/td][/tr]
 [/table]
 
-[h2]Feedback, Questions and Technical Support for Android[/h2]
-If you have any questions, suggestions or general feedback about the new Android app or if you run into any technical issues, be sure to post a message on the Android section of our Steam board:
+[h2]Android 관련 피드백, 질문, 기술 지원[/h2]
+신규 Android 앱과 관련하여 질문, 건의 혹은 전반적인 피드백 사항이 있거나 기술적 문제가 발생하신 경우, 저희 Steam 게시판의 Android 섹션에 메시지를 게시해주세요.
 
-[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android App Discussions[/url][/list]
+[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android 앱 토론[/url][/list]
