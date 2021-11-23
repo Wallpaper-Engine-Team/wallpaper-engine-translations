@@ -150,30 +150,30 @@ Pokud používáte motiv Windows 11 s průhledností, pak dojde k situaci, že W
 Aplikace pro Android je zdarma bez skrytých nákladů, bez nákupů v aplikaci a bez reklam. Můžete ji používat i jako samostatnou aplikaci, aniž byste měli Wallpaper Engine na počítači. Díky aplikaci můžete importovat kompatibilní soubory tapet z vašeho mobilního zařízení.
 
 [h3]Dá se do Workshopu dostat přímo z mobilní aplikace?[/h3]
-No, the Workshop cannot be accessed from mobile devices due to technical and legal restrictions. We built a convenient way to transfer your existing collection of wallpapers from your computer to Android. We tried to make this process as easy and simple as possible, in most cases you just need to make sure your mobile device and your computer are connected to the same network. [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to learn more.[/url]
+Ne, do Workshopu se nedá dostat z mobilních zařízení kvůli technickým a právním omezením. Vytvořili jsme ale pohodlný způsob, jak převést vaši stávající kolekci tapet z počítače na systém Android. Pokusili jsme se tento proces co možná nejvíce usnadnit. Ve většině případů se jen musíte postarat o to, aby bylo vaše zařízení připojeno ke stejné síti, na jaké je už váš počítač. [url=https://help.wallpaperengine.io/mobile/pairing.html]Klikněte sem a dozvíte se víc.[/url]
 
-Additionally, you can also just directly import any compatible wallpaper files from the files stored on your mobile device. Wallpaper Engine for Android also works well if you are simply looking for a way to turn any video files on your Android phone or tablet into your mobile wallpaper or if you want to use several static wallpapers in a playlist.
+Kromě toho můžete také přímo importovat jakékoli kompatibilní soubory tapet ze souborů uložených na vašem mobilním zařízení. Wallpaper Engine pro Android funguje skvěle i v případech, kdy jen hledáte způsob, jak převést video soubory na vašem telefonu nebo tabletu s Androidem na mobilní tapetu, nebo pokud chcete používat několik statických tapet v playlistu.
 
-[h3]Does Wallpaper Engine drain the battery of my devices?[/h3]
-No, we have optimized the app extensively and most modern devices will not notice a negative effect on battery life in day-to-day usage.
+[h3]Vyčerpává Wallpaper Engine baterii mých zařízení?[/h3]
+Ne, aplikaci jsme výrazně optimalizovali, a tak na většině moderních zařízení při každodenním používání žádný vliv na výdrž baterie nezaznamenáte.
 
-We have been using the app for months on our private devices now and on an average day and we have not seen any meaningful battery usage through Wallpaper Engine. The app automatically pauses when another app is full-screened on your device and when your device is turned off. Battery saving mode will automatically pause your live wallpaper to reduce its impact on battery life even further. On top of that, you can also tweak the performance impact in the app settings by adjusting the FPS limit.
+Na soukromých zařízeních používáme aplikaci už měsíce a většinou jsme nezaznamenali žádný dopad aplikace Wallpaper Engine na výdrž baterie. Aplikace se automaticky pozastaví, jakmile se přepnete na zařízení do jiné obrazovky, nebo pokud zařízení vypnete. Režim úspory baterie automaticky pozastaví živou tapetu, aby její dopad na výdrž baterie byl co nejmenší. Kromě toho můžete dopad aplikace na výkonnost ještě doladit v nastavení díky limitu snímkové frekvence.
 
-[h3]Do wallpapers also play sounds like on Windows?[/h3]
-No, all wallpapers are muted on Android. However, audio visualizers work as long as you grant the app the permission to record your device's audio.
+[h3]Přehrávají tapety zvuky podobně jako ve Windows?[/h3]
+Ne, všechny tapety v systému Android jsou tiché. Nicméně vizualizátory zvuku fungovat budou, jen musíte dát aplikaci oprávnění k nahrávání zvuku vašeho zařízení.
 
-[h3]Can I set a wallpaper on my Android lock screen?[/h3]
-This depends on your device. Some Android manufacturers do not allow live wallpapers on the lock screen while some others do. If you are not offered the option to set a lock screen wallpaper, then your device manufacturer does not allow it.
+[h3]Mohu nastavit tapetu na uzamykací obrazovce Androidu?[/h3]
+To záleží na vašem zařízení. Někteří výrobci zařízení se systémem Adnroid nedovolují živé tapety na uzamykací obrazovce, jiní ano. Pokud nemáte v nabídce možnost nastavit tapetu uzamykací obrazovky, pak to výrobce vašeho zařízení zakázal.
 
-[h3]What about Wallpaper Engine on iOS for iPhones and iPads?[/h3]
-Unfortunately, Apple's iOS does not support true live wallpapers like Android. It is not possible to create anything similar to Wallpaper Engine on iOS. If Apple ever changes their mind on this, we will likely also follow-up with an iOS version. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Click here to learn our lengthy explanation about Linux, Mac OS and iOS.[/url]
+[h3]Bude aplikace Wallpaper Engine pro iOS na iPhonech a iPadech?[/h3]
+Bohužel operační systém Apple iOS nepodporuje skutečně živé tapety, které jsou podporovány na Androidu. V systému iOS tedy není možné vytvořit aplikaci, která by fungovala jako Wallpaper Engine. Pokud společnost Apple změní svůj přístup k této záležitosti, nejspíše na to brzy navážeme verzí naší aplikace pro iOS. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Klikněte sem, pokud si chcete přečíst naše obšírné vysvětlení situace s operačními systémy Linux, Mac OS a iOS.[/url]
 
 
 [table equalcells=1 noborder=1]
     [tr][td][/td][td][/td][td][img]{STEAM_CLAN_IMAGE}/26312799/c42514f38e70a8cab07f98f9263ba8a12b0a0c0c.gif[/img][/td][td][/td][td][/td][/tr]
 [/table]
 
-[h2]Feedback, Questions and Technical Support for Android[/h2]
-If you have any questions, suggestions or general feedback about the new Android app or if you run into any technical issues, be sure to post a message on the Android section of our Steam board:
+[h2]Zpětná vazba, otázky a technická podpora pro Android[/h2]
+Pokud budete mít jakékoli otázky nebo zpětnou vazbu k nové aplikaci pro Android, nebo pokud narazíte na jakékoli technické problémy, určitě nám zanechte zprávu na Steamu v sekci Android:
 
-[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android App Discussions[/url][/list]
+[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine – Diskuse k aplikaci pro Android[/url][/list]
