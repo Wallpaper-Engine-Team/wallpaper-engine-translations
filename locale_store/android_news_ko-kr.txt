@@ -6,12 +6,12 @@ Wallpaper Engine 2.0에서는 Android 지원, 신규 로고, 새로운 3D 깊이
 
 안녕하세요, 여러분. 오늘 [b]Wallpaper Engine 2.0[/b]이 출시됩니다! 이번 업데이트에서는 Wallpaper Engine에 Android 지원, 신규 로고, 새로운 3D 깊이 효과 등 다양한 추가 및 개선 사항이 추가되었습니다.
 
-[h2]Wallpaper Engine Android Companion App[/h2]
+[h2]Wallpaper Engine Android 보조 앱[/h2]
 
-We are happy to finally release the [i][b]free[/b] Wallpaper Engine Android companion app[/i]. Some key features of the app are as follows:
+드디어 [i][b]무료[/b] Wallpaper Engine Android 보조 앱[/i]이 출시되었습니다. 앱에서는 다음과 같은 주요 기능을 사용하실 수 있습니다.
 
-[list][*]No hidden costs, no advertisements, no user tracking or data collection.
-[*]Transfer [b]Scene[/b] and [b]Video[/b] type wallpapers from Wallpaper Engine on your computer to Android wirelessly.
+[list][*]숨겨진 비용이나 광고, 유저 추적, 데이터 수집이 없습니다.
+[*]컴퓨터에 있는 [b]장면[/b] 및 [b]영상[/b] 유형의 배경화면을 Android 기기에 무선으로 전송할 수 있습니다.
 [*]Import any compatible files from your device as a wallpaper: [i]Videos, GIFs, images & Wallpaper Engine wallpapers[/i]
 [*]Create a playlist of your wallpapers and use different playlist modes
 [*]Automatically pauses when power saving mode is enabled, offers FPS and quality settings.
