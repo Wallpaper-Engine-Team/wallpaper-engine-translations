@@ -157,13 +157,13 @@ Además, puedes importar directamente cualquier archivo de fondo compatible que 
 [h3]¿Wallpaper Engine consume mucha batería del dispositivo?[/h3]
 No, hemos optimizado la aplicación y la mayoría de dispositivos modernos no notarán un efecto negativo en la duración de la batería con el uso cotidiano.
 
-Hemos estado utilizando la aplicación durante meses en nuestros dispositivos personales y no ha habido ningún día en el que Wallpaper Engine haya consumido demasiada batería. La aplicación se pausa de forma automática al usar otra aplicación en pantalla completa y también al apagar el dispositivo. Battery saving mode will automatically pause your live wallpaper to reduce its impact on battery life even further. On top of that, you can also tweak the performance impact in the app settings by adjusting the FPS limit.
+Hemos estado utilizando la aplicación durante meses en nuestros dispositivos personales y no ha habido ningún día en el que Wallpaper Engine haya consumido demasiada batería. La aplicación se pausa de forma automática al usar otra aplicación en pantalla completa y también al apagar el dispositivo. El modo de ahorro de batería pausará automáticamente los fondos animados para reducir todavía más el impacto en la vida de la batería. Además, también puedes cambiar el impacto que causa la aplicación en el rendimiento si cambias el límite de FPS en los ajustes de esta.
 
-[h3]Do wallpapers also play sounds like on Windows?[/h3]
-No, all wallpapers are muted on Android. However, audio visualizers work as long as you grant the app the permission to record your device's audio.
+[h3]¿Los fondos tienen sonido como en Windows?[/h3]
+No, todos los fondos están silenciados en Android. Sin embargo, los visualizadores de sonido funcionarán si le concedes permiso a la aplicación para grabar el sonido del dispositivo.
 
-[h3]Can I set a wallpaper on my Android lock screen?[/h3]
-This depends on your device. Some Android manufacturers do not allow live wallpapers on the lock screen while some others do. If you are not offered the option to set a lock screen wallpaper, then your device manufacturer does not allow it.
+[h3]¿Puedo usar fondos en la pantalla de bloqueo de Android?[/h3]
+Depende del dispositivo que tengas. Hay fabricantes de Android que no permiten el uso de fondos animados en la pantalla de bloqueo, pero hay otros que sí. If you are not offered the option to set a lock screen wallpaper, then your device manufacturer does not allow it.
 
 [h3]What about Wallpaper Engine on iOS for iPhones and iPads?[/h3]
 Unfortunately, Apple's iOS does not support true live wallpapers like Android. It is not possible to create anything similar to Wallpaper Engine on iOS. If Apple ever changes their mind on this, we will likely also follow-up with an iOS version. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Click here to learn our lengthy explanation about Linux, Mac OS and iOS.[/url]
