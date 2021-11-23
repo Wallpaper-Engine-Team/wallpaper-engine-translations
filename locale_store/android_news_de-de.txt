@@ -157,23 +157,23 @@ Zusätzlich kannst du jegliche kompatiblen Hintergrund-Dateien von deinem Mobilg
 [h3]Sorgt Wallpaper Engine nicht dafür, dass der Akku meiner Geräte schnell leer wird?[/h3]
 Nein, wir haben die App sehr lange optimiert und die meisten modernen Geräte sollten keine negativen Effekt auf den Akku im täglichen Gebrauch verzeichnen.
 
-Wir selbst nutzen die App schon seit einigen Monaten auf unseren privaten Geräten und an einem durchschnittlichen Tag haben wir keinen nennenswerten Akkuverbrauch durch Wallpaper Engine feststellen können. Die App pausiert sich automatisch, sobald eine andere Anwendung im Vollbildmodus ist oder wenn dein Gerätebildschirm ausgeschaltet ist. Der Energiesparmodus deines Geräts pausiert zudem den Live-Hintergrund, sodass der Effekt auf die Akkulaufzeiten noch geringer ausfällt. On top of that, you can also tweak the performance impact in the app settings by adjusting the FPS limit.
+Wir selbst nutzen die App schon seit einigen Monaten auf unseren privaten Geräten und an einem durchschnittlichen Tag haben wir keinen nennenswerten Akkuverbrauch durch Wallpaper Engine feststellen können. Die App pausiert sich automatisch, sobald eine andere Anwendung im Vollbildmodus ist oder wenn dein Gerätebildschirm ausgeschaltet ist. Der Energiesparmodus deines Geräts pausiert zudem den Live-Hintergrund, sodass der Effekt auf die Akkulaufzeiten noch geringer ausfällt. Darüber hinaus kannst du den Einfluss auf die Leistung deines Geräts weiter konfigurieren, indem du das FPS-Limit in den App-Einstellungen anpasst.
 
-[h3]Do wallpapers also play sounds like on Windows?[/h3]
-No, all wallpapers are muted on Android. However, audio visualizers work as long as you grant the app the permission to record your device's audio.
+[h3]Spielen Hintergründe auch Ton ab wie auf Windows?[/h3]
+Nein, alle Hintergründe auf Android spielen keinen Ton ab. Audio-Visualisierungen funktionieren jedoch, solange du der App den Zugriff auf den Ton deines Geräts gestattest.
 
-[h3]Can I set a wallpaper on my Android lock screen?[/h3]
-This depends on your device. Some Android manufacturers do not allow live wallpapers on the lock screen while some others do. If you are not offered the option to set a lock screen wallpaper, then your device manufacturer does not allow it.
+[h3]Kann ich einen Hintergrund auf dem Sperrbildschirm meines Geräts setzen?[/h3]
+Dies kommt auf dein Gerät an. Einige Android-Herstellen erlauben es nicht, Live-Hintergründe auf dem Sperrbildschirm zu setzen, während andere dies zulassen. Wenn du die Option zum Setzen eines Live-Hintergrunds auf dem Sperrbildschirm erhältst, dann erlaubt es dein Geräte-Hersteller nicht.
 
-[h3]What about Wallpaper Engine on iOS for iPhones and iPads?[/h3]
-Unfortunately, Apple's iOS does not support true live wallpapers like Android. It is not possible to create anything similar to Wallpaper Engine on iOS. If Apple ever changes their mind on this, we will likely also follow-up with an iOS version. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Click here to learn our lengthy explanation about Linux, Mac OS and iOS.[/url]
+[h3]Was ist mit Wallpaper Engine für iOS auf iPhones und iPads?[/h3]
+Leider unterstützt Apples iOS keine echten Live-Hintergründe wie Android. Es ist nicht möglich, eine Anwendung im Umfang von Wallpaper Engine auf iOS zu entwickeln. Wenn Apple je die Meinung zu diesem Thema ändert, würden wir in Zukunft wahrscheinlich auch eine iOS-Version veröffentlichen. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Klicke hier, um unsere längere Erklärung über Linux, Mac OS und iOS zu lesen.[/url]
 
 
 [table equalcells=1 noborder=1]
     [tr][td][/td][td][/td][td][img]{STEAM_CLAN_IMAGE}/26312799/c42514f38e70a8cab07f98f9263ba8a12b0a0c0c.gif[/img][/td][td][/td][td][/td][/tr]
 [/table]
 
-[h2]Feedback, Questions and Technical Support for Android[/h2]
-If you have any questions, suggestions or general feedback about the new Android app or if you run into any technical issues, be sure to post a message on the Android section of our Steam board:
+[h2]Feedback, Fragen und technische Unterstützung für Android[/h2]
+Falls du irgendwelche Fragen, Vorschläge oder sonstiges Feedback über die neue Android-App hast, oder falls bei dir technische Probleme auftreten, schreibe am besten eine Nachricht in der Android-Sektion unseres Steam-Boards:
 
-[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android App Discussions[/url][/list]
+[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android App-Diskussionen[/url][/list]
