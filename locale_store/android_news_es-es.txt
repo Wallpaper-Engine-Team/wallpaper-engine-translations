@@ -103,20 +103,20 @@ Windows 11 ignorará por completo a Wallpaper Engine si usas un tema de Windows 
 [h2]Lista de cambios[/h2]
 
 [h3]Novedades y cambios[/h3]
-[h4]Main App[/h4]
+[h4]Programa[/h4]
 [list]
-[*]Added Android support and released the new Wallpaper Engine Companion app for Android.
-[*]Added mobile collection to Discover tab.
-[*]Updated Wallpaper Engine logo, color theme, including app icons.
-[*]Added rounded corner support for Windows 11.
-[*]Added "day of week" playlist mode, limited to 7 wallpapers.
-[*]Re-arranged search filters, added new "mobile compatible" filter option.
-[*]Added "favorite" button when right-clicking on a wallpaper.
-[*]"Stop mode" now turns off automatically while wallpaper is being changed manually.
-[*]Improved user interface for configuring physics bones.
-[*]Increased automatic audio unmute delay from 3 to 5 seconds.
-[*]Added scheme color to "apply to all wallpapers" dialog.
-[*]Removed 12h / 24h clock option from playlist, now detected automatically depending on system settings.
+[*]Se ha añadido la compatibilidad con Android y ha llegado el lanzamiento de la aplicación de Wallpaper Engine para Android.
+[*]Se ha añadido la colección para dispositivos a la pestaña Descubrir.
+[*]Se han actualizado el logo de Wallpaper Engine y el color del tema, además de los iconos de la aplicación.
+[*]Se ha añadido la compatibilidad con bordes redondeados para Windows 11.
+[*]Se ha añadido la lista de reproducción semanal, que puede tener un máximo de 7 fondos.
+[*]Se han reorganizado los filtros de búsqueda y se ha añadido la opción Compatible con móvil.
+[*]Se ha añadido el botón Favorito al hacer clic en un fondo.
+[*]Ahora, el modo de parada se desactiva automáticamente mientras los fondos se cambian de forma manual.
+[*]Se ha mejorado la interfaz de usuario para configurar huesos físicos.
+[*]Se ha aumentado el retraso de la activación de sonido automática de 3 a 5 segundos.
+[*]Se ha añadido una combinación de colores al diálogo Aplicar a todos los fondos.
+[*]Se ha eliminado la opción de 12 y 24 horas de la lista de reproducción y ahora se detecta de forma automática en función de la configuración del sistema.
 [*]Added CLI applyProperties support to windowed wallpapers.
 [*]Improved app performance with new JSON parser.
 [*]Updated core application binaries to latest Visual Studio 2022 compiler and latest Win SDK.
