@@ -92,39 +92,39 @@ Abyste mohli plně využívat editoru tapet, doporučujeme vám nainstalovat na�
 [list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Hloubkový paralaxní efekt[/url] (K dispozici pouze v angličtině – strojový překlad ale poslouží dobře)[/list]
 [b]Co je důležité poznamenat:[/b] Pokud nechcete používat efekt v editoru jako takovém, nemusíte toto bezplatné DLC instalovat. Efekt bude na počítačích a mobilních zařízeních fungovat i v případě, že bezplatné DLC nenainstalujete.
 
-[h2]Weekday Playlists[/h2]
-A popular request that we have received over time was the way to configure one wallpaper per weekday. With this update, we are introducing a new weekday playlist. Simply add up to seven wallpapers to the playlist in the [b]Installed[/b] tab of Wallpaper Engine, then click on [b]Configure[/b] in the playlist section and select the [b]Day of Week[/b] option from there. You will also find the already existing playlist options there, such as the [b]Time of Day[/b] playlist type.
+[h2]Playlisty pro dny v týdnu[/h2]
+Častokrát jste nás žádali, abychom umožnili nakonfigurovat jednu tapetu pro každý den v týdnu. Spolu s touto aktualizací zavádíme nový playlist pro dny v týdnu. Jednoduše do playlistu na kartě [b]Nainstalované[/b] v aplikaci Wallpaper Engine přidejte až sedm tapet a pak v sekci playlist klikněte na [b]Konfigurovat[/b]. Zde pak vyberte možnost [b]Den v týdnu[/b]. Zde také najdete již existující možnosti pro playlist, například playlist typu [b]Denní doba[/b].
 
 [h2]Windows 11[/h2]
-Wallpaper Engine fully supports Windows 11, with this update, we are also adding support for the new rounded corners user interface design. If you are upgrading to Windows 11 and experience any issues with Wallpaper Engine, make sure to do a full re-installation of the latest graphics card drivers. Most Windows 11 users who reached out to us with issues were using outdated graphics card drivers.
+Wallpaper Engine plně podporuje systém Windows 11. S touto aplikací přidáváme také podporu pro uživatelské rozhraní se zaoblenými rohy. Pokud upgradujete na Windows 11 a budete mít s aplikaci Wallpaper Engine jakékoli problémy, nezapomeňte provést úplnou reinstalaci nejnovějších ovladačů grafické karty. Většina uživatelů Windows 11, kteří se na nás obrátili s problémy, používala zastaralé ovladače grafické karty.
 
-If you are using a Windows 11 theme with transparency, you will notice that Wallpaper Engine will be ignored by Windows 11. To fix this issue, simply enable the new [b]Override wallpaper[/b] option in the Wallpaper Engine settings. This will keep your Windows wallpaper in sync with your Wallpaper Engine wallpaper and fix any issues with transparency on Windows 11.
+Pokud používáte motiv Windows 11 s průhledností, pak dojde k situaci, že Windows 11 budou Wallpaper Engine ignorovat. Abyste tento problém napravili, jednoduše povolte novou možnost [b]Přepsat tapetu[/b] v nastavení aplikace Wallpaper Engine. Vaše tapeta Windows pak bude synchronizována s tapetou aplikace Wallpaper Engine. Tím dojde k opravě všech potíží s průhledností ve Windows 11.
 
-[h2]Changelog[/h2]
+[h2]Protokol změn[/h2]
 
-[h3]Additions / Changes[/h3]
-[h4]Main App[/h4]
+[h3]Přídavky / Změny[/h3]
+[h4]Hlavní aplikace[/h4]
 [list]
-[*]Added Android support and released the new Wallpaper Engine Companion app for Android.
-[*]Added mobile collection to Discover tab.
-[*]Updated Wallpaper Engine logo, color theme, including app icons.
-[*]Added rounded corner support for Windows 11.
-[*]Added "day of week" playlist mode, limited to 7 wallpapers.
-[*]Re-arranged search filters, added new "mobile compatible" filter option.
-[*]Added "favorite" button when right-clicking on a wallpaper.
-[*]"Stop mode" now turns off automatically while wallpaper is being changed manually.
-[*]Improved user interface for configuring physics bones.
-[*]Increased automatic audio unmute delay from 3 to 5 seconds.
-[*]Added scheme color to "apply to all wallpapers" dialog.
-[*]Removed 12h / 24h clock option from playlist, now detected automatically depending on system settings.
-[*]Added CLI applyProperties support to windowed wallpapers.
-[*]Improved app performance with new JSON parser.
-[*]Updated core application binaries to latest Visual Studio 2022 compiler and latest Win SDK.
-[*]Reduced occurrence of rare cursor flickering issue in CEF.
+[*]Byla přidána podpora pro systém Android a došlo k vydání nové verze doplňkové aplikace Wallpaper Engine pro Android.
+[*]Na kartu Objevovat byla přidána mobilní kolekce.
+[*]Bylo aktualizováno logo aplikace Wallpaper Engine, barevný motiv a také ikony aplikace.
+[*]Došlo k přidáno podpory zaoblených rohů pro Windows 11.
+[*]Přidán režim playlistu „Den v týdnu“ omezený na 7 tapet.
+[*]Přepracované filtry vyhledávání, přidána nová možnost filtru „kompatibilní s mobilem“.
+[*]Přidáno tlačítko „Oblíbené“ po kliknutí pravým tlačítkem myši na tapetu.
+[*]„Režim zastavení“ se nyní při ruční výměně tapety vypíná automaticky.
+[*]Vylepšené uživatelské rozhraní pro konfiguraci fyzických kostí.
+[*]Prodloužená prodleva automatického zrušení ztišení ze 3 na 5 sekund.
+[*]Přidáno barevné schéma do dialogu „použít na všechny tapety“.
+[*]Z playlistu byla odebrána možnost nastavení 12h / 24h hodinového systému, protože se toto nastavení automaticky bere z nastavení systému.
+[*]K tapetám v okně byla přidána podpora CLI applyProperties.
+[*]Vylepšený výkon aplikace díky nové analytické rutině JSON.
+[*]Aktualizovány spouštěcí soubory základní aplikace díky využití nejnovějšího kompilátoru Visual Studio 2022 a nejnovějších Win SDK.
+[*]Snížena míra výskytu vzácného problému s blikáním kurzoru v CEF.
 [/list]
-[h4]Wallpaper Editor[/h4]
+[h4]Editor tapet[/h4]
 [list]
-[*]Added new depth parallax effect.
+[*]Byl přidán nový hloubkový paralaxní efekt.
 [*]Added FREE editor extensions DLC for depth parallax effect. You only need this if you want to use it in the editor, users of your wallpapers do not need this DLC.
 [*]Added color picker tool to editor painting tools.
 [*]Improved support for rendering Chinese, Japanese, Korean and more characters in scene wallpapers text layers with new fonts.
