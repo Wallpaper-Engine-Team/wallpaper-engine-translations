@@ -17,7 +17,7 @@ Por fin ha llegado el lanzamiento de la [i]aplicación de Wallpaper Engine para 
 [*]Se pausa automáticamente al activar el modo de ahorro de energía, cuenta con ajustes de FPS y de calidad.
 [*]Compatible con visualizadores de audio dinámicos, relojes y otros elementos dinámicos del fondo de pantalla.
 [*]Permite que los fondos se muevan a la par que el movimiento del dispositivo [i](dispositivos con giroscopio)[/i].
-[*]Colores de tema automáticos basados en función del fondo de pantalla actual, incluido el [b]Material You[/b] de Android 12[/list].
+[*]Colores de tema automáticos en función del fondo de pantalla actual, incluido el [b]Material You[/b] de Android 12[/list].
 [table equalcells=1 noborder=1]
     [tr]
         [td][b]Fondos interactivos en tiempo real para Android[/b]
@@ -54,7 +54,7 @@ Por fin ha llegado el lanzamiento de la [i]aplicación de Wallpaper Engine para 
     [/tr]
 [/table]
 [h3]Descargar Wallpaper Engine para Android[/h3]
-Recomendamos instalar la aplicación a través de una tienda de aplicaciones oficial, pero también ofrecemos una descarga directa de la APK para los usuarios avanzados. Aquí puedes consultar nuestra página para ver las opciones de instalación:
+Te recomendamos instalar la aplicación a través de una tienda de aplicaciones oficial, pero también ofrecemos una descarga directa de la APK para los usuarios avanzados. Aquí puedes consultar nuestra página para ver las opciones de instalación:
 
 [list][*][h3][i][b][url=wallpaperengine.io/android]Descarga la aplicación de Wallpaper Engine para Android[/url][/b][/i][/h3][/list]
 [h3]Añadir más fondos a Android[/h3]
@@ -71,7 +71,7 @@ No se puede conectar a Workshop desde un dispositivo móvil desde un punto de vi
 [b]Si no puedes conectarte a Android.[/b] Haz clic con el botón derecho en cualquier fondo, selecciona [b]Enviar al dispositivo móvil[/b] y luego selecciona [b]Exportar .mpkg[/b]. A continuación, podrás transferir el archivo de paquete móvil exportado al dispositivo móvil por cable o con otro método de transferencia de tu elección.
 
 [list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Haz clic aquí para leer la guía de conexión con Android.[/url][/list]
-[i]Consejo. Puedes transferir carpetas o varios fondos de pantalla al mismo tiempo si manteniendo pulsada la tecla CTRL para hacer haces una selección múltiple. Al hacer clic en [b]CTRL + A[/b] en la pestaña [b]Instalados[/b], se seleccionan todos los fondos instalados y se pueden transferir todos a la vez.[/i]
+[i]Consejo. Puedes transferir carpetas o varios fondos de pantalla al mismo tiempo si mantienes pulsada la tecla CTRL para hacer una selección múltiple. Al hacer clic en [b]CTRL + A[/b] en la pestaña [b]Instalados[/b], se seleccionan todos los fondos instalados y se pueden transferir todos a la vez.[/i]
 
 [h2]Logo nuevo de Wallpaper Engine[/h2]
 Junto con el lanzamiento de la versión de Android de Wallpaper Engine, creímos que era el momento perfecto para actualizar nuestro logo. El logo antiguo era una pantalla de ordenador, cosa que no tiene mucho sentido en un dispositivo móvil. El lanzamiento de la versión 2.0 nos parecía el momento adecuado para hacerle un lavado de cara y nos encanta cómo ha quedado.
@@ -111,7 +111,7 @@ Windows 11 ignorará por completo a Wallpaper Engine si usas un tema de Windows 
 [*]Se ha añadido la compatibilidad con bordes redondeados para Windows 11.
 [*]Se ha añadido la lista de reproducción semanal, que puede tener un máximo de 7 fondos.
 [*]Se han reorganizado los filtros de búsqueda y se ha añadido la opción Compatible con móvil.
-[*]Se ha añadido el botón Favorito al hacer clic en un fondo.
+[*]Se ha añadido el botón Favorito al hacer clic derecho en un fondo.
 [*]Ahora, el modo de parada se desactiva automáticamente mientras los fondos se cambian de forma manual.
 [*]Se ha mejorado la interfaz de usuario para configurar huesos físicos.
 [*]Se ha aumentado el retraso de la activación de sonido automática de 3 a 5 segundos.
@@ -128,11 +128,11 @@ Windows 11 ignorará por completo a Wallpaper Engine si usas un tema de Windows 
 [*]Se han añadido extensiones GRATUITAS del editor para hacer uso del efecto de paralaje profundo. Solo lo necesitarás si quieres usar dicho efecto en el editor; los usuarios de tus fondos no lo necesitarán.
 [*]Se ha añadido la herramienta selector de color.
 [*]Se ha mejorado la compatibilidad de renderizado de los caracteres chinos, japoneses, coreanos, etc., en los fondos de escena con capas de texto gracias a unas fuentes nuevas.
-[*]Improved "Rope Renderer" for particle systems.
-[*]SceneScript: [i]init()[/i] and [i]update()[/i] function will now automatically convert numbers into vectors (Vec2, Vec3, Vec4) when they are returned. This helps to simplify some scripts.
-[*]SceneScript: Reviewed and improved all sample code snippets slightly.
-[*]SceneScript: Update reference URLs to [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url].
-[*]Made transparency cropping work with DXT compression in the editor.
+[*]Se ha mejorado el renderizado de cuerda de los sistemas de partículas.
+[*]SceneScript. Ahora las funciones [i]init()[/i] y [i]update()[/i] convertirán automáticamente los números en vectores (Vec2, Vec3, Vec4) cuando sean devueltos. Esto sirve para simplificar algunas secuencias de comandos.
+[*]SceneScript. Se han revisado y mejorado los fragmentos de código de muestra.
+[*]SceneScript. Se han actualizado las URL de referencia a la [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]documentación nueva de SceneScript[/url].
+[*]Ahora el recorte de transparencia funcionará con la compresión DXT en el editor.
 [/list]
 [h3]Soluciones de errores[/h3]
 [list]
@@ -141,7 +141,7 @@ Windows 11 ignorará por completo a Wallpaper Engine si usas un tema de Windows 
 [*]Se han arreglado ciertos ajustes de los filtros que provocaban que los fondos aparecieran dos veces en la pestaña de Instalados.
 [*]Se han solucionado problemas que provocaba que el programa se colgara debido a las texturas de vídeo.
 [*]Se ha solucionado el problema que causaba que los metadatos de JPEG EXIF no se aplicaran a las capas de imágenes. Si rotas imágenes con Windows, ahora también deberían aparecer rotadas en la aplicación.
-[*]Se ha solucionado el problema que provocaba que los colores del sistema de partículas no funcionen correctamente.
+[*]Se ha solucionado el problema que provocaba que los colores del sistema de partículas no funcionaran correctamente.
 [/list]
 
 [h2]Preguntas frecuentes de la aplicación de Android[/h2]
