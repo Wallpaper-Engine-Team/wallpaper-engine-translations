@@ -109,8 +109,8 @@ Falls du Windows 11 mit dem neuen transparenten Design verwendest, wirst du fest
 [*]Mobile Sammlung in den Reiter "Entdecken" hinzugefügt.
 [*]Aktualisierung des Logos von Wallpaper Engine und der App-Farben, inklusive des App-Icons.
 [*]Unterstützung für runde Ecken für Windows 11 hinzugefügt.
-[*]Added "day of week" playlist mode, limited to 7 wallpapers.
-[*]Re-arranged search filters, added new "mobile compatible" filter option.
+[*]Neue Modus für Wiedergabelisten: "Wochentag", limitiert auf 7 Hintergründe.
+[*]Neue Sortierung der Such-Filter, neuer Filter-Option für "mobile Kompatibilität" hinzugefügt.
 [*]Added "favorite" button when right-clicking on a wallpaper.
 [*]"Stop mode" now turns off automatically while wallpaper is being changed manually.
 [*]Improved user interface for configuring physics bones.
