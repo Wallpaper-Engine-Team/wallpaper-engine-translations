@@ -157,7 +157,7 @@ Android 應用程式免費，無隱藏費用、無應用程式內購買、無廣
 [h3]Wallpaper Engine 會消耗裝置的電池電量嗎？[/h3]
 不會，我們已廣泛將此應用程式最佳化，大多數現代裝置在日常使用中都不會明顯對電池壽命產生負面影響。
 
-我們在自己的裝置上使用此應用程式已達數月，而且平時都在使用，並未發現 Wallpaper Engine 有任何實質使用電池電量的狀況。 另一個應用程式在裝置上以全螢幕顯示時，以及裝置關機時，應用程式就自動暫停。 Battery saving mode will automatically pause your live wallpaper to reduce its impact on battery life even further. On top of that, you can also tweak the performance impact in the app settings by adjusting the FPS limit.
+我們在自己的裝置上使用此應用程式已達數月，而且平時都在使用，並未發現 Wallpaper Engine 有任何實質使用電池電量的狀況。 另一個應用程式在裝置上以全螢幕顯示時，以及裝置關機時，應用程式就自動暫停。 省電模式會使動態桌布自動暫停，進一步減少對電池壽命的影響。 On top of that, you can also tweak the performance impact in the app settings by adjusting the FPS limit.
 
 [h3]Do wallpapers also play sounds like on Windows?[/h3]
 No, all wallpapers are muted on Android. However, audio visualizers work as long as you grant the app the permission to record your device's audio.
