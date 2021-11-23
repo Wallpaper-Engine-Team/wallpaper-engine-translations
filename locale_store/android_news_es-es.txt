@@ -93,16 +93,16 @@ Para aprovechar al máximo el efecto en el editor de fondos, te recomendamos ins
 [b]Importante a tener en cuenta.[/b] No necesitas instalar el contenido descargable gratuito a menos que quieras usar el efecto en el editor. El efecto funcionará tanto en ordenadores como en dispositivos móviles aunque no tengas instalado el contenido.
 
 [h2]Listas de reproducción semanales[/h2]
-Una petición que hemos recibido en numerosas ocasiones era la posibilidad de configurar un fondo por cada día de la semana. Con esta actualización, llega una lista de reproducción nueva: la semanal. Simply add up to seven wallpapers to the playlist in the [b]Installed[/b] tab of Wallpaper Engine, then click on [b]Configure[/b] in the playlist section and select the [b]Day of Week[/b] option from there. You will also find the already existing playlist options there, such as the [b]Time of Day[/b] playlist type.
+Una petición que hemos recibido en numerosas ocasiones era la posibilidad de configurar un fondo por cada día de la semana. Con esta actualización, llega una lista de reproducción nueva: la semanal. Añade hasta siete fondos de pantalla a la lista de reproducción en la pestaña [b]Instalados[/b] de Wallpaper Engine, haz clic en [b]Configurar[/b] en la sección de la lista de reproducción y selecciona la opción [b]Semanal[/b]. En esa sección, también encontrarás las opciones predeterminadas, como las listas de reproducción por [b]Hora del día[/b].
 
 [h2]Windows 11[/h2]
-Wallpaper Engine fully supports Windows 11, with this update, we are also adding support for the new rounded corners user interface design. If you are upgrading to Windows 11 and experience any issues with Wallpaper Engine, make sure to do a full re-installation of the latest graphics card drivers. Most Windows 11 users who reached out to us with issues were using outdated graphics card drivers.
+Wallpaper Engine es compatible con Windows 11 y, con esta actualización, también será compatible con la interfaz de usuario nueva con bordes redondeados. Si vas a actualizar tu versión de Windows a Windows 11 y tienes algún problema con Wallpaper Engine, no te olvides de instalar los controladores de la tarjeta gráfica más recientes. La mayoría de los usuarios de Windows 11 que se han puesto en contacto con nosotros por los problemas que experimentaban tenían instalados controladores obsoletos.
 
-If you are using a Windows 11 theme with transparency, you will notice that Wallpaper Engine will be ignored by Windows 11. To fix this issue, simply enable the new [b]Override wallpaper[/b] option in the Wallpaper Engine settings. This will keep your Windows wallpaper in sync with your Wallpaper Engine wallpaper and fix any issues with transparency on Windows 11.
+Windows 11 ignorará por completo a Wallpaper Engine si usas un tema de Windows 11 con transparencia. Para solucionar este problema, basta con activar la nueva opción [b]Reemplazar imagen de fondo[/b] en la configuración de Wallpaper Engine. Así, el fondo de Windows se sincronizará con el fondo de Wallpaper Engine y solucionará cualquier problema de transparencia en Windows 11.
 
-[h2]Changelog[/h2]
+[h2]Lista de cambios[/h2]
 
-[h3]Additions / Changes[/h3]
+[h3]Novedades y cambios[/h3]
 [h4]Main App[/h4]
 [list]
 [*]Added Android support and released the new Wallpaper Engine Companion app for Android.
