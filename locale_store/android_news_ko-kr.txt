@@ -114,21 +114,21 @@ Windows 11 투명 테마를 사용하고 계실 경우, Windows 11이 Wallpaper 
 [*]배경화면을 오른쪽 클릭하면 “즐겨찾기” 버튼이 표시되도록 변경했습니다.
 [*]이제 배경화면을 수동으로 변경하는 동안 “정지 모드”가 자동으로 비활성화됩니다.
 [*]물리 뼈대 구성 UI를 개선했습니다.
-[*]Increased automatic audio unmute delay from 3 to 5 seconds.
-[*]Added scheme color to "apply to all wallpapers" dialog.
-[*]Removed 12h / 24h clock option from playlist, now detected automatically depending on system settings.
-[*]Added CLI applyProperties support to windowed wallpapers.
-[*]Improved app performance with new JSON parser.
-[*]Updated core application binaries to latest Visual Studio 2022 compiler and latest Win SDK.
-[*]Reduced occurrence of rare cursor flickering issue in CEF.
+[*]자동 음소거 해제 지연 시간이 3초에서 5초로 증가했습니다.
+[*]"모든 배경화면에 적용" 다이얼로그에 구성표 색을 추가했습니다.
+[*]재생목록에서 12시간 및 24시간 시계 옵션을 제거했으며, 이제 시스템 설정을 자동으로 감지합니다.
+[*]창 모드 배경화면에 CLI applyProperties 지원을 추가했습니다.
+[*]JSON 구문 분석을 새로 추가하여 응용 프로그램 성능을 개선하였습니다.
+[*]주요 응용 프로그램 바이너리를 최신 Visual Studio 2022 및 최신 Win SDK로 업데이트하였습니다.
+[*]CEF에서 드물게 커서가 깜빡이던 문제의 발생 빈도를 낮췄습니다.
 [/list]
-[h4]Wallpaper Editor[/h4]
+[h4]배경화면 편집기[/h4]
 [list]
-[*]Added new depth parallax effect.
-[*]Added FREE editor extensions DLC for depth parallax effect. You only need this if you want to use it in the editor, users of your wallpapers do not need this DLC.
-[*]Added color picker tool to editor painting tools.
-[*]Improved support for rendering Chinese, Japanese, Korean and more characters in scene wallpapers text layers with new fonts.
-[*]Improved "Rope Renderer" for particle systems.
+[*]깊이 시차 효과를 새로 추가했습니다.
+[*]깊이 시차 효과의 무료 편집기 확장 DLC를 추가했습니다. 이 DLC는 해당 기능을 편집기 내에서 사용하고자 할 때만 필요하며, 배경화면 사용자들에게는 필요하지 않습니다.
+[*]편집기 채색 도구에 색상 선택기 도구를 추가했습니다.
+[*]새로운 글꼴을 추가하여 장면 배경화면 텍스트 레이어에서의 중국어, 일본어, 한국어 등의 문자 렌더링 지원을 개선했습니다.
+[*]입자 시스템의 "로프 렌더러"를 개선했습니다.
 [*]SceneScript: [i]init()[/i] and [i]update()[/i] function will now automatically convert numbers into vectors (Vec2, Vec3, Vec4) when they are returned. This helps to simplify some scripts.
 [*]SceneScript: Reviewed and improved all sample code snippets slightly.
 [*]SceneScript: Update reference URLs to [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url].
