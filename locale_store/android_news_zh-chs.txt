@@ -118,14 +118,14 @@ Wallpaper Engine 完全支持 Windows 11，在本次更新中，我们还增加�
 [*]向“应用于所有壁纸”对话框添加了主题颜色。
 [*]从播放列表中移除了 12 小时/24 小时时钟选项，现在根据系统设置自动检测。
 [*]为窗口化壁纸添加了 CLI applyProperties 支持。
-[*]Improved app performance with new JSON parser.
-[*]Updated core application binaries to latest Visual Studio 2022 compiler and latest Win SDK.
-[*]Reduced occurrence of rare cursor flickering issue in CEF.
+[*]使用新的 JSON 解析器改进了应用程序性能。
+[*]将核心应用程序二进制文件更新为了最新 Visual Studio 2022 编译器和最新 Win SDK。
+[*]减少了 CEF 中罕见的光标闪烁问题的发生。
 [/list]
-[h4]Wallpaper Editor[/h4]
+[h4]壁纸编辑器[/h4]
 [list]
-[*]Added new depth parallax effect.
-[*]Added FREE editor extensions DLC for depth parallax effect. You only need this if you want to use it in the editor, users of your wallpapers do not need this DLC.
+[*]添加了全新深度视差效果。
+[*]添加了用于深度视差效果的免费编辑器扩展 DLC。 如果您想在编辑器中使用该效果，您只需要此 DLC，但您壁纸的用户不需要此 DLC。
 [*]Added color picker tool to editor painting tools.
 [*]Improved support for rendering Chinese, Japanese, Korean and more characters in scene wallpapers text layers with new fonts.
 [*]Improved "Rope Renderer" for particle systems.
