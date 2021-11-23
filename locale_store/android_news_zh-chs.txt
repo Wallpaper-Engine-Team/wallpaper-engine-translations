@@ -152,20 +152,20 @@ Android 应用程序完全免费，没有隐藏费用，没有应用程序内购
 [h3]可以直接从移动应用程序访问创意工坊吗？[/h3]
 不可以，由于技术和法律限制，无法从移动设备访问创意工坊。 我们构建了一种便利的方式来将您现有的壁纸合集从计算机传输到 Android。 我们竭尽全力让这个过程尽可能简便，在大多数情况下，您只需要确保移动设备和计算机连接到同一网络。 [url=https://help.wallpaperengine.io/mobile/pairing.html]单击此处了解更多。[/url]
 
-此外，您还可以直接从移动设备上存储的文件中导入任何兼容的壁纸文件。 Wallpaper Engine for Android also works well if you are simply looking for a way to turn any video files on your Android phone or tablet into your mobile wallpaper or if you want to use several static wallpapers in a playlist.
+此外，您还可以直接从移动设备上存储的文件中导入任何兼容的壁纸文件。 如果您只是想寻找一种方法将 Android 手机或平板电脑上的任何视频文件转换为手机壁纸，或者您想在播放列表中使用多个静态壁纸，那么 Android 版 Wallpaper Engine 也能有效发挥作用。
 
-[h3]Does Wallpaper Engine drain the battery of my devices?[/h3]
-No, we have optimized the app extensively and most modern devices will not notice a negative effect on battery life in day-to-day usage.
+[h3]Wallpaper Engine 会耗尽我设备的电池电量吗？[/h3]
+不会，我们已经广泛优化了应用程序，大多数现代设备在日常使用中不会注意到对电池寿命的负面影响。
 
-We have been using the app for months on our private devices now and on an average day and we have not seen any meaningful battery usage through Wallpaper Engine. The app automatically pauses when another app is full-screened on your device and when your device is turned off. Battery saving mode will automatically pause your live wallpaper to reduce its impact on battery life even further. On top of that, you can also tweak the performance impact in the app settings by adjusting the FPS limit.
+我们已经在我们的私人设备上使用该应用程序达数月之久，并且平均每天都在使用，我们还没有通过 Wallpaper Engine 看到任何有意义的电池使用情况。 当另一个应用程序在您的设备上全屏显示以及您的设备关闭时，该应用程序会自动暂停。 省电模式会自动暂停您的动态壁纸，以进一步减少其对电池寿命的影响。 除此之外，您还可以通过在应用程序设置中调整 FPS 限制来调整性能影响。
 
-[h3]Do wallpapers also play sounds like on Windows?[/h3]
-No, all wallpapers are muted on Android. However, audio visualizers work as long as you grant the app the permission to record your device's audio.
+[h3]壁纸也会像在 Windows 上一样播放声音吗？[/h3]
+不会，所有壁纸在 Android 上都是静音的。 但是，只要您授予应用程序录制设备音频的权限，音频可视化工具就可以工作。
 
-[h3]Can I set a wallpaper on my Android lock screen?[/h3]
-This depends on your device. Some Android manufacturers do not allow live wallpapers on the lock screen while some others do. If you are not offered the option to set a lock screen wallpaper, then your device manufacturer does not allow it.
+[h3]我能在 Android 锁屏上设置壁纸吗？[/h3]
+这取决于您的设备。 一些 Android 制造商不允许在锁屏上使用动态壁纸，而另一些制造商则允许。 如果没有为您提供设置锁屏壁纸的选项，则您的设备制造商不允许这样做。
 
-[h3]What about Wallpaper Engine on iOS for iPhones and iPads?[/h3]
+[h3]适用于 iPhone 和 iPad 的 iOS 版 Wallpaper Engine 呢？[/h3]
 Unfortunately, Apple's iOS does not support true live wallpapers like Android. It is not possible to create anything similar to Wallpaper Engine on iOS. If Apple ever changes their mind on this, we will likely also follow-up with an iOS version. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Click here to learn our lengthy explanation about Linux, Mac OS and iOS.[/url]
 
 
