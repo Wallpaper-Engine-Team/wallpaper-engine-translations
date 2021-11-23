@@ -1,14 +1,14 @@
 Wallpaper Engine 2.0：免費 Android 應用程式，享受新標誌、新功能、新體驗！
 
-Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增一款 3D 深度效果以及各式各樣功能，讓 Wallpaper Engine 更上層樓。
+Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增 3D 深度效果與各式各樣的功能，讓 Wallpaper Engine 更上層樓。
 
 免費 Android 應用程式
 
-大家好！我們今天推出 [b]Wallpaper Engine 2.0[/b] 了！ Wallpaper Engine 本次更新開始支援 Android，與新標誌共同亮相，新增一款 3D 深度效果以及各式各樣其他的功能，讓 Wallpaper Engine 更上層樓。
+大家好！我們今天推出 [b]Wallpaper Engine 2.0[/b] 了！ Wallpaper Engine 本次更新開始支援 Android，與新標誌共同亮相，新增 3D 深度效果以及其他各式各樣的功能，讓 Wallpaper Engine 更上層樓。
 
 [h2]Wallpaper Engine Android 版隨附應用程式[/h2]
 
-很開心在此宣布，終於推出[i][b]免費的[/b] Wallpaper Engine Android 版隨附應用程式[/i]。 部分關鍵功能如下：
+我們很開心在此宣布，終於推出[i][b]免費的[/b] Wallpaper Engine Android 版隨附應用程式[/i]。 部分關鍵功能如下：
 
 [list][*]j無隱藏費用、無廣告、無使用者追蹤功能、無資料收集機制。
 [*]將電腦上[b]場景[/b]及[b]視訊[/b]類型的 Wallpaper Engine 桌布無線傳輸至 Android。
@@ -16,7 +16,7 @@ Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增一款
 [*]建立桌布播放清單，使用不同的播放清單模式
 [*]省電模式啟用時自動暫停，可設定 FPS 及品質。
 [*]完全支援動態音訊可視化工具、時鐘及其他動態桌布元素
-[*]桌布沿著裝置動作移動 [i](裝設陀螺儀的裝置)[/i]
+[*]使桌布隨著裝置的動作移動 [i](裝設陀螺儀的裝置)[/i]
 [*]根據目前桌布支援自動主題色彩，包含 Android 12 的 [b]Material You[/b][/list]
 [table equalcells=1 noborder=1]
     [tr]
@@ -157,16 +157,16 @@ Android 應用程式免費，無隱藏費用、無應用程式內購買、無廣
 [h3]Wallpaper Engine 會消耗裝置的電池電量嗎？[/h3]
 不會，我們已廣泛將此應用程式最佳化，大多數現代裝置在日常使用中都不會明顯對電池壽命產生負面影響。
 
-我們在自己的裝置上使用此應用程式已達數月，而且平時都在使用，並未發現 Wallpaper Engine 有任何實質使用電池電量的狀況。 另一個應用程式在裝置上以全螢幕顯示時，以及裝置關機時，應用程式就自動暫停。 省電模式會使動態桌布自動暫停，進一步減少對電池壽命的影響。 On top of that, you can also tweak the performance impact in the app settings by adjusting the FPS limit.
+我們在自己的裝置上使用此應用程式已達數月，而且平時都在使用，並未發現 Wallpaper Engine 有任何實質使用電池電量的狀況。 另一個應用程式在裝置上以全螢幕顯示時，以及裝置關機時，應用程式就自動暫停。 省電模式會使動態桌布自動暫停，進一步減少對電池壽命的影響。 除此之外，您也可以在應用程式設定中調整 FPS 上限，以利調節效能影響。
 
-[h3]Do wallpapers also play sounds like on Windows?[/h3]
-No, all wallpapers are muted on Android. However, audio visualizers work as long as you grant the app the permission to record your device's audio.
+[h3]桌布也會像在 Windows 上一樣可以播放聲音嗎？[/h3]
+不會，Android 上所有桌布都是靜音。 然而，只要您准許應用程式錄製裝置音訊，音頻可視化工具即可運作。
 
-[h3]Can I set a wallpaper on my Android lock screen?[/h3]
-This depends on your device. Some Android manufacturers do not allow live wallpapers on the lock screen while some others do. If you are not offered the option to set a lock screen wallpaper, then your device manufacturer does not allow it.
+[h3]我可否在 Android 鎖定畫面上設定桌布？[/h3]
+這要看您的裝置， 部分 Android 製造商不允許鎖定畫面出現動態桌布。 如果裝置上沒有設定鎖定畫面桌布的選項，表示裝置製造商並不允許。
 
-[h3]What about Wallpaper Engine on iOS for iPhones and iPads?[/h3]
-Unfortunately, Apple's iOS does not support true live wallpapers like Android. It is not possible to create anything similar to Wallpaper Engine on iOS. If Apple ever changes their mind on this, we will likely also follow-up with an iOS version. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Click here to learn our lengthy explanation about Linux, Mac OS and iOS.[/url]
+[h3]是否會推出適用於 iPhone 和 iPad 的 iOS 版 Wallpaper Engine？[/h3]
+很可惜，Apple 的 iOS 並不像 Android 可以支援真正的動態桌布， 因此無法在 iOS 上打造任何類似 Wallpaper Engine 的內容。 如果 Apple 改變主意，我們可能會跟進推出 iOS 版。 [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]按一下此處可見詳盡說明，了解我們為何尚未規劃推出 Linux、Mac OS 及 iOS 版。[/url]
 
 
 [table equalcells=1 noborder=1]
