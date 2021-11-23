@@ -87,7 +87,7 @@ Ein größeres neues Feature im Editor von Wallpaper Engine ist unser neuer Tief
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
-Um den Effekt vollständig im Hintergrund-Editor zu nutzen, empfehlen wir unseren [b][i]kostenlosen[/i][/b] [i]DLC für Editor-Erweitungen[/i] zu installieren. Wir haben uns dazu entschieden, dieses Editor-Feature in einen optionalen DLC auszulagern, da die Features einen Download mit mehreren Gigabyte an Größe voraussetzt. When first using the effect in the editor, Wallpaper Engine will ask you to install the DLC for you. For more infos, see our full guide on how to install and use the depth parallax effect in the editor:
+Um den Effekt vollständig im Hintergrund-Editor zu nutzen, empfehlen wir unseren [b][i]kostenlosen[/i][/b] [i]DLC für Editor-Erweitungen[/i] zu installieren. Wir haben uns dazu entschieden, dieses Editor-Feature in einen optionalen DLC auszulagern, da die Features einen Download mit mehreren Gigabyte an Größe voraussetzt. Wenn der Effekt zum ersten mal im Editor benutzt wird, fragt Wallpaper Engine dich danach, ob es den DLC für dich installieren soll. For more infos, see our full guide on how to install and use the depth parallax effect in the editor:
 
 [list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Depth Parallax[/url] (Only available in English right now - machine translation works well)[/list]
 [b]It's important to note:[/b] You do not need to install the free DLC unless you want to use the effect in the editor yourself - the effect will still work on computers and mobile devices even if the free DLC is not installed.
