@@ -126,15 +126,15 @@ Wallpaper Engine 完全支持 Windows 11，在本次更新中，我们还增加�
 [list]
 [*]添加了全新深度视差效果。
 [*]添加了用于深度视差效果的免费编辑器扩展 DLC。 如果您想在编辑器中使用该效果，您只需要此 DLC，但您壁纸的用户不需要此 DLC。
-[*]Added color picker tool to editor painting tools.
-[*]Improved support for rendering Chinese, Japanese, Korean and more characters in scene wallpapers text layers with new fonts.
-[*]Improved "Rope Renderer" for particle systems.
-[*]SceneScript: [i]init()[/i] and [i]update()[/i] function will now automatically convert numbers into vectors (Vec2, Vec3, Vec4) when they are returned. This helps to simplify some scripts.
-[*]SceneScript: Reviewed and improved all sample code snippets slightly.
-[*]SceneScript: Update reference URLs to [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url].
-[*]Made transparency cropping work with DXT compression in the editor.
+[*]为编辑器绘制工具添加了拾色器工具。
+[*]改进了对使用新字体在场景壁纸文本层中渲染中文、日语、韩语和更多字符的支持。
+[*]改进了粒子系统的“绳索渲染器”。
+[*]SceneScript：[i]init()[/i] 和 [i]update()[/i] 函数现在会在返回数字时自动将数字转换为向量（Vec2、Vec3、Vec4）。 这有助于简化一些脚本。
+[*]SceneScript：稍微审查和改进了所有示例代码片段。
+[*]SceneScript：将参考 URL 更新为[url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]新的 SceneScript 文档[/url]。
+[*]在编辑器中使用 DXT 压缩进行透明度裁剪。
 [/list]
-[h3]Bug Fixes[/h3]
+[h3]错误修复[/h3]
 [list]
 [*]Fixed "High Performance" option for the texture resolution settings breaking a low number of wallpapers.
 [*]Fixed editor crashing when importing textures with resolutions below the minimum required size.
