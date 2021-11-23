@@ -96,24 +96,24 @@ Wallpaper Engine 편집기의 주요 추가 사항 중 하나는 깊이 시차 �
 지금까지 많은 분들이 요일마다 배경화면을 설정할 수 있는 기능을 요청하셨습니다. 이번 업데이트에서는 새로운 요일 재생 목록을 소개하고자 합니다. Wallpaper Engine의 [b]설치됨[/b] 탭에서 최대 7개의 배경화면을 재생목록에 추가한 후, 재생목록 섹션의 [b]구성[/b]을 클릭하고 [b]요일[/b] 옵션을 선택하세요. [b]시각[/b] 재생목록 유형 등 기존의 재생목록 옵션도 그곳에서 확인하실 수 있습니다.
 
 [h2]Windows 11[/h2]
-Wallpaper Engine은 Windows 11을 완전 지원하며, 이번 업데이트부터 새로운 둥근 모서리 UI 디자인을 지원합니다. Windows 11로 업그레이드하면서 Wallpaper Engine에 문제가 발생할 경우, 최신 그래픽 카드 드라이버를 완전히 재설치하세요. Most Windows 11 users who reached out to us with issues were using outdated graphics card drivers.
+Wallpaper Engine은 Windows 11을 완전 지원하며, 이번 업데이트부터 새로운 둥근 모서리 UI 디자인을 지원합니다. Windows 11로 업그레이드하면서 Wallpaper Engine에 문제가 발생할 경우, 최신 그래픽 카드 드라이버를 완전히 재설치하세요. 문의해주신 Windows 11 사용자분들은 대부분 예전 버전의 그래픽 카드 드라이버를 사용 중이셨습니다.
 
-If you are using a Windows 11 theme with transparency, you will notice that Wallpaper Engine will be ignored by Windows 11. To fix this issue, simply enable the new [b]Override wallpaper[/b] option in the Wallpaper Engine settings. This will keep your Windows wallpaper in sync with your Wallpaper Engine wallpaper and fix any issues with transparency on Windows 11.
+Windows 11 투명 테마를 사용하고 계실 경우, Windows 11이 Wallpaper Engine을 무시할 것입니다. 이 문제를 해결하려면 Wallpaper Engine 설정에서 새로 추가된 [b]배경화면 오버라이드[/b] 옵션을 사용하세요. 그러면 Windows 배경화면이 Wallpaper Engine의 배경화면과 동기화되어, Windows 11 투명 테마와 관련된 문제가 해결될 것입니다.
 
-[h2]Changelog[/h2]
+[h2]변경 로그[/h2]
 
-[h3]Additions / Changes[/h3]
-[h4]Main App[/h4]
+[h3]추가 및 변경 사항[/h3]
+[h4]메인 응용 프로그램[/h4]
 [list]
-[*]Added Android support and released the new Wallpaper Engine Companion app for Android.
-[*]Added mobile collection to Discover tab.
-[*]Updated Wallpaper Engine logo, color theme, including app icons.
-[*]Added rounded corner support for Windows 11.
-[*]Added "day of week" playlist mode, limited to 7 wallpapers.
-[*]Re-arranged search filters, added new "mobile compatible" filter option.
-[*]Added "favorite" button when right-clicking on a wallpaper.
-[*]"Stop mode" now turns off automatically while wallpaper is being changed manually.
-[*]Improved user interface for configuring physics bones.
+[*]Android 지원을 추가하고 Android Wallpaper Engine 보조 앱을 출시했습니다.
+[*]검색 탭에 모바일 컬렉션을 추가했습니다.
+[*]응용 프로그램 아이콘을 포함하여 Wallpaper Engine 로고 및 색상 테마를 업데이트했습니다.
+[*]Windows 11의 둥근 모서리 지원을 추가했습니다.
+[*] 최대 7개의 배경화면을 포함할 수 있는 "요일" 재생목록을 추가했습니다.
+[*]검색 필터의 순서를 변경하고 “모바일 호환” 필터 옵션을 새로 추가했습니다.
+[*]배경화면을 오른쪽 클릭하면 “즐겨찾기” 버튼이 표시되도록 변경했습니다.
+[*]이제 배경화면을 수동으로 변경하는 동안 “정지 모드”가 자동으로 비활성화됩니다.
+[*]물리 뼈대 구성 UI를 개선했습니다.
 [*]Increased automatic audio unmute delay from 3 to 5 seconds.
 [*]Added scheme color to "apply to all wallpapers" dialog.
 [*]Removed 12h / 24h clock option from playlist, now detected automatically depending on system settings.
