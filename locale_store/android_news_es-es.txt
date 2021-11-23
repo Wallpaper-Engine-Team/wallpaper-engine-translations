@@ -136,28 +136,28 @@ Windows 11 ignorará por completo a Wallpaper Engine si usas un tema de Windows 
 [/list]
 [h3]Soluciones de errores[/h3]
 [list]
-[*]Fixed "High Performance" option for the texture resolution settings breaking a low number of wallpapers.
-[*]Fixed editor crashing when importing textures with resolutions below the minimum required size.
-[*]Fixed certain filter settings causing wallpapers to show up twice in the "installed" tab.
-[*]Fixed crash related to video textures.
-[*]Fixed JPEG EXIF meta data sometimes not being applied on image layers. If you rotate images with Windows, they should now also appear rotated in the app properly.
-[*]Fixed issue with particle system colors not working properly.
+[*]Se ha arreglado la opción Alto rendimiento en los ajustes de la resolución de texturas, que causaba problemas a una cantidad reducida de fondos.
+[*]Se ha solucionado el problema que provocaba que el editor se colgara al importar texturas con resoluciones inferiores al tamaño mínimo necesario.
+[*]Se han arreglado ciertos ajustes de los filtros que provocaban que los fondos aparecieran dos veces en la pestaña de Instalados.
+[*]Se han solucionado problemas que provocaba que el programa se colgara debido a las texturas de vídeo.
+[*]Se ha solucionado el problema que causaba que los metadatos de JPEG EXIF no se aplicaran a las capas de imágenes. Si rotas imágenes con Windows, ahora también deberían aparecer rotadas en la aplicación.
+[*]Se ha solucionado el problema que provocaba que los colores del sistema de partículas no funcionen correctamente.
 [/list]
 
-[h2]Frequent Questions About The Android App[/h2]
+[h2]Preguntas frecuentes de la aplicación de Android[/h2]
 
-[h3]How much does the Android app cost?[/h3]
-The Android app is free of charge, there are no hidden costs, no in-app purchases and no advertisements. It can also be used as a standalone app without owning Wallpaper Engine on your computer and import compatible wallpaper files from your mobile device.
+[h3]¿Cuánto cuesta la aplicación de Android?[/h3]
+La aplicación de Android es gratuita, no tiene cargos ocultos, compras en la aplicación ni anuncios. Puedes utilizarla aunque no tengas Wallpaper Engine en el ordenador para importar archivos de fondo compatibles desde tu dispositivo móvil.
 
-[h3]Can the Workshop be accessed directly from the Mobile App?[/h3]
-No, the Workshop cannot be accessed from mobile devices due to technical and legal restrictions. We built a convenient way to transfer your existing collection of wallpapers from your computer to Android. We tried to make this process as easy and simple as possible, in most cases you just need to make sure your mobile device and your computer are connected to the same network. [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to learn more.[/url]
+[h3]¿Se puede acceder a Workshop desde la aplicación móvil?[/h3]
+No, no se puede acceder a Workshop desde los dispositivos móviles debido a restricciones técnicas y legales. Hemos creado una forma muy práctica para transferir tu colección de fondos desde el ordenador al dispositivo Android. Queríamos que el proceso fuera fácil y sencillo, así que en la mayoría de los casos solo tienes que asegurarte de que tanto el ordenador como el dispositivo móvil estén conectados a la misma red. [url=https://help.wallpaperengine.io/mobile/pairing.html]Haz clic aquí para ver más información.[/url]
 
-Additionally, you can also just directly import any compatible wallpaper files from the files stored on your mobile device. Wallpaper Engine for Android also works well if you are simply looking for a way to turn any video files on your Android phone or tablet into your mobile wallpaper or if you want to use several static wallpapers in a playlist.
+Además, puedes importar directamente cualquier archivo de fondo compatible que tengas guardado en el dispositivo móvil. Wallpaper Engine para Android también funciona bien si quieres una forma de convertir cualquier archivo de vídeo de tu teléfono o tableta Android en un fondo de pantalla o si quieres utilizar varios fondos de pantalla estáticos en una lista de reproducción.
 
-[h3]Does Wallpaper Engine drain the battery of my devices?[/h3]
-No, we have optimized the app extensively and most modern devices will not notice a negative effect on battery life in day-to-day usage.
+[h3]¿Wallpaper Engine consume mucha batería del dispositivo?[/h3]
+No, hemos optimizado la aplicación y la mayoría de dispositivos modernos no notarán un efecto negativo en la duración de la batería con el uso cotidiano.
 
-We have been using the app for months on our private devices now and on an average day and we have not seen any meaningful battery usage through Wallpaper Engine. The app automatically pauses when another app is full-screened on your device and when your device is turned off. Battery saving mode will automatically pause your live wallpaper to reduce its impact on battery life even further. On top of that, you can also tweak the performance impact in the app settings by adjusting the FPS limit.
+Hemos estado utilizando la aplicación durante meses en nuestros dispositivos personales y no ha habido ningún día en el que Wallpaper Engine haya consumido demasiada batería. La aplicación se pausa de forma automática al usar otra aplicación en pantalla completa y también al apagar el dispositivo. Battery saving mode will automatically pause your live wallpaper to reduce its impact on battery life even further. On top of that, you can also tweak the performance impact in the app settings by adjusting the FPS limit.
 
 [h3]Do wallpapers also play sounds like on Windows?[/h3]
 No, all wallpapers are muted on Android. However, audio visualizers work as long as you grant the app the permission to record your device's audio.
