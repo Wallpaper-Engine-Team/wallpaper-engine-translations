@@ -74,23 +74,23 @@ Přímé připojení k Workshopu z mobilního zařízení není možné z techni
 [i]Tip: Lze přenést i více souborů nebo tapet najednou tím, že je vyberete s přidrženou klávesou CTRL. Když stisknete [b]CTRL + A[/b] ve složce s [b]instalací[/b], vyberou se všechny nainstalované tapety, které pak můžete všechny zároveň přenést.[/i]
 
 [h2]Nové logo aplikace Wallpaper Engine[/h2]
-Along with the release of the Android version of Wallpaper Engine, we felt it was time to update our logo. The old logo mainly consisted of a computer screen - which does not make much sense on a mobile device. A major release 2.0 release felt like the best time to try something new and we are very happy with the outcome.
+Vzhledem k vydání verze aplikace Wallpaper Engine pro Android jsme dospěli k závěru, že je čas aktualizovat i naše logo. Staré logo bylo tvořeno hlavně počítačovou obrazovkou, což na mobilním zařízení nedává moc velký smysl. Vydání hlavní verze 2.0 nám připadalo jako skvělý čas vyzkoušet něco nového. S výsledkem jsme opravdu spokojeni.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/1f283ac68453f6bf3beb36c1fd49ebbe680685a0.png[/img]
 
-We have experimented a lot with different designs and settled on a new logo which keeps the spirit of the old design, but with a more modern spin. With Wallpaper Engine 2.0, you will find the new logo throughout the application, in Windows and on our websites:
+Experimentovali jsme s různými návrhy a rozhodli se pro nové logo, které vychází ze starého designu, ale přidává mu moderní pojetí. Ve Wallpaper Engine 2.0 najdete nové logo napříč celou aplikaci, ve Windows i na našich webech:
 
 [img]{STEAM_CLAN_IMAGE}/26312799/ecb522ad46fedd9502a715ae38937246172dfcbe.png[/img]
 
-[h2]New Depth Parallax Effect[/h2]
-A major new addition to the Wallpaper Engine editor is our new Depth Parallax effect. This effect will allow you to create a perceived 3D depth to your images. On computers, the effect is influenced by the mouse while on Android, the movement of the phone will simulate the mouse movement.
+[h2]Nový hloubkový paralaxní efekt[/h2]
+Velkou novinkou editoru Wallpaper Engine je náš nový hloubkový paralaxní efekt. Tento efekt vám dovolí přidat do vašich obrázků dojem 3D hloubky. Na počítačích se efekt ovládá myší, na systému Android se pohyb myši simuluje pohybem telefonu.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
-To make full-use of the effect in the wallpaper editor, we recommend installing our new [b][i]free[/i][/b] [i]Editor Extensions DLC[/i]. We decided to separate this particular editor feature into an optional DLC because the features requires a download which is several gigabytes in size. When first using the effect in the editor, Wallpaper Engine will ask you to install the DLC for you. For more infos, see our full guide on how to install and use the depth parallax effect in the editor:
+Abyste mohli plně využívat editoru tapet, doporučujeme vám nainstalovat naše nová [b][i]bezplatná[/i][/b] [i]DLC rozšíření editoru[/i]. Rozhodli jsme se tyto funkce editoru vyčlenit do volitelného balíčku DLC, protože je kvůli nim nutné stahovat několik gigabytů dat. Aplikace Wallpaper Engine vás k instalaci balíčku DLC vyzve při prvním využití tohoto efektu v editoru. Další informace k instalaci a používání hloubkového paralaxního efektu v editoru najdete v našem úplném průvodci:
 
-[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Depth Parallax[/url] (Only available in English right now - machine translation works well)[/list]
-[b]It's important to note:[/b] You do not need to install the free DLC unless you want to use the effect in the editor yourself - the effect will still work on computers and mobile devices even if the free DLC is not installed.
+[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Hloubkový paralaxní efekt[/url] (K dispozici pouze v angličtině – strojový překlad ale poslouží dobře)[/list]
+[b]Co je důležité poznamenat:[/b] Pokud nechcete používat efekt v editoru jako takovém, nemusíte toto bezplatné DLC instalovat. Efekt bude na počítačích a mobilních zařízeních fungovat i v případě, že bezplatné DLC nenainstalujete.
 
 [h2]Weekday Playlists[/h2]
 A popular request that we have received over time was the way to configure one wallpaper per weekday. With this update, we are introducing a new weekday playlist. Simply add up to seven wallpapers to the playlist in the [b]Installed[/b] tab of Wallpaper Engine, then click on [b]Configure[/b] in the playlist section and select the [b]Day of Week[/b] option from there. You will also find the already existing playlist options there, such as the [b]Time of Day[/b] playlist type.
