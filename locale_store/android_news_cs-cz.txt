@@ -44,36 +44,36 @@ Jsme rádi, že můžeme konečně vydat [i][b]bezplatnou[/b] doplňkovou aplika
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Customize the app by configuring playlists, performance settings and more[/b]
+        [td][b]Upravte si aplikaci konfigurací playlistů, výkonnostních nastavení a dalších prvků[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/a609a043455539f48a87e7d692a4eea9722ff9d1.gif[/img]
 [/td]
-        [td][b]Wirelessly transfer your Workshop wallpapers from your computer[/b]
+        [td][b]Přenášejte si bezdrátově své tapety z Workshopu z vašeho počítače[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/f8f24e382022472d8972af5f3dbd73f2556cdfdc.gif[/img][/td]
     [/tr]
 [/table]
-[h3]Download Wallpaper Engine for Android[/h3]
-We recommend installing the app through an official app store, however, we also offer a direct APK download for more advanced users. View our website for all installation options here:
+[h3]Stáhněte si Wallpaper Engine pro Android[/h3]
+Aplikaci doporučujeme instalovat prostřednictvím oficiálního obchodu s aplikacemi, ale nabízíme také přímé stažení souboru APK pro pokročilejší uživatele. Všechny možnosti instalace najdete na našem webu:
 
-[list][*][h3][i][b][url=wallpaperengine.io/android]Download the Wallpaper Engine Android Companion App[/url][/b][/i][/h3][/list]
-[h3]Adding new Wallpapers to Android[/h3]
-Directly connecting to the Workshop from a mobile device is not possible from a technical and legal point of view. However, we built a convenient system that allows owners of Wallpaper Engine on Windows to transfer their wallpapers to Android devices with ease:
+[list][*][h3][i][b][url=wallpaperengine.io/android]Stáhněte si doprovodnou aplikaci Wallpaper Engine pro Android[/url][/b][/i][/h3][/list]
+[h3]Přidávání nových wallpaperů pro Android[/h3]
+Přímé připojení k Workshopu z mobilního zařízení není možné z technických a právních důvodů. Vytvořili jsme ale pohodlný systém, který umožňuje vlastníkům aplikace Wallpaper Engine v systému Windows snadno přenést tapety na zařízení se systémem Android:
 
-[b]Step 1:[/b] Click on the new [b]Mobile[/b] button in Wallpaper Engine on Windows, then select [b]Connect new device[/b]. Wallpaper Engine will show you a 4 digit PIN that you can use to connect to your mobile device now.
+[b]Krok 1:[/b] Klikněte na nové tlačítko [b]Mobil[/b] v aplikaci Wallpaper Engine ve Windows, pak vyberte možnost [b]Připojit nové zařízení[/b]. Wallpaper Engine zobrazí 4místný kód PIN, který, který můžete použít k okamžitému připojení vašeho mobilního zařízení.
 
-[b]Step 2:[/b] Open Wallpaper Engine on your Android device and click on the [b]Add[/b] button in the lower right corner. Select [b]Pair with Computer[/b], your computer should now be visible in the device list. Select it and enter the 4 digit PIN from step 1.
+[b]Krok 2:[/b] Otevřete Wallpaper Engine na vašem zařízení se systémem Android a klikněte na tlačítko [b]Přidat[/b] v pravém dolním rohu. Vyberte možnost [b]Párovat s počítačem[/b]. Váš počítač by pak měl být uveden ve vašem seznamu zařízení. Vyberte jej a zadejte 4místný kód PIN z kroku 1.
 
-[b]Step 3:[/b] Your devices should now be connected. Right-click on any compatible wallpaper and click on [b]Send to mobile device[/b], then select your mobile device from the list. Your wallpaper will now be transferred.
+[b]Krok 3:[/b] Vaše zařízení by teď měla být připojena. Klikněte pravým tlačítkem na kompatibilní tapetu a pak klikněte na [b]Odeslat do mobilního zařízení[/b]. Poté vyberte v seznamu mobilní zařízení. Vaše tapeta se nyní přenese.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/0fc8bc609bd7d959fa87fe7f90e3f1612ba67cd1.gif[/img]
 
-[b]If you are unable to connect to Android:[/b] Right-click on any wallpaper and select [b]Send to mobile device[/b], then select [b]Export .mpkg[/b]. You can then transfer the exported mobile package file to your mobile device via cable or by transferring it to your mobile device in another way.
+[b]Pokud se nemůžete připojit k systému Android:[/b] Klikněte pravým tlačítkem na jakoukoli tapetu a vyberte možnost [b]Odeslat do mobilního zařízení[/b], pak vyberte [b]Exportovat .mpkg[/b]. Exportovaný soubor mobilního balíčku pak můžete přenést na své mobilní zařízení přes kabel, nebo jiným způsobem přenosu.
 
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to read our Android connection guide.[/url][/list]
-[i]Tip: You can also transfer folders or multiple wallpapers at the same time by multi-selecting them by holding the CTRL key. Clicking [b]CTRL + A[/b] in the [b]Installed[/b] tab selects all installed wallpapers and lets you transfer them all at the same time.[/i]
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Klikněte sem a přečtěte si našeho průvodce připojením systému Android.[/url][/list]
+[i]Tip: Lze přenést i více souborů nebo tapet najednou tím, že je vyberete s přidrženou klávesou CTRL. Když stisknete [b]CTRL + A[/b] ve složce s [b]instalací[/b], vyberou se všechny nainstalované tapety, které pak můžete všechny zároveň přenést.[/i]
 
-[h2]New Wallpaper Engine Logo[/h2]
+[h2]Nové logo aplikace Wallpaper Engine[/h2]
 Along with the release of the Android version of Wallpaper Engine, we felt it was time to update our logo. The old logo mainly consisted of a computer screen - which does not make much sense on a mobile device. A major release 2.0 release felt like the best time to try something new and we are very happy with the outcome.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/1f283ac68453f6bf3beb36c1fd49ebbe680685a0.png[/img]
