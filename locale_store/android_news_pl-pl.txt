@@ -60,7 +60,7 @@ Zalecamy instalację aplikacji przez oficjalny sklep, jednak zaawansowani użytk
 [h3]Dodawanie nowych tapet na urządzenia z systemem Android[/h3]
 Bezpośrednie połączenie Warsztatu i urządzenia mobilnego nie jest możliwe ze względów technicznych oraz prawnych. Dlatego zbudowaliśmy wygodny system, który umożliwia posiadaczom programu Wallpaper Engine na systemy Windows łatwe bezpośrednie przesyłanie tapet na urządzenia z systemem Android:
 
-[b]Krok 1:[/b] kliknij nowy przycisk [b]Urządzenia mobilne[/b] w programie Wallpaper Engine na systemy Windows, a następnie wybierz opcję [b]Połącz nowe urządzenie mobilne[/b]. Wallpaper Engine wyświetli czterocyfrowy kod, za pomocą którego podłączysz urządzenie mobilne.
+[b]Krok 1:[/b] kliknij nowy przycisk [b]Urządzenia mobilne[/b] w programie Wallpaper Engine na systemy Windows, a następnie wybierz opcję [b]Połącz nowe urządzenie[/b]. Program Wallpaper Engine wyświetli czterocyfrowy kod, za pomocą którego podłączysz urządzenie mobilne.
 
 [b]Krok 2:[/b] otwórz aplikację Wallpaper Engine na urządzeniu z systemem Android i kliknij przycisk [b]Dodaj[/b] w prawym dolnym rogu. Wybierz opcję [b]Sparuj z komputerem[/b], Twój komputer powinien być teraz widoczny na liście urządzeń. Wybierz swój komputer i wprowadź czterocyfrowy kod z kroku pierwszego.
 
@@ -68,13 +68,13 @@ Bezpośrednie połączenie Warsztatu i urządzenia mobilnego nie jest możliwe z
 
 [img]{STEAM_CLAN_IMAGE}/26312799/0fc8bc609bd7d959fa87fe7f90e3f1612ba67cd1.gif[/img]
 
-[b]Jeśli nie możesz połączyć się z urządzeniem z systemem Android:[/b] kliknij prawym przyciskiem myszy dowolną tapetę i wybierz [b]Wyślij na urządzenie mobilne[/b], następnie wybierz opcję [b]Wyeksportuj .mpkg[/b]. Następnie prześlij wyeksportowaną paczkę plików na urządzenie mobilne, używając kabla lub prześlij ją w inny sposób.
+[b]Jeśli nie możesz połączyć się z urządzeniem z systemem Android:[/b] kliknij prawym przyciskiem myszy dowolną tapetę i wybierz [b]Wyślij na urządzenie mobilne[/b], następnie wybierz opcję [b]Wyeksportuj .mpkg[/b]. Następnie prześlij wyeksportowaną paczkę plików na urządzenie mobilne, używając kabla lub w inny sposób.
 
 [list][*][url=https://help.wallpaperengine.io/mobile/pairing.html]Kliknij tutaj, aby przeczytać nasz poradnik parowania urządzeń z systemem Android.[/url][/list]
-[i]Wskazówka: możesz przesyłać foldery lub wiele tapet na raz, wybierając ich kilka jednocześnie przez przytrzymanie klawisza CTRL. Prześlij wszystkie zainstalowane tapety na raz, wybierając je wszystkie, używając kombinacji klawiszy [b]CTRL + A[/b] w zakładce [b]Zainstalowane[/b].[/i]
+[i]Wskazówka: możesz przesyłać foldery lub wiele tapet na raz. W tym celu przytrzymaj klawisz CTRL i wybierz kilka tapet. Jeżeli skorzystasz z kombinacji klawiszy [b]CTRL + A[/b] w zakładce [b]Zainstalowane[/b], wybierzesz wszystkie zainstalowane tapety. Teraz możesz przesłać je na urządzenie jednocześnie.[/i]
 
-[h2]Nowe logo Wallpaper Engine[/h2]
-Przy okazji premiery wersji Wallpaper Engine na urządzenia z systemem Android, poczuliśmy, że to najwyższy czas odświeżyć nasze logo. Stare logo składało się głównie z ekranu komputera, co nie ma za bardzo sensu w przypadku urządzeń mobilnych. Wielka premiera wersji 2.0 wydała nam się idealnym momentem, aby wypróbować coś nowego i jesteśmy bardzo zadowoleni z otrzymanego efektu.
+[h2]Nowe logo programu Wallpaper Engine[/h2]
+Przy okazji premiery wersji programu Wallpaper Engine na urządzenia z systemem Android poczuliśmy, że najwyższy czas odświeżyć nasze logo. Stare logo składało się głównie z ekranu komputera, co nie ma za bardzo sensu w przypadku urządzeń mobilnych. Wielka premiera wersji 2.0 wydała nam się idealnym momentem, aby wypróbować coś nowego i jesteśmy bardzo zadowoleni z otrzymanego efektu.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/1f283ac68453f6bf3beb36c1fd49ebbe680685a0.png[/img]
 
