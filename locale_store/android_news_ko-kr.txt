@@ -12,18 +12,18 @@ Wallpaper Engine 2.0에서는 Android 지원, 신규 로고, 새로운 3D 깊이
 
 [list][*]숨겨진 비용이나 광고, 유저 추적, 데이터 수집이 없습니다.
 [*]컴퓨터에 있는 [b]장면[/b] 및 [b]영상[/b] 유형의 배경화면을 Android 기기에 무선으로 전송할 수 있습니다.
-[*]Import any compatible files from your device as a wallpaper: [i]Videos, GIFs, images & Wallpaper Engine wallpapers[/i]
-[*]Create a playlist of your wallpapers and use different playlist modes
-[*]Automatically pauses when power saving mode is enabled, offers FPS and quality settings.
-[*]Full support for dynamic audio visualizers, clocks & other dynamic wallpaper elements
-[*]Let wallpapers move along with the motion of your device [i](devices with gyroscope)[/i]
-[*]Support for automatic theme colors based on the current wallpaper, including Android 12's [b]Material You[/b][/list]
+[*][i]영상, GIF, 이미지, Wallpaper Engine 배경화면[/i] 등 기기에 있는 호환 가능 파일을 배경화면으로 불러올 수 있습니다.
+[*]배경화면 재생목록을 생성하고 다양한 재생목록 모드를 사용해보세요.
+[*]절전 모드가 켜져 있으면 자동으로 일시정지가 되며, FPS 및 품질을 설정할 수 있습니다.
+[*]동적 오디오 시각화, 시계 등 동적 배경화면 요소를 전면 지원합니다.
+[*]배경화면이 기기의 움직임에 맞춰 움직이게 하세요.[i](자이로스코프 기능이 탑재된 기기 한정)[/i]
+[*]Android 12의 [b]머티리얼 유(Material You)[/b]를 포함하여 현재 배경화면에 기반한 자동 테마 색상을 지원합니다.[/list]
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Real-time interactive wallpapers on Android[/b]
+        [td][b]Android에서 실시간 상호작용 배경화면 사용[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/757da27656323aa0dcd02c29678906c7efd09442.gif[/img][/td]
-        [td][b]Customize your wallpapers to your liking[/b]
+        [td][b]배경화면을 취향에 맞게 설정하세요.[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/779d938b4f04f2e7e9a07a46ca09517749f105ec.gif[/img][/td]
     [/tr]
@@ -32,11 +32,11 @@ Wallpaper Engine 2.0에서는 Android 지원, 신규 로고, 새로운 3D 깊이
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Visualize your music with audio responsive wallpapers. Credit: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
+        [td][b]오디오 응답 배경화면으로 음악을 시각화하세요. 원작자: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/d590754450672c1b121668604832ef5b61568972.gif[/img]
 [/td]
-        [td][b]Let wallpapers react to the motion of your device [i](devices with gyroscope)[/i][/b]
+        [td][b][*]배경화면이 기기의 움직임에 반응하게 하세요.[i](자이로스코프 기능이 탑재된 기기 한정)[/i][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/75962cf9e8e5635216d7ded68e3527a731e1e565.gif[/img][/td]
     [/tr]
@@ -44,41 +44,41 @@ Wallpaper Engine 2.0에서는 Android 지원, 신규 로고, 새로운 3D 깊이
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Customize the app by configuring playlists, performance settings and more[/b]
+        [td][b]재생목록, 성능 설정 등을 설정하여 앱을 자신의 취향에 맞게 구성하세요.[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/a609a043455539f48a87e7d692a4eea9722ff9d1.gif[/img]
 [/td]
-        [td][b]Wirelessly transfer your Workshop wallpapers from your computer[/b]
+        [td][b]컴퓨터에 있는 창작마당 배경화면을 무선으로 전송하세요.[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/f8f24e382022472d8972af5f3dbd73f2556cdfdc.gif[/img][/td]
     [/tr]
 [/table]
-[h3]Download Wallpaper Engine for Android[/h3]
-We recommend installing the app through an official app store, however, we also offer a direct APK download for more advanced users. View our website for all installation options here:
+[h3]Android Wallpaper Engine 다운로드[/h3]
+공식 앱스토어를 통해 앱을 설치할 것을 권장하지만, 고급 사용자의 경우 직접 APK를 다운로드하실 수도 있습니다. 모든 설치 옵션을 확인하려면 저희 웹사이트를 방문해주세요:
 
-[list][*][h3][i][b][url=wallpaperengine.io/android]Download the Wallpaper Engine Android Companion App[/url][/b][/i][/h3][/list]
-[h3]Adding new Wallpapers to Android[/h3]
-Directly connecting to the Workshop from a mobile device is not possible from a technical and legal point of view. However, we built a convenient system that allows owners of Wallpaper Engine on Windows to transfer their wallpapers to Android devices with ease:
+[list][*][h3][i][b][url=wallpaperengine.io/android]Wallpaper Engine Android 보조 앱 다운로드[/url][/b][/i][/h3][/list]
+[h3]Android에 새로운 배경화면 추가[/h3]
+기술적 및 법적 제약으로 인해 모바일 기기에서 직접 창작마당에 연결하는 것은 불가능합니다. 하지만 저희는 Windows Wallpaper Engine 사용자가 배경화면을 손쉽게 Android 기기로 전송할 수 있게 해주는 편리한 시스템을 개발했습니다.
 
-[b]Step 1:[/b] Click on the new [b]Mobile[/b] button in Wallpaper Engine on Windows, then select [b]Connect new device[/b]. Wallpaper Engine will show you a 4 digit PIN that you can use to connect to your mobile device now.
+[b]1단계:[/b] Windows Wallpaper Engine에서 새로 추가된 [b]모바일[/b] 버튼을 클릭한 후 [b]새로운 기기 연결[/b]을 선택하세요. 그러면 모바일 기기와 연결하기 위한 4자리 PIN이 표시됩니다.
 
-[b]Step 2:[/b] Open Wallpaper Engine on your Android device and click on the [b]Add[/b] button in the lower right corner. Select [b]Pair with Computer[/b], your computer should now be visible in the device list. Select it and enter the 4 digit PIN from step 1.
+[b]2단계:[/b] Android 기기에서 Wallpaper Engine을 열고 화면 우측 하단의 [b]추가[/b] 버튼을 클릭하세요. [b]컴퓨터와 페어링[/b]을 선택하면 기기 목록에 귀하의 컴퓨터가 표시될 것입니다. 컴퓨터를 선택한 후 1단계에서 나온 4자리 PIN을 입력하세요.
 
-[b]Step 3:[/b] Your devices should now be connected. Right-click on any compatible wallpaper and click on [b]Send to mobile device[/b], then select your mobile device from the list. Your wallpaper will now be transferred.
+[b]3단계:[/b] 이제 기기가 연결되었을 것입니다. 호환되는 배경화면을 오른쪽 클릭하고 [b]모바일 기기로 전송[/b]을 누른 후, 목록에서 자신의 모바일 기기를 선택하세요. 배경화면이 이제 전송될 것입니다.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/0fc8bc609bd7d959fa87fe7f90e3f1612ba67cd1.gif[/img]
 
-[b]If you are unable to connect to Android:[/b] Right-click on any wallpaper and select [b]Send to mobile device[/b], then select [b]Export .mpkg[/b]. You can then transfer the exported mobile package file to your mobile device via cable or by transferring it to your mobile device in another way.
+[b]Android 기기에 연결할 수 없는 경우[/b] 아무 배경화면이나 오른쪽 클릭하고 [b]모바일 기기로 전송[/b]을 선택한 후, [b].mpkg 내보내기[/b]를 선택해보세요. 그다음 내보낸 모바일 패키지 파일을 케이블 또는 기타 수단으로 모바일 기기에 전송할 수 있습니다.
 
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to read our Android connection guide.[/url][/list]
-[i]Tip: You can also transfer folders or multiple wallpapers at the same time by multi-selecting them by holding the CTRL key. Clicking [b]CTRL + A[/b] in the [b]Installed[/b] tab selects all installed wallpapers and lets you transfer them all at the same time.[/i]
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Android 연결 가이드를 확인하려면 여기를 클릭하세요.[/url][/list]
+[i]팁: 또한 CTRL 키를 누른 상태로 다수의 배경화면을 선택하면 한 번에 여러 개의 폴더 또는 배경화면을 전송할 수 있습니다. [b]설치됨[/b] 탭에서 [b]CTRL + A[/b]를 누르면 설치된 배경화면이 전부 선택되어 한 번에 전송할 수 있습니다.[/i]
 
-[h2]New Wallpaper Engine Logo[/h2]
-Along with the release of the Android version of Wallpaper Engine, we felt it was time to update our logo. The old logo mainly consisted of a computer screen - which does not make much sense on a mobile device. A major release 2.0 release felt like the best time to try something new and we are very happy with the outcome.
+[h2]신규 Wallpaper Engine 로고[/h2]
+Android 버전 Wallpaper Engine 출시와 함께 로고를 업데이트하기로 결정했씁니다. 예전 로고는 컴퓨터 화면만 포함되어 있었기 때문에, 모바일 기기에는 잘 어울리지 않았습니다. 저희는 이번 2.0 출시가 새로운 것을 시도하기에 좋은 기회라고 생각했고, 그 결과에 크게 만족하고 있습니다.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/1f283ac68453f6bf3beb36c1fd49ebbe680685a0.png[/img]
 
-We have experimented a lot with different designs and settled on a new logo which keeps the spirit of the old design, but with a more modern spin. With Wallpaper Engine 2.0, you will find the new logo throughout the application, in Windows and on our websites:
+저희는 수많은 디자인을 가지고 다양한 시도를 해보았으며, 예전 디자인의 정신을 간직하면서도 더욱 세련된 로고로 결정했습니다. With Wallpaper Engine 2.0, you will find the new logo throughout the application, in Windows and on our websites:
 
 [img]{STEAM_CLAN_IMAGE}/26312799/ecb522ad46fedd9502a715ae38937246172dfcbe.png[/img]
 
