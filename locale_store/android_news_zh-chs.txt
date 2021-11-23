@@ -58,7 +58,7 @@ Wallpaper Engine 2.0 引入了对 Android 的支持，推出了新徽标，还�
 
 [list][*][h3][i][b][url=wallpaperengine.io/android]下载 Wallpaper Engine Android 伴侣应用程序[/url][/b][/i][/h3][/list]
 [h3]将新壁纸添加到 Android[/h3]
-从技术和法律的角度来看，从移动设备直接连接到创意工坊是不可能的。 但是，我们构建了一个方便的系统，可让 Wallpaper Engine 的所有者从 Windows 上轻松地将壁纸传输到 Android 设备：
+从技术和法律的角度来看，从移动设备直接连接到创意工坊是不可能的。 但是，我们构建了一个便利的系统，可让 Wallpaper Engine 的所有者从 Windows 上轻松地将壁纸传输到 Android 设备：
 
 [b]第 1 步：[/b]在 Windows 上的 Wallpaper Engine 中单击新的[b]移动设备[/b]按钮，然后选择[b]连接新设备[/b]。 Wallpaper Engine 将显示 4 位数 PIN，您可以立即使用该 PIN 连接到您的移动设备。
 
@@ -136,23 +136,23 @@ Wallpaper Engine 完全支持 Windows 11，在本次更新中，我们还增加�
 [/list]
 [h3]错误修复[/h3]
 [list]
-[*]Fixed "High Performance" option for the texture resolution settings breaking a low number of wallpapers.
-[*]Fixed editor crashing when importing textures with resolutions below the minimum required size.
-[*]Fixed certain filter settings causing wallpapers to show up twice in the "installed" tab.
-[*]Fixed crash related to video textures.
-[*]Fixed JPEG EXIF meta data sometimes not being applied on image layers. If you rotate images with Windows, they should now also appear rotated in the app properly.
-[*]Fixed issue with particle system colors not working properly.
+[*]修复了纹理分辨率设置中破坏少量壁纸的“高性能”选项。
+[*]修复了导入分辨率低于最小要求大小的纹理时编辑器崩溃的问题。
+[*]修复了某些筛选器设置导致壁纸在“已安装”选项卡中显示两次的问题。
+[*]修复了与视频纹理相关的崩溃问题。
+[*]修复了 JPEG EXIF 元数据有时无法应用于图像层的问题。 如果您在 Windows 中旋转图像，它们现在应该也会在应用程序中相应地旋转。
+[*]修复了粒子系统颜色无法正常工作的问题。
 [/list]
 
-[h2]Frequent Questions About The Android App[/h2]
+[h2]有关 Android 应用程序的常见问题[/h2]
 
-[h3]How much does the Android app cost?[/h3]
-The Android app is free of charge, there are no hidden costs, no in-app purchases and no advertisements. It can also be used as a standalone app without owning Wallpaper Engine on your computer and import compatible wallpaper files from your mobile device.
+[h3]Android 应用程序的费用是多少？[/h3]
+Android 应用程序完全免费，没有隐藏费用，没有应用程序内购买，也没有广告。 它也可以作为独立的应用程序使用，而无需在计算机上安装 Wallpaper Engine，并从您的移动设备导入兼容的壁纸文件。
 
-[h3]Can the Workshop be accessed directly from the Mobile App?[/h3]
-No, the Workshop cannot be accessed from mobile devices due to technical and legal restrictions. We built a convenient way to transfer your existing collection of wallpapers from your computer to Android. We tried to make this process as easy and simple as possible, in most cases you just need to make sure your mobile device and your computer are connected to the same network. [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to learn more.[/url]
+[h3]可以直接从移动应用程序访问创意工坊吗？[/h3]
+不可以，由于技术和法律限制，无法从移动设备访问创意工坊。 我们构建了一种便利的方式来将您现有的壁纸合集从计算机传输到 Android。 我们竭尽全力让这个过程尽可能简便，在大多数情况下，您只需要确保移动设备和计算机连接到同一网络。 [url=https://help.wallpaperengine.io/mobile/pairing.html]单击此处了解更多。[/url]
 
-Additionally, you can also just directly import any compatible wallpaper files from the files stored on your mobile device. Wallpaper Engine for Android also works well if you are simply looking for a way to turn any video files on your Android phone or tablet into your mobile wallpaper or if you want to use several static wallpapers in a playlist.
+此外，您还可以直接从移动设备上存储的文件中导入任何兼容的壁纸文件。 Wallpaper Engine for Android also works well if you are simply looking for a way to turn any video files on your Android phone or tablet into your mobile wallpaper or if you want to use several static wallpapers in a playlist.
 
 [h3]Does Wallpaper Engine drain the battery of my devices?[/h3]
 No, we have optimized the app extensively and most modern devices will not notice a negative effect on battery life in day-to-day usage.
