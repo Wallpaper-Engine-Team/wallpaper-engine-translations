@@ -140,22 +140,22 @@ Wallpaper Engine 完全支援 Windows 11，趁著這次更新，我們也為新�
 [*]修復匯入解析度低於最低所需大小的紋理時編輯器當機的問題。
 [*]修復特定篩選器設定導致桌布在「已安裝」分頁中顯示兩次的問題。
 [*]修復與視訊紋理相關的當機問題。
-[*]修復 JPEG EXIF 中繼資料有時候並未套用至圖像圖層的問題。 如果圖像在 Windows 已旋轉，現在應用程式中應該也會正確出現旋轉後的結果。
+[*]修復 JPEG EXIF 中繼資料有時候並未套用至圖像圖層的問題。 如果圖像在 Windows 中已旋轉，現在應用程式中應該也同樣會旋轉。
 [*]修復粒子系統顏色並未正確運作的問題。
 [/list]
 
 [h2]有關此 Android 應用程式的常見問題[/h2]
 
 [h3]Android 應用程式的費用多少？[/h3]
-Android 應用程式免費，無隱藏費用、無應用程式內購買、無廣告。 It can also be used as a standalone app without owning Wallpaper Engine on your computer and import compatible wallpaper files from your mobile device.
+Android 應用程式免費，無隱藏費用、無應用程式內購買、無廣告。 此程式也可獨立使用，不須在電腦上安裝 Wallpaper Engine 並從行動裝置匯入相容的桌布檔案。
 
-[h3]Can the Workshop be accessed directly from the Mobile App?[/h3]
-No, the Workshop cannot be accessed from mobile devices due to technical and legal restrictions. We built a convenient way to transfer your existing collection of wallpapers from your computer to Android. We tried to make this process as easy and simple as possible, in most cases you just need to make sure your mobile device and your computer are connected to the same network. [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to learn more.[/url]
+[h3]可否直接從行動應用程式存取工作坊？[/h3]
+不可，由於技術及法律限制，工作坊無法直接從行動裝置存取。 我們打造了簡便方式，您可輕鬆將電腦現有桌布收藏傳輸至 Android。 我們盡全力精簡此過程，大部分情況下您只需要確保行動裝置和電腦連接至同一個網路。 [url=https://help.wallpaperengine.io/mobile/pairing.html]按一下此處深入了解。[/url]
 
-Additionally, you can also just directly import any compatible wallpaper files from the files stored on your mobile device. Wallpaper Engine for Android also works well if you are simply looking for a way to turn any video files on your Android phone or tablet into your mobile wallpaper or if you want to use several static wallpapers in a playlist.
+此外，您也可以直接將行動裝置上儲存的檔案匯入任何相容的桌布檔案。 如果您只是想找到方法，讓 Android 手機或平板電腦上任何視訊檔案轉換為行動裝置的桌布，或是您想在播放清單內使用多張靜態桌布，Android 版 Wallpaper Engine 也能辦到。
 
-[h3]Does Wallpaper Engine drain the battery of my devices?[/h3]
-No, we have optimized the app extensively and most modern devices will not notice a negative effect on battery life in day-to-day usage.
+[h3]Wallpaper Engine 會消耗裝置的電池電量嗎？[/h3]
+不會，我們已廣泛將此應用程式最佳化，大多數現代裝置在日常使用中都不會明顯對電池壽命產生負面影響。
 
 We have been using the app for months on our private devices now and on an average day and we have not seen any meaningful battery usage through Wallpaper Engine. The app automatically pauses when another app is full-screened on your device and when your device is turned off. Battery saving mode will automatically pause your live wallpaper to reduce its impact on battery life even further. On top of that, you can also tweak the performance impact in the app settings by adjusting the FPS limit.
 
