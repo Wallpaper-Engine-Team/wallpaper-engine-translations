@@ -125,31 +125,31 @@ Pokud používáte motiv Windows 11 s průhledností, pak dojde k situaci, že W
 [h4]Editor tapet[/h4]
 [list]
 [*]Byl přidán nový hloubkový paralaxní efekt.
-[*]Added FREE editor extensions DLC for depth parallax effect. You only need this if you want to use it in the editor, users of your wallpapers do not need this DLC.
-[*]Added color picker tool to editor painting tools.
-[*]Improved support for rendering Chinese, Japanese, Korean and more characters in scene wallpapers text layers with new fonts.
-[*]Improved "Rope Renderer" for particle systems.
-[*]SceneScript: [i]init()[/i] and [i]update()[/i] function will now automatically convert numbers into vectors (Vec2, Vec3, Vec4) when they are returned. This helps to simplify some scripts.
-[*]SceneScript: Reviewed and improved all sample code snippets slightly.
-[*]SceneScript: Update reference URLs to [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url].
-[*]Made transparency cropping work with DXT compression in the editor.
+[*]Přidána BEZPLATNÁ DLC rozšíření editoru s hloubkovým paralaxním efektem. Tento balíček potřebujete pouze v případě, že chcete efekt používat v editoru, uživatelé vašich tapet toto DLC nepotřebují.
+[*]Mezi nástroje editoru byl přidán nástroj pro výběr barev.
+[*]Došlo k vylepšení podpory pro vykreslování nových fontů čínských, japonských, korejských a dalších znaků v textových vrstvách scénických tapet.
+[*]Byla vylepšena „renderovací rutina pro lana“ v částicových systémech.
+[*]SceneScript: Funkce [i]init()[/i] a [i]update()[/i] nyní automaticky převádí návratovou hodnotu z čísel na vektory (Vec2, Vec3, Vec4). Tím se některé skripty zjednoduší.
+[*]SceneScript: Byly přezkoumány a mírně vylepšeny všechny vzorové výstřižky kódů.
+[*]SceneScript: Aktualizovány referenční adresy URL na [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]novou dokumentaci pro SceneScript[/url].
+[*]Ořezávání transparentnosti nyní v editoru funguje s kompresí DXT.
 [/list]
-[h3]Bug Fixes[/h3]
+[h3]Opravy chyb[/h3]
 [list]
-[*]Fixed "High Performance" option for the texture resolution settings breaking a low number of wallpapers.
-[*]Fixed editor crashing when importing textures with resolutions below the minimum required size.
-[*]Fixed certain filter settings causing wallpapers to show up twice in the "installed" tab.
-[*]Fixed crash related to video textures.
-[*]Fixed JPEG EXIF meta data sometimes not being applied on image layers. If you rotate images with Windows, they should now also appear rotated in the app properly.
-[*]Fixed issue with particle system colors not working properly.
+[*]Opravena chyba, kdy možnost „Vysoký výkon“ u nastavení rozlišení textury způsobila rozbití některých tapet.
+[*]Opraven pád editoru při importování textur s rozlišením pod minimální požadovanou velikostí.
+[*]Opravena určitá nastavení filtru, která způsobovala dvojité zobrazení tapet na kartě „Nainstalované“.
+[*]Opraven pád související s video texturami.
+[*]Opravena chyba, kdy se metadata JPEG EXIF někdy neaplikovala na vrstvy obrázků. Pokud ve Windows obrázky otočíte, měly by se nyní správně zobrazovat i v aplikaci.
+[*]Opravena chyba, kdy barvy částicových systémů nefungovaly správně.
 [/list]
 
-[h2]Frequent Questions About The Android App[/h2]
+[h2]Časté otázky o aplikaci pro Android[/h2]
 
-[h3]How much does the Android app cost?[/h3]
-The Android app is free of charge, there are no hidden costs, no in-app purchases and no advertisements. It can also be used as a standalone app without owning Wallpaper Engine on your computer and import compatible wallpaper files from your mobile device.
+[h3]Kolik stojí aplikace pro Android?[/h3]
+Aplikace pro Android je zdarma bez skrytých nákladů, bez nákupů v aplikaci a bez reklam. Můžete ji používat i jako samostatnou aplikaci, aniž byste měli Wallpaper Engine na počítači. Díky aplikaci můžete importovat kompatibilní soubory tapet z vašeho mobilního zařízení.
 
-[h3]Can the Workshop be accessed directly from the Mobile App?[/h3]
+[h3]Dá se do Workshopu dostat přímo z mobilní aplikace?[/h3]
 No, the Workshop cannot be accessed from mobile devices due to technical and legal restrictions. We built a convenient way to transfer your existing collection of wallpapers from your computer to Android. We tried to make this process as easy and simple as possible, in most cases you just need to make sure your mobile device and your computer are connected to the same network. [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to learn more.[/url]
 
 Additionally, you can also just directly import any compatible wallpaper files from the files stored on your mobile device. Wallpaper Engine for Android also works well if you are simply looking for a way to turn any video files on your Android phone or tablet into your mobile wallpaper or if you want to use several static wallpapers in a playlist.
