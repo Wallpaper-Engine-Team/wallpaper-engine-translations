@@ -106,39 +106,39 @@ Wallpaper Engine 完全支援 Windows 11，趁著這次更新，我們也為新�
 [h4]主要應用程式功能[/h4]
 [list]
 [*]新增 Android 支援並發布新的 Android 版 Wallpaper Engine 隨附應用程式。
-[*]新增行動裝置收藏至「探索」分頁。
+[*]「探索」分頁中新增行動裝置收藏。
 [*]更新 Wallpaper Engine 標誌、色彩主題，包括應用程式圖示。
 [*]新增 Windows 11 圓角功能支援。
 [*]新增「星期幾」播放清單模式，最多 7 張桌布。
 [*]重新安排篩選器，新增「與行動裝置相容」篩選條件。
-[*]以滑鼠右鍵按一下桌布時，新增「最愛」按鈕。
-[*]桌布手動變更時，「停止模式」會自動關閉。
+[*]新增以滑鼠右鍵按一下桌布時顯示的「最愛」按鈕。
+[*]「停止模式」現在會在手動變更桌布時自動關閉。
 [*]改善設定物理骨幹時的使用者介面。
-[*]音訊自動取消靜音的延遲時間增加至 3 至 5 秒。
-[*]將配置顏色功能新增至「套用到所有桌布」的對話方塊。
+[*]音訊自動取消靜音的延遲時間增加 3 至 5 秒。
+[*]「套用到所有桌布」的對話方塊新增顏色配置功能。
 [*]移除播放清單上 12小時制/24 小時制的選項，現已可自動偵測系統設定。
-[*]新增 CLI applyProperties 對視窗桌布的支援。
+[*]新增 CLI applyProperties 對視窗化桌布的支援。
 [*]推出新的 JSON 剖析器，改善應用程式效能。
-[*]更新核心應用程式二進位至最新的 Visual Studio 2022 編譯器及最新的 Win SDK。
-[*]減少 CEF 中原本偶爾出現的游標亮光問題。
+[*]將核心應用程式二進位更新至最新的 Visual Studio 2022 編譯器及最新的 Win SDK。
+[*]減少 CEF 中原本罕見的游標亮光問題。
 [/list]
 [h4]Wallpaper 編輯器[/h4]
 [list]
-[*]新增新的深度視差效果。
+[*]新增全新深度視差效果。
 [*]新增免費的編輯器擴充 DLC 以提供深度視差效果。 您僅在需要編輯器中使用的時候下載此 DLC，桌布使用者不需要。
 [*]新增編輯器繪製工具的色彩選擇器。
-[*]新增場景桌布文字圖層對中文、日文、韓文等方塊字的支援，並推出新字型。
+[*]新增場景桌布文字圖層對中文、日文、韓文等字元的支援，並推出新字型。
 [*]改善粒子系統的「繩子轉譯器」。
 [*]SceneScript: [i]init()[/i] 及 [i]update()[/i] 功能現可在回傳時自動將數字轉換成向量 (Vec2, Vec3, Vec4)。 此有助腳本簡化。
 [*]SceneScript：稍微檢視並改善範例程式碼片段。
-[*]SceneScript：更新參考連結 [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url]。
-[*]編輯器中 DXT 壓縮格式現可裁剪透明背景。
+[*]SceneScript：將參考連結更新為 [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]新的 SceneScript 檔案[/url]。
+[*]在編輯器中使用 DXT 壓縮格式可裁剪透明背景。
 [/list]
 [h3]修復錯誤[/h3]
 [list]
-[*]修復少部分桌布會因紋理解析度設定中「高效能」選項而遭到破壞的問題。
-[*]修復匯入解析度低於最低所需大小的紋理時編輯器會當機的問題。
-[*]修復特定篩選器紹定導致桌布在「已安裝」分頁中顯示兩次的問題。
+[*]修復紋理解析度設定中「高效能」選項破壞少部分桌布的問題。
+[*]修復匯入解析度低於最低所需大小的紋理時編輯器當機的問題。
+[*]修復特定篩選器設定導致桌布在「已安裝」分頁中顯示兩次的問題。
 [*]修復與視訊紋理相關的當機問題。
 [*]修復 JPEG EXIF 中繼資料有時候並未套用至圖像圖層的問題。 如果圖像在 Windows 已旋轉，現在應用程式中應該也會正確出現旋轉後的結果。
 [*]修復粒子系統顏色並未正確運作的問題。
@@ -146,8 +146,8 @@ Wallpaper Engine 完全支援 Windows 11，趁著這次更新，我們也為新�
 
 [h2]有關此 Android 應用程式的常見問題[/h2]
 
-[h3]How much does the Android app cost?[/h3]
-The Android app is free of charge, there are no hidden costs, no in-app purchases and no advertisements. It can also be used as a standalone app without owning Wallpaper Engine on your computer and import compatible wallpaper files from your mobile device.
+[h3]Android 應用程式的費用多少？[/h3]
+Android 應用程式免費，無隱藏費用、無應用程式內購買、無廣告。 It can also be used as a standalone app without owning Wallpaper Engine on your computer and import compatible wallpaper files from your mobile device.
 
 [h3]Can the Workshop be accessed directly from the Mobile App?[/h3]
 No, the Workshop cannot be accessed from mobile devices due to technical and legal restrictions. We built a convenient way to transfer your existing collection of wallpapers from your computer to Android. We tried to make this process as easy and simple as possible, in most cases you just need to make sure your mobile device and your computer are connected to the same network. [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to learn more.[/url]
