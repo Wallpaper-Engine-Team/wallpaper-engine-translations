@@ -32,7 +32,7 @@ Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增 3D �
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]根據具音訊回應效果的桌布將音樂視覺化。 作者：[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
+        [td][b]利用具音訊回應效果的桌布將音樂視覺化。 作者：[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/d590754450672c1b121668604832ef5b61568972.gif[/img]
 [/td]
@@ -60,7 +60,7 @@ Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增 3D �
 [h3]將新桌布新增至 Android[/h3]
 從技術和法律面來看，行動裝置直接連線至工作坊並不可行。 不過，我們打造了簡便好用的系統，供 Windows 版 Wallpaper Engine 使用者輕鬆將桌布傳輸至 Android 裝置：
 
-[b]步驟 1：[/b]按一下 Windows 版 Wallpaper Engine 新的[b]行動裝置[/b]按鈕，接著選取[b]連接新的行動裝置[/b]。 Wallpaper Engine 將顯示 4 位數的 PIN 碼，可用來連接至行動裝置。
+[b]步驟 1：[/b]在 Windows 版 Wallpaper Engine 上按一下新的[b]行動裝置[/b]按鈕，接著選取[b]連接新的行動裝置[/b]。 Wallpaper Engine 將顯示 4 位數的 PIN 碼，可用來連接至行動裝置。
 
 [b]步驟 2：[/b]開啟 Android 裝置上的 Wallpaper Engine，按一下右下角的[b]新增[/b]按鈕。 選取[b]與電腦配對[/b]，現在裝置清單中應可看見您的電腦。 選取後輸入步驟 1 所列的 4 位數 PIN 碼。
 
@@ -68,13 +68,13 @@ Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增 3D �
 
 [img]{STEAM_CLAN_IMAGE}/26312799/0fc8bc609bd7d959fa87fe7f90e3f1612ba67cd1.gif[/img]
 
-[b]如果無法連線至 Android：[/b]以滑鼠右鍵在任一桌布上按一下，選取[b]傳送至行動裝置[/b]，再選取[b]匯出 .mpkg[/b]。 接著即可利用傳輸線將匯出的行動封裝檔案傳輸至行動裝置，或是以其他方式傳輸。
+[b]如果無法連線至 Android：[/b]以滑鼠右鍵在任一桌布上按一下，選取[b]傳送至行動裝置[/b]，再選取[b]匯出 .mpkg[/b]。 接著即可利用傳輸線或其他方式將匯出的行動封裝檔案傳輸至行動裝置。
 
 [list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]按一下此處閱讀 Android 連線指南。[/url][/list]
 [i]提示：您也可按住鍵盤上的 CTRL 鍵同時選取多個資料夾或多張桌布，並一次傳輸。 在[b]已安裝[/b]分頁按一下 [b]CTRL + A[/b]，即可選取所有已安裝的桌布，並同時傳輸。[/i]
 
-[h2]新的 Wallpaper Engine 標誌[/h2]
-隨著 Android 版 Wallpaper Engine 推出，我們認為也該是時候更新標誌了。 原本的標誌含有電腦畫面，似乎不太適合用在行動裝置上。 2.0 版隆重推出之際，正是改頭換面的最佳時機，我們很滿意新標誌、新氣象。
+[h2]全新 Wallpaper Engine 標誌[/h2]
+隨著 Android 版 Wallpaper Engine 推出，我們認為也該是時候更新標誌了。 原本的標誌含有電腦畫面，似乎不太適合用在行動裝置上。 2.0 版隆重推出之際，應該是嘗試新事物的最佳時機，我們很滿意新標誌、新氣象。
 
 [img]{STEAM_CLAN_IMAGE}/26312799/1f283ac68453f6bf3beb36c1fd49ebbe680685a0.png[/img]
 
@@ -82,21 +82,21 @@ Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增 3D �
 
 [img]{STEAM_CLAN_IMAGE}/26312799/ecb522ad46fedd9502a715ae38937246172dfcbe.png[/img]
 
-[h2]新的深度視差效果[/h2]
-Wallpaper Engine 編輯器的重大新功能就是新的深度視差效果。 您可運用此效果為圖像建立知覺 3D 深度。 在電腦上，此效果會受到滑鼠影響，而在 Android，手機螢幕的動作會模擬滑鼠動作。
+[h2]全新深度視差效果[/h2]
+Wallpaper Engine 編輯器其中一項重大新功能，就是新的深度視差效果。 您可運用此效果為圖像建立可感知到的 3D 深度。 在電腦上，此效果會受到滑鼠影響，而在 Android 上，手機螢幕的動作會模擬滑鼠動作。
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
-為了善加發揮桌布編輯器的效果，建議您安裝新推出的[b][i]免費[/i][/b]的[i]編輯器擴充 DLC[/i]。 我們決定將這個特定的編輯器功能與選用的 DLC 分開，因為此功能需要下載數 GB 的大小。 第一次在此編輯器使用此效果時，Wallpaper Engine 將提醒您安裝 DLC。 如需詳細資訊，請見在編輯器中安裝與使用深度視差效果的指南：
+為了善加發揮桌布編輯器的效果，建議您安裝全新推出的[b][i]免費[/i][/b][i]編輯器擴充 DLC[/i]。 我們決定將這個特定的編輯器功能與選用的 DLC 分開，因為此功能需要下載數 GB 的大小。 第一次在此編輯器使用此效果時，Wallpaper Engine 將提醒您安裝 DLC。 如需詳細資訊，請見在編輯器中安裝與使用深度視差效果的完整指南：
 
 [list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]深度視差[/url] (目前僅有英語版；機器翻譯成果佳)[/list]
 [b]重要事項：[/b]您如果不需要使用此效果，則不需要安裝此免費的 DLC；如果未安裝此免費 DLC，該效果仍可在電腦和行動裝置上使用。
 
 [h2]週間播放清單[/h2]
-長久以來我們常收到的問題是，如何為週間每天設定一張桌布。 我們在這次更新推出新的週間播放清單功能。 設定相當簡單，只要在 Wallpaper Engine 的[b]已安裝[/b]分頁新增最多七張桌布，接著在播放清單部分按一下[b]設定[/b]，選取[b]星期幾[/b]即完成。 您也可以在同一處找到既有的播放清單選項，例如[b]特定時刻[/b]播放清單類型。
+我們長久以來常收到的問題是，如何為週間每天設定一張桌布。 這次更新，我們推出了新的週間播放清單功能。 設定相當簡單，只要在 Wallpaper Engine 的[b]已安裝[/b]分頁新增最多七張桌布，接著在播放清單部分按一下[b]設定[/b]，選取[b]星期幾[/b]即完成。 您也可以在同一處找到既有的播放清單選項，例如[b]特定時刻[/b]播放清單類型。
 
 [h2]Windows 11[/h2]
-Wallpaper Engine 完全支援 Windows 11，趁著這次更新，我們也為新的圓角使用者介面設計新增支援。 如果您升級至 Windows 11 後發現 Wallpaper Engine 出現問題，請下載最新版顯示卡驅動程式並執行全新安裝。 大多數 Windows 11 使用者回報的問題，原因都是使用了過時的顯示卡驅動程式。
+Wallpaper Engine 完全支援 Windows 11，趁著這次更新，我們也為新增對圓角使用者介面設計的支援。 如果您升級至 Windows 11 後發現 Wallpaper Engine 出現問題，請下載最新版顯示卡驅動程式，並執行全新安裝。 大多數 Windows 11 使用者回報的狀況，問題都出在使用了過時的顯示卡驅動程式。
 
 如果您使用帶有透明效果的 Windows 11 佈景主題，會發現 Windows 11 忽略了 Wallpaper Engine。 如要解決此問題，只要在 Wallpaper Engine 設定中啟用新推出的[b]覆寫桌布[/b]選項即可。 如此一來，您的 Windows 桌布即可與 Wallpaper Engine 桌布同步，不會再出現與 Windows 11 透明效果有關的問題。
 
