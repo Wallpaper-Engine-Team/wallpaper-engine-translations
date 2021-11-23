@@ -166,7 +166,7 @@ Android 应用程序完全免费，没有隐藏费用，没有应用程序内购
 这取决于您的设备。 一些 Android 制造商不允许在锁屏上使用动态壁纸，而另一些制造商则允许。 如果没有为您提供设置锁屏壁纸的选项，则您的设备制造商不允许这样做。
 
 [h3]适用于 iPhone 和 iPad 的 iOS 版 Wallpaper Engine 呢？[/h3]
-Unfortunately, Apple's iOS does not support true live wallpapers like Android. It is not possible to create anything similar to Wallpaper Engine on iOS. If Apple ever changes their mind on this, we will likely also follow-up with an iOS version. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Click here to learn our lengthy explanation about Linux, Mac OS and iOS.[/url]
+不幸的是，Apple 的 iOS 不像 Android 一样支持真正的动态壁纸。 因此无法在 iOS 上创建任何类似于 Wallpaper Engine 的内容。 如果 Apple 改变了主意，我们可能还会跟进 iOS 版本。 [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]单击此处了解我们对 Linux、Mac OS 和 iOS 的详尽说明。[/url]
 
 
 [table equalcells=1 noborder=1]
@@ -174,6 +174,6 @@ Unfortunately, Apple's iOS does not support true live wallpapers like Android. I
 [/table]
 
 [h2]Feedback, Questions and Technical Support for Android[/h2]
-If you have any questions, suggestions or general feedback about the new Android app or if you run into any technical issues, be sure to post a message on the Android section of our Steam board:
+如果您对新的 Android 应用程序有任何问题、建议或一般反馈，或者遇到任何技术问题，请务必在我们 Steam 版块的 Android 部分发布消息：
 
-[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android App Discussions[/url][/list]
+[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android 应用程序讨论区[/url][/list]
