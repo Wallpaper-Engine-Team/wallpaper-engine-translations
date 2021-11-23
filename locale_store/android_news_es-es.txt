@@ -117,24 +117,24 @@ Windows 11 ignorará por completo a Wallpaper Engine si usas un tema de Windows 
 [*]Se ha aumentado el retraso de la activación de sonido automática de 3 a 5 segundos.
 [*]Se ha añadido una combinación de colores al diálogo Aplicar a todos los fondos.
 [*]Se ha eliminado la opción de 12 y 24 horas de la lista de reproducción y ahora se detecta de forma automática en función de la configuración del sistema.
-[*]Added CLI applyProperties support to windowed wallpapers.
-[*]Improved app performance with new JSON parser.
-[*]Updated core application binaries to latest Visual Studio 2022 compiler and latest Win SDK.
-[*]Reduced occurrence of rare cursor flickering issue in CEF.
+[*]Se ha añadido la compatibilidad con CLI applyProperties a los fondos en ventana.
+[*]Se ha mejorado el rendimiento de la aplicación con el analizador JSON nuevo.
+[*]Se han actualizado los binarios principales de la aplicación al compilador Visual Studio 2022 y Win SDK más recientes.
+[*]Se ha reducido el problema del parpadeo del cursor en CEF.
 [/list]
-[h4]Wallpaper Editor[/h4]
+[h4]Editor de fondos[/h4]
 [list]
-[*]Added new depth parallax effect.
-[*]Added FREE editor extensions DLC for depth parallax effect. You only need this if you want to use it in the editor, users of your wallpapers do not need this DLC.
-[*]Added color picker tool to editor painting tools.
-[*]Improved support for rendering Chinese, Japanese, Korean and more characters in scene wallpapers text layers with new fonts.
+[*]Se ha añadido un efecto nuevo de paralaje profundo.
+[*]Se han añadido extensiones GRATUITAS del editor para hacer uso del efecto de paralaje profundo. Solo lo necesitarás si quieres usar dicho efecto en el editor; los usuarios de tus fondos no lo necesitarán.
+[*]Se ha añadido la herramienta selector de color.
+[*]Se ha mejorado la compatibilidad de renderizado de los caracteres chinos, japoneses, coreanos, etc., en los fondos de escena con capas de texto gracias a unas fuentes nuevas.
 [*]Improved "Rope Renderer" for particle systems.
 [*]SceneScript: [i]init()[/i] and [i]update()[/i] function will now automatically convert numbers into vectors (Vec2, Vec3, Vec4) when they are returned. This helps to simplify some scripts.
 [*]SceneScript: Reviewed and improved all sample code snippets slightly.
 [*]SceneScript: Update reference URLs to [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url].
 [*]Made transparency cropping work with DXT compression in the editor.
 [/list]
-[h3]Bug Fixes[/h3]
+[h3]Soluciones de errores[/h3]
 [list]
 [*]Fixed "High Performance" option for the texture resolution settings breaking a low number of wallpapers.
 [*]Fixed editor crashing when importing textures with resolutions below the minimum required size.
