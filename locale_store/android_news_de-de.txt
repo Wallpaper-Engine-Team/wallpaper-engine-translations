@@ -83,97 +83,97 @@ Wir haben mit vielen Designs experimentiert und haben uns für ein neues Logo en
 [img]{STEAM_CLAN_IMAGE}/26312799/ecb522ad46fedd9502a715ae38937246172dfcbe.png[/img]
 
 [h2]Neuer Tiefen-Parallax-Effekt[/h2]
-Ein größeres neues Feature im Editor von Wallpaper Engine ist unser neuer Tiefen-Parallax-Effekt. Der Effekt erlaubt es dir, eine gefühlte 3D-Tiefe zu deinen Bildern hinzuzufügen. On computers, the effect is influenced by the mouse while on Android, the movement of the phone will simulate the mouse movement.
+Ein größeres neues Feature im Editor von Wallpaper Engine ist unser neuer Tiefen-Parallax-Effekt. Der Effekt erlaubt es dir, eine gefühlte 3D-Tiefe zu deinen Bildern hinzuzufügen. Auf dem Computer wird der Effekt von der Mausbewegung beeinflusst, während auf Android die Bewegung des Mobilgeräts die Mausbewegungen simuliert.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
-To make full-use of the effect in the wallpaper editor, we recommend installing our new [b][i]free[/i][/b] [i]Editor Extensions DLC[/i]. We decided to separate this particular editor feature into an optional DLC because the features requires a download which is several gigabytes in size. When first using the effect in the editor, Wallpaper Engine will ask you to install the DLC for you. For more infos, see our full guide on how to install and use the depth parallax effect in the editor:
+Um den Effekt vollständig im Hintergrund-Editor zu nutzen, empfehlen wir unseren [b][i]kostenlosen[/i][/b] [i]DLC für Editor-Erweitungen[/i] zu installieren. Wir haben uns dazu entschieden, dieses Editor-Feature in einen optionalen DLC auszulagern, da die Features einen Download mit mehreren Gigabyte an Größe voraussetzt. Wenn der Effekt zum ersten mal im Editor benutzt wird, fragt Wallpaper Engine dich danach, ob es den DLC für dich installieren soll. Für weitere Informationen, schaue dir unsere Anleitung an, wie du den Tiefen-Parallax-Effekt im Editor nutzen kannst:
 
-[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Depth Parallax[/url] (Only available in English right now - machine translation works well)[/list]
-[b]It's important to note:[/b] You do not need to install the free DLC unless you want to use the effect in the editor yourself - the effect will still work on computers and mobile devices even if the free DLC is not installed.
+[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Tiefen-Parallax[/url] (Derzeit nur auf Englisch verfügbar, aber maschinelle Übersetzung funktioniert zur Not trelativ gut!)[/list]
+[b]Wichtig:[/b] Du brauchst den kostenlosen DLC nicht installieren, außer wenn du den Effekt im Editor selbst nutzen willst - der Effekt funktioniert auch auf Computern und Mobilgeräten, auch wenn der DLC nicht installiert ist.
 
-[h2]Weekday Playlists[/h2]
-A popular request that we have received over time was the way to configure one wallpaper per weekday. With this update, we are introducing a new weekday playlist. Simply add up to seven wallpapers to the playlist in the [b]Installed[/b] tab of Wallpaper Engine, then click on [b]Configure[/b] in the playlist section and select the [b]Day of Week[/b] option from there. You will also find the already existing playlist options there, such as the [b]Time of Day[/b] playlist type.
+[h2]Wochentag-Wiedergabelisten[/h2]
+Ein häufiger Wunsch, welchen wir erhalten haben, war es, dass man einen Hintergrund pro Wochentag einstellen kann. Mit diesem Update führen wir eine neue Wochentagswiedergabeliste ein. Füge dazu einfach bis zu sieben Hintergründe zu deiner Wiedergabeliste im Reiter [b]Installiert[/b] in Wallpaper Engine, klicke dann auf [b]Einstellungen[/b] in der Sektion für die Wiedergabeliste und wähle die Option [b]Wochentag[/b] von dort aus. Du kannst an dieser Stelle auch weitere Optionen für Wiedergabelisten finden, wie die [b]Tageszeit[/b]-Einstellung.
 
 [h2]Windows 11[/h2]
-Wallpaper Engine fully supports Windows 11, with this update, we are also adding support for the new rounded corners user interface design. If you are upgrading to Windows 11 and experience any issues with Wallpaper Engine, make sure to do a full re-installation of the latest graphics card drivers. Most Windows 11 users who reached out to us with issues were using outdated graphics card drivers.
+Wallpaper Engine unterstützt Windows 11 vollständig, mit diesem Update bringen wir aber weitere Anpassungen für das neue runde Design der Benutzeroberflächen ein. Falls du ein Upgrade auf Windows 11 durchführst und Probleme mit Wallpaper Engine feststellst, stelle sicher, dass du eine vollständige Neuinstallation der neuesten Grafikkartentreiber durchführst. Die meisten Windows 11-Nutzer, welche uns mit Problemen kontaktiert haben, haben veraltete Grafikkartentreiber verwendet.
 
-If you are using a Windows 11 theme with transparency, you will notice that Wallpaper Engine will be ignored by Windows 11. To fix this issue, simply enable the new [b]Override wallpaper[/b] option in the Wallpaper Engine settings. This will keep your Windows wallpaper in sync with your Wallpaper Engine wallpaper and fix any issues with transparency on Windows 11.
+Falls du Windows 11 mit dem neuen transparenten Design verwendest, wirst du feststellen, dass Wallpaper Engine von Windows 11 ignoriert wird. Um dies zu beheben, aktiviere die Option [b]Hintergrund überschreiben[/b] in den Einstellungen von Wallpaper Engine. Dies stellt sicher, dass der Hintergrund von Windows mit deinem Hintergrund von Wallpaper Engine gleich bleibt, wodurch alle Probleme mit der Transparenz auf Windows 11 behoben werden.
 
-[h2]Changelog[/h2]
+[h2]Alle Änderungen[/h2]
 
-[h3]Additions / Changes[/h3]
-[h4]Main App[/h4]
+[h3]Neuerungen / Veränderungen[/h3]
+[h4]Haupt-Anwendung[/h4]
 [list]
-[*]Added Android support and released the new Wallpaper Engine Companion app for Android.
-[*]Added mobile collection to Discover tab.
-[*]Updated Wallpaper Engine logo, color theme, including app icons.
-[*]Added rounded corner support for Windows 11.
-[*]Added "day of week" playlist mode, limited to 7 wallpapers.
-[*]Re-arranged search filters, added new "mobile compatible" filter option.
-[*]Added "favorite" button when right-clicking on a wallpaper.
-[*]"Stop mode" now turns off automatically while wallpaper is being changed manually.
-[*]Improved user interface for configuring physics bones.
-[*]Increased automatic audio unmute delay from 3 to 5 seconds.
-[*]Added scheme color to "apply to all wallpapers" dialog.
-[*]Removed 12h / 24h clock option from playlist, now detected automatically depending on system settings.
-[*]Added CLI applyProperties support to windowed wallpapers.
-[*]Improved app performance with new JSON parser.
-[*]Updated core application binaries to latest Visual Studio 2022 compiler and latest Win SDK.
-[*]Reduced occurrence of rare cursor flickering issue in CEF.
+[*]Unterstützung für Android hinzugefügt und eine neue Android-Version von Wallpaper Engine veröffentlicht.
+[*]Mobile Sammlung in den Reiter "Entdecken" hinzugefügt.
+[*]Aktualisierung des Logos von Wallpaper Engine und der App-Farben, inklusive des App-Icons.
+[*]Unterstützung für runde Ecken für Windows 11 hinzugefügt.
+[*]Neue Modus für Wiedergabelisten: "Wochentag", limitiert auf 7 Hintergründe.
+[*]Neue Sortierung der Such-Filter, neuer Filter-Option für "mobile Kompatibilität" hinzugefügt.
+[*]Neue Schaltfläche zum Favorisieren beim Rechtsklicken auf einen Hintergrund.
+[*]"Stop-Modus" schaltet sich nun automatisch aus, während ein Hintergrund verändert wird.
+[*]Verbesserte Benutzeroberfläche für das Einstellen von Physik-Bones.
+[*]Automatisches laut-schalten findet nun nach 3 anstatt 5 Sekunden statt.
+[*]Farbschema nun im "An alle Hintergründe anwenden"-Dialog.
+[*]Die Auswahl zum Umschalten zwischen der 12- und 24-stündigen Uhr wurde entfernt, diese Einstellung wird nun automatisch über die System-Einstellungen ausgelesen.
+[*]Hintergründe in einem Fenster können nun über die Konsole applyProperties nutzen.
+[*]Verbesserte App-Leistung mit neuem JSON-Parser.
+[*]Aktualisierung der Bibliotheksdateien zum neuesten Visual Studio 22-Compiler und dem neuesten Windows SDK.
+[*]Reduzierung des Auftretens eines seltenen Problems mit Maus-Flackern in CEF.
 [/list]
-[h4]Wallpaper Editor[/h4]
+[h4]Hintergrund-Editor[/h4]
 [list]
-[*]Added new depth parallax effect.
-[*]Added FREE editor extensions DLC for depth parallax effect. You only need this if you want to use it in the editor, users of your wallpapers do not need this DLC.
-[*]Added color picker tool to editor painting tools.
-[*]Improved support for rendering Chinese, Japanese, Korean and more characters in scene wallpapers text layers with new fonts.
-[*]Improved "Rope Renderer" for particle systems.
-[*]SceneScript: [i]init()[/i] and [i]update()[/i] function will now automatically convert numbers into vectors (Vec2, Vec3, Vec4) when they are returned. This helps to simplify some scripts.
-[*]SceneScript: Reviewed and improved all sample code snippets slightly.
-[*]SceneScript: Update reference URLs to [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url].
-[*]Made transparency cropping work with DXT compression in the editor.
+[*]Neuer Tiefen-Parallax-Effekt hinzugefügt.
+[*]KOSTENLOSER DLC für Editor-Erweiterungen für den Tiefen-Parallax-Effekt hinzugefügt. Du musst diesen DLC nur installieren, wenn du ihn auch im Editor nutzen willst, Nutzer deiner Hintergründe brauchen diesen DLC nicht.
+[*]Farbauswahl-Tool zu den Malfunktionen des Editors hinzugefügt.
+[*]Verbesserte Unterstützung mit neuen Schriftarten für chinesische, japanische, koreanische und weitere Zeichen in Text-Ebenen in Szene-Hintergründen.
+[*]Verbesserter "Seil-Renderer" für Partikelsysteme.
+[*]SceneScript: Die Funktionen [i]init()[/i] und [i]update()[/i] konvertieren nun automatisch Zahlen in Vektoren (Vec2, Vec3, Vec4), wenn diese zurückgegeben werden. Dies kann dabei helfen, einige Scripte zu vereinfachen.
+[*]SceneScript: Überprüfung und Verbesserungen an allen beispielhaften Code-Schnipseln.
+[*]SceneScript: Aktualisierung aller URL-Referenzen zur [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]neuen SceneScript-Dokumentation[/url].
+[*]Abschneiden von Transparenz funktioniert nur auch mit DXT-Komprimierung im Editor.
 [/list]
-[h3]Bug Fixes[/h3]
+[h3]Fehlerbehebungen[/h3]
 [list]
-[*]Fixed "High Performance" option for the texture resolution settings breaking a low number of wallpapers.
-[*]Fixed editor crashing when importing textures with resolutions below the minimum required size.
-[*]Fixed certain filter settings causing wallpapers to show up twice in the "installed" tab.
-[*]Fixed crash related to video textures.
-[*]Fixed JPEG EXIF meta data sometimes not being applied on image layers. If you rotate images with Windows, they should now also appear rotated in the app properly.
-[*]Fixed issue with particle system colors not working properly.
+[*]Behebung, dass die Einstellung "Hohe Leistung" für die Einstellung zur Textur-Auflösung eine kleine Anzahl an Hintergründen kaputt macht.
+[*]Absturz behoben, der auftritt, wenn Texturen mit sehr niedrigen Auflösungen importiert wurden.
+[*]Behebung eines Problems, welches Hintergründe im Reiter "Installiert" doppelt anzeigen lässt.
+[*]Abstürze bei Hintergründen mit Video-Texturen behoben.
+[*]EXIF-Metadaten in JPEG-Dateien werden nun korrekt in Bild-Ebenen angewandt. Wenn du Bilder in Windows rotiert hast, sollten diese nun auch korrekt in der App als rotiert angezeigt werden.
+[*]Behebung eines Problems, wodurch Farben von Partikelsystemen nicht korrekt funktionieren.
 [/list]
 
-[h2]Frequent Questions About The Android App[/h2]
+[h2]Häufige Fragen über die Android-App[/h2]
 
-[h3]How much does the Android app cost?[/h3]
-The Android app is free of charge, there are no hidden costs, no in-app purchases and no advertisements. It can also be used as a standalone app without owning Wallpaper Engine on your computer and import compatible wallpaper files from your mobile device.
+[h3]Wie viel kostet die Android-App?[/h3]
+Die Android-App ist kostenlos, es gibt keine versteckten Kosten, keine versteckten Käufe in der App und auch keine Werbung. Die App kann auch ohne den Besitz von Wallpaper Engine für den PC benutzt werden, dann kannst kompatible Dateien von deinem Mobilgerät importieren.
 
-[h3]Can the Workshop be accessed directly from the Mobile App?[/h3]
-No, the Workshop cannot be accessed from mobile devices due to technical and legal restrictions. We built a convenient way to transfer your existing collection of wallpapers from your computer to Android. We tried to make this process as easy and simple as possible, in most cases you just need to make sure your mobile device and your computer are connected to the same network. [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to learn more.[/url]
+[h3]Kann man aus der mobilen Anwendung direkt auf den Workshop zugreifen[/h3]
+Nein, durch technische und rechtliche Einschränkungen, kann man nicht nicht direkt von mobilen Endgeräten auf den Workshop zugreifen. Wir haben jedoch einen einfachen Weg gebaut, um deine bestehende Sammlung an Hintergründen von deinem Computer auf Android zu übertragen. Wir haben versucht diesen Prozess so einfach wie möglich zu halten, in den meisten Fällen musst du einfach nur sicherstellen, dass dein Mobilgerät und dein Computer im gleichen Netzwerk sind. [url=https://help.wallpaperengine.io/mobile/pairing.html]Klicke hier, um mehr zu erfahren.[/url]
 
-Additionally, you can also just directly import any compatible wallpaper files from the files stored on your mobile device. Wallpaper Engine for Android also works well if you are simply looking for a way to turn any video files on your Android phone or tablet into your mobile wallpaper or if you want to use several static wallpapers in a playlist.
+Zusätzlich kannst du jegliche kompatiblen Hintergrund-Dateien von deinem Mobilgerät importieren. Wallpaper Engine für Android funktioniert auch gut, wenn du einfach nur eine Möglichkeit suchst, jegliche Video-Dateien auf deinem Android-Smartphone oder Tablet in einen mobilen Hintergrund umzuwandeln, alternativ kannst du die App auch verwenden, um mehrere statische Hintergründe in eine Wiedergabeliste zu verwandeln.
 
-[h3]Does Wallpaper Engine drain the battery of my devices?[/h3]
-No, we have optimized the app extensively and most modern devices will not notice a negative effect on battery life in day-to-day usage.
+[h3]Sorgt Wallpaper Engine nicht dafür, dass der Akku meiner Geräte schnell leer wird?[/h3]
+Nein, wir haben die App sehr lange optimiert und die meisten modernen Geräte sollten keine negativen Effekt auf den Akku im täglichen Gebrauch verzeichnen.
 
-We have been using the app for months on our private devices now and on an average day and we have not seen any meaningful battery usage through Wallpaper Engine. The app automatically pauses when another app is full-screened on your device and when your device is turned off. Battery saving mode will automatically pause your live wallpaper to reduce its impact on battery life even further. On top of that, you can also tweak the performance impact in the app settings by adjusting the FPS limit.
+Wir selbst nutzen die App schon seit einigen Monaten auf unseren privaten Geräten und an einem durchschnittlichen Tag haben wir keinen nennenswerten Akkuverbrauch durch Wallpaper Engine feststellen können. Die App pausiert sich automatisch, sobald eine andere Anwendung im Vollbildmodus ist oder wenn dein Gerätebildschirm ausgeschaltet ist. Der Energiesparmodus deines Geräts pausiert zudem den Live-Hintergrund, sodass der Effekt auf die Akkulaufzeiten noch geringer ausfällt. Darüber hinaus kannst du den Einfluss auf die Leistung deines Geräts weiter konfigurieren, indem du das FPS-Limit in den App-Einstellungen anpasst.
 
-[h3]Do wallpapers also play sounds like on Windows?[/h3]
-No, all wallpapers are muted on Android. However, audio visualizers work as long as you grant the app the permission to record your device's audio.
+[h3]Spielen Hintergründe auch Ton ab wie auf Windows?[/h3]
+Nein, alle Hintergründe auf Android spielen keinen Ton ab. Audio-Visualisierungen funktionieren jedoch, solange du der App den Zugriff auf den Ton deines Geräts gestattest.
 
-[h3]Can I set a wallpaper on my Android lock screen?[/h3]
-This depends on your device. Some Android manufacturers do not allow live wallpapers on the lock screen while some others do. If you are not offered the option to set a lock screen wallpaper, then your device manufacturer does not allow it.
+[h3]Kann ich einen Hintergrund auf dem Sperrbildschirm meines Geräts setzen?[/h3]
+Dies kommt auf dein Gerät an. Einige Android-Herstellen erlauben es nicht, Live-Hintergründe auf dem Sperrbildschirm zu setzen, während andere dies zulassen. Wenn du die Option zum Setzen eines Live-Hintergrunds auf dem Sperrbildschirm erhältst, dann erlaubt es dein Geräte-Hersteller nicht.
 
-[h3]What about Wallpaper Engine on iOS for iPhones and iPads?[/h3]
-Unfortunately, Apple's iOS does not support true live wallpapers like Android. It is not possible to create anything similar to Wallpaper Engine on iOS. If Apple ever changes their mind on this, we will likely also follow-up with an iOS version. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Click here to learn our lengthy explanation about Linux, Mac OS and iOS.[/url]
+[h3]Was ist mit Wallpaper Engine für iOS auf iPhones und iPads?[/h3]
+Leider unterstützt Apples iOS keine echten Live-Hintergründe wie Android. Es ist nicht möglich, eine Anwendung im Umfang von Wallpaper Engine auf iOS zu entwickeln. Wenn Apple je die Meinung zu diesem Thema ändert, würden wir in Zukunft wahrscheinlich auch eine iOS-Version veröffentlichen. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Klicke hier, um unsere längere Erklärung über Linux, Mac OS und iOS zu lesen.[/url]
 
 
 [table equalcells=1 noborder=1]
     [tr][td][/td][td][/td][td][img]{STEAM_CLAN_IMAGE}/26312799/c42514f38e70a8cab07f98f9263ba8a12b0a0c0c.gif[/img][/td][td][/td][td][/td][/tr]
 [/table]
 
-[h2]Feedback, Questions and Technical Support for Android[/h2]
-If you have any questions, suggestions or general feedback about the new Android app or if you run into any technical issues, be sure to post a message on the Android section of our Steam board:
+[h2]Feedback, Fragen und technische Unterstützung für Android[/h2]
+Falls du irgendwelche Fragen, Vorschläge oder sonstiges Feedback über die neue Android-App hast, oder falls bei dir technische Probleme auftreten, schreibe am besten eine Nachricht in der Android-Sektion unseres Steam-Boards:
 
-[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android App Discussions[/url][/list]
+[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android App-Diskussionen[/url][/list]

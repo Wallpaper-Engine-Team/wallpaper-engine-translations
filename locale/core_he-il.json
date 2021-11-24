@@ -1,5 +1,7 @@
 {
 	"core_tray_change_wallpaper": "שנה רקע",
+	"core_tray_change_screensaver": "שנה את מגן המסך",
+	"core_tray_browse_workshop": "עיין בוורקשופ של סטים",
 	"core_tray_create_wallpaper": "צור רקע",
 	"core_tray_settings": "הגדרות",
 	"core_tray_take_screenshot": "צלם מסך",
@@ -14,6 +16,7 @@
 	"core_tray_next_wallpaper": "רקע הבא",
 	"core_tray_mute": "השתק",
 	"core_tray_unmute": "בטל השתקה",
+	"core_tray_playlist_prefix": "רשימת הפעלה:",
 	"core_balloon_info": "היישום כווץ לסרגל המערכת, לחץ פעמיים על הסמל לבחירת רקע אחר",
 	"core_balloon_desktop_window_error": "הכנת שולחן העבודה לרקע חי נכשלה",
 	"core_balloon_video_error": "התרחשה שגיאה בווינדאוס וידאו {{err}}. תלחץ עלי לקבל עזרה",
@@ -36,6 +39,7 @@
 	"core_msgbox_below_win_7": "בכדי שהישום יעבוד נדרש ווינדאוס 7 ומעלה, זו דרישת מערכת.\n\nככל הניראה אתה רץ על גירסה לא נתמכת של ווינדאוס והישום עלול לא לעבוד.",
 	"core_msgbox_media_feature_pack_missing": "mfplat.dll חסר!\nייתכן שיש לך Windows N. בבקשה תוריד את חבילת המדיה של מיקרוסופט בכדי לאפשר תמיכה בוידאו! (Google: Media Feature Pack Windows 10/8.1/7)\n\nאם אתה ממשיך לראות את השגיאה הזאת, זאת אומרת שעוד לא הורדת את החבילה הנכונה.",
 	"core_msgbox_ui_file_not_found": "לא ניתן לפתוח את הקבצים של התוכנה.\n\nיכול להיות שיש לך תו לא חוקי בנתיב ההתקנה, יכול להיות שהקובץ חסר או שהתוכנה נחסמת על ידי אנטי וירוס.\n\nתנסה להוריד את התוכנה לאותה התקייה שנמצא הסטים או שתיצור ספרייה של סטים עם תווים פשוטים.",
+	"core_msgbox_trial_expired_title": "פג התוקף של גרסת הניסיון",
 	"core_updater_headline_init": "מגדיר את Wallpaper Engine...",
 	"core_updater_headline_update": "מעדכן לגרסה {{version}}...",
 	"core_updater_headline_init_complete": "הכנת הגרסה {{version}} הסתיימה.  מתחיל את התוכנה מיד",

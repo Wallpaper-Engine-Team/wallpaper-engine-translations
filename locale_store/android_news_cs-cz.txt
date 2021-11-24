@@ -8,22 +8,22 @@ Ahoj všichni, dnes vydáváme [b]Wallpaper Engine 2.0[/b]! Tato aktualizace př
 
 [h2]Doplňková aplikace Wallpaper Engine pro Android[/h2]
 
-We are happy to finally release the [i][b]free[/b] Wallpaper Engine Android companion app[/i]. Some key features of the app are as follows:
+Jsme rádi, že můžeme konečně vydat [i][b]bezplatnou[/b] doplňkovou aplikaci Wallpaper Engine pro Android[/i]. Pojďme si představit několik klíčových vlastností aplikace:
 
-[list][*]No hidden costs, no advertisements, no user tracking or data collection.
-[*]Transfer [b]Scene[/b] and [b]Video[/b] type wallpapers from Wallpaper Engine on your computer to Android wirelessly.
-[*]Import any compatible files from your device as a wallpaper: [i]Videos, GIFs, images & Wallpaper Engine wallpapers[/i]
-[*]Create a playlist of your wallpapers and use different playlist modes
-[*]Automatically pauses when power saving mode is enabled, offers FPS and quality settings.
-[*]Full support for dynamic audio visualizers, clocks & other dynamic wallpaper elements
-[*]Let wallpapers move along with the motion of your device [i](devices with gyroscope)[/i]
-[*]Support for automatic theme colors based on the current wallpaper, including Android 12's [b]Material You[/b][/list]
+[list][*]Žádné skryté poplatky, žádné reklamy, žádné sledování uživatelů ani shromažďování údajů.
+[*]Bezdrátový přenos tapet typu [b]Scéna[/b] a [b]Video[/b] z programu Wallpaper Engine na počítači do aplikace v systému Android.
+[*]Jakékoli kompatibilní soubory můžete importovat ze svého zařízení jako tapetu: [i]Videa, GIFy, obrázky a tapety z aplikace Wallpaper Engine.[/i]
+[*]Vytvořte si seznam svých tapet a používejte různé režimy playlistů.
+[*]Při aktivaci úsporného režimu se aplikace automaticky pozastaví. K dispozici jsou nastavení upřednostňující rychlost nebo kvalitu.
+[*]Úplná podpora pro dynamickou vizualizaci zvuku, hodiny a další dynamické prvky tapet.
+[*]Nechte tapety plynout spolu s pohybem vašeho zařízení [i](zařízení s gyroskopem)[/i].
+[*]Podpora pro automatické barvy motivů v závislosti na aktuální tapetě, a to včetně motivu [b]Material You[/b] z Androidu 12.[/list]
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Real-time interactive wallpapers on Android[/b]
+        [td][b]Interaktivní tapety pro Android v reálném čase[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/757da27656323aa0dcd02c29678906c7efd09442.gif[/img][/td]
-        [td][b]Customize your wallpapers to your liking[/b]
+        [td][b]Přizpůsobte si tapety k obrazu svému[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/779d938b4f04f2e7e9a07a46ca09517749f105ec.gif[/img][/td]
     [/tr]
@@ -32,11 +32,11 @@ We are happy to finally release the [i][b]free[/b] Wallpaper Engine Android comp
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Visualize your music with audio responsive wallpapers. Credit: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
+        [td][b]Dodejte své hudbě vizuální vyjádření díky tapetám reagujícím na zvuk. Autoři: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/d590754450672c1b121668604832ef5b61568972.gif[/img]
 [/td]
-        [td][b]Let wallpapers react to the motion of your device [i](devices with gyroscope)[/i][/b]
+        [td][b]Nechte tapety reagovat na pohyb vašeho zařízení [i](zařízení s gyroskopem)[/i][/b].
 
 [img]{STEAM_CLAN_IMAGE}/26312799/75962cf9e8e5635216d7ded68e3527a731e1e565.gif[/img][/td]
     [/tr]
@@ -44,136 +44,136 @@ We are happy to finally release the [i][b]free[/b] Wallpaper Engine Android comp
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Customize the app by configuring playlists, performance settings and more[/b]
+        [td][b]Upravte si aplikaci konfigurací playlistů, výkonnostních nastavení a dalších prvků[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/a609a043455539f48a87e7d692a4eea9722ff9d1.gif[/img]
 [/td]
-        [td][b]Wirelessly transfer your Workshop wallpapers from your computer[/b]
+        [td][b]Přenášejte si bezdrátově své tapety z Workshopu z vašeho počítače[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/f8f24e382022472d8972af5f3dbd73f2556cdfdc.gif[/img][/td]
     [/tr]
 [/table]
-[h3]Download Wallpaper Engine for Android[/h3]
-We recommend installing the app through an official app store, however, we also offer a direct APK download for more advanced users. View our website for all installation options here:
+[h3]Stáhněte si Wallpaper Engine pro Android[/h3]
+Aplikaci doporučujeme instalovat prostřednictvím oficiálního obchodu s aplikacemi, ale nabízíme také přímé stažení souboru APK pro pokročilejší uživatele. Všechny možnosti instalace najdete na našem webu:
 
-[list][*][h3][i][b][url=wallpaperengine.io/android]Download the Wallpaper Engine Android Companion App[/url][/b][/i][/h3][/list]
-[h3]Adding new Wallpapers to Android[/h3]
-Directly connecting to the Workshop from a mobile device is not possible from a technical and legal point of view. However, we built a convenient system that allows owners of Wallpaper Engine on Windows to transfer their wallpapers to Android devices with ease:
+[list][*][h3][i][b][url=wallpaperengine.io/android]Stáhněte si doprovodnou aplikaci Wallpaper Engine pro Android[/url][/b][/i][/h3][/list]
+[h3]Přidávání nových wallpaperů pro Android[/h3]
+Přímé připojení k Workshopu z mobilního zařízení není možné z technických a právních důvodů. Vytvořili jsme ale pohodlný systém, který umožňuje vlastníkům aplikace Wallpaper Engine v systému Windows snadno přenést tapety na zařízení se systémem Android:
 
-[b]Step 1:[/b] Click on the new [b]Mobile[/b] button in Wallpaper Engine on Windows, then select [b]Connect new device[/b]. Wallpaper Engine will show you a 4 digit PIN that you can use to connect to your mobile device now.
+[b]Krok 1:[/b] Klikněte na nové tlačítko [b]Mobil[/b] v aplikaci Wallpaper Engine ve Windows, pak vyberte možnost [b]Připojit nové zařízení[/b]. Wallpaper Engine zobrazí 4místný kód PIN, který, který můžete použít k okamžitému připojení vašeho mobilního zařízení.
 
-[b]Step 2:[/b] Open Wallpaper Engine on your Android device and click on the [b]Add[/b] button in the lower right corner. Select [b]Pair with Computer[/b], your computer should now be visible in the device list. Select it and enter the 4 digit PIN from step 1.
+[b]Krok 2:[/b] Otevřete Wallpaper Engine na vašem zařízení se systémem Android a klikněte na tlačítko [b]Přidat[/b] v pravém dolním rohu. Vyberte možnost [b]Párovat s počítačem[/b]. Váš počítač by pak měl být uveden ve vašem seznamu zařízení. Vyberte jej a zadejte 4místný kód PIN z kroku 1.
 
-[b]Step 3:[/b] Your devices should now be connected. Right-click on any compatible wallpaper and click on [b]Send to mobile device[/b], then select your mobile device from the list. Your wallpaper will now be transferred.
+[b]Krok 3:[/b] Vaše zařízení by teď měla být připojena. Klikněte pravým tlačítkem na kompatibilní tapetu a pak klikněte na [b]Odeslat do mobilního zařízení[/b]. Poté vyberte v seznamu mobilní zařízení. Vaše tapeta se nyní přenese.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/0fc8bc609bd7d959fa87fe7f90e3f1612ba67cd1.gif[/img]
 
-[b]If you are unable to connect to Android:[/b] Right-click on any wallpaper and select [b]Send to mobile device[/b], then select [b]Export .mpkg[/b]. You can then transfer the exported mobile package file to your mobile device via cable or by transferring it to your mobile device in another way.
+[b]Pokud se nemůžete připojit k systému Android:[/b] Klikněte pravým tlačítkem na jakoukoli tapetu a vyberte možnost [b]Odeslat do mobilního zařízení[/b], pak vyberte [b]Exportovat .mpkg[/b]. Exportovaný soubor mobilního balíčku pak můžete přenést na své mobilní zařízení přes kabel, nebo jiným způsobem přenosu.
 
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to read our Android connection guide.[/url][/list]
-[i]Tip: You can also transfer folders or multiple wallpapers at the same time by multi-selecting them by holding the CTRL key. Clicking [b]CTRL + A[/b] in the [b]Installed[/b] tab selects all installed wallpapers and lets you transfer them all at the same time.[/i]
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Klikněte sem a přečtěte si našeho průvodce připojením systému Android.[/url][/list]
+[i]Tip: Lze přenést i více souborů nebo tapet najednou tím, že je vyberete s přidrženou klávesou CTRL. Když stisknete [b]CTRL + A[/b] ve složce s [b]instalací[/b], vyberou se všechny nainstalované tapety, které pak můžete všechny zároveň přenést.[/i]
 
-[h2]New Wallpaper Engine Logo[/h2]
-Along with the release of the Android version of Wallpaper Engine, we felt it was time to update our logo. The old logo mainly consisted of a computer screen - which does not make much sense on a mobile device. A major release 2.0 release felt like the best time to try something new and we are very happy with the outcome.
+[h2]Nové logo aplikace Wallpaper Engine[/h2]
+Vzhledem k vydání verze aplikace Wallpaper Engine pro Android jsme dospěli k závěru, že je čas aktualizovat i naše logo. Staré logo bylo tvořeno hlavně počítačovou obrazovkou, což na mobilním zařízení nedává moc velký smysl. Vydání hlavní verze 2.0 nám připadalo jako skvělý čas vyzkoušet něco nového. S výsledkem jsme opravdu spokojeni.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/1f283ac68453f6bf3beb36c1fd49ebbe680685a0.png[/img]
 
-We have experimented a lot with different designs and settled on a new logo which keeps the spirit of the old design, but with a more modern spin. With Wallpaper Engine 2.0, you will find the new logo throughout the application, in Windows and on our websites:
+Experimentovali jsme s různými návrhy a rozhodli se pro nové logo, které vychází ze starého designu, ale přidává mu moderní pojetí. Ve Wallpaper Engine 2.0 najdete nové logo napříč celou aplikaci, ve Windows i na našich webech:
 
 [img]{STEAM_CLAN_IMAGE}/26312799/ecb522ad46fedd9502a715ae38937246172dfcbe.png[/img]
 
-[h2]New Depth Parallax Effect[/h2]
-A major new addition to the Wallpaper Engine editor is our new Depth Parallax effect. This effect will allow you to create a perceived 3D depth to your images. On computers, the effect is influenced by the mouse while on Android, the movement of the phone will simulate the mouse movement.
+[h2]Nový hloubkový paralaxní efekt[/h2]
+Velkou novinkou editoru Wallpaper Engine je náš nový hloubkový paralaxní efekt. Tento efekt vám dovolí přidat do vašich obrázků dojem 3D hloubky. Na počítačích se efekt ovládá myší, na systému Android se pohyb myši simuluje pohybem telefonu.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
-To make full-use of the effect in the wallpaper editor, we recommend installing our new [b][i]free[/i][/b] [i]Editor Extensions DLC[/i]. We decided to separate this particular editor feature into an optional DLC because the features requires a download which is several gigabytes in size. When first using the effect in the editor, Wallpaper Engine will ask you to install the DLC for you. For more infos, see our full guide on how to install and use the depth parallax effect in the editor:
+Abyste mohli plně využívat editoru tapet, doporučujeme vám nainstalovat naše nová [b][i]bezplatná[/i][/b] [i]DLC rozšíření editoru[/i]. Rozhodli jsme se tyto funkce editoru vyčlenit do volitelného balíčku DLC, protože je kvůli nim nutné stahovat několik gigabytů dat. Aplikace Wallpaper Engine vás k instalaci balíčku DLC vyzve při prvním využití tohoto efektu v editoru. Další informace k instalaci a používání hloubkového paralaxního efektu v editoru najdete v našem úplném průvodci:
 
-[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Depth Parallax[/url] (Only available in English right now - machine translation works well)[/list]
-[b]It's important to note:[/b] You do not need to install the free DLC unless you want to use the effect in the editor yourself - the effect will still work on computers and mobile devices even if the free DLC is not installed.
+[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Hloubkový paralaxní efekt[/url] (K dispozici pouze v angličtině – strojový překlad ale poslouží dobře)[/list]
+[b]Co je důležité poznamenat:[/b] Pokud nechcete používat efekt v editoru jako takovém, nemusíte toto bezplatné DLC instalovat. Efekt bude na počítačích a mobilních zařízeních fungovat i v případě, že bezplatné DLC nenainstalujete.
 
-[h2]Weekday Playlists[/h2]
-A popular request that we have received over time was the way to configure one wallpaper per weekday. With this update, we are introducing a new weekday playlist. Simply add up to seven wallpapers to the playlist in the [b]Installed[/b] tab of Wallpaper Engine, then click on [b]Configure[/b] in the playlist section and select the [b]Day of Week[/b] option from there. You will also find the already existing playlist options there, such as the [b]Time of Day[/b] playlist type.
+[h2]Playlisty pro dny v týdnu[/h2]
+Častokrát jste nás žádali, abychom umožnili nakonfigurovat jednu tapetu pro každý den v týdnu. Spolu s touto aktualizací zavádíme nový playlist pro dny v týdnu. Jednoduše do playlistu na kartě [b]Nainstalované[/b] v aplikaci Wallpaper Engine přidejte až sedm tapet a pak v sekci playlist klikněte na [b]Konfigurovat[/b]. Zde pak vyberte možnost [b]Den v týdnu[/b]. Zde také najdete již existující možnosti pro playlist, například playlist typu [b]Denní doba[/b].
 
 [h2]Windows 11[/h2]
-Wallpaper Engine fully supports Windows 11, with this update, we are also adding support for the new rounded corners user interface design. If you are upgrading to Windows 11 and experience any issues with Wallpaper Engine, make sure to do a full re-installation of the latest graphics card drivers. Most Windows 11 users who reached out to us with issues were using outdated graphics card drivers.
+Wallpaper Engine plně podporuje systém Windows 11. S touto aplikací přidáváme také podporu pro uživatelské rozhraní se zaoblenými rohy. Pokud upgradujete na Windows 11 a budete mít s aplikaci Wallpaper Engine jakékoli problémy, nezapomeňte provést úplnou reinstalaci nejnovějších ovladačů grafické karty. Většina uživatelů Windows 11, kteří se na nás obrátili s problémy, používala zastaralé ovladače grafické karty.
 
-If you are using a Windows 11 theme with transparency, you will notice that Wallpaper Engine will be ignored by Windows 11. To fix this issue, simply enable the new [b]Override wallpaper[/b] option in the Wallpaper Engine settings. This will keep your Windows wallpaper in sync with your Wallpaper Engine wallpaper and fix any issues with transparency on Windows 11.
+Pokud používáte motiv Windows 11 s průhledností, pak dojde k situaci, že Windows 11 budou Wallpaper Engine ignorovat. Abyste tento problém napravili, jednoduše povolte novou možnost [b]Přepsat tapetu[/b] v nastavení aplikace Wallpaper Engine. Vaše tapeta Windows pak bude synchronizována s tapetou aplikace Wallpaper Engine. Tím dojde k opravě všech potíží s průhledností ve Windows 11.
 
-[h2]Changelog[/h2]
+[h2]Protokol změn[/h2]
 
-[h3]Additions / Changes[/h3]
-[h4]Main App[/h4]
+[h3]Přídavky / Změny[/h3]
+[h4]Hlavní aplikace[/h4]
 [list]
-[*]Added Android support and released the new Wallpaper Engine Companion app for Android.
-[*]Added mobile collection to Discover tab.
-[*]Updated Wallpaper Engine logo, color theme, including app icons.
-[*]Added rounded corner support for Windows 11.
-[*]Added "day of week" playlist mode, limited to 7 wallpapers.
-[*]Re-arranged search filters, added new "mobile compatible" filter option.
-[*]Added "favorite" button when right-clicking on a wallpaper.
-[*]"Stop mode" now turns off automatically while wallpaper is being changed manually.
-[*]Improved user interface for configuring physics bones.
-[*]Increased automatic audio unmute delay from 3 to 5 seconds.
-[*]Added scheme color to "apply to all wallpapers" dialog.
-[*]Removed 12h / 24h clock option from playlist, now detected automatically depending on system settings.
-[*]Added CLI applyProperties support to windowed wallpapers.
-[*]Improved app performance with new JSON parser.
-[*]Updated core application binaries to latest Visual Studio 2022 compiler and latest Win SDK.
-[*]Reduced occurrence of rare cursor flickering issue in CEF.
+[*]Byla přidána podpora pro systém Android a došlo k vydání nové verze doplňkové aplikace Wallpaper Engine pro Android.
+[*]Na kartu Objevovat byla přidána mobilní kolekce.
+[*]Bylo aktualizováno logo aplikace Wallpaper Engine, barevný motiv a také ikony aplikace.
+[*]Došlo k přidáno podpory zaoblených rohů pro Windows 11.
+[*]Přidán režim playlistu „Den v týdnu“ omezený na 7 tapet.
+[*]Přepracované filtry vyhledávání, přidána nová možnost filtru „kompatibilní s mobilem“.
+[*]Přidáno tlačítko „Oblíbené“ po kliknutí pravým tlačítkem myši na tapetu.
+[*]„Režim zastavení“ se nyní při ruční výměně tapety vypíná automaticky.
+[*]Vylepšené uživatelské rozhraní pro konfiguraci fyzických kostí.
+[*]Prodloužená prodleva automatického zrušení ztišení ze 3 na 5 sekund.
+[*]Přidáno barevné schéma do dialogu „použít na všechny tapety“.
+[*]Z playlistu byla odebrána možnost nastavení 12h / 24h hodinového systému, protože se toto nastavení automaticky bere z nastavení systému.
+[*]K tapetám v okně byla přidána podpora CLI applyProperties.
+[*]Vylepšený výkon aplikace díky nové analytické rutině JSON.
+[*]Aktualizovány spouštěcí soubory základní aplikace díky využití nejnovějšího kompilátoru Visual Studio 2022 a nejnovějších Win SDK.
+[*]Snížena míra výskytu vzácného problému s blikáním kurzoru v CEF.
 [/list]
-[h4]Wallpaper Editor[/h4]
+[h4]Editor tapet[/h4]
 [list]
-[*]Added new depth parallax effect.
-[*]Added FREE editor extensions DLC for depth parallax effect. You only need this if you want to use it in the editor, users of your wallpapers do not need this DLC.
-[*]Added color picker tool to editor painting tools.
-[*]Improved support for rendering Chinese, Japanese, Korean and more characters in scene wallpapers text layers with new fonts.
-[*]Improved "Rope Renderer" for particle systems.
-[*]SceneScript: [i]init()[/i] and [i]update()[/i] function will now automatically convert numbers into vectors (Vec2, Vec3, Vec4) when they are returned. This helps to simplify some scripts.
-[*]SceneScript: Reviewed and improved all sample code snippets slightly.
-[*]SceneScript: Update reference URLs to [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url].
-[*]Made transparency cropping work with DXT compression in the editor.
+[*]Byl přidán nový hloubkový paralaxní efekt.
+[*]Přidána BEZPLATNÁ DLC rozšíření editoru s hloubkovým paralaxním efektem. Tento balíček potřebujete pouze v případě, že chcete efekt používat v editoru, uživatelé vašich tapet toto DLC nepotřebují.
+[*]Mezi nástroje editoru byl přidán nástroj pro výběr barev.
+[*]Došlo k vylepšení podpory pro vykreslování nových fontů čínských, japonských, korejských a dalších znaků v textových vrstvách scénických tapet.
+[*]Byla vylepšena „renderovací rutina pro lana“ v částicových systémech.
+[*]SceneScript: Funkce [i]init()[/i] a [i]update()[/i] nyní automaticky převádí návratovou hodnotu z čísel na vektory (Vec2, Vec3, Vec4). Tím se některé skripty zjednoduší.
+[*]SceneScript: Byly přezkoumány a mírně vylepšeny všechny vzorové výstřižky kódů.
+[*]SceneScript: Aktualizovány referenční adresy URL na [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]novou dokumentaci pro SceneScript[/url].
+[*]Ořezávání transparentnosti nyní v editoru funguje s kompresí DXT.
 [/list]
-[h3]Bug Fixes[/h3]
+[h3]Opravy chyb[/h3]
 [list]
-[*]Fixed "High Performance" option for the texture resolution settings breaking a low number of wallpapers.
-[*]Fixed editor crashing when importing textures with resolutions below the minimum required size.
-[*]Fixed certain filter settings causing wallpapers to show up twice in the "installed" tab.
-[*]Fixed crash related to video textures.
-[*]Fixed JPEG EXIF meta data sometimes not being applied on image layers. If you rotate images with Windows, they should now also appear rotated in the app properly.
-[*]Fixed issue with particle system colors not working properly.
+[*]Opravena chyba, kdy možnost „Vysoký výkon“ u nastavení rozlišení textury způsobila rozbití některých tapet.
+[*]Opraven pád editoru při importování textur s rozlišením pod minimální požadovanou velikostí.
+[*]Opravena určitá nastavení filtru, která způsobovala dvojité zobrazení tapet na kartě „Nainstalované“.
+[*]Opraven pád související s video texturami.
+[*]Opravena chyba, kdy se metadata JPEG EXIF někdy neaplikovala na vrstvy obrázků. Pokud ve Windows obrázky otočíte, měly by se nyní správně zobrazovat i v aplikaci.
+[*]Opravena chyba, kdy barvy částicových systémů nefungovaly správně.
 [/list]
 
-[h2]Frequent Questions About The Android App[/h2]
+[h2]Časté otázky o aplikaci pro Android[/h2]
 
-[h3]How much does the Android app cost?[/h3]
-The Android app is free of charge, there are no hidden costs, no in-app purchases and no advertisements. It can also be used as a standalone app without owning Wallpaper Engine on your computer and import compatible wallpaper files from your mobile device.
+[h3]Kolik stojí aplikace pro Android?[/h3]
+Aplikace pro Android je zdarma bez skrytých nákladů, bez nákupů v aplikaci a bez reklam. Můžete ji používat i jako samostatnou aplikaci, aniž byste měli Wallpaper Engine na počítači. Díky aplikaci můžete importovat kompatibilní soubory tapet z vašeho mobilního zařízení.
 
-[h3]Can the Workshop be accessed directly from the Mobile App?[/h3]
-No, the Workshop cannot be accessed from mobile devices due to technical and legal restrictions. We built a convenient way to transfer your existing collection of wallpapers from your computer to Android. We tried to make this process as easy and simple as possible, in most cases you just need to make sure your mobile device and your computer are connected to the same network. [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to learn more.[/url]
+[h3]Dá se do Workshopu dostat přímo z mobilní aplikace?[/h3]
+Ne, do Workshopu se nedá dostat z mobilních zařízení kvůli technickým a právním omezením. Vytvořili jsme ale pohodlný způsob, jak převést vaši stávající kolekci tapet z počítače na systém Android. Pokusili jsme se tento proces co možná nejvíce usnadnit. Ve většině případů se jen musíte postarat o to, aby bylo vaše zařízení připojeno ke stejné síti, na jaké je už váš počítač. [url=https://help.wallpaperengine.io/mobile/pairing.html]Klikněte sem a dozvíte se víc.[/url]
 
-Additionally, you can also just directly import any compatible wallpaper files from the files stored on your mobile device. Wallpaper Engine for Android also works well if you are simply looking for a way to turn any video files on your Android phone or tablet into your mobile wallpaper or if you want to use several static wallpapers in a playlist.
+Kromě toho můžete také přímo importovat jakékoli kompatibilní soubory tapet ze souborů uložených na vašem mobilním zařízení. Wallpaper Engine pro Android funguje skvěle i v případech, kdy jen hledáte způsob, jak převést video soubory na vašem telefonu nebo tabletu s Androidem na mobilní tapetu, nebo pokud chcete používat několik statických tapet v playlistu.
 
-[h3]Does Wallpaper Engine drain the battery of my devices?[/h3]
-No, we have optimized the app extensively and most modern devices will not notice a negative effect on battery life in day-to-day usage.
+[h3]Vyčerpává Wallpaper Engine baterii mých zařízení?[/h3]
+Ne, aplikaci jsme výrazně optimalizovali, a tak na většině moderních zařízení při každodenním používání žádný vliv na výdrž baterie nezaznamenáte.
 
-We have been using the app for months on our private devices now and on an average day and we have not seen any meaningful battery usage through Wallpaper Engine. The app automatically pauses when another app is full-screened on your device and when your device is turned off. Battery saving mode will automatically pause your live wallpaper to reduce its impact on battery life even further. On top of that, you can also tweak the performance impact in the app settings by adjusting the FPS limit.
+Na soukromých zařízeních používáme aplikaci už měsíce a většinou jsme nezaznamenali žádný dopad aplikace Wallpaper Engine na výdrž baterie. Aplikace se automaticky pozastaví, jakmile se přepnete na zařízení do jiné obrazovky, nebo pokud zařízení vypnete. Režim úspory baterie automaticky pozastaví živou tapetu, aby její dopad na výdrž baterie byl co nejmenší. Kromě toho můžete dopad aplikace na výkonnost ještě doladit v nastavení díky limitu snímkové frekvence.
 
-[h3]Do wallpapers also play sounds like on Windows?[/h3]
-No, all wallpapers are muted on Android. However, audio visualizers work as long as you grant the app the permission to record your device's audio.
+[h3]Přehrávají tapety zvuky podobně jako ve Windows?[/h3]
+Ne, všechny tapety v systému Android jsou tiché. Nicméně vizualizátory zvuku fungovat budou, jen musíte dát aplikaci oprávnění k nahrávání zvuku vašeho zařízení.
 
-[h3]Can I set a wallpaper on my Android lock screen?[/h3]
-This depends on your device. Some Android manufacturers do not allow live wallpapers on the lock screen while some others do. If you are not offered the option to set a lock screen wallpaper, then your device manufacturer does not allow it.
+[h3]Mohu nastavit tapetu na uzamykací obrazovce Androidu?[/h3]
+To záleží na vašem zařízení. Někteří výrobci zařízení se systémem Adnroid nedovolují živé tapety na uzamykací obrazovce, jiní ano. Pokud nemáte v nabídce možnost nastavit tapetu uzamykací obrazovky, pak to výrobce vašeho zařízení zakázal.
 
-[h3]What about Wallpaper Engine on iOS for iPhones and iPads?[/h3]
-Unfortunately, Apple's iOS does not support true live wallpapers like Android. It is not possible to create anything similar to Wallpaper Engine on iOS. If Apple ever changes their mind on this, we will likely also follow-up with an iOS version. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Click here to learn our lengthy explanation about Linux, Mac OS and iOS.[/url]
+[h3]Bude aplikace Wallpaper Engine pro iOS na iPhonech a iPadech?[/h3]
+Bohužel operační systém Apple iOS nepodporuje skutečně živé tapety, které jsou podporovány na Androidu. V systému iOS tedy není možné vytvořit aplikaci, která by fungovala jako Wallpaper Engine. Pokud společnost Apple změní svůj přístup k této záležitosti, nejspíše na to brzy navážeme verzí naší aplikace pro iOS. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Klikněte sem, pokud si chcete přečíst naše obšírné vysvětlení situace s operačními systémy Linux, Mac OS a iOS.[/url]
 
 
 [table equalcells=1 noborder=1]
     [tr][td][/td][td][/td][td][img]{STEAM_CLAN_IMAGE}/26312799/c42514f38e70a8cab07f98f9263ba8a12b0a0c0c.gif[/img][/td][td][/td][td][/td][/tr]
 [/table]
 
-[h2]Feedback, Questions and Technical Support for Android[/h2]
-If you have any questions, suggestions or general feedback about the new Android app or if you run into any technical issues, be sure to post a message on the Android section of our Steam board:
+[h2]Zpětná vazba, otázky a technická podpora pro Android[/h2]
+Pokud budete mít jakékoli otázky nebo zpětnou vazbu k nové aplikaci pro Android, nebo pokud narazíte na jakékoli technické problémy, určitě nám zanechte zprávu na Steamu v sekci Android:
 
-[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android App Discussions[/url][/list]
+[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine – Diskuse k aplikaci pro Android[/url][/list]

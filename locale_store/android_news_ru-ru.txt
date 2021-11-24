@@ -1,29 +1,29 @@
-Wallpaper Engine 2.0 - Free Android App, New Logo, New Features and More!
+Wallpaper Engine 2.0 — бесплатное приложение для Android, новый логотип, новые функции и многое другое!
 
-Wallpaper Engine 2.0 introduces support for Android, comes with a new logo, adds a new 3D depth effect and a handful of other additions and improvements to Wallpaper Engine.
+Wallpaper Engine 2.0 теперь поддерживается Android, получило новый логотип, новый эффект трехмерной глубины и несколько других дополнений и улучшений по сравнению с первой версией Wallpaper Engine.
 
-FREE Android App
+БЕСПЛАТНОЕ приложение для Android
 
-Hello everyone, today we are releasing [b]Wallpaper Engine 2.0[/b]! The update brings support for Android, a new logo, a new 3D depth effect and a handful of other additions and improvements to Wallpaper Engine.
+Всем привет, сегодня мы выпускаем [b]Wallpaper Engine 2.0[/b]! Обновление включает поддержку Android, новый логотип, новый эффект трехмерной глубины и ряд других дополнений и улучшений по сравнению с первой версией Wallpaper Engine.
 
-[h2]Wallpaper Engine Android Companion App[/h2]
+[h2]Приложение-спутник для Android Wallpaper Engine[/h2]
 
-We are happy to finally release the [i][b]free[/b] Wallpaper Engine Android companion app[/i]. Some key features of the app are as follows:
+Мы рады наконец-то выпустить [i][b]бесплатное[/b] приложение-спутник для Android Wallpaper Engine[/i]. Вот некоторые ключевые особенности приложения:
 
-[list][*]No hidden costs, no advertisements, no user tracking or data collection.
-[*]Transfer [b]Scene[/b] and [b]Video[/b] type wallpapers from Wallpaper Engine on your computer to Android wirelessly.
-[*]Import any compatible files from your device as a wallpaper: [i]Videos, GIFs, images & Wallpaper Engine wallpapers[/i]
-[*]Create a playlist of your wallpapers and use different playlist modes
-[*]Automatically pauses when power saving mode is enabled, offers FPS and quality settings.
-[*]Full support for dynamic audio visualizers, clocks & other dynamic wallpaper elements
-[*]Let wallpapers move along with the motion of your device [i](devices with gyroscope)[/i]
-[*]Support for automatic theme colors based on the current wallpaper, including Android 12's [b]Material You[/b][/list]
+[list][*]Никаких скрытых затрат, никакой рекламы, никакого отслеживания пользователей или сбора данных.
+[*]Переносите обои типа [b]Сцена[/b] и [b]Видео[/b] из Wallpaper Engine с вашего компьютера на Android по беспроводной сети.
+[*]Импортируйте любые совместимые файлы со своего устройства в качестве обоев: [i]Видео, GIF-файлы, изображения и обои Wallpaper Engine[/i]
+[*]Создайте плейлист из своих обоев и используйте разные режимы плейлиста.
+[*]Приложение автоматически приостанавливается при включении режима энергосбережения, предлагает настройки FPS и качества.
+[*]Полная поддержка динамических аудиовизуализаторов, часов и других динамических элементов обоев.
+[*]Теперь обои реагируют на движение вашего устройства [i](для устройств с гироскопом)[/i]
+[*]Поддержка автоматических цветных тем на основе текущих обоев, включая [b]Material You[/b] для Android 12[/list]
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Real-time interactive wallpapers on Android[/b]
+        [td][b]Интерактивные обои в реальном времени для Android[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/757da27656323aa0dcd02c29678906c7efd09442.gif[/img][/td]
-        [td][b]Customize your wallpapers to your liking[/b]
+        [td][b]Настройте обои по своему вкусу[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/779d938b4f04f2e7e9a07a46ca09517749f105ec.gif[/img][/td]
     [/tr]
@@ -32,11 +32,11 @@ We are happy to finally release the [i][b]free[/b] Wallpaper Engine Android comp
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Visualize your music with audio responsive wallpapers. Credit: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
+        [td][b]Визуализируйте свою музыку с помощью обоев, откликающихся на звук. Предоставлено: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/d590754450672c1b121668604832ef5b61568972.gif[/img]
 [/td]
-        [td][b]Let wallpapers react to the motion of your device [i](devices with gyroscope)[/i][/b]
+        [td][b]Обои могут перемещаться вместе с движением вашего устройства [i](для устройств с гироскопом)[/i][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/75962cf9e8e5635216d7ded68e3527a731e1e565.gif[/img][/td]
     [/tr]
@@ -44,136 +44,136 @@ We are happy to finally release the [i][b]free[/b] Wallpaper Engine Android comp
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Customize the app by configuring playlists, performance settings and more[/b]
+        [td][b]Настройте приложение на свой вкус: плейлисты, производительность и многое другое[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/a609a043455539f48a87e7d692a4eea9722ff9d1.gif[/img]
 [/td]
-        [td][b]Wirelessly transfer your Workshop wallpapers from your computer[/b]
+        [td][b]Беспроводная передача обоев из Мастерской с компьютера[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/f8f24e382022472d8972af5f3dbd73f2556cdfdc.gif[/img][/td]
     [/tr]
 [/table]
-[h3]Download Wallpaper Engine for Android[/h3]
-We recommend installing the app through an official app store, however, we also offer a direct APK download for more advanced users. View our website for all installation options here:
+[h3]Загрузить Wallpaper Engine для Android[/h3]
+Мы рекомендуем установить приложение через официальный магазин приложений, однако также возможна прямая загрузка APK для продвинутых пользователей. Ознакомьтесь со всеми вариантами установки на нашем веб-сайте:
 
-[list][*][h3][i][b][url=wallpaperengine.io/android]Download the Wallpaper Engine Android Companion App[/url][/b][/i][/h3][/list]
-[h3]Adding new Wallpapers to Android[/h3]
-Directly connecting to the Workshop from a mobile device is not possible from a technical and legal point of view. However, we built a convenient system that allows owners of Wallpaper Engine on Windows to transfer their wallpapers to Android devices with ease:
+[list][*][h3][i][b][url=wallpaperengine.io/android]Загрузите Wallpaper Engine — приложение-спутник для Android[/url][/b][/i][/h3][/list]
+[h3]Добавление новых обоев на Android[/h3]
+Прямое подключение к Мастерской с мобильного устройства невозможно с технической и юридической точки зрения. Однако мы создали удобную систему, которая позволяет владельцам Wallpaper Engine для Windows с легкостью переносить свои обои на устройства Android:
 
-[b]Step 1:[/b] Click on the new [b]Mobile[/b] button in Wallpaper Engine on Windows, then select [b]Connect new device[/b]. Wallpaper Engine will show you a 4 digit PIN that you can use to connect to your mobile device now.
+[b]Шаг 1:[/b] Нажмите новую кнопку [b]Мобильное устройство[/b] в Wallpaper Engine в Windows, затем выберите [b]Подключить новое устройство[/b]. Wallpaper Engine покажет вам 4-значный PIN-код, который вы можете использовать для подключения к своему мобильному устройству.
 
-[b]Step 2:[/b] Open Wallpaper Engine on your Android device and click on the [b]Add[/b] button in the lower right corner. Select [b]Pair with Computer[/b], your computer should now be visible in the device list. Select it and enter the 4 digit PIN from step 1.
+[b]Шаг 2:[/b] Откройте Wallpaper Engine на своем устройстве Android и нажмите кнопку [b]Добавить[/b] в правом нижнем углу. Выберите [b]Сопряжение с компьютером[/b], теперь ваш компьютер должен быть виден в списке устройств. Выберите его и введите 4-значный PIN-код из шага 1.
 
-[b]Step 3:[/b] Your devices should now be connected. Right-click on any compatible wallpaper and click on [b]Send to mobile device[/b], then select your mobile device from the list. Your wallpaper will now be transferred.
+[b]Шаг 3:[/b] Теперь ваши устройства должны быть соединены. Щелкните правой кнопкой мыши любой совместимый фоновый рисунок и нажмите [b]Отправить на мобильное устройство[/b], затем выберите свое мобильное устройство из списка. Ваши обои будут перенесены.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/0fc8bc609bd7d959fa87fe7f90e3f1612ba67cd1.gif[/img]
 
-[b]If you are unable to connect to Android:[/b] Right-click on any wallpaper and select [b]Send to mobile device[/b], then select [b]Export .mpkg[/b]. You can then transfer the exported mobile package file to your mobile device via cable or by transferring it to your mobile device in another way.
+[b]Если вы не можете подключиться к Android:[/b] Щелкните правой кнопкой мыши на любом фоновом рисунке и выберите [b]Отправить на мобильное устройство[/b], затем выберите [b]Экспорт .mpkg[/b]. Затем вы можете передать экспортированный файл мобильного пакета на мобильное устройство по кабелю или перенести его другим способом.
 
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to read our Android connection guide.[/url][/list]
-[i]Tip: You can also transfer folders or multiple wallpapers at the same time by multi-selecting them by holding the CTRL key. Clicking [b]CTRL + A[/b] in the [b]Installed[/b] tab selects all installed wallpapers and lets you transfer them all at the same time.[/i]
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Щелкните здесь, чтобы прочитать наше руководство по подключению к Android.[/url][/list]
+[i]Совет: вы также можете переносить папки или несколько обоев одновременно, выбрав их, удерживая клавишу CTRL. Нажатие [b]CTRL + A[/b] на вкладке [b]Установленные[/b] выбирает все установленные обои и позволяет передать их все одновременно.[/i]
 
-[h2]New Wallpaper Engine Logo[/h2]
-Along with the release of the Android version of Wallpaper Engine, we felt it was time to update our logo. The old logo mainly consisted of a computer screen - which does not make much sense on a mobile device. A major release 2.0 release felt like the best time to try something new and we are very happy with the outcome.
+[h2]Новый логотип Wallpaper Engine[/h2]
+Вместе с выпуском Android-версии Wallpaper Engine мы решили, что пора обновить наш логотип. Старый логотип в основном состоял из экрана компьютера, что не имеет особого смысла на мобильном устройстве. Выпуск основной версии 2.0 показался нам лучшим моментом, чтобы попробовать что-то новое, и мы очень довольны результатом.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/1f283ac68453f6bf3beb36c1fd49ebbe680685a0.png[/img]
 
-We have experimented a lot with different designs and settled on a new logo which keeps the spirit of the old design, but with a more modern spin. With Wallpaper Engine 2.0, you will find the new logo throughout the application, in Windows and on our websites:
+Мы много экспериментировали с различными вариантами дизайна и остановились на новом логотипе, который сохраняет дух старого дизайна, но в более современном стиле. Wallpaper Engine 2.0 обновит логотип для всего приложения, в Windows и на наших веб-сайтах:
 
 [img]{STEAM_CLAN_IMAGE}/26312799/ecb522ad46fedd9502a715ae38937246172dfcbe.png[/img]
 
-[h2]New Depth Parallax Effect[/h2]
-A major new addition to the Wallpaper Engine editor is our new Depth Parallax effect. This effect will allow you to create a perceived 3D depth to your images. On computers, the effect is influenced by the mouse while on Android, the movement of the phone will simulate the mouse movement.
+[h2]Новый эффект Depth Parallax[/h2]
+Важным новым дополнением к редактору Wallpaper Engine является наш новый эффект Depth Parallax. Этот эффект позволит вам создать воспринимаемую трехмерную глубину ваших изображений. На компьютерах на этот эффект влияет мышь, а на Android движение мыши имитируется движением телефона.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
-To make full-use of the effect in the wallpaper editor, we recommend installing our new [b][i]free[/i][/b] [i]Editor Extensions DLC[/i]. We decided to separate this particular editor feature into an optional DLC because the features requires a download which is several gigabytes in size. When first using the effect in the editor, Wallpaper Engine will ask you to install the DLC for you. For more infos, see our full guide on how to install and use the depth parallax effect in the editor:
+Чтобы в полной мере использовать эффект в редакторе обоев, мы рекомендуем установить наше новое [b][i]бесплатное[/i][/b] расширение [i]Editor Extensions DLC[/i]. Мы решили выделить эту конкретную функцию редактора в дополнительное DLC, потому что для этой функции требуется загрузка размером в несколько гигабайт. При первом использовании эффекта в редакторе Wallpaper Engine попросит вас установить DLC. Наше полное руководство по установке и использованию эффекта параллакса глубины в редакторе:
 
-[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Depth Parallax[/url] (Only available in English right now - machine translation works well)[/list]
-[b]It's important to note:[/b] You do not need to install the free DLC unless you want to use the effect in the editor yourself - the effect will still work on computers and mobile devices even if the free DLC is not installed.
+[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Depth Parallax[/url] (Сейчас доступно только на английском языке, но машинный перевод работает хорошо)[/list]
+[b]Важное замечание:[/b] Вам не нужно устанавливать бесплатное DLC, если вы не хотите использовать эффект в редакторе самостоятельно — эффект по-прежнему будет работать на компьютерах и мобильных устройствах, даже если бесплатное DLC не установлено.
 
-[h2]Weekday Playlists[/h2]
-A popular request that we have received over time was the way to configure one wallpaper per weekday. With this update, we are introducing a new weekday playlist. Simply add up to seven wallpapers to the playlist in the [b]Installed[/b] tab of Wallpaper Engine, then click on [b]Configure[/b] in the playlist section and select the [b]Day of Week[/b] option from there. You will also find the already existing playlist options there, such as the [b]Time of Day[/b] playlist type.
+[h2]Недельные плейлисты[/h2]
+Мы постоянно получали популярный запрос касательно способа настроить отдельные обои на каждый день. В этом обновлении мы представляем новый плейлист на неделю. Просто добавьте до семи обоев в плейлист на вкладке [b]Установлено[/b] в Wallpaper Engine, затем нажмите [b]Настроить[/b] в разделе плейлиста и выберите оттуда вариант [b]День недели[/b]. Вы также найдете там уже существующие параметры, такие как тип плейлиста [b]Время дня[/b].
 
 [h2]Windows 11[/h2]
-Wallpaper Engine fully supports Windows 11, with this update, we are also adding support for the new rounded corners user interface design. If you are upgrading to Windows 11 and experience any issues with Wallpaper Engine, make sure to do a full re-installation of the latest graphics card drivers. Most Windows 11 users who reached out to us with issues were using outdated graphics card drivers.
+Wallpaper Engine полностью поддерживает Windows 11, с этим обновлением мы также добавляем поддержку нового дизайна пользовательского интерфейса с закругленными углами. Если вы обновились до Windows 11 и испытываете какие-либо проблемы с Wallpaper Engine, обязательно выполните полную переустановку последних драйверов видеокарты. Большинство пользователей Windows 11, которые обращались к нам с проблемами, использовали устаревшие драйверы видеокарты.
 
-If you are using a Windows 11 theme with transparency, you will notice that Wallpaper Engine will be ignored by Windows 11. To fix this issue, simply enable the new [b]Override wallpaper[/b] option in the Wallpaper Engine settings. This will keep your Windows wallpaper in sync with your Wallpaper Engine wallpaper and fix any issues with transparency on Windows 11.
+Если вы используете тему Windows 11 с прозрачностью, вы заметите, что Wallpaper Engine будет игнорироваться Windows 11. Чтобы решить эту проблему, просто включите новую опцию [b]Заменять обои[/b] в настройках Wallpaper Engine. Это позволит синхронизировать обои Windows с обоями Wallpaper Engine и устранит любые проблемы с прозрачностью в Windows 11.
 
-[h2]Changelog[/h2]
+[h2]История изменений[/h2]
 
-[h3]Additions / Changes[/h3]
-[h4]Main App[/h4]
+[h3]Дополнения и изменения[/h3]
+[h4]Основное приложение[/h4]
 [list]
-[*]Added Android support and released the new Wallpaper Engine Companion app for Android.
-[*]Added mobile collection to Discover tab.
-[*]Updated Wallpaper Engine logo, color theme, including app icons.
-[*]Added rounded corner support for Windows 11.
-[*]Added "day of week" playlist mode, limited to 7 wallpapers.
-[*]Re-arranged search filters, added new "mobile compatible" filter option.
-[*]Added "favorite" button when right-clicking on a wallpaper.
-[*]"Stop mode" now turns off automatically while wallpaper is being changed manually.
-[*]Improved user interface for configuring physics bones.
-[*]Increased automatic audio unmute delay from 3 to 5 seconds.
-[*]Added scheme color to "apply to all wallpapers" dialog.
-[*]Removed 12h / 24h clock option from playlist, now detected automatically depending on system settings.
-[*]Added CLI applyProperties support to windowed wallpapers.
-[*]Improved app performance with new JSON parser.
-[*]Updated core application binaries to latest Visual Studio 2022 compiler and latest Win SDK.
-[*]Reduced occurrence of rare cursor flickering issue in CEF.
+[*]Добавлена ​​поддержка Android и выпущено новое приложение-спутник Wallpaper Engine для Android.
+[*]На вкладку «Обзор» добавлена ​​мобильная коллекция.
+[*]Обновлен логотип Wallpaper Engine, а также цветовая тема, включая значки приложений.
+[*]Добавлена ​​поддержка закругленных углов для Windows 11.
+[*]Добавлен режим плейлиста «День недели», ограничено 7 обоями.
+[*]Изменены поисковые фильтры, добавлена ​​новая опция фильтра «Совместимо с мобильными устройствами».
+[*]Добавлена ​​кнопка «Избранное» при нажатии на обои правой кнопкой мыши.
+[*]«Режим остановки» теперь отключается автоматически при смене обоев вручную.
+[*]Улучшен пользовательский интерфейс для настройки физики.
+[*]Увеличена задержка автоматического включения звука с 3 до 5 секунд.
+[*]Добавлен пункт «Цветовая схема» в диалог «Применить ко всем обоям».
+[*]Из плейлиста удалена опция «12 часов/24 часа», теперь это определяется автоматически в зависимости от настроек системы.
+[*]Добавлена ​​поддержка CLI applyProperties для оконных обоев.
+[*]Повышена производительность приложения с новым парсером JSON.
+[*]Обновлены двоичные файлы основного приложения до последней версии компилятора Visual Studio 2022 и последней версии Win SDK.
+[*]Уменьшено появление редкой проблемы с мерцанием курсора в CEF.
 [/list]
-[h4]Wallpaper Editor[/h4]
+[h4]Редактор обоев[/h4]
 [list]
-[*]Added new depth parallax effect.
-[*]Added FREE editor extensions DLC for depth parallax effect. You only need this if you want to use it in the editor, users of your wallpapers do not need this DLC.
-[*]Added color picker tool to editor painting tools.
-[*]Improved support for rendering Chinese, Japanese, Korean and more characters in scene wallpapers text layers with new fonts.
-[*]Improved "Rope Renderer" for particle systems.
-[*]SceneScript: [i]init()[/i] and [i]update()[/i] function will now automatically convert numbers into vectors (Vec2, Vec3, Vec4) when they are returned. This helps to simplify some scripts.
-[*]SceneScript: Reviewed and improved all sample code snippets slightly.
-[*]SceneScript: Update reference URLs to [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url].
-[*]Made transparency cropping work with DXT compression in the editor.
+[*]Добавлен новый эффект параллакса глубины.
+[*]Добавлено БЕСПЛАТНОЕ расширение DLC для редактора для эффекта параллакса глубины. Вам это нужно только в том случае, если вы хотите использовать его в редакторе, пользователям ваших обоев это DLC не нужно.
+[*]Добавлен инструмент выбора цвета в инструменты рисования редактора.
+[*]Улучшена поддержка отрисовки китайских, японских, корейских и других символов в текстовых слоях обоев-сцен с новыми шрифтами.
+[*]Улучшен Rope Renderer для систем частиц.
+[*]SceneScript: функции [i]init()[/i] и [i]update()[/i] теперь автоматически конвертируют числа в векторы (Vec2, Vec3, Vec4) при возврате. Это помогает упростить некоторые скрипты.
+[*]SceneScript: немного переработаны и улучшены все фрагменты кода.
+[*]SceneScript: обновлены ссылочные URL-адреса в [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]Новой документации SceneScript[/url].
+[*]Обрезание прозрачности теперь работает со сжатием DXT в редакторе.
 [/list]
-[h3]Bug Fixes[/h3]
+[h3]Исправления ошибок[/h3]
 [list]
-[*]Fixed "High Performance" option for the texture resolution settings breaking a low number of wallpapers.
-[*]Fixed editor crashing when importing textures with resolutions below the minimum required size.
-[*]Fixed certain filter settings causing wallpapers to show up twice in the "installed" tab.
-[*]Fixed crash related to video textures.
-[*]Fixed JPEG EXIF meta data sometimes not being applied on image layers. If you rotate images with Windows, they should now also appear rotated in the app properly.
-[*]Fixed issue with particle system colors not working properly.
+[*]Исправлена ​​опция «Высокая производительность» для настроек разрешения текстур, приводившая к сбою небольшого количества обоев.
+[*]Исправлен сбой редактора при импорте текстур с разрешением ниже минимально необходимого размера.
+[*]Исправлены некоторые настройки фильтра, из-за которых обои дважды отображались на вкладке «Установлено».
+[*]Исправлен сбой, связанный с текстурами видео.
+[*]Исправлена ошибка, при которой метаданные JPEG EXIF иногда не применялись к слоям изображения. Теперь если вы поворачиваете изображения в Windows, они также должны отображаться правильно повернутыми в приложении.
+[*]Исправлена ​​ошибка, из-за которой цвета системы частиц не работали должным образом.
 [/list]
 
-[h2]Frequent Questions About The Android App[/h2]
+[h2]Часто задаваемые вопросы о приложении для Android[/h2]
 
-[h3]How much does the Android app cost?[/h3]
-The Android app is free of charge, there are no hidden costs, no in-app purchases and no advertisements. It can also be used as a standalone app without owning Wallpaper Engine on your computer and import compatible wallpaper files from your mobile device.
+[h3]Сколько стоит приложение для Android?[/h3]
+Приложение для Android бесплатное, никаких скрытых расходов, покупок в приложении и рекламы. Его также можно использовать как отдельное приложение, не устанавливая на свой компьютер Wallpaper Engine, и импортировать совместимые файлы обоев с мобильного устройства.
 
-[h3]Can the Workshop be accessed directly from the Mobile App?[/h3]
-No, the Workshop cannot be accessed from mobile devices due to technical and legal restrictions. We built a convenient way to transfer your existing collection of wallpapers from your computer to Android. We tried to make this process as easy and simple as possible, in most cases you just need to make sure your mobile device and your computer are connected to the same network. [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to learn more.[/url]
+[h3]Можно ли получить доступ к Мастерской прямо из мобильного приложения?[/h3]
+Нет, доступ к Мастерской с мобильных устройств невозможен из-за технических и юридических ограничений. Мы создали удобный способ переноса существующей коллекции обоев с компьютера на Android. Мы постарались сделать этот процесс максимально простым и простым, в большинстве случаев вам просто нужно убедиться, что ваше мобильное устройство и ваш компьютер подключены к одной сети. [url=https://help.wallpaperengine.io/mobile/pairing.html]Щелкните здесь, чтобы узнать больше.[/url]
 
-Additionally, you can also just directly import any compatible wallpaper files from the files stored on your mobile device. Wallpaper Engine for Android also works well if you are simply looking for a way to turn any video files on your Android phone or tablet into your mobile wallpaper or if you want to use several static wallpapers in a playlist.
+Кроме того, вы также можете напрямую импортировать любые совместимые файлы обоев из файлов, хранящихся на вашем мобильном устройстве. Wallpaper Engine для Android также отлично подходит, если вы просто ищете способ превратить любые видеофайлы на своем телефоне или планшете Android в обои для мобильного телефона или если вы хотите использовать несколько статических обоев в плейлисте.
 
-[h3]Does Wallpaper Engine drain the battery of my devices?[/h3]
-No, we have optimized the app extensively and most modern devices will not notice a negative effect on battery life in day-to-day usage.
+[h3]Разряжает ли Wallpaper Engine аккумулятор моих устройств?[/h3]
+Нет, мы значительно оптимизировали приложение, и большинство современных устройств не заметят отрицательного влияния на время автономной работы при повседневном использовании.
 
-We have been using the app for months on our private devices now and on an average day and we have not seen any meaningful battery usage through Wallpaper Engine. The app automatically pauses when another app is full-screened on your device and when your device is turned off. Battery saving mode will automatically pause your live wallpaper to reduce its impact on battery life even further. On top of that, you can also tweak the performance impact in the app settings by adjusting the FPS limit.
+Мы постоянно используем приложение в течение нескольких месяцев на наших личных устройствах и не увидели сколько-нибудь значимого расхода батареи у Wallpaper Engine. Приложение автоматически приостанавливается, когда другое приложение отображается в полноэкранном режиме на вашем устройстве и когда ваше устройство выключено. Режим экономии заряда батареи автоматически приостанавливает ваши живые обои, чтобы еще больше снизить влияние на время автономной работы. Кроме того, вы также можете настроить влияние на производительность в настройках приложения, отрегулировав ограничение FPS.
 
-[h3]Do wallpapers also play sounds like on Windows?[/h3]
-No, all wallpapers are muted on Android. However, audio visualizers work as long as you grant the app the permission to record your device's audio.
+[h3]Воспроизводят ли обои звуки, так же как в Windows?[/h3]
+Нет, на Android у всех обоев отключен звук. Однако аудиовизуализаторы работают, если вы даете приложению разрешение на запись звука на вашем устройстве.
 
-[h3]Can I set a wallpaper on my Android lock screen?[/h3]
-This depends on your device. Some Android manufacturers do not allow live wallpapers on the lock screen while some others do. If you are not offered the option to set a lock screen wallpaper, then your device manufacturer does not allow it.
+[h3]Можно ли установить обои на экран блокировки Android?[/h3]
+Это зависит от вашего устройства. Некоторые производители Android не разрешают отображение живых обоев на экране блокировки, в то время как другие позволяют это сделать. Если вам не предлагается установить обои для экрана блокировки, производитель вашего устройства не поддерживает эту возможность.
 
-[h3]What about Wallpaper Engine on iOS for iPhones and iPads?[/h3]
-Unfortunately, Apple's iOS does not support true live wallpapers like Android. It is not possible to create anything similar to Wallpaper Engine on iOS. If Apple ever changes their mind on this, we will likely also follow-up with an iOS version. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Click here to learn our lengthy explanation about Linux, Mac OS and iOS.[/url]
+[h3]Как насчет Wallpaper Engine на iOS для iPhone и iPad?[/h3]
+К сожалению, iOS от Apple не поддерживает настоящие живые обои, так как это делает Android. Невозможно создать ничего похожего на Wallpaper Engine на iOS. Если Apple когда-нибудь передумает на этот счет, мы, вероятно, также выпустим версию для iOS. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Щелкните здесь, чтобы ознакомиться с подробным описанием для Linux, Mac OS и iOS.[/url]
 
 
 [table equalcells=1 noborder=1]
     [tr][td][/td][td][/td][td][img]{STEAM_CLAN_IMAGE}/26312799/c42514f38e70a8cab07f98f9263ba8a12b0a0c0c.gif[/img][/td][td][/td][td][/td][/tr]
 [/table]
 
-[h2]Feedback, Questions and Technical Support for Android[/h2]
-If you have any questions, suggestions or general feedback about the new Android app or if you run into any technical issues, be sure to post a message on the Android section of our Steam board:
+[h2]Отзывы, вопросы и техническая поддержка для Android[/h2]
+Если у вас есть какие-либо вопросы, предложения или общие отзывы о новом приложении для Android или если у вас возникнут какие-либо технические проблемы, обязательно пришлите сообщение в разделе Android на нашей доске Steam:
 
-[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android App Discussions[/url][/list]
+[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine — обсуждения приложения для Android[/url][/list]

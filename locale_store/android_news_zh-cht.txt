@@ -1,29 +1,29 @@
 Wallpaper Engine 2.0：免費 Android 應用程式，享受新標誌、新功能、新體驗！
 
-Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增一款 3D 深度效果以及各式各樣功能，讓 Wallpaper Engine 更上層樓。
+Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增 3D 深度效果與各式各樣的功能，讓 Wallpaper Engine 更上層樓。
 
 免費 Android 應用程式
 
-大家好！我們今天推出 [b]Wallpaper Engine 2.0[/b] 了！ Wallpaper Engine 新支援 Android，與新標誌共同亮相，新增一款 3D 深度效果以及各式各樣其他的功能，讓 Wallpaper Engine 更上層樓。
+大家好！我們今天推出 [b]Wallpaper Engine 2.0[/b] 了！ Wallpaper Engine 本次更新開始支援 Android，與新標誌共同亮相，新增 3D 深度效果以及其他各式各樣的功能，讓 Wallpaper Engine 更上層樓。
 
 [h2]Wallpaper Engine Android 版隨附應用程式[/h2]
 
-很開心在此宣布，終於推出[i][b]免費的[/b] Wallpaper Engine Android 版隨附應用程式[/i]。 部分關鍵功能如下：
+我們很開心在此宣布，終於推出[i][b]免費的[/b] Wallpaper Engine Android 版隨附應用程式[/i]。 部分關鍵功能如下：
 
 [list][*]j無隱藏費用、無廣告、無使用者追蹤功能、無資料收集機制。
-[*]Transfer [b]Scene[/b] and [b]Video[/b] type wallpapers from Wallpaper Engine on your computer to Android wirelessly.
-[*]Import any compatible files from your device as a wallpaper: [i]Videos, GIFs, images & Wallpaper Engine wallpapers[/i]
-[*]Create a playlist of your wallpapers and use different playlist modes
-[*]Automatically pauses when power saving mode is enabled, offers FPS and quality settings.
-[*]Full support for dynamic audio visualizers, clocks & other dynamic wallpaper elements
-[*]Let wallpapers move along with the motion of your device [i](devices with gyroscope)[/i]
-[*]Support for automatic theme colors based on the current wallpaper, including Android 12's [b]Material You[/b][/list]
+[*]將電腦上[b]場景[/b]及[b]視訊[/b]類型的 Wallpaper Engine 桌布無線傳輸至 Android。
+[*]將任何相容檔案以桌布形式從裝置匯入：[i]視訊、GIF、圖像、Wallpaper Engine 桌布[/i]
+[*]建立桌布播放清單，使用不同的播放清單模式
+[*]省電模式啟用時自動暫停，可設定 FPS 及品質。
+[*]完全支援動態音訊可視化工具、時鐘及其他動態桌布元素
+[*]使桌布隨著裝置的動作移動 [i](裝設陀螺儀的裝置)[/i]
+[*]根據目前桌布支援自動主題色彩，包含 Android 12 的 [b]Material You[/b][/list]
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Real-time interactive wallpapers on Android[/b]
+        [td][b]Android 上即時互動式桌布[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/757da27656323aa0dcd02c29678906c7efd09442.gif[/img][/td]
-        [td][b]Customize your wallpapers to your liking[/b]
+        [td][b]根據喜好自訂桌布[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/779d938b4f04f2e7e9a07a46ca09517749f105ec.gif[/img][/td]
     [/tr]
@@ -32,11 +32,11 @@ Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增一款
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Visualize your music with audio responsive wallpapers. 作者：[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
+        [td][b]利用具音訊回應效果的桌布將音樂視覺化。 作者：[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/d590754450672c1b121668604832ef5b61568972.gif[/img]
 [/td]
-        [td][b]Let wallpapers react to the motion of your device [i](devices with gyroscope)[/i][/b]
+        [td][b]使桌布回應裝置動作 [i](裝設陀螺儀的裝置)[/i][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/75962cf9e8e5635216d7ded68e3527a731e1e565.gif[/img][/td]
     [/tr]
@@ -44,136 +44,136 @@ Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增一款
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]Customize the app by configuring playlists, performance settings and more[/b]
+        [td][b]設定播放清單、效能等，自訂應用程式[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/a609a043455539f48a87e7d692a4eea9722ff9d1.gif[/img]
 [/td]
-        [td][b]Wirelessly transfer your Workshop wallpapers from your computer[/b]
+        [td][b]從電腦自動傳輸工作坊桌布[/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/f8f24e382022472d8972af5f3dbd73f2556cdfdc.gif[/img][/td]
     [/tr]
 [/table]
-[h3]Download Wallpaper Engine for Android[/h3]
-We recommend installing the app through an official app store, however, we also offer a direct APK download for more advanced users. View our website for all installation options here:
+[h3]下載 Android 版 Wallpaper Engine[/h3]
+建議您透過官方應用程式商店下載此應用程式，不過我們也為進階使用者提供直接的 APK 下載檔案。 檢視網站所列的安裝選項：
 
-[list][*][h3][i][b][url=wallpaperengine.io/android]Download the Wallpaper Engine Android Companion App[/url][/b][/i][/h3][/list]
-[h3]Adding new Wallpapers to Android[/h3]
-Directly connecting to the Workshop from a mobile device is not possible from a technical and legal point of view. However, we built a convenient system that allows owners of Wallpaper Engine on Windows to transfer their wallpapers to Android devices with ease:
+[list][*][h3][i][b][url=wallpaperengine.io/android]下載 Wallpaper Engine Android 版隨附應用程式[/url][/b][/i][/h3][/list]
+[h3]將新桌布新增至 Android[/h3]
+從技術和法律面來看，行動裝置直接連線至工作坊並不可行。 不過，我們打造了簡便好用的系統，供 Windows 版 Wallpaper Engine 使用者輕鬆將桌布傳輸至 Android 裝置：
 
-[b]Step 1:[/b] Click on the new [b]Mobile[/b] button in Wallpaper Engine on Windows, then select [b]Connect new device[/b]. Wallpaper Engine will show you a 4 digit PIN that you can use to connect to your mobile device now.
+[b]步驟 1：[/b]在 Windows 版 Wallpaper Engine 上按一下新的[b]行動裝置[/b]按鈕，接著選取[b]連接新的行動裝置[/b]。 Wallpaper Engine 將顯示 4 位數的 PIN 碼，可用來連接至行動裝置。
 
-[b]Step 2:[/b] Open Wallpaper Engine on your Android device and click on the [b]Add[/b] button in the lower right corner. Select [b]Pair with Computer[/b], your computer should now be visible in the device list. Select it and enter the 4 digit PIN from step 1.
+[b]步驟 2：[/b]開啟 Android 裝置上的 Wallpaper Engine，按一下右下角的[b]新增[/b]按鈕。 選取[b]與電腦配對[/b]，現在裝置清單中應可看見您的電腦。 選取後輸入步驟 1 所列的 4 位數 PIN 碼。
 
-[b]Step 3:[/b] Your devices should now be connected. Right-click on any compatible wallpaper and click on [b]Send to mobile device[/b], then select your mobile device from the list. Your wallpaper will now be transferred.
+[b]步驟 3：[/b]現在裝置應已連接。 以滑鼠右鍵在任何相容的桌布上按一下，點選[b]傳送至行動裝置[/b]，從清單選取您的行動裝置。 您的桌布將開始傳輸。
 
 [img]{STEAM_CLAN_IMAGE}/26312799/0fc8bc609bd7d959fa87fe7f90e3f1612ba67cd1.gif[/img]
 
-[b]If you are unable to connect to Android:[/b] Right-click on any wallpaper and select [b]Send to mobile device[/b], then select [b]Export .mpkg[/b]. You can then transfer the exported mobile package file to your mobile device via cable or by transferring it to your mobile device in another way.
+[b]如果無法連線至 Android：[/b]以滑鼠右鍵在任一桌布上按一下，選取[b]傳送至行動裝置[/b]，再選取[b]匯出 .mpkg[/b]。 接著即可利用傳輸線或其他方式將匯出的行動封裝檔案傳輸至行動裝置。
 
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to read our Android connection guide.[/url][/list]
-[i]Tip: You can also transfer folders or multiple wallpapers at the same time by multi-selecting them by holding the CTRL key. Clicking [b]CTRL + A[/b] in the [b]Installed[/b] tab selects all installed wallpapers and lets you transfer them all at the same time.[/i]
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]按一下此處閱讀 Android 連線指南。[/url][/list]
+[i]提示：您也可按住鍵盤上的 CTRL 鍵同時選取多個資料夾或多張桌布，並一次傳輸。 在[b]已安裝[/b]分頁按一下 [b]CTRL + A[/b]，即可選取所有已安裝的桌布，並同時傳輸。[/i]
 
-[h2]New Wallpaper Engine Logo[/h2]
-Along with the release of the Android version of Wallpaper Engine, we felt it was time to update our logo. The old logo mainly consisted of a computer screen - which does not make much sense on a mobile device. A major release 2.0 release felt like the best time to try something new and we are very happy with the outcome.
+[h2]全新 Wallpaper Engine 標誌[/h2]
+隨著 Android 版 Wallpaper Engine 推出，我們認為也該是時候更新標誌了。 原本的標誌含有電腦畫面，似乎不太適合用在行動裝置上。 2.0 版隆重推出之際，應該是嘗試新事物的最佳時機，我們很滿意新標誌、新氣象。
 
 [img]{STEAM_CLAN_IMAGE}/26312799/1f283ac68453f6bf3beb36c1fd49ebbe680685a0.png[/img]
 
-We have experimented a lot with different designs and settled on a new logo which keeps the spirit of the old design, but with a more modern spin. With Wallpaper Engine 2.0, you will find the new logo throughout the application, in Windows and on our websites:
+我們多方嘗試形形色色的設計，最終推出的成品保留原有設計的精神，也增添更符合現代的氣息。 在 Wallpaper Engine 2.0 版中，您將可在應用程式、Windows 及官網上看見這款新標誌：
 
 [img]{STEAM_CLAN_IMAGE}/26312799/ecb522ad46fedd9502a715ae38937246172dfcbe.png[/img]
 
-[h2]New Depth Parallax Effect[/h2]
-A major new addition to the Wallpaper Engine editor is our new Depth Parallax effect. This effect will allow you to create a perceived 3D depth to your images. On computers, the effect is influenced by the mouse while on Android, the movement of the phone will simulate the mouse movement.
+[h2]全新深度視差效果[/h2]
+Wallpaper Engine 編輯器其中一項重大新功能，就是新的深度視差效果。 您可運用此效果為圖像建立可感知到的 3D 深度。 在電腦上，此效果會受到滑鼠影響，而在 Android 上，手機螢幕的動作會模擬滑鼠動作。
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
-To make full-use of the effect in the wallpaper editor, we recommend installing our new [b][i]free[/i][/b] [i]Editor Extensions DLC[/i]. We decided to separate this particular editor feature into an optional DLC because the features requires a download which is several gigabytes in size. When first using the effect in the editor, Wallpaper Engine will ask you to install the DLC for you. For more infos, see our full guide on how to install and use the depth parallax effect in the editor:
+為了善加發揮桌布編輯器的效果，建議您安裝全新推出的[b][i]免費[/i][/b][i]編輯器擴充 DLC[/i]。 我們決定將這個特定的編輯器功能與選用的 DLC 分開，因為此功能需要下載數 GB 的大小。 第一次在此編輯器使用此效果時，Wallpaper Engine 將提醒您安裝 DLC。 如需詳細資訊，請見在編輯器中安裝與使用深度視差效果的完整指南：
 
-[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Depth Parallax[/url] (Only available in English right now - machine translation works well)[/list]
-[b]It's important to note:[/b] You do not need to install the free DLC unless you want to use the effect in the editor yourself - the effect will still work on computers and mobile devices even if the free DLC is not installed.
+[list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]深度視差[/url] (目前僅有英語版；機器翻譯成果佳)[/list]
+[b]重要事項：[/b]您如果不需要使用此效果，則不需要安裝此免費的 DLC；如果未安裝此免費 DLC，該效果仍可在電腦和行動裝置上使用。
 
-[h2]Weekday Playlists[/h2]
-A popular request that we have received over time was the way to configure one wallpaper per weekday. With this update, we are introducing a new weekday playlist. Simply add up to seven wallpapers to the playlist in the [b]Installed[/b] tab of Wallpaper Engine, then click on [b]Configure[/b] in the playlist section and select the [b]Day of Week[/b] option from there. You will also find the already existing playlist options there, such as the [b]Time of Day[/b] playlist type.
+[h2]週間播放清單[/h2]
+我們長久以來常收到的問題是，如何為週間每天設定一張桌布。 這次更新，我們推出了新的週間播放清單功能。 設定相當簡單，只要在 Wallpaper Engine 的[b]已安裝[/b]分頁新增最多七張桌布，接著在播放清單部分按一下[b]設定[/b]，選取[b]星期幾[/b]即完成。 您也可以在同一處找到既有的播放清單選項，例如[b]特定時刻[/b]播放清單類型。
 
 [h2]Windows 11[/h2]
-Wallpaper Engine fully supports Windows 11, with this update, we are also adding support for the new rounded corners user interface design. If you are upgrading to Windows 11 and experience any issues with Wallpaper Engine, make sure to do a full re-installation of the latest graphics card drivers. Most Windows 11 users who reached out to us with issues were using outdated graphics card drivers.
+Wallpaper Engine 完全支援 Windows 11，趁著這次更新，我們也為新增對圓角使用者介面設計的支援。 如果您升級至 Windows 11 後發現 Wallpaper Engine 出現問題，請下載最新版顯示卡驅動程式，並執行全新安裝。 大多數 Windows 11 使用者回報的狀況，問題都出在使用了過時的顯示卡驅動程式。
 
-If you are using a Windows 11 theme with transparency, you will notice that Wallpaper Engine will be ignored by Windows 11. To fix this issue, simply enable the new [b]Override wallpaper[/b] option in the Wallpaper Engine settings. This will keep your Windows wallpaper in sync with your Wallpaper Engine wallpaper and fix any issues with transparency on Windows 11.
+如果您使用帶有透明效果的 Windows 11 佈景主題，會發現 Windows 11 忽略了 Wallpaper Engine。 如要解決此問題，只要在 Wallpaper Engine 設定中啟用新推出的[b]覆寫桌布[/b]選項即可。 如此一來，您的 Windows 桌布即可與 Wallpaper Engine 桌布同步，不會再出現與 Windows 11 透明效果有關的問題。
 
-[h2]Changelog[/h2]
+[h2]變更記錄[/h2]
 
-[h3]Additions / Changes[/h3]
-[h4]Main App[/h4]
+[h3]新增/變更[/h3]
+[h4]主要應用程式功能[/h4]
 [list]
-[*]Added Android support and released the new Wallpaper Engine Companion app for Android.
-[*]Added mobile collection to Discover tab.
-[*]Updated Wallpaper Engine logo, color theme, including app icons.
-[*]Added rounded corner support for Windows 11.
-[*]Added "day of week" playlist mode, limited to 7 wallpapers.
-[*]Re-arranged search filters, added new "mobile compatible" filter option.
-[*]Added "favorite" button when right-clicking on a wallpaper.
-[*]"Stop mode" now turns off automatically while wallpaper is being changed manually.
-[*]Improved user interface for configuring physics bones.
-[*]Increased automatic audio unmute delay from 3 to 5 seconds.
-[*]Added scheme color to "apply to all wallpapers" dialog.
-[*]Removed 12h / 24h clock option from playlist, now detected automatically depending on system settings.
-[*]Added CLI applyProperties support to windowed wallpapers.
-[*]Improved app performance with new JSON parser.
-[*]Updated core application binaries to latest Visual Studio 2022 compiler and latest Win SDK.
-[*]Reduced occurrence of rare cursor flickering issue in CEF.
+[*]新增 Android 支援並發布新的 Android 版 Wallpaper Engine 隨附應用程式。
+[*]「探索」分頁中新增行動裝置收藏。
+[*]更新 Wallpaper Engine 標誌、色彩主題，包括應用程式圖示。
+[*]新增 Windows 11 圓角功能支援。
+[*]新增「星期幾」播放清單模式，最多 7 張桌布。
+[*]重新安排篩選器，新增「與行動裝置相容」篩選條件。
+[*]新增以滑鼠右鍵按一下桌布時顯示的「最愛」按鈕。
+[*]「停止模式」現在會在手動變更桌布時自動關閉。
+[*]改善設定物理骨幹時的使用者介面。
+[*]音訊自動取消靜音的延遲時間增加 3 至 5 秒。
+[*]「套用到所有桌布」的對話方塊新增顏色配置功能。
+[*]移除播放清單上 12小時制/24 小時制的選項，現已可自動偵測系統設定。
+[*]新增 CLI applyProperties 對視窗化桌布的支援。
+[*]推出新的 JSON 剖析器，改善應用程式效能。
+[*]將核心應用程式二進位更新至最新的 Visual Studio 2022 編譯器及最新的 Win SDK。
+[*]減少 CEF 中原本罕見的游標亮光問題。
 [/list]
-[h4]Wallpaper Editor[/h4]
+[h4]Wallpaper 編輯器[/h4]
 [list]
-[*]Added new depth parallax effect.
-[*]Added FREE editor extensions DLC for depth parallax effect. You only need this if you want to use it in the editor, users of your wallpapers do not need this DLC.
-[*]Added color picker tool to editor painting tools.
-[*]Improved support for rendering Chinese, Japanese, Korean and more characters in scene wallpapers text layers with new fonts.
-[*]Improved "Rope Renderer" for particle systems.
-[*]SceneScript: [i]init()[/i] and [i]update()[/i] function will now automatically convert numbers into vectors (Vec2, Vec3, Vec4) when they are returned. This helps to simplify some scripts.
-[*]SceneScript: Reviewed and improved all sample code snippets slightly.
-[*]SceneScript: Update reference URLs to [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]new SceneScript documentation[/url].
-[*]Made transparency cropping work with DXT compression in the editor.
+[*]新增全新深度視差效果。
+[*]新增免費的編輯器擴充 DLC 以提供深度視差效果。 您僅在需要編輯器中使用的時候下載此 DLC，桌布使用者不需要。
+[*]新增編輯器繪製工具的色彩選擇器。
+[*]新增場景桌布文字圖層對中文、日文、韓文等字元的支援，並推出新字型。
+[*]改善粒子系統的「繩子轉譯器」。
+[*]SceneScript: [i]init()[/i] 及 [i]update()[/i] 功能現可在回傳時自動將數字轉換成向量 (Vec2, Vec3, Vec4)。 此有助腳本簡化。
+[*]SceneScript：稍微檢視並改善範例程式碼片段。
+[*]SceneScript：將參考連結更新為 [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]新的 SceneScript 檔案[/url]。
+[*]在編輯器中使用 DXT 壓縮格式可裁剪透明背景。
 [/list]
-[h3]Bug Fixes[/h3]
+[h3]修復錯誤[/h3]
 [list]
-[*]Fixed "High Performance" option for the texture resolution settings breaking a low number of wallpapers.
-[*]Fixed editor crashing when importing textures with resolutions below the minimum required size.
-[*]Fixed certain filter settings causing wallpapers to show up twice in the "installed" tab.
-[*]Fixed crash related to video textures.
-[*]Fixed JPEG EXIF meta data sometimes not being applied on image layers. If you rotate images with Windows, they should now also appear rotated in the app properly.
-[*]Fixed issue with particle system colors not working properly.
+[*]修復紋理解析度設定中「高效能」選項破壞少部分桌布的問題。
+[*]修復匯入解析度低於最低所需大小的紋理時編輯器當機的問題。
+[*]修復特定篩選器設定導致桌布在「已安裝」分頁中顯示兩次的問題。
+[*]修復與視訊紋理相關的當機問題。
+[*]修復 JPEG EXIF 中繼資料有時候並未套用至圖像圖層的問題。 如果圖像在 Windows 中已旋轉，現在應用程式中應該也同樣會旋轉。
+[*]修復粒子系統顏色並未正確運作的問題。
 [/list]
 
-[h2]Frequent Questions About The Android App[/h2]
+[h2]有關此 Android 應用程式的常見問題[/h2]
 
-[h3]How much does the Android app cost?[/h3]
-The Android app is free of charge, there are no hidden costs, no in-app purchases and no advertisements. It can also be used as a standalone app without owning Wallpaper Engine on your computer and import compatible wallpaper files from your mobile device.
+[h3]Android 應用程式的費用多少？[/h3]
+Android 應用程式免費，無隱藏費用、無應用程式內購買、無廣告。 此應用程式也可獨立使用，不須在電腦上安裝 Wallpaper Engine，即可從行動裝置匯入相容的桌布檔案。
 
-[h3]Can the Workshop be accessed directly from the Mobile App?[/h3]
-No, the Workshop cannot be accessed from mobile devices due to technical and legal restrictions. We built a convenient way to transfer your existing collection of wallpapers from your computer to Android. We tried to make this process as easy and simple as possible, in most cases you just need to make sure your mobile device and your computer are connected to the same network. [url=https://help.wallpaperengine.io/mobile/pairing.html]Click here to learn more.[/url]
+[h3]可否直接從行動應用程式存取工作坊？[/h3]
+不可，由於技術及法律限制，工作坊無法直接從行動裝置存取。 不過，我們打造了簡便方式，您可輕鬆將電腦現有桌布收藏傳輸至 Android。 我們盡全力精簡此過程，大部分情況下您只需要確保行動裝置和電腦連接至同一個網路。 [url=https://help.wallpaperengine.io/mobile/pairing.html]按一下此處深入了解。[/url]
 
-Additionally, you can also just directly import any compatible wallpaper files from the files stored on your mobile device. Wallpaper Engine for Android also works well if you are simply looking for a way to turn any video files on your Android phone or tablet into your mobile wallpaper or if you want to use several static wallpapers in a playlist.
+此外，您也可以直接將行動裝置上儲存的檔案匯入任何相容的桌布檔案。 如果您只是想找到方法，讓 Android 手機或平板電腦上任何視訊檔案轉換為行動裝置的桌布，或是您想在播放清單內使用多張靜態桌布，Android 版 Wallpaper Engine 也能辦到。
 
-[h3]Does Wallpaper Engine drain the battery of my devices?[/h3]
-No, we have optimized the app extensively and most modern devices will not notice a negative effect on battery life in day-to-day usage.
+[h3]Wallpaper Engine 會消耗裝置的電池電量嗎？[/h3]
+不會，我們已廣泛將此應用程式最佳化，大多數現代裝置在日常使用中都不會明顯對電池壽命產生負面影響。
 
-We have been using the app for months on our private devices now and on an average day and we have not seen any meaningful battery usage through Wallpaper Engine. The app automatically pauses when another app is full-screened on your device and when your device is turned off. Battery saving mode will automatically pause your live wallpaper to reduce its impact on battery life even further. On top of that, you can also tweak the performance impact in the app settings by adjusting the FPS limit.
+我們在自己的裝置上使用此應用程式已達數月，而且平時都在使用，並未發現 Wallpaper Engine 有任何實質使用電池電量的狀況。 另一個應用程式在裝置上以全螢幕顯示時，以及裝置關機時，應用程式就自動暫停。 省電模式會使動態桌布自動暫停，進一步減少對電池壽命的影響。 除此之外，您也可以在應用程式設定中調整 FPS 上限，以利調節效能影響。
 
-[h3]Do wallpapers also play sounds like on Windows?[/h3]
-No, all wallpapers are muted on Android. However, audio visualizers work as long as you grant the app the permission to record your device's audio.
+[h3]桌布也會像在 Windows 上一樣可以播放聲音嗎？[/h3]
+不會，Android 上所有桌布都是靜音。 然而，只要您允許應用程式錄製裝置音訊，音頻可視化工具即可運作。
 
-[h3]Can I set a wallpaper on my Android lock screen?[/h3]
-This depends on your device. Some Android manufacturers do not allow live wallpapers on the lock screen while some others do. If you are not offered the option to set a lock screen wallpaper, then your device manufacturer does not allow it.
+[h3]我可否在 Android 鎖定畫面上設定桌布？[/h3]
+這要看您的裝置， 部分 Android 製造商不允許鎖定畫面出現動態桌布。 如果裝置上沒有設定鎖定畫面桌布的選項，表示裝置製造商並不允許。
 
-[h3]What about Wallpaper Engine on iOS for iPhones and iPads?[/h3]
-Unfortunately, Apple's iOS does not support true live wallpapers like Android. It is not possible to create anything similar to Wallpaper Engine on iOS. If Apple ever changes their mind on this, we will likely also follow-up with an iOS version. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Click here to learn our lengthy explanation about Linux, Mac OS and iOS.[/url]
+[h3]是否會推出適用於 iPhone 和 iPad 的 iOS 版 Wallpaper Engine？[/h3]
+很可惜，Apple 的 iOS 並不像 Android 可以支援真正的動態桌布， 因此無法在 iOS 上打造任何類似 Wallpaper Engine 的內容。 如果 Apple 改變主意，我們可能會跟進推出 iOS 版。 [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]按一下此處可見詳盡說明，了解我們為何尚未規劃推出 Linux、Mac OS 及 iOS 版。[/url]
 
 
 [table equalcells=1 noborder=1]
     [tr][td][/td][td][/td][td][img]{STEAM_CLAN_IMAGE}/26312799/c42514f38e70a8cab07f98f9263ba8a12b0a0c0c.gif[/img][/td][td][/td][td][/td][/tr]
 [/table]
 
-[h2]Feedback, Questions and Technical Support for Android[/h2]
-If you have any questions, suggestions or general feedback about the new Android app or if you run into any technical issues, be sure to post a message on the Android section of our Steam board:
+[h2]對 Android 版的回饋、問題及技術支援[/h2]
+如果您對新的 Android 版應用程式有任何問題、建議等任何回饋，或是遇上技術問題，請至 Steam 討論區的 Android 部分發文：
 
-[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android App Discussions[/url][/list]
+[list][*] [url=https://steamcommunity.com/app/431960/discussions/10/]Wallpaper Engine - Android 版應用程式討論區[/url][/list]
