@@ -688,7 +688,6 @@
 	"ui_settings_hotkeys_action_user_wallpaper": "Escolher wallpaper",
 	"ui_settings_hotkeys_action_user_playlist": "Escolher lista de reprodução",
 	"ui_settings_hotkeys_action_user_profile": "Escolher perfil",
-	"ui_settings_hotkeys_action_start_screensaver": "Iniciar proteção de ecrã",
 	"ui_settings_hotkeys_prompt_enter_combination": "Pressione a combinação",
 	"ui_settings_hotkeys_modal_prompt_override_header": "Substituir atalho",
 	"ui_settings_hotkeys_modal_prompt_override_body": "Esta tecla já está atribuída a '{{action}}'. Deseja atribuí-la aqui em vez disso?",
