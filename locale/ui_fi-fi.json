@@ -688,7 +688,6 @@
 	"ui_settings_hotkeys_action_user_wallpaper": "Valitse taustakuva",
 	"ui_settings_hotkeys_action_user_playlist": "Valitse playlist",
 	"ui_settings_hotkeys_action_user_profile": "Valitse profiili",
-	"ui_settings_hotkeys_action_start_screensaver": "Käynnistä näytönsäästäjä",
 	"ui_settings_hotkeys_prompt_enter_combination": "Paina näppäinyhdistelmää",
 	"ui_settings_hotkeys_modal_prompt_override_header": "Ohita pikanäppäin",
 	"ui_settings_hotkeys_modal_prompt_override_body": "Tämä näppäin on jo määritetty toiminnolle {{action}}. Haluatko vaihtaa sen tähän?",
