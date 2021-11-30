@@ -688,7 +688,6 @@
 	"ui_settings_hotkeys_action_user_wallpaper": "اتنخاب تصویر زمینه",
 	"ui_settings_hotkeys_action_user_playlist": "لیست پخش را انتخاب کنید",
 	"ui_settings_hotkeys_action_user_profile": "انتخاب نمایه",
-	"ui_settings_hotkeys_action_start_screensaver": "شروع محافظ صفحه نمایش",
 	"ui_settings_hotkeys_prompt_enter_combination": "کلید ترکیبی را فشار دهید",
 	"ui_settings_hotkeys_modal_prompt_override_header": "نادیده گرفتن کلید میانبر",
 	"ui_settings_hotkeys_modal_prompt_override_body": "این کلید قبلاً به \"{{action}}\" اختصاص داده شده است. آیا می خواهید در عوض آن را در اینجا اختصاص دهید?",
