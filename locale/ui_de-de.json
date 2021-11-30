@@ -688,7 +688,6 @@
 	"ui_settings_hotkeys_action_user_wallpaper": "Hintergrund wählen",
 	"ui_settings_hotkeys_action_user_playlist": "Wiedergabeliste wählen",
 	"ui_settings_hotkeys_action_user_profile": "Profil wählen",
-	"ui_settings_hotkeys_action_start_screensaver": "Bildschirmschoner starten",
 	"ui_settings_hotkeys_prompt_enter_combination": "Tastenkombination drücken",
 	"ui_settings_hotkeys_modal_prompt_override_header": "Tastenkombination überschreiben",
 	"ui_settings_hotkeys_modal_prompt_override_body": "Diese Tastenkombination ist bereits gesetzt für '{{action}}'. Möchtest du die Kombination hier ersetzen?",
