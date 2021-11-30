@@ -615,7 +615,7 @@
 	"ui_browse_mobile_upload_modal_video_cropping" : "Video Cropping",
 	"ui_browse_mobile_upload_modal_video_cropping_phone" : "Fit to phone screen",
 	"ui_browse_mobile_upload_modal_video_cropping_disabled" : "Keep original aspect ratio",
-	"ui_browse_mobile_firewall_warning" : "Your Windows firewall may be preventing pairing with your mobile phone.",
+	"ui_browse_mobile_firewall_warning" : "Your Windows firewall may be preventing pairing with your mobile device.",
 	"ui_browse_mobile_firewall_warning_fix" : "Fix Firewall",
 	"ui_browse_mobile_upload_size_warning_title" : "Mobile Wallpaper Size Limit",
 	"ui_browse_mobile_upload_size_warning_message" : "Wallpapers larger than 4GB can currently not be transferred to mobile devices.",
