@@ -688,7 +688,6 @@
 	"ui_settings_hotkeys_action_user_wallpaper": "Vælg skrivebordsbaggrund",
 	"ui_settings_hotkeys_action_user_playlist": "Vælg playliste",
 	"ui_settings_hotkeys_action_user_profile": "Vælg profil",
-	"ui_settings_hotkeys_action_start_screensaver": "Start screensaver",
 	"ui_settings_hotkeys_prompt_enter_combination": "Tast kombination",
 	"ui_settings_hotkeys_modal_prompt_override_header": "Ignorer genvejstast",
 	"ui_settings_hotkeys_modal_prompt_override_body": "Denne tast er allerede tildelt til '{{action}}'. Vil du tildele den her i stedet?",
