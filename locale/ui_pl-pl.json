@@ -688,7 +688,6 @@
 	"ui_settings_hotkeys_action_user_wallpaper": "Wybierz tapetę",
 	"ui_settings_hotkeys_action_user_playlist": "Wybierz playlistę",
 	"ui_settings_hotkeys_action_user_profile": "Wybierz profil",
-	"ui_settings_hotkeys_action_start_screensaver": "Uruchom wygaszacz ekranu",
 	"ui_settings_hotkeys_prompt_enter_combination": "Naciśnij kombinację klawiszy",
 	"ui_settings_hotkeys_modal_prompt_override_header": "Nadpisanie klawisza",
 	"ui_settings_hotkeys_modal_prompt_override_body": "Ten klawisz jest obecnie przypisany do '{{action}}'. Czy zamiast tego chcesz go przypisać tutaj?",
