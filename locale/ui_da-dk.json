@@ -574,6 +574,8 @@
 	"ui_browse_mobile_upload_modal_video_preset_1080_60": "Fuld HD - 60 FPS",
 	"ui_browse_mobile_upload_modal_video_preset_2160_30": "4K UHD - 30 FPS",
 	"ui_browse_mobile_upload_modal_video_preset_2160_60": "4K UHD - 60 FPS",
+	"ui_browse_mobile_upload_modal_video_cropping": "Videobeskæring",
+	"ui_browse_mobile_upload_modal_video_cropping_phone": "Tilpas til telefonens skærm",
 	"ui_browse_mobile_upload_cancel_title": "Annuller overførsler fra bærbare enheder",
 	"ui_browse_mobile_upload_cancel_body": "Er du sikker på, at du vil annullere alle overførsler til din bærbare enhed?",
 	"ui_browse_mobile_upload_unavailable_title": "Installationen blev ikke fuldført",
