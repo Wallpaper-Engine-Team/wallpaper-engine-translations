@@ -574,6 +574,7 @@
 	"ui_browse_mobile_upload_modal_video_preset_1080_60": "Full HD - 60 КЗС",
 	"ui_browse_mobile_upload_modal_video_preset_2160_30": "4K UHD - 30 КЗС",
 	"ui_browse_mobile_upload_modal_video_preset_2160_60": "4K UHD - 60 КЗС",
+	"ui_browse_mobile_upload_modal_video_cropping": "Обрізання відео",
 	"ui_browse_mobile_upload_cancel_title": "Скасувати мобільні вивантаження",
 	"ui_browse_mobile_upload_cancel_body": "Ви впевнені, що хочете скасувати усі вивантаження в очікуванні відправки на ваш мобільний пристрій?",
 	"ui_browse_mobile_upload_unavailable_title": "Встановлення незавершене",
