@@ -688,7 +688,6 @@
 	"ui_settings_hotkeys_action_user_wallpaper": "Elegir fondo",
 	"ui_settings_hotkeys_action_user_playlist": "Elegir lista de reproducción",
 	"ui_settings_hotkeys_action_user_profile": "Elegir perfil",
-	"ui_settings_hotkeys_action_start_screensaver": "Iniciar salvapantallas",
 	"ui_settings_hotkeys_prompt_enter_combination": "Pulsar combinación de teclas",
 	"ui_settings_hotkeys_modal_prompt_override_header": "Anular tecla de acceso rápido",
 	"ui_settings_hotkeys_modal_prompt_override_body": "Esta tecla ya está asignada a \"{{action}}\". ¿Quieres asignarla aquí en su lugar?",
