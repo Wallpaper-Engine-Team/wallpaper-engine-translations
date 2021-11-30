@@ -688,7 +688,6 @@
 	"ui_settings_hotkeys_action_user_wallpaper": "Välj bakgrund",
 	"ui_settings_hotkeys_action_user_playlist": "Välj spellista",
 	"ui_settings_hotkeys_action_user_profile": "Välj profil",
-	"ui_settings_hotkeys_action_start_screensaver": "Starta skärmsläckare",
 	"ui_settings_hotkeys_prompt_enter_combination": "Ange tangentkombination",
 	"ui_settings_hotkeys_modal_prompt_override_header": "Skriv över kortkommando",
 	"ui_settings_hotkeys_modal_prompt_override_body": "Detta kortkommando är redan tilldelat till \"{{action}}\". Vill du istället tilldela den hit?",
