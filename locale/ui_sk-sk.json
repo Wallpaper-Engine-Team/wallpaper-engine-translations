@@ -642,7 +642,6 @@
 	"ui_settings_hotkeys_action_user_wallpaper": "Vybrať pozadie",
 	"ui_settings_hotkeys_action_user_playlist": "Vybrať playlist",
 	"ui_settings_hotkeys_action_user_profile": "Vybrať profil",
-	"ui_settings_hotkeys_action_start_screensaver": "Zapnúť šetrič obrazovky",
 	"ui_settings_hotkeys_prompt_enter_combination": "Stlačte kombináciu kláves",
 	"ui_settings_hotkeys_modal_prompt_override_header": "Prenastaviť KS",
 	"ui_settings_hotkeys_modal_prompt_override_body": "Táto klávesa už je nastavená na '{{action}}'. Chcete ju nastaviť sem?",
