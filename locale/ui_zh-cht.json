@@ -574,6 +574,7 @@
 	"ui_browse_mobile_upload_modal_video_preset_1080_60": "Full HD - 60 FPS",
 	"ui_browse_mobile_upload_modal_video_preset_2160_30": "4K UHD - 30 FPS",
 	"ui_browse_mobile_upload_modal_video_preset_2160_60": "4K UHD - 60 FPS",
+	"ui_browse_mobile_upload_modal_video_cropping": "視訊裁剪",
 	"ui_browse_mobile_upload_cancel_title": "取消行動裝置的上傳",
 	"ui_browse_mobile_upload_cancel_body": "您確定要取消行動裝置上所有未完成的上傳作業嗎？",
 	"ui_browse_mobile_upload_unavailable_title": "安裝未完成",
