@@ -667,7 +667,6 @@
 	"ui_settings_hotkeys_action_user_wallpaper": "اختيار خلفية",
 	"ui_settings_hotkeys_action_user_playlist": "اختبار قائمة تشغيل",
 	"ui_settings_hotkeys_action_user_profile": "اختيار ملف شخصي",
-	"ui_settings_hotkeys_action_start_screensaver": "بدء شاشة التوقف",
 	"ui_settings_hotkeys_prompt_enter_combination": "اضغط على مجموعة المفاتيح",
 	"ui_settings_hotkeys_modal_prompt_override_header": "استبدال الاختصار",
 	"ui_settings_hotkeys_modal_prompt_override_body": "تم تعيين هذا المفتاح بالفعل لـ '{{action}}'. هل تريد تعيينه هنا بدلاً من ذلك؟",
