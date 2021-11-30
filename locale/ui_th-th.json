@@ -688,7 +688,6 @@
 	"ui_settings_hotkeys_action_user_wallpaper": "เลือกวอลเปเปอร์",
 	"ui_settings_hotkeys_action_user_playlist": "เลือกเพลย์ลิสต์",
 	"ui_settings_hotkeys_action_user_profile": "เลือกโปรไฟล์",
-	"ui_settings_hotkeys_action_start_screensaver": "เริ่มสกรีนเซฟเวอร์",
 	"ui_settings_hotkeys_prompt_enter_combination": "กดคีย์ลัด",
 	"ui_settings_hotkeys_modal_prompt_override_header": "แทนที่ฮอตคีย์",
 	"ui_settings_hotkeys_modal_prompt_override_body": "คีย์นี้ได้ถูกกำหนดไว้สำหรับ '{{action}}' คุณต้องการกำหนดไว้ที่นี่แทนใช่หรือไม่",
