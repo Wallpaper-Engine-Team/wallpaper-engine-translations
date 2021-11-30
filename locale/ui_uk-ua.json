@@ -688,7 +688,6 @@
 	"ui_settings_hotkeys_action_user_wallpaper": "Обрати шпалери",
 	"ui_settings_hotkeys_action_user_playlist": "Обрати список відтворення",
 	"ui_settings_hotkeys_action_user_profile": "Обрати профіль",
-	"ui_settings_hotkeys_action_start_screensaver": "Запустити заставку",
 	"ui_settings_hotkeys_prompt_enter_combination": "Натисніть комбінацію клавіш",
 	"ui_settings_hotkeys_modal_prompt_override_header": "Перезаписати гарячу клавішу",
 	"ui_settings_hotkeys_modal_prompt_override_body": "Ця клавіша вже призначена для '{{action}}'. Хочете натомість призначити її сюди?",
