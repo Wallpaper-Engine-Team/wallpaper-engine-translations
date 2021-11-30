@@ -688,7 +688,6 @@
 	"ui_settings_hotkeys_action_user_wallpaper": "Choisir le fond d'écran",
 	"ui_settings_hotkeys_action_user_playlist": "Choisir la playlist",
 	"ui_settings_hotkeys_action_user_profile": "Choisir le profil",
-	"ui_settings_hotkeys_action_start_screensaver": "Lancer écran de veille",
 	"ui_settings_hotkeys_prompt_enter_combination": "Appuyer sur une combinaison de touches",
 	"ui_settings_hotkeys_modal_prompt_override_header": "Remplacer Raccourci",
 	"ui_settings_hotkeys_modal_prompt_override_body": "Cette touche est déjà assignée à '{{action}}'. Voulez-vous l'assigner ici à la place ?",
