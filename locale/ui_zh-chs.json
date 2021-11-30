@@ -688,7 +688,6 @@
 	"ui_settings_hotkeys_action_user_wallpaper": "选择壁纸",
 	"ui_settings_hotkeys_action_user_playlist": "选择播放列表",
 	"ui_settings_hotkeys_action_user_profile": "选择配置文件",
-	"ui_settings_hotkeys_action_start_screensaver": "启动屏幕保护程序",
 	"ui_settings_hotkeys_prompt_enter_combination": "按键组合",
 	"ui_settings_hotkeys_modal_prompt_override_header": "覆写热键",
 	"ui_settings_hotkeys_modal_prompt_override_body": "该键已分配给“{{action}}”。是否将其分配到此处？",
