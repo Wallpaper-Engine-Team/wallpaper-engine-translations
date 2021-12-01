@@ -15,3 +15,5 @@ files:
     scheme: 'identifier,source_or_translation'
   - source: /locale_store/android_news.txt
     translation: /locale_store/android_news_%locale_with_underscore%.txt
+  - source: /locale_store/news/*.txt
+    translation: /locale_store/news/%file_name%/%file_name%_%locale_with_underscore%.txt
