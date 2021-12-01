@@ -695,7 +695,7 @@
 	"ui_settings_hotkeys_action_user_wallpaper": "Duvar kağıdı seçin",
 	"ui_settings_hotkeys_action_user_playlist": "Oynatma listesi seçin",
 	"ui_settings_hotkeys_action_user_profile": "Profil seçin",
-	"ui_settings_hotkeys_action_start_screensaver": "Ekran koruyucuyu başlat",
+	"ui_settings_hotkeys_action_start_screensaver": "Ekran Koruyucuyu Başlat",
 	"ui_settings_hotkeys_prompt_enter_combination": "Tuş birleşimine basın",
 	"ui_settings_hotkeys_modal_prompt_override_header": "Kısayol Tuşunu Geçersiz Kıl",
 	"ui_settings_hotkeys_modal_prompt_override_body": "Bu tuş zaten '{{action}}' eylemine atanmış. Bunun yerine burada şunu atamak istiyor musunuz?",
