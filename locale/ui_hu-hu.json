@@ -657,6 +657,7 @@
 	"ui_settings_hotkeys_action_user_wallpaper": "Háttérkép változtatása",
 	"ui_settings_hotkeys_action_user_playlist": "Válassz lejátszási listát",
 	"ui_settings_hotkeys_action_user_profile": "Profil kiválasztása",
+	"ui_settings_hotkeys_action_start_screensaver": "Képernyőkímélő Indítása",
 	"ui_settings_hotkeys_prompt_enter_combination": "Nyomja meg a billentyűkombinációt",
 	"ui_settings_hotkeys_modal_prompt_override_header": "Gyorsbillenytű Felülírása",
 	"ui_settings_hotkeys_modal_prompt_override_body": "Ez a billenytű már hozzá van rendelve ehhez '{{action}}'. Inkább ehhez akarja rendelni?",
