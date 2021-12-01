@@ -2,17 +2,17 @@ Wallpaper Engine 2.0.XX — Обнаружение брандмауэра Window
 
 Обновление Wallpaper Engine 2.0.XX решает наиболее распространенные проблемы, связанные с версией для Android. Мы обновляем приложение как для Windows, так и для Android.
 
-Today's update addresses the most common problems related to the Android release and we are updating both the Windows and the Android version of the app.
+Это обновление решает наиболее распространенные проблемы, связанные с версией для Android. Мы обновляем приложение как для Windows, так и для Android.
 
-[h2]Connecting the Android & Windows App[/h2]
-The most common issues we received were related to connecting the Android app with the Windows app to download more wallpapers. We have looked into this and in many cases was caused by the Windows firewall. If Windows has previously asked you to give Wallpaper Engine ("ui32.exe") permission to access your network and you simply closed the window or did not grant the permissions for Wallpaper Engine, then Windows will automatically block Wallpaper Engine's process from properly communicating with your local network:
+[h2]Подключение приложения для Android и Windows[/h2]
+Наиболее частые проблемы возникают при подключении приложения Android к приложению Windows для загрузки дополнительных обоев. Мы изучили эту проблему, и чаще всего она была вызвана брандмауэром Windows. Если Windows ранее просил вас предоставить Wallpaper Engine ("ui32.exe") разрешение на доступ к вашей сети, и вы просто закрыли окно или не предоставили это разрешение, то Windows автоматически заблокирует процесс правильного взаимодействия Wallpaper Engine с вашей локальной сетью:
 
 [img]{STEAM_CLAN_IMAGE}/26312799/46ccf465f7d479f9e1d305b2001e88ea2d791c49.png[/img]
-[i]If you clicked "Cancel" here or just closed the window, then Wallpaper Engine is blocked in your Windows firewall.[/i]
+[i]Если вы нажали «Отмена» здесь или просто закрыли окно, Wallpaper Engine блокируется вашим брандмауэром Windows.[/i]
 
-We have now added a new check that will try and detect issues like that and will offer you a way to automatically fix the Windows firewall. However, if you do not get any notification about the Windows firewall or if you use any other firewall application, then Wallpaper Engine cannot fix your local network automatically.
+Мы добавили новую проверку, которая обнаружит подобные проблемы и предложит вам способ автоматического исправления брандмауэра Windows. Однако, если вы не получаете никаких уведомлений о брандмауэре Windows или используете какой-либо другой брандмауэр, Wallpaper Engine не сможет автоматически исправить ошибку в вашей локальной сети.
 
-If you have any additional firewall or antivirus applications installed, you need to ensure that [b]ui32.exe[/b] is not being blocked.
+Если у вас установлен дополнительный брандмауэр или антивирусные приложения, убедитесь, что [b]ui32.exe[/b] не блокируется ими.
 
 Wallpaper Engine on Windows will now also use additional methods to broadcast itself on your network which will also make it more accessible to Android devices under certain network configurations.
 
