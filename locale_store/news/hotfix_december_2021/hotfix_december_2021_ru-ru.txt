@@ -16,7 +16,7 @@ Wallpaper Engine 2.0.XX — Обнаружение брандмауэра Window
 
 Wallpaper Engine on Windows will now also use additional methods to broadcast itself on your network which will also make it more accessible to Android devices under certain network configurations.
 
-If your connection issues persist, please read the following help page:
+Если проблемы с подключением не исчезнут, прочтите эту справочную страницу:
 [list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android App Connection Troubleshooting[/url][/list] Keep in mind that you can always use the export functionality as a backup and simply transfer your wallpapers to your mobile device via USB or another method. When placing wallpaper files on your mobile device, always make sure to use the [b]Downloads[/b] directory on your phone or tablet. Android is very restrictive for security reasons and Wallpaper Engine cannot access every Android folder, but the Downloads directory is usually the most reliable.
 
 [h2]Lock-screen Wallpapers on Android[/h2]
