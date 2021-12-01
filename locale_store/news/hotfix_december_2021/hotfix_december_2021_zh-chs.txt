@@ -8,9 +8,9 @@ Wallpaper Engine 2.0.XX 更新可解决与 Android 发布版本有关的最常�
 我们收到的最常见问题涉及到连接 Android 应用程序与 Windows 应用程序以下载更多壁纸。 我们已经调查过该问题，在许多情况下，该问题由 Windows 防火墙导致。 如果 Windows 之前曾经要求您授予 Wallpaper Engine ("ui32.exe") 访问您网络的权限，而您只是关闭了窗口或没有授予 Wallpaper Engine 该权限，则 Windows 将自动阻止 Wallpaper Engine 的进程与您的本地网络正常通信：
 
 [img]{STEAM_CLAN_IMAGE}/26312799/46ccf465f7d479f9e1d305b2001e88ea2d791c49.png[/img]
-[i]If you clicked "Cancel" here or just closed the window, then Wallpaper Engine is blocked in your Windows firewall.[/i]
+[i]如果您在此处单击了“取消”或只是关闭了窗口，则 Wallpaper Engine 将被阻止在您的 Windows 防火墙中。[/i]
 
-We have now added a new check that will try and detect issues like that and will offer you a way to automatically fix the Windows firewall. However, if you do not get any notification about the Windows firewall or if you use any other firewall application, then Wallpaper Engine cannot fix your local network automatically.
+我们现在添加了一项新检查，该检查将尝试检测此类问题，并为您提供自动修复 Windows 防火墙的方法。 However, if you do not get any notification about the Windows firewall or if you use any other firewall application, then Wallpaper Engine cannot fix your local network automatically.
 
 If you have any additional firewall or antivirus applications installed, you need to ensure that [b]ui32.exe[/b] is not being blocked.
 
