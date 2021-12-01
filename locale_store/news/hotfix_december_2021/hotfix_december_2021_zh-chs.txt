@@ -10,16 +10,16 @@ Wallpaper Engine 2.0.XX 更新可解决与 Android 发布版本有关的最常�
 [img]{STEAM_CLAN_IMAGE}/26312799/46ccf465f7d479f9e1d305b2001e88ea2d791c49.png[/img]
 [i]如果您在此处单击了“取消”或只是关闭了窗口，则 Wallpaper Engine 将被阻止在您的 Windows 防火墙中。[/i]
 
-我们现在添加了一项新检查，该检查将尝试检测此类问题，并为您提供自动修复 Windows 防火墙的方法。 However, if you do not get any notification about the Windows firewall or if you use any other firewall application, then Wallpaper Engine cannot fix your local network automatically.
+我们现在添加了一项新检查，该检查将尝试检测此类问题，并为您提供自动修复 Windows 防火墙的方法。 但如果您没有收到有关 Windows 防火墙的任何通知，或者如果您使用任何其他防火墙应用程序，则 Wallpaper Engine 无法自动修复您的本地网络。
 
-If you have any additional firewall or antivirus applications installed, you need to ensure that [b]ui32.exe[/b] is not being blocked.
+如果您安装了任何其他防火墙或防病毒应用程序，则您需要确保 [b]ui32.exe[/b] 未被阻止。
 
-Wallpaper Engine on Windows will now also use additional methods to broadcast itself on your network which will also make it more accessible to Android devices under certain network configurations.
+Windows 设备上的 Wallpaper Engine 现在还将使用其他方法在您的网络上广播自身，这也将使某些网络配置下的 Android 设备更容易访问 Wallpaper Engine。
 
-If your connection issues persist, please read the following help page:
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android App Connection Troubleshooting[/url][/list] Keep in mind that you can always use the export functionality as a backup and simply transfer your wallpapers to your mobile device via USB or another method. When placing wallpaper files on your mobile device, always make sure to use the [b]Downloads[/b] directory on your phone or tablet. Android is very restrictive for security reasons and Wallpaper Engine cannot access every Android folder, but the Downloads directory is usually the most reliable.
+如果连接问题仍然存在，请阅读以下帮助页面：
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android 应用程序连接故障排除[/url][/list] 请记住，您随时可将导出功能用作备份，通过 USB 或其他方法将您的壁纸传输到移动设备。 将壁纸文件放置在移动设备上时，请务必使用手机或平板电脑上的 [b]Downloads[/b] 目录。 出于安全原因，Android 具有非常严格的限制，Wallpaper Engine 无法访问每个 Android 文件夹，但 Downloads 目录通常是最可靠的。
 
-[h2]Lock-screen Wallpapers on Android[/h2]
+[h2]Android 设备上的锁屏壁纸[/h2]
 Since it is a very common request that we received via email and on our forums, we just wanted to re-iterate this here: [b]Wallpaper Engine fully supports live wallpapers on the Android lock-screen.[/b] However, a lot of phones and tablets do not support live wallpapers on the lock-screen.
 
 If you are not given the option to set a live wallpaper on your lock-screen, then this is a limitation set by your phone manufacturer. Wallpaper Engine has no control over this and this cannot be fixed by us or any other live wallpaper app. The best thing you can do in such a case is to send feedback to your phone manufacturer and let them know that this is a feature you care about, it's something that could be added in an Android update.
