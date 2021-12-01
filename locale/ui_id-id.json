@@ -695,7 +695,7 @@
 	"ui_settings_hotkeys_action_user_wallpaper": "Memilih wallpaper",
 	"ui_settings_hotkeys_action_user_playlist": "Memilih daftar putar",
 	"ui_settings_hotkeys_action_user_profile": "Memilih profil",
-	"ui_settings_hotkeys_action_start_screensaver": "Mulai screensaver",
+	"ui_settings_hotkeys_action_start_screensaver": "Mulai Screensaver",
 	"ui_settings_hotkeys_prompt_enter_combination": "Tekan tombol kombinasi keyboard",
 	"ui_settings_hotkeys_modal_prompt_override_header": "Timpa Pintasan",
 	"ui_settings_hotkeys_modal_prompt_override_body": "Tombol keyboard ini telah ditetapkan untuk '{{action}}'. Sebagai gantinya, apakah Anda ingin menetapkannya disini?",
