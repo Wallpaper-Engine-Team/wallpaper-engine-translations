@@ -36,16 +36,16 @@ Windows 设备上的 Wallpaper Engine 现在还将使用其他方法在您的网
 [*]新功能：现在还可以按原始宽高比上传高性能壁纸导出，这对于在平板电脑上使用非常有用。
 [*]修复了高性能移动设备转换卡住的问题。
 [*]修复了在 Windows 资源管理器缩略图不可用的情况下无法上传视频壁纸的问题。
-[*]Fixed editor aspect ratio not resetting when clicking on wallpaper while a preview mode is active.[/list]
-[h3]Android App[/h3]
-[list][*]Added clear information about how the possibility of setting a live wallpaper as a lock-screen wallpaper is entirely decided by the mobile device.
-[*]Fixed crashes on Samsung S21 devices due to broken Samsung Android 12 update.
-[*]Fixed very large wallpapers, app now supports wallpapers with up up to 4 GB in size.
-[*]Wallpaper transfer is now more reliable when screen gets locked during transfer.
-[*]Fixed "add to playlist" button not working on preview screen beyond 7 wallpapers.
-[*]Added more file import rules for Android 9 and lower to reduce vendor specific issues during import.
-[*]Fixed some time of day wallpapers not working properly on Android.
-[*]Made the "wallpaper paused due to power saving mode" warnings absolutely impossible to miss.
-[*]Made broken wallpaper files show up in the browser so they can be deleted easily and don't waste any storage.
-[*]Localization fixes, notably "Yes" and "No" are not longer switched in the German version which led to a lot of confusion 🤡🇩🇪.
+[*]修复了预览模式处于活动状态时单击壁纸无法重置编辑器宽高比的问题。[/list]
+[h3]Android 应用程序[/h3]
+[list][*]添加了明确的信息，以说明将动态壁纸设置为锁屏壁纸的可能性如何完全由移动设备决定。
+[*]修复了由三星 Android 12 更新损坏导致的三星 S21 设备崩溃的问题。
+[*]修复了非常大的壁纸，应用程序现在支持最大 4GB 尺寸的壁纸。
+[*]现在，当屏幕在传输过程中被锁定时，壁纸传输更加可靠。
+[*]修复了“添加到播放列表”按钮在超过 7 张壁纸的预览屏幕上无法正常工作的问题。
+[*]为 Android 9 及更低版本添加了更多文件导入规则，以减少导入过程中特定于供应商的问题。
+[*]修复了某些当日时间壁纸在 Android 上无法正常工作的问题。
+[*]您再也不会错过“省电模式导致壁纸暂停”的警告了。
+[*]使损坏的壁纸文件显示在浏览器中，以便您可以轻松删除它们，不浪费任何存储空间。
+[*]本地化修复，特别是“是”和“否”在德语版本中不再切换导致了很多混乱 🤡🇩🇪。
 [/list]
