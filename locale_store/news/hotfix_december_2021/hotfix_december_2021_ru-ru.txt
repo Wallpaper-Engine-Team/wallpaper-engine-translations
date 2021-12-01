@@ -32,7 +32,7 @@ The latest Android app may take a few days until it reaches everyone, as mobile 
 [h2]История изменений[/h2]
 [h3]Дополнения и изменения[/h3]
 [h4]Приложение Windows[/h4]
-[list][*]Added firewall rule check to pairing screen and a button to automatically delete any rules that block Wallpaper Engine.
+[list][*]Добавлена проверка правил брандмауэра для экрана сопряжения и кнопка для автоматического удаления любых правил, блокирующих Wallpaper Engine.
 [*]New: High-performance exports of wallpapers can now also be uploaded in their original aspect ratio, which is useful for usage on tablets.
 [*]Fixed high-performance mobile conversion getting stuck.
 [*]Fixed video wallpaper upload not working without Windows Explorer thumbnails being available.
