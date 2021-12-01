@@ -14,7 +14,7 @@ Wir freuen uns endlich die [i][b]kostenlose[/b] Android-App für Wallpaper Engin
 [*]Übertrage kabellos Hintergründe vom Typ [b]Szene[/b] und [b]Video[/b] von Wallpaper Engine auf deinem Computer auf Android.
 [*]Importiere kompatible Dateien von deinem Gerät als Hintergrund: [i]Videos, GIFs, Bilder & Hintergründe aus Wallpaper Engine[/i].
 [*]Erstelle Wiedergabelisten von deinen Hintergründen und nutze verschiedene Wiedergabeliste-Modi
-[*]Pausiert automatisch wenn der Energiesparmodus auf deinem Gerät aktiv ist. Die App bietet zudem FPS- und Qualitätseinstellungen.
+[*]Pausiert automatisch wenn der Energiesparmodus auf deinem Gerät aktiv ist.
 [*]Volle Unterstützung für dynamische Audio-Visualisierungen, Uhren & weitere dynamische Hintergrundelemente.
 [*]Lasse Hintergründe der Bewegung deines Geräts folgen [i](setzt ein Gerät mit Gyroskop voraus)[/i]
 [*]Unterstützt automatische Anpassung der Design-Farben deines Handys, inklusive [b]Material You[/b] aus Android 12[/list]

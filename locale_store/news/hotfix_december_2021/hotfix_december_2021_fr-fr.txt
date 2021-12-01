@@ -1,0 +1,51 @@
+Wallpaper Engine 2.0.XX - Windows Firewall Detection and Android Fixes
+
+The Wallpaper Engine 2.0.XX update addresses the most common problems related to the Android release and we are updating both the Windows and the Android version of the app.
+
+Today's update addresses the most common problems related to the Android release and we are updating both the Windows and the Android version of the app.
+
+[h2]Connecting the Android & Windows App[/h2]
+The most common issues we received were related to connecting the Android app with the Windows app to download more wallpapers. We have looked into this and in many cases was caused by the Windows firewall. If Windows has previously asked you to give Wallpaper Engine ("ui32.exe") permission to access your network and you simply closed the window or did not grant the permissions for Wallpaper Engine, then Windows will automatically block Wallpaper Engine's process from properly communicating with your local network:
+
+[img]{STEAM_CLAN_IMAGE}/26312799/46ccf465f7d479f9e1d305b2001e88ea2d791c49.png[/img]
+[i]If you clicked "Cancel" here or just closed the window, then Wallpaper Engine is blocked in your Windows firewall.[/i]
+
+We have now added a new check that will try and detect issues like that and will offer you a way to automatically fix the Windows firewall. However, if you do not get any notification about the Windows firewall or if you use any other firewall application, then Wallpaper Engine cannot fix your local network automatically.
+
+If you have any additional firewall or antivirus applications installed, you need to ensure that [b]ui32.exe[/b] is not being blocked.
+
+Wallpaper Engine on Windows will now also use additional methods to broadcast itself on your network which will also make it more accessible to Android devices under certain network configurations.
+
+If your connection issues persist, please read the following help page:
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android App Connection Troubleshooting[/url][/list] Keep in mind that you can always use the export functionality as a backup and simply transfer your wallpapers to your mobile device via USB or another method. When placing wallpaper files on your mobile device, always make sure to use the [b]Downloads[/b] directory on your phone or tablet. Android is very restrictive for security reasons and Wallpaper Engine cannot access every Android folder, but the Downloads directory is usually the most reliable.
+
+[h2]Lock-screen Wallpapers on Android[/h2]
+Since it is a very common request that we received via email and on our forums, we just wanted to re-iterate this here: [b]Wallpaper Engine fully supports live wallpapers on the Android lock-screen.[/b] However, a lot of phones and tablets do not support live wallpapers on the lock-screen.
+
+If you are not given the option to set a live wallpaper on your lock-screen, then this is a limitation set by your phone manufacturer. Wallpaper Engine has no control over this and this cannot be fixed by us or any other live wallpaper app. The best thing you can do in such a case is to send feedback to your phone manufacturer and let them know that this is a feature you care about, it's something that could be added in an Android update.
+
+[h2]Android App Update[/h2]
+The latest Android app may take a few days until it reaches everyone, as mobile stores tend to roll out updates more slowly. If you have installed the Android APK directly, make sure to download the latest version from our website:
+
+[list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine for Android [/url][/h3][/list] If you have installed the app through an official app store, there is nothing you need to do and the update will be installed on your device automatically within the next few days.
+
+[h2]Changelog[/h2]
+[h3]Additions / Changes[/h3]
+[h4]Windows App[/h4]
+[list][*]Added firewall rule check to pairing screen and a button to automatically delete any rules that block Wallpaper Engine.
+[*]New: High-performance exports of wallpapers can now also be uploaded in their original aspect ratio, which is useful for usage on tablets.
+[*]Fixed high-performance mobile conversion getting stuck.
+[*]Fixed video wallpaper upload not working without Windows Explorer thumbnails being available.
+[*]Fixed editor aspect ratio not resetting when clicking on wallpaper while a preview mode is active.[/list]
+[h3]Android App[/h3]
+[list][*]Added clear information about how the possibility of setting a live wallpaper as a lock-screen wallpaper is entirely decided by the mobile device.
+[*]Fixed crashes on Samsung S21 devices due to broken Samsung Android 12 update.
+[*]Fixed very large wallpapers, app now supports wallpapers with up up to 4 GB in size.
+[*]Wallpaper transfer is now more reliable when screen gets locked during transfer.
+[*]Fixed "add to playlist" button not working on preview screen beyond 7 wallpapers.
+[*]Added more file import rules for Android 9 and lower to reduce vendor specific issues during import.
+[*]Fixed some time of day wallpapers not working properly on Android.
+[*]Made the "wallpaper paused due to power saving mode" warnings absolutely impossible to miss.
+[*]Made broken wallpaper files show up in the browser so they can be deleted easily and don't waste any storage.
+[*]Localization fixes, notably "Yes" and "No" are not longer switched in the German version which led to a lot of confusion 🤡🇩🇪.
+[/list]

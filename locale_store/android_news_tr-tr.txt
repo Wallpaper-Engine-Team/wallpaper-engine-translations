@@ -60,11 +60,11 @@ Uygulamayı resmi bir uygulama mağazası aracılığıyla yüklemenizi öneriri
 [h3]Android'e yeni Duvar Kağıtları Eklemek[/h3]
 Atölyeye mobil cihazdan doğrudan bağlanmak, teknik ve hukuki açıdan mümkün değildir. Ancak, Windows'ta Wallpaper Engine sahiplerinin duvar kağıtlarını kolaylıkla Android cihazlara aktarmalarını sağlayan kullanışlı bir sistem oluşturduk:
 
-[b]1. Adım:[/b] Windows'ta Wallpaper Engine'deki yeni eklenen [b]Mobil[/b] düğmesine tıklayın ve ardından [b]Yeni cihaz bağla[/b] öğesini seçin. Wallpaper Engine, şimdi mobil cihazınıza bağlanmak için kullanabileceğiniz 4 haneli bir PIN gösterecektir.
+Adım:[/b] Windows'ta Wallpaper Engine'deki yeni eklenen [b]Mobil[/b] düğmesine tıklayın ve ardından [b]Yeni cihaz bağla[/b] öğesini seçin. Wallpaper Engine, şimdi mobil cihazınıza bağlanmak için kullanabileceğiniz 4 haneli bir PIN gösterecektir.
 
-[b]2. Adım:[/b] Android cihazınızda Wallpaper Engine'i açın ve sağ alt köşedeki [b]Ekle[/b] düğmesini basın. [b]Bilgisayarla Eşleştir[/b] seçeneğini seçin ve bilgisayarınız artık cihaz listesinde görünmelidir. Seçin ve 1. adımdaki 4 haneli PIN'i girin.
+Adım:[/b] Android cihazınızda Wallpaper Engine'i açın ve sağ alt köşedeki [b]Ekle[/b] düğmesini basın. [b]Bilgisayarla Eşleştir[/b] seçeneğini seçin ve bilgisayarınız artık cihaz listesinde görünmelidir. adımdaki 4 haneli PIN'i girin.
 
-[b]3. Adım:[/b] Cihazlarınız şimdi bağlanmış olmalıdır. Uyumlu bir duvar kağıdına sağ tıkladıktan sonra [b]Mobil cihaza gönder[/b] seçeneğine tıklayın ve listeden mobil cihazınızı seçin. Duvar kağıdınız şimdi aktarılacaktır.
+Adım:[/b] Cihazlarınız şimdi bağlanmış olmalıdır. Uyumlu bir duvar kağıdına sağ tıkladıktan sonra [b]Mobil cihaza gönder[/b] seçeneğine tıklayın ve listeden mobil cihazınızı seçin. Duvar kağıdınız şimdi aktarılacaktır.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/0fc8bc609bd7d959fa87fe7f90e3f1612ba67cd1.gif[/img]
 

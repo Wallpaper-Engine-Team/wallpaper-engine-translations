@@ -71,26 +71,26 @@ No se puede conectar a Workshop desde un dispositivo móvil desde un punto de vi
 [b]Si no puedes conectarte a Android.[/b] Haz clic con el botón derecho en cualquier fondo, selecciona [b]Enviar al dispositivo móvil[/b] y luego selecciona [b]Exportar .mpkg[/b]. A continuación, podrás transferir el archivo de paquete móvil exportado al dispositivo móvil por cable o con otro método de transferencia de tu elección.
 
 [list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]Haz clic aquí para leer la guía de conexión con Android.[/url][/list]
-[i]Consejo. Puedes transferir carpetas o varios fondos de pantalla al mismo tiempo si mantienes pulsada la tecla CTRL para hacer una selección múltiple. Al hacer clic en [b]CTRL + A[/b] en la pestaña [b]Instalados[/b], se seleccionan todos los fondos instalados y se pueden transferir todos a la vez.[/i]
+Puedes transferir carpetas o varios fondos de pantalla al mismo tiempo si mantienes pulsada la tecla CTRL para hacer una selección múltiple. Al hacer clic en [b]CTRL + A[/b] en la pestaña [b]Instalados[/b], se seleccionan todos los fondos instalados y se pueden transferir todos a la vez.[/i]
 
 [h2]Logo nuevo de Wallpaper Engine[/h2]
 Junto con el lanzamiento de la versión de Android de Wallpaper Engine, creímos que era el momento perfecto para actualizar nuestro logo. El logo antiguo era una pantalla de ordenador, cosa que no tiene mucho sentido en un dispositivo móvil. El lanzamiento de la versión 2.0 nos parecía el momento adecuado para hacerle un lavado de cara y nos encanta cómo ha quedado.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/1f283ac68453f6bf3beb36c1fd49ebbe680685a0.png[/img]
 
-Hemos experimentado mucho con varios diseños distintos y nos hemos decantado por uno que mantiene el espíritu del diseño antiguo, pero con un toque más moderno. Con el lanzamiento de Wallpaper Engine 2.0, encontrarás el logo nuevo tanto en la aplicación como en Windows y en nuestras páginas web:
+Hemos experimentado mucho con varios diseños distintos y nos hemos decantado por uno que mantiene el espíritu del diseño antiguo, pero con un toque más moderno. Con el lanzamiento de Wallpaper Engine 2.0, encontrarás el logo nuevo tanto en la aplicación como en Windows y en nuestras páginas web: Con el lanzamiento de Wallpaper Engine 2.0, encontrarás el logo nuevo tanto en la aplicación como en Windows y en nuestras páginas web:
 
 [img]{STEAM_CLAN_IMAGE}/26312799/ecb522ad46fedd9502a715ae38937246172dfcbe.png[/img]
 
 [h2]Efecto nuevo de paralaje profundo[/h2]
-Una de las novedades del editor de Wallpaper Engine es el efecto nuevo de paralaje profundo, que te permitirá crear una percepción de profundidad 3D en las imágenes. En los ordenadores, el efecto se ve influenciado por el ratón y, en Android, el movimiento del teléfono simulará el movimiento del ratón.
+Una de las novedades del editor de Wallpaper Engine es el efecto nuevo de paralaje profundo, que te permitirá crear una percepción de profundidad 3D en las imágenes. que te permitirá crear una percepción de profundidad 3D en las imágenes. En los ordenadores, el efecto se ve influenciado por el ratón y, en Android, el movimiento del teléfono simulará el movimiento del ratón.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
 Para aprovechar al máximo el efecto en el editor de fondos, te recomendamos instalar las [i]extensiones de edición[/i], que es un contenido descargable [b][i]gratuito[/i][/b] . Hemos decidido separar estas funciones del editor en un contenido descargable opcional porque la descarga tiene un tamaño de varios gigabytes. La primera vez que uses el efecto en el editor, Wallpaper Engine te ofrecerá instalar dicho contenido. Para más información, consulta nuestra guía completa sobre cómo instalar y utilizar el efecto de paralaje profundo en el editor:
 
 [list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]Parajale profundo[/url] (Solo disponible en inglés, pero es comprensible con traducción automática)[/list]
-[b]Importante a tener en cuenta.[/b] No necesitas instalar el contenido descargable gratuito a menos que quieras usar el efecto en el editor. El efecto funcionará tanto en ordenadores como en dispositivos móviles aunque no tengas instalado el contenido.
+[b]Importante a tener en cuenta.[/b] No necesitas instalar el contenido descargable gratuito a menos que quieras usar el efecto en el editor.
 
 [h2]Listas de reproducción semanales[/h2]
 Una petición que hemos recibido en numerosas ocasiones era la posibilidad de configurar un fondo por cada día de la semana. Con esta actualización, llega una lista de reproducción nueva: la semanal. Añade hasta siete fondos de pantalla a la lista de reproducción en la pestaña [b]Instalados[/b] de Wallpaper Engine, haz clic en [b]Configurar[/b] en la sección de la lista de reproducción y selecciona la opción [b]Semanal[/b]. En esa sección, también encontrarás las opciones predeterminadas, como las listas de reproducción por [b]Hora del día[/b].
@@ -129,9 +129,9 @@ Windows 11 ignorará por completo a Wallpaper Engine si usas un tema de Windows 
 [*]Se ha añadido la herramienta selector de color.
 [*]Se ha mejorado la compatibilidad de renderizado de los caracteres chinos, japoneses, coreanos, etc., en los fondos de escena con capas de texto gracias a unas fuentes nuevas.
 [*]Se ha mejorado el renderizado de cuerda de los sistemas de partículas.
-[*]SceneScript. Ahora las funciones [i]init()[/i] y [i]update()[/i] convertirán automáticamente los números en vectores (Vec2, Vec3, Vec4) cuando sean devueltos. Esto sirve para simplificar algunas secuencias de comandos.
-[*]SceneScript. Se han revisado y mejorado los fragmentos de código de muestra.
-[*]SceneScript. Se han actualizado las URL de referencia a la [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]documentación nueva de SceneScript[/url].
+Ahora las funciones [i]init()[/i] y [i]update()[/i] convertirán automáticamente los números en vectores (Vec2, Vec3, Vec4) cuando sean devueltos. Esto sirve para simplificar algunas secuencias de comandos.
+Se han revisado y mejorado los fragmentos de código de muestra.
+Se han actualizado las URL de referencia a la [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]documentación nueva de SceneScript[/url].
 [*]Ahora el recorte de transparencia funcionará con la compresión DXT en el editor.
 [/list]
 [h3]Soluciones de errores[/h3]
@@ -166,7 +166,7 @@ No, todos los fondos están silenciados en Android. Sin embargo, los visualizado
 Depende del dispositivo que tengas. Hay fabricantes de Android que no permiten el uso de fondos animados en la pantalla de bloqueo, pero hay otros que sí. Si no te aparece la opción de establecer un fondo de pantalla de bloqueo, eso quiere decir que el fabricante del dispositivo no lo permite.
 
 [h3]¿Habrá Wallpaper Engine para iOS en iPhone y iPad?[/h3]
-Desafortunadamente, iOS no es compatible con los fondos animados tal y como lo es Android, por lo que no es posible crear algo similar a Wallpaper Engine en iOS. Si Apple llega a cambiar de opinión en algún momento, es muy probable que creemos una versión para iOS. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Haz clic aquí si quieres saber más información acerca de el caso de Linux, Mac OS e iOS.[/url]
+Desafortunadamente, iOS no es compatible con los fondos animados tal y como lo es Android, por lo que no es posible crear algo similar a Wallpaper Engine en iOS. por lo que no es posible crear algo similar a Wallpaper Engine en iOS. Si Apple llega a cambiar de opinión en algún momento, es muy probable que creemos una versión para iOS. [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]Haz clic aquí si quieres saber más información acerca de el caso de Linux, Mac OS e iOS.[/url]
 
 
 [table equalcells=1 noborder=1]

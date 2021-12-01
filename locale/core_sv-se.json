@@ -27,7 +27,7 @@
 	"core_msgboxtitle_app_conflict": "Programkonflikt",
 	"core_msgboxtitle_wpe": "Wallpaper Engine",
 	"core_msgbox_deskscapes": "Det verkar som att DeskScapes körs. Detta kan förhindra Wallpaper Engine från att fungera.",
-	"core_msgbox_prompt_aero_win7": "Wallpaper Engine måste aktivera Aero för att fungera. Ska Wallpaper Engine försöka aktivera Starta Aero åt dig nu?",
+	"core_msgbox_prompt_aero_win7": "Wallpaper Engine måste aktivera Aero för att kunna fungera. Ska Wallpaper Engine försöka aktivera Aero åt dig nu?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine kan inte köras med ett högkontrasttema. Ska Wallpaper Engine försöka återställa temat åt dig nu?",
 	"core_msgbox_prompt_high_contrast_was_enabled": "Windows har precis tillämpat ett \"högkontrasttema\" som inte låter Wallpaper Engine att fungera.",
 	"core_msgbox_high_contrast_white": "Du har aktiverat högkontrastläget i Windows tillsammans med det vita högkontrasttemat. Det vita högkontrasttemat förhindrar Wallpaper Engine från att ange en dynamisk bakgrund p.g.a. hur det är inbyggt i Windows.\n\nÖppna inställningarna för högkontrastläget i Windows och ändra antingen högkontrasttemat eller inaktivera högkontrastläget för att använda Wallpaper Engine.",

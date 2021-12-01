@@ -4,11 +4,11 @@ Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增 3D �
 
 免費 Android 應用程式
 
-大家好！我們今天推出 [b]Wallpaper Engine 2.0[/b] 了！ Wallpaper Engine 本次更新開始支援 Android，與新標誌共同亮相，新增 3D 深度效果以及其他各式各樣的功能，讓 Wallpaper Engine 更上層樓。
+大家好！我們今天推出 [b]Wallpaper Engine 2.0[/b] 了！ Wallpaper Engine 本次更新開始支援 Android，與新標誌共同亮相，新增 3D 深度效果以及其他各式各樣的功能，讓 Wallpaper Engine 更上層樓。 [*]新增 Android 支援並發布新的 Android 版 Wallpaper Engine 隨附應用程式。
 
 [h2]Wallpaper Engine Android 版隨附應用程式[/h2]
 
-我們很開心在此宣布，終於推出[i][b]免費的[/b] Wallpaper Engine Android 版隨附應用程式[/i]。 部分關鍵功能如下：
+我們很開心在此宣布，終於推出[i][b]免費的[/b] Wallpaper Engine Android 版隨附應用程式[/i]。 部分關鍵功能如下： 部分關鍵功能如下：
 
 [list][*]j無隱藏費用、無廣告、無使用者追蹤功能、無資料收集機制。
 [*]將電腦上[b]場景[/b]及[b]視訊[/b]類型的 Wallpaper Engine 桌布無線傳輸至 Android。
@@ -32,7 +32,7 @@ Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增 3D �
 
 [table equalcells=1 noborder=1]
     [tr]
-        [td][b]利用具音訊回應效果的桌布將音樂視覺化。 作者：[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
+        [td][b]利用具音訊回應效果的桌布將音樂視覺化。 作者：[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b] 作者：[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2406911626]Cube Visualizer[/url][/b]
 
 [img]{STEAM_CLAN_IMAGE}/26312799/d590754450672c1b121668604832ef5b61568972.gif[/img]
 [/td]
@@ -58,45 +58,45 @@ Wallpaper Engine 2.0 新支援 Android，與新標誌共同亮相，新增 3D �
 
 [list][*][h3][i][b][url=wallpaperengine.io/android]下載 Wallpaper Engine Android 版隨附應用程式[/url][/b][/i][/h3][/list]
 [h3]將新桌布新增至 Android[/h3]
-從技術和法律面來看，行動裝置直接連線至工作坊並不可行。 不過，我們打造了簡便好用的系統，供 Windows 版 Wallpaper Engine 使用者輕鬆將桌布傳輸至 Android 裝置：
+從技術和法律面來看，行動裝置直接連線至工作坊並不可行。 從技術和法律面來看，行動裝置直接連線至工作坊並不可行。 不過，我們打造了簡便好用的系統，供 Windows 版 Wallpaper Engine 使用者輕鬆將桌布傳輸至 Android 裝置：
 
-[b]步驟 1：[/b]在 Windows 版 Wallpaper Engine 上按一下新的[b]行動裝置[/b]按鈕，接著選取[b]連接新的行動裝置[/b]。 Wallpaper Engine 將顯示 4 位數的 PIN 碼，可用來連接至行動裝置。
+[b]步驟 1：[/b]在 Windows 版 Wallpaper Engine 上按一下新的[b]行動裝置[/b]按鈕，接著選取[b]連接新的行動裝置[/b]。 Wallpaper Engine 將顯示 4 位數的 PIN 碼，可用來連接至行動裝置。 Wallpaper Engine 將顯示 4 位數的 PIN 碼，可用來連接至行動裝置。
 
-[b]步驟 2：[/b]開啟 Android 裝置上的 Wallpaper Engine，按一下右下角的[b]新增[/b]按鈕。 選取[b]與電腦配對[/b]，現在裝置清單中應可看見您的電腦。 選取後輸入步驟 1 所列的 4 位數 PIN 碼。
+[b]步驟 2：[/b]開啟 Android 裝置上的 Wallpaper Engine，按一下右下角的[b]新增[/b]按鈕。 選取[b]與電腦配對[/b]，現在裝置清單中應可看見您的電腦。 選取後輸入步驟 1 所列的 4 位數 PIN 碼。 選取[b]與電腦配對[/b]，現在裝置清單中應可看見您的電腦。 選取後輸入步驟 1 所列的 4 位數 PIN 碼。
 
-[b]步驟 3：[/b]現在裝置應已連接。 以滑鼠右鍵在任何相容的桌布上按一下，點選[b]傳送至行動裝置[/b]，從清單選取您的行動裝置。 您的桌布將開始傳輸。
+[b]步驟 3：[/b]現在裝置應已連接。 以滑鼠右鍵在任何相容的桌布上按一下，點選[b]傳送至行動裝置[/b]，從清單選取您的行動裝置。 您的桌布將開始傳輸。 以滑鼠右鍵在任何相容的桌布上按一下，點選[b]傳送至行動裝置[/b]，從清單選取您的行動裝置。 您的桌布將開始傳輸。
 
 [img]{STEAM_CLAN_IMAGE}/26312799/0fc8bc609bd7d959fa87fe7f90e3f1612ba67cd1.gif[/img]
 
-[b]如果無法連線至 Android：[/b]以滑鼠右鍵在任一桌布上按一下，選取[b]傳送至行動裝置[/b]，再選取[b]匯出 .mpkg[/b]。 接著即可利用傳輸線或其他方式將匯出的行動封裝檔案傳輸至行動裝置。
+[b]如果無法連線至 Android：[/b]以滑鼠右鍵在任一桌布上按一下，選取[b]傳送至行動裝置[/b]，再選取[b]匯出 .mpkg[/b]。 接著即可利用傳輸線或其他方式將匯出的行動封裝檔案傳輸至行動裝置。 接著即可利用傳輸線或其他方式將匯出的行動封裝檔案傳輸至行動裝置。
 
 [list][*] [url=https://help.wallpaperengine.io/mobile/pairing.html]按一下此處閱讀 Android 連線指南。[/url][/list]
-[i]提示：您也可按住鍵盤上的 CTRL 鍵同時選取多個資料夾或多張桌布，並一次傳輸。 在[b]已安裝[/b]分頁按一下 [b]CTRL + A[/b]，即可選取所有已安裝的桌布，並同時傳輸。[/i]
+[i]提示：您也可按住鍵盤上的 CTRL 鍵同時選取多個資料夾或多張桌布，並一次傳輸。 在[b]已安裝[/b]分頁按一下 [b]CTRL + A[/b]，即可選取所有已安裝的桌布，並同時傳輸。[/i] 在[b]已安裝[/b]分頁按一下 [b]CTRL + A[/b]，即可選取所有已安裝的桌布，並同時傳輸。[/i]
 
 [h2]全新 Wallpaper Engine 標誌[/h2]
-隨著 Android 版 Wallpaper Engine 推出，我們認為也該是時候更新標誌了。 原本的標誌含有電腦畫面，似乎不太適合用在行動裝置上。 2.0 版隆重推出之際，應該是嘗試新事物的最佳時機，我們很滿意新標誌、新氣象。
+隨著 Android 版 Wallpaper Engine 推出，我們認為也該是時候更新標誌了。 原本的標誌含有電腦畫面，似乎不太適合用在行動裝置上。 2.0 版隆重推出之際，應該是嘗試新事物的最佳時機，我們很滿意新標誌、新氣象。 原本的標誌含有電腦畫面，似乎不太適合用在行動裝置上。 2.0 版隆重推出之際，應該是嘗試新事物的最佳時機，我們很滿意新標誌、新氣象。
 
 [img]{STEAM_CLAN_IMAGE}/26312799/1f283ac68453f6bf3beb36c1fd49ebbe680685a0.png[/img]
 
-我們多方嘗試形形色色的設計，最終推出的成品保留原有設計的精神，也增添更符合現代的氣息。 在 Wallpaper Engine 2.0 版中，您將可在應用程式、Windows 及官網上看見這款新標誌：
+我們多方嘗試形形色色的設計，最終推出的成品保留原有設計的精神，也增添更符合現代的氣息。 我們多方嘗試形形色色的設計，最終推出的成品保留原有設計的精神，也增添更符合現代的氣息。 在 Wallpaper Engine 2.0 版中，您將可在應用程式、Windows 及官網上看見這款新標誌：
 
 [img]{STEAM_CLAN_IMAGE}/26312799/ecb522ad46fedd9502a715ae38937246172dfcbe.png[/img]
 
 [h2]全新深度視差效果[/h2]
-Wallpaper Engine 編輯器其中一項重大新功能，就是新的深度視差效果。 您可運用此效果為圖像建立可感知到的 3D 深度。 在電腦上，此效果會受到滑鼠影響，而在 Android 上，手機螢幕的動作會模擬滑鼠動作。
+Wallpaper Engine 編輯器其中一項重大新功能，就是新的深度視差效果。 您可運用此效果為圖像建立可感知到的 3D 深度。 在電腦上，此效果會受到滑鼠影響，而在 Android 上，手機螢幕的動作會模擬滑鼠動作。 您可運用此效果為圖像建立可感知到的 3D 深度。 在電腦上，此效果會受到滑鼠影響，而在 Android 上，手機螢幕的動作會模擬滑鼠動作。
 
 [img]{STEAM_CLAN_IMAGE}/26312799/9a593449a484d6a6e55cc8d4293de4dd936f776c.gif[/img]
 
-為了善加發揮桌布編輯器的效果，建議您安裝全新推出的[b][i]免費[/i][/b][i]編輯器擴充 DLC[/i]。 我們決定將這個特定的編輯器功能與選用的 DLC 分開，因為此功能需要下載數 GB 的大小。 第一次在此編輯器使用此效果時，Wallpaper Engine 將提醒您安裝 DLC。 如需詳細資訊，請見在編輯器中安裝與使用深度視差效果的完整指南：
+為了善加發揮桌布編輯器的效果，建議您安裝全新推出的[b][i]免費[/i][/b][i]編輯器擴充 DLC[/i]。 我們決定將這個特定的編輯器功能與選用的 DLC 分開，因為此功能需要下載數 GB 的大小。 第一次在此編輯器使用此效果時，Wallpaper Engine 將提醒您安裝 DLC。 如需詳細資訊，請見在編輯器中安裝與使用深度視差效果的完整指南： 我們決定將這個特定的編輯器功能與選用的 DLC 分開，因為此功能需要下載數 GB 的大小。 第一次在此編輯器使用此效果時，Wallpaper Engine 將提醒您安裝 DLC。 如需詳細資訊，請見在編輯器中安裝與使用深度視差效果的完整指南：
 
 [list][*][url=https://docs.wallpaperengine.io/scene/parallax/depthparallax.html]深度視差[/url] (目前僅有英語版；機器翻譯成果佳)[/list]
 [b]重要事項：[/b]您如果不需要使用此效果，則不需要安裝此免費的 DLC；如果未安裝此免費 DLC，該效果仍可在電腦和行動裝置上使用。
 
 [h2]週間播放清單[/h2]
-我們長久以來常收到的問題是，如何為週間每天設定一張桌布。 這次更新，我們推出了新的週間播放清單功能。 設定相當簡單，只要在 Wallpaper Engine 的[b]已安裝[/b]分頁新增最多七張桌布，接著在播放清單部分按一下[b]設定[/b]，選取[b]星期幾[/b]即完成。 您也可以在同一處找到既有的播放清單選項，例如[b]特定時刻[/b]播放清單類型。
+我們長久以來常收到的問題是，如何為週間每天設定一張桌布。 這次更新，我們推出了新的週間播放清單功能。 我們長久以來常收到的問題是，如何為週間每天設定一張桌布。 這次更新，我們推出了新的週間播放清單功能。 設定相當簡單，只要在 Wallpaper Engine 的[b]已安裝[/b]分頁新增最多七張桌布，接著在播放清單部分按一下[b]設定[/b]，選取[b]星期幾[/b]即完成。 您也可以在同一處找到既有的播放清單選項，例如[b]特定時刻[/b]播放清單類型。 您也可以在同一處找到既有的播放清單選項，例如[b]特定時刻[/b]播放清單類型。
 
 [h2]Windows 11[/h2]
-Wallpaper Engine 完全支援 Windows 11，趁著這次更新，我們也為新增對圓角使用者介面設計的支援。 如果您升級至 Windows 11 後發現 Wallpaper Engine 出現問題，請下載最新版顯示卡驅動程式，並執行全新安裝。 大多數 Windows 11 使用者回報的狀況，問題都出在使用了過時的顯示卡驅動程式。
+Wallpaper Engine 完全支援 Windows 11，趁著這次更新，我們也為新增對圓角使用者介面設計的支援。 如果您升級至 Windows 11 後發現 Wallpaper Engine 出現問題，請下載最新版顯示卡驅動程式，並執行全新安裝。 大多數 Windows 11 使用者回報的狀況，問題都出在使用了過時的顯示卡驅動程式。 如果您使用帶有透明效果的 Windows 11 佈景主題，會發現 Windows 11 忽略了 Wallpaper Engine。 如要解決此問題，只要在 Wallpaper Engine 設定中啟用新推出的[b]覆寫桌布[/b]選項即可。 如此一來，您的 Windows 桌布即可與 Wallpaper Engine 桌布同步，不會再出現與 Windows 11 透明效果有關的問題。 大多數 Windows 11 使用者回報的狀況，問題都出在使用了過時的顯示卡驅動程式。
 
 如果您使用帶有透明效果的 Windows 11 佈景主題，會發現 Windows 11 忽略了 Wallpaper Engine。 如要解決此問題，只要在 Wallpaper Engine 設定中啟用新推出的[b]覆寫桌布[/b]選項即可。 如此一來，您的 Windows 桌布即可與 Wallpaper Engine 桌布同步，不會再出現與 Windows 11 透明效果有關的問題。
 
@@ -105,7 +105,7 @@ Wallpaper Engine 完全支援 Windows 11，趁著這次更新，我們也為新�
 [h3]新增/變更[/h3]
 [h4]主要應用程式功能[/h4]
 [list]
-[*]新增 Android 支援並發布新的 Android 版 Wallpaper Engine 隨附應用程式。
+[*]更新 Wallpaper Engine 標誌、色彩主題，包括應用程式圖示。
 [*]「探索」分頁中新增行動裝置收藏。
 [*]更新 Wallpaper Engine 標誌、色彩主題，包括應用程式圖示。
 [*]新增 Windows 11 圓角功能支援。
@@ -125,11 +125,11 @@ Wallpaper Engine 完全支援 Windows 11，趁著這次更新，我們也為新�
 [h4]Wallpaper 編輯器[/h4]
 [list]
 [*]新增全新深度視差效果。
-[*]新增免費的編輯器擴充 DLC 以提供深度視差效果。 您僅在需要編輯器中使用的時候下載此 DLC，桌布使用者不需要。
+[*]新增免費的編輯器擴充 DLC 以提供深度視差效果。 您僅在需要編輯器中使用的時候下載此 DLC，桌布使用者不需要。 您僅在需要編輯器中使用的時候下載此 DLC，桌布使用者不需要。
 [*]新增編輯器繪製工具的色彩選擇器。
 [*]新增場景桌布文字圖層對中文、日文、韓文等字元的支援，並推出新字型。
 [*]改善粒子系統的「繩子轉譯器」。
-[*]SceneScript: [i]init()[/i] 及 [i]update()[/i] 功能現可在回傳時自動將數字轉換成向量 (Vec2, Vec3, Vec4)。 此有助腳本簡化。
+[*]SceneScript: [i]init()[/i] 及 [i]update()[/i] 功能現可在回傳時自動將數字轉換成向量 (Vec2, Vec3, Vec4)。 此有助腳本簡化。 此有助腳本簡化。
 [*]SceneScript：稍微檢視並改善範例程式碼片段。
 [*]SceneScript：將參考連結更新為 [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]新的 SceneScript 檔案[/url]。
 [*]在編輯器中使用 DXT 壓縮格式可裁剪透明背景。
@@ -140,7 +140,7 @@ Wallpaper Engine 完全支援 Windows 11，趁著這次更新，我們也為新�
 [*]修復匯入解析度低於最低所需大小的紋理時編輯器當機的問題。
 [*]修復特定篩選器設定導致桌布在「已安裝」分頁中顯示兩次的問題。
 [*]修復與視訊紋理相關的當機問題。
-[*]修復 JPEG EXIF 中繼資料有時候並未套用至圖像圖層的問題。 如果圖像在 Windows 中已旋轉，現在應用程式中應該也同樣會旋轉。
+[*]修復 JPEG EXIF 中繼資料有時候並未套用至圖像圖層的問題。 如果圖像在 Windows 中已旋轉，現在應用程式中應該也同樣會旋轉。 如果圖像在 Windows 中已旋轉，現在應用程式中應該也同樣會旋轉。
 [*]修復粒子系統顏色並未正確運作的問題。
 [/list]
 
@@ -150,23 +150,23 @@ Wallpaper Engine 完全支援 Windows 11，趁著這次更新，我們也為新�
 Android 應用程式免費，無隱藏費用、無應用程式內購買、無廣告。 此應用程式也可獨立使用，不須在電腦上安裝 Wallpaper Engine，即可從行動裝置匯入相容的桌布檔案。
 
 [h3]可否直接從行動應用程式存取工作坊？[/h3]
-不可，由於技術及法律限制，工作坊無法直接從行動裝置存取。 不過，我們打造了簡便方式，您可輕鬆將電腦現有桌布收藏傳輸至 Android。 我們盡全力精簡此過程，大部分情況下您只需要確保行動裝置和電腦連接至同一個網路。 [url=https://help.wallpaperengine.io/mobile/pairing.html]按一下此處深入了解。[/url]
+不可，由於技術及法律限制，工作坊無法直接從行動裝置存取。 此外，您也可以直接將行動裝置上儲存的檔案匯入任何相容的桌布檔案。 如果您只是想找到方法，讓 Android 手機或平板電腦上任何視訊檔案轉換為行動裝置的桌布，或是您想在播放清單內使用多張靜態桌布，Android 版 Wallpaper Engine 也能辦到。 我們盡全力精簡此過程，大部分情況下您只需要確保行動裝置和電腦連接至同一個網路。 [url=https://help.wallpaperengine.io/mobile/pairing.html]按一下此處深入了解。[/url]
 
 此外，您也可以直接將行動裝置上儲存的檔案匯入任何相容的桌布檔案。 如果您只是想找到方法，讓 Android 手機或平板電腦上任何視訊檔案轉換為行動裝置的桌布，或是您想在播放清單內使用多張靜態桌布，Android 版 Wallpaper Engine 也能辦到。
 
 [h3]Wallpaper Engine 會消耗裝置的電池電量嗎？[/h3]
 不會，我們已廣泛將此應用程式最佳化，大多數現代裝置在日常使用中都不會明顯對電池壽命產生負面影響。
 
-我們在自己的裝置上使用此應用程式已達數月，而且平時都在使用，並未發現 Wallpaper Engine 有任何實質使用電池電量的狀況。 另一個應用程式在裝置上以全螢幕顯示時，以及裝置關機時，應用程式就自動暫停。 省電模式會使動態桌布自動暫停，進一步減少對電池壽命的影響。 除此之外，您也可以在應用程式設定中調整 FPS 上限，以利調節效能影響。
+我們在自己的裝置上使用此應用程式已達數月，而且平時都在使用，並未發現 Wallpaper Engine 有任何實質使用電池電量的狀況。 另一個應用程式在裝置上以全螢幕顯示時，以及裝置關機時，應用程式就自動暫停。 省電模式會使動態桌布自動暫停，進一步減少對電池壽命的影響。 除此之外，您也可以在應用程式設定中調整 FPS 上限，以利調節效能影響。 另一個應用程式在裝置上以全螢幕顯示時，以及裝置關機時，應用程式就自動暫停。 省電模式會使動態桌布自動暫停，進一步減少對電池壽命的影響。 除此之外，您也可以在應用程式設定中調整 FPS 上限，以利調節效能影響。
 
 [h3]桌布也會像在 Windows 上一樣可以播放聲音嗎？[/h3]
-不會，Android 上所有桌布都是靜音。 然而，只要您允許應用程式錄製裝置音訊，音頻可視化工具即可運作。
+不會，Android 上所有桌布都是靜音。 然而，只要您允許應用程式錄製裝置音訊，音頻可視化工具即可運作。 然而，只要您允許應用程式錄製裝置音訊，音頻可視化工具即可運作。
 
 [h3]我可否在 Android 鎖定畫面上設定桌布？[/h3]
-這要看您的裝置， 部分 Android 製造商不允許鎖定畫面出現動態桌布。 如果裝置上沒有設定鎖定畫面桌布的選項，表示裝置製造商並不允許。
+這要看您的裝置， 這要看您的裝置， 部分 Android 製造商不允許鎖定畫面出現動態桌布。 如果裝置上沒有設定鎖定畫面桌布的選項，表示裝置製造商並不允許。 如果裝置上沒有設定鎖定畫面桌布的選項，表示裝置製造商並不允許。
 
 [h3]是否會推出適用於 iPhone 和 iPad 的 iOS 版 Wallpaper Engine？[/h3]
-很可惜，Apple 的 iOS 並不像 Android 可以支援真正的動態桌布， 因此無法在 iOS 上打造任何類似 Wallpaper Engine 的內容。 如果 Apple 改變主意，我們可能會跟進推出 iOS 版。 [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]按一下此處可見詳盡說明，了解我們為何尚未規劃推出 Linux、Mac OS 及 iOS 版。[/url]
+很可惜，Apple 的 iOS 並不像 Android 可以支援真正的動態桌布， 因此無法在 iOS 上打造任何類似 Wallpaper Engine 的內容。 如果 Apple 改變主意，我們可能會跟進推出 iOS 版。 [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]按一下此處可見詳盡說明，了解我們為何尚未規劃推出 Linux、Mac OS 及 iOS 版。[/url] 因此無法在 iOS 上打造任何類似 Wallpaper Engine 的內容。 如果 Apple 改變主意，我們可能會跟進推出 iOS 版。 [url=https://help.wallpaperengine.io/functionality/linuxmacos.html]按一下此處可見詳盡說明，了解我們為何尚未規劃推出 Linux、Mac OS 及 iOS 版。[/url]
 
 
 [table equalcells=1 noborder=1]
