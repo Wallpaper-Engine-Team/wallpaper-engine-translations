@@ -688,6 +688,7 @@
 	"ui_settings_hotkeys_action_user_wallpaper": "배경화면 선택",
 	"ui_settings_hotkeys_action_user_playlist": "재생목록 선택",
 	"ui_settings_hotkeys_action_user_profile": "프로필 선택",
+	"ui_settings_hotkeys_action_start_screensaver": "화면 보호기 시작",
 	"ui_settings_hotkeys_prompt_enter_combination": "키 조합 누름",
 	"ui_settings_hotkeys_modal_prompt_override_header": "단축키 오버라이드",
 	"ui_settings_hotkeys_modal_prompt_override_body": "이 키는 이미 '{{action}}'에 지정되었습니다. 대신 여기에 지정하시겠습니까?",
