@@ -25,17 +25,17 @@ Windows 设备上的 Wallpaper Engine 现在还将使用其他方法在您的网
 如果您没有获得在锁屏上设置动态壁纸的选项，则这是手机制造商设置的限制。 Wallpaper Engine 对此无法控制，我们或任何其他动态壁纸应用程序都无法解决此问题。在这种情况下，最好的办法就是向手机制造商发送反馈，告诉他们您很在意这项功能，他们可以将该功能添加到 Android 更新中。
 
 [h2]Android 应用程序更新[/h2]
-The latest Android app may take a few days until it reaches everyone, as mobile stores tend to roll out updates more slowly. If you have installed the Android APK directly, make sure to download the latest version from our website:
+最新的 Android 应用程序可能需要几天才能供所有人使用，因为移动设备商店推出更新的速度往往更慢。 如果您直接安装了 Android APK，请务必从我们的网站下载最新版本：
 
-[list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine for Android [/url][/h3][/list] If you have installed the app through an official app store, there is nothing you need to do and the update will be installed on your device automatically within the next few days.
+[list][*][h3][url=https://www.wallpaperengine.io/android]适用于 Android 的 Wallpaper Engine [/url][/h3][/list] 如果您已通过官方应用程序商店安装了该应用程序，则您无需执行任何操作，更新将在接下来的几天内自动安装到您的设备上。
 
-[h2]Changelog[/h2]
-[h3]Additions / Changes[/h3]
-[h4]Windows App[/h4]
-[list][*]Added firewall rule check to pairing screen and a button to automatically delete any rules that block Wallpaper Engine.
-[*]New: High-performance exports of wallpapers can now also be uploaded in their original aspect ratio, which is useful for usage on tablets.
-[*]Fixed high-performance mobile conversion getting stuck.
-[*]Fixed video wallpaper upload not working without Windows Explorer thumbnails being available.
+[h2]更改日志[/h2]
+[h3]添加/更改[/h3]
+[h4]Windows 应用程序[/h4]
+[list][*]将防火墙规则检查添加到了配对屏幕，还添加了一个按钮，以自动删除阻止 Wallpaper Engine 的任何规则。
+[*]新功能：现在还可以按原始宽高比上传高性能壁纸导出，这对于在平板电脑上使用非常有用。
+[*]修复了高性能移动设备转换卡住的问题。
+[*]修复了在 Windows 资源管理器缩略图不可用的情况下无法上传视频壁纸的问题。
 [*]Fixed editor aspect ratio not resetting when clicking on wallpaper while a preview mode is active.[/list]
 [h3]Android App[/h3]
 [list][*]Added clear information about how the possibility of setting a live wallpaper as a lock-screen wallpaper is entirely decided by the mobile device.
