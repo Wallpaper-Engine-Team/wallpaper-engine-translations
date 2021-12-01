@@ -20,11 +20,11 @@ Windows 设备上的 Wallpaper Engine 现在还将使用其他方法在您的网
 [list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android 应用程序连接故障排除[/url][/list] 请记住，您随时可将导出功能用作备份，通过 USB 或其他方法将您的壁纸传输到移动设备。 将壁纸文件放置在移动设备上时，请务必使用手机或平板电脑上的 [b]Downloads[/b] 目录。 出于安全原因，Android 具有非常严格的限制，Wallpaper Engine 无法访问每个 Android 文件夹，但 Downloads 目录通常是最可靠的。
 
 [h2]Android 设备上的锁屏壁纸[/h2]
-Since it is a very common request that we received via email and on our forums, we just wanted to re-iterate this here: [b]Wallpaper Engine fully supports live wallpapers on the Android lock-screen.[/b] However, a lot of phones and tablets do not support live wallpapers on the lock-screen.
+由于这是我们通过电子邮件和在论坛上收到的一个非常常见的请求，我们希望在此重申：[b]Wallpaper Engine 完全支持在 Android 设备的锁屏上使用动态壁纸。[/b]但许多手机和平板电脑并不支持在锁屏上使用动态壁纸。
 
-If you are not given the option to set a live wallpaper on your lock-screen, then this is a limitation set by your phone manufacturer. Wallpaper Engine has no control over this and this cannot be fixed by us or any other live wallpaper app. The best thing you can do in such a case is to send feedback to your phone manufacturer and let them know that this is a feature you care about, it's something that could be added in an Android update.
+如果您没有获得在锁屏上设置动态壁纸的选项，则这是手机制造商设置的限制。 Wallpaper Engine 对此无法控制，我们或任何其他动态壁纸应用程序都无法解决此问题。在这种情况下，最好的办法就是向手机制造商发送反馈，告诉他们您很在意这项功能，他们可以将该功能添加到 Android 更新中。
 
-[h2]Android App Update[/h2]
+[h2]Android 应用程序更新[/h2]
 The latest Android app may take a few days until it reaches everyone, as mobile stores tend to roll out updates more slowly. If you have installed the Android APK directly, make sure to download the latest version from our website:
 
 [list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine for Android [/url][/h3][/list] If you have installed the app through an official app store, there is nothing you need to do and the update will be installed on your device automatically within the next few days.
