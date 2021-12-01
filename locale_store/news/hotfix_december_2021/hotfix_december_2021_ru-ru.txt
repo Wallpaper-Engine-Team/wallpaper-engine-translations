@@ -1,4 +1,4 @@
-Wallpaper Engine 2.0.XX - Windows Firewall Detection and Android Fixes
+Wallpaper Engine 2.0.XX — Обнаружение брандмауэра Windows и исправления Android
 
 The Wallpaper Engine 2.0.XX update addresses the most common problems related to the Android release and we are updating both the Windows and the Android version of the app.
 
@@ -29,9 +29,9 @@ The latest Android app may take a few days until it reaches everyone, as mobile 
 
 [list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine for Android [/url][/h3][/list] If you have installed the app through an official app store, there is nothing you need to do and the update will be installed on your device automatically within the next few days.
 
-[h2]Changelog[/h2]
-[h3]Additions / Changes[/h3]
-[h4]Windows App[/h4]
+[h2]История изменений[/h2]
+[h3]Дополнения и изменения[/h3]
+[h4]Приложение Windows[/h4]
 [list][*]Added firewall rule check to pairing screen and a button to automatically delete any rules that block Wallpaper Engine.
 [*]New: High-performance exports of wallpapers can now also be uploaded in their original aspect ratio, which is useful for usage on tablets.
 [*]Fixed high-performance mobile conversion getting stuck.
