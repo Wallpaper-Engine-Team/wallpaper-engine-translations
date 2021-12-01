@@ -1,6 +1,6 @@
 Wallpaper Engine 2.0.XX — Обнаружение брандмауэра Windows и исправления Android
 
-The Wallpaper Engine 2.0.XX update addresses the most common problems related to the Android release and we are updating both the Windows and the Android version of the app.
+Обновление Wallpaper Engine 2.0.XX решает наиболее распространенные проблемы, связанные с версией для Android. Мы обновляем приложение как для Windows, так и для Android.
 
 Today's update addresses the most common problems related to the Android release and we are updating both the Windows and the Android version of the app.
 
