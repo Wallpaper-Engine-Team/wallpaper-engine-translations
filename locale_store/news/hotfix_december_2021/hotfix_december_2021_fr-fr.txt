@@ -47,5 +47,5 @@ Selon votre pays, il peut falloir quelques jours pour que la dernière applicati
 [*]Correction de certains fonds d'écran de l'heure du jour ne fonctionnant pas correctement sur Android.
 [*]Il est désormais impossible de manquer les avertissements du type "Fond d'écran en pause : Économiseur de batterie activé".
 [*]Les fichiers de fond d'écran corrompus s'affichent dans le navigateur pour qu'il soit facile de les supprimer et ainsi, ne pas gaspiller de l'espace de stockage.
-[*]Localization fixes, notably "Yes" and "No" are not longer switched in the German version which led to a lot of confusion 🤡🇩🇪.
+[*]Corrections de traduction, notamment les "Oui" et "Non" ne sont plus intervertis dans la version allemande, ce qui entraînait une grande confusion. 🤡🇩🇪.
 [/list]
