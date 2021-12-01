@@ -14,38 +14,38 @@ Wallpaper Engine 2.0.XX — Обнаружение брандмауэра Window
 
 Если у вас установлен дополнительный брандмауэр или антивирусные приложения, убедитесь, что [b]ui32.exe[/b] не блокируется ими.
 
-Wallpaper Engine on Windows will now also use additional methods to broadcast itself on your network which will also make it more accessible to Android devices under certain network configurations.
+Wallpaper Engine в Windows теперь также будет использовать дополнительные методы для работы в вашей сети, что также сделает его более доступным для устройств Android при определенных сетевых конфигурациях.
 
 Если проблемы с подключением не исчезнут, прочтите эту справочную страницу:
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android App Connection Troubleshooting[/url][/list] Keep in mind that you can always use the export functionality as a backup and simply transfer your wallpapers to your mobile device via USB or another method. When placing wallpaper files on your mobile device, always make sure to use the [b]Downloads[/b] directory on your phone or tablet. Android is very restrictive for security reasons and Wallpaper Engine cannot access every Android folder, but the Downloads directory is usually the most reliable.
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Устранение неполадок при подключении приложения для Android[/url][/list]Помните, что вы всегда можете использовать функцию экспорта как резервную копию и просто перенести свои обои на мобильное устройство через USB или другим способом. При размещении файлов обоев на мобильном устройстве обязательно используйте каталог [b]Загрузки[/b] на своем телефоне или планшете. Android ограничивает приложения в целях безопасности, и Wallpaper Engine не может получить доступ ко всем папкам Android. Но папка загрузок обычно является наиболее доступной.
 
-[h2]Lock-screen Wallpapers on Android[/h2]
-Since it is a very common request that we received via email and on our forums, we just wanted to re-iterate this here: [b]Wallpaper Engine fully supports live wallpapers on the Android lock-screen.[/b] However, a lot of phones and tablets do not support live wallpapers on the lock-screen.
+[h2]Обои на экране блокировки на Android[/h2]
+Поскольку это очень распространенный вопрос, который нам задают по почте и на форумах, мы хотим повторно ответить на него здесь: Wallpaper Engine полностью поддерживает живые обои на экране блокировки Android.[b][/b] Однако, многие телефоны и планшеты не поддерживают живые обои на экране блокировки.
 
-If you are not given the option to set a live wallpaper on your lock-screen, then this is a limitation set by your phone manufacturer. Wallpaper Engine has no control over this and this cannot be fixed by us or any other live wallpaper app. The best thing you can do in such a case is to send feedback to your phone manufacturer and let them know that this is a feature you care about, it's something that could be added in an Android update.
+Если у вас нет возможности установить живые обои на экран блокировки, то это ограничение установлено производителем вашего телефона. Wallpaper Engine не контролирует это, и это не может быть исправлено ни нами, ни каким-либо другим приложением для живых обоев. Лучшее, что вы можете сделать в таком случае, — отправить отзыв производителю телефона и сообщить ему, что эта функция вам небезразлична и что ее можно добавить в обновление Android.
 
-[h2]Android App Update[/h2]
-The latest Android app may take a few days until it reaches everyone, as mobile stores tend to roll out updates more slowly. If you have installed the Android APK directly, make sure to download the latest version from our website:
+[h2]Обновление приложения для Android[/h2]
+Может пройти несколько дней, прежде чем последнее приложение для Android станет доступно всем, поскольку мобильные магазины обычно выпускают обновления медленнее. Если вы установили Android APK напрямую, обязательно загрузите последнюю версию с нашего сайта:
 
-[list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine for Android [/url][/h3][/list] If you have installed the app through an official app store, there is nothing you need to do and the update will be installed on your device automatically within the next few days.
+[list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine для Android [/url][/h3][/list] Если вы установили приложение через официальный магазин приложений, вам ничего не нужно делать. Обновление будет установлено на ваше устройство автоматически в течение нескольких дней.
 
 [h2]История изменений[/h2]
 [h3]Дополнения и изменения[/h3]
 [h4]Приложение Windows[/h4]
 [list][*]Добавлена проверка правил брандмауэра для экрана сопряжения и кнопка для автоматического удаления любых правил, блокирующих Wallpaper Engine.
-[*]New: High-performance exports of wallpapers can now also be uploaded in their original aspect ratio, which is useful for usage on tablets.
-[*]Fixed high-performance mobile conversion getting stuck.
-[*]Fixed video wallpaper upload not working without Windows Explorer thumbnails being available.
-[*]Fixed editor aspect ratio not resetting when clicking on wallpaper while a preview mode is active.[/list]
-[h3]Android App[/h3]
-[list][*]Added clear information about how the possibility of setting a live wallpaper as a lock-screen wallpaper is entirely decided by the mobile device.
-[*]Fixed crashes on Samsung S21 devices due to broken Samsung Android 12 update.
-[*]Fixed very large wallpapers, app now supports wallpapers with up up to 4 GB in size.
-[*]Wallpaper transfer is now more reliable when screen gets locked during transfer.
-[*]Fixed "add to playlist" button not working on preview screen beyond 7 wallpapers.
-[*]Added more file import rules for Android 9 and lower to reduce vendor specific issues during import.
-[*]Fixed some time of day wallpapers not working properly on Android.
-[*]Made the "wallpaper paused due to power saving mode" warnings absolutely impossible to miss.
-[*]Made broken wallpaper files show up in the browser so they can be deleted easily and don't waste any storage.
-[*]Localization fixes, notably "Yes" and "No" are not longer switched in the German version which led to a lot of confusion 🤡🇩🇪.
+[*]Новое: обои теперь можно экспортировать быстрее и в исходном соотношении сторон, что удобно для использования на планшетах.
+[*]Исправлено зависание высокопроизводительной мобильной конвертации.
+[*]Исправлена ошибка, из-за которой загрузка видео обоев не работала без доступных ярлыков Windows Explorer.
+[*]Исправлена ошибка, из-за которой соотношение сторон редактора не сбрасывалось при нажатии на обои в активном режиме предварительного просмотра.[/list]
+[h3]Приложение для Android[/h3]
+[list][*]Добавлена информация о том, что возможность установки живых обоев в качестве обоев экрана блокировки зависит от мобильного устройства.
+[*]Исправлены сбои на устройствах Samsung S21 из-за неработающего обновления Samsung Android 12.
+[*]Исправлена проблема с очень большими обоями. Теперь приложение поддерживает обои размером до 4 ГБ.
+[*]Передача обоев теперь более стабильна при блокировке экрана во время передачи.
+[*]Исправлена ошибка, из-за которой кнопка «добавить в плейлист» не работала на экране предварительного просмотра после 7 обоев.
+[*]Добавлены дополнительные правила импорта файлов для Android 9 и ниже, чтобы уменьшить проблемы, связанные с конкретными поставщиками при импорте.
+[*]Исправлено некорректное отображение обоев в определенное время суток на Android.
+[*]Предупреждения о том, что обои приостановлены из-за режима энергосбережения, теперь невозможно пропустить.
+[*]Неработающие файлы обоев отображаются в браузере, поэтому их можно легко удалить и не тратить лишнее место.
+[*]Исправления локализации. В частности «Да» и «Нет» больше не переключаются в немецкой версии, что приводило к большой путанице 🤡🇩🇪.
 [/list]
