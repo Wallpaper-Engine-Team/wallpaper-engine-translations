@@ -1,10 +1,10 @@
 Wallpaper Engine 2.0.XX - Windows 防火墙检测和 Android 修复
 
-The Wallpaper Engine 2.0.XX update addresses the most common problems related to the Android release and we are updating both the Windows and the Android version of the app.
+Wallpaper Engine 2.0.XX 更新可解决与 Android 发布版本有关的最常见问题，我们将更新该应用程序的 Windows 和 Android 版本。
 
-Today's update addresses the most common problems related to the Android release and we are updating both the Windows and the Android version of the app.
+今天的更新可解决与 Android 发布版本有关的最常见问题，我们将更新应用程序的 Windows 和 Android 版本。
 
-[h2]Connecting the Android & Windows App[/h2]
+[h2]连接 Android 和 Windows 应用程序[/h2]
 The most common issues we received were related to connecting the Android app with the Windows app to download more wallpapers. We have looked into this and in many cases was caused by the Windows firewall. If Windows has previously asked you to give Wallpaper Engine ("ui32.exe") permission to access your network and you simply closed the window or did not grant the permissions for Wallpaper Engine, then Windows will automatically block Wallpaper Engine's process from properly communicating with your local network:
 
 [img]{STEAM_CLAN_IMAGE}/26312799/46ccf465f7d479f9e1d305b2001e88ea2d791c49.png[/img]
