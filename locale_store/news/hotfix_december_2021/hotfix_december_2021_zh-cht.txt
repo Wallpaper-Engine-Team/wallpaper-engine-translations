@@ -17,21 +17,21 @@ Wallpaper Engine 2.0.XX 更新版本可解決與 Android 發布版本最常見�
 Windows 上的 Wallpaper Engine 現在也會使用其他方法在您的網路上廣播，將有助在某些網路設定下的 Android 裝置更方便存取此應用程式。
 
 如果仍有連接問題，請閱讀以下說明頁面：
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android 版應用程式連線問題疑難排解[/url][/list] 請注意，您隨時可利用匯出功能當作備案，直接透過 USB 或其他方式將桌布傳輸至行動裝置。 將桌布放在行動裝置上時，務必確定儲存在手機或平板電腦的[b]下載[/b]目錄。 Android is very restrictive for security reasons and Wallpaper Engine cannot access every Android folder, but the Downloads directory is usually the most reliable.
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android 版應用程式連線問題疑難排解[/url][/list] 請注意，您隨時可利用匯出功能當作備案，直接透過 USB 或其他方式將桌布傳輸至行動裝置。 將桌布放在行動裝置上時，務必確定儲存在手機或平板電腦的[b]下載[/b]目錄。 為了保障安全，Android 相當嚴謹，Wallpaper Engine 無法存取每個 Android 資料夾，但下載目錄通常最不會出錯。
 
-[h2]Lock-screen Wallpapers on Android[/h2]
-Since it is a very common request that we received via email and on our forums, we just wanted to re-iterate this here: [b]Wallpaper Engine fully supports live wallpapers on the Android lock-screen.[/b] However, a lot of phones and tablets do not support live wallpapers on the lock-screen.
+[h2]Android 上的鎖定畫面桌布[/h2]
+由於我們常從電子郵件和論壇上收到這類要求，謹在此重申：[b]Wallpaper Engine 完全支援 Android 鎖定畫面的動態桌布。[/b]不過，許多手機和平板電腦卻不支援鎖定畫面的動態桌布。
 
-If you are not given the option to set a live wallpaper on your lock-screen, then this is a limitation set by your phone manufacturer. Wallpaper Engine has no control over this and this cannot be fixed by us or any other live wallpaper app. The best thing you can do in such a case is to send feedback to your phone manufacturer and let them know that this is a feature you care about, it's something that could be added in an Android update.
+如果您找不到設定鎖定畫面動態桌布的選項，代表手機製造商設下此限制。 Wallpaper Engine 無權管控，我們或其他任何動態桌布應用程式也無法解決此問題。遇到這種情況，最佳辦法就是向手機製造商反應，讓他們知道您希望有這項功能，請他們考慮新增至 Android 更新版本。
 
-[h2]Android App Update[/h2]
-The latest Android app may take a few days until it reaches everyone, as mobile stores tend to roll out updates more slowly. If you have installed the Android APK directly, make sure to download the latest version from our website:
+[h2]Android 版應用程式更新[/h2]
+最新的 Android 版應用程式可能需要經過數天才能供所有人使用，因為行動裝置商店推出更新的速度往往較慢。 如果您直接安裝 Android APK，請務必從官網下載最新版本：
 
-[list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine for Android [/url][/h3][/list] If you have installed the app through an official app store, there is nothing you need to do and the update will be installed on your device automatically within the next few days.
+[list][*][h3][url=https://www.wallpaperengine.io/android]Android 版 Wallpaper Engine[/url][/h3][/list] 如果您已從官方應用程式商店安裝，便不須再執行其他操作，更新版之後幾天內將自動安裝至您的裝置。
 
-[h2]Changelog[/h2]
-[h3]Additions / Changes[/h3]
-[h4]Windows App[/h4]
+[h2]變更記錄[/h2]
+[h3]新增/變更[/h3]
+[h4]Windows 版應用程式[/h4]
 [list][*]Added firewall rule check to pairing screen and a button to automatically delete any rules that block Wallpaper Engine.
 [*]New: High-performance exports of wallpapers can now also be uploaded in their original aspect ratio, which is useful for usage on tablets.
 [*]Fixed high-performance mobile conversion getting stuck.
