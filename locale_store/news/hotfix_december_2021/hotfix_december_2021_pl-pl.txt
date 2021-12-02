@@ -34,18 +34,18 @@ Zanim najnowsza aplikacja na system Android dotrze do wszystkich, może minąć 
 [h4]Aplikacja na system Windows[/h4]
 [list][*]Do ekranu parowania dodano regułę sprawdzającą zaporę oraz przycisk do automatycznego usuwania reguł blokujących program Wallpaper Engine.
 [*]Nowość: dzięki bardzo wydajnemu eksportowi tapet można je teraz załadować w pierwotnych proporcjach obrazu, co jest przydatne na tabletach.
-[*]Naprawiono bardzo wydajną konwersję na urządzeniach mobilnych, która zawieszała się.
-[*]Naprawiono niedziałające wgrywanie tapet, gdy miniatury Windows Explorer nie były dostępne.
-[*]Naprawiono edytor proporcji obrazu, który nie resetował się gdy kliknięto na tapetę w trybie podglądu.[/list]
+[*]Naprawiono zawieszanie się bardzo wydajnej konwersji na urządzeniach mobilnych.
+[*]Naprawiono niedziałające przesyłanie tapet, gdy miniatury Eksploratora Windows nie były dostępne.
+[*]Naprawiono edytor proporcji obrazu, który nie resetował się, gdy kliknięto tapetę w trybie podglądu.[/list]
 [h3]Aplikacja na system Android[/h3]
-[list][*]Dodano czytelną informację o tym, jak możliwość ustawienia ruchomej tapety ekranu blokady całkowicie zależy od urządzenia mobilnego.
-[*]Naprawiono awarie na urządzeniach Samsung S21 spowodowane błędną aktualizacją Samsung Android 12.
-[*]Naprawiono bardzo duże tapety, aplikacja teraz wspiera tapety o rozmiarze do 4 GB.
-[*]Transfer tapet jest teraz bardziej niezawodny, gdy ekran blokuje się podczas transferu.
-[*]Naprawiono przycisk "dodaj do playlisty", który nie działał na ekranie podglądu powyżej 7 tapet.
-[*]Dodano więcej reguł importowania dla Android 9 i wcześniejszych, aby zredukować niektóre problemy sprzedawców z importem.
-[*]Naprawiono niektóre tapety zależne od pory dnia, które nie działały na Androidzie.
-[*]Sprawiliśmy, że od teraz ostrzeżenia "tapeta wstrzymana z uwagi na tryb pracy energooszczędnej" będą niemożliwe do przeoczenia.
-[*]Sprawiono, że zepsute pliki z tapetami pojawią się w przeglądarce, aby można było je łatwo usunąć i nie marnować miejsca.
-[*]Poprawki lokalizacji, szczególnie "Tak" i "Nie" nie są już zamienione miejscami w wersji niemieckiej, co prowadziło do wielu nieporozumień 🤡🇩🇪.
+[list][*]Dodano czytelną informację o tym, że możliwość ustawienia ruchomej tapety ekranu blokady całkowicie zależy od urządzenia mobilnego.
+[*]Naprawiono awarie na urządzeniach Samsung S21 spowodowane błędną aktualizacją systemu Android 12 na urządzeniach marki Samsung.
+[*]Naprawiono bardzo duże tapety. Aplikacja teraz obsługuje tapety o rozmiarze nawet 4 GB.
+[*]Przesyłanie tapet jest teraz bardziej niezawodne, gdy ekran blokuje się podczas transferu.
+[*]Naprawiono przycisk „dodaj do playlisty”, który nie działał na ekranie podglądu w przypadku więcej niż siedmiu tapet.
+[*]Dodano więcej reguł importowania w systemie Android 9 i we wcześniejszych wersjach, aby ograniczyć problemy z importem występujące u niektórych sprzedawców.
+[*]Naprawiono niektóre tapety zależne od pory dnia, które nie działały w systemie Android.
+[*]Sprawiliśmy, że od teraz ostrzeżenia „tapeta wstrzymana z uwagi na tryb pracy energooszczędnej” będą niemożliwe do przeoczenia.
+[*]Zadbaliśmy o to, aby zepsute pliki z tapetami wyświetlały się w przeglądarce, dzięki czemu można je łatwo usunąć i nie marnować miejsca.
+[*]Poprawki lokalizacji, w szczególności „Tak” i „Nie” nie są już zamienione miejscami w wersji niemieckiej, co prowadziło do wielu nieporozumień 🤡🇩🇪.
 [/list]
