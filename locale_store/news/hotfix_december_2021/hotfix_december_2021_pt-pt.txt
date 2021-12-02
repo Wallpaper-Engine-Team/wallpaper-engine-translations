@@ -4,8 +4,8 @@ A atualização Wallpaper Engine 2.0.XX corrige os problemas mais comuns relacio
 
 A atualização de hoje corrige os problemas mais comuns relacionados com a versão Android e atualizámos as versões Windows e Android da app.
 
-[h2]Ligar a app Android e Windows[/h2]
-Os problemas mais comuns que recebemos estavam relacionados com ligar a app para Android à app para Windows para transferir mais wallpapers. Investigámos esta situação e em muitos casos isto era provocado pela firewall do Windows. Se o Windows lhe pediu anteriormente para dar ao Wallpaper Engine ("ui32.exe") permissão para aceder à sua rede e simplsmente fechou a janela ou não concedeu as permissões para o Wallpaper Engine, então o Windows impedirá automaticamente o processo do Wallpaper Engine de comunicar corretamente com a sua rede local:
+[h2]Ligar as apps para Android e Windows[/h2]
+Os problemas mais comuns que recebemos estavam relacionados com ligar a app para Android à app para Windows para transferir mais wallpapers. Investigámos esta situação e em muitos casos isto era provocado pela firewall do Windows. Se o Windows lhe pediu anteriormente para dar ao Wallpaper Engine ("ui32.exe") permissão para aceder à sua rede e simplesmente fechou a janela ou não concedeu as permissões para o Wallpaper Engine, então o Windows impedirá automaticamente o processo do Wallpaper Engine de comunicar corretamente com a sua rede local:
 
 [img]{STEAM_CLAN_IMAGE}/26312799/46ccf465f7d479f9e1d305b2001e88ea2d791c49.png[/img]
 [i]Se clicou em "Cancelar" aqui ou simplesmente fechou a janela, o Wallpaper Engine está bloqueado na sua firewall do Windows.[/i]
@@ -14,38 +14,38 @@ Agora adicionámos uma nova verificação que tentará detetar situações deste
 
 Se tiver qualquer firewall ou aplicação antivírus adicionais instaladas, deve certificar-e de que [b]ui32.exe[/b] não está a ser bloqueado.
 
-O Wallpaper Engine para Windows utilizrá agora métodos adicionais para transmitir-e a si próprio na sua rede, o que a tornará também mais acessível para dispositivos Android em determinadas configurações de rede.
+O Wallpaper Engine para Windows utilizará agora métodos adicionais para transmitir-e a si próprio na sua rede, o que a tornará também mais acessível para dispositivos Android em determinadas configurações de rede.
 
 Se os seus problemas de ligação persistirem, leia a seguinte página de ajuda:
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Resolução de Problemas de Ligação da App para Android[/url][/list] Tenha em conta que poderá sempre utilizar a funcionalidade de exportação como cópia de segurança e simplesmente transferir os seus wallpapers para o seu dispositivo móvel através de USB ou outro método. Quando coloca ficheiros de wallpaper no seu dispositivo móvel, certifique-se sempre de que utiliza o diretório [b]Transferências[/b] (Downloads) do seu telefone ou tablet. Android é muito restritivo por motios d seguramça e o Wallpaper Engine não pode aceder a todas as pastas de Android, mas o diretório de Transferências costuma ser o mais fiável.
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Resolução de Problemas de Ligação da App para Android[/url][/list] Tenha em conta que poderá sempre utilizar a funcionalidade de exportação como cópia de segurança e simplesmente transferir os seus wallpapers para o seu dispositivo móvel através de USB ou outro método. Quando coloca ficheiros de wallpaper no seu dispositivo móvel, certifique-se sempre de que utiliza o diretório [b]Transferências[/b] (Downloads) do seu telefone ou tablet. Android é muito restritivo por motios de segurança e o Wallpaper Engine não pode aceder a todas as pastas de Android, mas o diretório de Transferências costuma ser o mais fiável.
 
 [h2]Wallpapers para Ecrã de Bloqueio em Android[/h2]
-Como é um pedido muito comum que recebemos através de email e nos nossos fóruns, gostaríamos de reaformar isto aqui: [b]o Wallpaper Engine suporta totalmente wallpapers animados no ecrã de bloqueio de Android.[/b] No entanto, muitos telefones e tablets não suportam wallpapers animados no ecrã de bloqueio.
+Como é um pedido muito comum que recebemos através de email e nos nossos fóruns, gostaríamos de reafirmar isto aqui: [b]o Wallpaper Engine suporta totalmente wallpapers animados no ecrã de bloqueio de Android.[/b] No entanto, muitos telefones e tablets não suportam wallpapers animados no ecrã de bloqueio.
 
-Caso não lhe seja dada a opção de definir wallpapers animados no seu ecrã de bloqueio, então isto é uma limitação definida pelo fabricante do seu telefone. O Wallpaper Engine não tem controlo sobre isto e isto não pode ser corrigido por nós ou por qualquer outra app de wallpapers animados. Neste caso, o melhor que tem a fazer é enviar feedback para o fabricante do seu telefone e dizer-lhe que esta é uma fancionalidade que lhe interessa, que é algo que poderia ser adicionado numa atualização para Android.
+Caso não lhe seja dada a opção de definir wallpapers animados no seu ecrã de bloqueio, então isto é uma limitação definida pelo fabricante do seu telefone. O Wallpaper Engine não tem controlo sobre isto e isto não pode ser corrigido por nós ou por qualquer outra app de wallpapers animados. Neste caso, o melhor que tem a fazer é enviar feedback para o fabricante do seu telefone e dizer-lhe que esta é uma funcionalidade que lhe interessa, que é algo que poderia ser adicionado numa atualização para Android.
 
 [h2]Atualização da App para Android[/h2]
 A mais recente app para Android poderá demorar alguns dias a chegar a todos, pois as lojas de mobile tendem a ser mais lentas a lançar atualizações. Se instalou a Android APK diretamente certifique-se de que transfere a versão mais recente a partir do nosso website:
 
-[list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine para Android [/url][/h3][/list] Se instalou a app através de uma loja de apps oficial, não precisa de fazer nada e a atualização será instalada autoamticamente no seu dispositivo durante os próximos dias.
+[list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine para Android [/url][/h3][/list] Se instalou a app através de uma loja de apps oficial, não precisa de fazer nada e a atualização será instalada automaticamente no seu dispositivo durante os próximos dias.
 
 [h2]Changelog[/h2]
 [h3]Adições / Alterações[/h3]
 [h4]App para Windows[/h4]
 [list][*]Foi adicionada uma verificação das regras de firewall ao ecrã de emparelhamento e um botão para apagar automaticamente quaisquer regras que bloqueiem o Wallpaper Engine.
-[*]New: High-performance exports of wallpapers can now also be uploaded in their original aspect ratio, which is useful for usage on tablets.
-[*]Fixed high-performance mobile conversion getting stuck.
-[*]Fixed video wallpaper upload not working without Windows Explorer thumbnails being available.
-[*]Fixed editor aspect ratio not resetting when clicking on wallpaper while a preview mode is active.[/list]
-[h3]Android App[/h3]
-[list][*]Added clear information about how the possibility of setting a live wallpaper as a lock-screen wallpaper is entirely decided by the mobile device.
-[*]Fixed crashes on Samsung S21 devices due to broken Samsung Android 12 update.
-[*]Fixed very large wallpapers, app now supports wallpapers with up up to 4 GB in size.
-[*]Wallpaper transfer is now more reliable when screen gets locked during transfer.
-[*]Fixed "add to playlist" button not working on preview screen beyond 7 wallpapers.
-[*]Added more file import rules for Android 9 and lower to reduce vendor specific issues during import.
-[*]Fixed some time of day wallpapers not working properly on Android.
-[*]Made the "wallpaper paused due to power saving mode" warnings absolutely impossible to miss.
-[*]Made broken wallpaper files show up in the browser so they can be deleted easily and don't waste any storage.
-[*]Localization fixes, notably "Yes" and "No" are not longer switched in the German version which led to a lot of confusion 🤡🇩🇪.
+[*]Novidade: Exportações de alta performance de wallpapers agora também podem ser enviadas na sua proporção de ecrã original, o que é útil para utilizar em tablets.
+[*]Foi corrigida uma situação na qual a conversão de alta performance para mobile ficava bloqueada.
+[*]Foi corrigido um envio de wallpapers de vídeo que não funcionava sem as miniaturas do Windows Explorer estarem disponíveis.
+[*]Foi corrigida uma situação na qual o editor de proporções não reinicia ao clicar num wallpaper enquanto um modo de pré-visualização está ativo.[/list]
+[h3]App para Android[/h3]
+[list][*]Foi adicionada informação clara acerca como a possibilidade de definir um wallpaper animado como wallpaper do ecrã de bloqueio é inteiramente decidida pelo dispositivo móvel.
+[*]Foram corrigidos bloqueios em dispositivos Samsung S21 devido à atualização 12 para Samsung Android conter erros.
+[*]Wallpapers muito grandes foram corrigidos, a app agora suporta wallpapers com até 4 GB.
+[*]Agora a transferência de wallpapers é mais fiável quando o ecrã fica bloqueado durante a transferência.
+[*]O botão "adicionar à lista de reprodução" foi corrigido, pois não funcionava no ecrã de pré-visualização para mais de 7 wallpapers.
+[*]Foram adicionadas mais regras de importação de ficheiros para Android 9 e mais baixo de forma a reduzir problemas especificamente do fabricante durante a importação.
+[*]Foram corrigidos alguns wallpapers hora do dia que não funcionavam corretamente em Android.
+[*]Tornámos o aviso "wallpaper em pausa devido ao modo de poupança de energia" absolutamente impossível de não ser visto.
+[*]Fizemos os ficheiros de wallpaper aparecerem no browser para poderem ser apagados com facilidade e não desperdiçarem armazenamento.
+[*]Correções na localização, incluindo "Sim" e "Não" já não estarem trocados na versão alemã, o que provocou grandes confusões 🤡🇩🇪.
 [/list]
