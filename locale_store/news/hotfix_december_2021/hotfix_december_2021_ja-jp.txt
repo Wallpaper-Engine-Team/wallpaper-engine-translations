@@ -10,14 +10,14 @@ Wallpaper Engine 2.0.XXアップデートではアンドロイド版のリリー
 [img]{STEAM_CLAN_IMAGE}/26312799/46ccf465f7d479f9e1d305b2001e88ea2d791c49.png[/img]
 [i]もしこの時に「キャンセル（Cancel）」をクリックしていたり、ウィンドウを閉じてしまっていた場合、WindowsファイアウォールによってWallpaper Engineがブロックされてしまいます。[/i]
 
-以上のような問題を検知しようとする新しい検査手段を追加しました。これにより、Windowsファイアウォールを自動で修正することが可能になるでしょう。 However, if you do not get any notification about the Windows firewall or if you use any other firewall application, then Wallpaper Engine cannot fix your local network automatically.
+以上のような問題を検知しようとする新しい検査手段を追加しました。これにより、Windowsファイアウォールを自動で修正することが可能になるでしょう。 ただし、Windowsファイアウォールに関する通知がない場合や、別のファイアウォールアプリを使用している場合、Wallpaper Engineがローカルネットワークを自動で修正することはできません。
 
-If you have any additional firewall or antivirus applications installed, you need to ensure that [b]ui32.exe[/b] is not being blocked.
+何か追加のファイアウォールやアンチウイルスアプリをインストールしている場合、[b]フui32.exe[/b]がブロックされていないことを確認する必要があります。
 
-Wallpaper Engine on Windows will now also use additional methods to broadcast itself on your network which will also make it more accessible to Android devices under certain network configurations.
+また、Windows版Wallpaper Engineはネットワーク上で通信する際に追加のメソッドを用いるようにもなります。これによっても、特定のネットワーク設定においてAndroidデバイスに今よりもアクセスしやすくなるでしょう。
 
-If your connection issues persist, please read the following help page:
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android App Connection Troubleshooting[/url][/list] Keep in mind that you can always use the export functionality as a backup and simply transfer your wallpapers to your mobile device via USB or another method. When placing wallpaper files on your mobile device, always make sure to use the [b]Downloads[/b] directory on your phone or tablet. Android is very restrictive for security reasons and Wallpaper Engine cannot access every Android folder, but the Downloads directory is usually the most reliable.
+それでも接続に問題が見られる場合は、次のヘルプページをご覧ください。
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android版アプリの接続に関するトラブルシューティング[/url][/list] ただし、エクスポート機能は常に代替手段として使えることを覚えていてください。また、USBなどの手段を用いても壁紙をモバイルデバイスに転送できます。 壁紙ファイルをモバイルデバイスに置いた際には、必ずスマートフォンやタブレットにある[b]ダウンロード[/b]ディレクトリをお使いください。 Androidはセキュリティ上の理由で制限がとても厳しいので、Wallpaper EngineはすべてのAndroidフォルダにアクセスできるわけではありませんが、ダウンロードディレクトリは確実性が最も高いことが多いです。
 
 [h2]Lock-screen Wallpapers on Android[/h2]
 Since it is a very common request that we received via email and on our forums, we just wanted to re-iterate this here: [b]Wallpaper Engine fully supports live wallpapers on the Android lock-screen.[/b] However, a lot of phones and tablets do not support live wallpapers on the lock-screen.
