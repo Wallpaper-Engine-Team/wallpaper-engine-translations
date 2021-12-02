@@ -36,11 +36,11 @@ Windows 上的 Wallpaper Engine 現在也會使用其他方法在您的網路上
 [*]新功能：高效能匯出的桌布現也可依原始外觀比例上傳，方便平板電腦上使用。
 [*]修復高效能行動裝置轉換時停住的問題。
 [*]修復 Windows 檔案總管中縮圖不可用時視訊桌布無法上傳的問題。
-[*]Fixed editor aspect ratio not resetting when clicking on wallpaper while a preview mode is active.[/list]
+[*]修復預覽模式中按下桌布無法在編輯器重新設定外觀比例的問題。[/list]
 [h3]Android 版應用程式[/h3]
-[list][*]Added clear information about how the possibility of setting a live wallpaper as a lock-screen wallpaper is entirely decided by the mobile device.
-[*]Fixed crashes on Samsung S21 devices due to broken Samsung Android 12 update.
-[*]Fixed very large wallpapers, app now supports wallpapers with up up to 4 GB in size.
+[list][*]新增明確資訊，說明能否在鎖定畫面設定動態桌布是完全交由行動裝置決定。
+[*]修復因 Samsung Android 12 更新不當導致 Samsung S21當機的問題。
+[*]應用程式現可支援最高 4GB 的桌布。
 [*]Wallpaper transfer is now more reliable when screen gets locked during transfer.
 [*]Fixed "add to playlist" button not working on preview screen beyond 7 wallpapers.
 [*]Added more file import rules for Android 9 and lower to reduce vendor specific issues during import.
