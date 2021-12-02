@@ -5,12 +5,12 @@ Wallpaper Engine 2.0.XXアップデートではアンドロイド版のリリー
 今回のアップデートではアンドロイド版のリリースに関連して最も頻繁に生じている問題を対処し、Windows版とAndroid版のアプリをどちらも更新します。
 
 [h2]Android版とWindows版のアプリの接続[/h2]
-The most common issues we received were related to connecting the Android app with the Windows app to download more wallpapers. We have looked into this and in many cases was caused by the Windows firewall. If Windows has previously asked you to give Wallpaper Engine ("ui32.exe") permission to access your network and you simply closed the window or did not grant the permissions for Wallpaper Engine, then Windows will automatically block Wallpaper Engine's process from properly communicating with your local network:
+最も頻繁に報告を受けた問題は、追加の壁紙をダウンロードするためにAndroid版とWindows版のアプリを接続することに関する問題でした。 この問題を調査した結果、多くの場合でその原因となっていたのはWindowsファイアウォールでした。 過去にWallpaper Engine（"ui32.exe"）からネットワークへのアクセス許可を求められた際に、単にそのウィンドウを閉じてしまっていたり、Wallpaper Engineに許可を与えていなかった場合、Wallpaper Engineのプロセスがローカルネットワークに正しく接続するのをWindowsが自動的にブロックしてしまうでしょう。
 
 [img]{STEAM_CLAN_IMAGE}/26312799/46ccf465f7d479f9e1d305b2001e88ea2d791c49.png[/img]
-[i]If you clicked "Cancel" here or just closed the window, then Wallpaper Engine is blocked in your Windows firewall.[/i]
+[i]もしこの時に「キャンセル（Cancel）」をクリックしていたり、ウィンドウを閉じてしまっていた場合、WindowsファイアウォールによってWallpaper Engineがブロックされてしまいます。[/i]
 
-We have now added a new check that will try and detect issues like that and will offer you a way to automatically fix the Windows firewall. However, if you do not get any notification about the Windows firewall or if you use any other firewall application, then Wallpaper Engine cannot fix your local network automatically.
+以上のような問題を検知しようとする新しい検査手段を追加しました。これにより、Windowsファイアウォールを自動で修正することが可能になるでしょう。 However, if you do not get any notification about the Windows firewall or if you use any other firewall application, then Wallpaper Engine cannot fix your local network automatically.
 
 If you have any additional firewall or antivirus applications installed, you need to ensure that [b]ui32.exe[/b] is not being blocked.
 
