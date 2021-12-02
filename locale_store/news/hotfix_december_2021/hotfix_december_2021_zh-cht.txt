@@ -41,9 +41,9 @@ Windows 上的 Wallpaper Engine 現在也會使用其他方法在您的網路上
 [list][*]新增明確資訊，說明能否在鎖定畫面設定動態桌布是完全交由行動裝置決定。
 [*]修復因 Samsung Android 12 更新不當導致 Samsung S21當機的問題。
 [*]應用程式現可支援最高 4GB 的桌布。
-[*]Wallpaper transfer is now more reliable when screen gets locked during transfer.
-[*]Fixed "add to playlist" button not working on preview screen beyond 7 wallpapers.
-[*]Added more file import rules for Android 9 and lower to reduce vendor specific issues during import.
+[*]在傳輸過程中鎖定畫面時，桌布傳輸更可靠。
+[*]修復「新增至播放清單」按鈕超過 7 張桌布時預覽畫面無法正常運作的問題。
+[*]為 Android 9 及更低版本新增更多檔案匯入規則，以減少匯入過程中供應商造成的特定問題。
 [*]Fixed some time of day wallpapers not working properly on Android.
 [*]Made the "wallpaper paused due to power saving mode" warnings absolutely impossible to miss.
 [*]Made broken wallpaper files show up in the browser so they can be deleted easily and don't waste any storage.
