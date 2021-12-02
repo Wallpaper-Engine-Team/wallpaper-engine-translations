@@ -8,16 +8,16 @@ Wallpaper Engine 2.0.XX 更新版本可解決 Android 發布版本最常見的�
 我們最常收到的問題是，欲下載更多桌布時，無法連接 Android 及 Windows 版應用程式。 經調查發現，許多情況都是由 Windows 防火牆造成。 如果先前 Windows 請您授予 Wallpaper Engine (「ui32.exe」) 存取網路的權限，但您直接關閉視窗或當初並未開啟 Wallpaper Engine 權限，Windows 將自動阻擋 Wallpaper Engine 與您的區域網路正常通訊：
 
 [img]{STEAM_CLAN_IMAGE}/26312799/46ccf465f7d479f9e1d305b2001e88ea2d791c49.png[/img]
-[i]如果您按下「取消」或是直接關閉視窗，Wallpaper Engine 則會遭到 Windows 防火牆封鎖。[/i]
+[i]如果您按下「取消」或直接關閉視窗，Wallpaper Engine 會遭到 Windows 防火牆封鎖。[/i]
 
-我們新增了一項檢查功能，會協助偵測此類問題，並提供自動修復 Windows 防火牆的方式。 不過如果您並未收到 Windows 防火牆任何通知，或如果您有其他防火牆應用程式，Wallpaper Engine 就無法自動修復您的區域網路。
+我們新增了一項檢查功能，會協助偵測此類問題，並提供自動修復 Windows 防火牆的方式。 不過如果您並未收到 Windows 防火牆任何通知，或如果您使用其他防火牆應用程式，Wallpaper Engine 就無法自動修復您的區域網路。
 
 如果您安裝了任何其他防火牆或防毒應用程式，必須確定 [b]ui32.exe[/b] 並未遭到封鎖。
 
 Windows 上的 Wallpaper Engine 現在也會使用其他方法在您的網路上廣播，將有助在某些網路設定下的 Android 裝置更方便存取此應用程式。
 
 如果仍有連接問題，請閱讀以下說明頁面：
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android 版應用程式連線問題疑難排解[/url][/list] 請注意，您隨時可利用匯出功能當作備案，直接透過 USB 或其他方式將桌布傳輸至行動裝置。 將桌布放在行動裝置上時，務必確定儲存在手機或平板電腦的[b]下載[/b]目錄。 為了保障安全，Android 相當嚴謹，Wallpaper Engine 無法存取每個 Android 資料夾，但下載目錄通常最不會出錯。
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android 版應用程式連線問題疑難排解[/url][/list] 請注意，您隨時可利用匯出功能當作備案，直接透過 USB 或其他方式將桌布傳輸至行動裝置。 桌布存放在行動裝置上時，務必確定儲存在手機或平板電腦的[b]下載[/b]目錄。 Android 的防護措施相當嚴謹，Wallpaper Engine 無法存取每個 Android 資料夾，但下載目錄通常最不會出錯。
 
 [h2]Android 上的鎖定畫面桌布[/h2]
 由於我們常從電子郵件和論壇上收到這類要求，謹在此重申：[b]Wallpaper Engine 完全支援 Android 鎖定畫面的動態桌布。[/b]不過，許多手機和平板電腦卻不支援鎖定畫面的動態桌布。
@@ -32,14 +32,14 @@ Windows 上的 Wallpaper Engine 現在也會使用其他方法在您的網路上
 [h2]變更記錄[/h2]
 [h3]新增/變更[/h3]
 [h4]Windows 版應用程式[/h4]
-[list][*]新增防火牆規則檢查至配對畫面，並新增一顆按鈕，可自動刪除任何封鎖 Wallpaper Engine 的規則。
+[list][*]在配對畫面新增防火牆規則檢查，並新增一顆按鈕，可自動刪除任何封鎖 Wallpaper Engine 的規則。
 [*]新功能：高效能匯出的桌布現也可依原始外觀比例上傳，方便平板電腦上使用。
 [*]修復高效能行動裝置轉換時停住的問題。
 [*]修復 Windows 檔案總管中縮圖不可用時視訊桌布無法上傳的問題。
 [*]修復預覽模式中按下桌布無法在編輯器重新設定外觀比例的問題。[/list]
 [h3]Android 版應用程式[/h3]
 [list][*]新增明確資訊，說明能否在鎖定畫面設定動態桌布是完全交由行動裝置決定。
-[*]修復因 Samsung Android 12 更新不當導致 Samsung S21當機的問題。
+[*]修復因 Samsung Android 12 更新不當導致 Samsung S21 當機的問題。
 [*]應用程式現可支援最高 4GB 的桌布。
 [*]在傳輸過程中鎖定畫面時，桌布傳輸更可靠。
 [*]修復「新增至播放清單」按鈕超過 7 張桌布時預覽畫面無法正常運作的問題。
