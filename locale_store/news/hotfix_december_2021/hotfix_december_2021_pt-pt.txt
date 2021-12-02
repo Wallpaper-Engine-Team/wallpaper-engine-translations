@@ -1,38 +1,38 @@
-Wallpaper Engine 2.0.XX - Windows Firewall Detection and Android Fixes
+Wallpaper Engine 2.0.XX - Deteção de Windows Firewall e correções para Android
 
-The Wallpaper Engine 2.0.XX update addresses the most common problems related to the Android release and we are updating both the Windows and the Android version of the app.
+A atualização Wallpaper Engine 2.0.XX corrige os problemas mais comuns relacionados com a versão Android e atualizámos as versões Windows e Android da app.
 
-Today's update addresses the most common problems related to the Android release and we are updating both the Windows and the Android version of the app.
+A atualização de hoje corrige os problemas mais comuns relacionados com a versão Android e atualizámos as versões Windows e Android da app.
 
-[h2]Connecting the Android & Windows App[/h2]
-The most common issues we received were related to connecting the Android app with the Windows app to download more wallpapers. We have looked into this and in many cases was caused by the Windows firewall. If Windows has previously asked you to give Wallpaper Engine ("ui32.exe") permission to access your network and you simply closed the window or did not grant the permissions for Wallpaper Engine, then Windows will automatically block Wallpaper Engine's process from properly communicating with your local network:
+[h2]Ligar a app Android e Windows[/h2]
+Os problemas mais comuns que recebemos estavam relacionados com ligar a app para Android à app para Windows para transferir mais wallpapers. Investigámos esta situação e em muitos casos isto era provocado pela firewall do Windows. Se o Windows lhe pediu anteriormente para dar ao Wallpaper Engine ("ui32.exe") permissão para aceder à sua rede e simplsmente fechou a janela ou não concedeu as permissões para o Wallpaper Engine, então o Windows impedirá automaticamente o processo do Wallpaper Engine de comunicar corretamente com a sua rede local:
 
 [img]{STEAM_CLAN_IMAGE}/26312799/46ccf465f7d479f9e1d305b2001e88ea2d791c49.png[/img]
-[i]If you clicked "Cancel" here or just closed the window, then Wallpaper Engine is blocked in your Windows firewall.[/i]
+[i]Se clicou em "Cancelar" aqui ou simplesmente fechou a janela, o Wallpaper Engine está bloqueado na sua firewall do Windows.[/i]
 
-We have now added a new check that will try and detect issues like that and will offer you a way to automatically fix the Windows firewall. However, if you do not get any notification about the Windows firewall or if you use any other firewall application, then Wallpaper Engine cannot fix your local network automatically.
+Agora adicionámos uma nova verificação que tentará detetar situações deste tipo e irá oferecer-lhe uma forma de corrigir automaticamente a firewall do Windows. No entanto, se não receber qualquer notificação acerca da firewall do Windows ou caso utilize outra aplicação de firewall, o Wallpaper Engine não poderá corrigir a sua rede local automaticamente.
 
-If you have any additional firewall or antivirus applications installed, you need to ensure that [b]ui32.exe[/b] is not being blocked.
+Se tiver qualquer firewall ou aplicação antivírus adicionais instaladas, deve certificar-e de que [b]ui32.exe[/b] não está a ser bloqueado.
 
-Wallpaper Engine on Windows will now also use additional methods to broadcast itself on your network which will also make it more accessible to Android devices under certain network configurations.
+O Wallpaper Engine para Windows utilizrá agora métodos adicionais para transmitir-e a si próprio na sua rede, o que a tornará também mais acessível para dispositivos Android em determinadas configurações de rede.
 
-If your connection issues persist, please read the following help page:
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android App Connection Troubleshooting[/url][/list] Keep in mind that you can always use the export functionality as a backup and simply transfer your wallpapers to your mobile device via USB or another method. When placing wallpaper files on your mobile device, always make sure to use the [b]Downloads[/b] directory on your phone or tablet. Android is very restrictive for security reasons and Wallpaper Engine cannot access every Android folder, but the Downloads directory is usually the most reliable.
+Se os seus problemas de ligação persistirem, leia a seguinte página de ajuda:
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Resolução de Problemas de Ligação da App para Android[/url][/list] Tenha em conta que poderá sempre utilizar a funcionalidade de exportação como cópia de segurança e simplesmente transferir os seus wallpapers para o seu dispositivo móvel através de USB ou outro método. Quando coloca ficheiros de wallpaper no seu dispositivo móvel, certifique-se sempre de que utiliza o diretório [b]Transferências[/b] (Downloads) do seu telefone ou tablet. Android é muito restritivo por motios d seguramça e o Wallpaper Engine não pode aceder a todas as pastas de Android, mas o diretório de Transferências costuma ser o mais fiável.
 
-[h2]Lock-screen Wallpapers on Android[/h2]
-Since it is a very common request that we received via email and on our forums, we just wanted to re-iterate this here: [b]Wallpaper Engine fully supports live wallpapers on the Android lock-screen.[/b] However, a lot of phones and tablets do not support live wallpapers on the lock-screen.
+[h2]Wallpapers para Ecrã de Bloqueio em Android[/h2]
+Como é um pedido muito comum que recebemos através de email e nos nossos fóruns, gostaríamos de reaformar isto aqui: [b]o Wallpaper Engine suporta totalmente wallpapers animados no ecrã de bloqueio de Android.[/b] No entanto, muitos telefones e tablets não suportam wallpapers animados no ecrã de bloqueio.
 
-If you are not given the option to set a live wallpaper on your lock-screen, then this is a limitation set by your phone manufacturer. Wallpaper Engine has no control over this and this cannot be fixed by us or any other live wallpaper app. The best thing you can do in such a case is to send feedback to your phone manufacturer and let them know that this is a feature you care about, it's something that could be added in an Android update.
+Caso não lhe seja dada a opção de definir wallpapers animados no seu ecrã de bloqueio, então isto é uma limitação definida pelo fabricante do seu telefone. O Wallpaper Engine não tem controlo sobre isto e isto não pode ser corrigido por nós ou por qualquer outra app de wallpapers animados. Neste caso, o melhor que tem a fazer é enviar feedback para o fabricante do seu telefone e dizer-lhe que esta é uma fancionalidade que lhe interessa, que é algo que poderia ser adicionado numa atualização para Android.
 
-[h2]Android App Update[/h2]
-The latest Android app may take a few days until it reaches everyone, as mobile stores tend to roll out updates more slowly. If you have installed the Android APK directly, make sure to download the latest version from our website:
+[h2]Atualização da App para Android[/h2]
+A mais recente app para Android poderá demorar alguns dias a chegar a todos, pois as lojas de mobile tendem a ser mais lentas a lançar atualizações. Se instalou a Android APK diretamente certifique-se de que transfere a versão mais recente a partir do nosso website:
 
-[list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine for Android [/url][/h3][/list] If you have installed the app through an official app store, there is nothing you need to do and the update will be installed on your device automatically within the next few days.
+[list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine para Android [/url][/h3][/list] Se instalou a app através de uma loja de apps oficial, não precisa de fazer nada e a atualização será instalada autoamticamente no seu dispositivo durante os próximos dias.
 
 [h2]Changelog[/h2]
-[h3]Additions / Changes[/h3]
-[h4]Windows App[/h4]
-[list][*]Added firewall rule check to pairing screen and a button to automatically delete any rules that block Wallpaper Engine.
+[h3]Adições / Alterações[/h3]
+[h4]App para Windows[/h4]
+[list][*]Foi adicionada uma verificação das regras de firewall ao ecrã de emparelhamento e um botão para apagar automaticamente quaisquer regras que bloqueiem o Wallpaper Engine.
 [*]New: High-performance exports of wallpapers can now also be uploaded in their original aspect ratio, which is useful for usage on tablets.
 [*]Fixed high-performance mobile conversion getting stuck.
 [*]Fixed video wallpaper upload not working without Windows Explorer thumbnails being available.
