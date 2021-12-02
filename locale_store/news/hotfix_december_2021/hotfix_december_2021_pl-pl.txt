@@ -24,18 +24,18 @@ Ponieważ bardzo często prosicie nas o to w mailach lub na naszych forach, chci
 
 Jeśli nie masz możliwości ustawienia ruchomej tapety na ekranie blokady to jest to ograniczenie nałożone przez producenta twojego telefonu. Wallpaper Engine nie ma nad tym kontroli i ani my, ani żadna inna aplikacja z ruchomymi tapetami nie może tego naprawić. Najlepsze co możesz zrobić w takim wypadku to wysłać zgłoszenie do producenta twojego telefonu, aby zgłosić, że jest to ważna dla ciebie funkcja, która mogłaby zostać dodana w aktualizacji Androida.
 
-[h2]Android App Update[/h2]
-The latest Android app may take a few days until it reaches everyone, as mobile stores tend to roll out updates more slowly. If you have installed the Android APK directly, make sure to download the latest version from our website:
+[h2]Aktualizacja aplikacji Android[/h2]
+Może zająć kilka dni zanim najnowsza aplikacja na system Android dotrze do wszystkich, ponieważ sklepy z oprogramowaniem zazwyczaj wolniej wysyłają aktualizację. Jeśli zainstalowałeś Android APK bezpośrednio, to upewnij się, że ściągnąłeś najnowszą wersję z naszej strony:
 
-[list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine for Android [/url][/h3][/list] If you have installed the app through an official app store, there is nothing you need to do and the update will be installed on your device automatically within the next few days.
+[list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine for Android[/url][/h3][/list] Jeżeli instalowałeś aplikację z oficjalnego sklepu z aplikacjami to nie musisz nic robić, a aktualizacja zainstaluje się automatycznie na twoim urządzeniu w ciągu kilku najbliższych dni.
 
-[h2]Changelog[/h2]
-[h3]Additions / Changes[/h3]
-[h4]Windows App[/h4]
-[list][*]Added firewall rule check to pairing screen and a button to automatically delete any rules that block Wallpaper Engine.
-[*]New: High-performance exports of wallpapers can now also be uploaded in their original aspect ratio, which is useful for usage on tablets.
-[*]Fixed high-performance mobile conversion getting stuck.
-[*]Fixed video wallpaper upload not working without Windows Explorer thumbnails being available.
+[h2]Opis zmian[/h2]
+[h3]Dodatki / Zmiany[/h3]
+[h4]Aplikacja na system Windows[/h4]
+[list][*]Dodano regułę sprawdzającą do ekranu parowania oraz przycisk do automatycznego usuwania reguł blokujących Wallpaper Engine.
+[*]Nowość: Dzięki bardzo wydajnemu eksportowi tapet można je teraz załadować w pierwotnych proporcjach obrazu, co jest przydatne na tabletach.
+[*]Naprawiono bardzo wydajną konwersję na urządzeniach mobilnych, która zawieszała się.
+[*]Naprawiono niedziałające wgrywanie tapet, gdy miniatury Windows Explorer nie były dostępne.
 [*]Fixed editor aspect ratio not resetting when clicking on wallpaper while a preview mode is active.[/list]
 [h3]Android App[/h3]
 [list][*]Added clear information about how the possibility of setting a live wallpaper as a lock-screen wallpaper is entirely decided by the mobile device.
