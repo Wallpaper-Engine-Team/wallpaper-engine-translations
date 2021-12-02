@@ -5,19 +5,19 @@ Wallpaper Engine 2.0.XX 更新版本可解決與 Android 發布版本最常見�
 今天發布的更新版本可解決與 Android 發布版本最常見的問題，我們也正在更新該應用程式的 Windows 及 Android 版本。
 
 [h2]連接 Android 及 Windows 版應用程式[/h2]
-The most common issues we received were related to connecting the Android app with the Windows app to download more wallpapers. We have looked into this and in many cases was caused by the Windows firewall. If Windows has previously asked you to give Wallpaper Engine ("ui32.exe") permission to access your network and you simply closed the window or did not grant the permissions for Wallpaper Engine, then Windows will automatically block Wallpaper Engine's process from properly communicating with your local network:
+我們最常收到的問題是，欲下載更多桌布時，無法連接 Android 版及 Windows 版應用程式。 經調查，發現許多情況都是由 Windows 防火牆造成。 如果先前 Windows 請您授予 Wallpaper Engine (「ui32.exe」) 存取網路的權限，但您直接關閉視窗或當初並未開啟 Wallpaper Engine 權限，Windows 將自動阻擋 Wallpaper Engine 與您的區域網路正常通訊：
 
 [img]{STEAM_CLAN_IMAGE}/26312799/46ccf465f7d479f9e1d305b2001e88ea2d791c49.png[/img]
-[i]If you clicked "Cancel" here or just closed the window, then Wallpaper Engine is blocked in your Windows firewall.[/i]
+[i]如果您按下「取消」或是直接關閉視窗，Wallpaper Engine 則會遭到 Windows 防火牆封鎖。[/i]
 
-We have now added a new check that will try and detect issues like that and will offer you a way to automatically fix the Windows firewall. However, if you do not get any notification about the Windows firewall or if you use any other firewall application, then Wallpaper Engine cannot fix your local network automatically.
+我們新增了一項檢查功能，會協助偵測此類問題，並提供自動修復 Windows 防火牆的方式。 不過如果您並未收到 Windows 防火牆任何通知，或如果您有其他防火牆應用程式，Wallpaper Engine 就無法自動修復您的區域網路。
 
-If you have any additional firewall or antivirus applications installed, you need to ensure that [b]ui32.exe[/b] is not being blocked.
+如果您安裝了任何其他防火牆或防毒應用程式，必須確定 [b]ui32.exe[/b] 並未遭到封鎖。
 
-Wallpaper Engine on Windows will now also use additional methods to broadcast itself on your network which will also make it more accessible to Android devices under certain network configurations.
+Windows 上的 Wallpaper Engine 現在也會使用其他方法在您的網路上廣播，將有助在某些網路設定下的 Android 裝置更方便存取此應用程式。
 
-If your connection issues persist, please read the following help page:
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android App Connection Troubleshooting[/url][/list] Keep in mind that you can always use the export functionality as a backup and simply transfer your wallpapers to your mobile device via USB or another method. When placing wallpaper files on your mobile device, always make sure to use the [b]Downloads[/b] directory on your phone or tablet. Android is very restrictive for security reasons and Wallpaper Engine cannot access every Android folder, but the Downloads directory is usually the most reliable.
+如果仍有連接問題，請閱讀以下說明頁面：
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android 版應用程式連線問題疑難排解[/url][/list] 請注意，您隨時可利用匯出功能當作備案，直接透過 USB 或其他方式將桌布傳輸至行動裝置。 將桌布放在行動裝置上時，務必確定儲存在手機或平板電腦的[b]下載[/b]目錄。 Android is very restrictive for security reasons and Wallpaper Engine cannot access every Android folder, but the Downloads directory is usually the most reliable.
 
 [h2]Lock-screen Wallpapers on Android[/h2]
 Since it is a very common request that we received via email and on our forums, we just wanted to re-iterate this here: [b]Wallpaper Engine fully supports live wallpapers on the Android lock-screen.[/b] However, a lot of phones and tablets do not support live wallpapers on the lock-screen.
