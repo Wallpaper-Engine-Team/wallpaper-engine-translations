@@ -17,23 +17,23 @@ Jeżeli używasz innej aplikacji do stawiania zapory lub masz zainstalowaną apl
 Program Wallpaper Engine w systemie Windows od teraz będzie używać dodatkowych metod, aby sygnalizować swoje działanie w sieci, co sprawi, że będzie łatwiej dostępny dla urządzeń z systemem Android w niektórych konfiguracjach sieciowych.
 
 Jeśli problemy z połączeniem dalej występują, przeczytaj poniższą stronę z pomocą:
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android App Connection Troubleshooting[/url][/list] Pamiętaj, że zawsze możesz użyć funkcji eksportowania kopii zapasowej i po prostu przenieść swoje tapety na urządzenie mobilne po kablu USB lub używając innej metody. Gdy zgrywasz tapety na swoje urządzenie mobilne zawsze zwracaj uwagę, aby używać folderu [b]Pobrane[/b] na swoim telefonie lub tablecie. Android jest bardzo restrykcyjny jeśli chodzi o bezpieczeństwo i Wallpaper Engine nie ma dostępu do każdego folderu w systemie Android, ale folder Pobrane jest zazwyczaj najbardziej niezawodnym wyborem.
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Rozwiązywanie problemów z połączeniem z aplikacją w systemie Android[/url][/list] Pamiętaj, że zawsze możesz zrezygnować z korzystania funkcji eksportowania i po prostu przenieść swoje tapety na urządzenie mobilne przy użyciu kabla USB lub używając innej metody. Gdy przenosisz tapety na swoje urządzenie mobilne, zawsze zwracaj uwagę, aby używać folderu [b]Pobrane[/b] na swoim telefonie lub tablecie. System Android jest bardzo restrykcyjny, jeśli chodzi o bezpieczeństwo, i program Wallpaper Engine nie ma dostępu do każdego folderu w tym systemie, ale folder Pobrane jest zazwyczaj najbardziej niezawodnym wyborem.
 
 [h2]Tapety na zablokowanym ekranie w systemie Android[/h2]
-Ponieważ bardzo często prosicie nas o to w mailach lub na naszych forach, chcielibyśmy powtórzyć: [b]Wallpaper Engine w pełni wspiera ruchome tapety na ekranie blokady Androida[/b] Jednakże, dużo telefonów i tabletów nie wspiera ruchomych tapet na ekranie blokady.
+Ponieważ bardzo często prosicie nas o to w wiadomościach e-mail lub na naszych forach, chcielibyśmy powtórzyć: [b]program Wallpaper Engine w pełni obsługuje ruchome tapety na ekranie blokady w systemie Android.[/b] Jednak wiele telefonów i tabletów nie obsługuje ruchomych tapet na ekranie blokady.
 
-Jeśli nie masz możliwości ustawienia ruchomej tapety na ekranie blokady to jest to ograniczenie nałożone przez producenta twojego telefonu. Wallpaper Engine nie ma nad tym kontroli i ani my, ani żadna inna aplikacja z ruchomymi tapetami nie może tego naprawić. Najlepsze co możesz zrobić w takim wypadku to wysłać zgłoszenie do producenta twojego telefonu, aby zgłosić, że jest to ważna dla ciebie funkcja, która mogłaby zostać dodana w aktualizacji Androida.
+Jeśli nie masz możliwości ustawienia ruchomej tapety na ekranie blokady, to jest to ograniczenie nałożone przez producenta Twojego telefonu. Program Wallpaper Engine nie ma na to wpływu i i ani my, ani twórcy żadnej innej aplikacji z ruchomymi tapetami nie możemy tego naprawić. Najlepsze, co możesz zrobić w takim wypadku, to wysłać zgłoszenie do producenta Twojego telefonu, aby poinformować go, że jest to ważna dla Ciebie funkcja, która mogłaby zostać dodana w aktualizacji systemu Android.
 
 [h2]Aktualizacja aplikacji Android[/h2]
-Może zająć kilka dni zanim najnowsza aplikacja na system Android dotrze do wszystkich, ponieważ sklepy z oprogramowaniem zazwyczaj wolniej wysyłają aktualizację. Jeśli zainstalowałeś Android APK bezpośrednio, to upewnij się, że ściągnąłeś najnowszą wersję z naszej strony:
+Zanim najnowsza aplikacja na system Android dotrze do wszystkich, może minąć kilka dni, ponieważ sklepy z oprogramowaniem zazwyczaj wolniej wysyłają aktualizację. Jeśli do instalacji użyto bezpośrednio pliku APK, pobierz najnowszą wersję aplikacji z naszej strony:
 
-[list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine for Android[/url][/h3][/list] Jeżeli instalowałeś aplikację z oficjalnego sklepu z aplikacjami to nie musisz nic robić, a aktualizacja zainstaluje się automatycznie na twoim urządzeniu w ciągu kilku najbliższych dni.
+[list][*][h3][url=https://www.wallpaperengine.io/android]Aplikacja Wallpaper Engine do systemu Android[/url][/h3][/list] Jeżeli aplikacja pochodzi z oficjalnego sklepu z aplikacjami, to nie musisz nic robić, a aktualizacja zainstaluje się automatycznie na Twoim urządzeniu w ciągu kilku najbliższych dni.
 
 [h2]Opis zmian[/h2]
-[h3]Dodatki / Zmiany[/h3]
+[h3]Dodatki/zmiany[/h3]
 [h4]Aplikacja na system Windows[/h4]
-[list][*]Dodano regułę sprawdzającą do ekranu parowania oraz przycisk do automatycznego usuwania reguł blokujących Wallpaper Engine.
-[*]Nowość: Dzięki bardzo wydajnemu eksportowi tapet można je teraz załadować w pierwotnych proporcjach obrazu, co jest przydatne na tabletach.
+[list][*]Do ekranu parowania dodano regułę sprawdzającą zaporę oraz przycisk do automatycznego usuwania reguł blokujących program Wallpaper Engine.
+[*]Nowość: dzięki bardzo wydajnemu eksportowi tapet można je teraz załadować w pierwotnych proporcjach obrazu, co jest przydatne na tabletach.
 [*]Naprawiono bardzo wydajną konwersję na urządzeniach mobilnych, która zawieszała się.
 [*]Naprawiono niedziałające wgrywanie tapet, gdy miniatury Windows Explorer nie były dostępne.
 [*]Naprawiono edytor proporcji obrazu, który nie resetował się gdy kliknięto na tapetę w trybie podglądu.[/list]
