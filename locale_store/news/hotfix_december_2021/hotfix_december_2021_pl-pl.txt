@@ -14,15 +14,15 @@ Obecnie dodaliśmy nową regułę kontrolną, która to sprawdza i wykrywa takie
 
 Jeżeli używasz innej aplikacji firewall lub antywirusowej to musisz upewnić się, że [b]ui32.exe[/b] nie jest przez nią blokowane.
 
-Wallpaper Engine on Windows will now also use additional methods to broadcast itself on your network which will also make it more accessible to Android devices under certain network configurations.
+Wallpaper Engine na system Windows od teraz będzie używać dodatkowych metod aby wyświetlać swoje działanie w twojej sieci co sprawi, że będzie łatwiej dostępna dla urządzeń Android w niektórych konfiguracjach sieciowych.
 
-If your connection issues persist, please read the following help page:
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android App Connection Troubleshooting[/url][/list] Keep in mind that you can always use the export functionality as a backup and simply transfer your wallpapers to your mobile device via USB or another method. When placing wallpaper files on your mobile device, always make sure to use the [b]Downloads[/b] directory on your phone or tablet. Android is very restrictive for security reasons and Wallpaper Engine cannot access every Android folder, but the Downloads directory is usually the most reliable.
+Jeśli problemy z połączeniem dalej występują przeczytaj proszę poniższą stronę z pomocą:
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android App Connection Troubleshooting[/url][/list] Pamiętaj, że zawsze możesz użyć funkcji eksportowania kopii zapasowej i po prostu przenieść swoje tapety na urządzenie mobilne po kablu USB lub używając innej metody. Gdy zgrywasz tapety na swoje urządzenie mobilne zawsze zwracaj uwagę, aby używać folderu [b]Pobrane[/b] na swoim telefonie lub tablecie. Android jest bardzo restrykcyjny jeśli chodzi o bezpieczeństwo i Wallpaper Engine nie ma dostępu do każdego folderu w systemie Android, ale folder Pobrane jest zazwyczaj najbardziej niezawodnym wyborem.
 
-[h2]Lock-screen Wallpapers on Android[/h2]
-Since it is a very common request that we received via email and on our forums, we just wanted to re-iterate this here: [b]Wallpaper Engine fully supports live wallpapers on the Android lock-screen.[/b] However, a lot of phones and tablets do not support live wallpapers on the lock-screen.
+[h2]Tapety na zablokowanym ekranie w systemie Android[/h2]
+Ponieważ bardzo często prosicie nas o to w mailach lub na naszych forach, chcielibyśmy powtórzyć: [b]Wallpaper Engine w pełni wspiera ruchome tapety na ekranie blokady Androida[/b] Jednakże, dużo telefonów i tabletów nie wspiera ruchomych tapet na ekranie blokady.
 
-If you are not given the option to set a live wallpaper on your lock-screen, then this is a limitation set by your phone manufacturer. Wallpaper Engine has no control over this and this cannot be fixed by us or any other live wallpaper app. The best thing you can do in such a case is to send feedback to your phone manufacturer and let them know that this is a feature you care about, it's something that could be added in an Android update.
+Jeśli nie masz możliwości ustawienia ruchomej tapety na ekranie blokady to jest to ograniczenie nałożone przez producenta twojego telefonu. Wallpaper Engine nie ma nad tym kontroli i ani my, ani żadna inna aplikacja z ruchomymi tapetami nie może tego naprawić. Najlepsze co możesz zrobić w takim wypadku to wysłać zgłoszenie do producenta twojego telefonu, aby zgłosić, że jest to ważna dla ciebie funkcja, która mogłaby zostać dodana w aktualizacji Androida.
 
 [h2]Android App Update[/h2]
 The latest Android app may take a few days until it reaches everyone, as mobile stores tend to roll out updates more slowly. If you have installed the Android APK directly, make sure to download the latest version from our website:
