@@ -20,7 +20,7 @@ Si vos problèmes de connexion persistent, veuillez lire la page d'aide suivante
 [list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Dépannage de la connexion à l'application Android[/url][/list] N'oubliez pas que vous pouvez toujours utiliser la fonctionnalité d'exportation pour réaliser une sauvegarde et transférer simplement vos fonds d'écran sur votre appareil mobile via un port USB ou une autre méthode. Lorsque vous placez des fichiers de fond d'écran sur votre appareil mobile, veillez toujours à utiliser le répertoire [b]Downloads[/b] de votre téléphone ou de votre tablette. Pour des raisons de sécurité, Android est très restrictif, et Wallpaper Engine ne peut pas accéder à tous les dossiers Android, mais le répertoire Downloads est généralement le plus fiable.
 
 [h2]Fonds d'écran de verrouillage sur Android[/h2]
-Comme il s'agit d'une demande très courante que nous avons reçue par e-mail et sur nos forums, nous voulions juste faire un petit rappel : [b]Wallpaper Engine prend entièrement en charge les fonds d'écran personnalisable sur l'écran de verrouillage d'Android.[/b] Cependant, de nombreux téléphones et tablettes ne sont pas compatibles avec les fonds d'écran personnalisables sur l'écran de verrouillage.
+Comme il s'agit d'une demande très courante que nous avons reçue par e-mail et sur nos forums, nous voulions juste faire un petit rappel : [b]Wallpaper Engine prend entièrement en charge les fonds d'écran personnalisables sur l'écran de verrouillage d'Android.[/b] Cependant, de nombreux téléphones et tablettes ne sont pas compatibles avec les fonds d'écran personnalisables sur l'écran de verrouillage.
 
 Si vous n'avez pas la possibilité de définir un fond d'écran personnalisable sur votre écran de verrouillage, il s'agit d'une limitation fixée par le fabricant de votre téléphone. Wallpaper Engine n'a aucun contrôle sur ce problème, qui ne peut être résolu ni par nous ni par une autre application de fond d'écran. La meilleure solution est d'envoyer un commentaire au fabricant de votre téléphone et de lui indiquer qu'il s'agit d'une fonctionnalité qui vous tient à cœur et qui pourrait être ajoutée dans une mise à jour d'Android.
 
@@ -36,9 +36,9 @@ Selon votre pays, il peut falloir quelques jours pour que la dernière applicati
 [*]Nouveau : Les exportations hautes performances de fonds d'écran peuvent désormais être téléchargées dans leur format d'origine, ce qui peut s'avérer utile pour les tablettes.
 [*]Correction de la conversion mobile haute performance qui se bloquait.
 [*]Correction du téléchargement de fonds d'écran vidéo qui ne fonctionnait pas si les vignettes de l'Explorateur Windows n'étaient pas disponibles.
-[*]Correction des proportions de l'éditeur qui ne se réinitialisait pas lorsque l'utilisateur cliquait sur le fond d'écran alors qu'un mode d'aperçu était actif[/list]
+[*]Correction des proportions de l'éditeur qui ne se réinitialisaient pas lorsque l'utilisateur cliquait sur le fond d'écran alors qu'un mode d'aperçu était actif[/list]
 [h3]Application Android[/h3]
-[list][*]Ajout d'informations bien lisibles expliquant que la configuration d'un fond d'écran personnalisables comme fond d'écran de verrouillage est dépend entièrement de l'appareil mobile.
+[list][*]Ajout d'informations bien lisibles expliquant que la configuration d'un fond d'écran personnalisable comme fond d'écran de verrouillage dépend entièrement de l'appareil mobile.
 [*]Correction des plantages sur les appareils Samsung S21 dus à un défaut de la mise à jour Android 12 de Samsung.
 [*]Correction des fonds d'écran très volumineux. L'application prend désormais en charge les fonds d'écran d'une taille maximale de 4 Go.
 [*]Le transfert des fonds d'écran est désormais plus fiable lorsque l'écran se bloque pendant le transfert.
@@ -46,6 +46,6 @@ Selon votre pays, il peut falloir quelques jours pour que la dernière applicati
 [*]Ajout d'un plus grand nombre de règles d'importation de fichiers pour Android 9 (et version inférieure) afin de réduire les problèmes propres aux fournisseurs lors de l'importation.
 [*]Correction de certains fonds d'écran de l'heure du jour ne fonctionnant pas correctement sur Android.
 [*]Il est désormais impossible de manquer les avertissements du type "Fond d'écran en pause : Économiseur de batterie activé".
-[*]Les fichiers de fond d'écran corrompus s'affichent dans le navigateur pour qu'il soit facile de les supprimer et ainsi, ne pas gaspiller de l'espace de stockage.
+[*]Les fichiers de fond d'écran corrompus s'affichent dans le navigateur pour qu'il soit facile de les supprimer et ainsi, de ne pas gaspiller de l'espace de stockage.
 [*]Corrections de traduction, notamment les "Oui" et "Non" ne sont plus intervertis dans la version allemande, ce qui entraînait une grande confusion. 🤡🇩🇪.
 [/list]
