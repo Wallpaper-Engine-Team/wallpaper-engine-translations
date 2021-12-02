@@ -1,18 +1,18 @@
-Wallpaper Engine 2.0.XX - wykrywanie zapory systemu Windows i poprawki w Android
+Wallpaper Engine 2.0.XX – wykrywanie zapory Windows i poprawki w Androidzie
 
-Aktualizacja Wallpaper Engine 2.0.XX rozwiązuje większość popularnych problemów związanych z wydaniem Android, aktualizujemy zarówno naszą wersję na system Windows i Android.
+Aktualizacja Wallpaper Engine 2.0.XX rozwiązuje większość najczęściej występujących problemów z bieżącą wersją systemu Android. Aktualizujemy aplikację na system Windows i Android.
 
 Dzisiejsza aktualizacja Wallpaper Engine. XX rozwiązuje większość popularnych problemów związanych z wydaniem Android, aktualizujemy zarówno naszą wersję na system Windows i Android.
 
 [h2]Połączenie aplikacji na system Android i Windows[/h2]
-The most common issues we received were related to connecting the Android app with the Windows app to download more wallpapers. We have looked into this and in many cases was caused by the Windows firewall. If Windows has previously asked you to give Wallpaper Engine ("ui32.exe") permission to access your network and you simply closed the window or did not grant the permissions for Wallpaper Engine, then Windows will automatically block Wallpaper Engine's process from properly communicating with your local network:
+Najczęściej zgłaszane kwestie odnosiły się do łączenia aplikacji na system Android z aplikacją na system Windows przy pobieraniu tapet. Przeanalizowaliśmy to i w wielu przypadkach było to spowodowane zaporą Windows. Jeśli Windows zapytał cię czy udzielić Wallpaper Engine ("ui32.exe") dostępu do twojej sieci, a ty po prostu zamknąłeś okienko, lub nie udzieliłeś dostępu dla Wallpaper Engine to Windows automatycznie blokował komunikację procesu Wallpaper Engine z twoją siecią lokalną:
 
 [img]{STEAM_CLAN_IMAGE}/26312799/46ccf465f7d479f9e1d305b2001e88ea2d791c49.png[/img]
-[i]If you clicked "Cancel" here or just closed the window, then Wallpaper Engine is blocked in your Windows firewall.[/i]
+[i]Jeśli naciśniesz "Anuluj" lub zamkniesz okno to zapora Windows zablokuje Wallpaper Engine.[/i]
 
-We have now added a new check that will try and detect issues like that and will offer you a way to automatically fix the Windows firewall. However, if you do not get any notification about the Windows firewall or if you use any other firewall application, then Wallpaper Engine cannot fix your local network automatically.
+Obecnie dodaliśmy nową regułę kontrolną, która to sprawdza i wykrywa takie przypadki, oraz oferuje ci automatyczny sposób naprawy zapory Windows. Jeśli nie otrzymasz powiadomienia o zaporze sieciowej Windows, lub jeśli używasz innej aplikacji typu firewall, to Wallpaper Engine nie będzie mógł naprawić twojej sieci automatycznie.
 
-If you have any additional firewall or antivirus applications installed, you need to ensure that [b]ui32.exe[/b] is not being blocked.
+Jeżeli używasz innej aplikacji firewall lub antywirusowej to musisz upewnić się, że [b]ui32.exe[/b] nie jest przez nią blokowane.
 
 Wallpaper Engine on Windows will now also use additional methods to broadcast itself on your network which will also make it more accessible to Android devices under certain network configurations.
 
