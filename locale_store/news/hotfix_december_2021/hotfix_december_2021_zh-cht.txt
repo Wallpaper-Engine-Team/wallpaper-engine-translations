@@ -32,12 +32,12 @@ Windows 上的 Wallpaper Engine 現在也會使用其他方法在您的網路上
 [h2]變更記錄[/h2]
 [h3]新增/變更[/h3]
 [h4]Windows 版應用程式[/h4]
-[list][*]Added firewall rule check to pairing screen and a button to automatically delete any rules that block Wallpaper Engine.
-[*]New: High-performance exports of wallpapers can now also be uploaded in their original aspect ratio, which is useful for usage on tablets.
-[*]Fixed high-performance mobile conversion getting stuck.
-[*]Fixed video wallpaper upload not working without Windows Explorer thumbnails being available.
+[list][*]新增防火牆規則檢查至配對畫面，並新增一顆按鈕，可自動刪除任何封鎖 Wallpaper Engine 的規則。
+[*]新功能：高效能匯出的桌布現也可依原始外觀比例上傳，方便平板電腦上使用。
+[*]修復高效能行動裝置轉換時停住的問題。
+[*]修復 Windows 檔案總管中縮圖不可用時視訊桌布無法上傳的問題。
 [*]Fixed editor aspect ratio not resetting when clicking on wallpaper while a preview mode is active.[/list]
-[h3]Android App[/h3]
+[h3]Android 版應用程式[/h3]
 [list][*]Added clear information about how the possibility of setting a live wallpaper as a lock-screen wallpaper is entirely decided by the mobile device.
 [*]Fixed crashes on Samsung S21 devices due to broken Samsung Android 12 update.
 [*]Fixed very large wallpapers, app now supports wallpapers with up up to 4 GB in size.
