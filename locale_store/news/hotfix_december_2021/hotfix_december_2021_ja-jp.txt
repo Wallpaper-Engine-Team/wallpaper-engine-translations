@@ -32,20 +32,20 @@ Android版アプリの最新バージョンを利用可能になるまでには�
 [h2]変更履歴[/h2]
 [h3]追加・変更[/h3]
 [h4]Windows版アプリ[/h4]
-[list][*]ペアリング画面にファイアウォールのルール確認を追加しました。これにより、ボタン1つでWallpaper Engineをブロックしているルールを自動的に削除することができます。
-[*]New: High-performance exports of wallpapers can now also be uploaded in their original aspect ratio, which is useful for usage on tablets.
-[*]Fixed high-performance mobile conversion getting stuck.
-[*]Fixed video wallpaper upload not working without Windows Explorer thumbnails being available.
-[*]Fixed editor aspect ratio not resetting when clicking on wallpaper while a preview mode is active.[/list]
-[h3]Android App[/h3]
-[list][*]Added clear information about how the possibility of setting a live wallpaper as a lock-screen wallpaper is entirely decided by the mobile device.
-[*]Fixed crashes on Samsung S21 devices due to broken Samsung Android 12 update.
-[*]Fixed very large wallpapers, app now supports wallpapers with up up to 4 GB in size.
-[*]Wallpaper transfer is now more reliable when screen gets locked during transfer.
-[*]Fixed "add to playlist" button not working on preview screen beyond 7 wallpapers.
-[*]Added more file import rules for Android 9 and lower to reduce vendor specific issues during import.
-[*]Fixed some time of day wallpapers not working properly on Android.
-[*]Made the "wallpaper paused due to power saving mode" warnings absolutely impossible to miss.
+[list][*]ペアリング画面にファイアウォールのルール確認を追加。これにより、ボタン1つでWallpaper Engineをブロックしているルールを自動的に削除することが可能に
+[*]新要素：壁紙を高パフォーマンスエクスポートした際に、元々のアスペクト比でもアップロードできるように。タブレットで使用する場合に重宝する機能
+[*]高パフォーマンスモバイルコンバージョンが停止していた問題を修正
+[*]ビデオ壁紙アップロード機能がエクスプローラーのサムネイルが利用可能になっていないと動作しなかった問題の修正
+[*]プレビューモードがアクティブになっている間に壁紙をクリックした際に、エディタのアスペクト比がリセットされていなかった問題を修正[/list]
+[h3]Android版アプリ[/h3]
+[list][*]ライブ壁紙をロック画面の壁紙として設定できるかどうかは完全にモバイルデバイス次第であるということを分かりやすく説明した情報を追加
+[*]破損したSamsung Android 12 アップデートによってSamsung S21デバイスで発生していたクラッシュを修正
+[*]非常に大きな壁紙の修正。アプリは4GBまでの壁紙に対応するように
+[*]壁紙の転送中に画面がロックされた際に転送がより安定するように
+[*]「プレイリストに追加」ボタンが7枚を超える壁紙のプレビュー画面で機能していなかった問題の修正
+[*]Android 9向けにインポートのルールをさらに追加。インポート中にベンダー固有の問題の発生する確率を低減
+[*]Androidで一日のある時間になると壁紙が機能しなくなる問題を修正
+[*]「バッテリーセーバーモードなので壁紙が停止しました」という警告を見逃すことがないように変更
 [*]Made broken wallpaper files show up in the browser so they can be deleted easily and don't waste any storage.
 [*]Localization fixes, notably "Yes" and "No" are not longer switched in the German version which led to a lot of confusion 🤡🇩🇪.
 [/list]
