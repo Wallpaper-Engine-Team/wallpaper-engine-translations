@@ -46,6 +46,6 @@ Android版アプリの最新バージョンを利用可能になるまでには�
 [*]Android 9向けにインポートのルールをさらに追加。インポート中にベンダー固有の問題の発生する確率を低減
 [*]Androidで一日のある時間になると壁紙が機能しなくなる問題を修正
 [*]「バッテリーセーバーモードなので壁紙が停止しました」という警告を見逃すことがないように変更
-[*]Made broken wallpaper files show up in the browser so they can be deleted easily and don't waste any storage.
-[*]Localization fixes, notably "Yes" and "No" are not longer switched in the German version which led to a lot of confusion 🤡🇩🇪.
+[*]破損した壁紙ファイルがブラウザに表示されるように変更。これにより、容易に破損ファイルを削除でき、ストレージを圧迫しなくて済むように
+[*]ローカライズに関する修正。特に、ドイツ語バージョンで「Yes」と「No」が逆になっており、ユーザーを困惑させていた問題を修正🤡🇩🇪
 [/list]
