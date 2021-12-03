@@ -22,17 +22,17 @@ Wallpaper Engine 2.0.XXアップデートではアンドロイド版のリリー
 [h2]Androidにおけるロック画面の壁紙[/h2]
 メールやフォーラムにて大変頻繁に要望をいただいたので、ロック画面用壁紙に関してここで再び言及しておきたいと思います。[b]Wallpaper EngineはAndroidのロック画面で使えるライブ壁紙に完全対応しています[/b]けれども、多くのスマートフォンやタブレットはロック画面のライブ壁紙に対応していません。
 
-ロック画面にライブ壁紙を設定するオプションが見当たらない場合、それはお使いのスマートフォンのメーカーによって制限が設けられているということです。 Wallpaper Engineはそのようなオプションに対して一切の権限を有していません。そのため、我々でも他のライブ壁紙アプリでも制限に関する問題を修正することはできません。このような問題に直面した際は、スマートフォンのメーカーに意見書を送り、こんな機能が欲しいということやAndroidアップデートで追加できうるものだということを伝えるのが最善策です。
+ロック画面にライブ壁紙を設定するオプションが見当たらない場合、それはお使いのスマートフォンのメーカーによって制限が設けられているということです。 Wallpaper Engineはそのようなオプションに対して一切の権限を有していません。そのため、私たちでも他のライブ壁紙アプリでも制限に関する問題を修正することはできません。このような問題に直面した際は、スマートフォンのメーカーに意見書を送り、こんな機能が欲しいということやAndroidアップデートで追加できうるものだということを伝えるのが最善策です。
 
 [h2]Android版アプリのアップデート[/h2]
-The latest Android app may take a few days until it reaches everyone, as mobile stores tend to roll out updates more slowly. If you have installed the Android APK directly, make sure to download the latest version from our website:
+Android版アプリの最新バージョンを利用可能になるまでにはもう数日かかると思います。なぜなら、モバイルストアはアップデートを公開するのが他よりも遅くなりがちだからです。 Android版APKを直接ダウンロードした方は、私たちのウェブサイトから最新バージョンをダウンロードしてください。
 
-[list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine for Android [/url][/h3][/list] If you have installed the app through an official app store, there is nothing you need to do and the update will be installed on your device automatically within the next few days.
+[list][*][h3][url=https://www.wallpaperengine.io/android]Android版Wallpaper Engine [/url][/h3][/list] 公式アプリストアからアプリをインストールしていた場合、何もする必要はありません。アップデートは数日以内に自動的にお手持ちのデバイスにインストールされるはずです。
 
-[h2]Changelog[/h2]
-[h3]Additions / Changes[/h3]
-[h4]Windows App[/h4]
-[list][*]Added firewall rule check to pairing screen and a button to automatically delete any rules that block Wallpaper Engine.
+[h2]変更履歴[/h2]
+[h3]追加・変更[/h3]
+[h4]Windows版アプリ[/h4]
+[list][*]ペアリング画面にファイアウォールのルール確認を追加しました。これにより、ボタン1つでWallpaper Engineをブロックしているルールを自動的に削除することができます。
 [*]New: High-performance exports of wallpapers can now also be uploaded in their original aspect ratio, which is useful for usage on tablets.
 [*]Fixed high-performance mobile conversion getting stuck.
 [*]Fixed video wallpaper upload not working without Windows Explorer thumbnails being available.
