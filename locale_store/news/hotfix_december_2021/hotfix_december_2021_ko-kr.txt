@@ -1,51 +1,51 @@
-Wallpaper Engine 2.0.XX - Windows Firewall Detection and Android Fixes
+Wallpaper Engine 2.0.XX - 윈도우 방화벽 감지 및 Android 수정
 
-The Wallpaper Engine 2.0.XX update addresses the most common problems related to the Android release and we are updating both the Windows and the Android version of the app.
+Wallpaper Engine 2.0.XX 업데이트에서는 Android 출시와 관련하여 가장 흔히 발생한 문제들을 해결했으며, Windows 버전과 Android 버전이 전부 업데이트됩니다.
 
-Today's update addresses the most common problems related to the Android release and we are updating both the Windows and the Android version of the app.
+오늘 출시되는 업데이트에서는 Android 출시와 관련하여 가장 흔히 발생한 문제들을 해결했으며, Windows 버전과 Android 버전이 전부 업데이트됩니다.
 
-[h2]Connecting the Android & Windows App[/h2]
-The most common issues we received were related to connecting the Android app with the Windows app to download more wallpapers. We have looked into this and in many cases was caused by the Windows firewall. If Windows has previously asked you to give Wallpaper Engine ("ui32.exe") permission to access your network and you simply closed the window or did not grant the permissions for Wallpaper Engine, then Windows will automatically block Wallpaper Engine's process from properly communicating with your local network:
+[h2]Android 및 Windows 앱 연결[/h2]
+가장 많이 문의해주신 내용은 더 많은 배경화면을 다운로드하기 위해 Android 앱을 Windows 앱과 연결하는 것과 연관된 문제였습니다. 이 문제를 조사한 결과, 대부분의 경우 Windows 방화벽으로 인해 발생했습니다. Windows가 이전에 Wallpaper Engine ("ui32.exe")에 네트워크에 연결할 권한을 요청했지만 창을 그냥 닫거나 Wallpaper Engine에 권한을 부여하지 않은 경우, Windows는 자동적으로 Wallpaper Engine의 프로세스가 로컬 네트워크와 제대로 연결하지 못하도록 차단합니다.
 
 [img]{STEAM_CLAN_IMAGE}/26312799/46ccf465f7d479f9e1d305b2001e88ea2d791c49.png[/img]
-[i]If you clicked "Cancel" here or just closed the window, then Wallpaper Engine is blocked in your Windows firewall.[/i]
+[i]여기서 "취소"를 클릭했거나 창을 닫은 경우, Windows 방화벽이 Wallpaper Engine을 차단합니다.[/i]
 
-We have now added a new check that will try and detect issues like that and will offer you a way to automatically fix the Windows firewall. However, if you do not get any notification about the Windows firewall or if you use any other firewall application, then Wallpaper Engine cannot fix your local network automatically.
+이러한 문제를 감지하기 위한 새로운 확인 메시지를 추가했으며, 자동으로 Windows 방화벽 설정을 변경할 수 있는 방법을 제공할 것입니다. 하지만 Windows 방화벽에 대한 알림을 받지 못했거나 다른 방화벽 프로그램을 사용 중일 경우, Wallpaper Engine이 로컬 네트워크 문제를 자동으로 해결할 수가 없습니다.
 
-If you have any additional firewall or antivirus applications installed, you need to ensure that [b]ui32.exe[/b] is not being blocked.
+추가 바이러스 백신 또는 방화벽 응용 프로그램이 설치한 경우, [b]ui32.exe[/b] 프로그램이 차단되지 않았는지 확인해야 합니다.
 
-Wallpaper Engine on Windows will now also use additional methods to broadcast itself on your network which will also make it more accessible to Android devices under certain network configurations.
+또한, 이제 Windows 버전 Wallpaper Engine이 네트워크에 신호를 내보낼 때 추가적인 방법들을 사용하여, 특정 네트워크 구성에서 Android 기기와 연결하기 더 쉬워질 것입니다.
 
-If your connection issues persist, please read the following help page:
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android App Connection Troubleshooting[/url][/list] Keep in mind that you can always use the export functionality as a backup and simply transfer your wallpapers to your mobile device via USB or another method. When placing wallpaper files on your mobile device, always make sure to use the [b]Downloads[/b] directory on your phone or tablet. Android is very restrictive for security reasons and Wallpaper Engine cannot access every Android folder, but the Downloads directory is usually the most reliable.
+연결 문제가 해결되지 않는다면 다음 도움말 페이지를 확인해주세요.
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android App Connection Troubleshooting[/url][/list] 언제든 대안으로 내보내기 기능을 사용해서 USB 또는 기타 수단을 통해 배경화면을 모바일 기기로 전송할 수 있다는 것 참고하세요. 배경화면 파일을 모바일 기기에 저장할 때, 핸드폰 혹은 태블릿의 [b]다운로드[/b] 디렉토리를 사용해야 합니다. Android는 보안 문제로 인해 제약이 매우 많으며, Wallpaper Engine이 모든 Android 폴더에 접근할 수 있는 건 아닙니다. 하지만 다운로드 디렉토리는 일반적으로 가장 안정적입니다.
 
-[h2]Lock-screen Wallpapers on Android[/h2]
-Since it is a very common request that we received via email and on our forums, we just wanted to re-iterate this here: [b]Wallpaper Engine fully supports live wallpapers on the Android lock-screen.[/b] However, a lot of phones and tablets do not support live wallpapers on the lock-screen.
+[h2]Android 잠금화면 배경화면[/h2]
+이메일과 포럼을 통해 매우 많이 보내주신 요청이므로 다시 한 번 말씀드리고자 합니다. [b]Wallpaper Engine은 Android 잠금화면에서 라이브 배경화면을 전면 지원합니다.[/b] 하지만 다수의 핸드폰과 태블릿은 잠금화면에서 라이브 배경화면을 지원하지 않습니다.
 
-If you are not given the option to set a live wallpaper on your lock-screen, then this is a limitation set by your phone manufacturer. Wallpaper Engine has no control over this and this cannot be fixed by us or any other live wallpaper app. The best thing you can do in such a case is to send feedback to your phone manufacturer and let them know that this is a feature you care about, it's something that could be added in an Android update.
+잠금화면에 라이브 배경화면을 지정할 옵션이 주어지지 않는 경우, 이는 핸드폰 제작사 측에서 제한한 것입니다. Wallpaper Engine은 이에 대해 아무런 권한이 없으며, 저희 혹은 그 어떤 라이브 배경화면 앱도 해결할 수 없습니다. 이 경우 최선의 선택은 핸드폰 제작사에 피드백을 보내 여러분이 중요하게 생각하는 기능이라는 걸 알리는 것입니다. 이는 추후 Android 업데이트에서 추가될 수 있습니다.
 
-[h2]Android App Update[/h2]
-The latest Android app may take a few days until it reaches everyone, as mobile stores tend to roll out updates more slowly. If you have installed the Android APK directly, make sure to download the latest version from our website:
+[h2]Android 앱 업데이트[/h2]
+모바일 스토어는 업데이트를 더 천천히 출시하기 때문에, 모든 사용자가 최신 Android 앱을 이용할 수 있으려면 며칠이 걸릴 수 있습니다. 직접 Android APK를 설치한 경우, 저희 웹사이트에서 최신 버전을 다운로드하세요.
 
-[list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine for Android [/url][/h3][/list] If you have installed the app through an official app store, there is nothing you need to do and the update will be installed on your device automatically within the next few days.
+[list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine for Android [/url][/h3][/list] 공식 앱 스토어를 통해 앱을 설치한 경우, 여러분이 할 수 있는 것은 없으며 다음 며칠 내로 업데이트가 기기에 설치될 것입니다.
 
-[h2]Changelog[/h2]
-[h3]Additions / Changes[/h3]
-[h4]Windows App[/h4]
-[list][*]Added firewall rule check to pairing screen and a button to automatically delete any rules that block Wallpaper Engine.
-[*]New: High-performance exports of wallpapers can now also be uploaded in their original aspect ratio, which is useful for usage on tablets.
-[*]Fixed high-performance mobile conversion getting stuck.
-[*]Fixed video wallpaper upload not working without Windows Explorer thumbnails being available.
-[*]Fixed editor aspect ratio not resetting when clicking on wallpaper while a preview mode is active.[/list]
-[h3]Android App[/h3]
-[list][*]Added clear information about how the possibility of setting a live wallpaper as a lock-screen wallpaper is entirely decided by the mobile device.
-[*]Fixed crashes on Samsung S21 devices due to broken Samsung Android 12 update.
-[*]Fixed very large wallpapers, app now supports wallpapers with up up to 4 GB in size.
-[*]Wallpaper transfer is now more reliable when screen gets locked during transfer.
-[*]Fixed "add to playlist" button not working on preview screen beyond 7 wallpapers.
-[*]Added more file import rules for Android 9 and lower to reduce vendor specific issues during import.
-[*]Fixed some time of day wallpapers not working properly on Android.
-[*]Made the "wallpaper paused due to power saving mode" warnings absolutely impossible to miss.
-[*]Made broken wallpaper files show up in the browser so they can be deleted easily and don't waste any storage.
-[*]Localization fixes, notably "Yes" and "No" are not longer switched in the German version which led to a lot of confusion 🤡🇩🇪.
+[h2]변경 로그[/h2]
+[h3]추가 및 변경 사항[/h3]
+[h4]Windows 응용 프로그램[/h4]
+[list][*]페어링 화면에 방화벽 규칙 확인과 자동으로 Wallpaper Engine을 차단하는 규칙을 삭제하는 버튼을 추가했습니다.
+[*]신규: 가져온 고품질 배경화면을 원래 비율로 업로드할 수 있게 되어, 이제 태블릿에서 원활하게 사용할 수 있습니다.
+[*]고품질 모바일 변환이 멈추던 문제를 수정했습니다.
+[*]Windows Explorer 섬네일이 없으면 영상 배경화면 업로드가 불가능하던 문제를 수정했습니다.
+[*]편집기에서 미리보기 모드를 켠 상태로 배경화면을 클릭했을 때 비율이 초기화되지 않던 문제를 수정했습니다.[/list]
+[h3]Android 앱[/h3]
+[list][*]라이브 배경화면을 잠금화면 배경화면으로 지정할 수 있는지 여부는 전적으로 모바일 기기에 달려있다는 명확한 정보를 추가했습니다.
+[*]삼성 Android 12 업데이트 오류로 인해 삼성 S21 기기에서 강제 종료되던 문제를 수정했습니다.
+[*]이제 앱이 4GB 이상의 고용량 배경화면을 지원합니다.
+[*]배경화면 전송 중 화면이 잠겼을 때의 전송 안정성을 개선하였습니다.
+[*]미리보기 화면에서 8번째 배경화면부터 "재생목록에 추가" 버튼이 작동하지 않던 문제를 수정했습니다.
+[*]Android 9 및 이전 버전에서의 파일 가져오기 규칙을 추가하고, 가져오는 도중 발생하는 공급업체 관련 문제를 감소시켰습니다.
+[*]일부 시각 배경화면이 Android 기기에서 제대로 작동하지 않던 문제를 수정했습니다.
+[*]"절전모드로 인해 배경화면이 일시정지되었습니다" 경고를 알아보기 쉽게 수정했습니다.
+[*]손상된 배경화면 파일이 손쉽게 삭제 가능하고 용량을 낭비하지 않도록 브라우저에서 표시되게 변경하였습니다.
+[*]독일어 버전에서 "예"와 "아니요"가 서로 바뀌어 많은 혼란을 빚는 등의 현지화 문제를 수정했습니다 🤡🇩🇪.
 [/list]
