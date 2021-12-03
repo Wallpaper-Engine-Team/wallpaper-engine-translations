@@ -1,51 +1,51 @@
-Wallpaper Engine 2.0.XX - Windows Firewall Detection and Android Fixes
+Wallpaper Engine 2.0.XX：Windows 防火牆偵測與 Android 修復
 
-The Wallpaper Engine 2.0.XX update addresses the most common problems related to the Android release and we are updating both the Windows and the Android version of the app.
+Wallpaper Engine 2.0.XX 更新版本可解決 Android 發布版本最常見的問題，我們也正在更新 Windows 及 Android 版本。
 
-Today's update addresses the most common problems related to the Android release and we are updating both the Windows and the Android version of the app.
+今天發布的更新版本可解決 Android 發布版本最常見的問題，我們也正在更新 Windows 及 Android 版本。
 
-[h2]Connecting the Android & Windows App[/h2]
-The most common issues we received were related to connecting the Android app with the Windows app to download more wallpapers. We have looked into this and in many cases was caused by the Windows firewall. If Windows has previously asked you to give Wallpaper Engine ("ui32.exe") permission to access your network and you simply closed the window or did not grant the permissions for Wallpaper Engine, then Windows will automatically block Wallpaper Engine's process from properly communicating with your local network:
+[h2]連接 Android 及 Windows 版應用程式[/h2]
+我們最常收到的問題是，欲下載更多桌布時，無法連接 Android 及 Windows 版應用程式。 經調查發現，許多情況都是由 Windows 防火牆造成。 如果先前 Windows 請您授予 Wallpaper Engine (「ui32.exe」) 存取網路的權限，但您直接關閉視窗或當初並未開啟 Wallpaper Engine 權限，Windows 將自動阻擋 Wallpaper Engine 與您的區域網路正常通訊：
 
 [img]{STEAM_CLAN_IMAGE}/26312799/46ccf465f7d479f9e1d305b2001e88ea2d791c49.png[/img]
-[i]If you clicked "Cancel" here or just closed the window, then Wallpaper Engine is blocked in your Windows firewall.[/i]
+[i]如果您按下「取消」或直接關閉視窗，Wallpaper Engine 會遭到 Windows 防火牆封鎖。[/i]
 
-We have now added a new check that will try and detect issues like that and will offer you a way to automatically fix the Windows firewall. However, if you do not get any notification about the Windows firewall or if you use any other firewall application, then Wallpaper Engine cannot fix your local network automatically.
+我們新增了一項檢查功能，會協助偵測此類問題，並提供自動修復 Windows 防火牆的方式。 不過如果您並未收到 Windows 防火牆任何通知，或如果您使用其他防火牆應用程式，Wallpaper Engine 就無法自動修復您的區域網路。
 
-If you have any additional firewall or antivirus applications installed, you need to ensure that [b]ui32.exe[/b] is not being blocked.
+如果您安裝了任何其他防火牆或防毒應用程式，必須確定 [b]ui32.exe[/b] 並未遭到封鎖。
 
-Wallpaper Engine on Windows will now also use additional methods to broadcast itself on your network which will also make it more accessible to Android devices under certain network configurations.
+Windows 上的 Wallpaper Engine 現在也會使用其他方法在您的網路上廣播，將有助在某些網路設定下的 Android 裝置更方便存取此應用程式。
 
-If your connection issues persist, please read the following help page:
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android App Connection Troubleshooting[/url][/list] Keep in mind that you can always use the export functionality as a backup and simply transfer your wallpapers to your mobile device via USB or another method. When placing wallpaper files on your mobile device, always make sure to use the [b]Downloads[/b] directory on your phone or tablet. Android is very restrictive for security reasons and Wallpaper Engine cannot access every Android folder, but the Downloads directory is usually the most reliable.
+如果仍有連接問題，請閱讀以下說明頁面：
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android 版應用程式連線問題疑難排解[/url][/list] 請注意，您隨時可利用匯出功能當作備案，直接透過 USB 或其他方式將桌布傳輸至行動裝置。 桌布存放在行動裝置上時，務必確定儲存在手機或平板電腦的[b]下載[/b]目錄。 Android 的防護措施相當嚴謹，Wallpaper Engine 無法存取每個 Android 資料夾，但下載目錄通常最不會出錯。
 
-[h2]Lock-screen Wallpapers on Android[/h2]
-Since it is a very common request that we received via email and on our forums, we just wanted to re-iterate this here: [b]Wallpaper Engine fully supports live wallpapers on the Android lock-screen.[/b] However, a lot of phones and tablets do not support live wallpapers on the lock-screen.
+[h2]Android 上的鎖定畫面桌布[/h2]
+由於我們常從電子郵件和論壇上收到這類要求，謹在此重申：[b]Wallpaper Engine 完全支援 Android 鎖定畫面的動態桌布。[/b]不過，許多手機和平板電腦卻不支援鎖定畫面的動態桌布。
 
-If you are not given the option to set a live wallpaper on your lock-screen, then this is a limitation set by your phone manufacturer. Wallpaper Engine has no control over this and this cannot be fixed by us or any other live wallpaper app. The best thing you can do in such a case is to send feedback to your phone manufacturer and let them know that this is a feature you care about, it's something that could be added in an Android update.
+如果您找不到設定鎖定畫面動態桌布的選項，代表手機製造商設下此限制。 Wallpaper Engine 無權管控，我們或其他任何動態桌布應用程式也無法解決此問題。遇到這種情況，最佳辦法就是向手機製造商反應，讓他們知道您希望有這項功能，請他們考慮新增至 Android 更新版本。
 
-[h2]Android App Update[/h2]
-The latest Android app may take a few days until it reaches everyone, as mobile stores tend to roll out updates more slowly. If you have installed the Android APK directly, make sure to download the latest version from our website:
+[h2]Android 版應用程式更新[/h2]
+最新的 Android 版應用程式可能需要經過數天才能供所有人使用，因為行動裝置商店推出更新的速度往往較慢。 如果您直接安裝 Android APK，請務必從官網下載最新版本：
 
-[list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine for Android [/url][/h3][/list] If you have installed the app through an official app store, there is nothing you need to do and the update will be installed on your device automatically within the next few days.
+[list][*][h3][url=https://www.wallpaperengine.io/android]Android 版 Wallpaper Engine[/url][/h3][/list] 如果您已從官方應用程式商店安裝，便不須再執行其他操作，更新版之後幾天內將自動安裝至您的裝置。
 
-[h2]Changelog[/h2]
-[h3]Additions / Changes[/h3]
-[h4]Windows App[/h4]
-[list][*]Added firewall rule check to pairing screen and a button to automatically delete any rules that block Wallpaper Engine.
-[*]New: High-performance exports of wallpapers can now also be uploaded in their original aspect ratio, which is useful for usage on tablets.
-[*]Fixed high-performance mobile conversion getting stuck.
-[*]Fixed video wallpaper upload not working without Windows Explorer thumbnails being available.
-[*]Fixed editor aspect ratio not resetting when clicking on wallpaper while a preview mode is active.[/list]
-[h3]Android App[/h3]
-[list][*]Added clear information about how the possibility of setting a live wallpaper as a lock-screen wallpaper is entirely decided by the mobile device.
-[*]Fixed crashes on Samsung S21 devices due to broken Samsung Android 12 update.
-[*]Fixed very large wallpapers, app now supports wallpapers with up up to 4 GB in size.
-[*]Wallpaper transfer is now more reliable when screen gets locked during transfer.
-[*]Fixed "add to playlist" button not working on preview screen beyond 7 wallpapers.
-[*]Added more file import rules for Android 9 and lower to reduce vendor specific issues during import.
-[*]Fixed some time of day wallpapers not working properly on Android.
-[*]Made the "wallpaper paused due to power saving mode" warnings absolutely impossible to miss.
-[*]Made broken wallpaper files show up in the browser so they can be deleted easily and don't waste any storage.
-[*]Localization fixes, notably "Yes" and "No" are not longer switched in the German version which led to a lot of confusion 🤡🇩🇪.
+[h2]變更記錄[/h2]
+[h3]新增/變更[/h3]
+[h4]Windows 版應用程式[/h4]
+[list][*]在配對畫面新增防火牆規則檢查，並新增一顆按鈕，可自動刪除任何封鎖 Wallpaper Engine 的規則。
+[*]新功能：高效能匯出的桌布現也可依原始外觀比例上傳，方便平板電腦上使用。
+[*]修復高效能行動裝置轉換時停住的問題。
+[*]修復 Windows 檔案總管中縮圖不可用時視訊桌布無法上傳的問題。
+[*]修復預覽模式中按下桌布無法在編輯器重新設定外觀比例的問題。[/list]
+[h3]Android 版應用程式[/h3]
+[list][*]新增明確資訊，說明能否在鎖定畫面設定動態桌布是完全交由行動裝置決定。
+[*]修復因 Samsung Android 12 更新不當導致 Samsung S21 當機的問題。
+[*]應用程式現可支援最高 4GB 的桌布。
+[*]在傳輸過程中鎖定畫面時，桌布傳輸更可靠。
+[*]修復「新增至播放清單」按鈕超過 7 張桌布時預覽畫面無法正常運作的問題。
+[*]為 Android 9 及更低版本新增更多檔案匯入規則，以減少匯入過程中供應商造成的特定問題。
+[*]修復特定時刻桌布在 Android 上無法正常運作的問題。
+[*]使用者再也不會錯過「省電模式導致桌布暫停」的警告。
+[*]損壞的桌布檔案現可在瀏覽器中顯示，以便輕鬆刪除，不再浪費儲存空間。
+[*]修復本地化內容，尤其「是」與「否」在德語版本切換時不會再造成各種混亂 🤡🇩🇪。
 [/list]
