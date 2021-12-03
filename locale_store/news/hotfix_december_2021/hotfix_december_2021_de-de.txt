@@ -5,21 +5,21 @@ Das Wallpaper Engine 2.0.XX-Update behebt die häufigsten Probleme in der Androi
 Das heutige Update behebt die häufigsten Probleme in der Android-Version, wir aktualisieren dabei die Windows- und Android-Version der App.
 
 [h2]Verbinden der Android- & Windows-App[/h2]
-Die meisten Problembeschreibungen die wir erhalten haben hatten mit der Verbindung zwischen der Android-App und der Windows-App zu tun, mit der neue Hintergründe heruntergeladen werden können. Wir haben uns diese Probleme angeschaut und in vielen Fällen lag dies an der Windows-Firewall. If Windows has previously asked you to give Wallpaper Engine ("ui32.exe") permission to access your network and you simply closed the window or did not grant the permissions for Wallpaper Engine, then Windows will automatically block Wallpaper Engine's process from properly communicating with your local network:
+Die meisten Problembeschreibungen die wir erhalten haben hatten mit der Verbindung zwischen der Android-App und der Windows-App zu tun, mit der neue Hintergründe heruntergeladen werden können. Wir haben uns diese Probleme angeschaut und in vielen Fällen lag dies an der Windows-Firewall. Wenn Windows dich in der Vergangenheit danach gefragt hat, ob du Wallpaper Engine ("ui32.exe") Zugriff auf dein Netzwerk erlauben willst und du das Fenster einfach geschlossen hast oder nicht die benötigten Zugriffsrechte für Wallpaper Engine erteilt hast, dann wird Windows den Prozess von Wallpaper Engine automatisch daran hindern, vollständig mit deinem Netzwerk zu kommunizieren:
 
 [img]{STEAM_CLAN_IMAGE}/26312799/46ccf465f7d479f9e1d305b2001e88ea2d791c49.png[/img]
-[i]If you clicked "Cancel" here or just closed the window, then Wallpaper Engine is blocked in your Windows firewall.[/i]
+[i]Falls du in diesem Fenster "Abbrechen" angeklickt hast oder es einfach geschlossen hast, dann ist Wallpaper Engine in deiner Windows-Firewall geblockt.[/i]
 
-We have now added a new check that will try and detect issues like that and will offer you a way to automatically fix the Windows firewall. However, if you do not get any notification about the Windows firewall or if you use any other firewall application, then Wallpaper Engine cannot fix your local network automatically.
+Wir haben nun einen neuen Check eingebaut, welcher versucht Probleme wie diese zu finden und dann einen Vorschlag macht, das Problem automatisch zu beheben. Wenn du jedoch keinen Vorschlag zur Windows-Firewall erhältst oder wenn du eine andere Firewall-Anwendung nutzt, dann kann Wallpaper Engine dein Netzwerkeinstellungen nicht selbst reparieren.
 
-If you have any additional firewall or antivirus applications installed, you need to ensure that [b]ui32.exe[/b] is not being blocked.
+Falls du eine weiteres Firewall- oder Antivirenprogramm verwendest, stelle sicher, dass [b]ui32.exe[/b] nicht blockiert wird.
 
-Wallpaper Engine on Windows will now also use additional methods to broadcast itself on your network which will also make it more accessible to Android devices under certain network configurations.
+Wallpaper Engine auf Windows nutzt nur außerdem weitere Methoden, um sich in deinem Netzwerk bekannt zu machen, dies kann beim Verbinden zu Android unter bestimmten Netzwerk-Konfigurationen helfen.
 
-If your connection issues persist, please read the following help page:
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android App Connection Troubleshooting[/url][/list] Keep in mind that you can always use the export functionality as a backup and simply transfer your wallpapers to your mobile device via USB or another method. When placing wallpaper files on your mobile device, always make sure to use the [b]Downloads[/b] directory on your phone or tablet. Android is very restrictive for security reasons and Wallpaper Engine cannot access every Android folder, but the Downloads directory is usually the most reliable.
+Falls deine Verbindungsprobleme bestehen, lies dir bitte die folgende Seite durch:
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Problemlösungen für die Verbindung der Android-App[/url][/list] Behalte im Kopf, dass du immer die Export-Funktion als Notfall-Lösung nutzen kannst und deine Hintergründe einfach mit einem USB-Kabel oder einer anderen Methode auf dein Mobilgerät übertragen kannst. Wenn du die Dateien deiner Hintergründe auf dein Handy lädst, stelle sicher, dass du diese immer im [b]Downloads[/b]-Verzeichnis auf deinem Handy oder Tablet platzierst. Android ist relativ einschränkend was Dateien angeht und erlaubt Wallpaper Engine nicht, jeden Ordner deines Geräts zu lesen, das Downloads-Verzeichnis funktioniert aber im Normalfall problemlos.
 
-[h2]Lock-screen Wallpapers on Android[/h2]
+[h2]Hintergründe auf dem Android-Sperrbildschirm[/h2]
 Since it is a very common request that we received via email and on our forums, we just wanted to re-iterate this here: [b]Wallpaper Engine fully supports live wallpapers on the Android lock-screen.[/b] However, a lot of phones and tablets do not support live wallpapers on the lock-screen.
 
 If you are not given the option to set a live wallpaper on your lock-screen, then this is a limitation set by your phone manufacturer. Wallpaper Engine has no control over this and this cannot be fixed by us or any other live wallpaper app. The best thing you can do in such a case is to send feedback to your phone manufacturer and let them know that this is a feature you care about, it's something that could be added in an Android update.
