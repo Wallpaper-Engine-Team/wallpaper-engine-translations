@@ -1,4 +1,4 @@
-Wallpaper Engine 2.0.XX - Windows Firewall Detection and Android Fixes
+Wallpaper Engine 2.0.XX - Windows Firewall Erkennung & Android Fehlerbehebungen
 
 The Wallpaper Engine 2.0.XX update addresses the most common problems related to the Android release and we are updating both the Windows and the Android version of the app.
 
