@@ -5,7 +5,7 @@ Das Wallpaper Engine 2.0.XX-Update behebt die häufigsten Probleme in der Androi
 Das heutige Update behebt die häufigsten Probleme in der Android-Version, wir aktualisieren dabei die Windows- und Android-Version der App.
 
 [h2]Verbinden der Android- & Windows-App[/h2]
-The most common issues we received were related to connecting the Android app with the Windows app to download more wallpapers. We have looked into this and in many cases was caused by the Windows firewall. If Windows has previously asked you to give Wallpaper Engine ("ui32.exe") permission to access your network and you simply closed the window or did not grant the permissions for Wallpaper Engine, then Windows will automatically block Wallpaper Engine's process from properly communicating with your local network:
+Die meisten Problembeschreibungen die wir erhalten haben hatten mit der Verbindung zwischen der Android-App und der Windows-App zu tun, mit der neue Hintergründe heruntergeladen werden können. Wir haben uns diese Probleme angeschaut und in vielen Fällen lag dies an der Windows-Firewall. If Windows has previously asked you to give Wallpaper Engine ("ui32.exe") permission to access your network and you simply closed the window or did not grant the permissions for Wallpaper Engine, then Windows will automatically block Wallpaper Engine's process from properly communicating with your local network:
 
 [img]{STEAM_CLAN_IMAGE}/26312799/46ccf465f7d479f9e1d305b2001e88ea2d791c49.png[/img]
 [i]If you clicked "Cancel" here or just closed the window, then Wallpaper Engine is blocked in your Windows firewall.[/i]
