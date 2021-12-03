@@ -1,51 +1,51 @@
-Wallpaper Engine 2.0.XX - Windows Firewall Detection and Android Fixes
+Wallpaper Engine 2.0.XX – wykrywanie zapory Windows i poprawki w Androidzie
 
-The Wallpaper Engine 2.0.XX update addresses the most common problems related to the Android release and we are updating both the Windows and the Android version of the app.
+Aktualizacja Wallpaper Engine 2.0.XX rozwiązuje większość najczęściej występujących problemów z bieżącą wersją systemu Android. Aktualizujemy aplikację na system Windows i Android.
 
-Today's update addresses the most common problems related to the Android release and we are updating both the Windows and the Android version of the app.
+Dzisiejsza aktualizacja rozwiązuje większość najczęściej występujących problemów z bieżącą wersją systemu Android. Aktualizujemy zarówno aplikację na system Windows, jak i Android.
 
-[h2]Connecting the Android & Windows App[/h2]
-The most common issues we received were related to connecting the Android app with the Windows app to download more wallpapers. We have looked into this and in many cases was caused by the Windows firewall. If Windows has previously asked you to give Wallpaper Engine ("ui32.exe") permission to access your network and you simply closed the window or did not grant the permissions for Wallpaper Engine, then Windows will automatically block Wallpaper Engine's process from properly communicating with your local network:
+[h2]Połączenie aplikacji na system Android i Windows[/h2]
+Najczęściej zgłaszane problemy dotyczyły łączenia aplikacji na system Android z aplikacją na system Windows przy pobieraniu tapet. Przeanalizowaliśmy tę kwestię i w wielu przypadkach było to spowodowane działaniem zapory systemu Windows. Jeśli system Windows poprosił o udzielenie programowi Wallpaper Engine ("ui32.exe") dostępu do Twojej sieci, ale okienko zostało przez Ciebie zamknięte lub nie wyrażono zgody na dostęp, to system Windows automatycznie blokuje komunikację procesu Wallpaper Engine z Twoją siecią lokalną:
 
 [img]{STEAM_CLAN_IMAGE}/26312799/46ccf465f7d479f9e1d305b2001e88ea2d791c49.png[/img]
-[i]If you clicked "Cancel" here or just closed the window, then Wallpaper Engine is blocked in your Windows firewall.[/i]
+[i]Jeśli naciśniesz przycisk „Anuluj” lub zamkniesz okno, to zapora systemu Windows zablokuje program Wallpaper Engine.[/i]
 
-We have now added a new check that will try and detect issues like that and will offer you a way to automatically fix the Windows firewall. However, if you do not get any notification about the Windows firewall or if you use any other firewall application, then Wallpaper Engine cannot fix your local network automatically.
+Obecnie dodaliśmy nową regułę kontrolną, która sprawdza i wykrywa takie przypadki, oraz oferuje Ci automatyczny sposób naprawy zapory systemu Windows. Jeśli nie otrzymasz powiadomienia o zaporze sieciowej systemu Windows lub jeśli używasz innej aplikacji do stawiania zapory, to program Wallpaper Engine nie będzie mógł naprawić Twojej sieci lokalnej automatycznie.
 
-If you have any additional firewall or antivirus applications installed, you need to ensure that [b]ui32.exe[/b] is not being blocked.
+Jeżeli używasz innej aplikacji do stawiania zapory lub masz zainstalowaną aplikację antywirusową, to musisz upewnić się, czy plik [b]ui32.exe[/b] nie jest przez nie blokowany.
 
-Wallpaper Engine on Windows will now also use additional methods to broadcast itself on your network which will also make it more accessible to Android devices under certain network configurations.
+Program Wallpaper Engine w systemie Windows od teraz będzie używać dodatkowych metod, aby sygnalizować swoje działanie w sieci, co sprawi, że będzie łatwiej dostępny dla urządzeń z systemem Android w niektórych konfiguracjach sieciowych.
 
-If your connection issues persist, please read the following help page:
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android App Connection Troubleshooting[/url][/list] Keep in mind that you can always use the export functionality as a backup and simply transfer your wallpapers to your mobile device via USB or another method. When placing wallpaper files on your mobile device, always make sure to use the [b]Downloads[/b] directory on your phone or tablet. Android is very restrictive for security reasons and Wallpaper Engine cannot access every Android folder, but the Downloads directory is usually the most reliable.
+Jeśli problemy z połączeniem dalej występują, przeczytaj poniższą stronę z pomocą:
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Rozwiązywanie problemów z połączeniem z aplikacją w systemie Android[/url][/list] Pamiętaj, że zawsze możesz zrezygnować z korzystania funkcji eksportowania i po prostu przenieść swoje tapety na urządzenie mobilne przy użyciu kabla USB lub używając innej metody. Gdy przenosisz tapety na swoje urządzenie mobilne, zawsze zwracaj uwagę, aby używać folderu [b]Pobrane[/b] na swoim telefonie lub tablecie. System Android jest bardzo restrykcyjny, jeśli chodzi o bezpieczeństwo, i program Wallpaper Engine nie ma dostępu do każdego folderu w tym systemie, ale folder Pobrane jest zazwyczaj najbardziej niezawodnym wyborem.
 
-[h2]Lock-screen Wallpapers on Android[/h2]
-Since it is a very common request that we received via email and on our forums, we just wanted to re-iterate this here: [b]Wallpaper Engine fully supports live wallpapers on the Android lock-screen.[/b] However, a lot of phones and tablets do not support live wallpapers on the lock-screen.
+[h2]Tapety na zablokowanym ekranie w systemie Android[/h2]
+Ponieważ bardzo często prosicie nas o to w wiadomościach e-mail lub na naszych forach, chcielibyśmy powtórzyć: [b]program Wallpaper Engine w pełni obsługuje ruchome tapety na ekranie blokady w systemie Android.[/b] Jednak wiele telefonów i tabletów nie obsługuje ruchomych tapet na ekranie blokady.
 
-If you are not given the option to set a live wallpaper on your lock-screen, then this is a limitation set by your phone manufacturer. Wallpaper Engine has no control over this and this cannot be fixed by us or any other live wallpaper app. The best thing you can do in such a case is to send feedback to your phone manufacturer and let them know that this is a feature you care about, it's something that could be added in an Android update.
+Jeśli nie masz możliwości ustawienia ruchomej tapety na ekranie blokady, to jest to ograniczenie nałożone przez producenta Twojego telefonu. Program Wallpaper Engine nie ma na to wpływu i i ani my, ani twórcy żadnej innej aplikacji z ruchomymi tapetami nie możemy tego naprawić. Najlepsze, co możesz zrobić w takim wypadku, to wysłać zgłoszenie do producenta Twojego telefonu, aby poinformować go, że jest to ważna dla Ciebie funkcja, która mogłaby zostać dodana w aktualizacji systemu Android.
 
-[h2]Android App Update[/h2]
-The latest Android app may take a few days until it reaches everyone, as mobile stores tend to roll out updates more slowly. If you have installed the Android APK directly, make sure to download the latest version from our website:
+[h2]Aktualizacja aplikacji Android[/h2]
+Zanim najnowsza aplikacja na system Android dotrze do wszystkich, może minąć kilka dni, ponieważ sklepy z oprogramowaniem zazwyczaj wolniej wysyłają aktualizację. Jeśli do instalacji użyto bezpośrednio pliku APK, pobierz najnowszą wersję aplikacji z naszej strony:
 
-[list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine for Android [/url][/h3][/list] If you have installed the app through an official app store, there is nothing you need to do and the update will be installed on your device automatically within the next few days.
+[list][*][h3][url=https://www.wallpaperengine.io/android]Aplikacja Wallpaper Engine do systemu Android[/url][/h3][/list] Jeżeli aplikacja pochodzi z oficjalnego sklepu z aplikacjami, to nie musisz nic robić, a aktualizacja zainstaluje się automatycznie na Twoim urządzeniu w ciągu kilku najbliższych dni.
 
-[h2]Changelog[/h2]
-[h3]Additions / Changes[/h3]
-[h4]Windows App[/h4]
-[list][*]Added firewall rule check to pairing screen and a button to automatically delete any rules that block Wallpaper Engine.
-[*]New: High-performance exports of wallpapers can now also be uploaded in their original aspect ratio, which is useful for usage on tablets.
-[*]Fixed high-performance mobile conversion getting stuck.
-[*]Fixed video wallpaper upload not working without Windows Explorer thumbnails being available.
-[*]Fixed editor aspect ratio not resetting when clicking on wallpaper while a preview mode is active.[/list]
-[h3]Android App[/h3]
-[list][*]Added clear information about how the possibility of setting a live wallpaper as a lock-screen wallpaper is entirely decided by the mobile device.
-[*]Fixed crashes on Samsung S21 devices due to broken Samsung Android 12 update.
-[*]Fixed very large wallpapers, app now supports wallpapers with up up to 4 GB in size.
-[*]Wallpaper transfer is now more reliable when screen gets locked during transfer.
-[*]Fixed "add to playlist" button not working on preview screen beyond 7 wallpapers.
-[*]Added more file import rules for Android 9 and lower to reduce vendor specific issues during import.
-[*]Fixed some time of day wallpapers not working properly on Android.
-[*]Made the "wallpaper paused due to power saving mode" warnings absolutely impossible to miss.
-[*]Made broken wallpaper files show up in the browser so they can be deleted easily and don't waste any storage.
-[*]Localization fixes, notably "Yes" and "No" are not longer switched in the German version which led to a lot of confusion 🤡🇩🇪.
+[h2]Opis zmian[/h2]
+[h3]Dodatki/zmiany[/h3]
+[h4]Aplikacja na system Windows[/h4]
+[list][*]Do ekranu parowania dodano regułę sprawdzającą zaporę oraz przycisk do automatycznego usuwania reguł blokujących program Wallpaper Engine.
+[*]Nowość: dzięki bardzo wydajnemu eksportowi tapet można je teraz załadować w pierwotnych proporcjach obrazu, co jest przydatne na tabletach.
+[*]Naprawiono zawieszanie się bardzo wydajnej konwersji na urządzeniach mobilnych.
+[*]Naprawiono niedziałające przesyłanie tapet, gdy miniatury Eksploratora Windows nie były dostępne.
+[*]Naprawiono edytor proporcji obrazu, który nie resetował się, gdy kliknięto tapetę w trybie podglądu.[/list]
+[h3]Aplikacja na system Android[/h3]
+[list][*]Dodano czytelną informację o tym, że możliwość ustawienia ruchomej tapety ekranu blokady całkowicie zależy od urządzenia mobilnego.
+[*]Naprawiono awarie na urządzeniach Samsung S21 spowodowane błędną aktualizacją systemu Android 12 na urządzeniach marki Samsung.
+[*]Naprawiono bardzo duże tapety. Aplikacja teraz obsługuje tapety o rozmiarze nawet 4 GB.
+[*]Przesyłanie tapet jest teraz bardziej niezawodne, gdy ekran blokuje się podczas transferu.
+[*]Naprawiono przycisk „dodaj do playlisty”, który nie działał na ekranie podglądu w przypadku więcej niż siedmiu tapet.
+[*]Dodano więcej reguł importowania w systemie Android 9 i we wcześniejszych wersjach, aby ograniczyć problemy z importem występujące u niektórych sprzedawców.
+[*]Naprawiono niektóre tapety zależne od pory dnia, które nie działały w systemie Android.
+[*]Sprawiliśmy, że od teraz ostrzeżenia „tapeta wstrzymana z uwagi na tryb pracy energooszczędnej” będą niemożliwe do przeoczenia.
+[*]Zadbaliśmy o to, aby zepsute pliki z tapetami wyświetlały się w przeglądarce, dzięki czemu można je łatwo usunąć i nie marnować miejsca.
+[*]Poprawki lokalizacji, w szczególności „Tak” i „Nie” nie są już zamienione miejscami w wersji niemieckiej, co prowadziło do wielu nieporozumień 🤡🇩🇪.
 [/list]
