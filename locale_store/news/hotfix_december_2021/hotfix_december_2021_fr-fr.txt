@@ -1,51 +1,51 @@
-Wallpaper Engine 2.0.XX - Windows Firewall Detection and Android Fixes
+Wallpaper Engine 2.0.XX - Détection du pare-feu Windows et corrections Android
 
-The Wallpaper Engine 2.0.XX update addresses the most common problems related to the Android release and we are updating both the Windows and the Android version of the app.
+La mise à jour Wallpaper Engine 2.0.XX résout les problèmes les plus courants liés à la version Android, et nous mettons à jour les versions Windows et Android de l'application.
 
-Today's update addresses the most common problems related to the Android release and we are updating both the Windows and the Android version of the app.
+La mise à jour d'aujourd'hui résout les problèmes les plus courants liés à la version Android, et nous mettons à jour les versions Windows et Android de l'application.
 
-[h2]Connecting the Android & Windows App[/h2]
-The most common issues we received were related to connecting the Android app with the Windows app to download more wallpapers. We have looked into this and in many cases was caused by the Windows firewall. If Windows has previously asked you to give Wallpaper Engine ("ui32.exe") permission to access your network and you simply closed the window or did not grant the permissions for Wallpaper Engine, then Windows will automatically block Wallpaper Engine's process from properly communicating with your local network:
+[h2]Connexion de l'application Android et Windows[/h2]
+Les problèmes les plus courants que nous avons reçus étaient liés à la connexion de l'application Android avec l'application Windows pour télécharger plus de fonds d'écran. Nous nous sommes penchés sur ce problème et, dans de nombreux cas, il est causé par le pare-feu de Windows. Si Windows vous a déjà demandé d'autoriser Wallpaper Engine ("ui32.exe") à accéder à votre réseau et que vous avez simplement fermé la fenêtre ou que vous n'avez pas accordé les autorisations nécessaires à Wallpaper Engine, Windows bloquera automatiquement le processus de Wallpaper Engine pour l'empêcher de communiquer correctement avec votre réseau local :
 
 [img]{STEAM_CLAN_IMAGE}/26312799/46ccf465f7d479f9e1d305b2001e88ea2d791c49.png[/img]
-[i]If you clicked "Cancel" here or just closed the window, then Wallpaper Engine is blocked in your Windows firewall.[/i]
+[i]Si vous avez cliqué sur "Annuler" ou si vous avez simplement fermé la fenêtre, Wallpaper Engine est bloqué par le pare-feu de Windows.[/i]
 
-We have now added a new check that will try and detect issues like that and will offer you a way to automatically fix the Windows firewall. However, if you do not get any notification about the Windows firewall or if you use any other firewall application, then Wallpaper Engine cannot fix your local network automatically.
+Nous avons désormais ajouté une nouvelle vérification qui essaiera de détecter les problèmes de ce genre et vous proposera un moyen de réparer automatiquement le pare-feu Windows. Cependant, si vous ne recevez aucune notification concernant le pare-feu de Windows ou si vous utilisez une autre application pare-feu, alors Wallpaper Engine ne peut pas réparer votre réseau local automatiquement.
 
-If you have any additional firewall or antivirus applications installed, you need to ensure that [b]ui32.exe[/b] is not being blocked.
+Si vous avez installé un pare-feu ou une application antivirus supplémentaire, vous devez vous assurer que [b]ui32.exe[/b] n'est pas bloqué.
 
-Wallpaper Engine on Windows will now also use additional methods to broadcast itself on your network which will also make it more accessible to Android devices under certain network configurations.
+Wallpaper Engine sous Windows utilisera désormais des méthodes supplémentaires pour se diffuser sur votre réseau, ce qui le rendra également plus accessible aux appareils Android dans certaines configurations réseau.
 
-If your connection issues persist, please read the following help page:
-[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android App Connection Troubleshooting[/url][/list] Keep in mind that you can always use the export functionality as a backup and simply transfer your wallpapers to your mobile device via USB or another method. When placing wallpaper files on your mobile device, always make sure to use the [b]Downloads[/b] directory on your phone or tablet. Android is very restrictive for security reasons and Wallpaper Engine cannot access every Android folder, but the Downloads directory is usually the most reliable.
+Si vos problèmes de connexion persistent, veuillez lire la page d'aide suivante :
+[list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Dépannage de la connexion à l'application Android[/url][/list] N'oubliez pas que vous pouvez toujours utiliser la fonctionnalité d'exportation pour réaliser une sauvegarde et transférer simplement vos fonds d'écran sur votre appareil mobile via un port USB ou une autre méthode. Lorsque vous placez des fichiers de fond d'écran sur votre appareil mobile, veillez toujours à utiliser le répertoire [b]Downloads[/b] de votre téléphone ou de votre tablette. Pour des raisons de sécurité, Android est très restrictif, et Wallpaper Engine ne peut pas accéder à tous les dossiers Android, mais le répertoire Downloads est généralement le plus fiable.
 
-[h2]Lock-screen Wallpapers on Android[/h2]
-Since it is a very common request that we received via email and on our forums, we just wanted to re-iterate this here: [b]Wallpaper Engine fully supports live wallpapers on the Android lock-screen.[/b] However, a lot of phones and tablets do not support live wallpapers on the lock-screen.
+[h2]Fonds d'écran de verrouillage sur Android[/h2]
+Comme il s'agit d'une demande très courante que nous avons reçue par e-mail et sur nos forums, nous voulions juste faire un petit rappel : [b]Wallpaper Engine prend entièrement en charge les fonds d'écran personnalisables sur l'écran de verrouillage d'Android.[/b] Cependant, de nombreux téléphones et tablettes ne sont pas compatibles avec les fonds d'écran personnalisables sur l'écran de verrouillage.
 
-If you are not given the option to set a live wallpaper on your lock-screen, then this is a limitation set by your phone manufacturer. Wallpaper Engine has no control over this and this cannot be fixed by us or any other live wallpaper app. The best thing you can do in such a case is to send feedback to your phone manufacturer and let them know that this is a feature you care about, it's something that could be added in an Android update.
+Si vous n'avez pas la possibilité de définir un fond d'écran personnalisable sur votre écran de verrouillage, il s'agit d'une limitation fixée par le fabricant de votre téléphone. Wallpaper Engine n'a aucun contrôle sur ce problème, qui ne peut être résolu ni par nous ni par une autre application de fond d'écran. La meilleure solution est d'envoyer un commentaire au fabricant de votre téléphone et de lui indiquer qu'il s'agit d'une fonctionnalité qui vous tient à cœur et qui pourrait être ajoutée dans une mise à jour d'Android.
 
-[h2]Android App Update[/h2]
-The latest Android app may take a few days until it reaches everyone, as mobile stores tend to roll out updates more slowly. If you have installed the Android APK directly, make sure to download the latest version from our website:
+[h2]Mise à jour de l'application Android[/h2]
+Selon votre pays, il peut falloir quelques jours pour que la dernière application Android soit disponible, car les stores mobiles ont tendance à déployer les mises à jour plus lentement. Si vous avez installé l'APK Android directement, veillez à télécharger la dernière version depuis notre site web :
 
-[list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine for Android [/url][/h3][/list] If you have installed the app through an official app store, there is nothing you need to do and the update will be installed on your device automatically within the next few days.
+[list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine pour Android [/url][/h3][/list] Si vous avez installé l'application via un store d'applications officiel, vous n'avez rien à faire et la mise à jour sera installée automatiquement sur votre appareil dans les prochains jours.
 
-[h2]Changelog[/h2]
-[h3]Additions / Changes[/h3]
-[h4]Windows App[/h4]
-[list][*]Added firewall rule check to pairing screen and a button to automatically delete any rules that block Wallpaper Engine.
-[*]New: High-performance exports of wallpapers can now also be uploaded in their original aspect ratio, which is useful for usage on tablets.
-[*]Fixed high-performance mobile conversion getting stuck.
-[*]Fixed video wallpaper upload not working without Windows Explorer thumbnails being available.
-[*]Fixed editor aspect ratio not resetting when clicking on wallpaper while a preview mode is active.[/list]
-[h3]Android App[/h3]
-[list][*]Added clear information about how the possibility of setting a live wallpaper as a lock-screen wallpaper is entirely decided by the mobile device.
-[*]Fixed crashes on Samsung S21 devices due to broken Samsung Android 12 update.
-[*]Fixed very large wallpapers, app now supports wallpapers with up up to 4 GB in size.
-[*]Wallpaper transfer is now more reliable when screen gets locked during transfer.
-[*]Fixed "add to playlist" button not working on preview screen beyond 7 wallpapers.
-[*]Added more file import rules for Android 9 and lower to reduce vendor specific issues during import.
-[*]Fixed some time of day wallpapers not working properly on Android.
-[*]Made the "wallpaper paused due to power saving mode" warnings absolutely impossible to miss.
-[*]Made broken wallpaper files show up in the browser so they can be deleted easily and don't waste any storage.
-[*]Localization fixes, notably "Yes" and "No" are not longer switched in the German version which led to a lot of confusion 🤡🇩🇪.
+[h2]Journal des changements[/h2]
+[h3]Ajouts / Changements[/h3]
+[h4]Application Windows[/h4]
+[list][*]Ajout de la vérification des règles du pare-feu à l'écran d'appairage et d'un bouton pour supprimer automatiquement toute règle qui bloque Wallpaper Engine.
+[*]Nouveau : Les exportations hautes performances de fonds d'écran peuvent désormais être téléchargées dans leur format d'origine, ce qui peut s'avérer utile pour les tablettes.
+[*]Correction de la conversion mobile haute performance qui se bloquait.
+[*]Correction du téléchargement de fonds d'écran vidéo qui ne fonctionnait pas si les vignettes de l'Explorateur Windows n'étaient pas disponibles.
+[*]Correction des proportions de l'éditeur qui ne se réinitialisaient pas lorsque l'utilisateur cliquait sur le fond d'écran alors qu'un mode d'aperçu était actif[/list]
+[h3]Application Android[/h3]
+[list][*]Ajout d'informations bien lisibles expliquant que la configuration d'un fond d'écran personnalisable comme fond d'écran de verrouillage dépend entièrement de l'appareil mobile.
+[*]Correction des plantages sur les appareils Samsung S21 dus à un défaut de la mise à jour Android 12 de Samsung.
+[*]Correction des fonds d'écran très volumineux. L'application prend désormais en charge les fonds d'écran d'une taille maximale de 4 Go.
+[*]Le transfert des fonds d'écran est désormais plus fiable lorsque l'écran se bloque pendant le transfert.
+[*]Correction du bouton "Ajouter à la playlist" qui ne fonctionnait pas sur l'écran de prévisualisation au-delà de 7 fonds d'écran.
+[*]Ajout d'un plus grand nombre de règles d'importation de fichiers pour Android 9 (et version inférieure) afin de réduire les problèmes propres aux fournisseurs lors de l'importation.
+[*]Correction de certains fonds d'écran de l'heure du jour ne fonctionnant pas correctement sur Android.
+[*]Il est désormais impossible de manquer les avertissements du type "Fond d'écran en pause : Économiseur de batterie activé".
+[*]Les fichiers de fond d'écran corrompus s'affichent dans le navigateur pour qu'il soit facile de les supprimer et ainsi, de ne pas gaspiller de l'espace de stockage.
+[*]Corrections de traduction, notamment les "Oui" et "Non" ne sont plus intervertis dans la version allemande, ce qui entraînait une grande confusion. 🤡🇩🇪.
 [/list]
