@@ -19,7 +19,7 @@ Wallpaper Engine 2.0.XXアップデートではアンドロイド版のリリー
 それでも接続に問題が見られる場合は、次のヘルプページをご覧ください。
 [list][*] [url=https://help.wallpaperengine.io/mobile/pairing-fixes.html]Android版アプリの接続に関するトラブルシューティング[/url][/list] ただし、エクスポート機能は常に代替手段として使えることを覚えていてください。また、USBなどの手段を用いても壁紙をモバイルデバイスに転送できます。 壁紙ファイルをモバイルデバイスに置いた際には、必ずスマートフォンやタブレットにある[b]ダウンロード[/b]ディレクトリをお使いください。 Androidはセキュリティ上の理由で制限がとても厳しいので、Wallpaper EngineはすべてのAndroidフォルダにアクセスできるわけではありませんが、ダウンロードディレクトリは確実性が最も高いことが多いです。
 
-[h2]Lock-screen Wallpapers on Android[/h2]
+[h2]Android版ロック画面用壁紙[/h2]
 Since it is a very common request that we received via email and on our forums, we just wanted to re-iterate this here: [b]Wallpaper Engine fully supports live wallpapers on the Android lock-screen.[/b] However, a lot of phones and tablets do not support live wallpapers on the lock-screen.
 
 If you are not given the option to set a live wallpaper on your lock-screen, then this is a limitation set by your phone manufacturer. Wallpaper Engine has no control over this and this cannot be fixed by us or any other live wallpaper app. The best thing you can do in such a case is to send feedback to your phone manufacturer and let them know that this is a feature you care about, it's something that could be added in an Android update.
