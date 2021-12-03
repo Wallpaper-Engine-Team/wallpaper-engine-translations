@@ -22,30 +22,30 @@ Wallpaper Engine 2.0.XX 업데이트에서는 Android 출시와 관련하여 가
 [h2]Android 잠금화면 배경화면[/h2]
 이메일과 포럼을 통해 매우 많이 보내주신 요청이므로 다시 한 번 말씀드리고자 합니다. [b]Wallpaper Engine은 Android 잠금화면에서 라이브 배경화면을 전면 지원합니다.[/b] 하지만 다수의 핸드폰과 태블릿은 잠금화면에서 라이브 배경화면을 지원하지 않습니다.
 
-잠금화면에 라이브 배경화면을 지정할 옵션이 주어지지 않는 경우, 이는 핸드폰 제작사 측에서 제한한 것입니다. Wallpaper Engine은 이에 대해 아무런 권한이 없으며, 저희 혹은 그 어떤 라이브 배경화면 앱도 해결할 수 없습니다. 이 경우 최선의 선택은 핸드폰 제작사에 피드백을 보내 여러분이 중요하게 생각하는 기능이며, Android 업데이트에서 추가될 수 있다는 점을 알리는 것입니다.
+잠금화면에 라이브 배경화면을 지정할 옵션이 주어지지 않는 경우, 이는 핸드폰 제작사 측에서 제한한 것입니다. Wallpaper Engine은 이에 대해 아무런 권한이 없으며, 저희 혹은 그 어떤 라이브 배경화면 앱도 해결할 수 없습니다. 이 경우 최선의 선택은 핸드폰 제작사에 피드백을 보내 여러분이 중요하게 생각하는 기능이라는 걸 알리는 것입니다. 이는 추후 Android 업데이트에서 추가될 수 있습니다.
 
-[h2]Android App Update[/h2]
-The latest Android app may take a few days until it reaches everyone, as mobile stores tend to roll out updates more slowly. If you have installed the Android APK directly, make sure to download the latest version from our website:
+[h2]Android 앱 업데이트[/h2]
+모바일 스토어는 업데이트를 더 천천히 출시하기 때문에, 모든 사용자가 최신 Android 앱을 이용할 수 있으려면 며칠이 걸릴 수 있습니다. 직접 Android APK를 설치한 경우, 저희 웹사이트에서 최신 버전을 다운로드하세요.
 
-[list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine for Android [/url][/h3][/list] If you have installed the app through an official app store, there is nothing you need to do and the update will be installed on your device automatically within the next few days.
+[list][*][h3][url=https://www.wallpaperengine.io/android]Wallpaper Engine for Android [/url][/h3][/list] 공식 앱 스토어를 통해 앱을 설치한 경우, 여러분이 할 수 있는 것은 없으며 다음 며칠 내로 업데이트가 기기에 설치될 것입니다.
 
-[h2]Changelog[/h2]
-[h3]Additions / Changes[/h3]
-[h4]Windows App[/h4]
-[list][*]Added firewall rule check to pairing screen and a button to automatically delete any rules that block Wallpaper Engine.
-[*]New: High-performance exports of wallpapers can now also be uploaded in their original aspect ratio, which is useful for usage on tablets.
-[*]Fixed high-performance mobile conversion getting stuck.
-[*]Fixed video wallpaper upload not working without Windows Explorer thumbnails being available.
-[*]Fixed editor aspect ratio not resetting when clicking on wallpaper while a preview mode is active.[/list]
-[h3]Android App[/h3]
-[list][*]Added clear information about how the possibility of setting a live wallpaper as a lock-screen wallpaper is entirely decided by the mobile device.
-[*]Fixed crashes on Samsung S21 devices due to broken Samsung Android 12 update.
-[*]Fixed very large wallpapers, app now supports wallpapers with up up to 4 GB in size.
-[*]Wallpaper transfer is now more reliable when screen gets locked during transfer.
-[*]Fixed "add to playlist" button not working on preview screen beyond 7 wallpapers.
-[*]Added more file import rules for Android 9 and lower to reduce vendor specific issues during import.
-[*]Fixed some time of day wallpapers not working properly on Android.
-[*]Made the "wallpaper paused due to power saving mode" warnings absolutely impossible to miss.
-[*]Made broken wallpaper files show up in the browser so they can be deleted easily and don't waste any storage.
-[*]Localization fixes, notably "Yes" and "No" are not longer switched in the German version which led to a lot of confusion 🤡🇩🇪.
+[h2]변경 로그[/h2]
+[h3]추가 및 변경 사항[/h3]
+[h4]Windows 응용 프로그램[/h4]
+[list][*]페어링 화면에 방화벽 규칙 확인과 자동으로 Wallpaper Engine을 차단하는 규칙을 삭제하는 버튼을 추가했습니다.
+[*]신규: 가져온 고품질 배경화면을 원래 비율로 업로드할 수 있게 되어, 이제 태블릿에서 원활하게 사용할 수 있습니다.
+[*]고품질 모바일 변환이 멈추던 문제를 수정했습니다.
+[*]Windows Explorer 섬네일이 없으면 영상 배경화면 업로드가 불가능하던 문제를 수정했습니다.
+[*]편집기에서 미리보기 모드를 켠 상태로 배경화면을 클릭했을 때 비율이 초기화되지 않던 문제를 수정했습니다.[/list]
+[h3]Android 앱[/h3]
+[list][*]라이브 배경화면을 잠금화면 배경화면으로 지정할 수 있는지 여부는 전적으로 모바일 기기에 달려있다는 명확한 정보를 추가했습니다.
+[*]삼성 Android 12 업데이트 오류로 인해 삼성 S21 기기에서 강제 종료되던 문제를 수정했습니다.
+[*]이제 앱이 4GB 이상의 고용량 배경화면을 지원합니다.
+[*]배경화면 전송 중 화면이 잠겼을 때의 전송 안정성을 개선하였습니다.
+[*]미리보기 화면에서 8번째 배경화면부터 "재생목록에 추가" 버튼이 작동하지 않던 문제를 수정했습니다.
+[*]Android 9 및 이전 버전에서의 파일 가져오기 규칙을 추가하고, 가져오는 도중 발생하는 공급업체 관련 문제를 감소시켰습니다.
+[*]일부 시각 배경화면이 Android 기기에서 제대로 작동하지 않던 문제를 수정했습니다.
+[*]"절전모드로 인해 배경화면이 일시정지되었습니다" 경고를 알아보기 쉽게 수정했습니다.
+[*]손상된 배경화면 파일이 손쉽게 삭제 가능하고 용량을 낭비하지 않도록 브라우저에서 표시되게 변경하였습니다.
+[*]독일어 버전에서 "예"와 "아니요"가 서로 바뀌어 많은 혼란을 빚는 등의 현지화 문제를 수정했습니다 🤡🇩🇪.
 [/list]
