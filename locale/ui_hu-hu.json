@@ -496,7 +496,7 @@
 	"ui_browse_modal_hotkey_assign_playlist": "Rendeljen gyorsbillentyűt ehhez a lejátszási listához {{name}}",
 	"ui_browse_modal_hotkey_assign_profile": "Rendeljen gyorsbillentyűt ehhez a profilhoz {{name}}",
 	"ui_browse_modal_hotkey_enter_hotkey": "Írjon be egy gyorsbillentyűt:",
-	"ui_browse_modal_seasonal_info_body": "Megváltoztattuk a Wallpaper Engine kinézetét, hogy megfeleljen az alkalomnak! A kinézet néhány nap múlva visszaváltozik. <br/><br/> A beállításokban letilthatja az <i>időszakos témákat</i>, ha nem tetszik, vagy bármikor megváltoztathatja a kinézetet. <br/><br/>A<i>\"Felfedez\"</i> lapon is található egy különleges lista amely az évszaknak megfelelő háttereket tartalmaznak!",
+	"ui_browse_modal_seasonal_info_body": "Megváltoztattuk a Wallpaper Engine kinézetét, hogy megfeleljen az alkalomnak! A kinézet néhány nap múlva visszaváltozik. <br/><br/> A beállításokban letilthatja az <i>időszakos témákat</i>, ha nem tetszik, vagy bármikor megváltoztathatja a kinézetet. <br/><br/>A<i>\"Felfedezés\"</i> lapon is található egy különleges lista amely az évszaknak megfelelő háttereket tartalmaznak!",
 	"ui_browse_modal_seasonal_info_header_halloween": "Csokit vagy csalunk",
 	"ui_browse_modal_seasonal_info_header_winter": "Itt a tél",
 	"ui_browse_modal_seasonal_info_never_show_again": "Ne mutasd többet ezt az üzenetet",
