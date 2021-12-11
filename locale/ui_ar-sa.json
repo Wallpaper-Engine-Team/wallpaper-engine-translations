@@ -253,7 +253,7 @@
 	"ui_browse_modal_screensaver_install_hint": "لا تعاني معظم شاشات LCD و LED الحديثة من مشاكل حفر البكسل ويمكنك استخدام خلفية كشاشة توقف لأغراض جمالية بأمان.<br/><br/>اما إذا كانت شاشتك تعتمد على تقنية معرضة لهذه المشكلة (على سبيل المثال OLED أو Plasma أو CRT) ، نوصي باستخدام خلفية مع حركة منتظمة وبثيم مظلم عموما ، بدلاً من ذلك ، تعمل قائمة تشغيل الخلفيات أيضًا بشكل جيد لحماية شاشتك.",
 	"ui_browse_modal_screensaver_install_error_header": "فشل تثبيت شاشة التوقف",
 	"ui_browse_modal_screensaver_install_error_body": "فشل Wallpaper Engine في تثبيت شاشة التوقف.<br/><br/>تأكد ان مانع الفايروسات لا يعارض ويمنع البرنامج من تثبيت ملفات شاشة التوقف.<br/><br/>لمزيد من المساعدة: <a href='[[[var_url_faqscreensaver]]]'>إصلاح تثبيث شاشة التوقف</a>",
-	"ui_browse_modal_windows_10_warning_title": "مطلوب نظام التشغيل ويندوز 10 أو إصدار أحدث",
+	"ui_browse_modal_windows_10_warning_title": "مطلوب نظام تشغيل ويندوز 10 أو إصدار أحدث",
 	"ui_browse_modal_windows_10_warning_message": "الخلفية <b>{{title}}</b>تستخدم ميزات الفيديو الحديثة التي تتطلب ويندوز 10 أو إصدار أحدث ولا يمكن استخدامها على هذا الكمبيوتر.<br/><br/>استخدم ورشة العمل المدمجة للعثور على خلفيات جديدة مع إخفاء الخلفيات غير المتوافقة تلقائيًا.",
 	"ui_browse_properties_scheme_color": "لون التخطيط",
 	"ui_browse_properties_playback_rate": "معدل سرعة التشغيل",
