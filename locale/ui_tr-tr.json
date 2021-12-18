@@ -178,7 +178,7 @@
 	"ui_browse_monitors_save_profile": "Profili kaydet",
 	"ui_browse_monitors_load_profile": "Profili yükle",
 	"ui_browse_monitors_show_on_start": "Başlangıçta göster",
-	"ui_browse_monitors_mute": "Sessize Al",
+	"ui_browse_monitors_mute": "Sesi Kapat",
 	"ui_browse_monitors_unmute": "Sesi Aç",
 	"ui_browse_monitors_clone_hdr_hint": "Windows, HDR'dan HDR olmayan ekranlara kopyalamayı desteklemez.",
 	"ui_browse_monitors_clone_set_source": "Ana kopya ekranı ayarla",
