@@ -384,7 +384,7 @@
 	"ui_settings_playback_fullscreen": "Als een andere applicatie het volledige scherm gebruikt:",
 	"ui_settings_playback_sleep": "Scherm is in slaapstand",
 	"ui_settings_playback_battery": "Laptop op batterij:",
-	"ui_settings_playback_playing_audio": "Andere applicatie speeld geluid af",
+	"ui_settings_playback_playing_audio": "Andere applicatie speelt geluid af:",
 	"ui_settings_playback_application_rules": "Applicatie regels:",
 	"ui_settings_playback_application_rules_header": "Applicatie Regels",
 	"ui_settings_playback_application_rules_edit": "Bewerk",
