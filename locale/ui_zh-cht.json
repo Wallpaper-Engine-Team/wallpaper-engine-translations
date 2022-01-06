@@ -958,7 +958,7 @@
 	"ui_editor_modal_delete_published_wallpapers_button": "永久刪除",
 	"ui_editor_modal_delete_published_wallpapers_confirm_header": "永久刪除 {{title}}",
 	"ui_editor_modal_delete_published_wallpapers_confirm_body": "您確定要永久刪除 [[[Platform]]] 工作坊上的 {{title}} 嗎？<br/><br/>工作坊上傳內容將從 [[[Platform]]] 工作坊和每位訂閱該內容的使用者端永久刪除。",
-	"ui_editor_modal_dlc_prompt_title": "免費 DLC 所需",
+	"ui_editor_modal_dlc_prompt_title": "需要免費 DLC",
 	"ui_editor_modal_dlc_prompt_message_offline": "此進階功能為免費 <b>{{name}}</b> DLC 的一部分，需要 {{size}} 的磁碟空間。<br/><br/>請啟動 [[[Platform]]] 並重新啟動 Wallpaper Engine 以利下載。",
 	"ui_editor_modal_dlc_prompt_message_ask_download": "此進階功能為免費 <b>{{name}}</b> DLC 的一部分，需要 {{size}} 的磁碟空間。<br/><br/>[[[Platform]]] 是否該立即開始下載？",
 	"ui_editor_modal_dlc_prompt_message_ask_manual": "此進階功能為免費 <b>{{name}}</b> DLC 的一部分，請透過 [[[Platform]]] 下載使用。",
