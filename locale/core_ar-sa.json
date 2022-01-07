@@ -17,7 +17,7 @@
 	"core_tray_mute": "كتم",
 	"core_tray_unmute": "إلغاء الكتم",
 	"core_tray_playlist_prefix": "قائمة التشغيل:",
-	"core_balloon_info": "تم تصغير Wallpaper Engine، أنقر مرتين لإختيار خلفية.",
+	"core_balloon_info": "تم تصغير Wallpaper Engine، أنقر مرتين لاختيار خلفية.",
 	"core_balloon_desktop_window_error": "فشل تجهيز سطح المكتب للخلفية المتحركة.",
 	"core_balloon_video_error": "حدث خطأ في الفيديو {{err}}. أنقر للمساعدة.",
 	"core_balloon_app_error": "فشل تحميل البرنامج كخلفية.",
