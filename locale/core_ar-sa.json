@@ -9,7 +9,7 @@
 	"core_tray_unpause": "استئناف",
 	"core_tray_recent_wallpapers": "الخلفيات الأخيرة",
 	"core_tray_saved_playlists": "قوائم التشغيل المحفوظة",
-	"core_tray_saved_profiles": "الحسابات المحفوظة",
+	"core_tray_saved_profiles": "الملفات الشخصية المحفوظة",
 	"core_tray_quit": "خروج",
 	"core_tray_faq": "الدعم والأسئلة الشائعة",
 	"core_tray_recent_wallpapers_clear": "مسح القائمة",
@@ -36,7 +36,7 @@
 	"core_msgbox_aero_failure": "فشل تمكين Aero.\n\nيبدو أن Windows يمنع تمكين Aero، وللأسف فهو مطلب مهم ولا يمكن لـ Wallpaper Engine العمل بدونه.\n\nحاول تمكين Aero في خيارات سمات Windows مباشرة وابدأ تشغيل Wallpaper Engine مرة أخرى.",
 	"core_msgbox_aero_failure_no_support": "فشل في تشغيل ايرو يبدو انك تستخدم نسخة غير متوافقة من ويندوز 7 و التي لا تقابل الحد الادنى من المتطلبات محرك الخلفيات سيغلق الان",
 	"core_msgbox_init_secondinstance_ask_quit": "يبدو ان محرك الخلفيات يعمل لكن لا يستجيب\n\nهل تريد اعادة تشغيله بالقوة ؟",
-	"core_msgbox_init_secondinstance_failed": ":فشل اعادة التشغيل, خطأ رقم",
+	"core_msgbox_init_secondinstance_failed": "فشلت عملية إعادة التشغيل، رمز الخطأ:",
 	"core_msgbox_below_win_7": "محرك الخلفيات يحتاج ويندوز 7 او اعلى كما هو مكتوب في صفحة المتطلبات في ستيم.\n\nيبدو انك تستخدم نسخة غير مدعومة من ويندوز و محرك الخلفيات قد لا يعمل",
 	"core_msgbox_media_feature_pack_missing": "mfplat.dll مفقود!\nMedia Feature Pack Windows 10/8.1/7 من مايكروسوفت لتشغيل ميزة دعم الفيديو ابحث عن Media Feature Pack الرجاء تثبيت N قد يكون لديك ويندوز\n\n",
 	"core_msgbox_ui_file_not_found": "لا يمكن فتح ملفات البرنامج.\n\nقد يكون لديك أحرف غير صالحة في مسار التثبيت، أو قد يكون الملف مفقودًا أو قد يتم حظر البرنامج من برنامج مكافحة الفيروسات.\n\nحاول تثبيت Wallpaper Engine في نفس الدليل مثل [[[Platform]]] أو قم بإنشاء مكتبة [[[Platform]]] بأحرف بسيطة.",
@@ -92,5 +92,5 @@
 	"core_updater_prompt_close": "لا يزال Wallpaper Engine قيد التشغيل، يرجى إغلاقه أولاً. في انتظار إغلاق هذه العمليات:",
 	"core_updater_prompt_close_foreign": "يتعذر على Wallpaper Engine متابعة التحديث لأنه يبدو أن أحد البرامج يقوم بتأمين الملفات. الرجاء إغلاق هذه البرامج للمتابعة:",
 	"core_updater_status_directx_not_supported_title": "DirectX 10 غير مدعوم",
-	"core_updater_status_directx_not_supported_body": "يبدو أن بطاقة الرسومات الخاصة بك لا تدعم DirectX 10 أو أن برنامج تشغيل الرسومات لديك به مشكلة. يعد DirectX 10 أحد متطلبات النظام لكي يعمل هذا التطبيق بشكل صحيح.\n\nإذا كان من المفترض أن تدعم بطاقة الرسومات الخاصة بك DirectX 10، فقد يكون برنامج تشغيل الرسومات الحالي معطوب. يمكنك محاولة إعادة تثبيت برنامج التشغيل أو الاتصال ببائع الجهاز (Nvidia, AMD, Intel) لحل هذه المشكلة."
+	"core_updater_status_directx_not_supported_body": "يبدو أن بطاقة الرسومات الخاصة بك لا تدعم DirectX 10 أو أن برنامج تشغيل الرسومات لديك به مشكلة. يعد DirectX 10 أحد متطلبات النظام لكي يعمل هذا التطبيق بشكل صحيح.\n\nإذا كان من المفترض أن تدعم بطاقة الرسومات الخاصة بك DirectX 10، فقد يكون برنامج تشغيل الرسومات الحالي تالف. يمكنك محاولة إعادة تثبيت برنامج التشغيل أو الاتصال ببائع الجهاز (Nvidia, AMD, Intel) لحل هذه المشكلة."
 }
