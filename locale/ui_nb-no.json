@@ -217,7 +217,6 @@
 	"ui_editor_project_settings_modal_clear_color": "Klar farge",
 	"ui_editor_project_settings_modal_ambient_color": "Ambient color",
 	"ui_editor_project_settings_modal_skylight_color": "Skylight color",
-	"ui_editor_snapshot_instructions": "1. Tegb et rektangel med musen.\n2. Press enter for å ta et øyeblikksbilde.\n\nPress Space for å pause.\nPress Escape for å kanselere.",
 	"ui_editor_workshop_rules_modal_list_header": "Spesielt følgende regler finnes for bakgrunnsbilder, forhåndsvisningen og beskrivelse:",
 	"ui_editor_workshop_rules_modal_rule_nudity": "Ingen pornografisk innhold eller nakenhet",
 	"ui_editor_workshop_rules_modal_rule_offensive": "Ikke noe støtende eller voldelig innhold",
