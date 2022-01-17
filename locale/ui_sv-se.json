@@ -1513,6 +1513,7 @@
 	"ui_editor_effects_modal_imagelayer_description": "Importera en bild från din dator.",
 	"ui_editor_effects_modal_textlayer_name": "Textlager",
 	"ui_editor_effects_modal_textlayer_description": "Placera text på bakgrunden.",
+	"ui_editor_effects_modal_projectlayer_description": "Lägg till ett genomskinligt lager som automatiskt täcker hela bakgrunden. Alla effekter som tillämpas på detta lager kommer att påverka objekt som har ritats innan detta lager.<br/><br/>Detta lager kräver mer prestanda än det efterbearbetade lagret och bör endast användas om du vill noggrant justera effekter med bakgrunden, oberoende från bakgrundens justering eller skärmstorleken.",
 	"ui_editor_effects_modal_solidlayer_name": "Solitt lager",
 	"ui_editor_effects_modal_solidlayer_description": "Lägger till ett solitt lager med en bakgrund med en enkel färg. Kan användas i kombination med andra effekter för att tillämpa specialtransformeringar mer noggrant, som perspektivförvrängning.",
 	"ui_editor_effects_modal_composelayer_description": "Lägg till ett genomskinligt lager med en specifik storlek. Bifoga andra objekt som underordnade till detta lager för att kombinera dem till en enda textur som du kan tillämpa effekter på.",
