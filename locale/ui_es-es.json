@@ -89,6 +89,7 @@
 	"ui_browse_offline_error": "Los servidores de [[[Platform]]] están desconectados. El equipo de [[[Platform]]] ya está reparándolos, así que inténtalo más tarde.",
 	"ui_browse_download_error_restart_steam": "La descarga de [[[Platform]]] falló.<br/><a class='btn btn-default' href='[[[var_url_faqdownloads]]]'>Ayuda</a>",
 	"ui_browse_resolution_settings": "Configurar resolución",
+	"ui_browse_gallery_block_info": "{{count}} fondos bloqueado(s). Haz clic aquí para verlos.",
 	"ui_browse_details_author": "Autor:",
 	"ui_browse_details_author_pending": "< Pendiente >",
 	"ui_browse_details_type": "Tipo:",
