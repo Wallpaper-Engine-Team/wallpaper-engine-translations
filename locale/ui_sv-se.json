@@ -424,6 +424,8 @@
 	"ui_browse_explore_category_friends_created": "Skapade av vänner",
 	"ui_browse_explore_category_friends_favorites": "Vänners favoritbakgrunder",
 	"ui_browse_explore_category_user_favorites": "Dina favoritbakgrunder",
+	"ui_browse_explore_category_user_up_voted": "Bakgrunder du har röstat upp",
+	"ui_browse_explore_category_user_created": "Bakgrunder som har skapats av dig",
 	"ui_browse_explore_category_seasonal_collection": "Rekommenderade <b>säsongsbundna</b> {{emoji}}-bakgrunder",
 	"ui_browse_explore_category_classics": "Populära klassiker {{emoji}}",
 	"ui_browse_explore_category_led_support": "Fungerar toppen med Razer Chroma och Corsair iCUE {{emoji}}",
@@ -735,6 +737,8 @@
 	"ui_settings_advanced_stop_on_low_vram": "Pausa när VRAM är slut:",
 	"ui_settings_advanced_enable_browser_transparency": "Visa alternativ för gränssnittets genomskinlighet:",
 	"ui_settings_advanced_mini_mode_minimize": "Dölj andra program i miniläget:",
+	"ui_settings_advanced_high_precision_timers": "Använd högprecisionstimers:",
+	"ui_settings_advanced_high_precision_timers_hint": "När högprecisionstimers aktiveras kommer att reducera ryckningar för scenbakgrunder och ge en mer konsistent och exakt bildfrekvens. Det kan även påverka strömförbrukning och processoranvändning, vilket innebär att effekten kommer att reduceras på bärbara datorer för att dra mindre ström vid batterianvändning.",
 	"ui_settings_about_changelog": "Ändringslogg",
 	"ui_settings_about_community_hub": "Gemenskapscentral",
 	"ui_settings_about_faq": "Support och vanliga frågor",
@@ -1513,6 +1517,7 @@
 	"ui_editor_effects_modal_imagelayer_description": "Importera en bild från din dator.",
 	"ui_editor_effects_modal_textlayer_name": "Textlager",
 	"ui_editor_effects_modal_textlayer_description": "Placera text på bakgrunden.",
+	"ui_editor_effects_modal_fullscreenlayer_name": "Efterbearbetningslager",
 	"ui_editor_effects_modal_projectlayer_description": "Lägg till ett genomskinligt lager som automatiskt täcker hela bakgrunden. Alla effekter som tillämpas på detta lager kommer att påverka objekt som har ritats innan detta lager.<br/><br/>Detta lager kräver mer prestanda än det efterbearbetade lagret och bör endast användas om du vill noggrant justera effekter med bakgrunden, oberoende från bakgrundens justering eller skärmstorleken.",
 	"ui_editor_effects_modal_solidlayer_name": "Solitt lager",
 	"ui_editor_effects_modal_solidlayer_description": "Lägger till ett solitt lager med en bakgrund med en enkel färg. Kan användas i kombination med andra effekter för att tillämpa specialtransformeringar mer noggrant, som perspektivförvrängning.",
@@ -2006,6 +2011,7 @@
 	"ui_editor_properties_nothing_to_configure": "Ingenting att konfigurera",
 	"ui_editor_properties_number_of_textures": "Antal texturer",
 	"ui_editor_properties_offset": "Förskjutning",
+	"ui_editor_properties_offset_depth": "Förskjutningsdjup",
 	"ui_editor_properties_occlusion_performance": "Ocklusion Prestanda",
 	"ui_editor_properties_occlusion_quality": "Ocklusion Kvalitet",
 	"ui_editor_properties_opacity": "Opacitet",
@@ -2288,5 +2294,6 @@
 	"ui_provider_error_limit_exceeded": "[[[Platform]]] stötte på en gräns för begäran.",
 	"ui_provider_error_io_failure": "[[[Platform]]] stötte på problem med att läsa och skriva filer till och från din hårddisk.",
 	"ui_provider_error_read_only": "[[[Platform]]]s tjänster är skrivskyddade. Om du ändrade ditt lösenord nyligen tillåter inte [[[Platform]]] att du laddar upp nytt innehåll. Detta problem löser sig själv vanligtvis efter några dagar.",
-	"ui_provider_error_failed_setting_item_data": "[[[Platform]]] misslyckades att tillämpa ny information från Workshop."
+	"ui_provider_error_failed_setting_item_data": "[[[Platform]]] misslyckades att tillämpa ny information från Workshop.",
+	"ui_provider_error_ctx_create_ugc_rate_limit_exceeded": "[[[Platform]]] har nekat din inlämning till Workshop eftersom du laddar upp för ofta. Försök igenom om några minuter."
 }
