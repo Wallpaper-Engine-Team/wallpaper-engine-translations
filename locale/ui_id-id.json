@@ -89,6 +89,7 @@
 	"ui_browse_offline_error": "Server [[[Platform]]] sedang offline. Tim [[[Platform]]] sedang memperbaiki server nya, mohon coba kembali beberapa saat lagi.",
 	"ui_browse_download_error_restart_steam": "Unduhan [[[Platform]]] gagal.<br/><a class='btn btn-default' href='[[[var_url_faqdownloads]]]'>Bantuan</a>",
 	"ui_browse_resolution_settings": "Pengaturan Resolusi",
+	"ui_browse_gallery_block_info": "{{count}} wallpaper yang diblokir. Klik disini untuk melihatnya.",
 	"ui_browse_details_author": "Pembuat:",
 	"ui_browse_details_author_pending": "< Tertunda >",
 	"ui_browse_details_type": "Jenis:",
