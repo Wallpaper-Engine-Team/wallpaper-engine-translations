@@ -420,7 +420,7 @@
 	"ui_browse_explore_category_keyword_recent": "Wallpaper <b>{{keyword}}</b> belakangan ini",
 	"ui_browse_explore_category_keyword_most_subscribed": "Wallpaper <b>{{keyword}}</b> yang paling banyak langganan nya",
 	"ui_browse_explore_category_keyword_new": "Wallpaper <b>{{keyword}}</b> baru",
-	"ui_browse_explore_category_followed": "Dibuat oleh Pengiguna Yang Diikuti",
+	"ui_browse_explore_category_followed": "Dibuat oleh Pengguna Yang Diikuti",
 	"ui_browse_explore_category_friends_created": "Dibuat oleh Teman",
 	"ui_browse_explore_category_friends_favorites": "Wallpaper Favorit Teman",
 	"ui_browse_explore_category_user_favorites": "Wallpaper Favorit Anda",
