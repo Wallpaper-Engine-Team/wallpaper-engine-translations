@@ -1112,7 +1112,7 @@
 	"ui_editor_workshop_options_upload_as_pending": "Menunggu [[[Platform]]] merespons...",
 	"ui_editor_workshop_modal_rating_header": "Pilih Klasifikasi Usia",
 	"ui_editor_workshop_modal_rating_body_preview": "Gambar pratinjau harus cocok dan pantas untuk semua umur dan wajib tidak boleh menampilkan ketelanjangan penuh.",
-	"ui_editor_workshop_modal_rating_body": "Silakan lihat tabel ini untuk memilih klasifikasi usia yang sesuai dengan konten Anda. Jika perlu, gunakan klasifikasi usia yang lebih ketat. Mengirimkan konten ilegal atau ajuan klasifikasi usia Anda yang terlalu rendah dapat menyebabkan ajuan Anda dilarang (di-banned) dan akun Anda ditandai. Perlu diingat bahwa Anda tidak perlu harus mengirimkan/menerbitkan wallpaper yang Anda gunakan untuk diri Anda sendiri.",
+	"ui_editor_workshop_modal_rating_body": "Silakan lihat tabel ini untuk memilih klasifikasi usia yang sesuai dengan konten Anda. Jika perlu, gunakan klasifikasi usia yang lebih ketat. Mengirimkan konten ilegal atau ajuan klasifikasi usia Anda yang terlalu rendah dapat menyebabkan ajuan Anda diblokir (di-banned) dan akun Anda ditandai. Perlu diingat bahwa Anda tidak perlu harus mengirimkan/menerbitkan wallpaper yang Anda gunakan untuk diri Anda sendiri.",
 	"ui_editor_workshop_modal_rating_no_rating_info_header": "Konten Yang Pantas",
 	"ui_editor_workshop_modal_rating_no_rating_info_body": "Mohon pastikan seluruh konten yang Anda unggah cocok dan pantas untuk semua umur! Jika Anda mengunggah apa pun yang sugestif, ilegal, atau melanggar Aturan Klasifikasi Usia, pengajuan Anda atau keseluruhan akun Anda akan di blokir.",
 	"ui_editor_open_modal_header": "Buka Wallpaper",
