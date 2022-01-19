@@ -564,6 +564,8 @@
 	"ui_browse_mobile_upload_modal_preset_section_pre_rendered": "사전 렌더링",
 	"ui_browse_mobile_upload_modal_show_advanced_settings": "고급 설정 표시",
 	"ui_browse_mobile_upload_modal_video_preset": "비디오 프리셋",
+	"ui_browse_mobile_upload_modal_video_preset_auto": "자동 - {{resolution}}",
+	"ui_browse_mobile_upload_modal_video_preset_2160": "4K UHD",
 	"ui_browse_mobile_upload_modal_video_cropping": "비디오 자르기",
 	"ui_browse_mobile_upload_modal_video_cropping_phone": "핸드폰 화면에 맞추기",
 	"ui_browse_mobile_upload_modal_video_cropping_disabled": "원본 비율 유지",
