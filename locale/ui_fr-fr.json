@@ -1524,6 +1524,7 @@
 	"ui_editor_effects_modal_projectlayer_description": "Ajoutez un calque translucide qui couvre automatiquement l'ensemble du fond d'écran. Tout effet appliqué à ce calque influera sur les objets qui ont été dessinés avant ce calque.<br/><br/>Ce calque requiert plus de performances que le calque de post-traitement et ne doit être utilisé que si vous souhaitez aligner les effets avec précision sur le fond d'écran, indépendamment de l'alignement du fond d'écran ou de la taille de l'écran.",
 	"ui_editor_effects_modal_solidlayer_name": "Calque solide",
 	"ui_editor_effects_modal_solidlayer_description": "Ajoute un calque solide avec un arrière-plan de couleur unie. Peut être utilisé en combinaison avec d'autres effets pour appliquer des transformations spéciales plus précisément, telle que la distorsion de la perspective.",
+	"ui_editor_effects_modal_composelayer_name": "Calque de composition ajustable",
 	"ui_editor_effects_modal_composelayer_description": "Ajoutez un calque translucide de taille spécifique. Joignez d'autres objets à ce calque pour les combiner en une texture unique à laquelle vous pouvez appliquer des effets.",
 	"ui_editor_effects_modal_model_name": "Modèle",
 	"ui_editor_effects_modal_model_description": "Importez un modèle 3D depuis votre ordinateur.",
@@ -1834,6 +1835,7 @@
 	"ui_editor_properties_bounds": "Limites",
 	"ui_editor_properties_brightness": "Luminosité",
 	"ui_editor_properties_browse": "Parcourir",
+	"ui_editor_properties_calculated_depth": "Profondeur calculée",
 	"ui_editor_properties_cast_type": "Type de distribution",
 	"ui_editor_properties_center": "Centrer",
 	"ui_editor_properties_chromatic_aberration": "Aberration chromatique",
@@ -1861,6 +1863,7 @@
 	"ui_editor_properties_cutout": "Découpe",
 	"ui_editor_properties_date": "Date",
 	"ui_editor_properties_default": "Par défaut",
+	"ui_editor_properties_default_depth": "Profondeur par défaut : {{order}}",
 	"ui_editor_properties_delimiter": "Délimiteur",
 	"ui_editor_properties_depth": "Profondeur",
 	"ui_editor_properties_depth_map": "Carte profondeur",
@@ -2013,6 +2016,7 @@
 	"ui_editor_properties_nothing_to_configure": "Rien à configurer",
 	"ui_editor_properties_number_of_textures": "Nombre de textures",
 	"ui_editor_properties_offset": "Offset",
+	"ui_editor_properties_offset_depth": "Décalage profondeur",
 	"ui_editor_properties_occlusion_performance": "Performance d'occlusion",
 	"ui_editor_properties_occlusion_quality": "Qualité d'occlusion",
 	"ui_editor_properties_opacity": "Opacité",
@@ -2295,5 +2299,6 @@
 	"ui_provider_error_limit_exceeded": "[[[Platform]]] a rencontré une limite de requêtes.",
 	"ui_provider_error_io_failure": "[[[Platform]]] a rencontré des problèmes de lecture ou d'écriture de fichiers vers ou depuis votre disque dur.",
 	"ui_provider_error_read_only": "Le service [[[Platform]]] est en lecture seule. Si vous avez récemment changé votre mot de passe, [[[Platform]]] n'autorise pas le transfert de nouveau contenu. Le problème se règle généralement de lui-même après quelques jours.",
-	"ui_provider_error_failed_setting_item_data": "[[[Platform]]] n'a pas réussi à appliquer les nouvelles informations du Workshop."
+	"ui_provider_error_failed_setting_item_data": "[[[Platform]]] n'a pas réussi à appliquer les nouvelles informations du Workshop.",
+	"ui_provider_error_ctx_create_ugc_rate_limit_exceeded": "[[[Platform]]] a rejeté votre soumission au Workshop car vous publiez trop souvent. Veuillez réessayer dans quelques minutes."
 }
