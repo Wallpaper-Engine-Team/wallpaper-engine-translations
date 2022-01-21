@@ -1521,8 +1521,10 @@
 	"ui_editor_effects_modal_fullscreenlayer_name": "后处理层",
 	"ui_editor_effects_modal_fullscreenlayer_description": "添加覆盖整个屏幕的半透明图层。应用于此图层的任何效果都将影响在此图层之前已绘制到屏幕的对象。<br/><br/>此图层将始终与屏幕对齐，而且不会随壁纸一起移动。它应该用于不需要精确对齐或蒙板的全屏效果，以获得独立于屏幕尺寸的最佳质量。",
 	"ui_editor_effects_modal_projectlayer_name": "全组合层",
+	"ui_editor_effects_modal_projectlayer_description": "添加自动覆盖整张壁纸的半透明图层。应用于此图层的任何效果都将影响在此图层之前已绘制的对象。<br/><br/>此图层需要比后处理层更高的性能，仅当您希望将效果与壁纸准确对齐时才应使用，而且其使用独立于壁纸对齐或屏幕尺寸。",
 	"ui_editor_effects_modal_solidlayer_name": "固态层",
 	"ui_editor_effects_modal_solidlayer_description": "添加单色固态层。可以与其他效果组合使用以便更加精确地表现特殊的变换效果，比如透视变形。",
+	"ui_editor_effects_modal_composelayer_name": "可调整组合层",
 	"ui_editor_effects_modal_composelayer_description": "添加特定尺寸的半透明层。将其他对象作为子层附加到此层可组合成单个纹理，您可以在其中应用各种效果。",
 	"ui_editor_effects_modal_model_name": "模型",
 	"ui_editor_effects_modal_model_description": "从您的电脑中导入 3D 模型。",
@@ -1833,6 +1835,7 @@
 	"ui_editor_properties_bounds": "界限",
 	"ui_editor_properties_brightness": "亮度",
 	"ui_editor_properties_browse": "浏览",
+	"ui_editor_properties_calculated_depth": "计算深度",
 	"ui_editor_properties_cast_type": "转换类型",
 	"ui_editor_properties_center": "中心",
 	"ui_editor_properties_chromatic_aberration": "色差",
@@ -1860,6 +1863,7 @@
 	"ui_editor_properties_cutout": "切口",
 	"ui_editor_properties_date": "日期",
 	"ui_editor_properties_default": "默认",
+	"ui_editor_properties_default_depth": "默认深度：{{order}}",
 	"ui_editor_properties_delimiter": "定界符",
 	"ui_editor_properties_depth": "深度",
 	"ui_editor_properties_depth_map": "深度贴图",
@@ -2012,6 +2016,7 @@
 	"ui_editor_properties_nothing_to_configure": "无需配置",
 	"ui_editor_properties_number_of_textures": "纹理数量",
 	"ui_editor_properties_offset": "偏移",
+	"ui_editor_properties_offset_depth": "偏移深度",
 	"ui_editor_properties_occlusion_performance": "遮蔽 - 性能",
 	"ui_editor_properties_occlusion_quality": "遮蔽 - 质量",
 	"ui_editor_properties_opacity": "不透明度",
@@ -2294,5 +2299,6 @@
 	"ui_provider_error_limit_exceeded": "[[[Platform]]] 遇到了请求限制。",
 	"ui_provider_error_io_failure": "[[[Platform]]] 在读写您的硬盘时遇到了错误。",
 	"ui_provider_error_read_only": "目前仅能读取 [[[Platform]]] 服务。如果您最近更改过密码，[[[Platform]]] 将不允许上传新的内容。此问题通常将在数日后自行解决。",
-	"ui_provider_error_failed_setting_item_data": "[[[Platform]]] 未能应用新的创意工坊信息。"
+	"ui_provider_error_failed_setting_item_data": "[[[Platform]]] 未能应用新的创意工坊信息。",
+	"ui_provider_error_ctx_create_ugc_rate_limit_exceeded": "[[[Platform]]] 拒绝了您的创意工坊提交，因为您上传得过于频繁。请在几分钟后重试。"
 }
