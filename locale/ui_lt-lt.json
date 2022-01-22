@@ -194,6 +194,5 @@
 	"ui_editor_project_settings_modal_bloom": "Migla",
 	"ui_editor_project_settings_modal_clear_color": "Paviršinė spalva",
 	"ui_editor_project_settings_modal_ambient_color": "Aplinkos spalva",
-	"ui_editor_project_settings_modal_skylight_color": "Šviesos spalva",
-	"ui_editor_snapshot_instructions": "1. Nubrėžkite stačiakampį su pele.\n2. Paspauskite Enter kad nufotografuotumėte.\n\nPaspauskite Space kad sustabdytumėte.\nPaspauskite Escape kad atsisakytumėte."
+	"ui_editor_project_settings_modal_skylight_color": "Šviesos spalva"
 }
