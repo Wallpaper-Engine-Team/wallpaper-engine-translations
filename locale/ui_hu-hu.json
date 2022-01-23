@@ -566,6 +566,8 @@
 	"ui_browse_mobile_upload_modal_video_preset_1080": "Full HD",
 	"ui_browse_mobile_upload_modal_video_preset_2160": "4K UHD",
 	"ui_browse_mobile_upload_modal_video_fps": "FPS",
+	"ui_browse_mobile_upload_modal_video_cropping_phone": "Illeszkedés a telefon képernyőjéhez",
+	"ui_browse_mobile_upload_modal_video_cropping_disabled": "Eredeti képarány megtartása",
 	"ui_browse_mobile_upload_cancel_title": "Mobilfeltöltések megszakítása",
 	"ui_browse_mobile_upload_cancel_body": "Biztosan megszakítja az összes függőben lévő feltöltést a mobileszközére?",
 	"ui_browse_mobile_upload_unavailable_body": "Kérjük, indítsa újra a Wallpaper Engine-t a [[[Platform]]]-en keresztül, hogy telepítse a Wallpaper Engine Companion App for Android alkalmazást.",
