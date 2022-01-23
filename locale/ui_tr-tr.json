@@ -954,7 +954,7 @@
 	"ui_editor_modal_video_file_invalid_body": "Seçilen görüntü dosyası {{file}} çok büyük. Atölye'ye sadece {{size}} boyutundan küçük görüntüler yükleyebilirsiniz.<br/><br/>Bu kısıtlama <i>sadece</i> Atölye için geçerlidir, elbette bu görüntüyü bir duvar kağıdı olarak duvar kağıdı tarayıcısına sürükleyerek veya tarayıcıda <i>Duvar Kağıdı Aç</i>'a tıklayarak kendiniz için kullanabilirsiniz.",
 	"ui_editor_modal_project_files_invalid_header": "Proje Çok Büyük",
 	"ui_editor_modal_project_files_invalid_body": "Seçilen proje dosyaları çok büyük. Atölye'ye sadece {{size}} boyutundan daha küçük bir proje yükleyebilirsiniz.<br/><br/>Bu kısıtlama <i>sadece</i> Atölye için geçerlidir, elbette bu projeyi bir duvar kağıdı olarak duvar kağıdı tarayıcısına sürükleyerek veya tarayıcıda <i>Duvar Kağıdı Aç</i>'a tıklayarak kendiniz için kullanabilirsiniz.",
-	"ui_editor_modal_project_files_invalid_toast": "Atölyeye {{size}} boyutundan daha küçük bir proje yükleyebilirsiniz.",
+	"ui_editor_modal_project_files_invalid_toast": "Atölyeye sadece {{size}} boyutundan daha küçük bir proje yükleyebilirsiniz.",
 	"ui_editor_delete_project_modal_header": "Silmeyi Onayla",
 	"ui_editor_delete_project_modal_body": "Şu projeyi kalıcı olarak silmek istediğinize emin misiniz: <br/><b>{{title}}</b> ?<br/><br/>Bu projeyi sildikten sonra <b>güncelleyemeyecek veya kullanamayacaksınız</b>.",
 	"ui_editor_no_animation_modal_header": "Duvar Kâğıdı Hareketli Değil",
@@ -2300,5 +2300,5 @@
 	"ui_provider_error_io_failure": "[[[Platform]]], sabit diskinize ve sabit diskinizden dosya okurken veya yazarken sorunlarla karşılaştı.",
 	"ui_provider_error_read_only": "[[[Platform]]] hizmeti salt okunur. Eğer parolanızı yakın zamanda değiştirdiyseniz, [[[Platform]]] yeni içerik yüklemeye izin vermez. Bu sorun genellikle birkaç gün sonra kendiliğinden düzelir.",
 	"ui_provider_error_failed_setting_item_data": "[[[Platform]]] yeni Atölye bilgilerinin uygulanmasında başarısız oldu.",
-	"ui_provider_error_ctx_create_ugc_rate_limit_exceeded": "[[[Platform]]], Atölye önerinizi çok sık yükleme yaptığınız için reddetti. Lütfen birkaç dakika içinde tekrar deneyin."
+	"ui_provider_error_ctx_create_ugc_rate_limit_exceeded": "[[[Platform]]], çok sık yüklediğinizden Atölye gönderiminizi reddetti. Lütfen birkaç dakika içinde tekrar deneyin."
 }
