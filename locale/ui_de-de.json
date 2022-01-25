@@ -1835,6 +1835,7 @@
 	"ui_editor_properties_bounds": "Grenzen",
 	"ui_editor_properties_brightness": "Helligkeit",
 	"ui_editor_properties_browse": "Durchsuchen",
+	"ui_editor_properties_calculated_depth": "Berechnete Tiefe",
 	"ui_editor_properties_cast_type": "Verteilungsart",
 	"ui_editor_properties_center": "Zentrum",
 	"ui_editor_properties_chromatic_aberration": "Chromatische Aberration",
@@ -1862,6 +1863,7 @@
 	"ui_editor_properties_cutout": "Ausschnitt",
 	"ui_editor_properties_date": "Datum",
 	"ui_editor_properties_default": "Standard",
+	"ui_editor_properties_default_depth": "Standard-Tiefe: {{order}}",
 	"ui_editor_properties_delimiter": "Begrenzung",
 	"ui_editor_properties_depth": "Tiefe",
 	"ui_editor_properties_depth_map": "Depth-Map",
@@ -2014,6 +2016,7 @@
 	"ui_editor_properties_nothing_to_configure": "Nichts zum Konfigurieren",
 	"ui_editor_properties_number_of_textures": "Anzahl an Texturen",
 	"ui_editor_properties_offset": "Absetzung",
+	"ui_editor_properties_offset_depth": "Tiefen-Versatz",
 	"ui_editor_properties_occlusion_performance": "Verdeckung - Leistung",
 	"ui_editor_properties_occlusion_quality": "Verdeckung - Qualität",
 	"ui_editor_properties_opacity": "Deckkraft",
@@ -2296,5 +2299,6 @@
 	"ui_provider_error_limit_exceeded": "[[[Platform]]] hat ein Anfrage-Limit erreicht.",
 	"ui_provider_error_io_failure": "[[[Platform]]] hat Probleme mit dem Lesen oder Schreiben von Dateien auf deine Festplatte.",
 	"ui_provider_error_read_only": "Der [[[Platform]]]-Dienst hat nur Lese-Zugriff. Wenn du kürzlich dein Passwort geändert hast, blockiert [[[Platform]]] das Hochladen von neuen Inhalten. Dieses Problem löst sich normalerweise von alleine nach einigen Tagen.",
-	"ui_provider_error_failed_setting_item_data": "[[[Platform]]] konnte die neuen Workshop-Informationen nicht anwenden."
+	"ui_provider_error_failed_setting_item_data": "[[[Platform]]] konnte die neuen Workshop-Informationen nicht anwenden.",
+	"ui_provider_error_ctx_create_ugc_rate_limit_exceeded": "[[[Platform]]] hat deinen Workshop-Upload abgelehnt, da du zu häufig Uploads gestartet hast. Versuche es in ein paar Minuten noch einmal."
 }
