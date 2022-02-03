@@ -2038,5 +2038,6 @@
 	"ui_provider_error_access_denied": "[[[Platform]]] zamítá přístup. To obvykle znamená, že je váš účet zabanován nebo pozastaven.",
 	"ui_provider_error_timeout": "[[[Platform]]] přerušil požadavek, protože jeho zpracování trvalo příliš dlouho.",
 	"ui_provider_error_service_unavailable": "Služby [[[Platform]]]u jsou nedostupné.",
-	"ui_provider_error_not_logged_in": "Uživatel [[[Platform]]]u není přihlášen."
+	"ui_provider_error_not_logged_in": "Uživatel [[[Platform]]]u není přihlášen.",
+	"ui_provider_error_insufficient_privilege": "[[[Platform]]] chybí oprávnění."
 }
