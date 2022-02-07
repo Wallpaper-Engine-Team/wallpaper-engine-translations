@@ -1,5 +1,5 @@
 {
-	"core_tray_change_wallpaper": "更换壁纸",
+	"core_tray_change_wallpaper": "變更桌布",
 	"core_tray_change_screensaver": "變更螢幕保護程式",
 	"core_tray_browse_workshop": "瀏覽工作坊",
 	"core_tray_create_wallpaper": "建立桌布",
@@ -88,7 +88,7 @@
 	"core_updater_status_corrupted_system_module_message_box_title": "系統檔案遺失或已損壞",
 	"core_updater_status_corrupted_system_module_message_box_body": "您的系統檔案遺失或已損壞。無法執行 Wallpaper Engine 除非您的電腦系統已經正確安裝。這是一個 Windows 的錯誤而並不是 Wallpaper Engine 的錯誤。\n\n嘗試執行以下步驟以修復您的電腦: \n\n",
 	"core_updater_status_corrupted_system_module_message_box_body_delete": "－首先，透過檔案總管刪除這些檔案: \n{{modules}}\n\n",
-	"core_updater_status_corrupted_system_module_message_box_body_install_directx": "－找到此檔案並執行以重新安裝 DirectX: \n{{installers}}\n或者，你也可以透過 Microsoft 網站重新下載 DirectX 9。",
+	"core_updater_status_corrupted_system_module_message_box_body_install_directx": "－找到此檔案並執行以重新安裝 DirectX: \n{{installers}}\n或者，您也可以透過 Microsoft 網站重新下載 DirectX 9。",
 	"core_updater_prompt_close": "Wallpaper Engine 仍在執行中，請先將它關閉。正在等待這些程序關閉:",
 	"core_updater_prompt_close_foreign": "Wallpaper Engine 無法繼續進行更新，因為檔案遭程式鎖定。請關閉這些程式以繼續進行更新:",
 	"core_updater_status_directx_not_supported_title": "不支援 DirectX 10",
