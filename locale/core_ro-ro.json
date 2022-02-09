@@ -27,7 +27,7 @@
 	"core_msgbox_deskscapes": "Se pare că DeskScapes este activ. Asta ar putea împiedica Wallpaper Engine de la a funcționa.",
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engine are nevoie să activeze Aero pentru a funcționa. Activezi Aero acum?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine nu poate funcționa cu o temă „contrast ridicat”. Repornești tema acum?",
-	"core_msgbox_prompt_high_contrast_was_enabled": "Windows a aplicat o tema cu un 'contrast mare' care nu permite aplicatiei Wallpaper Engine sa functioneze.",
+	"core_msgbox_prompt_high_contrast_was_enabled": "Windows tocmai a aplicat o temă de „contrast ridicat” care nu permite ca Wallpaper Engine să funcționeze.",
 	"core_msgbox_dwm_disabled": "Compoziția spațiu de lucru este dezactivată.",
 	"core_msgbox_aero_denied": "Wallpaper Engine nu poate funcționa cu Aero și se va închide.",
 	"core_msgbox_aero_failure": "Pornirea Aero a esuat.\n\nWindows impiedica pornirea programului Aero, din pacate Wallpaper Engine nu poate functiona fara acesta.\n\nIncearca sa pornesti Aero direct din optiunile de teme a le Windows-ului si porneste Wallpaper Engine din nou.",
