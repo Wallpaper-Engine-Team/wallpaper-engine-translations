@@ -1,6 +1,7 @@
 {
 	"core_tray_change_wallpaper": "Schimbă imaginea de fundal",
 	"core_tray_change_screensaver": "Schimbă Screensaver",
+	"core_tray_browse_workshop": "Răsfoiți atelierul",
 	"core_tray_create_wallpaper": "Creează imagine de fundal",
 	"core_tray_settings": "Setări",
 	"core_tray_take_screenshot": "Crează o captură de ecran",
@@ -15,6 +16,7 @@
 	"core_tray_next_wallpaper": "Următoarea imagine de fundal",
 	"core_tray_mute": "Opreste sunetul",
 	"core_tray_unmute": "Porneste sunetul",
+	"core_tray_playlist_prefix": "Listă de redare:",
 	"core_balloon_info": "Wallpaper Engine a fost minimizat în bara ta de aplicații. Apasă dublu click pe iconiță pentru a selecta o imagine de fundal.",
 	"core_balloon_desktop_window_error": "Pregătirea spațiului de lucru pentru o imagine de fundal live a eșuat.",
 	"core_balloon_video_error": "A apărut o eroare video. {{err}}. Apasă aici pentru ajutor.",
