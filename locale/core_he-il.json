@@ -1,3 +1,20 @@
 {
-	"core_tray_change_wallpaper": "שנה רקע"
+	"core_tray_change_wallpaper": "שנה רקע",
+	"core_tray_change_screensaver": "שנה שומר מסך",
+	"core_tray_browse_workshop": "עיין ב-Workshop",
+	"core_tray_create_wallpaper": "צור רקע",
+	"core_tray_settings": "הגדרות",
+	"core_tray_take_screenshot": "צילום מסך",
+	"core_tray_pause": "השהה",
+	"core_tray_unpause": "בטל השהיה",
+	"core_tray_recent_wallpapers": "רקעים אחרונים",
+	"core_tray_saved_playlists": "רשימות השמעה שמורות",
+	"core_tray_saved_profiles": "פרופילים שמורים",
+	"core_tray_quit": "סיים",
+	"core_tray_faq": "תמיכה, שאלות ותשובות",
+	"core_tray_recent_wallpapers_clear": "נקה רשימה",
+	"core_tray_next_wallpaper": "רקע הבא",
+	"core_tray_mute": "השתק",
+	"core_tray_unmute": "בטל השתקה",
+	"core_tray_playlist_prefix": "רשימת השמעה:"
 }
