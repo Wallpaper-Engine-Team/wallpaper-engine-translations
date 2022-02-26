@@ -24,6 +24,7 @@
 	"core_balloon_pkg_version_error": "רקע זה דורש גרסה מעודכנת של Wallpaper Engine. בבקשה עדכן את Wallpaper Engine לגרסה העדכנית דרך [[[Platform]]].",
 	"core_balloon_wallpaper_file_missing": "לא ניתן לפתוח את הרקע מכיוון שחסרים לו קבצים.",
 	"core_msgboxtitle_error": "שגיאה",
+	"core_msgboxtitle_app_conflict": "סתירה עם יישום אחר",
 	"core_msgboxtitle_wpe": "Wallpaper Engine",
 	"core_msgbox_deskscapes": "נראה שהתוכנה DeskScapes פועלת, תוכנה זו עלולה למנוע מ-Wallpaper Engine לפעול בצורה תקינה.",
 	"core_msgbox_prompt_aero_win7": "על מנת ש-Wallpaper Engine יפעל בצורה תקינה נדרש להפעיל את הממשק הגרפי Aero. האם להפעיל את התוכנה?",
@@ -35,5 +36,7 @@
 	"core_msgbox_init_secondinstance_ask_quit": "נראה ש-Wallpaper Engine פועל אך לא מגיב.\n\nברצונך להפעיל מחדש את היישום?",
 	"core_msgbox_init_secondinstance_failed": "הפעלה מחדש נכשלה, קוד שגיאה:",
 	"core_msgbox_below_win_7": "על מנת ש-Wallpaper Engine יפעל נדרשת גרסת Windows 7 ומעלה.\n\nזה נראה שברשותך גרסת Windows אשר לא תומכת ב-Wallpaper Engine והיישום עלול לא לפעול.",
-	"core_msgbox_media_feature_pack_missing": "mfplat.dll חסר!\nייתכן שברשותך Windows N. בבקשה תתקין את חבילת המדיה של Microsoft על מנת לאפשר תמיכה בוידאו! \n(Google: Media Feature Pack Windows 10/8.1/7)\n\nאם שגיאה זו חוזרת על עצמה, זאת אומרת שעדיין אין ברשותך את החבילה הנכונה."
+	"core_msgbox_media_feature_pack_missing": "mfplat.dll חסר!\nייתכן שברשותך Windows N. בבקשה תתקין את חבילת המדיה של Microsoft על מנת לאפשר תמיכה בוידאו! \n(Google: Media Feature Pack Windows 10/8.1/7)\n\nאם שגיאה זו חוזרת על עצמה, זאת אומרת שעדיין אין ברשותך את החבילה הנכונה.",
+	"core_msgbox_ui_file_not_found": "לא ניתן לפתוח את הקבצים של התוכנה.\n\nייתכן שיש תווים לא חוקיים בנתיב ההתקנה, ייתכן שקובץ חסר או שהיישום נחסם על ידי תוכנת אנטי וירוס.\n\nנסה להתקין שנית את Wallpaper Engine באותה תיקיה עם-[[[Platform]]] או צור תקיית [[[Platform]]] עם תווים חוקיים בלועזית.",
+	"core_msgbox_trial_expired_title": "פג תוקף גרסת הנסיון"
 }
