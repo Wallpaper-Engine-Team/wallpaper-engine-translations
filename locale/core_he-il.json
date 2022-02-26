@@ -28,5 +28,6 @@
 	"core_msgbox_deskscapes": "נראה שהתוכנה DeskScapes פועלת, תוכנה זו עלולה למנוע מ-Wallpaper Engine לפעול בצורה תקינה.",
 	"core_msgbox_prompt_aero_win7": "על מנת ש-Wallpaper Engine יפעל בצורה תקינה נדרש להפעיל את הממשק הגרפי Aero. האם להפעיל את התוכנה?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine אינו יכול לפעול עם ערכת נושא בעלת 'ניגודיות גבוהה'. האם לנסות לאפס עבורך את ערכת הנושא?",
-	"core_msgbox_prompt_high_contrast_was_enabled": "Windows יישם ערכת נושא בעלת 'ניגודיות גובהה' אשר לא מאפשרת ל-Wallpaper Engine לפעול."
+	"core_msgbox_prompt_high_contrast_was_enabled": "Windows יישם ערכת נושא בעלת 'ניגודיות גובהה' אשר לא מאפשרת ל-Wallpaper Engine לפעול.",
+	"core_msgbox_aero_denied": "Wallpaper Engine אינו יכול לפעול ללא Windows Aero ויסגר כעת."
 }
