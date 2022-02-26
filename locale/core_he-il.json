@@ -40,5 +40,10 @@
 	"core_msgbox_ui_file_not_found": "לא ניתן לפתוח את הקבצים של התוכנה.\n\nייתכן שיש תווים לא חוקיים בנתיב ההתקנה, ייתכן שקובץ חסר או שהיישום נחסם על ידי תוכנת אנטי וירוס.\n\nנסה להתקין שנית את Wallpaper Engine באותה תיקיה עם-[[[Platform]]] או צור תקיית [[[Platform]]] עם תווים חוקיים בלועזית.",
 	"core_msgbox_trial_expired_title": "פג תוקף גרסת הנסיון",
 	"core_msgbox_trial_expired_body": "פג תוקף גרסת הנסיון ו-Wallpaper Engine יסגר כעת.\n\nאם ברצונך להמשיך להשתמש ב-Wallpaper Engine, ניתן לרכוש את היישום דרך [[[Platform]]], תודה!",
-	"core_fatal_window_creation_failed": "יצירת רקע נכשלה (שגיאה {{error}}). שגיאה זו בדרך כלל קשורה לכרטיס הגרפי. בצע התקנה מחדש של הכרטיס הגרפי ומנהל התקן (Driver) ולאחר מכן אתחל מחדש של המחשב."
+	"core_fatal_window_creation_failed": "יצירת רקע נכשלה (שגיאה {{error}}). שגיאה זו בדרך כלל קשורה לכרטיס הגרפי. בצע התקנה מחדש של הכרטיס הגרפי ומנהל התקן (Driver) ולאחר מכן אתחל מחדש של המחשב.",
+	"core_updater_title": "Wallpaper Engine - עדכון",
+	"core_updater_headline_update": "מעדכן את Wallpaper Engine לגרסה {{version}}...",
+	"core_updater_headline_init_complete": "הגדרת גרסה {{version}} הושלמה. מפעיל את Wallpaper Engine...",
+	"core_updater_headline_update_complete": "עדכון גרסה {{version}} הושלם. מפעיל את Wallpaper Engine...",
+	"core_updater_headline_cancelled": "ההגדרה בוטלה."
 }
