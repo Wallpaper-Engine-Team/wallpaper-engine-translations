@@ -30,6 +30,8 @@
 	"core_msgbox_prompt_aero_win7": "על מנת ש-Wallpaper Engine יפעל בצורה תקינה נדרש להפעיל את הממשק הגרפי Aero. האם להפעיל את התוכנה?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine אינו יכול לפעול עם ערכת נושא בעלת 'ניגודיות גבוהה'. האם לנסות לאפס עבורך את ערכת הנושא?",
 	"core_msgbox_prompt_high_contrast_was_enabled": "Windows יישם ערכת נושא בעלת 'ניגודיות גובהה' אשר לא מאפשרת ל-Wallpaper Engine לפעול.",
+	"core_msgbox_high_contrast_white": "הפעלת את מצב 'חדות גבוהה' ב-Windows. מצב 'חדות גובהה' מונע מ-Wallpaper Engine להגדיר רקע דינמי בגלל האופן שהוא מובנה בתוך Windows.\n\nפתח ב-Windows את הגדרות מצב 'חדות גבוהה' או כבה אותו על מנת להשתמש ב-Wallpaper Engine.",
+	"core_msgbox_dwm_disabled": "הרכב שולחן העבודה כבוי.",
 	"core_msgbox_aero_denied": "Wallpaper Engine אינו יכול לפעול ללא Windows Aero ויסגר כעת.",
 	"core_msgbox_aero_failure": "הפעלת התוכנה Aero נכשלה.\n\nזה נראה ש-WIndows מונעת מהתוכנה מלפעול. לצערינו, זו דרישה חשובה ו-Wallpaper Engine אינו יכול לפעול בלעדיה.\n\nנסה להדליק את Aero ישירות בהגדרות של WIndows ולאחר מכן להפעיל מחדש את Wallpaper Engine.",
 	"core_msgbox_aero_failure_no_support": "הפעלת התוכנה Aero נכשלה. זה נראה שהינך משתמש בגרסה בסיסית של 7 Windows אשר לא תומכת בדרישות המינימליות של המערכת. אם תוכל להפעיל את Aero אז Wallpaper Engine יכול לפעול.",
