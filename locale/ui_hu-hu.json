@@ -1654,6 +1654,7 @@
 	"ui_editor_properties_generate": "Létrehozás",
 	"ui_editor_properties_geometry": "Geometria",
 	"ui_editor_properties_gravity": "Gravitáció",
+	"ui_editor_properties_greyscale": "Szürkeárnyalat",
 	"ui_editor_properties_hdr_background_brightness": "HDR háttér fényerő",
 	"ui_editor_properties_hdr_brightness": "HDR fényerő",
 	"ui_editor_properties_height": "Magasság",
