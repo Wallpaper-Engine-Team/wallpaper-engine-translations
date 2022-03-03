@@ -68,6 +68,11 @@
 	"core_updater_status_verify_file_missing": "קובץ חסר: {{filepath}}",
 	"core_updater_status_verify_file_cannot_open": "נכשלה פתיחת הקובץ: {{filepath}}",
 	"core_updater_status_verify_hash_failed": "נכשל אימות הקובץ: {{filepath}}",
+	"core_updater_status_verify_success": "מאמת את הקובץ: {{filepath}}",
 	"core_updater_status_verify_failed_message_box_title": "שגיאות אימות קובץ",
-	"core_updater_status_verify_failed_message_box_body": "נראה שלא היה ניתן להוריד מספר קבצים עבור Wallpaper Engine. זה יכול לקרות עקב שגיאת הורדה ב-[[[Platform]]] או תוכנות אנטי וירוס שמזהות קבצים באופן שגוי וגורמות לבעיות. אם ברשותך תוכנת אנטי וירוס מלבד Windows Defender, וודא שהיא לא מפריעה ל-[[[Platform]]] ו-Wallpaper Engine.\n\nוודא שהאפליקציה סגורה במהלך העדכון (סגור את סמל המגש או דרך מנהל המשימות במידת הצורך) ושאין תוכנת אנטי וירוס שמונעת מהמחשב שלך לפעול כהלכה.\n\nבמידה ותוכנת האנטי וירוס מחקה קבצים של Wallpaper Engine, עליך לשחזר ולאחסן אותם כנתיב של היישום כך שתוכנת האנטי וירוס תפסיק למחוק קבצים באופן אקראי."
+	"core_updater_status_verify_failed_message_box_body": "נראה שלא היה ניתן להוריד מספר קבצים עבור Wallpaper Engine. זה יכול לקרות עקב שגיאת הורדה ב-[[[Platform]]] או תוכנות אנטי וירוס שמזהות קבצים באופן שגוי וגורמות לבעיות. אם ברשותך תוכנת אנטי וירוס מלבד Windows Defender, וודא שהיא לא מפריעה ל-[[[Platform]]] ו-Wallpaper Engine.\n\nוודא שהאפליקציה סגורה במהלך העדכון (סגור את סמל המגש או דרך מנהל המשימות במידת הצורך) ושאין תוכנת אנטי וירוס שמונעת מהמחשב שלך לפעול כהלכה.\n\nבמידה ותוכנת האנטי וירוס מחקה קבצים של Wallpaper Engine, עליך לשחזר ולאחסן אותם כנתיב של היישום כך שתוכנת האנטי וירוס תפסיק למחוק קבצים באופן אקראי.",
+	"core_updater_status_compat": "מחפש אחר יישומים לא תואמים...",
+	"core_updater_status_compat_error": "תהליך סריקה נכשל",
+	"core_updater_status_compat_found": "נמצא תהליך תואם: {{processname}}",
+	"core_updater_status_compat_message_box_title": "נמצאו יישומים לא תואמים"
 }
