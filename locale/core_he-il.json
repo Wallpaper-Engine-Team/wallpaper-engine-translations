@@ -85,5 +85,12 @@
 	"core_updater_status_complete_errors": "ההתקנה הסתיימה עם שגיאות",
 	"core_updater_status_complete_starting": "פותח את Wallpaper Engine...",
 	"core_updater_status_cancelled": "התהליך בוטל על ידי המשתמש",
-	"core_updater_status_corrupted_system_module_message_box_title": "קובץ של המערכת חסר או פגום"
+	"core_updater_status_corrupted_system_module_message_box_title": "קובץ של המערכת חסר או פגום",
+	"core_updater_status_corrupted_system_module_message_box_body": "המערכת שלך פגומה או שחסר בה קבצים. Wallpaper Engine לא יכול לפעול כל עוד המחשב שלך אינו מותקן כהלכה. זאת בעיה במערכת ה-Windows שלך ולא בעיה ב-Wallpaper Engine.\n\nנסה לפתור את הבעיה באמצעות הצעדים הבאים:\n\n",
+	"core_updater_status_corrupted_system_module_message_box_body_delete": "-ראשית, מחק את הקבצים דרך סייר הקבצים של Windows:\n{{modules}}\n\n",
+	"core_updater_status_corrupted_system_module_message_box_body_install_directx": "-הורד מחדש את DirectX על ידי הרצת הקובץ הבא:\n{{installers}}\nלחילופין, באפשרותך להוריד את הקובץ דרך האתר של Microsoft.",
+	"core_updater_prompt_close": "Wallpaper Engine עדיין פועל ברקע, בבקשה סגור אותו תחילה. ממתין להליכים הבאים להסתיים:",
+	"core_updater_prompt_close_foreign": "Wallpaper Engine אינו יכול להשלים את העדכון כי כלל הנראה ישנה תוכנה אחרת אשר חוסמת את הקבצים. בבקשה סגור את התוכנות האלה על מנת להמשיך:",
+	"core_updater_status_directx_not_supported_title": "DirectX 10 אינו נתמך",
+	"core_updater_status_directx_not_supported_body": "נראה כי הכרטיס הגרפי שלך אינו תומך ב- DirectX 10 או שיש בעיה במנהל ההתקן הגרפי שלך. DirectX 10 היא דרישת מערכת כדי שיישום זה יפעל כהלכה.\n\nאם כרטיס המסך שלך אמור לתמוך ב-DirectX 10, ייתכן שמנהל ההתקן הגרפי הנוכחי שלך פגום. באפשרותך לנסות להתקין מחדש את מנהל ההתקן או ליצור קשר עם ספק החומרה שלך (Nvidia, AMD, Intel) כדי לפתור את זה."
 }
