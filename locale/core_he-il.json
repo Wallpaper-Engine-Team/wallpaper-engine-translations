@@ -55,6 +55,8 @@
 	"core_updater_status_closing_processes_wait_quit_terminate": "סוגר את {{program}}",
 	"core_updater_status_closing_processes_wait_quit_terminate_error": "סגירת {{program}} נכשלה",
 	"core_updater_status_distro": "מחלץ קבצים...",
+	"core_updater_status_distro_prepare_error": "התגלתה שגיאת 'Boost' במהלך סריקת תקיית המקור {{error}}",
+	"core_updater_status_distro_copy_error": "שגיאת 'Boost' במהלך העתקת קבצים {{error}}",
 	"core_updater_status_distro_missing": "חסרה תקיית הפצה",
 	"core_updater_status_distro_file_path_error": "נכשלה המרת נתיב הקובץ: {{error}}",
 	"core_updater_status_distro_file_directory": "צור תקייה: {{filepath}}",
@@ -74,5 +76,13 @@
 	"core_updater_status_compat": "מחפש אחר יישומים לא תואמים...",
 	"core_updater_status_compat_error": "תהליך סריקה נכשל",
 	"core_updater_status_compat_found": "נמצא תהליך תואם: {{processname}}",
-	"core_updater_status_compat_message_box_title": "נמצאו יישומים לא תואמים"
+	"core_updater_status_compat_message_box_title": "נמצאו יישומים לא תואמים",
+	"core_updater_status_compat_message_box_body": "האפליקציות הבאות פועלות על המכשיר שלך ועלולות לגרום ל-Wallpaper Engine לקרוס או להפוך את המערכת שלך ללא יציבה. הן כופות על Wallpaper Engine קוד שגורם לבעיות. וודא להוסיף את Wallpaper Engine לרשימת ההחרגות שלהן על ידי הוספת הקבצים: wallpaper32.exe ו-wallpaper64.exe אליהן.\n\n{{list}}",
+	"core_updater_status_compat_message_box_body_item_exclude": "{{name}}: מרחיק את Wallpaper Engine",
+	"core_updater_status_compat_message_box_body_item_update": "{{name}}: עדכון לגרסה {{version}}",
+	"core_updater_status_complete": "ההתקנה הסתיימה בהצלחה",
+	"core_updater_status_complete_errors": "ההתקנה הסתיימה עם שגיאות",
+	"core_updater_status_complete_starting": "פותח את Wallpaper Engine...",
+	"core_updater_status_cancelled": "התהליך בוטל על ידי המשתמש",
+	"core_updater_status_corrupted_system_module_message_box_title": "קובץ של המערכת חסר או פגום"
 }
