@@ -1,4 +1,10 @@
 {
+	"ui_caption_browse": "Wallpaper Engine {{version}} - [[[Platform]]] Edition",
+	"ui_caption_settings": "הגדרות",
+	"ui_caption_editor": "עורך רקעים",
+	"ui_ok": "אישור",
+	"ui_cancel": "ביטול",
+	"ui_back": "חזרה",
 	"ui_settings_playback": "השמעה",
 	"ui_settings_playback_focused": "אפליקציות אחרות ממורכזות:",
 	"ui_settings_playback_maximized": "אפליקציות אחרות מוגדלות:",
