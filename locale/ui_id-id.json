@@ -742,7 +742,7 @@
 	"ui_settings_advanced_high_precision_timers_hint": "Mengaktifkan opsi presisi tinggi akan mengurangi sendatan pada wallpaper adegan dan memberikan FPS yang lebih presisi dan konsisten. Opsi ini juga dapat memengaruhi penggunaan daya dan prosesor, oleh karena itu efek nya akan dikurangi pada perangkat laptop untuk mengurangi konsumsi daya ketika perangkat digunakan dalam mode baterai.",
 	"ui_settings_about_changelog": "Daftar Perubahan (Changelog)",
 	"ui_settings_about_community_hub": "Pusat Komunitas",
-	"ui_settings_about_faq": "Dukungan & Pertanyaan Yang Sering Diajukan (FAQ)",
+	"ui_settings_about_faq": "Dukungan & Soal Sering Ditanya (SSD)",
 	"ui_settings_plugins": "Plugin",
 	"ui_settings_plugins_options": "Opsi",
 	"ui_settings_plugins_status_loaded": "Telah dimuat",
