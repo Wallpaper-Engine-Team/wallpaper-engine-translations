@@ -2136,7 +2136,7 @@
 	"ui_editor_properties_show_all": "顯示全部",
 	"ui_editor_properties_show_bones": "顯示關節",
 	"ui_editor_properties_show_mask": "顯示遮罩",
-	"ui_editor_properties_show_seconds": "顯示秒數",
+	"ui_editor_properties_show_seconds": "显示秒数",
 	"ui_editor_properties_show_single": "顯示角度",
 	"ui_editor_properties_show_solid_mesh": "顯示實體網格",
 	"ui_editor_properties_show_vertices": "顯示頂點",
