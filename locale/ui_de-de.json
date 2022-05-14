@@ -400,6 +400,7 @@
 	"ui_browse_explore_your_wallpapers": "Deine Hintergründe",
 	"ui_browse_explore_friends_favorites": "Favoriten von Freunden",
 	"ui_browse_explore_friends_created": "Erstellt von Freunden",
+	"ui_browse_explore_category_creator_short": "{{user}}",
 	"ui_browse_explore_category_followed": "Von Nutzern denen du folgst",
 	"ui_browse_explore_category_friends_created": "Erstellt von Freunden",
 	"ui_browse_explore_category_friends_favorites": "Favoriten von Freunden",
