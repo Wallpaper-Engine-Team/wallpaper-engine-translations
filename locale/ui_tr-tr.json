@@ -1898,6 +1898,7 @@
 	"ui_editor_properties_distortion_speed": "Çarpıtma hızı",
 	"ui_editor_properties_distortion_strength": "Çarpıtma gücü",
 	"ui_editor_properties_distortion_width": "Çarpıtma genişliği",
+	"ui_editor_properties_double_sided": "Çift taraflı",
 	"ui_editor_properties_drag": "Sürükle",
 	"ui_editor_properties_draw": "Çiz",
 	"ui_editor_properties_duplicate_texture": "Dokuyu kopyala",
