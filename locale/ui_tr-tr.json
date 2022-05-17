@@ -1374,6 +1374,8 @@
 	"ui_editor_user_properties_delete_warning_message": "Eğer yayımlanmış bir duvar kağıdından varolan bir özelliği kaldırırsanız, diğer kullanıcıların duvar kağıdınızdan daha önce oluşturmuş olduğu herhangi bir ayarı ve ön ayarı bozarsınız.<br/><br/>Duvar kağıdını yalnızca çok yakın zamanda yayımlamadıysanız veya daha önce kullanılmayan bir kullanıcı özelliğini kaldırıyorsanız, buna kesinlikle karşı çıkmanızı öneririz.",
 	"ui_editor_user_properties_delete_warning_confirm": "Özelliği Sil",
 	"ui_editor_clean_project_modal_header": "Projeyi Temizle",
+	"ui_editor_clean_project_modal_hint": "Aşağıdaki varlıklar projeniz tarafından kullanılmamış görünüyor ve disk alanını azaltmak için silinebilir. Devam etmeden önce lütfen aşağıdaki silinecek dosyaların listesini iki kez gözden geçirin.",
+	"ui_editor_clean_project_modal_info": "Dosyalar geri dönüşüm kutusuna taşınacaktır ve gerekirse oradan geri yüklenebilir.",
 	"ui_editor_clean_project_modal_hint_empty": "Hiç kullanılmayan dosya bulunamadı.",
 	"ui_editor_clean_project_modal_confirm": "Dosyaları Sil",
 	"ui_editor_snapshot_instructions": "1. Fare ile bir dikdörtgen çizin.\n2. Anlık görüntü almak için enter tuşuna basın.\n\nDuraklatmak için Boşluk tuşuna basın.\n10 saniye geçmek için S tuşuna basın.\nİptal etmek için Esc tuşuna basın.",
