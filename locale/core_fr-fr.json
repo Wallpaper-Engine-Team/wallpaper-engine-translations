@@ -56,6 +56,8 @@
 	"core_updater_status_closing_processes_wait_quit_terminate": "Fermeture de {{program}}",
 	"core_updater_status_closing_processes_wait_quit_terminate_error": "Échec de la fermeture de {{program}}",
 	"core_updater_status_distro": "Copie des fichiers...",
+	"core_updater_status_distro_prepare_error": "Erreur du système de fichiers lors de l'analyse du dossier source {{error}}",
+	"core_updater_status_distro_copy_error": "Erreur du système de fichiers lors de la copie des fichiers {{error}}",
 	"core_updater_status_distro_missing": "Dossier de distribution manquant",
 	"core_updater_status_distro_file_path_error": "Échec de la conversion du chemin de fichier : {{error}}",
 	"core_updater_status_distro_file_directory": "Création du dossier : {{filepath}}",
