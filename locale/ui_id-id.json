@@ -836,6 +836,7 @@
 	"ui_settings_video_framework_prefer_chromium": "Chromium",
 	"ui_settings_video_framework_prefer_native": "Native",
 	"ui_settings_use_safe_mode": "Perlindungan terhadap galat:",
+	"ui_settings_use_safe_mode_hint": "Opsi ini akan menghentikan Wallpaper Engine dari pemuatan wallpaper yang saat ini dipilih setelah mengalami galat.<br/><br/>Jika berkas wallpaper diunduh oleh [[[Platform]]] mengalami kerusakan atau ada masalah dengan sebuah komponen inti sistem operasi Anda, opsi ini dapat membantu Anda untuk menghapus wallpaper yang rusak dan beralih ke yang benar.<br/><br/>Pada umumnya opsi ini tidak perlu dinonaktifkan. Jika Anda punya perangkat keras tetap atau masalah driver yang tidak dapat menghindari dari kegalatan program, Anda dapat menonaktifkan ini dan Wallpaper Engine akan memuat wallpaper terakhir kemudian bahkan setelah mengalami galat.",
 	"ui_settings_disable_slideshow": "Hapus transisi pudar Windows:",
 	"ui_settings_disable_slideshow_tip": "Ketika opsi ini aktif, Wallpaper Engine akan mencoba menghapus efek transisi pudar pada wallpaper yang Windows gunakan secara bawaan nya ketika mengubah wallpaper Windows dan saat masuk ke Windows. Menghapus perilaku Windows ini tidak sepenuhnya di hapus dan efek pudar mungkin masih terlihat berkedip untuk beberapa saat.",
 	"ui_settings_ui_hardware_acceleration": "Akselerasi perangkat keras UI:",
