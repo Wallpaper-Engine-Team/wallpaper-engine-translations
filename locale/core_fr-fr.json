@@ -19,6 +19,7 @@
 	"core_tray_playlist_prefix": "Playlist :",
 	"core_balloon_info": "Wallpaper Engine sera réduit dans votre barre d'outils. Double-cliquez sur l'icône pour sélectionner votre fond d'écran.",
 	"core_balloon_desktop_window_error": "Échec de préparation du bureau pour le fond d'écran.",
+	"core_balloon_video_error": "Erreur vidéo Windows : {{err}}. Cliquez ici pour ouvrir l'aide.",
 	"core_balloon_app_error": "Échec de chargement de l'application comme fond d'écran.",
 	"core_balloon_pkg_version_error": "Impossible d'ouvrir ce fond d'écran car il requiert une version plus récente de Wallpaper Engine. Essayez d'installer la dernière version via [[[Platform]]].",
 	"core_balloon_wallpaper_file_missing": "Impossible d'ouvrir ce fond d'écran à cause de fichiers manquants.",
