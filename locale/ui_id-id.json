@@ -600,6 +600,7 @@
 	"ui_browse_mobile_upload_modal_outdated_device_warning_message_some": "Beberapa wallpaper tidak dapat di unggah ke aplikasi seluler karena aplikasi nya kedaluwarsa.",
 	"ui_browse_mobile_upload_modal_outdated_device_warning_message_some_ext": "<br/><br/>Berikut wallpaper-wallpaper yang membutuhkan aplikasi seluler versi terbaru dan akan dilewati:",
 	"ui_browse_mobile_upload_modal_outdated_device_warning_message_all": "Semua wallpaper yang dipilih tidak dapat di unggah ke aplikasi seluler karena aplikasi nya kedaluwarsa.",
+	"ui_browse_mobile_upload_modal_outdated_device_warning_message_shared": "Mohon perbarui aplikasi seluler agar dapat mendukung fitur terbaru Wallpaper Engine.<br/><br/>Perlu di ingat bahwa beberapa toko aplikasi seluler membutuhkan beberapa hari untuk menerbitkan pembaruan aplikasi ke semua pengguna. Jika toko aplikasi Anda masih belum mendapatkan pembaruan untuk Anda, mohon bersabar untuk menunggu dan coba lagi nanti.",
 	"ui_browse_mobile_upload_cancel_title": "Pembatalan Pengunggahan Seluler",
 	"ui_browse_mobile_upload_cancel_body": "Apakah Anda yakin bahwa Anda ingin membatalkan semua pengunggahan ke perangkat seluler yang tertunda?",
 	"ui_browse_mobile_upload_unavailable_title": "Pemasangan Tidak Selesai",
