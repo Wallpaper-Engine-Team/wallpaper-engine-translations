@@ -1269,6 +1269,7 @@
 	"ui_editor_bone_constraints_ik_gravity_controller": "Usa il controller di orientamento",
 	"ui_editor_bone_constraints_ik_end_bone_rotation": "Ruota quando è troppo allungato",
 	"ui_editor_bone_constraints_ik_end_bone_rotation_distance": "Distanza di rotazione completa",
+	"ui_editor_bone_constraints_ik_end_bone_rotation_hint": "L'ultimo osso verrà ruotato verso il controller bersaglio quando la catena sarà stata allungata completamente. Ruota l'osso così che l'asse x (la freccia rossa) punti nella direzione più avanzata dell'arto per aggiustare l'allineamento.",
 	"ui_editor_bone_constraints_ik_constraints": "Vincoli CI",
 	"ui_editor_bone_constraints_ik_constraint_rotation_max": "Rotazione massima",
 	"ui_editor_bone_constraints_ik_constraint_rotation_min": "Rotazione minima",
