@@ -56,6 +56,8 @@
 	"core_updater_status_closing_processes_wait_quit_terminate": "正在關閉 {{program}}",
 	"core_updater_status_closing_processes_wait_quit_terminate_error": "無法關閉 {{program}}",
 	"core_updater_status_distro": "正在解壓縮檔案……",
+	"core_updater_status_distro_prepare_error": "掃描來源目錄時檔案系統發生錯誤 {{error}}",
+	"core_updater_status_distro_copy_error": "複製檔案時檔案系統發生錯誤 {{error}}",
 	"core_updater_status_distro_missing": "找不到發佈目錄",
 	"core_updater_status_distro_file_path_error": "無法轉換檔案路徑: {{error}}",
 	"core_updater_status_distro_file_directory": "正在建立目錄: {{filepath}}",
