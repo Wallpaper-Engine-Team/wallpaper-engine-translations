@@ -401,7 +401,7 @@
 	"ui_browse_explore_your_wallpapers": "วอลเปเปอร์ของคุณ",
 	"ui_browse_explore_friends_favorites": "รายการโปรดของเพื่อน",
 	"ui_browse_explore_friends_created": "สร้างโดยเพื่อน",
-	"ui_browse_explore_category_genre_popular": "วอลเปเปอร์<b>{{genre}}</b>ยอดนิยม",
+	"ui_browse_explore_category_genre_popular": "วอลเปเปอร์ <b>{{genre}}</b> ยอดนิยม",
 	"ui_browse_explore_category_genre_popular_approved": "วอลเปเปอร์<b>แนะนำ</b>ยอดนิยม",
 	"ui_browse_explore_category_genre_recent": "วอลเปเปอร์<b>{{genre}}</b>ล่าสุด",
 	"ui_browse_explore_category_genre_recent_approved": "วอลเปเปอร์<b>แนะนำ</b>ล่าสุด",
