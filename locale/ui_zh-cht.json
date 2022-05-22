@@ -856,6 +856,7 @@
 	"ui_settings_restore_override_lockscreen_title": "還原 Windows 鎖定畫面",
 	"ui_settings_restore_override_lockscreen_message": "您正在停用 Windows 鎖定畫面圖像覆寫選項。是否要還原第一次啟用此選項時 Wallpaper Engine 所儲存的 Windows 鎖定畫面圖像？",
 	"ui_settings_enable_vdesktop_support": "虛擬桌布支援：",
+	"ui_settings_enable_vdesktop_support_hint": "<b>實驗性</b><br/><br/>此選項將可為每個虛擬桌面設定不同桌布。虛擬桌面支援需要 Windows 10 (21H2 或更新版本) 或 Windows 11。",
 	"ui_settings_copyright": "保留一切權利。",
 	"ui_settings_thirdparty": "第三方聲明",
 	"ui_settings_thirdparty_licenses": "授權",
