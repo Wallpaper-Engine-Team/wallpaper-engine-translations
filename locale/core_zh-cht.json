@@ -19,6 +19,7 @@
 	"core_tray_playlist_prefix": "播放清單：",
 	"core_balloon_info": "Wallpaper Engine 已最小化至您的系統匣。按兩下系統匣圖示以選取桌布。",
 	"core_balloon_desktop_window_error": "動態桌布的桌面準備失敗。",
+	"core_balloon_video_error": "Windows 視訊發生錯誤：{{err}}。請按一下這裡以取得說明。",
 	"core_balloon_app_error": "應用程式載入為背景作業失敗。",
 	"core_balloon_pkg_version_error": "需要較新版本的 Wallpaper Engine 才能開啟此桌布。請嘗試透過 [[[Platform]]] 安裝最新版本。",
 	"core_balloon_wallpaper_file_missing": "無法開啟此桌布，因為找不到它的檔案。",
