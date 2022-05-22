@@ -1189,6 +1189,8 @@
 	"ui_editor_bone_constraints_max_torque": "最大扭力",
 	"ui_editor_bone_constraints_min_angle": "最小角度",
 	"ui_editor_bone_constraints_modal_header": "關節約束",
+	"ui_editor_bone_constraints_modal_tab_physics": "物理",
+	"ui_editor_bone_constraints_modal_tab_blending": "混合規則",
 	"ui_editor_bone_constraints_not_simulated": "未模擬",
 	"ui_editor_bone_constraints_physics_rotation": "物理旋轉",
 	"ui_editor_bone_constraints_physics_translation": "物理平移",
