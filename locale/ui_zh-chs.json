@@ -857,6 +857,7 @@
 	"ui_settings_restore_override_lockscreen_message": "您正在禁用 Windows 锁屏图像覆盖选项。是否要恢复第一次启用此选项时 Wallpaper Engine 保存的 Windows 锁屏图像？",
 	"ui_settings_enable_vdesktop_support": "虚拟桌面支持：",
 	"ui_settings_enable_vdesktop_support_hint": "<b>试验</b><br/><br/>此选项允许您为每个虚拟桌面设置不同的壁纸。虚拟桌面支持需要 Windows 10（21H2 更新或以上版本）或 Windows 11。",
+	"ui_settings_enable_vdesktop_support_hint_win11": "<br/><br/><b>Windows 11 通知：</b>Microsoft 仍在努力开发 Windows 11 上的新虚拟桌面功能。这意味着，未来推出的 Windows 更新会出现需要通过 Wallpaper Engine 更新解决的问题。请注意，我们无法在 Windows 测试版本（Windows Insider Preview）中提供问题更新，因为 Microsoft 经常更改。",
 	"ui_settings_copyright": "保留所有权利。",
 	"ui_settings_thirdparty": "第三方通告",
 	"ui_settings_thirdparty_licenses": "许可证",
