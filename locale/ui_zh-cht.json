@@ -1087,6 +1087,7 @@
 	"ui_editor_workshop_modal_rating_body": "請參閱此表以選取適當的內容分級。若有疑慮，請選擇較嚴格的級別選項。若上傳非法內容或選擇過低分級，可能導致該內容遭禁用，帳戶亦會被標記。請注意，若桌布僅為自用，則無須上傳。",
 	"ui_editor_workshop_modal_rating_no_rating_info_header": "合適的內容",
 	"ui_editor_workshop_modal_rating_no_rating_info_body": "請確保您上傳的任何內容都適合所有人！如果您上傳任何爭議性或非法的內容，則可能會禁止此作品或您賬戶的上傳功能。",
+	"ui_editor_workshop_modal_rating_body_preview_warning_title": "預覽圖像",
 	"ui_editor_open_modal_header": "開啟桌布",
 	"ui_editor_open_modal_delete": " 刪除",
 	"ui_editor_context_menu_center": "置中",
