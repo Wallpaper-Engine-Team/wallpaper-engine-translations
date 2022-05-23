@@ -374,6 +374,7 @@
 	"ui_browse_query_error": "Ocorreu um erro na rede [[[Platform]]], tente novamente mais tarde: {{error}}",
 	"ui_browse_modal_safe_mode_header": "Inicialização segura",
 	"ui_browse_modal_safe_mode_body": "Parece que o programa não foi encerrado corretamente, os últimos wallpapers e plugins ainda não foram carregados para evitar que o problema se repita.<br/><br/>Clique em OK para restaurá-los agora ou em Cancelar para alterá-los primeiro.",
+	"ui_browse_use_safe_mode": "Proteger contra bloqueios",
 	"ui_browse_query_sort_by_votes": "Melhores classificações",
 	"ui_browse_query_sort_by_date": "Mais recentes",
 	"ui_browse_query_sort_by_trend_today": "Mais populares (Hoje)",
