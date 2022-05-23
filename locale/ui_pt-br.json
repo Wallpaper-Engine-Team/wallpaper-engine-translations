@@ -857,6 +857,7 @@
 	"ui_settings_restore_override_lockscreen_message": "Você está desabilitando a opção de substituir a imagem da tela de bloqueio do Windows. Gostaria de restaurar a imagem da tela de bloqueio do Windows que Wallpaper Engine salvou quando você habilitou esta opção?",
 	"ui_settings_enable_vdesktop_support": "Suporte de área de trabalho virtual:",
 	"ui_settings_enable_vdesktop_support_hint": "<b>Experimental</b><br/><br/>Esta opção permite definir diferentes papéis de parede por área de trabalho virtual. O suporte de área de trabalho virtual requer Windows 10 (atualização 21H2 ou mais recente) ou Windows 11.",
+	"ui_settings_enable_vdesktop_support_hint_win11": "<br/><br/><b>Aviso do Windows 11:</b> A Microsoft ainda está trabalhando em novos recursos para a área de trabalho virtual no Windows 11. Isso significa que ocorrerão problemas com as próximas atualizações do Windows que precisarão ser resolvidas com uma atualização de Wallpaper Engine. Observe que não podemos fornecer atualizações para problemas como parte das versões de teste do Windows (Windows Insider Preview), pois a Microsoft realiza alterações com frequência.",
 	"ui_settings_copyright": "Todos os direitos reservados.",
 	"ui_settings_thirdparty": "Avisos de terceiros",
 	"ui_settings_thirdparty_licenses": "Licenças",
