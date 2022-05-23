@@ -374,6 +374,7 @@
 	"ui_browse_query_error": "Произошла сетевая ошибка [[[Platform]]], повторите попытку позже: {{error}}",
 	"ui_browse_modal_safe_mode_header": "Безопасный запуск",
 	"ui_browse_modal_safe_mode_body": "Похоже, что программа была завершена некорректно, последние обои и плагины ещё не загружены для предотвращения повторения ошибки.<br/><br/>Нажмите OK, чтобы восстановить их сейчас, или \"Отмена\", чтобы сначала сменить их.",
+	"ui_browse_use_safe_mode": "Защита от сбоев",
 	"ui_browse_query_sort_by_votes": "Лидеры рейтинга",
 	"ui_browse_query_sort_by_date": "Недавно добавленные",
 	"ui_browse_query_sort_by_trend_today": "Популярные (Сегодня)",
