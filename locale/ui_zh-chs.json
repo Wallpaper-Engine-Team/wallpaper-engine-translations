@@ -504,7 +504,7 @@
 	"ui_browse_report_modal_genre_current": "当前样式",
 	"ui_browse_report_modal_genre_label": "建议新样式",
 	"ui_browse_report_modal_category_rating": "裸露或暴力",
-	"ui_browse_report_modal_category_rating_description": "您正在举报此壁纸使用不正确的分级且违反了裸露和暴力条例。如果壁纸不能被标记为“PG-13”或“R-18”，请选择“禁止”选项，这将导致该壁纸被移除。",
+	"ui_browse_report_modal_category_rating_description": "您正在举报此壁纸使用不正确的分级且违反了裸露和暴力条例。如果壁纸不能被标记为“家长指导级”或“限制级/成人级”，请选择“禁止”选项，这将导致该壁纸被移除。",
 	"ui_browse_report_modal_rating_current": "当前分级",
 	"ui_browse_report_modal_rating_label": "建议新分级",
 	"ui_browse_report_modal_category_copyright": "侵犯版权",
