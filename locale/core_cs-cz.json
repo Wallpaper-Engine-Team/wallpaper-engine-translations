@@ -19,6 +19,7 @@
 	"core_tray_playlist_prefix": "Seznam:",
 	"core_balloon_info": "Aplikace Wallpaper Engine minimalizována na lištu. Pokud chcete vybrat pozadí, dvakrát klikněte na ikonu na liště.",
 	"core_balloon_desktop_window_error": "Chyba připravování plochy pro živé pozadí.",
+	"core_balloon_video_error": "U videa nastala chyba: {{err}}. Klikni zde pro nápovědu.",
 	"core_balloon_app_error": "Chyba při načítání aplikace jako pozadí.",
 	"core_balloon_pkg_version_error": "Toto pozadí nelze otevřít, protože je potřeba novější verze aplikace Wallpaper Engine. Zkuste prostřednictvím služby [[[Platform]]] nainstalovat nejnovější verzi.",
 	"core_balloon_wallpaper_file_missing": "Toto pozadí nelze otevřít, protože chybí jeho soubory.",
