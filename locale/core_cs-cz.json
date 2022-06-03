@@ -55,6 +55,8 @@
 	"core_updater_status_closing_processes_wait_quit_terminate": "Zavírání {{program}}",
 	"core_updater_status_closing_processes_wait_quit_terminate_error": "Nepodařilo se zavřít {{program}}",
 	"core_updater_status_distro": "Rozbalování souborů...",
+	"core_updater_status_distro_prepare_error": "Při skenování zdrojového adresáře nastala chyba {{error}}",
+	"core_updater_status_distro_copy_error": "Při kopírování souborů došlo k chybě {{error}}",
 	"core_updater_status_distro_missing": "Chybějící zdrojová složka",
 	"core_updater_status_distro_file_path_error": "Nepodařilo se převést adresářovou cestu: {{error}}",
 	"core_updater_status_distro_file_directory": "Vytváření: {{filepath}}",
