@@ -1640,6 +1640,7 @@
 	"ui_editor_effect_swing_title": "تاب خوردن",
 	"ui_editor_effect_swing_description": "یک شی را در منظر به جلو و عقب می چرخاند.",
 	"ui_editor_effect_twirl_title": "چرخش",
+	"ui_editor_effect_twirl_description": "اعوجاج مارپیچی متحرک را روی تصویر اعمال می کند.",
 	"ui_editor_preset_variant_small": "کوچک",
 	"ui_editor_preset_variant_large": "بزرگ",
 	"ui_editor_preset_foliage_title": "شاخ و برگ",
