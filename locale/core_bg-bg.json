@@ -83,6 +83,7 @@
 	"core_updater_status_complete_starting": "Стартиране на Wallpaper Engine...",
 	"core_updater_status_cancelled": "Процесът беше отменен от потребителя",
 	"core_updater_status_corrupted_system_module_message_box_title": "Системният модул НЕ може да бъде зареден",
+	"core_updater_status_corrupted_system_module_message_box_body": "Вашата система е повредена или ѝ липсват файлове. Wallpaper Engine не може да работи, освен ако компютърът ви не е инсталиран правилно. Това е проблем с вашия Windows, а не е грешка в Wallpaper Engine.\n\nОпитайте се да оправите компютъра, следвайки тези стъпки:\n\n",
 	"core_updater_status_corrupted_system_module_message_box_body_delete": "- Първо, изтрийте тези файлове през Explorer на Windows:\n{{modules}}\n\n",
 	"core_updater_status_corrupted_system_module_message_box_body_install_directx": "- Преинсталирайте DirectX, отивайки към този файл и го стартирайте:\n{{installers}}\nСъщо така може отново да свалите DirectX 9 от уебсайта на Майкрософт.",
 	"core_updater_prompt_close": "Wallpaper Engine все още работи, моля затворете го първо. Изчакване за приключването на тези процеси:",
