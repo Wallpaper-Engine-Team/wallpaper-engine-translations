@@ -34,7 +34,7 @@
 	"ui_modal_installationpath_disable_auto_start": "تعطيل البدء التلقائي",
 	"ui_modal_trial_version_start_title": "النسخة التجريبية",
 	"ui_modal_trial_version_start_body": "شكرا لإستخدامك Wallpaper Engine، نتمنى أنه نال على إعجابك. النسخة التجريبية ستنتهي تلقائيا بعد {{hrs}} ساعات من الاستخدام.<br/><br/> في حال وجود استفسارات أو أي مشاكل تقنية، يرجى القاء نظرة على موقعنا الالكتروني لأنه يغطي أغلب المواضيع بالتفصيل: <a href='[[[var_url_faq]]]'>help.wallpaperengine.io</a>",
-	"ui_modal_trial_version_start_open_store_page": "إفتح صقحة المتجر",
+	"ui_modal_trial_version_start_open_store_page": "إفتح صفحة المتجر",
 	"ui_modal_pagination_enter_page_title": "أدخل رقم الصفحة",
 	"ui_alert_connect_steam": "<b> لا يمكن اجراء اتصال المره الاولى بـ[[[Platform]]] </b><br/><br/><b> لإزالة هذه الرسالة للأبد عليك أن:</b> تتأكد أن [[[Platform]]] يعمل و انك لا تزال قيد تسجيل الدخول في حساب [[[Platform]]] الصحيح ومن ثم إعادة تشغيل محرك الخلفيات. إذا كنت بحاجة الى المساعدة في حل مشكلة [[[Platform]]] هذه، عليك زيارة صفحة الاسئلة المتكررة: <a href='[[[var_url_faqsteam]]]'> اصلاح اتصال [[[Platform]]] </a><br/><br/><b> في حال أنك لا تملك نسخة أصلية من محرك الخلفيات </b> نرجوا أن تفكر بدعمنا. لقد قمنا بوضع سعر مناسب جدا لمحرك الخلفيات ليستطيع الجميع شراءه. لقد بذلنا ألاف الساعات في هذا التطبيق، بشراء محرك الخلفيات أنت تدعم تطويره المستمر، تحصل على آخر التحديثات، تساعد في دفع تكاليف الخوادم و تتمكن من تحميل الخلفيات عبر [[[Platform]]] بسهولة: <a href='[[[var_url_store]]]'> اضغط هنا لشراء محرك الخلفيات على [[[Platform]]]</a><br/><br/> هذه الرسالة <b>لن<b> تظهر مجددا بعد بدء محرك الخلفيات عبر [[[Platform]]] مجددا.",
 	"ui_overlay_connecting_provider": "جاري الاتصال بـ[[[Platform]]]...",
@@ -58,8 +58,8 @@
 	"ui_browse_filter_all": "الكل",
 	"ui_browse_filter_none": "لا شيء",
 	"ui_browse_filter_suggestions": "المقترحات",
-	"ui_browse_grid_no_results": "لا توجد خلفيات مطابقة لمعاييرك. <br/> قم بتوسعة او اعادة ضبط التصنيفات في شريط التصفية الجانبي أو قم بالبحث عن مصطلح آخر.",
-	"ui_browse_grid_no_results_generic": "لا توجد خلفيات مطابقة لمعاييرك. <br/> قم بتوسعة أو إعادة ضبط التصنيفات في شريط التصفية الجانبي أو قم بالبحث عن مصطلح آخر.",
+	"ui_browse_grid_no_results": "لا توجد خلفيات مطابقة لمعاييرك.<br/>قم بتوسعة او اعادة ضبط التصنيفات في شريط التصفية الجانبي أو قم بالبحث عن مصطلح آخر.",
+	"ui_browse_grid_no_results_generic": "لا توجد خلفيات مطابقة لمعاييرك.<br/>قم بتوسعة أو إعادة ضبط التصنيفات في شريط التصفية الجانبي أو قم بالبحث عن مصطلح آخر.",
 	"ui_browse_grid_no_results_refreshing": "بإنتظار [[[Platform]]] للإستجابة...",
 	"ui_browse_status_error": "خطأ",
 	"ui_browse_select_prompt": "الرجاء اختيار خلفية",
@@ -98,17 +98,17 @@
 	"ui_browse_details_rate": "تقييم",
 	"ui_browse_details_btn_workshop": "Workshop",
 	"ui_browse_details_btn_unsubscribe": "إلغاء الاشتراك",
-	"ui_browse_details_btn_download": "تنزيل",
-	"ui_browse_details_btn_remove_from_history": "حذف من التاريخ",
-	"ui_browse_details_btn_report": "تقرير",
+	"ui_browse_details_btn_download": "اشتراك",
+	"ui_browse_details_btn_remove_from_history": "حذف",
+	"ui_browse_details_btn_report": "تبليغ",
 	"ui_browse_details_btn_copy_url": "نسخ الرابط",
 	"ui_browse_details_btn_open_in_editor": "الفتح في المُعدل",
 	"ui_browse_details_btn_comment": "علِق",
 	"ui_browse_details_btn_send_to_mobile_device": "إرسال الى {{device}}",
 	"ui_browse_details_local_editor_hint": "فتح الخلفية في المُعدل لتعديلها او حذفها.",
 	"ui_browse_details_toast_url_copied": "تم نسخ الرابط!",
-	"ui_browse_details_properties": "Properties",
-	"ui_browse_details_properties_reset": "إعادة الضبط",
+	"ui_browse_details_properties": "خصائص",
+	"ui_browse_details_properties_reset": "اعادة ضبط",
 	"ui_browse_details_properties_reset_prompt_header": "إعادة ضبط الخصائص",
 	"ui_browse_details_properties_reset_prompt_body": "هل تريد إعادة ضبط الخصائص الحالية إلى الإعدادات الافتراضية الخاصة بها؟",
 	"ui_browse_details_properties_nothing_imported": "لم يتم استيراد شيء",
@@ -135,7 +135,7 @@
 	"ui_browse_footer_btn_open_wallpaper": "فتح خلفية",
 	"ui_browse_footer_btn_create_new_wallpaper": "إنشاء خلفية جديدة (التحريك والمشاركة)",
 	"ui_browse_footer_btn_open_animated_wallpaper": "فتح خلفية اوفلاين (متحركة)",
-	"ui_browse_footer_btn_open_static_wallpaper": "فتح صورة خلفية (بدون تحركات)",
+	"ui_browse_footer_btn_open_static_wallpaper": "فتح صورة الخلفية (غير متحركة)",
 	"ui_browse_footer_btn_open_wallpaper_in_gallery": "استيراد خلفية اوفلاين",
 	"ui_browse_footer_btn_open_wallpaper_in_gallery_static": "استيراد خلفية ثابتة <br/><b>بدون تحريك</b>",
 	"ui_browse_footer_btn_open_wallpaper_in_editor": "استيراد الى المُعدل<br/><b>تحريك</b> و <b>مشاركة</b>",
@@ -198,14 +198,14 @@
 	"ui_browse_sort_favorite": "المفضلة",
 	"ui_browse_sort_filesize": "حجم الملف",
 	"ui_browse_sort_subscription_date": "تاريخ الاشتراك",
-	"ui_browse_sort_last_updated": "اخر تحديث",
+	"ui_browse_sort_last_updated": "التحديث الأخير",
 	"ui_browse_search_placeholder": "بحث",
 	"ui_browse_search_exact_match": "العبارة بالضبط",
 	"ui_browse_filter_category_wallpaper": "خلفية",
 	"ui_browse_filter_category_preset": "إعدادات مسبقة",
 	"ui_browse_filter_type_scene": "مشهد",
 	"ui_browse_filter_type_video": "فيديو",
-	"ui_browse_filter_type_web": "شبكة",
+	"ui_browse_filter_type_web": "ويب",
 	"ui_browse_filter_type_application": "برنامج",
 	"ui_browse_filter_source_any": "الكل",
 	"ui_browse_filter_source_official": "رسمي",
@@ -225,15 +225,15 @@
 	"ui_browse_modal_remove_local_header": "حذف من السجل",
 	"ui_browse_modal_remove_local_body": "هل أنت متأكد من رغبتك من حذف الخلفية: <b>{{title}}</b>؟",
 	"ui_browse_modal_remove_preset_info": "<br/><br/>الإعدادات مسبقة التالية تعتمد على الخلفية/الخلفيات التي تحاول الغاء الاشتراك منها وسوف تُحذف معها كذلك:<b>{{presets}}</b>",
-	"ui_browse_modal_subscribe_preset_header": "الإشتراك في إعدادات الخلفية المسبقة",
+	"ui_browse_modal_subscribe_preset_header": "الإشتراك في إعدادات خلفية مسبقة",
 	"ui_browse_modal_subscribe_preset_body": "الخلفية <b>{{title}}</b> هي إعدادات مسبقة لخلفية أخرى لذلك فإنك تحتاج الاشتراك اليها لاستخدامها.<br/><br/> الإشتراك للإثنان الان؟",
 	"ui_browse_modal_subscribe_preset_open_dependency": "فتح المتطلبات",
 	"ui_browse_open_url_header": "فتح خلفية من رابط",
 	"ui_browse_open_url_name": "الاسم",
 	"ui_browse_open_url_hotkey_info": "لإستخدام الكيبورد على الخلفية، اخفي هذه الايقونات بواسطة هذا الاختصار اولًا:",
-	"ui_browse_open_url_livestream_info": "قم بتمكين <b> وضع البث المباشر </b> إذا كان عنوان URL الذي تحاول تحميله يحتوي على بث فيديو مباشر. قد لا تعمل بعض ميزات محرك الخلفيات بشكل صحيح في وضع البث المباشر.",
-	"ui_browse_open_url_livestream_checkbox": "استخدام مود البث المباشر",
-	"ui_browse_open_url_livestream_warning": "<b> يرجى الملاحظة:</b> أنت تفتح عنوان URL هذا باستخدام متصفح إيدج WebView البديل مع مجموعة محدودة من الميزات، وقد لا تعمل العديد من ميزات محرك الخلفيات بشكل صحيح مع تمكين وضع البث المباشر.<br/><br/><b>يجب استخدام هذا الخيار فقط إذا كنت تنوي استخدام بث مباشر كخلفية </b>.",
+	"ui_browse_open_url_livestream_info": "قم بتمكين <b>وضع البث المباشر</b> إذا كان عنوان URL الذي تحاول تحميله يحتوي على بث فيديو مباشر. قد لا تعمل بعض ميزات محرك الخلفيات بشكل صحيح في وضع البث المباشر.",
+	"ui_browse_open_url_livestream_checkbox": "استخدام وضع البث المباشر",
+	"ui_browse_open_url_livestream_warning": "<b>يرجى الملاحظة:</b> أنت تفتح عنوان URL هذا باستخدام متصفح إيدج WebView البديل مع مجموعة محدودة من الميزات، وقد لا تعمل العديد من ميزات محرك الخلفيات بشكل صحيح مع تمكين وضع البث المباشر.<br/><br/><b>يجب استخدام هذا الخيار فقط إذا كنت تنوي استخدام بث مباشر كخلفية</b>.",
 	"ui_browse_open_url_livestream_runtime_modal_title": "تثبيت Edge WebView",
 	"ui_browse_open_url_livestream_runtime_modal_message": "تحتاج إلى تثبيت وقت تشغيل متصفح الويب إيدج WebView قبل أن تتمكن من استخدام وضع البث المباشر. هل تريد تثبيت وقت التشغيل الآن؟<br/><br/>يمكنك أيضًا تعطيل ملف<b>استخدم وضع البث المباشر</b>الخيار في إعدادات URL بدلًا من ذلك.",
 	"ui_browse_modal_proceed": "مواصلة",
@@ -255,7 +255,7 @@
 	"ui_browse_modal_screensaver_install_error_header": "فشل تثبيت شاشة التوقف",
 	"ui_browse_modal_screensaver_install_error_body": "فشل Wallpaper Engine في تثبيت شاشة التوقف.<br/><br/>تأكد ان مانع الفايروسات لا يعارض ويمنع البرنامج من تثبيت ملفات شاشة التوقف.<br/><br/>لمزيد من المساعدة: <a href='[[[var_url_faqscreensaver]]]'>إصلاح تثبيث شاشة التوقف</a>",
 	"ui_browse_modal_windows_10_warning_title": "مطلوب نظام تشغيل ويندوز 10 أو أحدث",
-	"ui_browse_modal_windows_10_warning_message": "الخلفية <b>{{title}}</b>تستخدم ميزات الفيديو الحديثة التي تتطلب ويندوز 10 أو إصدار أحدث ولا يمكن استخدامها على هذا الكمبيوتر.<br/><br/>استخدم ورشة العمل المدمجة للعثور على خلفيات جديدة مع إخفاء الخلفيات غير المتوافقة تلقائيًا.",
+	"ui_browse_modal_windows_10_warning_message": "الخلفية <b>{{title}}</b> تستخدم ميزات الفيديو الحديثة التي تتطلب ويندوز 10 أو إصدار أحدث ولا يمكن استخدامها على هذا الكمبيوتر.<br/><br/>استخدم الوورك شوب المدمج للعثور على خلفيات جديدة مع إخفاء الخلفيات غير المتوافقة تلقائيًا.",
 	"ui_browse_properties_scheme_color": "لون التخطيط",
 	"ui_browse_properties_playback_rate": "معدل سرعة التشغيل",
 	"ui_browse_properties_volume": "الصوت",
@@ -377,10 +377,10 @@
 	"ui_browse_use_safe_mode": "الحماية ضد العطب",
 	"ui_browse_query_sort_by_votes": "الاعلى تقييما",
 	"ui_browse_query_sort_by_date": "الاحدث",
-	"ui_browse_query_sort_by_trend_today": "(الاكثر شعبية (اليوم",
-	"ui_browse_query_sort_by_trend_last_week": "(الاكثر شعبية (اسبوع",
-	"ui_browse_query_sort_by_trend_last_month": "الاكثر شعبية (شهر)",
-	"ui_browse_query_sort_by_trend_year": "(الاكثر شعبية (سنة",
+	"ui_browse_query_sort_by_trend_today": "الاكثر شعبية (اليوم)",
+	"ui_browse_query_sort_by_trend_last_week": "الاكثر شعبية (هذا الاسبوع)",
+	"ui_browse_query_sort_by_trend_last_month": "الاكثر شعبية (هذا الشهر)",
+	"ui_browse_query_sort_by_trend_year": "الاكثر شعبية (هذه السنة)",
 	"ui_browse_query_sort_my_favorites": "المفضلة",
 	"ui_browse_query_sort_voted_up": "مصوت له",
 	"ui_browse_query_sort_friends_favorites": "المفضلة لدى الاصدقاء",
@@ -433,7 +433,7 @@
 	"ui_browse_explore_category_seasonal_collection_fall": "خلفيات خريفية {{emoji}} موصى بها",
 	"ui_browse_explore_category_seasonal_collection_halloween": "خلفيات هالوين {{emoji}} موصى بها",
 	"ui_browse_explore_category_seasonal_collection_winter": "خلفيات شتوية {{emoji}} موصى بها",
-	"ui_browse_explore_category_mobile": "يجب أن يمتلكها الهاتف {{emoji}}",
+	"ui_browse_explore_category_mobile": "يجب أن تمتلكها في هاتفك {{emoji}}",
 	"ui_browse_explore_category_highlighted_creators": "</b>منشئو محتوى<b> مميزون {{emoji}}",
 	"ui_browse_explore_category_highlighted_collections": "</b>تجميعات<b> مميزة {{emoji}}",
 	"ui_browse_explore_server_error": "تعذر الاتصال بسيرفرات Wallpaper Engine لجلب قوائم إضافية.",
@@ -442,7 +442,7 @@
 	"ui_browse_explore_create_query_modal_category": "الفئة",
 	"ui_browse_explore_create_query_modal_type": "فرز حسب",
 	"ui_browse_explore_create_query_modal_keyword": "كلمة مفتاحية",
-	"ui_browse_explore_create_query_modal_user_steam_id": "اي [[[Platform]]] لليوزر",
+	"ui_browse_explore_create_query_modal_user_steam_id": "اي دي [[[Platform]]] لليوزر",
 	"ui_browse_explore_create_query_modal_collection_id": "اي دي المجموعة",
 	"ui_browse_explore_create_query_modal_creator": "المصمم",
 	"ui_browse_explore_create_query_modal_collection": "مجموعة",
@@ -478,7 +478,7 @@
 	"ui_browse_context_menu_change_color": "تغيير اللون",
 	"ui_browse_context_menu_default": "افتراضي",
 	"ui_browse_context_menu_play_in_window": "فتح في نافذة خارجية",
-	"ui_browse_context_menu_report": "تقرير",
+	"ui_browse_context_menu_report": "تبليغ",
 	"ui_browse_context_menu_replace_with_selection": "استبدل بالمحددة",
 	"ui_browse_context_menu_choose_preset": "اختر إعدادات مسبقة",
 	"ui_browse_context_menu_remove_preset": "حذف إعدادات مسبقة",
@@ -496,9 +496,9 @@
 	"ui_browse_context_menu_mobile_type_not_supported": "نوع الخلفية غير مدعوم على أجهزة الأندرويد",
 	"ui_browse_context_menu_add_favorite": "أضف إلى المفضلات",
 	"ui_browse_context_menu_remove_favorite": "أزِل من المفضلات",
-	"ui_browse_report_modal_header": "تقرير الخلفية:",
-	"ui_browse_report_modal_submit": "إرسال التقرير",
-	"ui_browse_report_modal_category_label": "سبب التقرير",
+	"ui_browse_report_modal_header": "بلاغ على الخلفية:",
+	"ui_browse_report_modal_submit": "إرسال البلاغ",
+	"ui_browse_report_modal_category_label": "سبب البلاغ",
 	"ui_browse_report_modal_category_genre": "نوع خاطئ",
 	"ui_browse_report_modal_category_genre_description": "أنت تقوم بالإبلاغ عن هذه الخلفية لاستخدامها علامة نوع غير صحيحة. يرجى النظر في النوع الذي يناسب الخلفية بشكل أفضل عن طريق اختيار ما يمكنك \"رؤيته\" وليس ما \"تعرفه\" عن هذه الخلفية شخصيًا.",
 	"ui_browse_report_modal_genre_current": "النوع الحالي",
@@ -510,29 +510,29 @@
 	"ui_browse_report_modal_category_copyright": "ينتهك حقوق التأليف والنشر",
 	"ui_browse_report_modal_category_copyright_description": "الرجاء استخدام استمارة قانون الألفية للملكية الرقميَّة (DMCA) الخاصة بـ[[[Platform]]] لانتهاكات حقوق النشر، سيضمن هذا التعامل بالطريقة الصحيحة قانونيًا.",
 	"ui_browse_report_modal_copyright_dispute": "ملف النزاع DMCA",
-	"ui_browse_report_modal_category_spam": "رسائل غير مرغوب فيها",
-	"ui_browse_report_modal_category_spam_description": "تقوم بالإبلاغ عن هذه الخلفية للرسائل غير المرغوب فيها من قبل المؤلف.",
+	"ui_browse_report_modal_category_spam": "سبام",
+	"ui_browse_report_modal_category_spam_description": "تقوم بالإبلاغ عن هذه الخلفية لمافيها من ازعاج (سبام) من قبل المؤلف.",
 	"ui_browse_report_modal_category_offensive": "محتوى مسيء",
 	"ui_browse_report_modal_category_offensive_description": "أنت تبلغ عن هذه الخلفية لاحتوائها على محتوى مسيء. لا تستخدم هذا الخيار للإبلاغ عن العُري، وبدلاً من ذلك حدد الخيار \"تصنيف المحتوى خاطئ\".",
 	"ui_browse_report_modal_category_other": "أخرى",
 	"ui_browse_report_modal_category_other_description": "يرجى اختيار الفئة المناسبة قبل تقديم تقريرك! إذا لم يكن مناسبًا لأي مكان آخر، فاستخدم هذه الفئة.",
 	"ui_browse_report_modal_notes": "الملاحظات",
-	"ui_browse_report_modal_success": "تم إرسال التقرير بنجاح!",
+	"ui_browse_report_modal_success": "تم إرسال البلاغ بنجاح!",
 	"ui_browse_report_modal_error": "فشل إرسال التقرير. قد يكون الخادم غير متصل أو يتعذر الوصول إليه أو أنه يخضع للصيانة. حاول مرة أخرى في وقت لاحق.",
 	"ui_browse_report_modal_error_401": "فشل إرسال التقرير. يبدو أن تذكرة لعبتك [[[Platform]]] قد انتهت صلاحيتها. الرجاء محاولة إعادة تشغيل [[[Platform]]] وتصفح الخلفية للحصول على تذكرة جديدة.",
-	"ui_browse_modal_folder_create_title": "إنشاء مجلد",
+	"ui_browse_modal_folder_create_title": "انشاء مجلد",
 	"ui_browse_modal_folder_remove_title": "حذف المجلد '{{title}}'",
 	"ui_browse_modal_folder_remove_body": "هل أنت متأكد أنك تريد إزالة هذا المجلد؟",
 	"ui_browse_modal_folder_remove_unsubscribe_and_remove_items": "إلغاء الاشتراك أو إزالة الخلفيات في المجلد",
 	"ui_browse_modal_rename_title": "أعد تسمية خلفية",
-	"ui_browse_navigation_top": "الرئيسية",
+	"ui_browse_navigation_top": "الصفحة الرئيسية",
 	"ui_browse_download_header": "تنزيل [[[Platform]]]",
 	"ui_browse_download_pending": "قيد الانتظار",
 	"ui_browse_download_waiting": "في انتظار [[[Platform]]]",
 	"ui_browse_download_missing_files": "ملفات مفقودة. تحقق من ملفات البرنامج في [[[Platform]]].",
 	"ui_browse_modal_hotkey_assign_wallpaper": "تعيين اختصار للخلفية {{name}}",
 	"ui_browse_modal_hotkey_assign_playlist": "تعيين اختصار لقائمة التشغيل {{name}}",
-	"ui_browse_modal_hotkey_assign_profile": "تعيين اختصار للبروفايل {{name}}",
+	"ui_browse_modal_hotkey_assign_profile": "تعيين اختصار للملف الشخصي {{name}}",
 	"ui_browse_modal_hotkey_enter_hotkey": "ادخل الاختصار:",
 	"ui_browse_modal_seasonal_info_body": "لقد قمنا بتغيير ثيم Wallpaper Engine ليتناسب مع المناسبة! سيتم تغيير المظهر مرة أخرى في غضون ايام.<br/><br/> يمكنك تعطيل <i> الثيمات الموسمية</i> في الإعدادات إذا لم يعجبك هذا أو تغيير المظهر هناك في أي وقت. <br/><br/> تحتوي علامة التبويب <i> اكتشف </i> أيضًا على قائمة خاصة من الخلفيات التي تتناسب مع الوقت من العام!",
 	"ui_browse_modal_seasonal_info_header_halloween": "خدعة ام حلوى، انه الهالوين",
@@ -637,9 +637,9 @@
 	"ui_rating_table_header_photographic": "تصوير فوتوغرافي / واقعي",
 	"ui_rating_table_header_cgi": "رسومات حاسوبية / رسمات",
 	"ui_settings_playback": "التشغيل",
-	"ui_settings_playback_focused": ":عند التركيز على برنامج آخر",
-	"ui_settings_playback_maximized": ":عند تكبير برنامج آخر",
-	"ui_settings_playback_fullscreen": ":وضع ملء الشاشة",
+	"ui_settings_playback_focused": "عند التركيز على برنامج آخر:",
+	"ui_settings_playback_maximized": "عند تكبير برنامج آخر:",
+	"ui_settings_playback_fullscreen": "وضع ملء الشاشة:",
 	"ui_settings_playback_sleep": "الشاشة في وضع السكون:",
 	"ui_settings_playback_battery": "اللابتوب على البطارية:",
 	"ui_settings_playback_playing_audio": "تطبيق آخر يقوم بتشغيل صوت:",
@@ -663,16 +663,16 @@
 	"ui_settings_playback_rule_remove": "حذف",
 	"ui_settings_playback_rule_edit": "تعديل",
 	"ui_settings_gfx_quality": "الجودة",
-	"ui_settings_gfx_preset_low": "منخفض",
-	"ui_settings_gfx_preset_medium": "متوسط",
-	"ui_settings_gfx_preset_high": "عالي",
+	"ui_settings_gfx_preset_low": "منخفضة",
+	"ui_settings_gfx_preset_medium": "متوسطة",
+	"ui_settings_gfx_preset_high": "عالية",
 	"ui_settings_gfx_preset_ultra": "فائقة",
-	"ui_settings_gfx_antialiasing": "مضاد التعرجات",
+	"ui_settings_gfx_antialiasing": "مضاد التعرجات:",
 	"ui_settings_gfx_texture_resolution": "جودة الرسومات:",
-	"ui_settings_gfx_fps": "عدد اللقطات في الثانية:",
-	"ui_settings_gfx_reflections": ":الانعكاسات",
+	"ui_settings_gfx_fps": "معدل الاطارات في الثانية:",
+	"ui_settings_gfx_reflections": "الانعكاسات:",
 	"ui_settings_gfx_post_processing": "المعالجة اللاحقة:",
-	"ui_settings_gfx_fps_warning": "!عدد اللقطات العالي قد يبطئ من جهازك",
+	"ui_settings_gfx_fps_warning": "معدل الاطارات العالي قد يبطئ من اداء جهازك!",
 	"ui_settings_gfx_fps_warning_high": "قد يؤدي ارتفاع معدل الإطارات في الثانية إلى إبطاء جهاز الكمبيوتر الخاص بك! نحن جادون، هذا كثير 🔥.",
 	"ui_settings_gfx_enabled": "مفعل",
 	"ui_settings_gfx_disabled": "معطل",
@@ -714,33 +714,33 @@
 	"ui_settings_hotkeys_action_window_settings": "الاعدادات",
 	"ui_settings_hotkeys_action_window_editor": "المُعدل",
 	"ui_settings_hotkeys_action_user_wallpaper": "اختيار خلفية",
-	"ui_settings_hotkeys_action_user_playlist": "اختبار قائمة تشغيل",
+	"ui_settings_hotkeys_action_user_playlist": "اختيار قائمة تشغيل",
 	"ui_settings_hotkeys_action_user_profile": "اختيار ملف شخصي",
 	"ui_settings_hotkeys_action_start_screensaver": "بدء شاشة التوقف",
 	"ui_settings_hotkeys_prompt_enter_combination": "اضغط على مجموعة المفاتيح",
 	"ui_settings_hotkeys_modal_prompt_override_header": "استبدال الاختصار",
 	"ui_settings_hotkeys_modal_prompt_override_body": "تم تعيين هذا المفتاح بالفعل لـ '{{action}}'. هل تريد تعيينه هنا بدلاً من ذلك؟",
 	"ui_settings_hotkeys_example": "يجب أن تحتوي الاختصارات على Ctrl و Shift و Alt. أمثلة:<br/><br/>Shift + Ctrl + B<br/>Shift + F1<br/><br/> الحد الأحمر يعني أن مفتاح الاختصار غير صالح.",
-	"ui_settings_icon_opacity": ":شفافية ايقونات سطح المكتب",
-	"ui_settings_recording_volume": ":صوت التسجيل",
+	"ui_settings_icon_opacity": "شفافية ايقونات سطح المكتب:",
+	"ui_settings_recording_volume": "صوت التسجيل:",
 	"ui_settings_recording_threshold": "تأخير التسجيل:",
-	"ui_settings_audio_input_device": ":جهاز ادخال الصوت",
+	"ui_settings_audio_input_device": "جهاز ادخال الصوت:",
 	"ui_settings_audio_input_device_default": "افتراضي",
-	"ui_settings_adjust_windows_color": ":ضبط لون ويندوز",
+	"ui_settings_adjust_windows_color": "ضبط لون ويندوز:",
 	"ui_settings_adjust_windows_color_light_theme_hint": "أنت تستخدم الثيم \"الفاتح\" للويندوز الذي لا يسمح بوجود ألوان على شريط المهام. لتتمكن من تغيير لون شريط المهام، قم بتغيير ثيم الويندوز إلى \"داكن\".",
 	"ui_settings_adjust_windows_color_disabled": "معطل",
 	"ui_settings_adjust_windows_color_accent": "ألوان الواجهة",
 	"ui_settings_adjust_windows_color_everything": "كل شيء",
 	"ui_settings_adjust_windows_color_warning_header": "تحذير بشأن لون الويندوز",
 	"ui_settings_adjust_windows_color_warning_body": "<b>مهم</b>: الرجاء الانتباه إلى أن تمكين هذه الميزة سيؤدي إلى تعديل شكل وأسلوب نظام الويندوز الخاص بك. لا يمكن لـ Wallpaper Engine العودة إلى المظهر الحالي الخاص بك. إذا كنت ترغب في العودة إلى تصميمك القديم، فأنت بحاجة إلى تغيير إعدادات لون ثيم الويندوز يدويًا.<br/><br/> إذا كنت لا تعرف كيفية القيام بذلك أو إذا كنت تستخدم إصدارًا غير نشط من Windows لا يسمح لك بالقيام بذلك ، يُرجى <br/>عدم</b> تمكين هذه الميزة!<br/><br/>لا يمكن إرجاع الألوان بواسطة Wallpaper Engine. يمكن التراجع عنها في إعدادات الويندوز بدلاً من ذلك.",
-	"ui_settings_start_with_windows": ":البدء مع ويندوز",
+	"ui_settings_start_with_windows": "البدء مع ويندوز:",
 	"ui_settings_remove_service": "ازالة الافضلية العالية",
 	"ui_settings_register_service": "ضبط افضلية عالية",
-	"ui_settings_advanced_video_read": ":تحميل الفيديو",
-	"ui_settings_advanced_video_loop": "حلقة الفيديو",
+	"ui_settings_advanced_video_read": "تحميل الفيديو:",
+	"ui_settings_advanced_video_loop": "تكرار الفيديو:",
 	"ui_settings_advanced_video_framework": "إطار عمل الفيديو:",
 	"ui_settings_advanced_webm_framework": "إطار عمل WebM:",
-	"ui_settings_advanced_log_level": ":مستوى السجل",
+	"ui_settings_advanced_log_level": "مستوى السجل:",
 	"ui_settings_advanced_cef_command_line": "سطر أوامر CEF:",
 	"ui_settings_advanced_cef_devtools_port": "منفذ CEF devtools:",
 	"ui_settings_advanced_unpause_during_aero_peek": "إلغاء الإيقاف أثناء Aero Peek:",
@@ -750,7 +750,7 @@
 	"ui_settings_advanced_mini_mode_minimize": "إخفاء التطبيقات الأخرى في الوضع المصغر:",
 	"ui_settings_advanced_high_precision_timers": "استخدام مؤقتات عالية الدقة:",
 	"ui_settings_advanced_high_precision_timers_hint": "سيؤدي تفعيل المؤقتات عالية الدقة إلى تقليل التأتأة في خلفيات المشاهد وتوفير معدل اطارات أكثر اتساقًا ودقة. قد يؤثر أيضًا على استخدام الطاقة والمعالج، وبالتالي سيتم تقليل التأثير على أجهزة الكمبيوتر المحمولة لاستهلاك طاقة أقل أثناء التشغيل على البطارية.",
-	"ui_settings_about_changelog": "لوق التغيير",
+	"ui_settings_about_changelog": "سجل التغييرات",
 	"ui_settings_about_community_hub": "مركز المجتمع",
 	"ui_settings_about_faq": "الدعم والأسئلة المتكررة",
 	"ui_settings_plugins": "الإضافات",
@@ -813,9 +813,9 @@
 	"ui_settings_advanced_reset_config_modal_header": "تأكيد اعادة الضبط",
 	"ui_settings_advanced_reset_config_modal_body": "ستتم إعادة تعيين التطبيق <b>بالكامل</b>، وستتم إزالة <b>جميع</b> الإعدادات الخاصة بك وسيحتاج Wallpaper Engine إلى إعادة التشغيل.",
 	"ui_settings_video_audio_label": "مخرج الصوت والفيديو",
-	"ui_settings_video_hardware_acceleration_label": "تحسين اجهزة الفيديو",
+	"ui_settings_video_hardware_acceleration_label": "ميزة تسريع الاجهزة:",
 	"ui_settings_reload_audio_device_changed": "إعادة التحميل عند تغيير جهاز الإخراج:",
-	"ui_settings_process_priority": "افضلية العملية",
+	"ui_settings_process_priority": "افضلية العملية:",
 	"ui_settings_process_priority_normal": "عادي",
 	"ui_settings_process_priority_below_normal": "اقل من العادي",
 	"ui_settings_advanced_monitor_identification": "تحديد الشاشة:",
@@ -922,7 +922,7 @@
 	"ui_editor_filemenu_open_in_explorer": "فتح في المستكشف",
 	"ui_editor_filemenu_template_wizard": "معالج القالب",
 	"ui_editor_filemenu_clean_project": "مشروع نظيف",
-	"ui_editor_filemenu_view": "مشاهدة",
+	"ui_editor_filemenu_view": "عرض",
 	"ui_editor_filemenu_restart_preview": "اعادة المعاينة",
 	"ui_editor_filemenu_preview_aspect_ratio": "ابعاد المعاينة",
 	"ui_editor_filemenu_reset_camera": "اعادة ضبط الكاميرا",
@@ -1019,7 +1019,7 @@
 	"ui_editor_welcome_modal_new_template_wallpaper": "خلفية جديدة من قالب",
 	"ui_editor_welcome_modal_new_web_wallpaper": "خلفية شبكة جديدة",
 	"ui_editor_welcome_modal_new_application_wallpaper": "خلفية برنامج جديدة",
-	"ui_editor_welcome_modal_edit_recent_wallpaper": ":تعديل الخلفيات السابقة",
+	"ui_editor_welcome_modal_edit_recent_wallpaper": "تعديل الخلفيات السابقة:",
 	"ui_editor_welcome_modal_edit_recent_no_wallpapers": "لم يتم ايجاد اي خلفيات سابقة",
 	"ui_editor_welcome_modal_show_more": "...اظهار المزيد",
 	"ui_editor_welcome_modal_project_name": "اسم المشروع",
@@ -2348,5 +2348,19 @@
 	"ui_editor_select_material": "حدد مادة",
 	"ui_editor_select_texture": "تحديد رسومات",
 	"ui_editor_light_limit_reached": "لا يمكن إضافة أكثر من {{count}} مصباح.",
-	"ui_provider_error_generic": "واجه [[[Platform]]] خطأ داخلي."
+	"ui_provider_error_generic": "واجه [[[Platform]]] خطأ داخلي.",
+	"ui_provider_error_no_network": "[[[Platform]]] ليس لديه اتصال بالشبكة.",
+	"ui_provider_error_logged_on_elsewhere": "تم تسجيل دخول مستخدم [[[Platform]]] على كمبيوتر مختلف.",
+	"ui_provider_error_file_not_found": "تعذر على [[[Platform]]] العثور على ملفات معينة أو الوصول إليها على القرص الثابت لديك.",
+	"ui_provider_error_servers_busy": "خوادم [[[Platform]]] لا تستجيب وقد تكون محملة بشكل زائد أو معطلة تمامًا.",
+	"ui_provider_error_access_denied": "[[[Platform]]] يمنع الوصول. هذا يعني عادة أن حسابك محظور أو مقيد مؤقتًا.",
+	"ui_provider_error_timeout": "[[[Platform]]] أجهض الطلب نظرًا لأن معالجته استغرقت وقتًا طويلاً للغاية.",
+	"ui_provider_error_service_unavailable": "خدمات [[[Platform]]] غير متوفرة حاليًا.",
+	"ui_provider_error_not_logged_in": "مستخدم [[[Platform]]] لم يقم بتسجيل الدخول.",
+	"ui_provider_error_insufficient_privilege": "يفتقد [[[Platform]]] الامتيازات.",
+	"ui_provider_error_limit_exceeded": "واجه [[[Platform]]] حدًا للطلبات.",
+	"ui_provider_error_io_failure": "واجه [[[Platform]]] مشاكل في قراءة الملفات أو كتابتها من وإلى القرص الثابت.",
+	"ui_provider_error_read_only": "خدمة [[[Platform]]] للقراءة فقط. إذا قمت بتغيير كلمة المرور الخاصة بك مؤخرًا، فإن [[[Platform]]] لا يسمح بتحميل محتوى جديد. عادة ما تحل هذه المشكلة نفسها بعد بضعة أيام.",
+	"ui_provider_error_failed_setting_item_data": "[[[Platform]]] فشل في تطبيق معلومات الوورك شوب الجديدة.",
+	"ui_provider_error_ctx_create_ugc_rate_limit_exceeded": "رفض [[[Platform]]] إرسالك إلى الوورك شوب لأنك تقوم بالتحميل كثيرًا. يرجى المحاولة مرة أخرى في بضع دقائق."
 }
