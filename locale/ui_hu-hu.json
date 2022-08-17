@@ -278,6 +278,7 @@
 	"ui_browse_properties_parallax": "Reagáljon a mozgásra",
 	"ui_browse_properties_parallax_strength": "Mozgás erőssége",
 	"ui_browse_properties_parallax_disabled": "Letiltva",
+	"ui_browse_properties_parallax_gyro": "Készülék mozgás",
 	"ui_browse_properties_parallax_scroll": "Kezdőképernyő Görgetés",
 	"ui_browse_properties_accent_color": "Kiemelt színek",
 	"ui_browse_properties_background_color": "Háttérszín",
