@@ -98,7 +98,7 @@ Haftanın her günü için bir duvar kağıdı yapılandırma yöntemi, zaman i�
 [h2]Windows 11[/h2]
 Wallpaper Engine, Windows 11'i tam olarak destekler; bu güncellemeyle birlikte yeni yuvarlak köşeli kullanıcı arayüzü tasarımı için destek de ekliyoruz. Windows 11'e yükseltme yapıyorsanız ve Wallpaper Engine ile ilgili bir sorun yaşıyorsanız en son grafik kartı sürücülerini tam olarak yeniden yüklediğinizden emin olun. Sorunlarla ilgili olarak bize ulaşan çoğu Windows 11 kullanıcısı, güncel olmayan grafik kartı sürücüleri kullanıyordu.
 
-Saydamlık içeren bir Windows 11 teması kullanıyorsanız, Wallpaper Engine'in Windows 11 tarafından yok sayılacağını fark edeceksiniz. Bu sorunu düzeltmek için Wallpaper Engine ayarlarından yeni eklenen [b]Duvar kağıdını geçersiz kıl[/b] seçeneğini etkinleştirmeniz yeterlidir. Bu, Windows duvar kağıdınızın Wallpaper Engine duvar kağıdınızla senkronize olmasını sağlar ve Windows 11'de şeffaflıkla ilgili sorunları giderir.
+Saydamlık içeren bir Windows 11 teması kullanıyorsanız, Wallpaper Engine'in Windows 11 tarafından yok sayılacağını fark edeceksiniz. Bu sorunu düzeltmek için Wallpaper Engine ayarlarından yeni eklenen [b]Duvar kağıdını geçersiz kıl[/b] seçeneğini etkinleştirmeniz yeterlidir. Bu, Windows duvar kağıdınızın Wallpaper Engine duvar kağıdınızla eşitlenmiş tutacak ve Windows 11'de şeffaflıkla ilgili herhangi bir sorunu düzeltecek.
 
 [h2]Değişiklik Günlüğü[/h2]
 
