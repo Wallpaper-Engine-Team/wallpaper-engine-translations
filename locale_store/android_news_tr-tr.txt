@@ -98,7 +98,7 @@ Haftanın her günü için bir duvar kağıdı yapılandırma yöntemi, zaman i�
 [h2]Windows 11[/h2]
 Wallpaper Engine, Windows 11'i tam olarak destekler; bu güncellemeyle birlikte yeni yuvarlak köşeli kullanıcı arayüzü tasarımı için destek de ekliyoruz. Windows 11'e yükseltme yapıyorsanız ve Wallpaper Engine ile ilgili bir sorun yaşıyorsanız en son grafik kartı sürücülerini tam olarak yeniden yüklediğinizden emin olun. Sorunlarla ilgili olarak bize ulaşan çoğu Windows 11 kullanıcısı, güncel olmayan grafik kartı sürücüleri kullanıyordu.
 
-Saydamlık içeren bir Windows 11 teması kullanıyorsanız, Wallpaper Engine'in Windows 11 tarafından yok sayılacağını fark edeceksiniz. Bu sorunu düzeltmek için Wallpaper Engine ayarlarından yeni eklenen [b]Duvar kağıdını geçersiz kıl[/b] seçeneğini etkinleştirmeniz yeterlidir. Bu, Windows duvar kağıdınızın Wallpaper Engine duvar kağıdınızla senkronize olmasını sağlar ve Windows 11'de şeffaflıkla ilgili sorunları giderir.
+Saydamlık içeren bir Windows 11 teması kullanıyorsanız, Wallpaper Engine'in Windows 11 tarafından yok sayılacağını fark edeceksiniz. Bu sorunu düzeltmek için Wallpaper Engine ayarlarından yeni eklenen [b]Duvar kağıdını geçersiz kıl[/b] seçeneğini etkinleştirmeniz yeterlidir. Bu, Windows duvar kağıdınızın Wallpaper Engine duvar kağıdınızla eşitlenmiş tutacak ve Windows 11'de saydamlıkla ilgili herhangi bir sorunu düzeltecek.
 
 [h2]Değişiklik Günlüğü[/h2]
 
@@ -132,13 +132,13 @@ Saydamlık içeren bir Windows 11 teması kullanıyorsanız, Wallpaper Engine'in
 [*]SceneScript: [i]init()[/i] ve [i]update()[/i] işlevleri, geri döndürüldüklerinde sayıları otomatik olarak vektörlere (Vec2, Vec3, Vec4) dönüştürür. Bu, bazı komutları basitleştirmeye yardımcı olur.
 [*]SceneScript: Tüm örnek kod parçaları gözden geçirildi ve bir miktar geliştirildi.
 [*]SceneScript: Referans bağlantılarını [url=https://docs.wallpaperengine.io/scene/scenescript/introduction.html]yeni SceneScript belgeleri[/url] olarak güncelleyin.
-[*]Düzenleyicide DXT sıkıştırması ile şeffaflık kırpma çalışması yapıldı.
+[*]Düzenleyicide DXT sıkıştırması ile saydamlık kırpma çalışması yapıldı.
 [/list]
 [h3]Hata Düzeltmeleri[/h3]
 [list]
 [*]Az sayıda duvar kağıdını bozan doku çözünürlüğü ayarları için "Yüksek Performans" seçeneği düzeltildi.
-[*]Gerekli minimum boyutun altındaki çözünürlüklere sahip dokuları içe aktarırken düzenleyicinin çökme sorunu düzeltildi.
-[*] Duvar kağıtlarının "yüklü" sekmesinde iki kez görünmesine neden olan belirli filtre ayarları düzeltildi.
+[*]Gerekli en az boyutun altındaki çözünürlüklere sahip dokuları içe aktarırken düzenleyicinin çökme sorunu düzeltildi.
+[*] Duvar kağıtlarının "yüklü" sekmesinde iki kez görünmesine neden olan belirli süzgeç ayarları düzeltildi.
 [*]Video dokuları nedeniyle yaşanan çökme düzeltildi.
 [*]Görüntü katmanlarına bazen uygulanmayan JPEG EXIF meta verileri düzeltildi. Görüntüleri Windows ile döndürürseniz artık uygulamada da düzgün bir şekilde döndürülmüş olarak görünmelidirler.
 [*]Parçacık sistemi renklerinin düzgün çalışmamasıyla ilgili sorun düzeltildi.

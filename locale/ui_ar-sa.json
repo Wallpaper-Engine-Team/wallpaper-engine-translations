@@ -34,7 +34,7 @@
 	"ui_modal_installationpath_disable_auto_start": "تعطيل البدء التلقائي",
 	"ui_modal_trial_version_start_title": "النسخة التجريبية",
 	"ui_modal_trial_version_start_body": "شكرا لإستخدامك Wallpaper Engine، نتمنى أنه نال على إعجابك. النسخة التجريبية ستنتهي تلقائيا بعد {{hrs}} ساعات من الاستخدام.<br/><br/> في حال وجود استفسارات أو أي مشاكل تقنية، يرجى القاء نظرة على موقعنا الالكتروني لأنه يغطي أغلب المواضيع بالتفصيل: <a href='[[[var_url_faq]]]'>help.wallpaperengine.io</a>",
-	"ui_modal_trial_version_start_open_store_page": "إفتح صقحة المتجر",
+	"ui_modal_trial_version_start_open_store_page": "إفتح صفحة المتجر",
 	"ui_modal_pagination_enter_page_title": "أدخل رقم الصفحة",
 	"ui_alert_connect_steam": "<b> لا يمكن اجراء اتصال المره الاولى بـ[[[Platform]]] </b><br/><br/><b> لإزالة هذه الرسالة للأبد عليك أن:</b> تتأكد أن [[[Platform]]] يعمل و انك لا تزال قيد تسجيل الدخول في حساب [[[Platform]]] الصحيح ومن ثم إعادة تشغيل محرك الخلفيات. إذا كنت بحاجة الى المساعدة في حل مشكلة [[[Platform]]] هذه، عليك زيارة صفحة الاسئلة المتكررة: <a href='[[[var_url_faqsteam]]]'> اصلاح اتصال [[[Platform]]] </a><br/><br/><b> في حال أنك لا تملك نسخة أصلية من محرك الخلفيات </b> نرجوا أن تفكر بدعمنا. لقد قمنا بوضع سعر مناسب جدا لمحرك الخلفيات ليستطيع الجميع شراءه. لقد بذلنا ألاف الساعات في هذا التطبيق، بشراء محرك الخلفيات أنت تدعم تطويره المستمر، تحصل على آخر التحديثات، تساعد في دفع تكاليف الخوادم و تتمكن من تحميل الخلفيات عبر [[[Platform]]] بسهولة: <a href='[[[var_url_store]]]'> اضغط هنا لشراء محرك الخلفيات على [[[Platform]]]</a><br/><br/> هذه الرسالة <b>لن<b> تظهر مجددا بعد بدء محرك الخلفيات عبر [[[Platform]]] مجددا.",
 	"ui_overlay_connecting_provider": "جاري الاتصال بـ[[[Platform]]]...",
@@ -58,8 +58,8 @@
 	"ui_browse_filter_all": "الكل",
 	"ui_browse_filter_none": "لا شيء",
 	"ui_browse_filter_suggestions": "المقترحات",
-	"ui_browse_grid_no_results": "لا توجد خلفيات مطابقة لمعاييرك. <br/> قم بتوسعة او اعادة ضبط التصنيفات في شريط التصفية الجانبي أو قم بالبحث عن مصطلح آخر.",
-	"ui_browse_grid_no_results_generic": "لا توجد خلفيات مطابقة لمعاييرك. <br/> قم بتوسعة أو إعادة ضبط التصنيفات في شريط التصفية الجانبي أو قم بالبحث عن مصطلح آخر.",
+	"ui_browse_grid_no_results": "لا توجد خلفيات مطابقة لمعاييرك.<br/>قم بتوسعة او اعادة ضبط التصنيفات في شريط التصفية الجانبي أو قم بالبحث عن مصطلح آخر.",
+	"ui_browse_grid_no_results_generic": "لا توجد خلفيات مطابقة لمعاييرك.<br/>قم بتوسعة أو إعادة ضبط التصنيفات في شريط التصفية الجانبي أو قم بالبحث عن مصطلح آخر.",
 	"ui_browse_grid_no_results_refreshing": "بإنتظار [[[Platform]]] للإستجابة...",
 	"ui_browse_status_error": "خطأ",
 	"ui_browse_select_prompt": "الرجاء اختيار خلفية",
@@ -89,6 +89,7 @@
 	"ui_browse_offline_error": "سيرفرات [[[Platform]]] متعطلة حاليًا. ويعمل فريق [[[Platform]]] على حلها، الرجاء اعادة المحاولة لاحقا.",
 	"ui_browse_download_error_restart_steam": "فشل التحميل من [[[Platform]]]. <br/><a class='btn btn-default' href='[[[var_url_faqdownloads]]]'>مساعدة</a>",
 	"ui_browse_resolution_settings": "اعدادات الدقة",
+	"ui_browse_gallery_block_info": "{{count}} خلفية محظورة. اضغط هنا لعرضها.",
 	"ui_browse_details_author": "المؤلف:",
 	"ui_browse_details_author_pending": "< قيد الانتظار >",
 	"ui_browse_details_type": "النوع:",
@@ -97,17 +98,17 @@
 	"ui_browse_details_rate": "تقييم",
 	"ui_browse_details_btn_workshop": "Workshop",
 	"ui_browse_details_btn_unsubscribe": "إلغاء الاشتراك",
-	"ui_browse_details_btn_download": "تنزيل",
-	"ui_browse_details_btn_remove_from_history": "حذف من التاريخ",
-	"ui_browse_details_btn_report": "تقرير",
+	"ui_browse_details_btn_download": "اشتراك",
+	"ui_browse_details_btn_remove_from_history": "حذف",
+	"ui_browse_details_btn_report": "تبليغ",
 	"ui_browse_details_btn_copy_url": "نسخ الرابط",
 	"ui_browse_details_btn_open_in_editor": "الفتح في المُعدل",
 	"ui_browse_details_btn_comment": "علِق",
 	"ui_browse_details_btn_send_to_mobile_device": "إرسال الى {{device}}",
 	"ui_browse_details_local_editor_hint": "فتح الخلفية في المُعدل لتعديلها او حذفها.",
 	"ui_browse_details_toast_url_copied": "تم نسخ الرابط!",
-	"ui_browse_details_properties": "Properties",
-	"ui_browse_details_properties_reset": "إعادة الضبط",
+	"ui_browse_details_properties": "خصائص",
+	"ui_browse_details_properties_reset": "اعادة ضبط",
 	"ui_browse_details_properties_reset_prompt_header": "إعادة ضبط الخصائص",
 	"ui_browse_details_properties_reset_prompt_body": "هل تريد إعادة ضبط الخصائص الحالية إلى الإعدادات الافتراضية الخاصة بها؟",
 	"ui_browse_details_properties_nothing_imported": "لم يتم استيراد شيء",
@@ -134,7 +135,7 @@
 	"ui_browse_footer_btn_open_wallpaper": "فتح خلفية",
 	"ui_browse_footer_btn_create_new_wallpaper": "إنشاء خلفية جديدة (التحريك والمشاركة)",
 	"ui_browse_footer_btn_open_animated_wallpaper": "فتح خلفية اوفلاين (متحركة)",
-	"ui_browse_footer_btn_open_static_wallpaper": "فتح صورة خلفية (بدون تحركات)",
+	"ui_browse_footer_btn_open_static_wallpaper": "فتح صورة الخلفية (غير متحركة)",
 	"ui_browse_footer_btn_open_wallpaper_in_gallery": "استيراد خلفية اوفلاين",
 	"ui_browse_footer_btn_open_wallpaper_in_gallery_static": "استيراد خلفية ثابتة <br/><b>بدون تحريك</b>",
 	"ui_browse_footer_btn_open_wallpaper_in_editor": "استيراد الى المُعدل<br/><b>تحريك</b> و <b>مشاركة</b>",
@@ -153,6 +154,7 @@
 	"ui_browse_monitors_layout_screensaver_per_monitor": "شاشة توقف لكل شاشة",
 	"ui_browse_monitors_layout_screensaver_fit": "تمديد شاشة التوقف واحدة",
 	"ui_browse_monitors_layout_screensaver_clone_wallpaper": "نسخ شاشة توقف واحدة",
+	"ui_browse_monitors_split": "فصل",
 	"ui_browse_monitors_add_split": "اضافة فصول",
 	"ui_browse_monitors_remove_split": "حذف فصل",
 	"ui_browse_monitors_remove_all_splits": "حذف جميع الفصول",
@@ -196,14 +198,14 @@
 	"ui_browse_sort_favorite": "المفضلة",
 	"ui_browse_sort_filesize": "حجم الملف",
 	"ui_browse_sort_subscription_date": "تاريخ الاشتراك",
-	"ui_browse_sort_last_updated": "اخر تحديث",
+	"ui_browse_sort_last_updated": "التحديث الأخير",
 	"ui_browse_search_placeholder": "بحث",
 	"ui_browse_search_exact_match": "العبارة بالضبط",
 	"ui_browse_filter_category_wallpaper": "خلفية",
 	"ui_browse_filter_category_preset": "إعدادات مسبقة",
 	"ui_browse_filter_type_scene": "مشهد",
 	"ui_browse_filter_type_video": "فيديو",
-	"ui_browse_filter_type_web": "شبكة",
+	"ui_browse_filter_type_web": "ويب",
 	"ui_browse_filter_type_application": "برنامج",
 	"ui_browse_filter_source_any": "الكل",
 	"ui_browse_filter_source_official": "رسمي",
@@ -223,15 +225,16 @@
 	"ui_browse_modal_remove_local_header": "حذف من السجل",
 	"ui_browse_modal_remove_local_body": "هل أنت متأكد من رغبتك من حذف الخلفية: <b>{{title}}</b>؟",
 	"ui_browse_modal_remove_preset_info": "<br/><br/>الإعدادات مسبقة التالية تعتمد على الخلفية/الخلفيات التي تحاول الغاء الاشتراك منها وسوف تُحذف معها كذلك:<b>{{presets}}</b>",
-	"ui_browse_modal_subscribe_preset_header": "الإشتراك في إعدادات الخلفية المسبقة",
+	"ui_browse_modal_subscribe_preset_header": "الإشتراك في إعدادات خلفية مسبقة",
 	"ui_browse_modal_subscribe_preset_body": "الخلفية <b>{{title}}</b> هي إعدادات مسبقة لخلفية أخرى لذلك فإنك تحتاج الاشتراك اليها لاستخدامها.<br/><br/> الإشتراك للإثنان الان؟",
 	"ui_browse_modal_subscribe_preset_open_dependency": "فتح المتطلبات",
 	"ui_browse_open_url_header": "فتح خلفية من رابط",
 	"ui_browse_open_url_name": "الاسم",
 	"ui_browse_open_url_hotkey_info": "لإستخدام الكيبورد على الخلفية، اخفي هذه الايقونات بواسطة هذا الاختصار اولًا:",
-	"ui_browse_open_url_livestream_info": "قم بتمكين <b> وضع البث المباشر </b> إذا كان عنوان URL الذي تحاول تحميله يحتوي على بث فيديو مباشر. قد لا تعمل بعض ميزات محرك الخلفيات بشكل صحيح في وضع البث المباشر.",
-	"ui_browse_open_url_livestream_checkbox": "استخدام مود البث المباشر",
-	"ui_browse_open_url_livestream_warning": "<b> يرجى الملاحظة:</b> أنت تفتح عنوان URL هذا باستخدام متصفح إيدج WebView البديل مع مجموعة محدودة من الميزات، وقد لا تعمل العديد من ميزات محرك الخلفيات بشكل صحيح مع تمكين وضع البث المباشر.<br/><br/><b>يجب استخدام هذا الخيار فقط إذا كنت تنوي استخدام بث مباشر كخلفية </b>.",
+	"ui_browse_open_url_livestream_info": "قم بتمكين <b>وضع البث المباشر</b> إذا كان عنوان URL الذي تحاول تحميله يحتوي على بث فيديو مباشر. قد لا تعمل بعض ميزات محرك الخلفيات بشكل صحيح في وضع البث المباشر.",
+	"ui_browse_open_url_livestream_checkbox": "استخدام وضع البث المباشر",
+	"ui_browse_open_url_livestream_warning": "<b>يرجى الملاحظة:</b> أنت تفتح عنوان URL هذا باستخدام متصفح إيدج WebView البديل مع مجموعة محدودة من الميزات، وقد لا تعمل العديد من ميزات محرك الخلفيات بشكل صحيح مع تمكين وضع البث المباشر.<br/><br/><b>يجب استخدام هذا الخيار فقط إذا كنت تنوي استخدام بث مباشر كخلفية</b>.",
+	"ui_browse_open_url_livestream_runtime_modal_title": "تثبيت Edge WebView",
 	"ui_browse_open_url_livestream_runtime_modal_message": "تحتاج إلى تثبيت وقت تشغيل متصفح الويب إيدج WebView قبل أن تتمكن من استخدام وضع البث المباشر. هل تريد تثبيت وقت التشغيل الآن؟<br/><br/>يمكنك أيضًا تعطيل ملف<b>استخدم وضع البث المباشر</b>الخيار في إعدادات URL بدلًا من ذلك.",
 	"ui_browse_modal_proceed": "مواصلة",
 	"ui_browse_modal_advertise_workshop_header": "اعدادات فلاتر الـWorkshop",
@@ -252,7 +255,7 @@
 	"ui_browse_modal_screensaver_install_error_header": "فشل تثبيت شاشة التوقف",
 	"ui_browse_modal_screensaver_install_error_body": "فشل Wallpaper Engine في تثبيت شاشة التوقف.<br/><br/>تأكد ان مانع الفايروسات لا يعارض ويمنع البرنامج من تثبيت ملفات شاشة التوقف.<br/><br/>لمزيد من المساعدة: <a href='[[[var_url_faqscreensaver]]]'>إصلاح تثبيث شاشة التوقف</a>",
 	"ui_browse_modal_windows_10_warning_title": "مطلوب نظام تشغيل ويندوز 10 أو أحدث",
-	"ui_browse_modal_windows_10_warning_message": "الخلفية <b>{{title}}</b>تستخدم ميزات الفيديو الحديثة التي تتطلب ويندوز 10 أو إصدار أحدث ولا يمكن استخدامها على هذا الكمبيوتر.<br/><br/>استخدم ورشة العمل المدمجة للعثور على خلفيات جديدة مع إخفاء الخلفيات غير المتوافقة تلقائيًا.",
+	"ui_browse_modal_windows_10_warning_message": "الخلفية <b>{{title}}</b> تستخدم ميزات الفيديو الحديثة التي تتطلب ويندوز 10 أو إصدار أحدث ولا يمكن استخدامها على هذا الكمبيوتر.<br/><br/>استخدم الوورك شوب المدمج للعثور على خلفيات جديدة مع إخفاء الخلفيات غير المتوافقة تلقائيًا.",
 	"ui_browse_properties_scheme_color": "لون التخطيط",
 	"ui_browse_properties_playback_rate": "معدل سرعة التشغيل",
 	"ui_browse_properties_volume": "الصوت",
@@ -343,11 +346,13 @@
 	"ui_browse_playlist_modal_settings_begin_first_wallpaper": "دائما ابدا من الخلفية الاولى",
 	"ui_browse_playlist_modal_settings_intro_wallpaper": "الخلفية الاولى تظهر عند التشغيل فقط",
 	"ui_browse_playlist_modal_settings_day_of_week_warning_title": "قائمة تشغيل ايام الاسبوع",
-	"ui_browse_profiles_empty": "لم تقم بإنشاء اي بروفايلات حتى الان.",
-	"ui_browse_profiles_modal_open_header": "تحميل بروفايل",
-	"ui_browse_profiles_modal_save_header": "حفظ بروفايل",
+	"ui_browse_playlist_modal_settings_day_of_week_warning_option_message": "قائمة تشغيل <b>ايام الاسبوع</b> لا تحتمل اكثر من 7 خلفيات. تريد حذف الخلفيات الزائدة الان؟",
+	"ui_browse_playlist_modal_settings_day_of_week_warning_message": "قائمة تشغيل <b>ايام الاسبوع</b> لا تحتمل اكثر من 7 خلفيات.",
+	"ui_browse_profiles_empty": "لم تقم بإنشاء اي ملفات شخصية حتى الان.",
+	"ui_browse_profiles_modal_open_header": "تحميل ملف شخصي",
+	"ui_browse_profiles_modal_save_header": "حفظ ملف شخصي",
 	"ui_browse_profiles_modal_save_name": "الاسم",
-	"ui_browse_profiles_modal_save_description": "اذا كان يوجد بروفايل يحمل نفس الاسم، سيتم استبداله.",
+	"ui_browse_profiles_modal_save_description": "اذا كان يوجد ملف شخصي يحمل نفس الاسم، سيتم استبداله.",
 	"ui_browse_preset_modal_save_header": "حفظ إعدادات مسبقة محلية",
 	"ui_browse_preset_modal_open_header": "تحميل إعدادات مسبقة محلية",
 	"ui_browse_preset_modal_share_header": "نشر إعدادات مسبقة",
@@ -358,6 +363,8 @@
 	"ui_browse_preset_modal_paste": "لصق",
 	"ui_browse_preset_modal_show_all": "عرض الكل",
 	"ui_browse_preset_modal_empty": "لم تُنشئ اي إعدادات مسبقة لهذه الخلفية بعد.",
+	"ui_browse_blocklist_empty": "لم تقم بحظر اي مستخدم.",
+	"ui_browse_blocklist_modal_header": "ادارة قائمة المحظورين",
 	"ui_browse_list_source_installed": "المثبت",
 	"ui_browse_list_source_workshop": "Workshop",
 	"ui_browse_list_source_explore": "استكشف",
@@ -367,12 +374,13 @@
 	"ui_browse_query_error": "واجه [[[Platform]]] خطأ، حاول مرة أخرى لاحقًا: {{error}}",
 	"ui_browse_modal_safe_mode_header": "تشغيل آمن (Safe Start)",
 	"ui_browse_modal_safe_mode_body": "يبدو أن البرنامج لم يتم إيقافه بشكل صحيح، ولم يتم تحميل آخر الخلفيات والمكونات الإضافية حتى الآن لمنع تكرار المشكلة.<br/><br/>اضغط على \"موافق\" لاستعادتها الآن، أو إلغاء لتغييرها أولاً.",
+	"ui_browse_use_safe_mode": "الحماية ضد العطب",
 	"ui_browse_query_sort_by_votes": "الاعلى تقييما",
 	"ui_browse_query_sort_by_date": "الاحدث",
-	"ui_browse_query_sort_by_trend_today": "(الاكثر شعبية (اليوم",
-	"ui_browse_query_sort_by_trend_last_week": "(الاكثر شعبية (اسبوع",
-	"ui_browse_query_sort_by_trend_last_month": "الاكثر شعبية (شهر)",
-	"ui_browse_query_sort_by_trend_year": "(الاكثر شعبية (سنة",
+	"ui_browse_query_sort_by_trend_today": "الاكثر شعبية (اليوم)",
+	"ui_browse_query_sort_by_trend_last_week": "الاكثر شعبية (هذا الاسبوع)",
+	"ui_browse_query_sort_by_trend_last_month": "الاكثر شعبية (هذا الشهر)",
+	"ui_browse_query_sort_by_trend_year": "الاكثر شعبية (هذه السنة)",
 	"ui_browse_query_sort_my_favorites": "المفضلة",
 	"ui_browse_query_sort_voted_up": "مصوت له",
 	"ui_browse_query_sort_friends_favorites": "المفضلة لدى الاصدقاء",
@@ -384,17 +392,57 @@
 	"ui_browse_query_sort_last_updated": "التحديث الأخير",
 	"ui_browse_explore_home": "الصفحة الرئيسية",
 	"ui_browse_explore_favorites": "الخلفيات المفضلة",
+	"ui_browse_explore_followed_content": "المحتوى المتابَع",
 	"ui_browse_explore_search": "بحث",
 	"ui_browse_explore_disliked": "لم تعجبني",
 	"ui_browse_explore_see_more": "شاهد المزيد",
-	"ui_browse_explore_category_mobile": "يجب أن يمتلكها الهاتف {{emoji}}",
+	"ui_browse_explore_your_content": "المحتوى الخاص بك",
+	"ui_browse_explore_your_upvotes": "نالت إعجابك",
+	"ui_browse_explore_your_wallpapers": "خلفياتك",
+	"ui_browse_explore_friends_favorites": "المفضلة لدى الاصدقاء",
+	"ui_browse_explore_friends_created": "صنعت من الاصدقاء",
+	"ui_browse_explore_category_genre_popular": "خلفيات <b>{{genre}}</b> الأكثر شهرة",
+	"ui_browse_explore_category_genre_popular_approved": "خلفيات <b>مختارة</b> مشهورة",
+	"ui_browse_explore_category_genre_recent": "آخر خلفيات <b>{{genre}}</b>",
+	"ui_browse_explore_category_genre_recent_approved": "الخلفيات <b>المختارة</b> حديثًا",
+	"ui_browse_explore_category_genre_new": "خلفيات <b>{{genre}}</b> جديدة",
+	"ui_browse_explore_category_genre_new_approved": "خلفيات <b>مختارة</b> جديدة",
+	"ui_browse_explore_category_genre_most_subscribed": "خلفيات <b>{{genre}}</b> الاعلى اشتراكًا",
+	"ui_browse_explore_category_genre_most_subscribed_approved": "اعلى الخلفيات <b>المختارة</b> اشتراكًا",
+	"ui_browse_explore_category_creator_recent": "اخر خلفيات <b>{{user}}</b>",
+	"ui_browse_explore_category_creator_popular": "خلفيات <b>{{user}}</b> الاكثر شهرة",
+	"ui_browse_explore_category_creator_genre_recent": "اخر خلفيات <b>{{genre}}</b> لـ<b>{{user}}</b>",
+	"ui_browse_explore_category_creator_genre_recent_approved": "اخر الخلفيات <b>المختارة</b> لـ<b>{{user}}</b>",
+	"ui_browse_explore_category_creator_genre_popular": "خلفيات <b>{{genre}}</b> الاكثر شهرة لـ<b>{{user}}</b>",
+	"ui_browse_explore_category_creator_genre_popular_approved": "اشهر الخلفيات <b>المختارة</b> لـ<b>{{user}}</b>",
+	"ui_browse_explore_category_creator_short": "{{user}}",
+	"ui_browse_explore_category_collection": "<b>{{collectiontitle}}</b>",
+	"ui_browse_explore_category_keyword_popular": "خلفيات <b>{{keyword}}</b> الأكثر شهرة",
+	"ui_browse_explore_category_keyword_recent": "آخر خلفيات <b>{{keyword}}</b>",
+	"ui_browse_explore_category_keyword_most_subscribed": "خلفيات <b>{{keyword}}</b> الاعلى اشتراكًا",
+	"ui_browse_explore_category_keyword_new": "خلفيات <b>{{keyword}}</b> جديدة",
+	"ui_browse_explore_category_followed": "صنعت من المستخدمين المتابَعين",
+	"ui_browse_explore_category_friends_created": "صنعها احد الاصدقاء",
+	"ui_browse_explore_category_friends_favorites": "خلفيات الاصدقاء المفضلة",
+	"ui_browse_explore_category_user_favorites": "خلفياتك المفضلة",
+	"ui_browse_explore_category_user_up_voted": "الخلفيات التي صوت لها",
+	"ui_browse_explore_category_user_created": "خلفيات من صنعك",
+	"ui_browse_explore_category_top_year": "افضل خلفيات {{year}}",
+	"ui_browse_explore_category_seasonal_collection_spring": "خلفيات ربيعية {{emoji}} موصى بها",
+	"ui_browse_explore_category_seasonal_collection_summer": "خلفيات صيفية {{emoji}} موصى بها",
+	"ui_browse_explore_category_seasonal_collection_fall": "خلفيات خريفية {{emoji}} موصى بها",
+	"ui_browse_explore_category_seasonal_collection_halloween": "خلفيات هالوين {{emoji}} موصى بها",
+	"ui_browse_explore_category_seasonal_collection_winter": "خلفيات شتوية {{emoji}} موصى بها",
+	"ui_browse_explore_category_mobile": "يجب أن تمتلكها في هاتفك {{emoji}}",
+	"ui_browse_explore_category_highlighted_creators": "</b>منشئو محتوى<b> مميزون {{emoji}}",
+	"ui_browse_explore_category_highlighted_collections": "</b>تجميعات<b> مميزة {{emoji}}",
 	"ui_browse_explore_server_error": "تعذر الاتصال بسيرفرات Wallpaper Engine لجلب قوائم إضافية.",
 	"ui_browse_explore_create_query_modal_header_new": "انشاء استعلام جديد",
 	"ui_browse_explore_create_query_modal_header_edit": "تعديل استعلام",
 	"ui_browse_explore_create_query_modal_category": "الفئة",
 	"ui_browse_explore_create_query_modal_type": "فرز حسب",
 	"ui_browse_explore_create_query_modal_keyword": "كلمة مفتاحية",
-	"ui_browse_explore_create_query_modal_user_steam_id": "اي [[[Platform]]] لليوزر",
+	"ui_browse_explore_create_query_modal_user_steam_id": "اي دي [[[Platform]]] لليوزر",
 	"ui_browse_explore_create_query_modal_collection_id": "اي دي المجموعة",
 	"ui_browse_explore_create_query_modal_creator": "المصمم",
 	"ui_browse_explore_create_query_modal_collection": "مجموعة",
@@ -430,7 +478,7 @@
 	"ui_browse_context_menu_change_color": "تغيير اللون",
 	"ui_browse_context_menu_default": "افتراضي",
 	"ui_browse_context_menu_play_in_window": "فتح في نافذة خارجية",
-	"ui_browse_context_menu_report": "تقرير",
+	"ui_browse_context_menu_report": "تبليغ",
 	"ui_browse_context_menu_replace_with_selection": "استبدل بالمحددة",
 	"ui_browse_context_menu_choose_preset": "اختر إعدادات مسبقة",
 	"ui_browse_context_menu_remove_preset": "حذف إعدادات مسبقة",
@@ -440,6 +488,7 @@
 	"ui_browse_context_menu_browse_by_author": "التصفح حسب {{author}} ({{count}})",
 	"ui_browse_context_menu_block_author": "حظر {{author}}",
 	"ui_browse_context_menu_unblock_author": "إلغاء حظر {{author}}",
+	"ui_browse_context_menu_manage_blocklist": "ادارة قائمة المحظورين",
 	"ui_browse_context_menu_send_to": "إرسال إلى {{name}}",
 	"ui_browse_context_menu_send_to_device": "إرسال الى جهاز محمول",
 	"ui_browse_context_menu_export_pkg": "تصدير .mpkg",
@@ -447,9 +496,9 @@
 	"ui_browse_context_menu_mobile_type_not_supported": "نوع الخلفية غير مدعوم على أجهزة الأندرويد",
 	"ui_browse_context_menu_add_favorite": "أضف إلى المفضلات",
 	"ui_browse_context_menu_remove_favorite": "أزِل من المفضلات",
-	"ui_browse_report_modal_header": "تقرير الخلفية:",
-	"ui_browse_report_modal_submit": "إرسال التقرير",
-	"ui_browse_report_modal_category_label": "سبب التقرير",
+	"ui_browse_report_modal_header": "بلاغ على الخلفية:",
+	"ui_browse_report_modal_submit": "إرسال البلاغ",
+	"ui_browse_report_modal_category_label": "سبب البلاغ",
 	"ui_browse_report_modal_category_genre": "نوع خاطئ",
 	"ui_browse_report_modal_category_genre_description": "أنت تقوم بالإبلاغ عن هذه الخلفية لاستخدامها علامة نوع غير صحيحة. يرجى النظر في النوع الذي يناسب الخلفية بشكل أفضل عن طريق اختيار ما يمكنك \"رؤيته\" وليس ما \"تعرفه\" عن هذه الخلفية شخصيًا.",
 	"ui_browse_report_modal_genre_current": "النوع الحالي",
@@ -461,29 +510,29 @@
 	"ui_browse_report_modal_category_copyright": "ينتهك حقوق التأليف والنشر",
 	"ui_browse_report_modal_category_copyright_description": "الرجاء استخدام استمارة قانون الألفية للملكية الرقميَّة (DMCA) الخاصة بـ[[[Platform]]] لانتهاكات حقوق النشر، سيضمن هذا التعامل بالطريقة الصحيحة قانونيًا.",
 	"ui_browse_report_modal_copyright_dispute": "ملف النزاع DMCA",
-	"ui_browse_report_modal_category_spam": "رسائل غير مرغوب فيها",
-	"ui_browse_report_modal_category_spam_description": "تقوم بالإبلاغ عن هذه الخلفية للرسائل غير المرغوب فيها من قبل المؤلف.",
+	"ui_browse_report_modal_category_spam": "سبام",
+	"ui_browse_report_modal_category_spam_description": "تقوم بالإبلاغ عن هذه الخلفية لمافيها من ازعاج (سبام) من قبل المؤلف.",
 	"ui_browse_report_modal_category_offensive": "محتوى مسيء",
 	"ui_browse_report_modal_category_offensive_description": "أنت تبلغ عن هذه الخلفية لاحتوائها على محتوى مسيء. لا تستخدم هذا الخيار للإبلاغ عن العُري، وبدلاً من ذلك حدد الخيار \"تصنيف المحتوى خاطئ\".",
 	"ui_browse_report_modal_category_other": "أخرى",
 	"ui_browse_report_modal_category_other_description": "يرجى اختيار الفئة المناسبة قبل تقديم تقريرك! إذا لم يكن مناسبًا لأي مكان آخر، فاستخدم هذه الفئة.",
 	"ui_browse_report_modal_notes": "الملاحظات",
-	"ui_browse_report_modal_success": "تم إرسال التقرير بنجاح!",
+	"ui_browse_report_modal_success": "تم إرسال البلاغ بنجاح!",
 	"ui_browse_report_modal_error": "فشل إرسال التقرير. قد يكون الخادم غير متصل أو يتعذر الوصول إليه أو أنه يخضع للصيانة. حاول مرة أخرى في وقت لاحق.",
 	"ui_browse_report_modal_error_401": "فشل إرسال التقرير. يبدو أن تذكرة لعبتك [[[Platform]]] قد انتهت صلاحيتها. الرجاء محاولة إعادة تشغيل [[[Platform]]] وتصفح الخلفية للحصول على تذكرة جديدة.",
-	"ui_browse_modal_folder_create_title": "إنشاء مجلد",
+	"ui_browse_modal_folder_create_title": "انشاء مجلد",
 	"ui_browse_modal_folder_remove_title": "حذف المجلد '{{title}}'",
 	"ui_browse_modal_folder_remove_body": "هل أنت متأكد أنك تريد إزالة هذا المجلد؟",
 	"ui_browse_modal_folder_remove_unsubscribe_and_remove_items": "إلغاء الاشتراك أو إزالة الخلفيات في المجلد",
 	"ui_browse_modal_rename_title": "أعد تسمية خلفية",
-	"ui_browse_navigation_top": "الرئيسية",
+	"ui_browse_navigation_top": "الصفحة الرئيسية",
 	"ui_browse_download_header": "تنزيل [[[Platform]]]",
 	"ui_browse_download_pending": "قيد الانتظار",
 	"ui_browse_download_waiting": "في انتظار [[[Platform]]]",
 	"ui_browse_download_missing_files": "ملفات مفقودة. تحقق من ملفات البرنامج في [[[Platform]]].",
 	"ui_browse_modal_hotkey_assign_wallpaper": "تعيين اختصار للخلفية {{name}}",
 	"ui_browse_modal_hotkey_assign_playlist": "تعيين اختصار لقائمة التشغيل {{name}}",
-	"ui_browse_modal_hotkey_assign_profile": "تعيين اختصار للبروفايل {{name}}",
+	"ui_browse_modal_hotkey_assign_profile": "تعيين اختصار للملف الشخصي {{name}}",
 	"ui_browse_modal_hotkey_enter_hotkey": "ادخل الاختصار:",
 	"ui_browse_modal_seasonal_info_body": "لقد قمنا بتغيير ثيم Wallpaper Engine ليتناسب مع المناسبة! سيتم تغيير المظهر مرة أخرى في غضون ايام.<br/><br/> يمكنك تعطيل <i> الثيمات الموسمية</i> في الإعدادات إذا لم يعجبك هذا أو تغيير المظهر هناك في أي وقت. <br/><br/> تحتوي علامة التبويب <i> اكتشف </i> أيضًا على قائمة خاصة من الخلفيات التي تتناسب مع الوقت من العام!",
 	"ui_browse_modal_seasonal_info_header_halloween": "خدعة ام حلوى، انه الهالوين",
@@ -513,7 +562,7 @@
 	"ui_browse_mobile_devices_btn_download_app_version": "مطلوب Android 8.1 أو أحدث",
 	"ui_browse_mobile_devices_qr_hint": "قم بتثبيت Wallpaper Engine على هاتفك أو جهازك اللوحي الذي يعمل بنظام <b>Android</b> مجانًا واستخدم الخلفيات المتحركة أثناء التنقل.",
 	"ui_browse_mobile_devices_pin_hint": "أدخل رقم التعريف هذا على جهازك المحمول لتوصيله:",
-	"ui_browse_mobile_devices_download_info": "انقر بزر الماوس الأيمن على الخلفيات المتوافقة وحدد<b> إرسال إلى جهاز محمول</b> لنقل الخلفيات لاسلكيًا إلى هاتفك أو جهازك اللوحي.",
+	"ui_browse_mobile_devices_download_info": "انقر بزر الماوس الأيمن على الخلفيات المتوافقة وحدد <b>إرسال إلى جهاز محمول</b> لنقل الخلفيات لاسلكيًا إلى هاتفك أو جهازك اللوحي.",
 	"ui_browse_mobile_devices_link_info": "قم بزيارة موقعنا على الإنترنت للحصول على مساعدة إضافية: <a href='[[[var_url_mobile_faq]]]'>تعليمات Wallpaper Engine في الجوال</a>",
 	"ui_browse_mobile_upload_modal_title": "إرسال {{title}} الى {{device}}",
 	"ui_browse_mobile_upload_modal_title_export": "تصدير {{title}} للاستخدام على أندرويد",
@@ -524,9 +573,10 @@
 	"ui_browse_mobile_upload_modal_texture_reduction_original": "جودة عالية - (عدم تقليل جودة الرسومات)",
 	"ui_browse_mobile_upload_modal_texture_reduction_x2": "اداء افضل - (تقليل جودة الرسومات الى النصف)",
 	"ui_browse_mobile_upload_modal_texture_reduction_x4": "اداء عالي - (تقليل جودة الرسومات اربع مرات)",
-	"ui_browse_mobile_upload_modal_high_res_info": "يمكن أن تكون الخلفيات عالية الدقة متطلبة بشكل خاص لجهازك المحمول. جرب استخدام خيار جودة<b> متوازنة</b> أو استخدم خيار <b> أداء عالٍ </b> الذي تم تقديمه مسبقًا إذا لاحظت وجود مشكلات في الأداء مع هذه الخلفية.",
+	"ui_browse_mobile_upload_modal_high_res_info": "يمكن أن تكون الخلفيات عالية الدقة متطلبة بشكل خاص لجهازك المحمول. جرب استخدام خيار جودة <b>متوازنة</b> أو استخدم خيار <b>أداء عالٍ</b> الذي تم تقديمه مسبقًا إذا لاحظت وجود مشكلات في الأداء مع هذه الخلفية.",
 	"ui_browse_mobile_upload_modal_pixel_art_info": "يبدو أنك تقوم برفع خلفية Pixel art. يوصى باستخدام إعدادات عالية الجودة لهذا النوع من الخلفيات، ولكن إذا لاحظت مشاكل في الأداء، فيرجى محاولة خفض الجودة.",
 	"ui_browse_mobile_upload_modal_video_info": "يمكن أن يؤدي العرض المسبق لخلفيات المَشاهد إلى تحسين الأداء بشكل كبير ، ولكن لن تعمل العناصر الديناميكية مثل الساعات أو ردات فعل اللمس التفاعلية.",
+	"ui_browse_mobile_upload_modal_export_info": "<b>نصيحة</b>: قم بتوصيل جهاز Android الخاص بك بـ Wallpaper Engine لنقل خلفياتك لاسلكيًا إلى هاتفك دون الحاجة إلى تصديرها أولاً: <a href='[[[var_url_mobile_faq]]]'> انقر هنا لمعرفة المزيد </a>.",
 	"ui_browse_mobile_upload_modal_preset_quality": "جودة الخلفية",
 	"ui_browse_mobile_upload_modal_preset_high": "جودة عالية",
 	"ui_browse_mobile_upload_modal_preset_medium": "معتدل",
@@ -535,10 +585,22 @@
 	"ui_browse_mobile_upload_modal_preset_section_pre_rendered": "مرندرة مسبقًا (Pre-Rendered)",
 	"ui_browse_mobile_upload_modal_show_advanced_settings": "عرض اعدادات متقدمة",
 	"ui_browse_mobile_upload_modal_video_preset": "إعدادات الفيديو المسبقة",
+	"ui_browse_mobile_upload_modal_video_preset_auto": "تلقائية - {{resolution}}",
+	"ui_browse_mobile_upload_modal_video_preset_1080": "دقة عالية FHD",
+	"ui_browse_mobile_upload_modal_video_preset_2160": "دقة فائقة 4K",
+	"ui_browse_mobile_upload_modal_video_fps": "معدل الاطارات",
 	"ui_browse_mobile_upload_modal_video_cropping": "قص الفيديو",
 	"ui_browse_mobile_upload_modal_video_cropping_phone": "تناسب شاشة الهاتف",
+	"ui_browse_mobile_upload_modal_video_cropping_disabled": "الحفاظ على نسبة الأبعاد الأصلية",
+	"ui_browse_mobile_firewall_warning": "قد يمنع جدار حماية ويندوز الاقتران بجهازك المحمول.",
 	"ui_browse_mobile_firewall_warning_fix": "إصلاح جدار الحماية",
 	"ui_browse_mobile_upload_size_warning_title": "حد حجم الخلفية للجوال",
+	"ui_browse_mobile_upload_size_warning_message": "لا يمكن حاليًا نقل الخلفيات التي يزيد حجمها عن 4 جيجابايت إلى الأجهزة المحمولة.",
+	"ui_browse_mobile_upload_modal_outdated_device_warning_title": "تطبيق الجوال غير مُحدث",
+	"ui_browse_mobile_upload_modal_outdated_device_warning_message_some": "لا يمكن تحميل بعض الخلفيات على تطبيق الهاتف لأنه قديم.",
+	"ui_browse_mobile_upload_modal_outdated_device_warning_message_some_ext": "<br/><br/>تتطلب الخلفيات التالية أحدث إصدار من تطبيق الهاتف وسيتم تخطيها:",
+	"ui_browse_mobile_upload_modal_outdated_device_warning_message_all": "لا يمكن تحميل جميع الخلفيات المحددة على تطبيق الهاتف لأنه قديم.",
+	"ui_browse_mobile_upload_modal_outdated_device_warning_message_shared": "يرجى تحديث تطبيق الهاتف المحمول بحيث يدعم أحدث ميزات Wallpaper Engine.<br/><br/> يُرجى ملاحظة أن بعض متاجر تطبيقات الأجهزة المحمولة تستغرق يومين لنشر تحديثات التطبيق لجميع المستخدمين. إذا لم يقم متجر التطبيقات الخاص بك بإتاحة التحديث لك، فيرجى التحلي بالصبر والتحقق مرة أخرى لاحقًا.",
 	"ui_browse_mobile_upload_cancel_title": "إلغاء تحميلات الجهاز المحمول",
 	"ui_browse_mobile_upload_cancel_body": "هل أنت متأكد من أنك تريد إلغاء جميع التحميلات المعلقة على جهازك المحمول؟",
 	"ui_browse_mobile_upload_unavailable_title": "لم يكتمل التثبيت",
@@ -562,7 +624,11 @@
 	"ui_browse_mobile_transcoder_progress_finished": "تم الانتهاء",
 	"ui_browse_mobile_modal_delete_device_title": "إلغاء اقتران الجهاز {{device}}",
 	"ui_browse_mobile_modal_delete_device_message": "هل أنت متأكد من أنك تريد إلغاء إقتران <b>{{device}}</b>؟",
+	"ui_browse_mobile_modal_author_permission_missing_title": "مطلوب إذن استخدام الهاتف المحمول",
+	"ui_browse_mobile_modal_author_permission_missing_message": "لا يمكن تصدير الخلفية إلى جهازك المحمول لأن منشئ الخلفية يجب أن يوافق على أحدث اتفاقية وورك شوب [[[Platform]]] للمشتركين أولاً. <br/><br/> يمكنك إرسال الرابط التالي إلى المنشئ لمراجعة الاتفاقية الأخيرة وقبولها، ستصبح الخلفية بعد ذلك متاحة للأجهزة المحمولة:",
 	"ui_browse_mobile_modal_author_permission_missing_open_workshop": "افتح الـWorkshop",
+	"ui_browse_mobile_modal_author_permission_missing_alert": "تم تحديث اتفاقية مشتركي وورك شوب [[[Platform]]] لدعم استخدام الخلفيات على الهاتف. قم بمراجعة الاتفاقية وقبولها على موقع [[[Platform]]]:",
+	"ui_browse_mobile_modal_author_permission_missing_open_agreement": "فتح الاتفاقية",
 	"ui_rating_table_suitable_for_everyone": "مناسبة للجميع",
 	"ui_rating_table_partial_nudity_suggestive": "عري جزئي / إيحاءات",
 	"ui_rating_table_nudity_explicit": "عري كامل",
@@ -571,9 +637,9 @@
 	"ui_rating_table_header_photographic": "تصوير فوتوغرافي / واقعي",
 	"ui_rating_table_header_cgi": "رسومات حاسوبية / رسمات",
 	"ui_settings_playback": "التشغيل",
-	"ui_settings_playback_focused": ":عند التركيز على برنامج آخر",
-	"ui_settings_playback_maximized": ":عند تكبير برنامج آخر",
-	"ui_settings_playback_fullscreen": ":وضع ملء الشاشة",
+	"ui_settings_playback_focused": "عند التركيز على برنامج آخر:",
+	"ui_settings_playback_maximized": "عند تكبير برنامج آخر:",
+	"ui_settings_playback_fullscreen": "وضع ملء الشاشة:",
 	"ui_settings_playback_sleep": "الشاشة في وضع السكون:",
 	"ui_settings_playback_battery": "اللابتوب على البطارية:",
 	"ui_settings_playback_playing_audio": "تطبيق آخر يقوم بتشغيل صوت:",
@@ -597,21 +663,22 @@
 	"ui_settings_playback_rule_remove": "حذف",
 	"ui_settings_playback_rule_edit": "تعديل",
 	"ui_settings_gfx_quality": "الجودة",
-	"ui_settings_gfx_preset_low": "منخفض",
-	"ui_settings_gfx_preset_medium": "متوسط",
-	"ui_settings_gfx_preset_high": "عالي",
+	"ui_settings_gfx_preset_low": "منخفضة",
+	"ui_settings_gfx_preset_medium": "متوسطة",
+	"ui_settings_gfx_preset_high": "عالية",
 	"ui_settings_gfx_preset_ultra": "فائقة",
-	"ui_settings_gfx_antialiasing": "مضاد التعرجات",
+	"ui_settings_gfx_antialiasing": "مضاد التعرجات:",
 	"ui_settings_gfx_texture_resolution": "جودة الرسومات:",
-	"ui_settings_gfx_fps": "عدد اللقطات في الثانية:",
-	"ui_settings_gfx_reflections": ":الانعكاسات",
-	"ui_settings_gfx_post_processing": ":المعالجة البعدية",
-	"ui_settings_gfx_fps_warning": "!عدد اللقطات العالي قد يبطئ من جهازك",
-	"ui_settings_gfx_fps_warning_high": "قد يؤدي ارتفاع معدل الإطارات في الثانية إلى إبطاء جهاز الكمبيوتر الخاص بك! نحن جادون، هذا كثير 🔥.",
+	"ui_settings_gfx_fps": "معدل الاطارات في الثانية:",
+	"ui_settings_gfx_reflections": "الانعكاسات:",
+	"ui_settings_gfx_post_processing": "المعالجة اللاحقة:",
+	"ui_settings_gfx_fps_warning": "معدل الاطارات العالي قد يبطئ من اداء جهازك!",
+	"ui_settings_gfx_fps_warning_high": "قد يؤدي ارتفاع معدل الإطارات في الثانية إلى إبطاء جهاز الكمبيوتر الخاص بك! نحن جادون، تراك مزودها 🔥.",
 	"ui_settings_gfx_enabled": "مفعل",
 	"ui_settings_gfx_disabled": "معطل",
 	"ui_settings_gfx_ultra": "فائقة",
-	"ui_settings_gfx_tooltip_warn_post_processing_ultra": "يضيف الوضع الفائق ازدهار HDR إلى الخلفيات المدعومة ويوصى به فقط لكروت الشاشة القوية والمتطورة.",
+	"ui_settings_gfx_ultra_display_hdr": "فائقة (عرض النطاق الديناميكي العالي HDR)",
+	"ui_settings_gfx_tooltip_warn_post_processing_ultra": "يضيف الوضع الفائق اشعاعات النطاق الديناميكي العالي HDR إلى الخلفيات المدعومة ويوصى به فقط لكروت الشاشة القوية والمتطورة.",
 	"ui_settings_gfx_tooltip_warn_msaa": "يوصى باستخدام x8 MSAA فقط لكروت الشاشة القوية والمتطورة.",
 	"ui_settings_performance": "الأداء",
 	"ui_settings_general": "عام",
@@ -625,9 +692,9 @@
 	"ui_settings_advanced": "اعدادات متقدمة",
 	"ui_settings_developers": "للمطورين",
 	"ui_settings_reset": "إعادة ضبط",
-	"ui_settings_ui_language": ":لغة الواجهة",
-	"ui_settings_theme": "سمة (Theme):",
-	"ui_settings_seasonal_theme": "استخدم السمات الموسمية:",
+	"ui_settings_ui_language": "لغة الواجهة:",
+	"ui_settings_theme": "الثيم:",
+	"ui_settings_seasonal_theme": "استخدم الثيمات الموسمية:",
 	"ui_settings_seasonal_theme_hint": "يغير السمة خلال أوقات معينة من السنة.",
 	"ui_settings_hotkeys": "اختصارات:",
 	"ui_settings_hotkeys_header": "اختصارات",
@@ -636,9 +703,9 @@
 	"ui_settings_hotkeys_group_windows": "ويندوز",
 	"ui_settings_hotkeys_group_wallpaper": "تغيير الخلفية",
 	"ui_settings_hotkeys_group_wallpaper_stub": "يمكنك تعيين اختصارات للخلفيات أو قوائم التشغيل أو الملفات الشخصية في متصفح الخلفيات.",
-	"ui_settings_hotkeys_action_pause": "ايقاف خلفيات مؤقتا",
+	"ui_settings_hotkeys_action_pause": "ايقاف الخلفيات مؤقتا",
 	"ui_settings_hotkeys_action_stop": "ايقاف خلفيات",
-	"ui_settings_hotkeys_action_mute": "كتم خلفيات",
+	"ui_settings_hotkeys_action_mute": "كتم الخلفيات",
 	"ui_settings_hotkeys_action_recording": "تبديل تسجيل الصوت",
 	"ui_settings_hotkeys_action_hide_icons": "إخفاء ايقونات سطح المكتب",
 	"ui_settings_hotkeys_action_take_screenshot": "اخذ لقطة شاشة",
@@ -647,33 +714,33 @@
 	"ui_settings_hotkeys_action_window_settings": "الاعدادات",
 	"ui_settings_hotkeys_action_window_editor": "المُعدل",
 	"ui_settings_hotkeys_action_user_wallpaper": "اختيار خلفية",
-	"ui_settings_hotkeys_action_user_playlist": "اختبار قائمة تشغيل",
+	"ui_settings_hotkeys_action_user_playlist": "اختيار قائمة تشغيل",
 	"ui_settings_hotkeys_action_user_profile": "اختيار ملف شخصي",
 	"ui_settings_hotkeys_action_start_screensaver": "بدء شاشة التوقف",
 	"ui_settings_hotkeys_prompt_enter_combination": "اضغط على مجموعة المفاتيح",
 	"ui_settings_hotkeys_modal_prompt_override_header": "استبدال الاختصار",
 	"ui_settings_hotkeys_modal_prompt_override_body": "تم تعيين هذا المفتاح بالفعل لـ '{{action}}'. هل تريد تعيينه هنا بدلاً من ذلك؟",
 	"ui_settings_hotkeys_example": "يجب أن تحتوي الاختصارات على Ctrl و Shift و Alt. أمثلة:<br/><br/>Shift + Ctrl + B<br/>Shift + F1<br/><br/> الحد الأحمر يعني أن مفتاح الاختصار غير صالح.",
-	"ui_settings_icon_opacity": ":شفافية ايقونات سطح المكتب",
-	"ui_settings_recording_volume": ":صوت التسجيل",
+	"ui_settings_icon_opacity": "شفافية ايقونات سطح المكتب:",
+	"ui_settings_recording_volume": "صوت التسجيل:",
 	"ui_settings_recording_threshold": "تأخير التسجيل:",
-	"ui_settings_audio_input_device": ":جهاز ادخال الصوت",
+	"ui_settings_audio_input_device": "جهاز ادخال الصوت:",
 	"ui_settings_audio_input_device_default": "افتراضي",
-	"ui_settings_adjust_windows_color": ":ضبط لون ويندوز",
+	"ui_settings_adjust_windows_color": "ضبط لون ويندوز:",
 	"ui_settings_adjust_windows_color_light_theme_hint": "أنت تستخدم الثيم \"الفاتح\" للويندوز الذي لا يسمح بوجود ألوان على شريط المهام. لتتمكن من تغيير لون شريط المهام، قم بتغيير ثيم الويندوز إلى \"داكن\".",
 	"ui_settings_adjust_windows_color_disabled": "معطل",
 	"ui_settings_adjust_windows_color_accent": "ألوان الواجهة",
 	"ui_settings_adjust_windows_color_everything": "كل شيء",
 	"ui_settings_adjust_windows_color_warning_header": "تحذير بشأن لون الويندوز",
 	"ui_settings_adjust_windows_color_warning_body": "<b>مهم</b>: الرجاء الانتباه إلى أن تمكين هذه الميزة سيؤدي إلى تعديل شكل وأسلوب نظام الويندوز الخاص بك. لا يمكن لـ Wallpaper Engine العودة إلى المظهر الحالي الخاص بك. إذا كنت ترغب في العودة إلى تصميمك القديم، فأنت بحاجة إلى تغيير إعدادات لون ثيم الويندوز يدويًا.<br/><br/> إذا كنت لا تعرف كيفية القيام بذلك أو إذا كنت تستخدم إصدارًا غير نشط من Windows لا يسمح لك بالقيام بذلك ، يُرجى <br/>عدم</b> تمكين هذه الميزة!<br/><br/>لا يمكن إرجاع الألوان بواسطة Wallpaper Engine. يمكن التراجع عنها في إعدادات الويندوز بدلاً من ذلك.",
-	"ui_settings_start_with_windows": ":البدء مع ويندوز",
+	"ui_settings_start_with_windows": "البدء مع ويندوز:",
 	"ui_settings_remove_service": "ازالة الافضلية العالية",
 	"ui_settings_register_service": "ضبط افضلية عالية",
-	"ui_settings_advanced_video_read": ":تحميل الفيديو",
-	"ui_settings_advanced_video_loop": "حلقة الفيديو",
+	"ui_settings_advanced_video_read": "تحميل الفيديو:",
+	"ui_settings_advanced_video_loop": "تكرار الفيديو:",
 	"ui_settings_advanced_video_framework": "إطار عمل الفيديو:",
 	"ui_settings_advanced_webm_framework": "إطار عمل WebM:",
-	"ui_settings_advanced_log_level": ":مستوى السجل",
+	"ui_settings_advanced_log_level": "مستوى السجل:",
 	"ui_settings_advanced_cef_command_line": "سطر أوامر CEF:",
 	"ui_settings_advanced_cef_devtools_port": "منفذ CEF devtools:",
 	"ui_settings_advanced_unpause_during_aero_peek": "إلغاء الإيقاف أثناء Aero Peek:",
@@ -681,7 +748,9 @@
 	"ui_settings_advanced_stop_on_low_vram": "توقف مؤقتًا عند نفاد الـVRAM:",
 	"ui_settings_advanced_enable_browser_transparency": "إظهار خيار شفافية واجهة المستخدم:",
 	"ui_settings_advanced_mini_mode_minimize": "إخفاء التطبيقات الأخرى في الوضع المصغر:",
-	"ui_settings_about_changelog": "لوق التغيير",
+	"ui_settings_advanced_high_precision_timers": "استخدام مؤقتات عالية الدقة:",
+	"ui_settings_advanced_high_precision_timers_hint": "سيؤدي تفعيل المؤقتات عالية الدقة إلى تقليل التأتأة في خلفيات المشاهد وتوفير معدل اطارات أكثر اتساقًا ودقة. قد يؤثر أيضًا على استخدام الطاقة والمعالج، وبالتالي سيتم تقليل التأثير على أجهزة الكمبيوتر المحمولة لاستهلاك طاقة أقل أثناء التشغيل على البطارية.",
+	"ui_settings_about_changelog": "سجل التغييرات",
 	"ui_settings_about_community_hub": "مركز المجتمع",
 	"ui_settings_about_faq": "الدعم والأسئلة المتكررة",
 	"ui_settings_plugins": "الإضافات",
@@ -700,6 +769,7 @@
 	"ui_settings_plugins_options_led_plugin_enable_video": "تفعيل تأثيرات الفيديو",
 	"ui_settings_plugins_options_led_plugin_enable_web": "تفعيل تأثيرات الـWeb",
 	"ui_settings_plugins_options_led_plugin_max_brightness": "تعزيز ألوان LED",
+	"ui_settings_plugins_options_led_plugin_reduce_fps": "تقليل معدل تحديث LED",
 	"ui_settings_plugins_options_led_plugin_source_monitor": "الشاشة المصدر",
 	"ui_settings_plugins_options_led_plugin_source_monitor_option_default": "افتراضي",
 	"ui_settings_plugins_wallpaper_led_plugin_enable_sdks": "تفعيل تأثيرات LED",
@@ -724,14 +794,14 @@
 	"ui_settings_playback_pause_per_monitor": "ايقاف مؤقت لكل شاشة",
 	"ui_settings_playback_pause_all": "ايقاف الكل",
 	"ui_settings_playback_pause": "ايقاف",
-	"ui_settings_playback_stop": "(توقف (ذاكرة فارغة",
+	"ui_settings_playback_stop": "توقف (تفريغ الذاكرة)",
 	"ui_settings_playback_stop_all": "ايقاف الكل",
 	"ui_settings_playback_stop_per_monitor": "ايقاف لكل شاشة",
 	"ui_settings_playback_load_wallpaper": "تحميل خلفية",
 	"ui_settings_playback_load_playlist": "تحميل قائمة تشغيل",
 	"ui_settings_playback_load_profile": "تحميل ملف شخصي",
 	"ui_settings_read_from_disk": "من القرص الصلب",
-	"ui_settings_read_from_memory": "(من الذاكرة (رام",
+	"ui_settings_read_from_memory": "في الذاكرة",
 	"ui_settings_loop_default": "افتراضي",
 	"ui_settings_loop_sync_clock": "مزامنة الساعة",
 	"ui_settings_loop_sync_topo": "مزامنة البنية",
@@ -742,10 +812,10 @@
 	"ui_settings_advanced_reset_config_button": "اعادة ضبط",
 	"ui_settings_advanced_reset_config_modal_header": "تأكيد اعادة الضبط",
 	"ui_settings_advanced_reset_config_modal_body": "ستتم إعادة تعيين التطبيق <b>بالكامل</b>، وستتم إزالة <b>جميع</b> الإعدادات الخاصة بك وسيحتاج Wallpaper Engine إلى إعادة التشغيل.",
-	"ui_settings_video_audio_label": "مخرج الصوت والفيديو",
-	"ui_settings_video_hardware_acceleration_label": "تحسين اجهزة الفيديو",
+	"ui_settings_video_audio_label": "مخرج الصوت:",
+	"ui_settings_video_hardware_acceleration_label": "ميزة تسريع الاجهزة:",
 	"ui_settings_reload_audio_device_changed": "إعادة التحميل عند تغيير جهاز الإخراج:",
-	"ui_settings_process_priority": "افضلية العملية",
+	"ui_settings_process_priority": "افضلية العملية:",
 	"ui_settings_process_priority_normal": "عادي",
 	"ui_settings_process_priority_below_normal": "اقل من العادي",
 	"ui_settings_advanced_monitor_identification": "تحديد الشاشة:",
@@ -765,6 +835,8 @@
 	"ui_settings_video_framework_prefer_directshow_lav": "تفضيل DirectShow LAV",
 	"ui_settings_video_framework_prefer_chromium": "تفضيل Chromium",
 	"ui_settings_video_framework_prefer_native": "تفضل الأصلي",
+	"ui_settings_use_safe_mode": "الحماية ضد العطب:",
+	"ui_settings_use_safe_mode_hint": "سيؤدي هذا الخيار إلى منع Wallpaper Engine من تحميل الخلفيات المحددة حاليًا بعد التعطل.<br/><br/> إذا كانت ملفات الخلفية التي تم تنزيلها بواسطة [[[Platform]]] معطلة أو كانت هناك مشكلة في مكون أساسي في نظام التشغيل، يمكن أن يساعدك هذا الخيار في إزالة الخلفية المعطلة والانتقال إلى خلفية صالحة.<br/><br/> بشكل عام ليست هناك حاجة لتعطيل هذا الخيار. إذا كانت لديك مشكلات مستمرة في قطع الكمبيوتر أو الدرايفرات فستجعل تعطل البرنامج أمرًا لا مفر منه، فيمكنك تعطيل ذلك وسيقوم Wallpaper Engine بعد ذلك بتحميل آخر الخلفيات حتى بعد التعطل.",
 	"ui_settings_disable_slideshow": "إزالة تلاشي خلفية Windows:",
 	"ui_settings_disable_slideshow_tip": "عند تمكين هذا الخيار، سيحاول Wallpaper Engine إزالة تأثير تلاشي خلفية الشاشة الذي يستخدمه Windows افتراضيًا عند تبديل خلفيات Windows وعند تسجيل الدخول إلى Windows. إن إزالة سلوك Windows هذا ليس ممكنًا تمامًا وقد يستمر ظهور تأثير التلاشي للحظة وجيزة.",
 	"ui_settings_ui_hardware_acceleration": "تحسين أجهزة واجهة المستخدم:",
@@ -773,23 +845,40 @@
 	"ui_settings_ui_performance_high": "عالية - تمكين التأثيرات",
 	"ui_settings_ui_performance_medium": "متوسطة - تقليل التأثيرات",
 	"ui_settings_ui_performance_low": "منخفض - تعطيل كافة التأثيرات",
+	"ui_settings_restart_after_crash": "أعد التشغيل بعد حدوث كراش:",
 	"ui_settings_restart_after_crash_hint": "سيؤدي هذا الخيار إلى جعل Wallpaper Engine يعيد تشغيل نفسه فورًا بعد تعطله وسيعطل إشعارات التعطل في التطبيق الرئيسي.<br/><br/> لا يجب عليك مطلقًا تمكين هذا الخيار إلا إذا لم يكن لديك خيار آخر.<br/><br/>Wallpaper Engine نفسه مستقر للغاية ويجب ألا يتعطل في الظروف العادية. هذا الخيار موجود فقط لمكافحة الأعطال على الأنظمة غير المستقرة بسبب برامج تشغيل كرت الشاشة المتعطلة أو البرامج القوية التي تجعل Wallpaper Engine يتعطل بلا حول ولا قوة.<br/><br/><b> يمكنك مقاطعة إعادة التشغيل التلقائي عن طريق الضغط باستمرار على مفتاح ESCAPE.</b>",
+	"ui_settings_enable_override_wallpaper": "وضع فوق صورة الخلفية:",
+	"ui_settings_enable_override_lockscreen": "وضع فوق صورة شاشة القفل:",
 	"ui_settings_enable_override_system_image_info_title": "وضع فوق خلفية الويندوز او صورة شاشة القفل",
 	"ui_settings_enable_override_system_image_info_message": "الرجاء إنشاء <b>نسخة احتياطية من خلفية Windows وصورة شاشة القفل</b> قبل تمكين هذا الخيار.<br/><br/> سيحاول Wallpaper Engine استعادة الصورة عند تعطيل هذه الخيارات مرة أخرى تلقائيًا، ولكن يجب عليك التأكد من أن لديك نسخة احتياطية من خلفية Windows وشاشة القفل في حالة تعذر استعادتها.",
 	"ui_settings_restore_override_wallpaper_title": "استعادة خلفية الويندوز",
 	"ui_settings_restore_override_wallpaper_message": "أنت تقوم بتعطيل خيار الكتابة فوق خلفية Windows. هل ترغب في استعادة خلفية Windows التي حفظها Wallpaper Engine عند تمكين هذا الخيار لأول مرة؟",
 	"ui_settings_restore_override_lockscreen_title": "استعادة صورة شاشة القفل",
+	"ui_settings_restore_override_lockscreen_message": "أنت تقوم بتعطيل خيار الكتابة فوق صورة شاشة القفل. هل ترغب في استعادة صورة شاشة القفل التي حفظها Wallpaper Engine عند تمكين هذا الخيار لأول مرة؟",
+	"ui_settings_enable_vdesktop_support": "دعم سطح المكتب الافتراضي:",
+	"ui_settings_enable_vdesktop_support_hint": "<b>تجريبي</b><br/><br/> سيسمح لك هذا الخيار بتعيين خلفيات مختلفة لكل سطح مكتب افتراضي. يتطلب دعم سطح المكتب الافتراضي Windows 10 (تحديث 21H2 أو أحدث) أو Windows 11.",
+	"ui_settings_enable_vdesktop_support_hint_win11": "<br/><br/><b>إشعار بخصوص ويندوز 11:</b> لا تزال Microsoft تعمل على ميزات سطح المكتب الافتراضية الجديدة على ويندوز 11. وهذا يعني أنه يجب أن تتوقع حدوث مشكلات مع تحديثات ويندوز القادمة والتي ستحتاج إلى حل بواسطة تحديث Wallpaper Engine. يرجى ملاحظة أنه لا يمكننا توفير تحديثات للمشكلات كجزء من الإصدارات التجريبية من برنامج (Windows Insider Preview) نظرًا لأن Microsoft تقوم بتغييرها بشكل متكرر.",
+	"ui_settings_enable_vdesktop_support_hint_transition": "<br/><br/>يتم التعامل مع <b>التأثير الانتقالي</b> عند تبديل أسطح المكتب الافتراضية داخليًا بواسطة ويندوز ولا يمكن لـ Wallpaper Engine عرض كلتا الخلفيات بشكل صحيح أثناء الانتقال.",
+	"ui_settings_enable_vdesktop_support_hint_crash": "<br/><br/>بينما لا تزال هذه ميزة تجريبية وفي التطوير المستمر بواسطة Microsoft على ويندوز 11، إذا تعطل Wallpaper Engine، فسيتم تعطيل هذا الخيار تلقائيًا وستحتاج إلى إعادة تمكينه.",
+	"ui_settings_enable_vdesktop_support_hint_build_error": "إصدار غير مدعوم: <b>{{version}}</b>. <br/>يجب تحديث ويندوز {{windows}} الى {{buildneeded}} او احدث.",
 	"ui_settings_copyright": "جميع الحقوق محفوظة",
 	"ui_settings_thirdparty": "إشعارات الطرف الثالث",
+	"ui_settings_thirdparty_licenses": "تراخيص",
+	"ui_settings_thirdparty_main_app": "التطبيق الاساسي - Wallpaper Engine",
+	"ui_settings_thirdparty_dlc_editor_extensions": "حزمة ملحقات التعديل - Wallpaper Engine",
 	"ui_settings_highpriority_warning_header": "معلومات عن الافضلية العالية",
 	"ui_settings_highpriority_warning": "وضع الافضلية العالية سيقوم بتشغيل البرنامج بشكل اسرع باستخدام خدمات ويندوز. لكن اذا كنت تواجه مشاكل مع هذه الطريقة فجرب تعطيل الافضلية العالية. قد يكون حل افضل لكن ابطء",
-	"ui_welcome_header": "مرحبا بك في محرك الصور",
-	"ui_welcome_quality_description_header": ":الوصف",
-	"ui_welcome_quality_fps_limit": ":حد معدل الاطارات",
-	"ui_welcome_quality_anti_aliasing": ":مضاد التعرجات",
-	"ui_welcome_quality_reflections": ":انعكاسات",
+	"ui_welcome_header": "مرحبا بك في Wallpaper Engine",
+	"ui_welcome_intro": "هذه مقدمة قصيرة لتبدأ بها وتهيئة بعض الخيارات المهمة لك. يمكن أيضًا تغيير كل شيء تقوم بضبطه هنا في إعدادات Wallpaper Engine في وقت لاحق!",
+	"ui_welcome_quality_column_header": "حدد جودة الخلفية الإجمالية، ولا يزال بإمكانك تغيير ذلك لاحقًا:",
+	"ui_welcome_quality_description_header": "الوصف:",
+	"ui_welcome_quality_fps_limit": "حد معدل الاطارات:",
+	"ui_welcome_quality_anti_aliasing": "مضاد التعرجات:",
+	"ui_welcome_quality_bloom": "المعالجة-اللاحقة:",
+	"ui_welcome_quality_reflections": "انعكاسات:",
 	"ui_welcome_windows_color_description": "دع الخلفيات تضبط ألوان حواف ويندوز تلقائيا",
 	"ui_welcome_windows_color_header": "ضبط ألوان ويندوز",
+	"ui_welcome_use_dark_theme_description": "استخدم ثيم داكن للبرنامج:",
 	"ui_welcome_use_dark_theme": "تفعيل الدارك ثيم",
 	"ui_welcome_autostart_description": "<b>إظهار الخلفيات المتحركة عند بدء تشغيل الويندوز</b> عن طريق تشغيل Wallpaper Engine بهدوء في الخلفية عند بدء تشغيل الكمبيوتر <b>(موصى به)</b>:",
 	"ui_welcome_autostart_label": "اشتغل تلقائيًا",
@@ -803,7 +892,7 @@
 	"ui_editor_pane_header_camera": "مسارات الكاميرا",
 	"ui_editor_pane_header_preview": "معاينة",
 	"ui_editor_pane_header_properties": "الخصائص",
-	"ui_editor_pane_header_assets": "الاصول",
+	"ui_editor_pane_header_assets": "المُكونات",
 	"ui_editor_pane_header_log": "سجل",
 	"ui_editor_pane_header_brush": "فرشاة",
 	"ui_editor_pane_header_animation_editor": "تحريك",
@@ -832,7 +921,8 @@
 	"ui_editor_filemenu_change_project_settings": "تغيير اعدادات المشروع",
 	"ui_editor_filemenu_open_in_explorer": "فتح في المستكشف",
 	"ui_editor_filemenu_template_wizard": "معالج القالب",
-	"ui_editor_filemenu_view": "مشاهدة",
+	"ui_editor_filemenu_clean_project": "مشروع نظيف",
+	"ui_editor_filemenu_view": "عرض",
 	"ui_editor_filemenu_restart_preview": "اعادة المعاينة",
 	"ui_editor_filemenu_preview_aspect_ratio": "ابعاد المعاينة",
 	"ui_editor_filemenu_reset_camera": "اعادة ضبط الكاميرا",
@@ -843,14 +933,14 @@
 	"ui_editor_filemenu_show_axis": "إظهار المحور",
 	"ui_editor_filemenu_show_selection_box": "إظهار مربع التحديد",
 	"ui_editor_filemenu_show_in_workshop": "إضهار في الوورك شوب",
-	"ui_editor_filemenu_show_asset_creation": "تمكين إنشاء الأصول",
+	"ui_editor_filemenu_show_asset_creation": "تمكين إنشاء المُكونات",
 	"ui_editor_filemenu_show_desktop_preview": "إظهار المعاينة في سطح المكتب",
 	"ui_editor_filemenu_show_phone_preview": "إظهار معاينة الهاتف",
 	"ui_editor_filemenu_prepare_for_publishing": "نشر الخلفية في الوورك شوب",
 	"ui_editor_filemenu_apply_wallpaper": "تطبيق الخلفية",
 	"ui_editor_filemenu_close_wallpaper": "اغلاق المشروع",
-	"ui_editor_filemenu_browse_assets": "تصفح الأصول في الوورك شوب",
-	"ui_editor_filemenu_publish_asset": "نشر الأصول في الوورك شوب",
+	"ui_editor_filemenu_browse_assets": "تصفح المُكونات في الوورك شوب",
+	"ui_editor_filemenu_publish_asset": "نشر المُكونات في الوورك شوب",
 	"ui_editor_filemenu_provider": "الوورك شوب",
 	"ui_editor_filemenu_help": "مساعدة",
 	"ui_editor_filemenu_help_show_documentation_scene": "مستند مصمم المشاهد",
@@ -866,36 +956,105 @@
 	"ui_editor_filemenu_help_fps_limit": "حد الفريمات",
 	"ui_editor_filemenu_help_debugging": "التصحيح",
 	"ui_editor_filemenu_help_puppet_warp": "Puppet Warp",
+	"ui_editor_filemenu_help_foreground_separation": "فصل الامامية",
+	"ui_editor_filemenu_help_lighting_and_reflections": "الاضاءة والانعكاسات",
+	"ui_editor_filemenu_help_texture_optimization": "تحسين الرسومات",
+	"ui_editor_filemenu_editor_settings": "اعدادات المُعدل",
+	"ui_editor_filemenu_delete_submissions": "حذف تحميلات الوورك شوب",
+	"ui_editor_filemenu_show_stats_never": "ابداً",
+	"ui_editor_filemenu_show_stats_auto": "تلقائيًا",
+	"ui_editor_filemenu_show_stats_always": "دائمًا",
+	"ui_editor_save_as_header": "حفظ بإسم",
+	"ui_editor_save_as_body": "اختر اسم مشروع جديد:",
+	"ui_editor_modal_duplicate_texture_header": "رسومات مكررة",
+	"ui_editor_modal_duplicate_texture_body": "سيؤدي هذا إلى تكرار الرسومات، بحيث يمكنك تعديله على هذه الطبقة دون التأثير على الطبقات الأخرى التي تستخدم نفس الرسوم.<br/><br/>يمكن أن يكون هذا مفيدًا إذا كنت قد قمت مسبقًا بتكرار الطبقة بأكملها أو التأثير، ولكن ضع في اعتبارك أن هذا سيزيد من الذاكرة المطلوبة للخلفية أيضًا.",
 	"ui_editor_modal_video_file_invalid_header": "ملف الفيديو كبير جدًا",
+	"ui_editor_modal_video_file_invalid_body": "ملف الفيديو المحدد {{file}} كبير جدًا. يمكنك فقط تحميل مقاطع فيديو إلى Workshop أصغر من {{size}}.<br/><br/> هذا التقيبد<i>فقط </i> للوورك شوب، ولا يزال بإمكانك بالطبع استخدام هذا الفيديو باعتباره خلفية لنفسك ببساطة عن طريق سحبها إلى متصفح ملفات الخلفية أو النقر فوق <i>فتح الخلفية</i> في المتصفح.",
+	"ui_editor_modal_project_files_invalid_header": "المشروع كبير جدًا",
+	"ui_editor_modal_project_files_invalid_body": "ملفات المشروع المحددة كبيرة جدًا. يمكنك فقط تحميل مشروع إلى الوورك شوب اذا كان أصغر من {{size}}.<br/><br/>هذا التقبيد <i>فقط</i> للوورك شوب، يمكنك بالطبع استخدام هذا المشروع كخلفية لنفسك بمجرد سحبها إلى متصفح ملفات الخلفية أو النقر فوق <i>فتح الخلفية</i> في المتصفح.",
+	"ui_editor_modal_project_files_invalid_toast": "يمكنك فقط تحميل مشروع إلى الوورك شوب اذا كان أصغر من {{size}}.",
+	"ui_editor_delete_project_modal_header": "تأكيد الحذف",
+	"ui_editor_delete_project_modal_body": "هل تريد بالتأكيد حذف المشروع نهائيًا: <br/><b>{{title}}</b>؟<br/><br/> <b>لن</b> تتمكن من تحديث او استخدام المشروع بعد حذفه.",
+	"ui_editor_no_animation_modal_header": "الخلفية غير متحركة",
+	"ui_editor_no_animation_modal_body": "يبدو أنك تحاول تحميل خلفية مشهد بدون رسوم متحركة.<b> هذا غير مستحسن.</b><br/><br/> يستحسن Wallpaper Engine الخلفيات المتحركة، لذلك إذا كنت تريد فقط استخدام صورة ثابتة، فمن المستحسن استخدام نظام التشغيل الخاص بك في هذه الحالة. <br/><br/> هل تريد المتابعة على أي حال؟",
+	"ui_editor_review_info_header": "عملية الاستعراض",
+	"ui_editor_review_info_body": "ستتم مراجعة الخلفية الخاص بك قبل أن يتمكن المستخدمون الآخرون من العثور عليها وتنزيلها للتأكد من أنها لا تنتهك أي قوانين محلية.<br/><br/>إذا قمت بتحديث الخلفية الخاصة بك، فيجب مراجعتها مرة أخرى وإرسالها إلى الجزء الخلفي من قائمة الانتظار.",
+	"ui_editor_workshop_eula_title": "تم تحديث اتفاقية ترخيص المستخدم (EULA) للوورك شوب",
+	"ui_editor_workshop_eula_body": "يرجى مراجعة وقبول اتفاقية الاشتراك في الوورك شوب الأخيرة [[[Platform]]] قبل أن تتمكن من متابعة عملية تحميل الخلفية الخاصة بك:",
+	"ui_editor_workshop_eula_button": "عرض اتفاقية ترخيص المستخدم (EULA) على ستيم",
+	"ui_editor_workshop_eula_waiting_hint": "بانتظار قبول اتفاقية ترخيص المستخدم (EULA)",
+	"ui_editor_modal_unsaved_changes_header": "تعديلات غير محفوظة",
+	"ui_editor_modal_unsaved_changes_body": "لديك تغييرات غير محفوظة في مشروعك. هل ترغب في حفظها أم التخلص منها الآن؟",
+	"ui_editor_modal_delete_published_wallpapers_header": "حذف الخلفيات المنشورة",
+	"ui_editor_modal_delete_published_wallpapers_danger_alert": "سيتم حذف أي تحميلات من الوورك شوب تحذفها من هذه القائمة من وورك شول [[[Platform]]] تمامًا. سيتم أيضًا حذف جميع المحتويات من كل مستخدم اشترك فيها عبر [[[Platform]]].",
+	"ui_editor_modal_delete_published_wallpapers_button": "حذف نهائي",
+	"ui_editor_modal_delete_published_wallpapers_confirm_header": "حذف {{title}} نهائيا",
+	"ui_editor_modal_delete_published_wallpapers_confirm_body": "هل أنت متأكد من أنك تريد حذف {{title}} نهائيًا من وورك شوب [[[Platform]]]؟<br/><br/>سيتم حذفها نهائيًا من وورك شوب [[[Platform]]] ولكل مستخدم اشترك فيها.",
+	"ui_editor_modal_dlc_prompt_title": "الحزمة المجانية مطلوبة",
+	"ui_editor_modal_dlc_prompt_message_offline": "هذه الوظيفة المتقدمة هي جزء من حزمة <b>{{name}}</b> المجانية، والذي تتطلب {{size}} من مساحة القرص. <br/><br/> الرجاء تشغيل [[[Platform]]] واعادة تشغيل Wallpaper Engine لتنزيله.",
+	"ui_editor_modal_dlc_prompt_message_ask_download": "هذه الوظيفة المتقدمة هي جزء من حزمة <b>{{name}}</b> المجانية، والذي تتطلب {{size}} من مساحة القرص.<br/><br/> هل يجب على [[[Platform]]] تحميلها الان؟",
+	"ui_editor_modal_dlc_prompt_message_ask_manual": "هذه الوظيفة المتقدمة هي جزء من حزمة <b>{{name}}</b> المجانية، رجاءً قم بتنزيلها من خلال [[[Platform]]] لإستخدامها.",
+	"ui_editor_modal_dlc_prompt_message_progress": "الرجاء الانتظار ريثما يتم تنزيل حزمة <b>{{name}}</b>.",
+	"ui_editor_modal_dlc_prompt_message_progress_info": "تم تنزيل {{sizeDownloaded}} من أصل {{sizeTotal}}.",
+	"ui_editor_modal_dlc_prompt_cancel_download_title": "الغاء تنزيل {{name}}",
+	"ui_editor_modal_dlc_prompt_cancel_download_message": "هل تريد الغاء تنزيل حزمة <b>{{name}}</b>؟",
+	"ui_dlc_editor_extensions_name": "ملحقات التعديل - Wallpaper Engine",
 	"ui_editor_treeview_header_files": "الملفات المستوردة",
 	"ui_editor_tooltip_layers": "طبقات",
 	"ui_editor_tooltip_scene_options": "خيارات المشهد",
 	"ui_editor_camera_add_path": "اضافة مسار",
 	"ui_editor_camera_select_path": "الرجاء اختيار مسار على اليسار",
+	"ui_editor_camera_add_renderable": "إضافة مُكون",
 	"ui_editor_gizmo_translate": "ترجمة",
 	"ui_editor_gizmo_rotate": "تدوير",
 	"ui_editor_gizmo_scale": "قياس",
+	"ui_editor_gizmo_multi": "متعدد",
+	"ui_editor_welcome_modal_create_wallpaper": "انشاء خلفية",
+	"ui_editor_welcome_modal_drop_background_file": "قم بإسقاط ملف الخلفية هنا",
+	"ui_editor_welcome_modal_supported_file_types": "أنواع الملفات المدعومة:",
+	"ui_editor_welcome_modal_use_a_template": "استخدام قالب",
+	"ui_editor_welcome_modal_view_all_projects": "عرض جميع المشاريع",
 	"ui_editor_welcome_modal_new_scene_wallpaper": "خلفية مشهد جديدة",
 	"ui_editor_welcome_modal_new_video_wallpaper": "خلفية فيديو جديدة",
+	"ui_editor_welcome_modal_new_template_wallpaper": "خلفية جديدة من قالب",
 	"ui_editor_welcome_modal_new_web_wallpaper": "خلفية شبكة جديدة",
 	"ui_editor_welcome_modal_new_application_wallpaper": "خلفية برنامج جديدة",
-	"ui_editor_welcome_modal_edit_recent_wallpaper": ":تعديل الخلفيات السابقة",
+	"ui_editor_welcome_modal_edit_recent_wallpaper": "تعديل الخلفيات السابقة:",
 	"ui_editor_welcome_modal_edit_recent_no_wallpapers": "لم يتم ايجاد اي خلفيات سابقة",
-	"ui_editor_welcome_modal_show_more": "...اظهار المزيد",
+	"ui_editor_welcome_modal_show_more": "اظهار المزيد...",
+	"ui_editor_welcome_modal_project_name": "اسم المشروع",
+	"ui_editor_welcome_modal_file": "ملف",
 	"ui_editor_welcome_modal_video_file": "ملف فيديو",
 	"ui_editor_welcome_modal_import": "استيراد",
 	"ui_editor_welcome_modal_import_folder": "استيراد مجلد",
 	"ui_editor_welcome_modal_no_file_selected": "لم يتم اختيار ملف",
 	"ui_editor_welcome_modal_imported_files": "الملفات المستوردة",
 	"ui_editor_welcome_modal_template": "قالب",
+	"ui_editor_welcome_modal_aspect": "ابعاد العرض",
 	"ui_editor_welcome_modal_title_new": "جديد",
 	"ui_editor_welcome_modal_title_welcome": "مرحبا",
+	"ui_editor_welcome_modal_hint_text": "جديد في Wallpaper Engine؟ تأكد من مراجعة وثائق المصممين الرسمية للحصول على أدلة شاملة ونصائح مفيدة:",
+	"ui_editor_welcome_modal_hint_backup_text": "نصيحة: قم بعمل نسخة احتياطية من ملفات مشروعك عند تبديل أجهزة الكمبيوتر!",
+	"ui_editor_welcome_modal_documentation": "وثائق المصممين",
+	"ui_editor_welcome_modal_resize_toggle_label": "تغيير حجم الصورة",
+	"ui_editor_welcome_modal_resize_resolution_label": "تغيير الدقة",
+	"ui_editor_welcome_modal_resize_alert": "تبلغ دقة صورتك {{width}} x {{height}} بكسل وهي ليست دقة عرض شائعة. يوصى بالسماح لـ Wallpaper Engine بتغيير حجم الصورة لك.",
+	"ui_editor_welcome_modal_resize_alert_portrait": "صورتك هي صورة عمودية بدقة {{width}} x {{height}} بكسل. ما لم يكن لديك شاشة بورتريه، سيتم قطع الكثير من الصورة.",
+	"ui_editor_welcome_modal_resize_recommended": "(موصى به)",
+	"ui_editor_importer_title": "استيراد {{type}} {{file}}",
+	"ui_editor_importer_type_image": "صورة",
+	"ui_editor_importer_type_model": "نموذج",
+	"ui_editor_importer_material_name": "اسم الملف",
+	"ui_editor_importer_settings": "الاعدادات",
+	"ui_editor_importer_crop_transparency_help": "سيتم اقتصاص المنطقة الشفافة وسيتم تغيير حجم صورتك لتحسين الأداء.<br/><br/> إذا قمت بتحديث صورتك لاحقًا، فتأكد من عدم تقليص المنطقة الشفافة أو توسيعها، حيث قد يتسبب ذلك في حدوث مشكلات في التأثيرات الحالية التي قمت بإضافتها.",
 	"ui_editor_importer_crop_transparency_warning": "يبدو أن المنطقة الشفافة من الصورة قد تغيرت. إذا كان لديك أي تأثيرات على هذه الصورة بالفعل، فقد تضطر إلى إصلاحها إذا واصلت استيراد هذه الصورة.",
 	"ui_editor_importer_please_wait": "الرجاء الانتظار",
-	"ui_editor_importer_compiling_assets_for": "تجميع الأصول لـ",
+	"ui_editor_importer_compiling_assets_for": "تجميع المُكونات لـ",
 	"ui_editor_importer_compiling_file": "تجميع الملف",
 	"ui_editor_importer_gif_warning_header": "تحذير بشأن حجم الـGIF",
 	"ui_editor_importer_gif_warning_body": "يحتل ملف GIF الذي تحاول استيراده مساحة كبيرة من الذاكرة عند تحويله إلى تنسيق أكثر قابلية للاستخدام. يمكن لـ Wallpaper Engine محاولة تحويله على أي حال، ولكن قد تفشل العملية بسبب حدوث خطأ.<br/><br/> تنسيق GIF بشكل عام غير مناسب للصور عالية الدقة و/أو الكثير من الفريمات، يجب أن تفكر في استخدام ملف mp4 للخلفية لأنه سيعمل بشكل أفضل.",
+	"ui_editor_importer_texture_format_r8": "جودة عالية - قناة واحدة غير مضغوطة (R 8)",
+	"ui_editor_importer_texture_format_rg88": "جودة عالية - قناة مزدوجة غير مضغوطة (RG 88)",
 	"ui_editor_importer_texture_format_rgba8888": "جودة عالية - غير مضغوط (RGBA 8888)",
 	"ui_editor_importer_texture_format_dxt5": "أداء جيد - ضغط خفيف (DXT5)",
 	"ui_editor_importer_texture_format_dxt1": "أداء عالٍ - ضغط متوسط (DXT1)",
@@ -903,7 +1062,7 @@
 	"ui_editor_template_wizard_header": "معالج القوالب",
 	"ui_editor_template_wizard_select_option": "حدد خيارا",
 	"ui_editor_template_wizard_details": "تفاصيل",
-	"ui_editor_template_wizard_last_import": ":اخر استيراد",
+	"ui_editor_template_wizard_last_import": "اخر استيراد:",
 	"ui_editor_template_wizard_import_image": "استيراد صورة",
 	"ui_editor_publish_modal_header": "نشر الى الوورك شوب",
 	"ui_editor_publish_modal_header_upload": "جاري الرفع الى [[[Platform]]]",
@@ -911,8 +1070,47 @@
 	"ui_editor_publish_modal_button_publish_update": "نشر تحديث",
 	"ui_editor_publish_modal_button_show_in_workshop": "إظهار الخلفية في الوورك شوب",
 	"ui_editor_publish_modal_button_show_in_workshop_generic": "إظهار في الوورك شوب",
-	"ui_editor_publish_modal_publish_successful": ".تم نشر العنصر بنجاح",
+	"ui_editor_publish_modal_steam_error": "واجه [[[Platform]]] الخطأ التالي: <br/><br/>{{error}}<br/><br/> تأكد من عدم تداخل جدار الحماية أو تطبيق مكافحة الفيروسات مع [[[Platform]]]. أعد تشغيل [[[Platform]]] وحاول مرة أخرى لاحقًا في حالة وجود مشكلات مؤقتة في الخادم أو الشبكة.",
+	"ui_editor_publish_modal_publish_successful": "تم نشر العنصر بنجاح.",
+	"ui_editor_publish_modal_publish_prompt_agreement": "تحتاج إلى الموافقة على اتفاقية وورك شوب [[[Platform]]] قبل أن تكون الخلفية الخاصة بك مرئيًا للآخرين. عرض الخلفية الخاصة بك على وورك شوب [[[Platform]]] الآن:",
+	"ui_editor_publish_modal_progress_validate": "التحقق من صحة عنصر وورك شوب...",
+	"ui_editor_publish_modal_progress_create": "إنشاء عنصر وورك شوب...",
+	"ui_editor_publish_modal_progress_prepare_data": "تحديث بيانات عنصر وورك شوب...",
+	"ui_editor_publish_modal_progress_prepare_item": "إرسال عنصر وورك شوب...",
+	"ui_editor_publish_modal_progress_prepare_config": "إرسال عنصر وورك شوب، معالجة الاعدادات...",
+	"ui_editor_publish_modal_progress_prepare_content": "إرسال عنصر وورك شوب، معالجة المحتوى...",
+	"ui_editor_publish_modal_progress_uploading_content": "إرسال عنصر وورك شوب، تحميل المحتوى...",
+	"ui_editor_publish_modal_progress_uploading_preview": "إرسال عنصر وورك شوب، تحميل صورة المعاينة...",
+	"ui_editor_publish_modal_progress_final": "إرسال عنصر وورك شوب، تطبيق التعديلات...",
+	"ui_editor_publish_modal_snapshot_failed_reading": "فشل قراءة حجم الملف: {{file}}.",
+	"ui_editor_publish_modal_snapshot_too_large": "هذه الصورة كبيرة جدا ( اعلى حجم {{size}}).",
+	"ui_editor_publish_modal_snapshot_failed_opening": "فشل فتح الملف: {{file}}.",
+	"ui_editor_publish_modal_snapshot_not_square": "هذه الصورة ليست مربعة.",
 	"ui_editor_publish_modal_snapshot_resolution_too_high": "الرجاء استخدام معاينة صورة لا يزيد حجمها عن {{size}} بكسل.",
+	"ui_editor_publish_modal_info_asset_reuse_header": "اتفاقية نشر المُكونات",
+	"ui_editor_publish_modal_info_asset_reuse_body": "بتحميل أحد المكونات إلى وورك شوب [[[Platform]]]، فإنك توافق على أنه يجوز للمستخدمين الآخرين إعادة استخدام وربما إعادة تحميل الإصدارات المعدلة من المكون الخاص بك دون إخطارك. ستظل المكونات المحذوفة موجودة في الخلفيات التي تم إنشاؤها بالفعل.",
+	"ui_editor_publish_assets_modal_header_alert": "أنت على وشك نشر <b>مكون</b>، وليس خلفية. من فضلك لا تنشر خلفيات كاملة مع هذه القائمة. إذا كنت تريد نشر خلفية،<b>فانقر فوق هذه الرسالة</b>.",
+	"ui_editor_publish_assets_modal_header": "نشر مكونات الى الوورك شوب",
+	"ui_editor_publish_assets_modal_select_asset_type": "الرجاء اختيار نوع المكون التي ترغب في مشاركته في الوورك شوب:",
+	"ui_editor_publish_assets_modal_select_asset_share_variants": "انشر كحزمة مكونات. سيتمكن المستخدمون من استيراد كل طبقة على حدة.",
+	"ui_editor_publish_assets_modal_select_layers": "حدد الطبقات التي ترغب في مشاركتها:",
+	"ui_editor_publish_assets_modal_select_layers_empty": "لا توجد طبقات مؤهلة للاختيار من بينها للمشاركة.",
+	"ui_editor_publish_assets_modal_select_effect": "حدد التأثير الذي ترغب في مشاركته:",
+	"ui_editor_publish_assets_modal_select_effect_empty": "لا توجد تأثيرات مؤهلة للاختيار من بينها للمشاركة.",
+	"ui_editor_publish_assets_modal_asset_type_layers": "طبقات",
+	"ui_editor_publish_assets_modal_asset_type_effects": "تأثيرات",
+	"ui_editor_publish_assets_modal_asset_type_scripts": "نصوص برمجية",
+	"ui_editor_warn_advanced_assets_creation_modal_header": "قم بتمكين إنشاء المكونات",
+	"ui_editor_warn_advanced_assets_creation_modal_body": "يجب استخدام هذا الخيار فقط بواسطة المستخدمين المتقدمين الذين هم على دراية بالمحرر وقد نشروا بعض خلفيات المشاهد من قبل.<br/><br/>سيؤدي تمكين هذا إلى إضافة أزرار إلى المحرر تتيح لك إنشاء مكونات فردية جديدة تمت مشاركتها في الوورك شوب للآخرين لإعادة استخدامها في خلفياتهم الخاصة.",
+	"ui_editor_effect_list_modal_browse_workshop": "تصفح الوورك شوب",
+	"ui_editor_effect_list_modal_create_new": "جديد",
+	"ui_editor_effect_list_modal_create_new_effect_header": "انشاء تأثير جديد",
+	"ui_editor_effect_list_modal_create_new_effect_body": "أنت على وشك إنشاء تأثير جديد قابل للتعديل. يمكنك تغيير التظليل بأي طريقة تريدها.<br/><br/> اختر اسمًا فريدًا للتأثير الجديد:",
+	"ui_editor_effect_list_modal_create_duplicate": "مكرر",
+	"ui_editor_effect_list_modal_create_duplicate_effect_header": "تأثير مكرر",
+	"ui_editor_effect_list_modal_create_duplicate_effect_body": "أنت على وشك تكرار التأثير '{{effect}}' وإنشاء تأثير جديد قابل للتعديل حيث يمكنك تغيير الظلال بأي طريقة تريدها.<br/><br/>اختر اسمًا فريدًا للتأثير الجديد:",
+	"ui_editor_effect_list_modal_delete_effect_header": "حذف تأثير",
+	"ui_editor_effect_list_modal_delete_effect_body": "هل أنت متأكد أنك تريد حذف التأثير \"{{effect}}\"؟<br/><br/> سيؤدي هذا إلى حذف جميع استخدامات هذا التأثير داخل الخلفية ولا يمكن التراجع عن هذا!",
 	"ui_editor_workshop_options_title": "العنوان",
 	"ui_editor_workshop_options_description": "الوصف",
 	"ui_editor_workshop_options_tags": "الوسوم",
@@ -924,10 +1122,37 @@
 	"ui_editor_workshop_options_preview_take_snapshot": "اخذ لقطة",
 	"ui_editor_workshop_options_preview_import_file": "استيراد ملف",
 	"ui_editor_workshop_options_required": " *مطلوب",
+	"ui_editor_workshop_options_rating": "التصنيف العمري",
+	"ui_editor_workshop_options_rating_change": "تغيير",
+	"ui_editor_workshop_options_upload_as": "تحميل باسم",
+	"ui_editor_workshop_options_upload_as_new_item": "انشاء عنصر جديد",
+	"ui_editor_workshop_options_upload_as_update": "تحديث عنصر موجود {{name}}",
+	"ui_editor_workshop_options_upload_as_pending": "بإنتظار [[[Platform]]] للإستجابة...",
+	"ui_editor_workshop_modal_rating_header": "اختيار تصنيف",
+	"ui_editor_workshop_modal_rating_body_preview": "يجب أن تكون صورة المعاينة مناسبة للجميع ويجب ألا تعرض العري الكامل مطلقًا.",
+	"ui_editor_workshop_modal_rating_body": "اختر التصنيف العمري المناسب للمحتوى الخاص بك. قد يؤدي تحديد التصنيف العمري غير المناسب إلى إزالة التحميل الخاص بك وحظر حسابك. عندما تكون في شك، اختر تصنيفًا عمريًا أكثر تقييدًا. يُحظر المحتوى المسيء أو المزعج أو الذي يعمل فقط كمحتوى مزعج ومكرر وستتم إزالته.<br/><br/><b>الرجاء الملاحظة:</b> لست بحاجة إلى تحميل الخلفيات على الإطلاق من أجل استخدامها لنفسك فقط.",
+	"ui_editor_workshop_modal_rating_no_rating_info_header": "محتوى مناسب",
 	"ui_editor_workshop_modal_rating_no_rating_info_body": "يرجى التأكد من أن أي محتوى تقوم بتحميله مناسب للجميع! إذا قمت بتحميل أي شيء مشكوك فيه أو غير قانوني، فقد يتم حظر إرسالك أو حسابك بالكامل.",
+	"ui_editor_workshop_modal_rating_body_preview_warning_title": "صورة معاينة",
 	"ui_editor_open_modal_header": "فتح خلفية",
 	"ui_editor_open_modal_delete": " حذف",
+	"ui_editor_context_menu_center": "توسيط",
+	"ui_editor_context_menu_align_with_background": "محاذاة مع الخلفية",
+	"ui_editor_context_menu_rotate_clockwise": "تدوير مع عقارب الساعة",
+	"ui_editor_context_menu_rotate_counterclockwise": "تدوير عكس عقارب الساعة",
+	"ui_editor_context_menu_copy_transforms": "نسخ التحويلات",
+	"ui_editor_context_menu_paste_transforms": "لصق التحويلات",
+	"ui_editor_context_menu_duplicate": "مكرر",
+	"ui_editor_context_menu_lock": "قفل",
+	"ui_editor_context_menu_unlock": "فتح",
+	"ui_editor_context_menu_copy_effect": "نسخ تأثير",
+	"ui_editor_context_menu_paste_effect": "لصق تأثير",
+	"ui_editor_context_menu_paste_effect_settings": "لصق اعدادات تأثير",
+	"ui_editor_context_menu_duplicate_effect": "تأثير مكرر",
+	"ui_editor_context_menu_copy_all_effects": "نسخ جميع التأثيرات",
+	"ui_editor_context_menu_paste_all_effects": "لصق جميع التأثيرات",
 	"ui_editor_context_menu_image_editing": "تعديل الصورة",
+	"ui_editor_context_menu_foreground_separation": "فصل الامامية",
 	"ui_editor_context_menu_character_sheet": "إنشاء ورقة الشخصية",
 	"ui_editor_context_menu_edit_with_other": "تحرير باستخدام محرر الصور الخارجي",
 	"ui_editor_project_settings_modal_header": "اعدادات المشروع",
@@ -952,47 +1177,369 @@
 	"ui_editor_animation_modal_mode": "الوضع",
 	"ui_editor_animation_modal_start_paused": "البدء متوقف مؤقتًا",
 	"ui_editor_animation_modal_loop": "حلقة",
+	"ui_editor_animation_modal_loop_wrap": "ارجاع فريمات الانميشن",
 	"ui_editor_animation_modal_mirror": "مرآة",
-	"ui_editor_animation_modal_single": "غير مرتبط",
+	"ui_editor_animation_modal_single": "وحيد",
 	"ui_editor_animation_modal_random_start_frame": "إطار بدء عشوائي",
 	"ui_editor_animation_modal_combine_property_animation": "الجمع بين الرسوم المتحركة الممتلكات",
-	"ui_editor_workshop_rules_modal_list_header": ":الشروط التالية توجد للخلفيات و صورة المعاينة و الوصف بشكل خاص",
+	"ui_editor_animation_modal_create_new_animation": "انشاء انيميشن جديد",
+	"ui_editor_animation_toggle_bezier": "تبديل استيفاء بيزير في الإطار الرئيسي (يسار ، يمين ، كلاهما ، بلا)",
+	"ui_editor_animation_reset_bezier": "إعادة تعيين نقاط تحكم بيزير",
+	"ui_editor_animation_lock_control_point_lengths": "قفل أطوال نقطة التحكم",
+	"ui_editor_animation_lock_control_point_angles": "قفل زوايا نقطة التحكم",
+	"ui_editor_animation_toggle_keyframe": "تبديل Keyframe",
+	"ui_editor_animation_update_keyframe": "تحديث Keyframe",
+	"ui_editor_animation_remove_keyframe": "حذف Keyframe",
+	"ui_editor_animation_auto_keyframe": "Keyframe تلقائي",
+	"ui_editor_animation_reset_zoom": "إعادة تعيين التكبير",
+	"ui_editor_animation_show_help": "عرض المساعدة",
+	"ui_editor_animation_play": "تشغيل",
+	"ui_editor_animation_pause": "ايقاف",
+	"ui_editor_animation_edit_animation_events": "تحرير نصوص أحداث الرسوم المتحركة البرمجية",
+	"ui_editor_animation_jump_to_end": "اذهب إلى النهاية",
+	"ui_editor_animation_jump_to_start": "اذهب إلى البداية",
+	"ui_editor_animation_animation_settings": "اعدادات الانميشن",
+	"ui_editor_animation_help_modal_header": "مساعدة للانميشن",
+	"ui_editor_animation_help_modal_keyframes": "Keyframes",
+	"ui_editor_animation_help_modal_playback": "التشغيل",
+	"ui_editor_animation_help_modal_shift_drag": "SHIFT + سحب وتحريك",
+	"ui_editor_animation_help_modal_shift_ctrl_wheel": "SHIFT/CTRL + عجلة الفأرة",
+	"ui_editor_animation_help_modal_shift_ctrl_click": "SHIFT/CTRL + انقر",
+	"ui_editor_animation_help_modal_ctrl_c_v": "CTRL + C/V",
+	"ui_editor_animation_help_modal_del": "DEL",
+	"ui_editor_animation_help_modal_left_right": "سهم يمين/يسار",
+	"ui_editor_animation_help_modal_space": "مسافة",
+	"ui_editor_animation_help_modal_lock_point_vertically": "نقاط القفل عموديًا أثناء تحريكها.",
+	"ui_editor_animation_help_modal_zoom": "استخدم عجلة الفأرة للتكبير. اضغط باستمرار على SHIFT أو CTRL للتكبير عموديًا.",
+	"ui_editor_animation_help_modal_select_points": "انقر فوق النقاط لتحديدها. اضغط باستمرار على SHIFT أو CTRL لتحديد نقاط متعددة أو ارسم مستطيلاً باستخدام زر الماوس.",
+	"ui_editor_animation_help_modal_copy_paste": "استخدم CTRL + C أو V لنسخ أو لصق كل النقاط المحددة.",
+	"ui_editor_animation_help_modal_delete": "اضغط على DEL لحذف جميع النقاط المحددة.",
+	"ui_editor_animation_help_modal_autokeyframe": "اضغط على A للتبديل بين الـkeyframing التلقائية أو إيقاف تشغيلها.",
+	"ui_editor_animation_help_modal_keyframe": "اضغط على K لإدراج أو إزالة الـkeyframes في الوقت الحالي.",
+	"ui_editor_animation_help_modal_update_keyframe": "اضغط على K لإدراج أو إزالة الـKeyframes في الوقت الحالي (فقط في حالة عدم جعلها تلقائية).",
+	"ui_editor_animation_help_modal_jump_frame": "اضغط على سهم يمين أو يسار للانتقال إلى keyframe إلى اليسار أو اليمين.",
+	"ui_editor_animation_help_modal_play_pause": "اضغط على زر المسافة لتشغيل الرسوم المتحركة أو إيقافها مؤقتًا.",
+	"ui_editor_animation_events_modal_header": "أحداث الرسوم المتحركة البرمجية",
+	"ui_editor_animation_events_modal_name": "اسم",
+	"ui_editor_animation_events_modal_frame": "اطار",
+	"ui_editor_animation_events_modal_events": "احداث",
+	"ui_editor_bone_constraints_friction": "احتكاك",
+	"ui_editor_bone_constraints_gravity_direction": "اتجاه الجاذبية",
+	"ui_editor_bone_constraints_gravity_enabled": "تم تمكين الجاذبية",
+	"ui_editor_bone_constraints_layout": "الوضع",
+	"ui_editor_bone_constraints_layout_advanced": "متقدم",
+	"ui_editor_bone_constraints_layout_simple": "بسيط",
+	"ui_editor_bone_constraints_limit_rotation": "حد التدوير",
+	"ui_editor_bone_constraints_limit_torque": "حد التورك",
+	"ui_editor_bone_constraints_max_angle": "الزاوية القصوى",
+	"ui_editor_bone_constraints_max_distance": "المسافة القصوى",
+	"ui_editor_bone_constraints_max_torque": "التورك الاقصى",
+	"ui_editor_bone_constraints_min_angle": "الزاوية الدنيا",
+	"ui_editor_bone_constraints_modal_header": "قيود المفاصل",
+	"ui_editor_bone_constraints_modal_tab_physics": "الفيزياء",
+	"ui_editor_bone_constraints_modal_tab_blending": "قواعد الدمج",
+	"ui_editor_bone_constraints_not_simulated": "غير محاكى",
+	"ui_editor_bone_constraints_physics_rotation": "الدوران الفيزيائي",
+	"ui_editor_bone_constraints_physics_translation": "ترجمة الفيزيائية",
+	"ui_editor_bone_constraints_preset": "قالب محاكاة",
+	"ui_editor_bone_constraints_preset_bouncy_position": "مركز نطاط",
+	"ui_editor_bone_constraints_preset_bouncy_rotation": "دوران نطاط",
+	"ui_editor_bone_constraints_preset_drag_position": "وضع السحب",
+	"ui_editor_bone_constraints_preset_drag_rotation": "سحب الدوران",
+	"ui_editor_bone_constraints_preset_gravity_position": "موقف الجاذبية",
+	"ui_editor_bone_constraints_preset_gravity_rotation": "دوران الجاذبية",
+	"ui_editor_bone_constraints_preset_ik_two_limbs": "الحركة العكسية للذراع / الساق",
+	"ui_editor_bone_constraints_preset_ik_constrained": "الحركية المعكوسة مقيدة",
+	"ui_editor_bone_constraints_reset": "إعادة ضبط",
+	"ui_editor_bone_constraints_responsiveness": "إستجابة",
+	"ui_editor_bone_constraints_rigid_simulation": "محاكاة الفيزياء الجامدة",
+	"ui_editor_bone_constraints_rotational_friction": "الاحتكاك الدوراني",
+	"ui_editor_bone_constraints_rotational_inertia": "القصور الدوراني",
+	"ui_editor_bone_constraints_rotational_stiffness": "الصلابة الدورانية",
+	"ui_editor_bone_constraints_simulation_mode": "وضع المحاكاة",
+	"ui_editor_bone_constraints_spring_simulation": "محاكاة حركة سستة ياي",
+	"ui_editor_bone_constraints_tip_forward_angle": "زاوية الميل إلى الأمام",
+	"ui_editor_bone_constraints_tip_mass": "كتلة الطرف",
+	"ui_editor_bone_constraints_tip_size": "حجم الحافة",
+	"ui_editor_bone_constraints_translational_friction": "الاحتكاك الانتقالي",
+	"ui_editor_bone_constraints_translational_inertia": "القصور الانتقالي",
+	"ui_editor_bone_constraints_translational_stiffness": "الصلابة الانتقالية",
+	"ui_editor_bone_constraints_ik_simulation": "محاكاة الحركة العكسية",
+	"ui_editor_bone_constraints_ik_depth": "عمق الأطراف",
+	"ui_editor_bone_constraints_ik_gravity_controller": "استخدام متحكم الاتجاهات",
+	"ui_editor_bone_constraints_ik_end_bone_rotation": "تستدير عندما تشد اكثر من الحاجة",
+	"ui_editor_bone_constraints_ik_end_bone_rotation_distance": "مسافة دوران كاملة",
+	"ui_editor_bone_constraints_ik_end_bone_rotation_hint": "ستدور آخر عظمة للإشارة إلى وحدة التحكم الهدف عندما يتم تمديد السلسلة بالكامل. قم بتدوير العظم بحيث يشير المحور السيني (السهم الأحمر) نحو الاتجاه الأمامي للطرف لضبط هذا المحاذاة.",
+	"ui_editor_bone_constraints_ik_constraints": "قيود الحركة العكسية",
+	"ui_editor_bone_constraints_ik_constraint_rotation_max": "أقصى دوران",
+	"ui_editor_bone_constraints_ik_constraint_rotation_min": "ادنى دوران",
+	"ui_editor_bone_constraints_blending_hint": "سيتطابق تحول العظم ديناميكيًا مع العظم الاخر أثناء حركة الانميشن.",
+	"ui_editor_bone_constraints_blending_add": "أضف قاعدة للدمج",
+	"ui_editor_bone_constraints_blending_add_empty": "< اختر عظمة >",
+	"ui_editor_bone_constraints_blending_blend_list": "قواعد الدمج النشط",
+	"ui_editor_character_separation_title": "فصل الامامية",
+	"ui_editor_character_separation_sheet_title": "انشاء Puppet Sheet",
+	"ui_editor_character_separation_normalmap_title": "توليد خريطة نواظم",
+	"ui_editor_character_separation_depthmap_title": "توليد خريطة Depth Map",
+	"ui_editor_character_separation_brush_title": "فرشاة",
+	"ui_editor_character_separation_brush_mark_foreground": "تعليم الامامية",
+	"ui_editor_character_separation_brush_mark_background": "تعليم الخلفية",
+	"ui_editor_character_separation_brush_erase": "مسح",
+	"ui_editor_character_separation_brush_clear": "إعادة تعيين القناع",
+	"ui_editor_character_separation_brush_size": "حجم الفرشاة",
+	"ui_editor_character_separation_view_title": "عرض",
+	"ui_editor_character_separation_view_improve_visiblity": "تحسين الرؤية",
+	"ui_editor_character_separation_view_original": "الاصلية",
+	"ui_editor_character_separation_view_foreground": "الامامية",
+	"ui_editor_character_separation_view_foreground_and_original": "الامامية & الخلفية",
+	"ui_editor_character_separation_view_background": "الخلفية",
+	"ui_editor_character_separation_view_mask": "قناع",
+	"ui_editor_character_separation_view_reset": "اعادة تعيين العرض",
+	"ui_editor_character_separation_mask_opacity": "عتامة القناع",
+	"ui_editor_character_separation_analyzer_title": "ضبط مفصل",
+	"ui_editor_character_separation_analyzer_recalculate": "إعادة الحسابات",
+	"ui_editor_character_separation_analyzer_auto": "إعادة حسابات تلقائية",
+	"ui_editor_character_separation_analyzer_tolerance": "تفاوت القناع",
+	"ui_editor_character_separation_analyzer_quality": "مستوى الجودة",
+	"ui_editor_character_separation_analyzer_quality_hint": "تؤدي القيم الأعلى إلى زيادة الجودة بشكل طفيف ولكنها تزيد من وقت إعادة الحسابات بشكل ملحوظ.",
+	"ui_editor_character_separation_analyzer_fill_gaps": "ملأ الفجوات",
+	"ui_editor_character_separation_analyzer_smoothing": "تنعيم",
+	"ui_editor_character_separation_transparent_background": "خلفية شفافة",
+	"ui_editor_character_separation_modal_reset_title": "إعادة تعيين القناع",
+	"ui_editor_character_separation_modal_reset_body": "هل أنت متأكد أنك تريد إعادة تعيين القناع بأكمله؟",
+	"ui_editor_character_separation_modal_confirm_title": "تأكيد فصل الامامية",
+	"ui_editor_character_separation_modal_confirm_body": "سيتم استبدال طبقة الصورة الحالية بصورة الخلفية الجديدة وستتم إضافة طبقة جديدة بها الصورة الامامية.<br/><br/><b> لا يمكن التراجع عن هذا.</b><br/><br/> هل تريد الاستمرار؟",
+	"ui_editor_character_separation_hierarchy_title": "التسلسل",
+	"ui_editor_character_separation_hierarchy_add_limb": "أضف طرف",
+	"ui_editor_character_separation_hierarchy_add_limb_body": "أدخل اسم الطرف:",
+	"ui_editor_character_separation_hierarchy_body": "هيكل",
+	"ui_editor_character_separation_hierarchy_remove_limb_title": "حذف طرف {{name}}",
+	"ui_editor_character_separation_hierarchy_remove_limb_body": "هل انت متأكد من حذف الطرف {{name}}؟",
+	"ui_editor_character_separation_modal_confirm_sheet_title": "تأكيد إنشاء Puppet Sheet",
+	"ui_editor_character_separation_modal_confirm_sheet_body": "ستتم إزالة الطبقة الحالية مع أي تأثيرات أو إعدادات وسيتم استيراد نسيج جديد مع ورقة الأحرف الخاصة بالتواء الدمية.<br/><br/><b> لا يمكن التراجع عن هذا.</b><br/><br/> هل تريد الاستمرار؟",
+	"ui_editor_character_separation_modal_confirm_sheet_busy": "توليد Puppet Warp Sheet",
+	"ui_editor_character_separation_blur": "تغبيش",
+	"ui_editor_character_separation_threshold": "الحد الاقصى (Threshold)",
+	"ui_editor_character_separation_depth": "العمق",
+	"ui_editor_character_separation_shape": "شكل",
+	"ui_editor_character_separation_details": "تفاصيل",
+	"ui_editor_character_separation_invert": "عكس",
+	"ui_editor_character_separation_exponent": "الأس",
+	"ui_editor_character_separation_outline_compensation": "تعويض الخطوط العريضة",
+	"ui_editor_character_separation_outline_compensation_hint": "قم بزيادة تعويض المخطط التفصيلي قليلاً لتقليل التشويه عند حدود الشخصيات والأشياء الصغيرة. يعمل هذا جيدًا بشكل خاص على المحتوى المرسوم يدويًا.",
+	"ui_editor_character_separation_auto_contrast": "تباين تلقائي",
+	"ui_editor_character_separation_disabled_title": "طبقة الصورة لها تأثيرات",
+	"ui_editor_character_separation_disabled_body": "هذه الوظيفة غير متاحة في طبقات الصور ذات التأثيرات الموجودة.<br/><br/> يُرجى إما إزالة جميع تأثيرات الصور من هذه الطبقة أو إعادة استيراد نسخة من هذه الصورة باسم مختلف، ثم المحاولة مرة أخرى.",
+	"ui_editor_character_separation_not_image_layer_title": "فقط لطبقات الصورة",
+	"ui_editor_character_separation_not_image_layer_body": "هذه الوظيفة متاحة فقط في طبقات الصور.<br/><br/> يُرجى تحديد طبقة صورة للمتابعة.",
+	"ui_editor_character_separation_hint": "<b>نصيحة:</b> ارسم فقط الخطوط العريضة التقريبية للامامية والخلفية. لن تؤدي الخطوط العريضة المثالية للبكسل إلى تحسين النتيجة. انقر فوق <b>تعليمات</b> لمزيد من المعلومات.",
+	"ui_editor_character_separation_cancel_editing_body": "هل تريد إلغاء القناع والتخلص منه؟",
+	"ui_editor_export_modal_header": "تصدير",
+	"ui_editor_export_modal_audio_hint": "تتيح لك هذه الأداة تصدير مقطع فيديو بدون صوت أو عناصر تفاعلية للخلفية.<br/><br/> إذا كنت تريد تسجيل صوت أو عناصر تفاعلية أيضًا، يرجى اتباع هذا الدليل: <a href='[[[var_url_faqexport]]]'>help.wallpaperengine.io</a>.",
+	"ui_editor_export_modal_settings_format": "صيغة",
+	"ui_editor_export_modal_settings_format_png": "تسلسل PNG",
+	"ui_editor_export_modal_settings_format_external": "(خارجي)",
+	"ui_editor_export_modal_settings_width": "عرض",
+	"ui_editor_export_modal_settings_height": "ارتفاع",
+	"ui_editor_export_modal_settings_fps": "معدل الاطارات",
+	"ui_editor_export_modal_settings_bitrate": "معدل النقل (Bitrate)",
+	"ui_editor_export_modal_settings_duration": "المدة (ثواني)",
+	"ui_editor_export_modal_settings_blend_time": "وقت الدمج (ثواني)",
+	"ui_editor_export_modal_export": "تصدير",
+	"ui_editor_export_modal_export_progress_hint": "تصدير مقطع...",
+	"ui_editor_export_modal_error_format": "فشل ترميز صيغة الفيديو.",
+	"ui_editor_export_modal_error_encode_frame": "فشل ترميز اطار الفيديو.",
+	"ui_editor_settings_auto_saving": "تفعيل الحفظ التلقائي",
+	"ui_editor_settings_auto_saving_hint": "سيستمر حفظ إعدادات المشروع العامة وبعض المكونات مثل الزخارف والدمى تلقائيًا.",
+	"ui_editor_settings_suggest_import_resolution": "تغيير حجم الخلفيات الجديدة بشكل افتراضي",
+	"ui_editor_settings_path_ffmpeg": "مسار FFmpeg",
+	"ui_editor_settings_path_custom_image_editor": "مسار محرر الصور المخصص",
+	"ui_editor_settings_path_select": "تحديد",
+	"ui_editor_settings_path_not_selected": "لم يتم تحديد ملف",
+	"ui_editor_external_app_not_found_title": "لم يتم العثور على {{name}}",
+	"ui_editor_external_app_not_found_body": "لم يتم العثور على البرنامج الخارجي {{name}}.<br/><br/>الرجاء تثبيت {{name}} وتحديده في Wallpaper Engine. انظر هنا لمزيد من المعلومات حول دعم البرامج الخارجية في Wallpaper Engine: <a href='[[[var_url_faqexternalprograms]]]'>help.wallpaperengine.io</a>",
+	"ui_editor_external_custom_image_editor_not_found_title": "حدد محرر صور",
+	"ui_editor_external_custom_image_editor_not_found_body": "الرجاء تحديد محرر صور من اختيارك. يتيح لك ذلك تحرير طبقات الصورة وأقنعة التأثير بسهولة في أداة خارجية لتحرير الصور. ستتم إعادة استيراد التغييرات التي تجريها تلقائيًا إلى Wallpaper Engine عند استخدام وظيفة الحفظ السريع لمحرر الصور.<br/><br/>اعرض وثائق المصمم للحصول على معلومات إضافية حول دعم محرر الصور الخارجي في Wallpaper Engine: <a href='[[[var_url_faqexternalprograms]]]'>دعم محرر الصور الخارجي</a>",
+	"ui_editor_user_properties_select_info": "اختر خاصية من النوع المتوافق ({{types}}).",
+	"ui_editor_user_properties_select_unused_warning": "لا يتم استخدام هذه الخاصية بواسطة الخلفية.",
+	"ui_editor_user_properties": "اضافة خاصية",
+	"ui_editor_user_properties_add_property": "اضافة خاصية",
+	"ui_editor_user_properties_edit_property": "تعديل خاصية",
+	"ui_editor_user_properties_title": "عنوان",
+	"ui_editor_user_properties_key": "مفتاح",
+	"ui_editor_user_properties_type": "نوع",
+	"ui_editor_user_properties_type_color": "لون",
+	"ui_editor_user_properties_type_slider": "سلايدر",
+	"ui_editor_user_properties_type_bool": "خانة اختيار",
+	"ui_editor_user_properties_type_combo": "كومبو",
+	"ui_editor_user_properties_type_textinput": "نص",
+	"ui_editor_user_properties_type_directory": "دليل",
+	"ui_editor_user_properties_type_file": "ملف",
+	"ui_editor_user_properties_type_scenetexture": "رسومات",
+	"ui_editor_user_properties_value": "القيمة الافتراضية",
+	"ui_editor_user_properties_order": "ترتيب",
+	"ui_editor_user_properties_fraction": "كسر",
+	"ui_editor_user_properties_precision": "المنازل العشرية",
+	"ui_editor_user_properties_min_value": "أدنى قيمة",
+	"ui_editor_user_properties_max_value": "اعلى قيمة",
+	"ui_editor_user_properties_options": "خيارات",
+	"ui_editor_user_properties_options_label": "ملصق",
+	"ui_editor_user_properties_options_value": "قيمة",
+	"ui_editor_user_properties_condition": "حالة العرض",
+	"ui_editor_user_properties_file_type": "نوع الملف",
+	"ui_editor_user_properties_file_type_video": "مقطع",
+	"ui_editor_user_properties_file_type_image": "صورة",
+	"ui_editor_user_properties_fetch_mode": "وضع الجلب",
+	"ui_editor_user_properties_fetch_mode_all": "الكل",
+	"ui_editor_user_properties_fetch_mode_on_demand": "على الطلب",
+	"ui_editor_user_properties_condition_placeholder": "otherkey.value == XYZ",
+	"ui_editor_user_properties_link": "رابط",
+	"ui_editor_user_properties_combo_value": "قيمة التحرير والسرد المحددة لهذا الارتباط:",
+	"ui_editor_user_properties_delete_warning_title": "إزالة خاصية مستخدم منشورة",
+	"ui_editor_user_properties_delete_warning_message": "إذا قمت بإزالة خاصية موجودة من خلفية منشورة، فسوف تحطم أي إعدادات مسبقة أنشأها المستخدمون الآخرون بالفعل من الخلفية الخاصة بك.<br/><br/>نوصي بشدة بعدم القيام بذلك ما لم تنشر الخلفية مؤخرًا فقط أو إذا كنت تزيل خاصية مستخدم لم تكن مستخدمة من قبل.",
+	"ui_editor_user_properties_delete_warning_confirm": "حذف خاصية",
+	"ui_editor_clean_project_modal_header": "مشروع نظيف",
+	"ui_editor_clean_project_modal_hint": "يبدو أن المكونات التالية غير مستخدمة في مشروعك وقد يتم حذفها لتقليل مساحة القرص. يرجى التحقق مرة أخرى من قائمة الملفات المراد حذفها أدناه قبل المتابعة.",
+	"ui_editor_clean_project_modal_info": "سيتم نقل الملفات إلى سلة المحذوفات ويمكن استعادتها من هناك إذا لزم الأمر.",
+	"ui_editor_clean_project_modal_hint_empty": "لم يتم العثور على ملفات غير مستخدمة.",
+	"ui_editor_clean_project_modal_confirm": "حذف ملفات",
+	"ui_editor_snapshot_instructions": "1. ارسم مستطيلاً بالماوس.\n2. اضغط على Enter لالتقاط لقطة.\n\nاضغط على الفراغ للتوقف.\nاضغط على S لتخطي 10 ثوانٍ للأمام.\nاضغط على Escape للإلغاء.",
+	"ui_editor_workshop_rules_modal_title": "قوانين وورك شوب",
+	"ui_editor_workshop_rules_modal_body": "قبل إرسال الخلفية الخاصة بك إلى الوورك شوب، تأكد من أنها لا تنتهك شروط خدمة [[[Platform]]]، وإلا ستتم إزالتها:",
+	"ui_editor_workshop_rules_modal_list_header": "الشروط التالية توجد للخلفيات و صورة المعاينة و الوصف بشكل خاص:",
 	"ui_editor_workshop_rules_modal_rule_nudity": "لا للتعري و الصور الاباحية",
 	"ui_editor_workshop_rules_modal_rule_offensive": "لا للمحتوى المسيء أو العدواني و العنيف",
 	"ui_editor_workshop_rules_modal_rule_copyright": "لا لإنتهاك حقوق الملكية",
 	"ui_editor_workshop_rules_modal_rule_ads": "لا اعلانات",
 	"ui_editor_workshop_rules_modal_rule_misleading": "لا للمعاينات المضللة",
-	"ui_editor_workshop_tags_limit": ".يسمح فقط بثلاث وسوم",
+	"ui_query_workshop_modal_header_assets": "تصفح المُكونات في الوورك شوب",
+	"ui_query_workshop_modal_asset_category_layers": "طبقات",
+	"ui_query_workshop_modal_asset_category_effects": "تأثيرات",
+	"ui_query_workshop_modal_asset_category_scripts": "نصوص برمجية",
+	"ui_editor_toast_project_saved": "تم حفظ المشروع.",
+	"ui_editor_toast_project_packed": "لا يمكن فتح الخلفيات المضغوطة.",
+	"ui_editor_workshop_tags_limit": "يسمح فقط بثلاث وسوم.",
 	"ui_editor_workshop_tags_placeholder": "اضافة وسم",
-	"ui_workshop_tags_abstract": "ملخص",
-	"ui_workshop_tags_animal": "حيوان",
+	"ui_workshop_workshop_tags_rating": "التصنيف العمري",
+	"ui_workshop_workshop_tags_rating_not_set": "< لم يحدد >",
+	"ui_workshop_tags_wallpaper": "خلفية",
+	"ui_workshop_tags_preset": "إعدادات مسبقة",
+	"ui_workshop_tags_asset_pack": "بكج مكونات",
+	"ui_workshop_tags_abstract": "فن تجريدي",
+	"ui_workshop_tags_animal": "حيوانات",
 	"ui_workshop_tags_anime": "أنمي",
 	"ui_workshop_tags_approved": "مُختارة",
+	"ui_workshop_tags_audio_responsive": "تستجيب للصوت",
 	"ui_workshop_tags_cartoon": "كرتون",
+	"ui_workshop_tags_customizable": "قابلة للتعديل",
+	"ui_workshop_tags_cgi": "رسومات حاسوبية",
+	"ui_workshop_tags_cyberpunk": "سايبربانك",
 	"ui_workshop_tags_fantasy": "خيالي",
-	"ui_workshop_tags_game": "لعبة",
-	"ui_workshop_tags_girls": "بنات",
-	"ui_workshop_tags_guys": "شباب",
-	"ui_workshop_tags_landscape": "منظر طبيعي",
+	"ui_workshop_tags_game": "العاب",
+	"ui_workshop_tags_girls": "فتيات",
+	"ui_workshop_tags_guys": "فتيان",
+	"ui_workshop_tags_landscape": "مناظر طبيعية",
 	"ui_workshop_tags_medieval": "من القرون الوسطى",
-	"ui_workshop_tags_memes": "الميمات",
-	"ui_workshop_tags_multi_monitor_optimized": "محسن لتعدد الشاشات",
-	"ui_workshop_tags_music": "أغنية",
+	"ui_workshop_tags_memes": "ميمز",
+	"ui_workshop_tags_mmd": "MMD (رقصة ميكو ميكو)",
+	"ui_workshop_tags_multi_monitor_optimized": "للشاشات المتعددة",
+	"ui_workshop_tags_music": "موسيقية",
 	"ui_workshop_tags_nature": "طبيعة",
-	"ui_workshop_tags_pixel_art": "فن البكسلات",
+	"ui_workshop_tags_pixel_art": "رسمات مبكسلة",
 	"ui_workshop_tags_relaxing": "مريحة",
 	"ui_workshop_tags_retro": "ريترو",
 	"ui_workshop_tags_sci_fi": "خيال علمي",
 	"ui_workshop_tags_sports": "رياضة",
 	"ui_workshop_tags_technology": "تكنولوجيا",
 	"ui_workshop_tags_television": "تلفزيون",
-	"ui_workshop_tags_vehicle": "مركبة",
+	"ui_workshop_tags_vehicle": "سيارات",
 	"ui_workshop_tags_unspecified": "صنف غير محدد",
+	"ui_workshop_tags_audio_visualizer": "مؤثرات بالصوت",
+	"ui_workshop_tags_background": "خلفية",
+	"ui_workshop_tags_character": "شخصية",
+	"ui_workshop_tags_clock": "ساعة",
+	"ui_workshop_tags_fire": "نار",
+	"ui_workshop_tags_interactive": "تفاعلية",
+	"ui_workshop_tags_magic": "سحرية",
+	"ui_workshop_tags_post_processing": "المعالجة-اللاحقة",
+	"ui_workshop_tags_smoke": "دخان",
+	"ui_workshop_tags_space": "فضاء",
+	"ui_workshop_tags_weather": "طقس",
+	"ui_workshop_tags_animate": "مفعم بالحيوية",
+	"ui_workshop_tags_blur": "مغبش",
+	"ui_workshop_tags_colorize": "ملون",
+	"ui_workshop_tags_distort": "مشوهة",
+	"ui_workshop_tags_enhance": "تحسين",
+	"ui_workshop_tags_unknown": "غير معرفة",
+	"ui_workshop_tags_scene": "مشهد",
+	"ui_workshop_tags_video": "مقطع",
+	"ui_workshop_tags_web": "ويب",
+	"ui_workshop_tags_application": "تطبيق",
+	"ui_workshop_tags_image": "صورة",
+	"ui_workshop_tags_local": "محلي",
+	"ui_workshop_tags_local_scene": "مشهد محلي",
+	"ui_workshop_tags_local_video": "مقطع محلي",
+	"ui_workshop_tags_local_web": "ويب محلي",
+	"ui_workshop_tags_local_application": "تطبيق محلي",
+	"ui_workshop_tags_local_url": "رابط محلي",
+	"ui_workshop_tags_local_image": "صورة محلية",
 	"ui_workshop_tags_rating_everyone": "الكل",
+	"ui_workshop_tags_rating_questionable": "عري جزئي",
 	"ui_workshop_tags_rating_mature": "ناضجة",
 	"ui_workshop_tags_rating_ban": "حظر",
+	"ui_workshop_tags_visibility_public": "عامة",
+	"ui_workshop_tags_visibility_friends_only": "الاصدقاء فقط",
+	"ui_workshop_tags_visibility_private": "خاصة",
+	"ui_workshop_tags_visibility_unlisted": "غير مدرجة",
+	"ui_workshop_tags_asset_type_composite": "مركبة",
+	"ui_workshop_tags_asset_type_fullscreen": "شاشة كاملة",
+	"ui_workshop_tags_asset_type_image": "صورة",
+	"ui_workshop_tags_asset_type_image_effect": "تأثير صورة",
+	"ui_workshop_tags_asset_type_particle": "جسيمات",
+	"ui_workshop_tags_asset_type_script": "نصوص برمجية",
+	"ui_workshop_tags_asset_type_sound": "صوت",
+	"ui_workshop_tags_asset_type_text": "نص",
+	"ui_workshop_tags_other_resolution": "غير معروفة الدقة",
+	"ui_workshop_tags_dynamic_resolution": "دقة متغيرة",
+	"ui_workshop_tags_standard_definition": "الدقة القياسية",
+	"ui_workshop_tags_1280_x_720": "٧٢٠ x ١٢٨٠",
+	"ui_workshop_tags_1366_x_768": "٧٦٨ x ١٣٦٦",
+	"ui_workshop_tags_1920_x_1080": "١٠٨٠ x ١٩٢٠ - دقة عالية",
+	"ui_workshop_tags_2560_x_1440": "١٤٤٠ x ٢٥٦٠",
+	"ui_workshop_tags_3840_x_2160": "٢١٦٠ x ٣٨٤٠ - ٤K",
+	"ui_workshop_tags_7680_x_4320": "٤٣٢٠ x ٧٦٨٠ - ٨K",
+	"ui_workshop_tags_ultrawide_standard_definition": "قياسات الشاشة العريضة",
+	"ui_workshop_tags_ultrawide_2560_x_1080": "١٠٨٠ x ٢٥٦٠",
+	"ui_workshop_tags_ultrawide_3440_x_1440": "١٤٤٠ x ٣٤٤٠",
+	"ui_workshop_tags_dual_standard_definition": "قياسات لشاشتين",
+	"ui_workshop_tags_dual_3840_x_1080": "١٨٨٠ x ٣٨٤٠",
+	"ui_workshop_tags_dual_5120_x_1440": "١٤٤٠ x ٥١٢٠",
+	"ui_workshop_tags_dual_7680_x_2160": "٢١٦٠ x ٧٦٨٠",
+	"ui_workshop_tags_triple_standard_definition": "قياسات لثلاث شاشات",
+	"ui_workshop_tags_triple_4096_x_768": "٧٦٨ x ٤٠٩٦",
+	"ui_workshop_tags_triple_5760_x_1080": "١٠٨٠ x ٥٧٦٠",
+	"ui_workshop_tags_triple_7680_x_1440": "١٤٤٠ x ٧٦٨٠",
+	"ui_workshop_tags_triple_11520_x_2160": "٢١٦٠ x ١١٥٢٠",
+	"ui_workshop_tags_portrait_standard_definition": "قياسات شاشات بالطول °90",
+	"ui_workshop_tags_portrait_720_x_1280": "١٢٨٠ x ٧٢٠",
+	"ui_workshop_tags_portrait_1080_x_1920": "١٩٢٠ x ١٠٨٠",
+	"ui_workshop_tags_portrait_1440_x_2560": "٢٥٦٠ x ١٤٤٠",
+	"ui_workshop_tags_portrait_2160_x_3840": "٣٨٤٠ x ٢١٦٠",
+	"ui_workshop_filter_mobile_compatible": "متوافقة مع الجوال",
+	"ui_workshop_info_visibility_public": "تظهر الخلفيات العامة في نتائج البحث العامة ويمكن لأي شخص استخدامها.",
+	"ui_workshop_info_visibility_friends": "لا يمكن العثور على خلفيات الأصدقاء-فقط وتنزيلها إلا بواسطة الأصدقاء.",
+	"ui_workshop_info_visibility_private": "تكون الخلفيات الخاصة مرئية لك فقط ولا يمكن لأي شخص آخر تنزيلها.",
+	"ui_workshop_info_visibility_unlisted": "يمكن لأي شخص لديه الرابط تنزيل الخلفيات غير المدرجة، ولكن لا يمكن العثور عليها من خلال البحث.",
 	"ui_editor_scene_options_bloom": "الاضاءة",
+	"ui_editor_scene_options_bloom_hint": "يرجى الملاحظة: تتطلب تأثيرات الاشعاع تمكين المعالجة-اللاحقة في إعدادات أداء Wallpaper Engine.",
+	"ui_editor_scene_options_bloom_hdr_settings_hint": "يجب عليك اختبار الخلفية مع وبدون اشعار النطاق الديناميكي العالي HDR للتأكد من ان الخلفية ستظهر بشكل رائع عند الجميع.",
 	"ui_editor_scene_options_bloom_strength": "القوة",
+	"ui_editor_scene_options_bloom_threshold": "الحد الاقصى (Threshold)",
+	"ui_editor_scene_options_bloom_hdr_iterations": "تكرارات النطاق الديناميكي العالي HDR",
+	"ui_editor_scene_options_bloom_hdr_strength": "قوة النطاق الديناميكي العالي HDR",
+	"ui_editor_scene_options_bloom_hdr_scatter": "بعثرة النطاق الديناميكي العالي HDR",
+	"ui_editor_scene_options_bloom_hdr_threshold": "الحد الاقصى للنطاق الديناميكي العالي HDR",
+	"ui_editor_scene_options_bloom_hdr_threshold_feather": "تنعيم الحد الاقصى للنطاق الديناميكي العالي HDR",
 	"ui_editor_scene_options_background_color": "لون الخلفية",
 	"ui_editor_scene_options_camera_preview": "معاينة الكاميرا",
 	"ui_editor_scene_options_camera_shake": "اهتزاز الكاميرا",
@@ -1002,5 +1549,818 @@
 	"ui_editor_scene_options_camera_parallax": "اختلاف منظر الكاميرا",
 	"ui_editor_scene_options_camera_parallax_amount": "الكمية",
 	"ui_editor_scene_options_camera_parallax_delay": "التأخير",
-	"ui_editor_scene_options_camera_mouse_influence": "تأثير الماوس"
+	"ui_editor_scene_options_camera_mouse_influence": "تأثير الماوس",
+	"ui_editor_scene_options_camera_fade": "تلاشي الكاميرا",
+	"ui_editor_scene_options_fov": "مجال الرؤية",
+	"ui_editor_scene_options_nearz": "القريب Z",
+	"ui_editor_scene_options_farz": "البعيد Z",
+	"ui_editor_scene_options_zoom": "تكبير الكاميرا",
+	"ui_editor_scene_options_enabled": "مفعل",
+	"ui_editor_scene_options_hdr": "المعالجة-اللاحقة الفائقة (HDR)",
+	"ui_editor_scene_options_general": "عام",
+	"ui_editor_scene_options_camera": "كاميرا",
+	"ui_editor_import_adjust_projection_center": "ضبط حجم الخلفية والمركز",
+	"ui_editor_effects_modal_imagelayer_name": "طبقة الصورة",
+	"ui_editor_effects_modal_imagelayer_description": "استيراد صورة من جهاز الكمبيوتر الخاص بك.",
+	"ui_editor_effects_modal_textlayer_name": "طبقة النص",
+	"ui_editor_effects_modal_textlayer_description": "ضع نصًا على الخلفية.",
+	"ui_editor_effects_modal_fullscreenlayer_name": "طبقة المعالجة-للاحقة",
+	"ui_editor_effects_modal_fullscreenlayer_description": "أضف طبقة شفافة تغطي الشاشة بأكملها. ستؤثر أي تأثيرات مطبقة على هذه الطبقة على الموكنات التي تم رسمها على الشاشة قبل هذه الطبقة.<br/><br/>ستتم محاذاة هذه الطبقة دائمًا مع الشاشة ولن تتحرك مع الخلفية. يجب استخدامها لتأثيرات ملء الشاشة التي لا تتطلب محاذاة دقيقة أو أقنعة، للحصول على أفضل جودة بغض النظر عن حجم الشاشة.",
+	"ui_editor_effects_modal_projectlayer_name": "طبقة التركيب الكاملة",
+	"ui_editor_effects_modal_projectlayer_description": "أضف طبقة شفافة تغطي تلقائيًا خلفية الشاشة بالكامل. ستؤثر أي تأثيرات يتم تطبيقها على هذه الطبقة على الموكنات التي تم رسمها قبل هذه الطبقة.<br/><br/>تتطلب هذه الطبقة أداءً أكثر من طبقة المعالجة اللاحقة ويجب استخدامها فقط إذا كنت تريد محاذاة التأثيرات بدقة مع خلفية مستقلة عن محاذاة الخلفية أو حجم الشاشة.",
+	"ui_editor_effects_modal_solidlayer_name": "طبقة ثابتة",
+	"ui_editor_effects_modal_solidlayer_description": "تضيف طبقة ثابتة بخلفية ذات لون بسيط. يمكن استخدامها مع تأثيرات أخرى.",
+	"ui_editor_effects_modal_composelayer_name": "طبقة تكوين قابلة للتعديل",
+	"ui_editor_effects_modal_composelayer_description": "أضف طبقة شفافة ذات حجم معين. قم بإرفاق مكونات أخرى بهذه الطبقة كأطفال لدمجها في نسيج واحد يمكنك تطبيق التأثيرات عليه.",
+	"ui_editor_effects_modal_model_name": "نموذج",
+	"ui_editor_effects_modal_model_description": "استيراد نموذج ثلاثي ابعاد من جهاز الكمبيوتر الخاص بك.",
+	"ui_editor_effects_modal_particle_system_name": "نظام الجسيمات",
+	"ui_editor_effects_modal_particle_system_description": "قم بإنشاء تأثير جزيئات جديد من الصفر.",
+	"ui_editor_effects_modal_sound_name": "صوت",
+	"ui_editor_effects_modal_sound_description": "أضف موسيقى خلفية متكررة أو قم بتشغيل الأصوات المحيطة بشكل عشوائي.",
+	"ui_editor_effects_modal_light_name": "خفيف",
+	"ui_editor_effects_modal_light_description": "أضف ضوءًا إلى المشهد. يؤثر فقط على الصور مع تمكين الإضاءة أو النماذج ثلاثية الأبعاد.",
+	"ui_editor_effects_modal_group_renderables": "قابل للتوليد",
+	"ui_editor_effects_modal_group_presets": "إعدادات مسبقة",
+	"ui_editor_effects_modal_group_animate": "تحريك",
+	"ui_editor_effects_modal_group_blur": "تغبيش",
+	"ui_editor_effects_modal_group_colorize": "تلوين",
+	"ui_editor_effects_modal_group_distort": "مشوهة",
+	"ui_editor_effects_modal_group_enhance": "تحسين",
+	"ui_editor_effects_modal_group_workshop": "وورك شوب",
+	"ui_editor_effects_modal_group_my_effects": "تأثيراتي",
+	"ui_editor_effects_modal_title_add_renderable": "إضافة مُكون",
+	"ui_editor_effects_modal_title_add_effect": "إضافة تأثير",
+	"ui_editor_effects_modal_compatibility_warning_header": "إضافة تأثير",
+	"ui_editor_effects_modal_compatibility_warning_body": "أنت على وشك استيراد تأثير بإصدار أحدث من المستخدم بواسطة هذا المشروع. قد ينتج عن هذا إعادة تعيين جميع حالات هذا التأثير وستفقد إعداداتها.<br/><br/>لا يمكن التراجع عن هذا وستفقد إعداداتك القديمة. قد ترغب في عمل نسخة احتياطية من المشروع قبل المتابعة.<br/><br/>هل تريد المتابعة؟",
+	"ui_editor_effects_modal_compatibility_warning_skip_upgrade": "الاكمال بدون تغيير",
+	"ui_editor_effect_blend_title": "دمج",
+	"ui_editor_effect_blend_description": "ادمج صورتين أو طبقات صورة مع أوضاع مزج مختلفة.",
+	"ui_editor_effect_blur_title": "تغبيش",
+	"ui_editor_effect_blur_description": "تطبيق تمويه يغبش على الصورة. يدعم قناع اختياري.",
+	"ui_editor_effect_blur_precise_title": "تغبيش (دقيق)",
+	"ui_editor_effect_blur_precise_description": "تطبيق تمويه يغبش على الصورة بأكملها بنفس الدقة.",
+	"ui_editor_effect_clouds_title": "غيوم",
+	"ui_editor_effect_clouds_description": "اضافة غيوم للصورة.",
+	"ui_editor_effect_color_key_title": "مفتاح اللون",
+	"ui_editor_effect_color_key_description": "قم بإخفاء جزء من الصورة يطابق لونًا من اختيارك.",
+	"ui_editor_effect_edge_detection_title": "كشف الحواف",
+	"ui_editor_effect_edge_detection_description": "يكتشف حواف في الصورة باستخدام فلتر سوبل.",
+	"ui_editor_effect_filmgrain_title": "تأثير الافلام",
+	"ui_editor_effect_filmgrain_description": "يضيف تأثير فلمي (film grain).",
+	"ui_editor_effect_fisheye_title": "عين السمكة",
+	"ui_editor_effect_fisheye_description": "يضيف تأثير عين السمكة.",
+	"ui_editor_effect_foliage_sway_title": "Foliage Sway",
+	"ui_editor_effect_foliage_sway_description": "يحرك الاوبجكت في كل ركن من أركان الصورة.",
+	"ui_editor_effect_godrays_title": "اشعة قوية",
+	"ui_editor_effect_godrays_description": "اضافة اشعة متجهة او بشكل مدور.",
+	"ui_editor_effect_local_contrast_title": "التباين المحلي",
+	"ui_editor_effect_local_contrast_description": "يقم بتطبيق تحسين للتباين في مكان معين على الصورة.",
+	"ui_editor_effect_motion_blur_title": "حركة ضبابية",
+	"ui_editor_effect_motion_blur_description": "يراكم الاطارات بمرور الوقت لإنشاء تأثير ضبابية في الحركة.",
+	"ui_editor_effect_nitro_title": "نيترو",
+	"ui_editor_effect_nitro_description": "كهربة.",
+	"ui_editor_effect_opacity_title": "عتامة",
+	"ui_editor_effect_opacity_description": "يضيف قناع عتامة إلى الصورة.",
+	"ui_editor_effect_perspective_title": "منظور",
+	"ui_editor_effect_perspective_description": "يطبق تشويه للمنظور.",
+	"ui_editor_effect_pulse_title": "نبض",
+	"ui_editor_effect_pulse_description": "اضافة تأثيرات ضوئية وامضة ونابضة إلى الصورة.",
+	"ui_editor_effect_reflection_title": "انعكاس",
+	"ui_editor_effect_reflection_description": "يضيف تأثير انعكاس للصورة. ارسم قناعًا لتحديد المكان الذي يجب أن يظهر فيه الانعكاس.",
+	"ui_editor_effect_scroll_title": "فرار",
+	"ui_editor_effect_scroll_description": "يقوم بتمرير الصورة أفقيًا أو رأسيًا.",
+	"ui_editor_effect_shake_title": "اهتزاز",
+	"ui_editor_effect_shake_description": "يضيف اهتزاز. سوف تتأثر المناطق المقنعة فقط. يمكنك تحقيق حركة صلبة وسلسة ايضًا.",
+	"ui_editor_effect_skew_title": "انحراف",
+	"ui_editor_effect_skew_description": "يحرف زوايا الصورة.",
+	"ui_editor_effect_spin_title": "دوران",
+	"ui_editor_effect_spin_description": "يدور الصورة.",
+	"ui_editor_effect_tint_title": "لون خفيف",
+	"ui_editor_effect_tint_description": "قم بتلوين الصورة بلون من اختيارك.",
+	"ui_editor_effect_transform_title": "تحويل",
+	"ui_editor_effect_transform_description": "قم بتغيير القياس وتدوير وتحريك الصورة.",
+	"ui_editor_effect_vhs_title": "في إتش إس",
+	"ui_editor_effect_vhs_description": "تأثير تشويه وتلوين شريط فيديو قديم.",
+	"ui_editor_effect_water_flow_title": "تدفق مياه",
+	"ui_editor_effect_water_flow_description": "يضيف حركة تدفق. يمكن التحكم في الاتجاه باستخدام قناع التدفق الذي يمكنك رسمه في المحرر.",
+	"ui_editor_effect_water_ripple_title": "تموج الماء",
+	"ui_editor_effect_water_ripple_description": "يضيف حركة تموج. ارسم قناعًا لقصر الحركة على منطقة معينة من الصورة.",
+	"ui_editor_effect_water_waves_title": "موجات الماء",
+	"ui_editor_effect_water_waves_description": "يضيف تأثير موجة بسيط.",
+	"ui_editor_effect_fire_title": "نار",
+	"ui_editor_effect_fire_description": "يضيف تيار نار إلى الصورة. يمكن تعديل اللون بحرية.",
+	"ui_editor_effect_xray_title": "أشعة سينية X-Ray",
+	"ui_editor_effect_xray_description": "يدمج بين صورتين بناءً على موضع المؤشر.",
+	"ui_editor_effect_shine_title": "لمعان",
+	"ui_editor_effect_shine_description": "يطبق تأثيرًا لامعًا على الأجزاء الساطعة من الصورة بعدد متغير من الحواف.",
+	"ui_editor_effect_refract_title": "انكسار",
+	"ui_editor_effect_refract_description": "يشوه الخلفية بناءً على خريطة عادية، ويسمح بدمج بياض اختياري أيضًا.",
+	"ui_editor_effect_iris_title": "حركة قزحية",
+	"ui_editor_effect_iris_description": "ينعش عيون الشخصية لتصبح بشكل واقعي اكثر.",
+	"ui_editor_effect_depth_parallax_title": "اختلاف العمق",
+	"ui_editor_effect_depth_parallax_description": "يتطلب هذا التأثير تفعيل <b>خيار اختلاف المنظر</b> في <b>إعدادات محرر المشاهد</b>!<br/><br/>تطبق إزاحة الصورة على أساس خريطة العمق التي يمكنك توليدها تلقائيا، برسمها أو استيرادها.",
+	"ui_editor_effect_swing_title": "أرجحة",
+	"ui_editor_effect_swing_description": "يتأرجح المكون ذهابًا وإيابًا في المنظور.",
+	"ui_editor_effect_twirl_title": "برم",
+	"ui_editor_effect_twirl_description": "يطبق تشويهًا لولبيًا متحركًا على الصورة.",
+	"ui_editor_preset_variant_small": "صغير",
+	"ui_editor_preset_variant_large": "كبير",
+	"ui_editor_preset_foliage_title": "ورق شجر",
+	"ui_editor_preset_foliage_description": "أوراق شجر.",
+	"ui_editor_preset_light_shafts_title": "ضوء مهاوي",
+	"ui_editor_preset_light_shafts_description": "يضيف أعمدة ضوء إلى الخلفية.",
+	"ui_editor_preset_light_shafts_variant_1": "ضوء مهاوي 1",
+	"ui_editor_preset_light_shafts_variant_2": "ضوء مهاوي 2",
+	"ui_editor_preset_light_shafts_variant_3": "ضوء مهاوي 3",
+	"ui_editor_preset_light_shafts_variant_dust_motes": "ذرات غبار",
+	"ui_editor_preset_snow_particles_title": "ثلج",
+	"ui_editor_preset_snow_particles_description": "يضيف جزيئات ثلج تتساقط ببطء من أعلى الشاشة.",
+	"ui_editor_preset_snow_particles_variant_1": "منظور الثلج",
+	"ui_editor_preset_snow_particles_variant_2": "ثلج مسطح",
+	"ui_editor_preset_snow_particles_variant_3": "عاصفة ثلجية",
+	"ui_editor_preset_rain_title": "مطر",
+	"ui_editor_preset_rain_description": "يضيف جزيئات المطر. اختياريًا مع انكسار / تشويه صورة الخلفية.",
+	"ui_editor_preset_rain_variant_1": "منظور المطر",
+	"ui_editor_preset_rain_variant_2": "هطول امطار",
+	"ui_editor_preset_rain_variant_3": "انكسار المطر",
+	"ui_editor_preset_ember_title": "إمبر",
+	"ui_editor_preset_ember_description": "جزيئات الامبر المتصاعدة.",
+	"ui_editor_preset_spark_title": "شرارة",
+	"ui_editor_preset_spark_description": "شرارة متكررة بقلة.",
+	"ui_editor_preset_fireworks_title": "العاب نارية",
+	"ui_editor_preset_fireworks_description": "باعث الألعاب النارية المختلفة.",
+	"ui_editor_preset_fireworks_variant_1": "العاب نارية 1",
+	"ui_editor_preset_fireworks_variant_2": "العاب نارية 2",
+	"ui_editor_preset_fireworks_variant_3": "العاب نارية 3",
+	"ui_editor_preset_fog_title": "ضباب",
+	"ui_editor_preset_fog_description": "تأثير ضباب / دخان خفي.",
+	"ui_editor_preset_fog_variant_1": "ضباب 1",
+	"ui_editor_preset_fog_variant_2": "ضباب 2",
+	"ui_editor_preset_fire_title": "نار",
+	"ui_editor_preset_fire_description": "تأثيرات حريق صغيرة وكبيرة.",
+	"ui_editor_preset_fire_variant_1": "شعلة",
+	"ui_editor_preset_fire_variant_2": "حريق هائل",
+	"ui_editor_preset_smoke_title": "دخان",
+	"ui_editor_preset_smoke_description": "تأثيرات دخان صغيرة وكبيرة.",
+	"ui_editor_preset_smoke_variant_1": "بخار 1",
+	"ui_editor_preset_smoke_variant_2": "بخار 2",
+	"ui_editor_preset_smoke_variant_3": "تيار دخان",
+	"ui_editor_preset_smoke_variant_4": "سحابة دخان",
+	"ui_editor_preset_smoke_variant_5": "رماد",
+	"ui_editor_preset_leaves_title": "اوراق اشجار",
+	"ui_editor_preset_leaves_description": "أوراق متساقطة بألوان مختلفة.",
+	"ui_editor_preset_leaves_variant_1": "اوراق اشجار 1",
+	"ui_editor_preset_leaves_variant_2": "اوراق اشجار 2",
+	"ui_editor_preset_leaves_variant_3": "اوراق اشجار 3",
+	"ui_editor_preset_leaves_variant_4": "اوراق اشجار 4",
+	"ui_editor_preset_leaves_variant_5": "ساكورا",
+	"ui_editor_preset_lightning_title": "برق",
+	"ui_editor_preset_lightning_description": "صواعق.",
+	"ui_editor_preset_lightning_variant_lightning_cloud": "سحابة برق",
+	"ui_editor_preset_lightning_variant_thunderbolt": "صاعقة",
+	"ui_editor_preset_lightning_variant_discharge": "برق 2",
+	"ui_editor_preset_bubbles_title": "فقاعات",
+	"ui_editor_preset_bubbles_description": "فقاعات تحت الماء.",
+	"ui_editor_preset_bubbles_variant_1": "فقاعات كرتونية",
+	"ui_editor_preset_bubbles_variant_2": "فقاعات المحيط",
+	"ui_editor_preset_stars_title": "نجوم",
+	"ui_editor_preset_stars_description": "تأثيرات جسيمات النجوم.",
+	"ui_editor_preset_stars_variant_1": "مجال نجوم",
+	"ui_editor_preset_stars_variant_2": "دائرة نجوم",
+	"ui_editor_preset_stars_variant_3": "شهاب",
+	"ui_editor_preset_magic_title": "سحر",
+	"ui_editor_preset_magic_description": "تأثيرات سحرية مختلفة.",
+	"ui_editor_preset_magic_variant_1": "شحنة",
+	"ui_editor_preset_magic_variant_2": "بريق",
+	"ui_editor_preset_magic_variant_3": "جاذبية",
+	"ui_editor_preset_magic_variant_4": "Powerup",
+	"ui_editor_preset_magic_variant_5": "دوامة 1",
+	"ui_editor_preset_magic_variant_6": "دوامة 2",
+	"ui_editor_preset_magic_variant_7": "حروف رسومية 1",
+	"ui_editor_preset_magic_variant_8": "حروف رسومية 2",
+	"ui_editor_preset_magic_variant_9": "تركيز",
+	"ui_editor_preset_magic_variant_10": "ثالوث",
+	"ui_editor_preset_magic_variant_11": "نبض",
+	"ui_editor_preset_interactive_title": "تفاعلي",
+	"ui_editor_preset_interactive_description": "جسيمات تفاعلية تتأثر بالمؤشر.",
+	"ui_editor_preset_interactive_variant_drops": "قطرات",
+	"ui_editor_preset_interactive_variant_trails_1": "مسارات 1",
+	"ui_editor_preset_interactive_variant_trails_2": "مسارات 2",
+	"ui_editor_preset_interactive_variant_fireflies": "يراعات",
+	"ui_editor_preset_abstract_title": "خلاصة",
+	"ui_editor_preset_abstract_description": "تأثيرات جسيمات عامة.",
+	"ui_editor_preset_clock_title": "ساعة",
+	"ui_editor_preset_clock_description": "اضافة ساعة للمشهد.",
+	"ui_editor_preset_clock_variant_clock": "ساعة",
+	"ui_editor_preset_clock_variant_3dclock": "ساعة ثلاثية ابعاد",
+	"ui_editor_preset_countdown_title": "عد تنازلي",
+	"ui_editor_preset_countdown_description": "اضافة عد تنازلي في المشهد.",
+	"ui_editor_preset_countdown_variant_release": "حرر العد التنازلي",
+	"ui_editor_stats_title": "احصائيات لكل إطار",
+	"ui_editor_stats_draw_calls": "Draw calls:",
+	"ui_editor_stats_primitives": "Primitives drawn:",
+	"ui_editor_stats_framebuffer_copies": "Framebuffer copies:",
+	"ui_editor_stats_render_target_changes": "Rendertarget changes:",
+	"ui_editor_stats_texture_memory": "ذاكرة الرسومات النشطة (م.ب):",
+	"ui_editor_stats_particle_count": "عدد الجسيمات:",
+	"ui_editor_stats_particle_memory": "ذاكرة الجسيمات (م.ب):",
+	"ui_editor_stats_particle_simulation_time": "وقت محاكاة الجسيمات (م.ث):",
+	"ui_editor_stats_script_execution_time": "وقت تنفيذ البرنامج النصي (م.ث):",
+	"ui_editor_script_run": "تشغيل",
+	"ui_editor_script_run_scripts": "تشغيل المعاينة",
+	"ui_editor_script_stop": "ايقاف",
+	"ui_editor_script_stop_scripts": "ايقاف المعاينة",
+	"ui_editor_script_compile": "تجميع",
+	"ui_editor_script_apply": "تطبيق",
+	"ui_editor_script_comment_selection": "جعل المحدد تعليق",
+	"ui_editor_script_uncomment_selection": "عدم جعل المحدد تعليق",
+	"ui_editor_script_snippets": "مقتطفات",
+	"ui_editor_script_unsaved_changes_header": "تغييرات غير محفوظة",
+	"ui_editor_script_unsaved_changes_body": "هناك تغييرات غير محفوظة. هل تريد الاحتفاظ بهم؟",
+	"ui_editor_script_format_document": "تنسيق المستند",
+	"ui_editor_script_documentation": "مستندات",
+	"ui_editor_script_insert_function": "أدخل الوظيفة",
+	"ui_editor_script_insert_property": "أدخل الخاصية",
+	"ui_editor_script_replace_code": "استبدال البرنامج النصي",
+	"ui_editor_script_import_base_module": "استيراد الوحدة النمطية الأساسية",
+	"ui_editor_script_import_custom_module": "استيراد وحدة مخصصة",
+	"ui_editor_script_module_color_utilities": "المرافق الملونة",
+	"ui_editor_script_module_vector_utilities": "مرافق الاتجاهات",
+	"ui_editor_script_module_math_utilities": "أدوات الرياضيات",
+	"ui_editor_script_snippet_rainbow_color": "لون قوس قزح",
+	"ui_editor_script_snippet_rotation": "دوران",
+	"ui_editor_script_snippet_rotation_pivot": "محور الدوران",
+	"ui_editor_script_snippet_screen_bounce": "ارتداد الشاشة",
+	"ui_editor_script_snippet_drag_drop": "السحب والإفلات",
+	"ui_editor_script_snippet_click_wiggle": "نقرة تذبذبية",
+	"ui_editor_script_snippet_click_play_sound": "انقر لتشغيل الصوت",
+	"ui_editor_script_snippet_cursor_follow": "اتباع المؤشر",
+	"ui_editor_script_snippet_cursor_avoid": "تجنب المؤشر",
+	"ui_editor_script_snippet_audio_factor": "عامل الصوت",
+	"ui_editor_script_insert_property_slider": "سلايدر",
+	"ui_editor_script_insert_property_checkbox": "خانة اختيار",
+	"ui_editor_script_insert_property_text": "نص",
+	"ui_editor_script_insert_property_color": "لون",
+	"ui_editor_script_insert_property_combo": "كومبو",
+	"ui_editor_script_message_run": "تشغيل معاينة البرنامج النصي.",
+	"ui_editor_script_message_stop": "إيقاف معاينة البرنامج النصي.",
+	"ui_editor_script_clear_log": "مسح السجل",
+	"ui_editor_script_clear_log_on_run": "مسح تسجيل الدخول",
+	"ui_editor_script_auto_scroll": "سكرول تلقائي",
+	"ui_editor_script_workshop": "وورك شوب",
+	"ui_editor_script_workshop_browse": "تصفح النصوص في الوورك شوب",
+	"ui_editor_script_workshop_browse_empty": "فارغ - اشترك في برامج نصية في الوورك شوب",
+	"ui_editor_script_workshop_replace": "استبدال مع برنامج نصي من الوورك شوب",
+	"ui_editor_script_workshop_publish": "نشر نص برمجي على الوورك شوب",
+	"ui_editor_shader_view_errors": "عرض الاخطاء",
+	"ui_editor_shader_replace": "استبدال شادر",
+	"ui_editor_shader_add_include": "أضف تضمين",
+	"ui_editor_shader_constants": "أضف شادر ثابت",
+	"ui_editor_shader_constants_general": "عام",
+	"ui_editor_shader_constants_view": "عرض",
+	"ui_editor_shader_constants_texture": "رسومات",
+	"ui_editor_shader_constants_audio": "صوت",
+	"ui_editor_shader_constants_light": "ضوء",
+	"ui_editor_shader_variables": "أضف متغير",
+	"ui_editor_shader_variable_slider_float": "تعويم السلايدر",
+	"ui_editor_shader_variable_slider_int": "Slider Int",
+	"ui_editor_shader_variable_linked_slider": "سلايدرات مربوطة",
+	"ui_editor_shader_variable_color_picker": "أداة انتقاء اللون",
+	"ui_editor_shader_variable_uv_picker": "منتقي موضع الـUV",
+	"ui_editor_shader_snippet_basic_image_vertex": "تأثير شادر Vertex أساسي",
+	"ui_editor_shader_snippet_basic_image_fragment": "تأثير الشادر الجزئي الأساسي",
+	"ui_editor_shader_combo_checkbox": "خانة اختيار - مزدوجة",
+	"ui_editor_shader_combo_2_options": "خياران - مزدوجة",
+	"ui_editor_shader_combo_3_options": "ثلاث خيارات - مزدوجة",
+	"ui_editor_shader_textures": "اضافة رسومات",
+	"ui_editor_properties_3d_perspective_extrusion": "بثق منظور ثلاثي الأبعاد",
+	"ui_editor_properties_accumulation_rate": "معدل التراكم",
+	"ui_editor_properties_actions": "أجراءات",
+	"ui_editor_properties_add": "اضافة",
+	"ui_editor_properties_additive": "مضافة",
+	"ui_editor_properties_advanced_texture_settings": "إعدادات الرسومات المتقدمة",
+	"ui_editor_properties_albedo": "البياض",
+	"ui_editor_properties_alignment": "محاذاة",
+	"ui_editor_properties_all": "الكل",
+	"ui_editor_properties_alpha": "ألفا",
+	"ui_editor_properties_amount": "المقدار",
+	"ui_editor_properties_angle": "الزاوية",
+	"ui_editor_properties_angles": "الزوايا",
+	"ui_editor_properties_animation": "الحركة",
+	"ui_editor_properties_animation_layer": "طبقة الحركة",
+	"ui_editor_properties_animation_mode": "وضح الحركة",
+	"ui_editor_properties_animation_speed": "سرعة الحركة",
+	"ui_editor_properties_animations": "التحريكات",
+	"ui_editor_properties_artifacts": "الآثار",
+	"ui_editor_properties_artifacts_negated": "الآثار المقلوبة",
+	"ui_editor_properties_audio_amount": "كمية الصوت",
+	"ui_editor_properties_audio_bounds": "حدود الصوت",
+	"ui_editor_properties_audio_exponent": "أس الصوت",
+	"ui_editor_properties_audio_frequency": "تردد الصوت",
+	"ui_editor_properties_audio_response": "استجابة صوتية",
+	"ui_editor_properties_axis": "محور",
+	"ui_editor_properties_back": "خلف",
+	"ui_editor_properties_background": "خلفية",
+	"ui_editor_properties_background_color": "لون الخلفية",
+	"ui_editor_properties_basic": "بسيط",
+	"ui_editor_properties_blend": "دمج",
+	"ui_editor_properties_blend_amount": "كمية الدمج",
+	"ui_editor_properties_blend_amount_2": "كمية الدمج 2",
+	"ui_editor_properties_blend_amount_3": "كمية الدمج 3",
+	"ui_editor_properties_blend_amount_4": "كمية الدمج 4",
+	"ui_editor_properties_blend_amount_5": "كمية الدمج 5",
+	"ui_editor_properties_blend_amount_6": "كمية الدمج 6",
+	"ui_editor_properties_blend_in_end": "نهاية الدمج",
+	"ui_editor_properties_blend_in_start": "بداية الدمج",
+	"ui_editor_properties_blend_mode": "وضح الدمج",
+	"ui_editor_properties_blend_out_end": "نهاية نهاية-الدمج",
+	"ui_editor_properties_blend_out_start": "بداية نهاية-الدمج",
+	"ui_editor_properties_blend_rules": "قواعد الدمج",
+	"ui_editor_properties_blend_texture": "دمج الرسومات",
+	"ui_editor_properties_blending": "دمج",
+	"ui_editor_properties_blur_scale": "مقياس التغبيش",
+	"ui_editor_properties_bone_constraints_index": "قيود العظام {{index}}",
+	"ui_editor_properties_bone_index": "عظم {{index}}",
+	"ui_editor_properties_bone_name_index": "واحد {{name}} ({{index}})",
+	"ui_editor_properties_bones": "مفاصل",
+	"ui_editor_properties_bottom": "الأسفل",
+	"ui_editor_properties_bounds": "حدود",
+	"ui_editor_properties_brightness": "السطوع",
+	"ui_editor_properties_browse": "تصفح",
+	"ui_editor_properties_calculated_depth": "العمق المحسوب",
+	"ui_editor_properties_cast_type": "Cast type",
+	"ui_editor_properties_center": "في الوسط",
+	"ui_editor_properties_chromatic_aberration": "انحراف لوني",
+	"ui_editor_properties_clamp_uvs": "Clamp UVs",
+	"ui_editor_properties_clear": "مسح",
+	"ui_editor_properties_clip": "مقطع",
+	"ui_editor_properties_color": "لون",
+	"ui_editor_properties_color_end": "نهاية اللون",
+	"ui_editor_properties_color_mask": "قناع اللون",
+	"ui_editor_properties_color_start": "بداية اللون",
+	"ui_editor_properties_composite": "مركب",
+	"ui_editor_properties_composite_effect": "التأثير المركب",
+	"ui_editor_properties_confirm": "تأكيد",
+	"ui_editor_properties_control_point": "نقطة تحكم",
+	"ui_editor_properties_control_point_end": "نهاية نقطة التحكم",
+	"ui_editor_properties_control_point_index_number": "نقطة التحكم {{index}}",
+	"ui_editor_properties_control_point_start": "بداية نقطة التحكم",
+	"ui_editor_properties_controller_index": "وحدة تحكم {{index}}",
+	"ui_editor_properties_controller_name_index": "وحدة تحكم {{name}} ({{index}})",
+	"ui_editor_properties_copy_background": "نسخ الخلفية",
+	"ui_editor_properties_corner_weights": "أوزان الزاوية",
+	"ui_editor_properties_count": "التعداد",
+	"ui_editor_properties_create": "إنشاء",
+	"ui_editor_properties_crop_transparent_area": "منطقة المحاصيل الشفافة",
+	"ui_editor_properties_culling": "Culling",
+	"ui_editor_properties_cutout": "قطع",
+	"ui_editor_properties_date": "تاريخ",
+	"ui_editor_properties_default": "افتراضي",
+	"ui_editor_properties_default_depth": "العمق الافتراضي: {{order}}",
+	"ui_editor_properties_delimiter": "محدد",
+	"ui_editor_properties_depth": "العمق",
+	"ui_editor_properties_depth_map": "خريطة العمق",
+	"ui_editor_properties_depth_test": "اختبار العمق",
+	"ui_editor_properties_depth_write": "عمق الكتابة",
+	"ui_editor_properties_deselect_all": "الغاء تحديد الكل",
+	"ui_editor_properties_detection_multiply": "تضاعف الكشف",
+	"ui_editor_properties_detection_size": "حجم الكشف",
+	"ui_editor_properties_detection_threshold": "الحد الاقصى للكشف",
+	"ui_editor_properties_direction": "الاتجاه",
+	"ui_editor_properties_direction_weights": "أوزان الاتجاه",
+	"ui_editor_properties_directions": "الاتجاهات",
+	"ui_editor_properties_disabled": "معطل",
+	"ui_editor_properties_distance": "المسافه",
+	"ui_editor_properties_distance_inner": "المسافة الداخلية",
+	"ui_editor_properties_distance_max": "المسافة القصوى",
+	"ui_editor_properties_distance_min": "المسافة الدنيا",
+	"ui_editor_properties_distance_outer": "المسافة الخارجية",
+	"ui_editor_properties_distortion": "تشوه",
+	"ui_editor_properties_distortion_speed": "سرعة التشويه",
+	"ui_editor_properties_distortion_strength": "قوة التشويه",
+	"ui_editor_properties_distortion_width": "عرض التشويه",
+	"ui_editor_properties_double_sided": "بجانبين",
+	"ui_editor_properties_drag": "سحب",
+	"ui_editor_properties_draw": "رسم",
+	"ui_editor_properties_duplicate_texture": "رسومات مكررة",
+	"ui_editor_properties_duration": "المدة",
+	"ui_editor_properties_edges": "الحواف",
+	"ui_editor_properties_edit": "تعديل",
+	"ui_editor_properties_edit_animation": "تحرير التحريك",
+	"ui_editor_properties_edit_constraints": "تحرير القيود",
+	"ui_editor_properties_edit_slices": "تحرير الشرائح",
+	"ui_editor_properties_edit_puppet_warp": "تحرير Puppet Warp",
+	"ui_editor_properties_effects": "تأثيرات",
+	"ui_editor_properties_effects_add": "اضافة",
+	"ui_editor_properties_effects_edit": "تعديل",
+	"ui_editor_properties_effects_reset": "إعادة ضبط",
+	"ui_editor_properties_elliptical": "بيضاوي الشكل",
+	"ui_editor_properties_enabled": "مفعل",
+	"ui_editor_properties_end_message": "رسالة النهاية",
+	"ui_editor_properties_end_time": "وقت النهاية",
+	"ui_editor_properties_end_value": "القيمة النهائية",
+	"ui_editor_properties_event_death": "وفاة الحدث",
+	"ui_editor_properties_event_follow": "متابعة الحدث",
+	"ui_editor_properties_event_spawn": "تفرخ الحدث",
+	"ui_editor_properties_exponent": "الأس",
+	"ui_editor_properties_export": "تصدير",
+	"ui_editor_properties_export_texture_file": "تصدير ملف رسومات",
+	"ui_editor_properties_extrusion": "النتوء",
+	"ui_editor_properties_extrusion_preview": "معاينة النتوء",
+	"ui_editor_properties_extrusion_scale": "مقياس النتوء",
+	"ui_editor_properties_extrusion_smoothing": "تنعيم النتوء",
+	"ui_editor_properties_eye_dropper_hotkey": "منتقي الألوان ({{key}})",
+	"ui_editor_properties_fade_in_time": "وقت التلاشي",
+	"ui_editor_properties_fade_out_time": "وقت التلاشي العكسي",
+	"ui_editor_properties_feather": "ريشة",
+	"ui_editor_properties_file": "ملف",
+	"ui_editor_properties_files": "ملفات",
+	"ui_editor_properties_fixed": "ثابت",
+	"ui_editor_properties_fixed_direction": "اتجاه ثابت",
+	"ui_editor_properties_flatten": "مسطح",
+	"ui_editor_properties_flow_map": "خريطة التدفق",
+	"ui_editor_properties_flow_phase": "مرحلة التدفق",
+	"ui_editor_properties_font": "الخط",
+	"ui_editor_properties_force": "القوة",
+	"ui_editor_properties_format": "الصيغة",
+	"ui_editor_properties_forward": "إلى الأمام",
+	"ui_editor_properties_fps": "معدل الاطارات",
+	"ui_editor_properties_frame_duration": "مدة الإطار",
+	"ui_editor_properties_framebuffer": "Frame buffer",
+	"ui_editor_properties_frames": "الإطارات",
+	"ui_editor_properties_frequency_end": "نهاية التردد",
+	"ui_editor_properties_frequency_max": "اقصى تردد",
+	"ui_editor_properties_frequency_min": "ادنى تردد",
+	"ui_editor_properties_frequency_start": "بدء التردد",
+	"ui_editor_properties_fresnel_exponent": "أس معادلات فرينل",
+	"ui_editor_properties_friction": "احتكاك",
+	"ui_editor_properties_fuzziness": "ضبابي",
+	"ui_editor_properties_generate": "توليد",
+	"ui_editor_properties_geometry": "هندسي",
+	"ui_editor_properties_gravity": "جاذبية",
+	"ui_editor_properties_greyscale": "تدرج رمادي",
+	"ui_editor_properties_hardness": "صلابة",
+	"ui_editor_properties_hdr_background_brightness": "سطوع خلفية HDR",
+	"ui_editor_properties_hdr_brightness": "سطوع HDR",
+	"ui_editor_properties_height": "ارتفاع",
+	"ui_editor_properties_holes": "ثقوب",
+	"ui_editor_properties_image": "صورة",
+	"ui_editor_properties_image_layer": "طبقة الصورة",
+	"ui_editor_properties_import": "استيراد",
+	"ui_editor_properties_import_texture_file": "استيراد ملف رسومات",
+	"ui_editor_properties_import_image_sequence": "تسلسل استيراد الصور",
+	"ui_editor_properties_incomplete": "غير مكتمل",
+	"ui_editor_properties_inner": "داخلي",
+	"ui_editor_properties_infinite_axis": "محور لانهائي",
+	"ui_editor_properties_instantaneous": "فوري",
+	"ui_editor_properties_intensity": "الشدة",
+	"ui_editor_properties_invert": "عكس",
+	"ui_editor_properties_isolate_effect": "تأثير العزل",
+	"ui_editor_properties_kernel_size": "حجم النواة",
+	"ui_editor_properties_layer": "طبقة",
+	"ui_editor_properties_led_source": "قصر iCUE & Chroma على هذه الطبقة",
+	"ui_editor_properties_left": "يسار",
+	"ui_editor_properties_length": "طول",
+	"ui_editor_properties_lifetime": "طول الحياة",
+	"ui_editor_properties_light": "ضوء",
+	"ui_editor_properties_light_color": "لون الضوء",
+	"ui_editor_properties_lighting": "اضاءة",
+	"ui_editor_properties_lighting_and_reflection": "الإضاءة والانعكاسات",
+	"ui_editor_properties_limb_depth_order": "ترتيب عمق الأطراف",
+	"ui_editor_properties_link_to_parent": "ارتباط إلى الأصل",
+	"ui_editor_properties_load": "تحميل",
+	"ui_editor_properties_lock_to_pointer": "قفل على المؤشر",
+	"ui_editor_properties_locked": "مقفل",
+	"ui_editor_properties_loop": "حلقة",
+	"ui_editor_properties_mask": "قناع",
+	"ui_editor_properties_mask_opacity": "عتامة القناع",
+	"ui_editor_properties_material": "المادة",
+	"ui_editor_properties_materials": "مواد",
+	"ui_editor_properties_manual_editing": "تحرير يدوي",
+	"ui_editor_properties_max": "الاقصى",
+	"ui_editor_properties_max_count": "العدد الاقصى",
+	"ui_editor_properties_max_length": "الحد الاقصى للطول",
+	"ui_editor_properties_maxtime": "أقصى وقت",
+	"ui_editor_properties_metallic": "معدني",
+	"ui_editor_properties_metallic_map": "خريطة معدنية",
+	"ui_editor_properties_min": "الادنى",
+	"ui_editor_properties_mintime": "الوقت الادنى",
+	"ui_editor_properties_mirror": "مرآة",
+	"ui_editor_properties_miscellaneous": "متفرقات",
+	"ui_editor_properties_mode": "الوضع",
+	"ui_editor_properties_model": "نموذج",
+	"ui_editor_properties_monochrome": "أحادي اللون",
+	"ui_editor_properties_move_bone_to_front": "تحريك الطرف إلى الأمام",
+	"ui_editor_properties_move_bone_to_back": "تحريك الطرف إلى الخلف",
+	"ui_editor_properties_multiply": "مضاعفة",
+	"ui_editor_properties_mute_in_editor": "كتم الصوت في المحرر",
+	"ui_editor_properties_name": "الاسم",
+	"ui_editor_properties_no_bones_selected": "لم يتم اختيار مفاصل",
+	"ui_editor_properties_no_cull": "No cull",
+	"ui_editor_properties_no_frame_blending": "بدون دمج إطارات",
+	"ui_editor_properties_no_mip_maps": "لا خرائط mip",
+	"ui_editor_properties_noise": "ضوضاء",
+	"ui_editor_properties_noise_amount": "كمية الضوضاء",
+	"ui_editor_properties_noise_scale": "مقياس الضوضاء",
+	"ui_editor_properties_noise_smoothness": "نعومة الضوضاء",
+	"ui_editor_properties_noise_speed": "سرعة الضوضاء",
+	"ui_editor_properties_none": "لا شيء",
+	"ui_editor_properties_normal": "عادي",
+	"ui_editor_properties_normal_map": "خريطة عادية",
+	"ui_editor_properties_normalize_all_weights": "تطبيع جميع الأوزان",
+	"ui_editor_properties_not_more_than_one_per_frame": "اقتصار على واحدة لكل إطار",
+	"ui_editor_properties_nothing_to_configure": "لا شيء لتكوينه",
+	"ui_editor_properties_number_of_textures": "عدد الرسومات",
+	"ui_editor_properties_offset": "موازنة",
+	"ui_editor_properties_offset_depth": "عمق الإزاحة",
+	"ui_editor_properties_occlusion_performance": "أداء الانسداد",
+	"ui_editor_properties_occlusion_quality": "جودة الانسداد",
+	"ui_editor_properties_opacity": "العتامة",
+	"ui_editor_properties_opacity_mask": "قناع التعتيم",
+	"ui_editor_properties_opaque_background": "خلفية غير شفافة",
+	"ui_editor_properties_operator_blending": "دمج عامل",
+	"ui_editor_properties_optional": "اختياري",
+	"ui_editor_properties_options": "خيارات",
+	"ui_editor_properties_orientation": "توجيه",
+	"ui_editor_properties_origin": "أصل",
+	"ui_editor_properties_outline_background": "خلفية الخط الخارجي",
+	"ui_editor_properties_outline_color": "لون الخط الخارجي",
+	"ui_editor_properties_overbright": "مشرق اكثر من اللازم",
+	"ui_editor_properties_padding": "حشوة",
+	"ui_editor_properties_paint": "رسم",
+	"ui_editor_properties_paint_weights": "أوزان الطلاء",
+	"ui_editor_properties_parallax_depth": "عمق المنظر",
+	"ui_editor_properties_particle": "جسيم",
+	"ui_editor_properties_particle_instance": "مثيل الجسيمات",
+	"ui_editor_properties_particle_system": "نظام الجسيمات",
+	"ui_editor_properties_perspective": "منظور",
+	"ui_editor_properties_perspective_padding": "المساحة المتروكة للمنظور",
+	"ui_editor_properties_perspective_warp": "الاعوجاج المنظور",
+	"ui_editor_properties_phase": "مرحلة",
+	"ui_editor_properties_phase_max": "المرحلة القصوى",
+	"ui_editor_properties_phase_min": "المرحلة الدنيا",
+	"ui_editor_properties_phase_scale": "مقياس المرحلة",
+	"ui_editor_properties_pinch": "قرصة",
+	"ui_editor_properties_pivot_offset_x": "الإزاحة المحورية X",
+	"ui_editor_properties_pivot_offset_y": "إزاحة المحور Y",
+	"ui_editor_properties_playback": "تشغيل",
+	"ui_editor_properties_playback_rate": "معدل التشغيل",
+	"ui_editor_properties_point_filter": "مرشح النقطة",
+	"ui_editor_properties_point_light": "نقطة ضوء",
+	"ui_editor_properties_point_size": "حجم النقطة",
+	"ui_editor_properties_pose_index": "تشكل {{index}}",
+	"ui_editor_properties_poses": "تشكل",
+	"ui_editor_properties_position": "موضع",
+	"ui_editor_properties_power": "قوة",
+	"ui_editor_properties_probability": "احتمالا",
+	"ui_editor_properties_proportional_size": "الحجم النسبي",
+	"ui_editor_properties_pulse_alpha": "نبض ألفا",
+	"ui_editor_properties_pulse_amount": "كمية النبض",
+	"ui_editor_properties_pulse_bounds": "حدود النبض",
+	"ui_editor_properties_pulse_color": "لون النبض",
+	"ui_editor_properties_pulse_phase": "مرحلة النبض",
+	"ui_editor_properties_pulse_speed": "سرعة النبض",
+	"ui_editor_properties_puppet": "Puppet",
+	"ui_editor_properties_puppet_warp_animation": "Puppet Warp Animation",
+	"ui_editor_properties_quality": "الجودة",
+	"ui_editor_properties_radius": "نصف القطر",
+	"ui_editor_properties_random": "عشوائي",
+	"ui_editor_properties_random_frame": "اطار عشوائي",
+	"ui_editor_properties_rate": "المعدل",
+	"ui_editor_properties_ratio": "النسبة",
+	"ui_editor_properties_ray_intensity": "شدة الأشعة",
+	"ui_editor_properties_ray_length": "طول الشعاع",
+	"ui_editor_properties_ray_threshold": "الحد الاقصى للشعاع",
+	"ui_editor_properties_read_alpha": "قراءة ألفا",
+	"ui_editor_properties_recurring": "التكرار",
+	"ui_editor_properties_reference_pose": "Reference Pose",
+	"ui_editor_properties_reflection": "انعكاس",
+	"ui_editor_properties_reflection_map": "خريطة الانعكاس",
+	"ui_editor_properties_reflectivity": "انعكاسية",
+	"ui_editor_properties_refract": "الانكسار",
+	"ui_editor_properties_refract_amount": "كمية الانكسار",
+	"ui_editor_properties_remove": "حذف",
+	"ui_editor_properties_remove_puppet_warp": "حذف Puppet Warp",
+	"ui_editor_properties_remove_selected_bones": "إزالة العظام المحددة",
+	"ui_editor_properties_remove_selected_slices": "إزالة الشرائح المحددة",
+	"ui_editor_properties_rendering": "ريندر",
+	"ui_editor_properties_repeat": "تكرار",
+	"ui_editor_properties_reset": "إعادة ضبط",
+	"ui_editor_properties_reset_all_weights": "إعادة تعيين جميع الأوزان",
+	"ui_editor_properties_reset_all_weights_modal_body": "هل أنت متأكد من أنك تريد إعادة تعيين جميع أوزان الرؤوس إلى قيمها الافتراضية؟",
+	"ui_editor_properties_reset_all_weights_modal_title": "تتم إعادة ضبط جميع الأوزان",
+	"ui_editor_properties_reset_pose": "إعادة تعيين الوضعية",
+	"ui_editor_properties_reset_selected_bone": "إعادة تعيين العظام المحددة",
+	"ui_editor_properties_reset_to_selected_pose": "إعادة التعيين إلى الوضعية المحددة",
+	"ui_editor_properties_resolution": "الدقة",
+	"ui_editor_properties_resolution_in_memory": "الدقة في الذاكرة",
+	"ui_editor_properties_right": "يمين",
+	"ui_editor_properties_ripple_scale": "مقياس التموج",
+	"ui_editor_properties_ripple_strength": "قوة التموج",
+	"ui_editor_properties_root_bone": "عظم الجذر",
+	"ui_editor_properties_root_name_bone": "عظم الجذر {{name}}",
+	"ui_editor_properties_roughness": "الخشونة",
+	"ui_editor_properties_roughness_map": "خريطة الخشونة",
+	"ui_editor_properties_samples": "عينات",
+	"ui_editor_properties_saturation": "التشبع",
+	"ui_editor_properties_save": "حفظ",
+	"ui_editor_properties_scale": "قياس",
+	"ui_editor_properties_scale_max": "اقصى قياس",
+	"ui_editor_properties_scale_min": "ادنى قياس",
+	"ui_editor_properties_screen": "شاشة",
+	"ui_editor_properties_screen_anchor": "مرساة الشاشة",
+	"ui_editor_properties_scroll_direction": "اتجاه السكرول",
+	"ui_editor_properties_scroll_speed": "سرعة السكرول",
+	"ui_editor_properties_seconds": "الثواني",
+	"ui_editor_properties_segments": "شرائح",
+	"ui_editor_properties_select_all": "تحديد الكل",
+	"ui_editor_properties_select_single": "تحديد واحدة",
+	"ui_editor_properties_select_parent_bone": "حدد عظمة أصل لربطها.",
+	"ui_editor_properties_selected_vertices": "رؤوس مختارة",
+	"ui_editor_properties_sensitivity": "الحساسية",
+	"ui_editor_properties_sequence": "التسلسل",
+	"ui_editor_properties_sequence_multiplier": "مضاعف التسلسل",
+	"ui_editor_properties_set_control_point_start_index": "مؤشر بدء نقطة التحكم",
+	"ui_editor_properties_set_control_points": "اضبط نقاط التحكم",
+	"ui_editor_properties_set_root_bone": "تعيين جذر العظام",
+	"ui_editor_properties_settings": "الإعدادات",
+	"ui_editor_properties_shader": "شادر",
+	"ui_editor_properties_shader_options": "خيارات شادر",
+	"ui_editor_properties_shaders": "شادر",
+	"ui_editor_properties_shading": "تظليل",
+	"ui_editor_properties_shading_amount": "كمية التظليل",
+	"ui_editor_properties_shading_direction": "اتجاه التظليل",
+	"ui_editor_properties_shake_direction_map": "اتجاه الاهتزاز",
+	"ui_editor_properties_shake_phase": "مرحلة الهز",
+	"ui_editor_properties_show_all": "عرض الكل",
+	"ui_editor_properties_show_bones": "اضهار المفاصل",
+	"ui_editor_properties_show_mask": "إظهار القناع",
+	"ui_editor_properties_show_seconds": "عرض الثواني",
+	"ui_editor_properties_show_single": "عرض واحد",
+	"ui_editor_properties_show_solid_mesh": "إظهار شبكة صلبة",
+	"ui_editor_properties_show_vertices": "إظهار القمم",
+	"ui_editor_properties_show_wireframe": "إظهار الإطار السلكي",
+	"ui_editor_properties_sign": "إشارة",
+	"ui_editor_properties_single": "وحيد",
+	"ui_editor_properties_size": "حجم",
+	"ui_editor_properties_skeleton": "هيكل",
+	"ui_editor_properties_slices": "شرائح",
+	"ui_editor_properties_smooth": "ناعم",
+	"ui_editor_properties_smooth_all_weights": "تنعيم جميع الاوزان",
+	"ui_editor_properties_smoothness": "تنعيم",
+	"ui_editor_properties_solid": "صلب",
+	"ui_editor_properties_sound": "صوت",
+	"ui_editor_properties_speed": "السرعة",
+	"ui_editor_properties_speed_inner": "السرعة الداخلية",
+	"ui_editor_properties_speed_max": "اقصى سرعة",
+	"ui_editor_properties_speed_min": "ادنى سرعة",
+	"ui_editor_properties_speed_outer": "السرعة الخارجية",
+	"ui_editor_properties_speed_x": "سرعة الـX",
+	"ui_editor_properties_speed_y": "سرعة الـY",
+	"ui_editor_properties_spin": "دوران",
+	"ui_editor_properties_spread": "انتشار",
+	"ui_editor_properties_sprite": "سبرايت",
+	"ui_editor_properties_sprite_sheet": "Sprite sheet",
+	"ui_editor_properties_start_silent": "بداية الصمت",
+	"ui_editor_properties_start_time": "وقت البداية",
+	"ui_editor_properties_start_value": "قيمة البداية",
+	"ui_editor_properties_static": "ثابتة",
+	"ui_editor_properties_strength": "القوة",
+	"ui_editor_properties_subdivision": "التقسيم",
+	"ui_editor_properties_subtract": "طرح",
+	"ui_editor_properties_system": "نظام",
+	"ui_editor_properties_text": "نص",
+	"ui_editor_properties_text_horizontal_alignment": "المحاذاة الأفقية",
+	"ui_editor_properties_text_layer": "طبقة النص",
+	"ui_editor_properties_text_vertical_alignment": "المحاذاة العمودية",
+	"ui_editor_properties_texture": "الرسومات",
+	"ui_editor_properties_texture_channels": "قنوات الرسومات",
+	"ui_editor_properties_texture_path_undefined": "لم يحدد",
+	"ui_editor_properties_texture_unnamed": "< غير مسمى >",
+	"ui_editor_properties_textures": "الرسومات",
+	"ui_editor_properties_threshold": "الحد الاقصى (Threshold)",
+	"ui_editor_properties_time_offset": "معادلة الوقت",
+	"ui_editor_properties_timescale": "الجدول الزمني",
+	"ui_editor_properties_tint_high": "درجة لون عالية",
+	"ui_editor_properties_tint_low": "تلوين خفيف",
+	"ui_editor_properties_tolerance": "Tolerance",
+	"ui_editor_properties_tools": "ادوات",
+	"ui_editor_properties_top": "القمة",
+	"ui_editor_properties_transform": "تحويل",
+	"ui_editor_properties_transform_repeat": "كرر التحويل",
+	"ui_editor_properties_translucent": "شفاف",
+	"ui_editor_properties_type": "النوع",
+	"ui_editor_properties_under": "تحت",
+	"ui_editor_properties_unlink_from_parent": "فك الارتباط من الأصل",
+	"ui_editor_properties_up": "فوق",
+	"ui_editor_properties_update_bone_mask": "حدد عظام الرسوم المتحركة",
+	"ui_editor_properties_update_bone_mask_info": "حدد العظام التي يجب أن تكون جزءًا من هذه الرسوم المتحركة.",
+	"ui_editor_properties_upright": "مستقيم",
+	"ui_editor_properties_use_24h_format": "استخدام نظام 24 ساعة",
+	"ui_editor_properties_viewport": "منفذ العرض",
+	"ui_editor_properties_visible": "مرئي",
+	"ui_editor_properties_volume": "المقدار",
+	"ui_editor_properties_vram": "ذاكرة الفيديو",
+	"ui_editor_properties_waiting_for_compiler": "في انتظار انتهاء المترجم...",
+	"ui_editor_properties_water_normal": "خريطة طبيعية للمياه",
+	"ui_editor_properties_weights": "الأوزان",
+	"ui_editor_properties_when_mouse_button_pressed": "عند الضغط على زر الفأرة",
+	"ui_editor_properties_width": "عرض",
+	"ui_editor_properties_worldspace": "مساحة العالم",
+	"ui_editor_properties_write_alpha": "كتابة ألفا",
+	"ui_editor_properties_context_menu_bind_user_property": "ربط خاصية المستخدم",
+	"ui_editor_properties_context_menu_unbind_user_property": "إلغاء ربط خاصية المستخدم",
+	"ui_editor_properties_context_menu_edit_user_property": "تحرير خاصية المستخدم",
+	"ui_editor_properties_context_menu_bind_script": "ربط البرنامج النصي",
+	"ui_editor_properties_context_menu_unbind_script": "فك الارتباط النصي",
+	"ui_editor_properties_context_menu_edit_script": "تحرير البرنامج النصي",
+	"ui_editor_properties_context_menu_bind_animation": "ربط الخط الزمني للحركة",
+	"ui_editor_properties_context_menu_unbind_animation": "إلغاء ربط الخط الزمني للحركة",
+	"ui_editor_properties_context_menu_edit_animation": "تعديل الخط الزمني للحركة",
+	"ui_editor_properties_context_menu_restore_default_value": "استعادة القيمة الافتراضية",
+	"ui_editor_properties_context_menu_texture_properties": "خواص الرسومات",
+	"ui_editor_particle_editor": "محرر الجسيمات",
+	"ui_editor_particle_selected": "المحددة:",
+	"ui_editor_particle_delete_particle_header": "حذف الجسيمات",
+	"ui_editor_particle_delete_particle_body": "هل أنت متأكد أنك تريد حذف نظام الجسيمات {{particle}}؟",
+	"ui_editor_particle_duplicate_particle_header": "جسيم مكرر",
+	"ui_editor_particle_duplicate_particle_body": "أدخل اسم نظام الجسيمات الجديد:",
+	"ui_editor_particle_new_particle_header": "جسيم جديد",
+	"ui_editor_particle_new_particle_body": "أدخل اسم نظام الجسيمات الجديد:",
+	"ui_editor_particle_add_element_emitter_header": "إضافة باعث",
+	"ui_editor_particle_add_element_emitter_body": "حدد باعثًا ينتج عنه جزيئات جديدة.",
+	"ui_editor_particle_add_element_initializer_header": "أضف مُهيئ",
+	"ui_editor_particle_add_element_initializer_body": "حدد مُهيئًا يتم تطبيقه عند تولد الجسيمات.",
+	"ui_editor_particle_add_element_operator_header": "اضافة مشغل",
+	"ui_editor_particle_add_element_operator_body": "حدد عاملًا يحاكي الجسيم بمرور الوقت.",
+	"ui_editor_particle_add_element_renderer_header": "أضف ما يرندر",
+	"ui_editor_particle_add_element_renderer_body": "حدد جهاز عرض يتحكم في طريقة عرض الجسيمات.",
+	"ui_editor_particle_add_element_children_header": "أضف طفل",
+	"ui_editor_particle_add_element_children_body": "حدد نظام جسيمات موجود كطفل.",
+	"ui_editor_particle_element_group_general": "عام",
+	"ui_editor_particle_element_group_renderers": "ما ترندر",
+	"ui_editor_particle_element_group_emitters": "باعثات",
+	"ui_editor_particle_element_group_initializers": "بادئات",
+	"ui_editor_particle_element_group_operators": "مشغلات",
+	"ui_editor_particle_element_group_children": "أطفال",
+	"ui_editor_particle_element_group_control_points": "نقاط تحكم",
+	"ui_editor_particle_element_emitter_boxrandom": "مربع عشوائي",
+	"ui_editor_particle_element_emitter_sphererandom": "مجال دائري عشوائي",
+	"ui_editor_particle_element_initializer_alpharandom": "الفا عشوائي",
+	"ui_editor_particle_element_initializer_angularvelocityrandom": "السرعة الزاوية عشوائية",
+	"ui_editor_particle_element_initializer_colorrandom": "لون عشوائي",
+	"ui_editor_particle_element_initializer_lifetimerandom": "عشوائية دائما",
+	"ui_editor_particle_element_initializer_mapsequencearoundcontrolpoint": "تسلسل الخريطة حول نقطة التحكم",
+	"ui_editor_particle_element_initializer_mapsequencebetweencontrolpoints": "تسلسل الخريطة بين نقاط التحكم",
+	"ui_editor_particle_element_initializer_rotationrandom": "دوران عشوائي",
+	"ui_editor_particle_element_initializer_sizerandom": "حجم عشوائي",
+	"ui_editor_particle_element_initializer_turbulentvelocityrandom": "السرعة المضطربة العشوائية",
+	"ui_editor_particle_element_initializer_velocityrandom": "سرعة عشوائية",
+	"ui_editor_particle_element_operator_alphachange": "تغيير الالفا",
+	"ui_editor_particle_element_operator_alphafade": "تلاشي ألفا",
+	"ui_editor_particle_element_operator_angularmovement": "الحركة الزاوية",
+	"ui_editor_particle_element_operator_colorchange": "تغيير اللون",
+	"ui_editor_particle_element_operator_controlpointattract": "قوة نقطة التحكم",
+	"ui_editor_particle_element_operator_movement": "الحركة",
+	"ui_editor_particle_element_operator_oscillatealpha": "تأرجح ألفا",
+	"ui_editor_particle_element_operator_oscillateposition": "موضع التأرجح",
+	"ui_editor_particle_element_operator_oscillatesize": "حجم التأرجح",
+	"ui_editor_particle_element_operator_sizechange": "تغيير الحجم",
+	"ui_editor_particle_element_operator_turbulence": "اضطراب",
+	"ui_editor_particle_element_operator_vortex": "دوامة",
+	"ui_editor_particle_element_renderer_rope": "حبل",
+	"ui_editor_particle_element_renderer_ropetrail": "درب الحبل",
+	"ui_editor_particle_element_renderer_sprite": "سبرايت",
+	"ui_editor_particle_element_renderer_spritetrail": "درب السبرايت",
+	"ui_editor_particle_example_basic": "بسيط",
+	"ui_editor_particle_example_cursor_follow": "اتباع المؤشر",
+	"ui_editor_particle_example_cursor_avoid": "تجنب المؤشر",
+	"ui_editor_particle_example_turbulence": "اضطراب",
+	"ui_editor_properties_geometry_warning_title": "الصورة غير شفافة",
+	"ui_editor_properties_geometry_warning_body": "هذه الصورة غير مناسبة لنظام التحريك.<br/><br/>يجب عليك استيراد صورة/شخصية لها خلفية شفافة حتى تعمل أداة التشويه بشكل صحيح.<br/><br/>يمكن أن يكون كل طرف/جزء متحرك ككائن منفصل عن الصورة، أو فقط قص الشخصية/الكائن من الصورة وجعل الخلفية شفافة بالكامل.",
+	"ui_editor_puppet_warp_edit_warning_title": "إعادة ضبط Puppet Warp",
+	"ui_editor_puppet_warp_edit_warning_body": "إذا واصلت تعديل مرحلة إنشاء هذه الدمية، فستتم إعادة تعيين جميع مراحل الإنشاء التالية وسيتعين عليك إعادة تنفيذها من البداية.<br/>سيتم حذف جميع الرسوم المتحركة الموجودة لهذه الدمية.",
+	"ui_editor_puppet_warp_delete_warning_title": "حذف Puppet Warp",
+	"ui_editor_puppet_warp_delete_warning_body": "هل أنت متأكد من أنك تريد حذف نموذج التواء الدمية هذا وجميع الرسوم المتحركة به؟<br/><br/>لا يمكن التراجع عن هذا الإجراء.<br/><br/>سيتم حذف التواء الدمية من جميع الطبقات الموجودة باستخدام هذه الصورة.",
+	"ui_editor_puppet_warp_save_pose_title": "حفظ الوضع الجديد",
+	"ui_editor_puppet_warp_overwrite_pose_title": "وضع الكتابة فوق {{name}}",
+	"ui_editor_select_material": "حدد مادة",
+	"ui_editor_select_texture": "تحديد رسومات",
+	"ui_editor_light_limit_reached": "لا يمكن إضافة أكثر من {{count}} مصباح.",
+	"ui_provider_error_generic": "واجه [[[Platform]]] خطأ داخلي.",
+	"ui_provider_error_no_network": "[[[Platform]]] ليس لديه اتصال بالشبكة.",
+	"ui_provider_error_logged_on_elsewhere": "تم تسجيل دخول مستخدم [[[Platform]]] على كمبيوتر مختلف.",
+	"ui_provider_error_file_not_found": "تعذر على [[[Platform]]] العثور على ملفات معينة أو الوصول إليها على القرص الثابت لديك.",
+	"ui_provider_error_servers_busy": "خوادم [[[Platform]]] لا تستجيب وقد تكون محملة بشكل زائد أو معطلة تمامًا.",
+	"ui_provider_error_access_denied": "[[[Platform]]] يمنع الوصول. هذا يعني عادة أن حسابك محظور أو مقيد مؤقتًا.",
+	"ui_provider_error_timeout": "[[[Platform]]] أجهض الطلب نظرًا لأن معالجته استغرقت وقتًا طويلاً للغاية.",
+	"ui_provider_error_service_unavailable": "خدمات [[[Platform]]] غير متوفرة حاليًا.",
+	"ui_provider_error_not_logged_in": "مستخدم [[[Platform]]] لم يقم بتسجيل الدخول.",
+	"ui_provider_error_insufficient_privilege": "يفتقد [[[Platform]]] الامتيازات.",
+	"ui_provider_error_limit_exceeded": "واجه [[[Platform]]] حدًا للطلبات.",
+	"ui_provider_error_io_failure": "واجه [[[Platform]]] مشاكل في قراءة الملفات أو كتابتها من وإلى القرص الثابت.",
+	"ui_provider_error_read_only": "خدمة [[[Platform]]] للقراءة فقط. إذا قمت بتغيير كلمة المرور الخاصة بك مؤخرًا، فإن [[[Platform]]] لا يسمح بتحميل محتوى جديد. عادة ما تحل هذه المشكلة نفسها بعد بضعة أيام.",
+	"ui_provider_error_failed_setting_item_data": "[[[Platform]]] فشل في تطبيق معلومات الوورك شوب الجديدة.",
+	"ui_provider_error_ctx_create_ugc_rate_limit_exceeded": "رفض [[[Platform]]] إرسالك إلى الوورك شوب لأنك تقوم بالتحميل كثيرًا. يرجى المحاولة مرة أخرى في بضع دقائق."
 }
