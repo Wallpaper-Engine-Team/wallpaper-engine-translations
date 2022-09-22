@@ -45,6 +45,7 @@
 	"core_msgbox_ui_file_not_found" : "The program files cannot be opened.\n\nYou might have invalid characters in the installation path, the file might be missing or the program might be blocked by an anti-virus.\n\nTry installing Wallpaper Engine in the same directory as [[[Platform]]] or create a [[[Platform]]] library with simple characters.",
 	"core_msgbox_trial_expired_title" : "Trial Version Expired",
 	"core_msgbox_trial_expired_body" : "The trial version has expired and Wallpaper Engine will now close.\n\nYou have to purchase Wallpaper Engine on [[[Platform]]] if you would like to continue using it, thank you!",
+	"core_msgbox_scene_dx10_err" : "DirectX 10 not supported by your graphics card or your graphics driver is broken. Windows reports:",
 
 	"core_fatal_window_creation_failed" : "Failed to create wallpaper window (Error {{error}}). This is usually related to broken graphics card drivers. Perform a clean reinstallation of your graphics card drivers and restart your computer.",
 
