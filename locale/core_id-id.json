@@ -42,6 +42,7 @@
 	"core_msgbox_ui_file_not_found": "Berkas program tidak dapat dibuka.\n\nAnda mungkin mempunyai karakter yang tidak sah di jalur pemasangan nya, berkas mungkin tidak ditemukan atau program mungkin di blokir oleh anti-virus.\n\nCobalah memasang Wallpaper Engine di direktori yang sama dengan [[[Platform]]] atau membuat sebuah pustaka [[[Platform]]] dengan karakter yang sederhana.",
 	"core_msgbox_trial_expired_title": "Versi Percobaan Kedaluwarsa",
 	"core_msgbox_trial_expired_body": "Versi percobaan telah kedaluwarsa dan sekarang Wallpaper Engine akan ditutup.\n\nAnda harus membeli Wallpaper Engine di [[[Platform]]] jika Anda ingin terus menggunakannya. Terima kasih!",
+	"core_msgbox_scene_dx10_err": "Kartu grafis Anda tidak mendukung DirectX 10 atau driver grafis Anda rusak. Laporan Windows:",
 	"core_fatal_window_creation_failed": "Gagal membuat jendela wallpaper (Galat {{error}}). Ini biasanya terkait dengan kerusakan driver kartu grafis. Lakukan pemasangan ulang total driver kartu grafis Anda dan aktifkan ulang kembali komputer Anda.",
 	"core_updater_title": "Pembaru Wallpaper Engine",
 	"core_updater_headline_init": "Mengatur Wallpaper Engine...",
