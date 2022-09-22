@@ -2260,7 +2260,6 @@
 	"ui_editor_properties_left" : "Left",
 	"ui_editor_properties_length" : "Length",
 	"ui_editor_properties_lifetime" : "Lifetime",
-	"ui_editor_properties_life_threshold" : "Life threshold",
 	"ui_editor_properties_light" : "Light",
 	"ui_editor_properties_light_color" : "Light color",
 	"ui_editor_properties_lighting" : "Lighting",
