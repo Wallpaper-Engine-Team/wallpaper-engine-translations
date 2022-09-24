@@ -1615,6 +1615,7 @@
 	"ui_editor_scene_options_general": "Genel",
 	"ui_editor_scene_options_camera": "Kamera",
 	"ui_editor_import_adjust_projection_center": "Duvar kağıdı boyutunu ve merkezini ayarlama",
+	"ui_editor_layer_text_layer": "Metin Katmanı",
 	"ui_editor_effects_modal_imagelayer_name": "Resim Katmanı",
 	"ui_editor_effects_modal_imagelayer_description": "Bilgisayarınızdan bir resmi içe aktarın.",
 	"ui_editor_effects_modal_textlayer_name": "Metin Katmanı",
