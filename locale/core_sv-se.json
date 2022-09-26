@@ -42,6 +42,7 @@
 	"core_msgbox_ui_file_not_found": "Programfilerna kan inte öppnas.\n\nInstallationssökvägen kanske innehåller ogiltiga tecken, filen kanske saknas eller programmet kanske blockeras av ett antivirusprogram.\n\nFörsök att installera Wallpaper Engine i samma filkatalog som [[[Platform]]] eller skapa ett [[[Platform]]]-bibliotek med enkla tecken.",
 	"core_msgbox_trial_expired_title": "Utvärderingsversionen har gått ut",
 	"core_msgbox_trial_expired_body": "Utvärderingsversionen har gått ut och Wallpaper Engine kommer nu avslutas.\n\nDu måste köpa Wallpaper Engine på [[[Platform]]] om du vill fortsätta använda det. Tack!",
+	"core_msgbox_scene_dx10_err": "DirectX 10 saknar stöd för ditt grafikkort eller dina grafikdrivrutiner är trasiga. Windows rapporterar:",
 	"core_fatal_window_creation_failed": "Misslyckades att skapa bakgrundsfönster (fel {{error}}). Detta relaterar oftast till trasiga grafikkortsdrivrutiner. Installera om drivrutinerna för ditt grafikkort och starta om din dator.",
 	"core_updater_title": "Uppdateringsprogram för Wallpaper Engine",
 	"core_updater_headline_init": "Konfigurerar Wallpaper Engine...",
