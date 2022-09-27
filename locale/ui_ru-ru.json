@@ -1671,6 +1671,8 @@
 	"ui_editor_effect_blend_description": "Смешать два изображения или слоя в различных режимах смешивания.",
 	"ui_editor_effect_blur_title": "Размытие",
 	"ui_editor_effect_blur_description": "Применить грубое размытие Гаусса на изображение. Поддерживает дополнительную цветовую маску.",
+	"ui_editor_effect_blur_precise_title": "Размытие (точечное)",
+	"ui_editor_effect_blur_radial_title": "Размытие радиальное",
 	"ui_editor_effect_clouds_title": "Облака",
 	"ui_editor_effect_clouds_description": "Добавляет облака к изображению.",
 	"ui_editor_effect_color_key_title": "Цветовой ключ",
