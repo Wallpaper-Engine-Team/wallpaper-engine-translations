@@ -1468,6 +1468,8 @@
 	"ui_editor_snapshot_instructions_gif_format_args": "{{index}}. {{resolution}}, {{fps}}FPS, {{seconds}}초, {{dithering}}",
 	"ui_editor_snapshot_instructions_gif_format_args_dithering_enabled": "디더링 활성화",
 	"ui_editor_snapshot_instructions_gif_format_args_dithering_disabled": "디더링 비활성화",
+	"ui_editor_snapshot_instructions_gif_pending": "GIF 인코딩 중입니다. 잠시 기다려 주세요.\n이 절차는 다소 시간이 걸릴 수 있습니다.",
+	"ui_editor_snapshot_instructions_gif_pending_retry": "[[[Platform]]] 호환을 위하여 GIF를 축소하고 있습니다. 잠시 기다려 주세요.\n이 절차는 다소 시간이 걸릴 수 있습니다.",
 	"ui_editor_workshop_rules_modal_title": "창작마당 규칙",
 	"ui_editor_workshop_rules_modal_body": "창작마당에 배경화면을 업로드하기 전에, [[[Platform]]] 서비스 약관에 위반되지 않는지 확인하십시오. 위반되는 배경화면은 삭제됩니다:",
 	"ui_editor_workshop_rules_modal_list_header": "특히, 다음 규칙이 배경화면, 미리보기 이미지 및 설명에 적용됩니다:",
