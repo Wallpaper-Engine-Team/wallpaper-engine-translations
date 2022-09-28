@@ -42,6 +42,7 @@
 	"core_msgbox_ui_file_not_found": "I file del programma non possono essere aperti.\n\nPotresti aver usato caratteri non validi nel percorso di installazione, i file potrebbero mancare o essere stati bloccati da un antivirus.\n\nProva a installare Wallpaper Engine nello stesso percorso di [[[Platform]]] o crea una libreria di [[[Platform]]] utilizzando caratteri semplici.",
 	"core_msgbox_trial_expired_title": "Versione di prova scaduta",
 	"core_msgbox_trial_expired_body": "La versione di prova è scaduta e Wallpaper Engine verrà chiuso.\n\nDevi acquistare Wallpaper Engine su [[[Platform]]] se vuoi continuare ad usarlo, grazie!",
+	"core_msgbox_scene_dx10_err": "DirectX 10 non è supportato dalla tua scheda grafica o il tuo driver grafico è difettoso. Rapporto di Windows:",
 	"core_fatal_window_creation_failed": "Impossibile creare la finestra di sfondo (Errore {{error}}). Solitamente questo errore è dovuto a dei driver non funzionanti per la scheda grafica. Esegui un'installazione pulita dei driver della tua scheda grafica e riavvia il computer.",
 	"core_updater_title": "Updater di Wallpaper Engine",
 	"core_updater_headline_init": "Costituzione di Wallpaper Engine...",
