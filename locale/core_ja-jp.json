@@ -42,6 +42,7 @@
 	"core_msgbox_ui_file_not_found": "プログラムファイルを開くことができませんでした。\n\nインストール先に使用できない文字が含まれているか、ファイルが見つかりません。またはアンチウィルスによってプログラムがブロックされています。\n\n [[[Platform]]] と同じインストール先にWallpaper Engineをインストールしてください。または使用できない文字を含まないようにして [[[Platform]]] ライブラリを作成してください。",
 	"core_msgbox_trial_expired_title": "試用版の期間が終了",
 	"core_msgbox_trial_expired_body": "Wallpaper Engineの試用版が終了しました。\n\n使い続けるためには、[[[Platform]]] にて購入してください！",
+	"core_msgbox_scene_dx10_err": "グラフィックカードがDirectX 10に対応していないか、グラフィックドライバーが破損しています。Windowsレポート：",
 	"core_fatal_window_creation_failed": "壁紙ウィンドウが作成できませんでした（エラー {{error}}）。これは通常、グラフィックスカードドライバが破損していることによって発生します。グラフィックスカードドライバをクリーン再インストールして、コンピュータを再起動してください。",
 	"core_updater_title": "Wallpaper Engine アップデータ",
 	"core_updater_headline_init": "Wallpaper Engineを起動しています...",
