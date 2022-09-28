@@ -42,6 +42,7 @@
 	"core_msgbox_ui_file_not_found": "Não é possível abrir os ficheiros do programa.\n\nPode ter caracteres inválidos no caminho de instalação, o ficheiro pode estar em falta ou o programa pode estar bloqueado por um anti-vírus.\n\nExperimente instalar o Wallpaper Engine no mesmo diretório de [[[Platform]]] ou criar uma biblioteca [[[Platform]]] com caracteres simples.",
 	"core_msgbox_trial_expired_title": "Versão de Teste Expirada",
 	"core_msgbox_trial_expired_body": "A versão de teste expirou e o Wallpaper Engine vai fechar-se agora.\n\nTem que comprar o Wallpaper Engine na [[[Platform]]] se quer continuar usado-o, obrigado!",
+	"core_msgbox_scene_dx10_err": "DirectX não suporta a sua placa gráfica ou o seu controlador da placa gráfica está danificado. O Windows informa que:",
 	"core_fatal_window_creation_failed": "Não foi possível criar a janela do wallpaper (Erro {{error}}). Normalmente isto está relacionado com controladores de placa gráfica danificados. Faça uma reinstalação limpa dos controladores da sua placa gráfica e reinicie o seu computador.",
 	"core_updater_title": "Programa de Atualização do Wallpaper Engine",
 	"core_updater_headline_init": "A preparar o Wallpaper Engine...",
