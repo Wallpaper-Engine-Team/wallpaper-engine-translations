@@ -42,6 +42,7 @@
 	"core_msgbox_ui_file_not_found": "無法開啟程式檔案\n\n安裝路徑內可能含有無效字元，檔案可能遺失或程式可能被防毒程式封鎖。\n\n嘗試安裝 Wallpaper Engine 在跟 [[[Platform]]] 一樣的目錄或使用簡單字元建立一個 [[[Platform]]] 收藏庫資料夾。",
 	"core_msgbox_trial_expired_title": "試用版已到期",
 	"core_msgbox_trial_expired_body": "試用版已經到期，即將關閉Wallpaper Engine。\n如果您想繼續使用，您可以在[[[Platform]]]上購買Wallpaper Engine，謝謝！",
+	"core_msgbox_scene_dx10_err": "您的顯示卡不支援 DirectX 10 或是顯示卡驅動程式已損壞。Windows 報告：",
 	"core_fatal_window_creation_failed": "建立桌布視窗失敗（錯誤 {{error}}）。這通常和損壞的顯示卡驅動程式有關。請完整重新安裝顯示卡驅動程式並重新啟動您的電腦。",
 	"core_updater_title": "Wallpaper Engine 更新程式",
 	"core_updater_headline_init": "正在設定 Wallpaper Engine……",
