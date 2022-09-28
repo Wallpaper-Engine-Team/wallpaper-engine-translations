@@ -42,6 +42,7 @@
 	"core_msgbox_ui_file_not_found": "프로그램 파일을 열 수 없습니다.\n\n설치 경로에 잘못된 글자가 있거나, 파일이 없거나, 안티 바이러스(백신) 프로그램 때문일 수 있습니다.\n\nWallpaper Engine을 [[[Platform]]]과 같은 디렉토리에 설치하거나 [[[Platform]]] 라이브러리 폴더를 간단한 글자로 만드세요.",
 	"core_msgbox_trial_expired_title": "체험 버전 만료됨",
 	"core_msgbox_trial_expired_body": "체험 버전이 만료되어 Wallpaper Engine이 종료됩니다.\n\nWallpaper Engine을 계속 사용하시려면 [[[Platform]]] 에서 구매해 주세요. 감사합니다!",
+	"core_msgbox_scene_dx10_err": "그래픽 카드가 DirectX 10을 지원하지 않거나, 그래픽 드라이버가 손상되었습니다. Windows 보고:",
 	"core_fatal_window_creation_failed": "배경화면 창을 생성하지 못했습니다 (오류{{error}}). 관계가 있습니다. 이런 오류는 보통 손상된 그래픽 카드 드라이버가 원인입니다. 그래픽 카드 드라이버를 완전히 새로 설치하고 컴퓨터를 다시 시작하세요.",
 	"core_updater_title": "Wallpaper Engine 업데이터",
 	"core_updater_headline_init": "Wallpaper Engine 설정 중...",
