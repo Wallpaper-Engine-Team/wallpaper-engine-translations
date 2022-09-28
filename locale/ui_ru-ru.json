@@ -888,7 +888,7 @@
 	"settings_media_blocklist_title": "Черный список медиа",
 	"settings_media_blocklist_current_session": "Сейчас играет:",
 	"settings_media_blocklist_none": "Нет медиа.",
-	"settings_media_blocklist_block": "Добавить",
+	"settings_media_blocklist_block": "Блокировать",
 	"settings_manage_monitors_modal_title": "Управление мониторами",
 	"settings_manage_monitors_modal_monitor_assoc": "Монитор {{index}}",
 	"settings_manage_monitors_modal_disconnected": "(отключено)",
