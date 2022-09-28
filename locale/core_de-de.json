@@ -42,6 +42,7 @@
 	"core_msgbox_ui_file_not_found": "Die Anwendungsdateien können nicht geöffnet werden.\n\nEntweder enthält der Pfad zum Programm ungültige Zeichen oder der Installationspfad enthält nicht alle benötigten Dateien oder das Programm wird von einem Antivirus-Programm fälschlicherweise blockiert.\n\nVersuche Wallpaper Engine im selben Verzeichnis wie [[[Platform]]] zu installieren oder erstelle ein [[[Platform]]]-Verzeichnis mit einem einfachen Namen.",
 	"core_msgbox_trial_expired_title": "Testversion abgelaufen",
 	"core_msgbox_trial_expired_body": "Die Testversion ist abgelaufen und Wallpaper Engine wird nun schließen.\n\nDu musst Wallpaper Engine auf [[[Platform]]] erwerben, wenn du es weiterhin nutzen möchtest, vielen Dank!",
+	"core_msgbox_scene_dx10_err": "DirectX 10 wird nicht von deiner Grafikkarte unterstützt oder deine Grafikkartentreiber sind defekt. Windows meldet:",
 	"core_fatal_window_creation_failed": "Erstellen des Hintergrund-Fensters fehlgeschlagen (Fehler {{error}}). Dieser Fehler tritt normalerweise auf, wenn ein Defekt im Grafikkartentreiber vorliegt. Führe eine saubere Neuinstallation der Grafikkartentreiber durch und starte danach deinen Computer neu.",
 	"core_updater_title": "Wallpaper Engine Updater",
 	"core_updater_headline_init": "Wallpaper Engine wird eingerichtet...",

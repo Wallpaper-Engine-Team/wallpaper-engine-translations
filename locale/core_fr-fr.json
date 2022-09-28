@@ -42,6 +42,7 @@
 	"core_msgbox_ui_file_not_found": "Les fichiers du programme ne peuvent pas être ouverts.\n\nIl se peut que tu aies des caractères invalides dans le dossier d'installation, que le fichier soit manquant ou que le programme soit bloqué par ton anti-virus.\n\nEssaie d'installer Wallpaper Engine dans le même répertoire que [[[Platform]]] ou crée une librairie [[[Platform]]] avec des caractères simples.",
 	"core_msgbox_trial_expired_title": "Version d'essai expirée",
 	"core_msgbox_trial_expired_body": "La version d'essai a expirée et Wallpaper Engine va maintenant se fermer.\n\nVous devez acheter Wallpaper Engine sur [[[Platform]]] si vous souhaitez continuer de l'utiliser, merci !",
+	"core_msgbox_scene_dx10_err": "DirectX 10 n'est pas pris en charge par votre carte graphique, ou votre pilote graphique est défectueux. Rapports de Windows :",
 	"core_fatal_window_creation_failed": "Impossible de créer la fenêtre de fond d'écran (erreur {{error}}). Ceci est généralement lié à des pilotes de carte graphique défaillants. Effectuez une réinstallation propre de vos pilotes de carte graphique et redémarrez votre ordinateur.",
 	"core_updater_title": "Module de mise à jour de Wallpaper Engine",
 	"core_updater_headline_init": "Configuration de Wallpaper Engine...",

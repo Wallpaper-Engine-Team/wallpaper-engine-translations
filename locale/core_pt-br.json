@@ -42,6 +42,7 @@
 	"core_msgbox_ui_file_not_found": "Os arquivos de programa não podem ser abertos.\n\nTalvez você possua caracteres inválidos no caminho de instalação, o arquivo pode estar faltando ou o programa pode estar sendo bloqueado pelo seu anti-vírus.\n\nTente instalar Wallpaper Engine na mesma pasta que [[[Platform]]] or crie uma [[[Platform]]] biblioteca com caracteres simples.",
 	"core_msgbox_trial_expired_title": "Versão de Teste Expirada",
 	"core_msgbox_trial_expired_body": "A versão de testes expirou e agora Wallpaper Engine irá fechar.\n\nVocê precisa comprar o aplicativo na [[[Platform]]] caso deseje continuar utilizando-o, obrigado!",
+	"core_msgbox_scene_dx10_err": "O DirectX 10 não é suportado pela sua placa gráfica ou seu driver gráfico está com defeito. Relatórios do Windows:",
 	"core_fatal_window_creation_failed": "Houve um erro ao criar a janela de papel de parede (Error {{error}}). Normalmente é associado a problemas nos drivers da placa de vídeo. Faça uma reinstalação limpa dos drivers da sua placa de vídeo e reinicie o computador.",
 	"core_updater_title": "Atualizador do Wallpaper Engine",
 	"core_updater_headline_init": "Preparando Wallpaper Engine...",

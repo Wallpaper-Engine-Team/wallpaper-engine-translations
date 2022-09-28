@@ -42,6 +42,7 @@
 	"core_msgbox_ui_file_not_found": "Ohjelmatiedostoja ei voida avata.\n\nAsennuspolussa saattaa olla kiellettyjä merkkejä, tiedosto saattaa puuttua tai virustorjuntaohjelma saattaa estää ohjelman.\n\nKokeile asentaa Wallpaper Engine samaan hakemistoon uin [[[Platform]]] tai luo [[[Platform]]] -kirjasto yksinkertaisilla merkeillä.",
 	"core_msgbox_trial_expired_title": "Kokeilu päättynyt",
 	"core_msgbox_trial_expired_body": "Kokeilusi on päättynyt, ja Wallpaper Engine suljetaan.\n\nJos haluat jatkaa Wallpaper Enginen käyttämistä, osta se [[[Platform]]] -alustalle. Kiitos!",
+	"core_msgbox_scene_dx10_err": "Näytönohjaimesi ei tue DirectX 10:tä, tai näytönohjaimesi on rikki. Windows-raportti:",
 	"core_fatal_window_creation_failed": "Taustakuvaikkunan luominen epäonnistui (virhe {{error}}). Tämä johtuu yleensä viallisista näytönohjainajureista. Tee näytönohjainajureillesi puhdas uudelleenasennus ja käynnistä tietokoneesi uudelleen.",
 	"core_updater_title": "Wallpaper Engine -päivitys",
 	"core_updater_headline_init": "Määritetään Wallpaper Engineä...",

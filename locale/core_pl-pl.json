@@ -42,6 +42,7 @@
 	"core_msgbox_ui_file_not_found": "Pliki programu nie mogą zostać otworzone.\n\nW ścieżce instalacji mogą być niewłaściwe znaki, może brakować pliku lub program może być blokowany przez antywirusa. \n\nSpróbuj zainstalować Wallpaper Engine w tej samej ścieżce co [[[Platform]]] lub stwórz bibliotekę [[[Platform]]] używając prostych znaków.",
 	"core_msgbox_trial_expired_title": "Twoja wersja próbna wygasła",
 	"core_msgbox_trial_expired_body": "Twoja wersja próbna wygasła i Wallpaper Engine teraz zostanie zamknięty.\n\nMusisz kupić Wallpaper Engine na [[[Platform]]] jak chcesz z niego dalej korzystać, dziękujemy!",
+	"core_msgbox_scene_dx10_err": "Twoja karta graficzna nie obsługuje zestawu bibliotek DirectX 10 lub sterownik karty graficznej jest zepsuty. Raport systemu Windows:",
 	"core_fatal_window_creation_failed": "Nie udało się utworzyć okna tapety (kod błędu {{error}}). Jest to zwykle powiązane z zepsutymi sterownikami karty graficznej. Przeprowadź czystą instalację sterowników twojej karty graficznej i uruchom ponownie komputer.",
 	"core_updater_title": "Aktualizator Wallpaper Engine",
 	"core_updater_headline_init": "Konfigurowanie programu Wallpaper Engine...",
