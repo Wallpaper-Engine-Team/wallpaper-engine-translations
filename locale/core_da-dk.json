@@ -42,6 +42,7 @@
 	"core_msgbox_ui_file_not_found": "Program filer kan ikke blive åbnet.\n\n Du har muligvis ugyldige karakterer i installationsstien, filen mangler muligvis eller programmet bliver blokeret af et anti-virus.\n\nPrøv at installér Wallpaper Engine i samme mappe som [Platform] eller opret et [Platform] bibliotek med simple karakterer.",
 	"core_msgbox_trial_expired_title": "Prøveversion udløbet",
 	"core_msgbox_trial_expired_body": "Prøveversionen er udløbet, og Wallpaper Engine lukkes.\n\nDu kan købe Wallpaper Engine på [[[Platform]]], hvis du gerne vil fortsætte med at bruge det. På forhånd tak!",
+	"core_msgbox_scene_dx10_err": "DirectX 10 understøttes ikke af dit grafikkort eller din grafikdriver er defekt. Windows rapporterer:",
 	"core_fatal_window_creation_failed": "Kunne ikke oprette vindue til skriveborsbaggrund (Fejl {{error}}). Dette skyldes normalt en ødelagt driver til grafikkortet. Udfør en ren installation af driveren til dit grafikkort og genstart din computer.",
 	"core_updater_title": "Wallpaper Engine Updater",
 	"core_updater_headline_init": "Velkommen til Wallpaper Engine...",
