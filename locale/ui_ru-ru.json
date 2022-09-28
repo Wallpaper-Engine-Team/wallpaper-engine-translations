@@ -1181,7 +1181,7 @@
 	"ui_editor_context_menu_foreground_separation": "Отделение переднего плана",
 	"ui_editor_context_menu_character_sheet": "Создание страницы персонажа",
 	"ui_editor_context_menu_edit_with_other": "Другой редактор изображений",
-	"ui_editor_context_menu_sort": "Отсортировать",
+	"ui_editor_context_menu_sort": "Сортировать",
 	"ui_editor_context_menu_move_to_top": "В начало",
 	"ui_editor_context_menu_move_to_bottom": "В конец",
 	"ui_editor_context_menu_move_to_custom_position": "Выбрать место",
