@@ -1,5 +1,6 @@
 {
 	"core_tray_change_wallpaper": "Thay Đổi Hình Nền",
+	"core_tray_change_screensaver": "Đổi màn hình chờ",
 	"core_tray_browse_workshop": "Duyệt Workshop",
 	"core_tray_create_wallpaper": "Tạo Hình Nền",
 	"core_tray_settings": "Cài Đặt",
@@ -18,6 +19,7 @@
 	"core_tray_playlist_prefix": "Playlist:",
 	"core_balloon_info": "Wallpaper Engine được thu nhỏ vào Taskbar. Nhấn đúp chuột lên biểu tượng phần mềm để chọn hình nền.",
 	"core_balloon_desktop_window_error": "Hình nền động thay đổi thất bại.",
+	"core_balloon_video_error": "Lỗi video Windows: {{err}}. Nhấp vào đây để được trợ giúp.",
 	"core_balloon_app_error": "Hình nền kiểu Application thay đổi thất bại.",
 	"core_balloon_pkg_version_error": "Hình nền này yêu cầu một phiên bản mới hơn của Wallpaper Engine. Vui lòng cập nhật Wallpaper Engine lên phiên bản mới nhất trên [[[Platform]]].",
 	"core_balloon_wallpaper_file_missing": "Hình nền này không thể mở được vì không tìm thấy tập tin.",
