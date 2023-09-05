@@ -532,7 +532,6 @@
 	"ui_editor_scene_options_camera_parallax_amount": "Cantitate",
 	"ui_editor_scene_options_camera_parallax_delay": "Amânare",
 	"ui_editor_scene_options_camera_mouse_influence": "Influența mouseului",
-	"ui_editor_scene_options_camera_fade": "Estomparea camerei",
 	"ui_editor_effects_modal_imagelayer_name": "Stratul de imagine",
 	"ui_editor_effects_modal_imagelayer_description": "Importă o imagine de pe computer.",
 	"ui_editor_effects_modal_composelayer_description": "Adaugă un strat translucid de mărime specifică. Atașează alte obiecte ca și copii la acest strat pentru a le combina într-o singură textură căreia îi poți aplica efecte.",
