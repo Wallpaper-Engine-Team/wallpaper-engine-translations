@@ -692,7 +692,6 @@
 	"ui_editor_scene_options_camera_parallax_amount": "Kantitatea",
 	"ui_editor_scene_options_camera_parallax_delay": "Atzerapena",
 	"ui_editor_scene_options_camera_mouse_influence": "Saguaren influentzia",
-	"ui_editor_scene_options_camera_fade": "Kamera desagerpena",
 	"ui_editor_import_adjust_projection_center": "Horma-paperaren tamaina eta erdigunea ezarri",
 	"ui_editor_effects_modal_imagelayer_name": "Irudi Kapa",
 	"ui_editor_effects_modal_imagelayer_description": "Inportatu irudi bat zure ordenagailutik.",
