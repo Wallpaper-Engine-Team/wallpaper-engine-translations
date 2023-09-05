@@ -66,7 +66,7 @@
 	"ui_browse_filter_none" : "None",
 	"ui_browse_filter_suggestions" : "Suggestions",
 	"ui_browse_filter_content_preferences" : "[[[Platform]]] Content Preferences",
-	"ui_browse_filter_content_preferences_tool_tip" : "You can click on the <b>[[[Platform]]] Content Preferences</b> button below to adjust your overall age rating preferences for your [[[Platform]]] account.",
+	"ui_browse_filter_content_preferences_tool_tip" : "You can click on the '[[[Platform]]] Content Preferences' button below to adjust your overall age rating preferences for your [[[Platform]]] account.",
 	"ui_browse_grid_no_results" : "No wallpapers found for your search.<br/>Expand or reset the categories in the filter sidebar or try another search term.",
 	"ui_browse_grid_no_results_generic" : "No results found for your search.<br/>Expand or reset the categories in the filter sidebar or try another search term.",
 	"ui_browse_grid_no_results_refreshing" : "Waiting for [[[Platform]]] to respond...",
