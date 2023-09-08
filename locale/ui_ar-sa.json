@@ -58,6 +58,7 @@
 	"ui_browse_filter_all": "الكل",
 	"ui_browse_filter_none": "لا شيء",
 	"ui_browse_filter_suggestions": "المقترحات",
+	"ui_browse_filter_content_preferences": "[[[Platform]]] تفضيلات المحتوى",
 	"ui_browse_grid_no_results": "لا توجد خلفيات مطابقة لمعاييرك.<br/>قم بتوسعة او اعادة ضبط التصنيفات في شريط التصفية الجانبي أو قم بالبحث عن مصطلح آخر.",
 	"ui_browse_grid_no_results_generic": "لا توجد خلفيات مطابقة لمعاييرك.<br/>قم بتوسعة أو إعادة ضبط التصنيفات في شريط التصفية الجانبي أو قم بالبحث عن مصطلح آخر.",
 	"ui_browse_grid_no_results_refreshing": "بإنتظار [[[Platform]]] للإستجابة...",
