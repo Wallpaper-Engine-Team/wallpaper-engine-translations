@@ -2688,6 +2688,13 @@
 	"ui_resourcecompiler_error_assimp_missing_uv_channel_1": "โมเดลไม่มีช่อง UV ที่สอง",
 	"ui_resourcecompiler_error_model_too_many_bones": "โมเดลมีกระดูกมากเกินไป (สูงสุดคือ {{maxBones}})",
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "โมเดลมีภาพเคลื่อนไหวการเปลี่ยนภาพมากเกินไป (สูงสุดคือ {{maxMorphAnim}})",
+	"ui_resourcecompiler_error_model_too_many_morph_vertices": "โมเดลมีจุดยอดการเปลี่ยนภาพมากเกินไป (สูงสุดคือ {{maxMorphVertices}})",
+	"ui_resourcecompiler_warning_texture_cropped": "พื้นผิวของคุณได้รับการตัดเพื่อให้พอดีกับความละเอียดที่แนะนำ",
 	"ui_win11_23h2_contingency_modal_title": "ความเข้ากันได้ของ Windows 11 23H2",
-	"ui_win32_slideshow_compat_modal_check_ignore": "ไม่ต้องเตือนอีก"
+	"ui_win11_23h2_contingency_modal_body": "ดูเหมือนว่าคุณกำลังใช้งาน Windows 11 23H2 (อัปเดตกันยายน 2023) หรือใหม่กว่า Microsoft ได้ทำการปรับเปลี่ยนเดสก์ท็อปของคุณซึ่งทำให้ไม่สามารถดูวอลเปเปอร์ภาพเคลื่อนไหวจาก Wallpaper Engine ได้ Microsoft ได้อธิบายว่าจะพยายามค้นหาวิธีแก้ปัญหาที่เหมาะสมในการอัปเดต Windows ในอนาคต<br/><br/>ระหว่างนี้มีสองตัวเลือกเพื่อให้ Wallpaper Engine ทำงานได้ คุณต้องทำ<b>หนึ่ง</b>สิ่งจากตัวเลือกต่อไปนี้:<br/><b>ตัวเลือก A: ปิดใช้งานการสนับสนุน HDR ใน Windows</b><br/><b>ตัวเลือก B: หรืออนุญาตให้ Wallpaper Engine รีสตาร์ทและแก้ไข Windows Explorer เมื่อจำเป็นโดยเปิดใช้งาน HDR</b><br/><br/>หากต้องการใช้ Wallpaper Engine ต่อไป โปรดปิด HDR ใน Windows หรือกด<b>ตกลง</b>ด้านล่างเพื่อเปิดใช้งานการแก้ไข Windows Explorer สำหรับการรองรับ HDR <b>Windows Explorer ของคุณจะรีสตาร์ทในทันที</b> และในทุกครั้งที่ Wallpaper Engine เริ่มทำงานหลังจากรีสตาร์ทพีซี",
+	"ui_win11_23h2_contingency_settings_label": "รีสตาร์ท Explorer โดยอัตโนมัติสำหรับความเข้ากันได้ของ Windows 11 23H2",
+	"ui_win32_slideshow_compat_modal_title": "ความเข้ากันได้ของ Windows Slideshow",
+	"ui_win32_slideshow_compat_modal_body": "ดูเหมือนว่าคุณกำลังใช้งาน Slideshow หรือ Windows Spotlight เป็นวอลเปเปอร์ Windows ซึ่งจะทำให้วอลเปเปอร์ Windows ของคุณปรากฏด้านหน้า Wallpaper Engine เป็นระยะ<br/><br/>โปรดเลือกรูปภาพหรือสีคงที่เป็นวอลเปเปอร์ Windows ในการตั้งค่าส่วนบุคคลของ Windows เพื่อแก้ไขปัญหานี้",
+	"ui_win32_slideshow_compat_modal_check_ignore": "ไม่ต้องเตือนอีก",
+	"ui_win32_slideshow_compat_settings_label": "แจ้งให้ปิดใช้งาน Windows Slideshow:"
 }
