@@ -58,6 +58,7 @@
 	"ui_browse_filter_all": "全部",
 	"ui_browse_filter_none": "無",
 	"ui_browse_filter_suggestions": "建議",
+	"ui_browse_filter_content_preferences": "[[[Platform]]] 內容偏好",
 	"ui_browse_grid_no_results": "未找到您搜索的桌布。<br/>展開或重設篩選條件側欄中的類別，或者嘗試搜索其他關鍵詞。",
 	"ui_browse_grid_no_results_generic": "您的搜索未找到結果。<br/>展開或重設篩選條件側欄中的類別，或者嘗試搜索其他關鍵詞。",
 	"ui_browse_grid_no_results_refreshing": "正在等待 [[[Platform]]] 回應……",
