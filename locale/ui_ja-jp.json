@@ -2233,6 +2233,8 @@
 	"ui_editor_properties_link_to_parent": "ペアレントにリンク",
 	"ui_editor_properties_load": "ロード",
 	"ui_editor_properties_lock_geometry_vertex_edit": "頂点編集のためにジオメトリをロック",
+	"ui_editor_properties_lock_geometry_vertex_edit_modal_body": "手順通りに生成されたジオメトリを直接編集可能な固定メッシュに変換します。<br/><br/>これにより各頂点を精確に調整することが可能になりますが、前回の制御を本ページで編集することができなくなります（ただしジオメトリをアンロックし、直接行った編集をリセットする場合を除きます）。<br/><br/>パペットジオメトリをロックするとブレンドシェイプの編集が可能になり、顔の表情などの詳細なアニメーションを作成することができます。",
+	"ui_editor_properties_lock_geometry_vertex_edit_modal_subdivision_hint": "サブディビジョンオプションの設定が高すぎます。2以下に設定してください。<br/><br/>頂点の編集は低めのサブディビジョンの方が有効であり、高サブディビジョンでは新しく頂点を適切に置く前に多くの頂点を削除する必要があります。<br/><br/>それでも続けますか？",
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_vertex_count": "パペットモデルの頂点が手動編集には多すぎます。まず細分オプションを削減してください。",
 	"ui_editor_properties_lock_to_pointer": "ポインタをロック",
 	"ui_editor_properties_locked": "ロック",
