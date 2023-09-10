@@ -222,6 +222,7 @@
 	"ui_browse_modal_application_warning_timer": "<br/><br/>Espera {{time}} segundos.",
 	"ui_browse_modal_application_warning_disable_checkbox": "No volver a mostrar para este fondo",
 	"ui_browse_modal_unsubscribe_header": "Anular suscripción",
+	"ui_browse_modal_unsubscribe_wallpapers_header": "Anular la subscripción de <b>{{count}}</b> fondo(s)",
 	"ui_browse_modal_unsubscribe_body": "¿Seguro de que quieres anular la suscripción de: <b>{{title}}</b>?<br/><br/>Tras anular la suscripción, [[[Platform]]] borrará los archivos del fondo automáticamente en cuando se cierre la ventana de búsqueda de fondos. [[[Platform]]] retrasa la eliminación de fondos hasta que cierres la ventana de búsqueda de fondos.",
 	"ui_browse_modal_unsubscribe_body_short": "¿Seguro de que quieres anular la suscripción de: <b>{{title}}</b>?",
 	"ui_browse_modal_remove_local_header": "Quitar del historial",
