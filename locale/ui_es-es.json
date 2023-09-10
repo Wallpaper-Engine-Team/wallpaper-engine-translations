@@ -2502,6 +2502,7 @@
 	"ui_editor_properties_tint_low": "Tono bajo",
 	"ui_editor_properties_tolerance": "Tolerancia",
 	"ui_editor_properties_tools": "Herramientas",
+	"ui_editor_properties_toon_shading": "Sombra caricaturesca",
 	"ui_editor_properties_top": "Máximo",
 	"ui_editor_properties_topology": "Topología",
 	"ui_editor_properties_transform": "Transformar",
@@ -2620,6 +2621,7 @@
 	"ui_editor_model_editor_add_fbx_file": "Añadir archivo FBX",
 	"ui_editor_model_editor_animations": "Animaciones",
 	"ui_editor_model_editor_attachment": "Anexo",
+	"ui_editor_model_editor_attachment_options": "Opciones de anexo",
 	"ui_editor_model_editor_constraint_options": "Opciones de restricción",
 	"ui_editor_model_editor_clip": "Clip",
 	"ui_editor_model_editor_clip_options": "Opciones de clip",
@@ -2688,7 +2690,9 @@
 	"ui_resourcecompiler_error_model_too_many_morph_vertices": "El modelo tiene demasiados vértices transformados (el máximo es {{maxMorphVertices}})",
 	"ui_resourcecompiler_warning_texture_cropped": "Se ha recortado la textura para que se ajuste a la resolución recomendada",
 	"ui_win11_23h2_contingency_modal_title": "Compatibilidad con Windows 11 23H2",
+	"ui_win11_23h2_contingency_settings_label": "Reiniciar automáticamente el Explorador para la compatibilidad con Windows 11 23H2.",
 	"ui_win32_slideshow_compat_modal_title": "Compatibilidad con presentaciones de Windows",
+	"ui_win32_slideshow_compat_modal_body": "Parece que estás usando una presentación o Windows Spotlight como fondo de Windows. Esto hará que tu fondo de Windows aparezca de forma periódica delante de Wallpaper Engine.<br/><br/>Para resolver este problema, elige una imagen estática o un color como fondo en los ajustes de personalización de Windows.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "No volver a avisar",
 	"ui_win32_slideshow_compat_settings_label": "Aviso para desactivar la presentación de Windows:"
 }
