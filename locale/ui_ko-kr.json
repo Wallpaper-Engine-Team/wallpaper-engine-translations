@@ -1036,6 +1036,7 @@
 	"ui_editor_gizmo_rotate": "회전",
 	"ui_editor_gizmo_scale": "배율",
 	"ui_editor_gizmo_multi": "다중",
+	"ui_editor_gizmo_local_space": "로컬 공간",
 	"ui_editor_welcome_modal_create_wallpaper": "배경화면 제작",
 	"ui_editor_welcome_modal_drop_background_file": "여기에 배경화면 파일 놓기",
 	"ui_editor_welcome_modal_supported_file_types": "지원되는 파일 유형:",
