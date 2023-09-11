@@ -2691,5 +2691,10 @@
 	"ui_resourcecompiler_error_model_too_many_morph_vertices": "模型的变形顶点过多（最大值为 {{maxMorphVertices}}）",
 	"ui_resourcecompiler_warning_texture_cropped": "您的纹理已裁剪，以适应推荐的分辨率",
 	"ui_win11_23h2_contingency_modal_title": "Windows 11 23H2 兼容性",
-	"ui_win11_23h2_contingency_modal_body": "似乎您使用的是 Windows 11 23H2（2023 年 9 月更新）或更高版本。Microsoft 已对您的桌面进行了修改，导致您无法从 Wallpaper Engine 中查看实时壁纸。Microsoft 解释说，他们将尝试在未来的 Windows 更新中找到适当的解决方案。<br/><br/>在此之前，有两种选项可以让 Wallpaper Engine 正常使用。您只需选择其中<b>一种</b>：<br/><b>选项 A：禁用 Windows 中的 HDR 支持。</b><br/><b>选项 B：或在启用 HDR 时，允许 Wallpaper Engine 在必要时重新启动并更改 Windows 资源管理器。</b><br/><br/>要继续使用 Wallpaper Engine，请关闭 Windows 中的 HDR 或按下面的<b>确定键</b> 启用 Windows 资源管理器修改以获得 HDR 支持，您的<b>Windows 资源管理器将立即重新启动</b>且每次重新启动电脑后，Wallpaper Engine 都会启动。"
+	"ui_win11_23h2_contingency_modal_body": "似乎您使用的是 Windows 11 23H2（2023 年 9 月更新）或更高版本。Microsoft 已对您的桌面进行了修改，导致您无法从 Wallpaper Engine 中查看实时壁纸。Microsoft 解释说，他们将尝试在未来的 Windows 更新中找到适当的解决方案。<br/><br/>在此之前，有两种选项可以让 Wallpaper Engine 正常使用。您只需选择其中<b>一种</b>：<br/><b>选项 A：禁用 Windows 中的 HDR 支持。</b><br/><b>选项 B：或在启用 HDR 时，允许 Wallpaper Engine 在必要时重新启动并更改 Windows 资源管理器。</b><br/><br/>要继续使用 Wallpaper Engine，请关闭 Windows 中的 HDR 或按下面的<b>确定键</b> 启用 Windows 资源管理器修改以获得 HDR 支持，您的<b>Windows 资源管理器将立即重新启动</b>且每次重新启动电脑后，Wallpaper Engine 都会启动。",
+	"ui_win11_23h2_contingency_settings_label": "自动重启资源管理器，兼容 Windows 11 23H2。",
+	"ui_win32_slideshow_compat_modal_title": "Windows Slideshow 兼容性",
+	"ui_win32_slideshow_compat_modal_body": "您似乎正在使用 Slideshow 或 Windows Spotlight 作为 Windows 壁纸。这将导致您的 Windows 壁纸定期出现在 Wallpaper Engine 的前面。<br/><br/>要解决此问题，请在 Windows 个性化设置中选择静态图片或颜色作为 Windows 墙纸。",
+	"ui_win32_slideshow_compat_modal_check_ignore": "不再发出警告",
+	"ui_win32_slideshow_compat_settings_label": "提示禁用 Windows Slideshow："
 }
