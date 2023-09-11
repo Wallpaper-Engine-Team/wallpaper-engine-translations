@@ -58,6 +58,8 @@
 	"ui_browse_filter_all": "Все",
 	"ui_browse_filter_none": "Нічого",
 	"ui_browse_filter_suggestions": "Пропозиції",
+	"ui_browse_filter_content_preferences": "[[[Platform]]]: налаштування за віком",
+	"ui_browse_filter_content_preferences_tool_tip": "Щоб налаштувати вікові обмеження для акаунта [[[Platform]]], натисніть на кнопку «[[[Platform]]]: налаштування за віком» нижче.",
 	"ui_browse_grid_no_results": "За вашим пошуком не знайдено жодних шпалер.<br/>Розширте або скиньте категорії у боковій панелі фільтрів, або спробуйте пошукати інший термін.",
 	"ui_browse_grid_no_results_generic": "За вашим пошуком не знайдено жодних результатів.<br/>Розширте або скиньте категорії у боковій панелі фільтрів, або спробуйте пошукати інший термін.",
 	"ui_browse_grid_no_results_refreshing": "Чекаємо на відповідь [[[Platform]]]...",
