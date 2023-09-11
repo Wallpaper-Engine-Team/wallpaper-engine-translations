@@ -2686,5 +2686,15 @@
 	"ui_resourcecompiler_error_model_inconsistent_blend_values": "У моделі неузгоджені дані з ваг змішування",
 	"ui_resourcecompiler_error_assimp_exception": "Сталася виняткова ситуація з AssImp",
 	"ui_resourcecompiler_error_assimp_missing_uv_channel_1": "Моделі не вистачає другого UV-каналу",
-	"ui_resourcecompiler_error_model_too_many_bones": "У моделі забагато кісток (макс. {{maxBones}})"
+	"ui_resourcecompiler_error_model_too_many_bones": "У моделі забагато кісток (макс. {{maxBones}})",
+	"ui_resourcecompiler_error_model_too_many_morph_meshes": "У моделі забагато анімацій морфінгу (макс. {{maxMorphAnim}})",
+	"ui_resourcecompiler_error_model_too_many_morph_vertices": "У моделі забагато вершин с морфінгом (макс. {{maxMorphVertices}})",
+	"ui_resourcecompiler_warning_texture_cropped": "Текстуру обрізано до рекомендованого розширення",
+	"ui_win11_23h2_contingency_modal_title": "Сумісність з Windows 11 23H2",
+	"ui_win11_23h2_contingency_modal_body": "Схоже, ви використовуєте Windows 11 23H2 (з оновленням за вересень 2023 року) або пізнішої версії. Корпорація Майкрософт внесла зміни у ваш робочий стіл, з якими неможливо переглядати живі шпалери від Wallpaper Engine. Корпорація Майкрософт пояснила, що вони спробують знайти правильне рішення в майбутньому оновленні Windows.<br/><br/>До того часу є два варіанти змусити Wallpaper Engine працювати. Вам потрібен лише <b>один</b> із них:<br/><b>Варіант A. Вимкніть підтримку HDR у Windows.</b><br/><b>Варіант Б. Дозвольте перезапускати Wallpaper Engine і за потреби налаштовуйте Провідник Windows із увімкненим HDR.</b><br/><br/>Щоб продовжити використовувати Wallpaper Engine, вимкніть HDR у Windows або натисніть <b>OK</b> нижче, щоб увімкнути модифікації Windows Провідника для підтримки HDR. Ваш <b>Провідник Windows перезапуститься</b> і буде перезапускатися кожного разу, коли Wallpaper Engine буде активуватися після перезавантаження ПК.",
+	"ui_win11_23h2_contingency_settings_label": "Автоматично перезапускати Провідник для сумісності з Windows 11 23H2.",
+	"ui_win32_slideshow_compat_modal_title": "Сумісність зі слайд-шоу Windows",
+	"ui_win32_slideshow_compat_modal_body": "Схоже, ви використовуєте слайд-шоу або Windows Spotlight як шпалери Windows. Через це шпалери Windows періодично з’являтимуться перед Wallpaper Engine.<br/><br/>Щоб вирішити цю проблему, виберіть статичне зображення або колір як шпалери Windows у налаштуваннях персоналізації Windows.",
+	"ui_win32_slideshow_compat_modal_check_ignore": "Не попереджувати знову",
+	"ui_win32_slideshow_compat_settings_label": "Попередження щодо слайд-шоу Windows"
 }
