@@ -58,6 +58,7 @@
 	"ui_browse_filter_all": "Semua",
 	"ui_browse_filter_none": "Tidak satupun",
 	"ui_browse_filter_suggestions": "Saran",
+	"ui_browse_filter_content_preferences": "Preferensi Konten [[[Platform]]]",
 	"ui_browse_grid_no_results": "Wallpaper yang Anda cari tidak ditemukan.<br/>Perluas atau setel ulang kategori pada saringan di sisi bar samping atau cobalah dengan istilah pencarian lain.",
 	"ui_browse_grid_no_results_generic": "Tidak ditemukan hasil yang Anda cari.<br/>Perluas atau atur ulang kategori pada saringan di sisi bar samping atau cobalah dengan istilah pencarian lain.",
 	"ui_browse_grid_no_results_refreshing": "Menunggu respon dari [[[Platform]]]...",
