@@ -1210,7 +1210,7 @@
 	"ui_editor_generic_modal_enter_layer_position_title": "Introduza a posição da camada",
 	"ui_editor_generic_modal_enter_layer_position_body": "Mover esta camada para uma nova posição entre o topo (1) ou o fundo ({{last}}) da lista.",
 	"ui_editor_generic_modal_hierarchy_error_title": "Hierarquia inválida",
-	"ui_editor_generic_modal_hierarchy_error_composition_limit": "Não pode associar a mais do que <b>{{count}}</b> camadas de composição consecutivamente como filhos.",
+	"ui_editor_generic_modal_hierarchy_error_composition_limit": "Não pode associar a mais do que <b>{{count}}</b> layers de composição consecutivamente como filhos.",
 	"ui_editor_project_settings_modal_header": "Definições do projeto",
 	"ui_editor_project_settings_modal_header_general": "Geral",
 	"ui_editor_project_settings_modal_title": "Título",
