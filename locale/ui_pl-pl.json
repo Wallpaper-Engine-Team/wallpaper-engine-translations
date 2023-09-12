@@ -1076,8 +1076,8 @@
 	"ui_editor_importer_material_name": "Nazwa materiału",
 	"ui_editor_importer_settings": "Ustawienia",
 	"ui_editor_importer_select_texture": "Wybierz teksturę",
-	"ui_editor_importer_select_normal_map": "Wybierz mapę normalnych",
-	"ui_editor_importer_remove_normal_map": "Usuń mapę normalnych",
+	"ui_editor_importer_select_normal_map": "Wybierz zwykłą mapę",
+	"ui_editor_importer_remove_normal_map": "Usuń zwykłą mapę",
 	"ui_editor_importer_crop_transparency_help": "Przezroczysty obszar zostanie przycięty, a rozmiar Twojego obrazu zostanie zmieniony w celu poprawy wydajności.<br/><br/>Jeśli później zaktualizujesz swój obraz, nie zmniejszaj ani nie rozszerzaj przezroczystego obszaru, ponieważ może to powodować problemy z istniejącymi efektami, które dodałeś.",
 	"ui_editor_importer_crop_transparency_warning": "Wygląda na to, że zmienił się przezroczysty obszar obrazu. Jeśli użyłeś już jakiegoś efektu na tym obrazie, być może będziesz musiał je zablokować, jeśli będziesz kontynuować importowanie tego obrazu.",
 	"ui_editor_importer_please_wait": "Proszę czekać",
@@ -2696,5 +2696,5 @@
 	"ui_win32_slideshow_compat_modal_title": "Kompatybilność z Windows Slideshow",
 	"ui_win32_slideshow_compat_modal_body": "Wygląda na to, że używasz Slideshow lub Windows Spotlight jako swojej tapety Windows. Sprawi to, że przed Wallpaper Engine będzie co jakiś czas pojawiać się twoja tapeta Windows.<br/><br/>Wybierz statyczny obraz lub kolor jako swoją tapetę Windows w ustawieniach personalizacji Windows, by rozwiązać ten problem.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "Nie ostrzegaj ponownie",
-	"ui_win32_slideshow_compat_settings_label": "Ostrzeżenie o Windows Slideshow"
+	"ui_win32_slideshow_compat_settings_label": "Ostrzeżenie o Windows Slideshow:"
 }
