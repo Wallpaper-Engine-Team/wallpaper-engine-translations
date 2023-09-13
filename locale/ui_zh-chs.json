@@ -2686,7 +2686,7 @@
 	"ui_resourcecompiler_error_model_inconsistent_blend_values": "模型混合权重数据不一致",
 	"ui_resourcecompiler_error_assimp_exception": "AssImp 出现异常",
 	"ui_resourcecompiler_error_assimp_missing_uv_channel_1": "模型缺少第二个 UV 通道",
-	"ui_resourcecompiler_error_model_too_many_bones": "模型骨骼数过多（最大值为 {{maxBones}})）",
+	"ui_resourcecompiler_error_model_too_many_bones": "模型骨骼数过多（最大值为 {{maxBones}}）",
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "模型的变形动画过多（最大值为 {{maxMorphAnim}}）",
 	"ui_resourcecompiler_error_model_too_many_morph_vertices": "模型的变形顶点过多（最大值为 {{maxMorphVertices}}）",
 	"ui_resourcecompiler_warning_texture_cropped": "您的纹理已裁剪，以适应推荐的分辨率",
