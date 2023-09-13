@@ -1016,7 +1016,7 @@
 	"ui_editor_modal_delete_published_wallpapers_danger_alert": "你从这个列表中删除的创意工坊的上传作品也会在 [[[Platform]]] 中被彻底删除。其他用户通过 [[[Platform]]] 对该作品的订阅也将被删除。",
 	"ui_editor_modal_delete_published_wallpapers_button": "彻底删除",
 	"ui_editor_modal_delete_published_wallpapers_confirm_header": "彻底删除 {{title}}",
-	"ui_editor_modal_delete_published_wallpapers_confirm_body": "你确定要彻底删除[[[Platform]]]创意工坊上的 {{title}}吗?<br/><br/>[[[Platform]]]创意工坊中的和其他用户订阅列表中的该上传作品将被彻底删除。",
+	"ui_editor_modal_delete_published_wallpapers_confirm_body": "你确定要彻底删除[[[Platform]]]创意工坊上的{{title}}吗?<br/><br/>[[[Platform]]]创意工坊中的和其他用户订阅列表中的该上传作品将被彻底删除。",
 	"ui_editor_modal_dlc_prompt_title": "需要免费 DLC",
 	"ui_editor_modal_dlc_prompt_message_offline": "此高级功能是免费 <b>{{name}}</b> DLC 的一部分，它需要 {{size}} 的磁盘空间。<br/><br/>请启动 [[[Platform]]] 并重新启动 Wallpaper Engine 以下载它。",
 	"ui_editor_modal_dlc_prompt_message_ask_download": "此高级功能是免费 <b>{{name}}</b> DLC 的一部分，它需要 {{size}} 的磁盘空间。<br/><br/>是否让 [[[Platform]]] 立即下载它？",
