@@ -537,7 +537,7 @@
 	"ui_browse_report_modal_genre_current" : "Current genre",
 	"ui_browse_report_modal_genre_label" : "Suggest new genre",
 	"ui_browse_report_modal_category_rating" : "Nudity or violence",
-	"ui_browse_report_modal_category_rating_description" : "You are reporting this wallpaper for using an incorrect rating and violating the nudity and violence rules. If the wallpaper cannot be tagged as 'questionable' or 'mature', please choose the 'BAN' option, which will result in the wallpaper being removed.",
+	"ui_browse_report_modal_category_rating_description" : "<p>You are reporting this wallpaper for inappropriate nudity or violence.</p><p>For <b>real-life</b> nudity, <b>real-life</b> violence or any gross violations of the Steam Workshop content rules, please select the <b>Ban</b> option.<p>For <b>animated or CGI</b> content, select an appropriate age rating according to this table:</p>",
 	"ui_browse_report_modal_rating_current" : "Current rating",
 	"ui_browse_report_modal_rating_label" : "Suggest new rating",
 	"ui_browse_report_modal_category_copyright" : "Violates copyright",
@@ -681,8 +681,6 @@
 	"ui_rating_table_partial_nudity_suggestive" : "Partial nudity / suggestive",
 	"ui_rating_table_nudity_explicit" : "Full nudity",
 	"ui_rating_table_hardcore_sexual_acts" : "Sexual acts",
-	"ui_rating_table_excessive_gore" : "Excessive violence",
-	"ui_rating_table_header_photographic" : "Photographic / real-life",
 	"ui_rating_table_header_cgi" : "CGI / drawings",
 
 	"ui_settings_playback": "Playback",
@@ -1235,6 +1233,7 @@
 	"ui_editor_workshop_options_upload_as_new_item" : "Create new item",
 	"ui_editor_workshop_options_upload_as_update" : "Update existing item {{name}}",
 	"ui_editor_workshop_options_upload_as_pending" : "Waiting for [[[Platform]]] to respond...",
+
 	"ui_editor_workshop_modal_rating_header" : "Choose a Rating",
 	"ui_editor_workshop_modal_rating_no_rating_info_header" : "Suitable Content",
 	"ui_editor_workshop_modal_rating_no_rating_info_body" : "Please make sure that any content you upload is suitable for everyone! If you upload anything questionable or illegal, your submission or your entire account may be banned.",
@@ -1252,6 +1251,7 @@
 	"ui_editor_workshop_modal_rating_button_sexual_content_mild" : "Mild Nudity",
 	"ui_editor_workshop_modal_rating_button_sexual_content_full" : "Full Nudity",
 	"ui_editor_workshop_modal_rating_button_sexual_content_adult_only" : "Adult Content",
+	"ui_editor_workshop_modal_rating_header_suggested_rating" : "Suggested age rating",
 
 	"ui_editor_open_modal_header" : "Open Wallpaper",
 	"ui_editor_open_modal_delete" : " Delete",
@@ -1682,9 +1682,9 @@
 	"ui_workshop_tags_local_url" : "Local URL",
 	"ui_workshop_tags_local_image" : "Local Image",
 
-	"ui_workshop_tags_rating_everyone" : "Everyone",
-	"ui_workshop_tags_rating_questionable" : "Partial nudity",
-	"ui_workshop_tags_rating_mature" : "Mature",
+	"ui_workshop_tags_rating_everyone" : "G - All ages",
+	"ui_workshop_tags_rating_questionable" : "PG13 - Parental guidance",
+	"ui_workshop_tags_rating_mature" : "R - Mature",
 	"ui_workshop_tags_rating_ban" : "BAN",
 	
 	"ui_workshop_tags_visibility_public" : "Public",
@@ -2793,7 +2793,7 @@
 	"ui_provider_error_read_only" : "[[[Platform]]] service is read-only. If you changed your password recently, [[[Platform]]] does not allow uploading new content. This problem usually resolves itself after a few days.",
 	"ui_provider_error_failed_setting_item_data" : "[[[Platform]]] failed applying new Workshop information.",
 	"ui_provider_error_ctx_create_ugc_rate_limit_exceeded" : "[[[Platform]]] has rejected your Workshop submission because you are uploading too often. Please try again in a few minutes.",
-	
+
 	"ui_resourcecompiler_error_none" : "No error",
 	"ui_resourcecompiler_error_io_open_failed" : "Failed opening file",
 	"ui_resourcecompiler_error_io_decode_failed" : "Failed decoding file",
@@ -2813,20 +2813,23 @@
 	"ui_resourcecompiler_error_model_inconsistent_normal_count" : "Model has an inconsistent number of normals",
 	"ui_resourcecompiler_error_model_inconsistent_tangentspace" : "Failed to generate tangent space",
 	"ui_resourcecompiler_error_model_inconsistent_blend_values" : "Model has inconsistent blend weight data",
-	"ui_resourcecompiler_error_assimp_exception" : "AssImp exception occured",
+	"ui_resourcecompiler_error_assimp_exception" : "Incompatible model file",
 	"ui_resourcecompiler_error_assimp_missing_uv_channel_1" : "Model is missing a second UV channel",
 	"ui_resourcecompiler_error_model_too_many_bones" : "Model has too many bones (max is {{maxBones}})",
 	"ui_resourcecompiler_error_model_too_many_morph_meshes" : "Model has too many morph animations (max is {{maxMorphAnim}})",
 	"ui_resourcecompiler_error_model_too_many_morph_vertices" : "Model has too many morphed vertices (max is {{maxMorphVertices}})",
-	
+
 	"ui_resourcecompiler_warning_texture_cropped" : "Your texture has been cropped to fit the recommended resolution",
-	
+
 	"ui_win11_23h2_contingency_modal_title" : "Windows 11 23H2 Compatibility",
 	"ui_win11_23h2_contingency_modal_body" : "It looks like you are using Windows 11 23H2 (September 2023 update) or later. Microsoft has made modifications to your desktop that make it impossible to see live wallpapers from Wallpaper Engine. Microsoft has explained that they will attempt to find a proper solution in a future Windows update.<br/><br/>Until then, there are two options to make Wallpaper Engine work. You only need <b>one</b> of them:<br/><b>Option A: Disable HDR support in Windows.</b><br/><b>Option B: Or allow Wallpaper Engine to restart and alter Windows Explorer when needed with HDR enabled.</b><br/><br/>To continue using Wallpaper Engine, either turn off HDR in Windows or press <b>OK</b> below to enable Windows Explorer modifications for HDR support, your <b>Windows Explorer will restart now</b> and every time Wallpaper Engine starts after restarting the PC.",
 	"ui_win11_23h2_contingency_settings_label" : "Automatically restart Explorer for Windows 11 23H2 compatibility.",
-	
+
 	"ui_win32_slideshow_compat_modal_title" : "Windows Slideshow Compatibility",
 	"ui_win32_slideshow_compat_modal_body" : "It looks like you are using a Slideshow or Windows Spotlight as your Windows wallpaper. This will cause your Windows wallpaper to appear periodically in front of Wallpaper Engine.<br/><br/>Please choose a static picture or color as your Windows wallpaper in the Windows personalization settings to resolve this issue.",
 	"ui_win32_slideshow_compat_modal_check_ignore" : "Do not warn again",
-	"ui_win32_slideshow_compat_settings_label" : "Prompt to disable Windows Slideshow:"
+	"ui_win32_slideshow_compat_settings_label" : "Prompt to disable Windows Slideshow:",
+
+	"ui_win11_23h2_contingency_tip" : "HDR Compatibility Mode",
+	"ui_win11_23h2_contingency_tip_modal_message" : "It looks like you are using Windows 11 23H2 (September 2023 update) or later. The new Windows HDR wallpaper feature is currently conflicting with Wallpaper Engine, but Microsoft has explained that this issue will be resolved in a future update.<br/><br/>In the meantime, Wallpaper Engine will run in a special compatibility mode when HDR is turned on using the latest version of Windows 11.<br/><br/>A few issues are to be expected in this situation, please wait for full compatibility to become possible again. Turning off HDR in Windows is also an option to work around this issue."
 }
