@@ -509,6 +509,7 @@
 	"ui_browse_report_modal_genre_current": "Şu anki tarz",
 	"ui_browse_report_modal_genre_label": "Yeni tarz öner",
 	"ui_browse_report_modal_category_rating": "Çıplaklık veya şiddet",
+	"ui_browse_report_modal_category_rating_description": "<p>Bu duvar kağıdını uygunsuz çıplaklık veya şiddet nedeniyle bildiriyorsunuz.</p><p><b>Gerçek hayattaki</b> çıplaklık, <b>gerçek hayattaki</b> şiddet veya Steam Atölyesi içerik kurallarının herhangi bir ağır ihlali için lütfen <b>Yasakla</b> seçeneğini seçin.<p><b>Animasyonlu veya CGI</b> içerik için bu tabloya göre uygun bir yaş derecelendirmesi seçin:</p>",
 	"ui_browse_report_modal_rating_current": "Şu anki derecelendirme",
 	"ui_browse_report_modal_rating_label": "Yeni derecelendirme öner",
 	"ui_browse_report_modal_category_copyright": "Telif hakkını ihlal ediyor",
@@ -1175,6 +1176,7 @@
 	"ui_editor_workshop_modal_rating_button_sexual_content_mild": "Hafif Çıplaklık",
 	"ui_editor_workshop_modal_rating_button_sexual_content_full": "Tam Çıplaklık",
 	"ui_editor_workshop_modal_rating_button_sexual_content_adult_only": "Yetişkin İçeriği",
+	"ui_editor_workshop_modal_rating_header_suggested_rating": "Önerilen yaş derecelendirmesi",
 	"ui_editor_open_modal_header": "Duvar Kağıdı Aç",
 	"ui_editor_open_modal_delete": " Sil",
 	"ui_editor_context_menu_center": "Ortala",
@@ -1578,6 +1580,9 @@
 	"ui_workshop_tags_local_application": "Yerel Uygulama",
 	"ui_workshop_tags_local_url": "Yerel URL",
 	"ui_workshop_tags_local_image": "Yerel Resim",
+	"ui_workshop_tags_rating_everyone": "G - Tüm yaşlar",
+	"ui_workshop_tags_rating_questionable": "PG13 - Ebeveyn rehberliği",
+	"ui_workshop_tags_rating_mature": "R - Olgun",
 	"ui_workshop_tags_rating_ban": "YASAKLA",
 	"ui_workshop_tags_visibility_public": "Ortak",
 	"ui_workshop_tags_visibility_friends_only": "Sadece arkadaşlar",
@@ -2652,5 +2657,7 @@
 	"ui_win32_slideshow_compat_modal_title": "Windows Slayt Gösterisi Uyumluluğu",
 	"ui_win32_slideshow_compat_modal_body": "Görünüşe göre Windows duvar kağıdınız olarak Slayt Gösterisi veya Windows Spot Işığı kullanıyorsunuz. Bu, Windows duvar kağıdınızın belirli aralıklarla Wallpaper Engine’in önünde görünmesine neden olacak.<br/><br/>Bu sorunu çözmek için lütfen Windows kişiselleştirme ayarlarında Windows duvar kağıdınız olarak sabit bir resim veya renk seçin.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "Bir daha uyarma",
-	"ui_win32_slideshow_compat_settings_label": "Windows Slayt Gösterisini etkisizleştirmek için istem:"
+	"ui_win32_slideshow_compat_settings_label": "Windows Slayt Gösterisini etkisizleştirmek için istem:",
+	"ui_win11_23h2_contingency_tip": "HDR Uyumluluk Modu",
+	"ui_win11_23h2_contingency_tip_modal_message": "Görünüşe göre Windows 11 23H2 (Eylül 2023 güncellemesi) veya sonrasını kullanıyorsunuz. Yeni Windows HDR duvar kağıdı özelliği şu anda Wallpaper Engine ile çakışıyor ancak Microsoft, bu sorunun gelecekteki bir güncellemede çözüleceğini açıkladı.<br/><br/>Bu arada, Windows 11'in en son sürümü kullanılarak HDR açıldığında, Wallpaper Engine özel bir uyumluluk modunda çalışacaktır.<br/><br/>Bu durumda birkaç sorun beklenebilir, lütfen tam uyumluluğun yeniden mümkün olmasını bekleyin. Windows'ta HDR'yi kapatmak da bu soruna geçici bir çözüm bulmak için bir seçenektir."
 }
