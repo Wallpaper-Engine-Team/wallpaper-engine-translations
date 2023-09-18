@@ -509,6 +509,7 @@
 	"ui_browse_report_modal_genre_current": "Aliran saat ini",
 	"ui_browse_report_modal_genre_label": "Saran aliran baru",
 	"ui_browse_report_modal_category_rating": "Konten vulgar atau kekerasan",
+	"ui_browse_report_modal_category_rating_description": "<p>Anda melaporkan wallpaper ini karena mengandung konten ketelanjangan dan kekerasan yang tidak pantas.</p><p>Untuk ketelanjangan <b>sungguhan</b>, kekerasan <b>sungguhan</b>, atau pelanggaran berat apapun terhadap aturan konten Steam Workshop, mohon memilih opsi <b>BLOKIR</b>.<p>Untuk konten <b>animasi atau CGI</b>, pilih sebuah klasifikasi usia yang pantas menurut tabel berikut ini:</p>",
 	"ui_browse_report_modal_rating_current": "Klasifikasi usia saat ini",
 	"ui_browse_report_modal_rating_label": "Saran klasifikasi usia baru",
 	"ui_browse_report_modal_category_copyright": "Pelanggaran hak cipta",
@@ -1175,6 +1176,7 @@
 	"ui_editor_workshop_modal_rating_button_sexual_content_mild": "Ketelanjangan Ringan",
 	"ui_editor_workshop_modal_rating_button_sexual_content_full": "Ketelanjangan Penuh",
 	"ui_editor_workshop_modal_rating_button_sexual_content_adult_only": "Konten Dewasa",
+	"ui_editor_workshop_modal_rating_header_suggested_rating": "Saran klasifikasi usia",
 	"ui_editor_open_modal_header": "Buka Wallpaper",
 	"ui_editor_open_modal_delete": " Hapus",
 	"ui_editor_context_menu_center": "Tengah",
@@ -1578,6 +1580,9 @@
 	"ui_workshop_tags_local_application": "Aplikasi Lokal",
 	"ui_workshop_tags_local_url": "Tautan Lokal",
 	"ui_workshop_tags_local_image": "Gambar Lokal",
+	"ui_workshop_tags_rating_everyone": "SU - Semua umur",
+	"ui_workshop_tags_rating_questionable": "R13+ - Remaja",
+	"ui_workshop_tags_rating_mature": "D17+ - Dewasa",
 	"ui_workshop_tags_rating_ban": "BLOKIR",
 	"ui_workshop_tags_visibility_public": "Publik",
 	"ui_workshop_tags_visibility_friends_only": "Hanya Teman",
@@ -2678,6 +2683,7 @@
 	"ui_resourcecompiler_error_model_inconsistent_normal_count": "Model nya mempunyai jumlah normal yang tidak konsisten",
 	"ui_resourcecompiler_error_model_inconsistent_tangentspace": "Gagal untuk menciptakan ruang garis singgung",
 	"ui_resourcecompiler_error_model_inconsistent_blend_values": "Model nya mempunyai data bobot campuran yang tidak konsisten",
+	"ui_resourcecompiler_error_assimp_exception": "Berkas model tidak kompatibel",
 	"ui_resourcecompiler_error_assimp_missing_uv_channel_1": "Model nya kehilangan sebuah saluran UV sekunder",
 	"ui_resourcecompiler_error_model_too_many_bones": "Model nya mempunyai terlalu banyak bone (maksimal nya adalah {{maxBones}})",
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "Model nya mempunyai terlalu banyak animasi morph (maksimal nya adalah {{maxMorphAnim}})",
@@ -2689,5 +2695,7 @@
 	"ui_win32_slideshow_compat_modal_title": "Kompatibilitas Windows Slideshow",
 	"ui_win32_slideshow_compat_modal_body": "Sepertinya Anda menggunakan sebuah Slideshow atau Windows Spotlight sebagai wallpaper Windows Anda. Ini akan mengakibatkan wallpaper Windows Anda muncul secara berkala di depan Wallpaper Engine.<br/><br/>Mohon memilih gambar statis atau warna sebagai wallpaper Windows Anda di pengaturan personalisasi Windows untuk menyelesaikan masalah ini.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "Jangan ingatkan lagi",
-	"ui_win32_slideshow_compat_settings_label": "Peringatan Windows Slideshow:"
+	"ui_win32_slideshow_compat_settings_label": "Peringatan Windows Slideshow:",
+	"ui_win11_23h2_contingency_tip": "Mode Kompatibilitas HDR",
+	"ui_win11_23h2_contingency_tip_modal_message": "Sepertinya Anda menggunakan Windows 11 23H2 (pembaruan September 2023) atau yang terbaru. Saat ini, fitur wallpaper Windows HDR mengalami konflik dengan Wallpaper Engine, namun Microsoft telah menjelaskan bahwa masalah ini akan diselesaikan pada pembaruan berikutnya yang akan datang.<br/><br/>Untuk sementara, Wallpaper Engine akan dijalankan dalam sebuah mode kompatibilitas khusus ketika HDR diaktifkan saat menggunakan Windows 11 versi terbaru.<br/><br/>Beberapa masalah diperkirakan terjadi pada situasi ini. Jadi, mohon menunggu agar kompatibilitas penuh dapat dilakukan kembali. Menonaktifkan HDR di Windows juga merupakan sebuah opsi untuk mengakali masalah ini."
 }
