@@ -509,6 +509,7 @@
 	"ui_browse_report_modal_genre_current": "当前样式",
 	"ui_browse_report_modal_genre_label": "建议新样式",
 	"ui_browse_report_modal_category_rating": "裸露或暴力",
+	"ui_browse_report_modal_category_rating_description": "<p>您正在举报此壁纸存在不当的裸露或暴力内容。</p><p>对于<b>真实</b>裸露、<b>真实</b>暴力或任何严重违反 Steam 创意工坊内容规则的行为，请选择<b>禁止</b> 选项。<p>对于<b>动画或 CGI </b>内容，请根据此表格选择适当的年龄分级：</p>",
 	"ui_browse_report_modal_rating_current": "当前分级",
 	"ui_browse_report_modal_rating_label": "建议新分级",
 	"ui_browse_report_modal_category_copyright": "侵犯版权",
@@ -1175,6 +1176,7 @@
 	"ui_editor_workshop_modal_rating_button_sexual_content_mild": "轻度裸露",
 	"ui_editor_workshop_modal_rating_button_sexual_content_full": "完全裸露",
 	"ui_editor_workshop_modal_rating_button_sexual_content_adult_only": "成人内容",
+	"ui_editor_workshop_modal_rating_header_suggested_rating": "建议的年龄分级",
 	"ui_editor_open_modal_header": "打开壁纸",
 	"ui_editor_open_modal_delete": " 删除",
 	"ui_editor_context_menu_center": "居中",
@@ -2681,6 +2683,7 @@
 	"ui_resourcecompiler_error_model_inconsistent_normal_count": "模型的法线数不一致",
 	"ui_resourcecompiler_error_model_inconsistent_tangentspace": "生成切空间失败",
 	"ui_resourcecompiler_error_model_inconsistent_blend_values": "模型混合权重数据不一致",
+	"ui_resourcecompiler_error_assimp_exception": "模型文件不兼容",
 	"ui_resourcecompiler_error_assimp_missing_uv_channel_1": "模型缺少第二个 UV 通道",
 	"ui_resourcecompiler_error_model_too_many_bones": "模型骨骼数过多（最大值为 {{maxBones}}）",
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "模型的变形动画过多（最大值为 {{maxMorphAnim}}）",
@@ -2692,5 +2695,7 @@
 	"ui_win32_slideshow_compat_modal_title": "Windows 幻灯片兼容性",
 	"ui_win32_slideshow_compat_modal_body": "您似乎正在使用幻灯片或 Windows Spotlight 作为 Windows 壁纸。这将导致您的 Windows 壁纸定期出现在 Wallpaper Engine 的前面。<br/><br/>要解决此问题，请在 Windows 个性化设置中选择静态图片或颜色作为 Windows 墙纸。",
 	"ui_win32_slideshow_compat_modal_check_ignore": "不再发出警告",
-	"ui_win32_slideshow_compat_settings_label": "提示禁用 Windows 幻灯片："
+	"ui_win32_slideshow_compat_settings_label": "提示禁用 Windows 幻灯片：",
+	"ui_win11_23h2_contingency_tip": "HDR 兼容模式",
+	"ui_win11_23h2_contingency_tip_modal_message": "似乎您使用的是 Windows 11 23H2（2023 年 9 月更新）或更高版本。新的 Windows HDR 壁纸功能目前与 Wallpaper Engine 存在冲突，但 Microsoft 解释说，这一问题将在未来的更新中得到解决。<br/><br/>同时，当使用最新版本的 Windows 11 打开 HDR 时，Wallpaper Engine 将以特殊的兼容模式运行。<br/><br/>在这种情况下可能会出现一些问题，请等待完全兼容版本。关闭 Windows 中的 HDR 也是解决此问题的一个选项。"
 }
