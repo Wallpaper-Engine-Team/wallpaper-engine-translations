@@ -509,6 +509,7 @@
 	"ui_browse_report_modal_genre_current": "Aktualny gatunek",
 	"ui_browse_report_modal_genre_label": "Zasugeruj nowy gatunek",
 	"ui_browse_report_modal_category_rating": "Nagość lub przemoc",
+	"ui_browse_report_modal_category_rating_description": "<p>Zgłaszasz tę tapetę ze względu na niestosowną nagość lub przemoc.</p><p>Jeśli przedstawione treści zawierają <b>prawdziwą</b> nagość, <b>realną</b> przemoc lub w inny sposób poważnie naruszają zasady Warsztatu Steam, wybierz opcję <b>Blokada</b>.<p>Jeśli zawartość jest <b>animowana lub generowana komputerowo metodą CGI</b>, wybierz odpowiednią kategorię wiekową według poniższej tabeli:</p>",
 	"ui_browse_report_modal_rating_current": "Aktualna ocena",
 	"ui_browse_report_modal_rating_label": "Zasugeruj nową ocenę",
 	"ui_browse_report_modal_category_copyright": "Naruszenie praw autorskich",
@@ -1175,6 +1176,7 @@
 	"ui_editor_workshop_modal_rating_button_sexual_content_mild": "Nagość częściowa",
 	"ui_editor_workshop_modal_rating_button_sexual_content_full": "Nagość całkowita",
 	"ui_editor_workshop_modal_rating_button_sexual_content_adult_only": "Treści dla dorosłych",
+	"ui_editor_workshop_modal_rating_header_suggested_rating": "Sugerowana kategoria wiekowa",
 	"ui_editor_open_modal_header": "Otwórz tapetę",
 	"ui_editor_open_modal_delete": " Usuń",
 	"ui_editor_context_menu_center": "Wyśrodkuj",
@@ -1578,6 +1580,9 @@
 	"ui_workshop_tags_local_application": "Lokalna Aplikacja",
 	"ui_workshop_tags_local_url": "Lokalne URL",
 	"ui_workshop_tags_local_image": "Obraz lokalny",
+	"ui_workshop_tags_rating_everyone": "G – dla każdego",
+	"ui_workshop_tags_rating_questionable": "PG13 – nadzór rodziców",
+	"ui_workshop_tags_rating_mature": "R – dla dorosłych",
 	"ui_workshop_tags_rating_ban": "BLOKADA",
 	"ui_workshop_tags_visibility_public": "Publiczny",
 	"ui_workshop_tags_visibility_friends_only": "Tylko znajomi",
@@ -2678,6 +2683,7 @@
 	"ui_resourcecompiler_error_model_inconsistent_normal_count": "Model ma niespójną liczbę normalnych.",
 	"ui_resourcecompiler_error_model_inconsistent_tangentspace": "Nie udało się wygenerować przestrzeni stycznej.",
 	"ui_resourcecompiler_error_model_inconsistent_blend_values": "Model ma niespójne dane łączenia wagi.",
+	"ui_resourcecompiler_error_assimp_exception": "Niekompatybilny plik modelu",
 	"ui_resourcecompiler_error_assimp_missing_uv_channel_1": "W modelu brakuje drugiego kanału UV.",
 	"ui_resourcecompiler_error_model_too_many_bones": "Model ma zbyt wiele kości (maksymalna liczba to {{maxBones}}).",
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "Model ma zbyt wiele animacji morfingu (maksymalna liczba to {{maxMorphAnim}}).",
@@ -2689,5 +2695,7 @@
 	"ui_win32_slideshow_compat_modal_title": "Kompatybilność z Windows Slideshow",
 	"ui_win32_slideshow_compat_modal_body": "Wygląda na to, że używasz Slideshow lub Windows Spotlight jako swojej tapety Windows. Sprawi to, że przed Wallpaper Engine będzie co jakiś czas pojawiać się twoja tapeta Windows.<br/><br/>Wybierz statyczny obraz lub kolor jako swoją tapetę Windows w ustawieniach personalizacji Windows, by rozwiązać ten problem.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "Nie ostrzegaj ponownie",
-	"ui_win32_slideshow_compat_settings_label": "Ostrzeżenie o Windows Slideshow:"
+	"ui_win32_slideshow_compat_settings_label": "Ostrzeżenie o Windows Slideshow:",
+	"ui_win11_23h2_contingency_tip": "Tryb zgodności z HDR",
+	"ui_win11_23h2_contingency_tip_modal_message": "Wygląda na to, że używasz systemu Windows 11 23H2 (wersja z września 2023 roku) lub nowszego. Niedawno dodana funkcja tapet HDR obecnie nie jest kompatybilna z programem Wallpaper Engine, ale Microsoft poinformował nas już, że ten problem zostanie rozwiązany w jednej z przyszłych aktualizacji.<br/><br/>W międzyczasie Wallpaper Engine będzie w specjalnym trybie zgodności, gdy HDR zostanie włączone na najnowszej wersji systemu Windows 11.<br/><br/>Może się to wiązać z pewnymi błędami, więc prosimy o cierpliwość do czasu całkowitego rozwiązania problemu. Tymczasowym obejściem go jest także wyłączenie funkcji HDR."
 }
