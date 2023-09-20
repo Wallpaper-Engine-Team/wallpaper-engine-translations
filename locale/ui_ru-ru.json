@@ -509,6 +509,7 @@
 	"ui_browse_report_modal_genre_current": "Текущий жанр",
 	"ui_browse_report_modal_genre_label": "Предложить новый жанр",
 	"ui_browse_report_modal_category_rating": "Неверный возрастной рейтинг",
+	"ui_browse_report_modal_category_rating_description": "<p></p>Вы хотите подать жалобу на эти обои за неуместную наготу и насилие.<p>Если вы столкнулись с <b>настоящей</b> наготой, сценами <b>настоящего</b> насилия и прочими грубейшими нарушениями правил правил контента в Мастерской Steam, воспользуйтесь функцией <b>\"Заблокировать\"</b>.<p>Если вы столкнулись с подобным контентом в виде <b>анимации или компьютерной графики</b>, выберите подходящий возрастной рейтинг в соответствии с таблицей:</p>",
 	"ui_browse_report_modal_rating_current": "Текущее возрастное ограничение",
 	"ui_browse_report_modal_rating_label": "Предложить новое возрастное ограничение",
 	"ui_browse_report_modal_category_copyright": "Нарушение авторских прав",
@@ -1175,6 +1176,7 @@
 	"ui_editor_workshop_modal_rating_button_sexual_content_mild": "Легкая нагота",
 	"ui_editor_workshop_modal_rating_button_sexual_content_full": "Откровенная нагота",
 	"ui_editor_workshop_modal_rating_button_sexual_content_adult_only": "Контент для взрослых",
+	"ui_editor_workshop_modal_rating_header_suggested_rating": "Предполагаемый возрастной рейтинг",
 	"ui_editor_open_modal_header": "Открыть обои",
 	"ui_editor_open_modal_delete": " Удалить",
 	"ui_editor_context_menu_center": "Центрировать",
@@ -1578,6 +1580,9 @@
 	"ui_workshop_tags_local_application": "Местное приложение",
 	"ui_workshop_tags_local_url": "Местный URL",
 	"ui_workshop_tags_local_image": "Локальное изображение",
+	"ui_workshop_tags_rating_everyone": "G (любой возраст)",
+	"ui_workshop_tags_rating_questionable": "PG13 (частич. огранич.)",
+	"ui_workshop_tags_rating_mature": "R (для взрослых)",
 	"ui_workshop_tags_rating_ban": "Запрещенное",
 	"ui_workshop_tags_visibility_public": "Публичное",
 	"ui_workshop_tags_visibility_friends_only": "Только для друзей",
@@ -2678,6 +2683,7 @@
 	"ui_resourcecompiler_error_model_inconsistent_normal_count": "Модель содержит недопустимое число нормалей",
 	"ui_resourcecompiler_error_model_inconsistent_tangentspace": "Не удалось сгенерировать касательное пространство",
 	"ui_resourcecompiler_error_model_inconsistent_blend_values": "Модель содержит недопустимые данные веса смешения",
+	"ui_resourcecompiler_error_assimp_exception": "Несовместимый файл модели",
 	"ui_resourcecompiler_error_assimp_missing_uv_channel_1": "В модели отсутствует второй UV-канал",
 	"ui_resourcecompiler_error_model_too_many_bones": "В модели слишком много суставов (макс. {{maxBones}})",
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "В модели слишком много морфинга (макс. {{maxMorphAnim}})",
@@ -2689,5 +2695,7 @@
 	"ui_win32_slideshow_compat_modal_title": "Совместимость со слайд-шоу Windows",
 	"ui_win32_slideshow_compat_modal_body": "Кажется, вы используете слайд-шоу или Windows Spotlight в качестве обоев. Из-за этого обои Windows временами будут появляться поверх обоев Wallpaper Engine.<br/><br/>Для решения этой проблемы рекомендуем выбрать в качестве обоев в персональных настройках Windows статичную картинку или заливку цветом.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "Больше не показывать",
-	"ui_win32_slideshow_compat_settings_label": "Предупреждение о слайд-шоу Windows:"
+	"ui_win32_slideshow_compat_settings_label": "Предупреждение о слайд-шоу Windows:",
+	"ui_win11_23h2_contingency_tip": "Режим совместимости с HDR",
+	"ui_win11_23h2_contingency_tip_modal_message": "Кажется, у вас установлена Windows 11 версии 23H2 (обновление сентября 2023) или более поздняя. Новая функция HDR в обоях Windows конфликтует с Wallpaper Engine, но компания Microsoft сообщила, что это будет исправлено в одном из будущих обновлений.<br/><br/>А пока этого не случилось, Wallpaper Engine будет запускать специальный режим совместимости, при котором возможно использование функции HDR и последней версии Windows 11.<br/><br/>При таком варианте могут появляться некоторые неполадки, просим дождаться обновления. Также чтобы обойти эту проблему, вы можете отключить функцию HDR в Windows."
 }
