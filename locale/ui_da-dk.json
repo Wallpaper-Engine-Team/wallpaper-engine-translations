@@ -509,6 +509,7 @@
 	"ui_browse_report_modal_genre_current": "Aktuel genre",
 	"ui_browse_report_modal_genre_label": "Foreslå ny genre",
 	"ui_browse_report_modal_category_rating": "Nøgenhed eller vold",
+	"ui_browse_report_modal_category_rating_description": "<p>Du er ved at anmelde denne baggrund for upassende nøgenhed eller vold.</p><p>For <b>ægte</b> nøgenhed, <b>ægte</b> vold eller grove overtrædelser af Steam Workshops regler for indhold skal du vælge indstillingen <b>Spærring</b>.<p>For <b>animeret eller CGI-indhold</b> skal du vælge en passende aldersgrænse i henhold til denne tabel:</p>",
 	"ui_browse_report_modal_rating_current": "Aktuel vurdering",
 	"ui_browse_report_modal_rating_label": "Foreslå ny vurdering",
 	"ui_browse_report_modal_category_copyright": "Overtræder ophavsret",
@@ -1175,6 +1176,7 @@
 	"ui_editor_workshop_modal_rating_button_sexual_content_mild": "Let nøgenhed",
 	"ui_editor_workshop_modal_rating_button_sexual_content_full": "Fuld nøgenhed",
 	"ui_editor_workshop_modal_rating_button_sexual_content_adult_only": "Indhold for voksne",
+	"ui_editor_workshop_modal_rating_header_suggested_rating": "Anbefalet aldersgrænse",
 	"ui_editor_open_modal_header": "Åben baggrund",
 	"ui_editor_open_modal_delete": " Slet",
 	"ui_editor_context_menu_center": "Centrer",
@@ -1578,6 +1580,9 @@
 	"ui_workshop_tags_local_application": "Lokal applikation",
 	"ui_workshop_tags_local_url": "Lokal internetadresse",
 	"ui_workshop_tags_local_image": "Lokalt billede",
+	"ui_workshop_tags_rating_everyone": "Ingen aldersbegrænsning",
+	"ui_workshop_tags_rating_questionable": "+ 12 år",
+	"ui_workshop_tags_rating_mature": "+ 18 år",
 	"ui_workshop_tags_rating_ban": "SPÆR",
 	"ui_workshop_tags_visibility_public": "Offentlig",
 	"ui_workshop_tags_visibility_friends_only": "Kun venner",
@@ -2678,6 +2683,7 @@
 	"ui_resourcecompiler_error_model_inconsistent_normal_count": "Modellen har ikke et konsekvent antal normaler",
 	"ui_resourcecompiler_error_model_inconsistent_tangentspace": "Kunne ikke generere tangentplads",
 	"ui_resourcecompiler_error_model_inconsistent_blend_values": "Modellen har inkonsekvente blandingsvægte",
+	"ui_resourcecompiler_error_assimp_exception": "Inkompatibel modelfil",
 	"ui_resourcecompiler_error_assimp_missing_uv_channel_1": "Modellen mangler en anden UV-kanal",
 	"ui_resourcecompiler_error_model_too_many_bones": "Modellen har for mange led (maks. {{maxBones}})",
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "Modellen har for mange morph-animationer (maks. {{maxMorphAnim}})",
@@ -2689,5 +2695,7 @@
 	"ui_win32_slideshow_compat_modal_title": "Kompatibilitet med Windows Slideshow",
 	"ui_win32_slideshow_compat_modal_body": "Det ser ud til, at du bruger et diasshow eller Windows Spotlight som din Windows-baggrund. Dette vil medføre, at din Windows-baggrund med jævne mellemrum vises foran Wallpaper Engine.<br/><br/>Vælg et normalt billede eller en normal farve som Windows-baggrund i Indstillinger for Windows for at løse dette problem.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "Advar ikke igen",
-	"ui_win32_slideshow_compat_settings_label": "Advarsel om Windows Slideshow:"
+	"ui_win32_slideshow_compat_settings_label": "Advarsel om Windows Slideshow:",
+	"ui_win11_23h2_contingency_tip": "HDR-kompatibilitetstilstand",
+	"ui_win11_23h2_contingency_tip_modal_message": "Det ser ud til, at du bruger Windows 11 23H2 (opdatering september 2023) eller nyere. Den nye funktion til Windows HDR-skrivebordsbaggrunde er i øjeblikket i konflikt med Wallpaper Engine. Microsoft har dog udtalt, at dette problem vil blive løst i en fremtidig opdatering.<br/><br/>Indtil da vil Wallpaper Engine køre i en særlig kompatibilitetstilstand, så længe HDR er aktiveret med den nyeste Windows 11-version.<br/><br/>Der kan være nogle mindre tekniske problemer, så vent venligst på fuld kompatibilitet i løbet af den nævnte Windows-opdatering. Du kan også vælge slå HDR helt fra i Windows-indstillingerne for at undgå eventuelle problemer indtil videre."
 }
