@@ -509,7 +509,7 @@
 	"ui_browse_report_modal_genre_current": "현재 장르",
 	"ui_browse_report_modal_genre_label": "새 장르 제안",
 	"ui_browse_report_modal_category_rating": "노출 또는 폭력",
-	"ui_browse_report_modal_category_rating_description": "<p>이 배경화면을 부적절한 노출 또는 폭력으로 신고합니다.</p><p><b>현실</b> 노출, <b>현실</b> 폭력 또는 Steam 창작마당 콘텐츠 규칙에 대한 심각한 위반 사항의 경우 <b>차단</b>을 선택하세요.<p><b>애니메이션 또는 CGI</b> 콘텐츠의 경우 다음 표에 따라 적합한 나이 등급을 선택하세요:</p>",
+	"ui_browse_report_modal_category_rating_description": "<p>이 배경화면을 부적절한 노출 또는 폭력으로 신고합니다.</p><p><b>현실</b> 노출, <b>현실</b> 폭력 또는 Steam 창작마당 콘텐츠 규칙에 대한 심각한 위반 사항의 경우 <b>BAN</b> 옵션을 선택하세요.<p><b>애니메이션 또는 CGI</b> 콘텐츠의 경우 다음 표에 따라 적합한 나이 등급을 선택하세요:</p>",
 	"ui_browse_report_modal_rating_current": "현재 등급",
 	"ui_browse_report_modal_rating_label": "새 등급 제안",
 	"ui_browse_report_modal_category_copyright": "저작권 위반",
@@ -1580,7 +1580,7 @@
 	"ui_workshop_tags_local_application": "로컬 응용 프로그램",
 	"ui_workshop_tags_local_url": "로컬 URL",
 	"ui_workshop_tags_local_image": "로컬 이미지",
-	"ui_workshop_tags_rating_everyone": "전체 이용가 - 전연령",
+	"ui_workshop_tags_rating_everyone": "전체 이용가 - 전 연령",
 	"ui_workshop_tags_rating_questionable": "12세 이용가 - 보호자 동반",
 	"ui_workshop_tags_rating_mature": "청소년 이용불가 - 성인",
 	"ui_workshop_tags_rating_ban": "BAN",
@@ -2697,5 +2697,5 @@
 	"ui_win32_slideshow_compat_modal_check_ignore": "이 경고 다시 표시하지 않기",
 	"ui_win32_slideshow_compat_settings_label": "Windows 슬라이드쇼 경고:",
 	"ui_win11_23h2_contingency_tip": "HDR 호환성 모드",
-	"ui_win11_23h2_contingency_tip_modal_message": "Windows 11 23H2(2023년 9월 업데이트) 또는 이후 버전을 사용하고 있습니다. 새로 추가된 Windows HDR 배경화면 기능은 현재 Wallpaper Engine과 호환되지 않지만, Microsoft 측이 추후 Windows 업데이트에서 이 문제가 해결될 것이라고 밝혔습니다. <br/><br/>그때까지는 Windows 11 최신 버전에서 HDR이 활성화된 경우 Wallpaper Engine이 특수한 호환성 모드로 구동됩니다. <br/><br/>해당 상태에서는 몇몇 문제가 발생할 수 있으므로, 호환성 문제가 해결될 때까지 기다려 주세요. 또한 Windows에서 HDR을 비활성화하는 것으로도 해당 문제를 우회할 수 있습니다."
+	"ui_win11_23h2_contingency_tip_modal_message": "Windows 11 23H2(2023년 9월 업데이트) 또는 이후 버전을 사용하고 있습니다. 새로 추가된 Windows HDR 배경화면 기능은 현재 Wallpaper Engine과 호환되지 않지만, Microsoft 측이 추후 Windows 업데이트에서 이 문제가 해결될 것이라고 밝혔습니다.<br/><br/>그때까지는 Windows 11 최신 버전에서 HDR이 활성화된 경우 Wallpaper Engine이 특수한 호환성 모드로 구동됩니다.<br/><br/>해당 상태에서는 몇몇 문제가 발생할 수 있으므로, 호환성 문제가 해결될 때까지 기다려 주세요. 또한 Windows에서 HDR을 비활성화하는 것으로도 해당 문제를 우회할 수 있습니다."
 }
