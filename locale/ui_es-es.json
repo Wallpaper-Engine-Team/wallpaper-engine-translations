@@ -509,6 +509,7 @@
 	"ui_browse_report_modal_genre_current": "Género actual",
 	"ui_browse_report_modal_genre_label": "Sugerir nuevo género",
 	"ui_browse_report_modal_category_rating": "Desnudos o violencia",
+	"ui_browse_report_modal_category_rating_description": "<p>Estás denunciando este fondo por mostrar desnudez o violencia inapropiadas.</p><p>En caso de <b>desnudez</b> y <b>violencia</b> reales o de cualquier otro incumplimiento grave de las normas de contenido de Steam Workshop, selecciona la opción <b>Prohibir</b>.<p>En caso de contenido <b>animado o generado por ordenador</b>, selecciona una clasificación por edades apropiada de acuerdo con la siguiente tabla:</p>",
 	"ui_browse_report_modal_rating_current": "Clasificación actual",
 	"ui_browse_report_modal_rating_label": "Sugerir nueva clasificación",
 	"ui_browse_report_modal_category_copyright": "Infringe derechos de autor",
@@ -1175,6 +1176,7 @@
 	"ui_editor_workshop_modal_rating_button_sexual_content_mild": "Desnudez leve",
 	"ui_editor_workshop_modal_rating_button_sexual_content_full": "Desnudez total",
 	"ui_editor_workshop_modal_rating_button_sexual_content_adult_only": "Contenido adulto",
+	"ui_editor_workshop_modal_rating_header_suggested_rating": "Clasificación por edades recomendada",
 	"ui_editor_open_modal_header": "Abrir fondo",
 	"ui_editor_open_modal_delete": "Eliminar",
 	"ui_editor_context_menu_center": "Centrar",
@@ -1578,6 +1580,9 @@
 	"ui_workshop_tags_local_application": "Aplicación local",
 	"ui_workshop_tags_local_url": "URL local",
 	"ui_workshop_tags_local_image": "Imagen local",
+	"ui_workshop_tags_rating_everyone": "Todas las edades",
+	"ui_workshop_tags_rating_questionable": "+ 12 años",
+	"ui_workshop_tags_rating_mature": "+ 18 años",
 	"ui_workshop_tags_rating_ban": "PROHIBIR",
 	"ui_workshop_tags_visibility_public": "Público",
 	"ui_workshop_tags_visibility_friends_only": "Solo amigos",
@@ -2678,6 +2683,7 @@
 	"ui_resourcecompiler_error_model_inconsistent_normal_count": "El modelo tiene una cantidad inconsistente de normales",
 	"ui_resourcecompiler_error_model_inconsistent_tangentspace": "No se ha podido generar el espacio tangente",
 	"ui_resourcecompiler_error_model_inconsistent_blend_values": "El modelo tiene datos de mezcla de pesos inconsistentes",
+	"ui_resourcecompiler_error_assimp_exception": "Archivo del modelo incompatible",
 	"ui_resourcecompiler_error_assimp_missing_uv_channel_1": "Falta un segundo canal UV en el modelo",
 	"ui_resourcecompiler_error_model_too_many_bones": "El modelo tiene demasiados huesos (el máximo es {{maxBones}})",
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "El modelo tiene demasiadas animaciones de transformación (el máximo es {{maxMorphAnim}})",
@@ -2689,5 +2695,7 @@
 	"ui_win32_slideshow_compat_modal_title": "Compatibilidad con presentaciones de Windows",
 	"ui_win32_slideshow_compat_modal_body": "Parece que estás usando una presentación o Windows Spotlight como fondo de Windows. Esto hará que tu fondo de Windows aparezca de forma periódica delante de Wallpaper Engine.<br/><br/>Para resolver este problema, elige una imagen estática o un color como fondo en los ajustes de personalización de Windows.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "No volver a avisar",
-	"ui_win32_slideshow_compat_settings_label": "Aviso para desactivar la presentación de Windows:"
+	"ui_win32_slideshow_compat_settings_label": "Aviso para desactivar la presentación de Windows:",
+	"ui_win11_23h2_contingency_tip": "Modo de compatibilidad con HDR",
+	"ui_win11_23h2_contingency_tip_modal_message": "Parece que estás usando Windows 11 23H2 (actualización de septiembre de 2023) o una versión posterior. En estos momentos, la nueva función de fondos del HDR de Windows está en conflicto con Wallpaper Engine, pero Microsoft ha explicado que resolverá el problema en una actualización futura.<br/><br/>Mientras tanto, Wallpaper Engine se ejecutará en un modo especial de compatibilidad cuando se active el HDR usando la última versión de Windows 11.<br/><br/>Ante esta situación, se espera que surjan algunos problemas, por lo que animamos a esperar a que la compatibilidad total vuelva a ser posible. Otra alternativa para solucionar este problema es desactivar el HDR en Windows."
 }
