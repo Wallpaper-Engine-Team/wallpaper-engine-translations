@@ -509,6 +509,7 @@
 	"ui_browse_report_modal_genre_current": "Tämänhetkinen genre",
 	"ui_browse_report_modal_genre_label": "Ehdota uutta genreä",
 	"ui_browse_report_modal_category_rating": "Alastomuus tai väkivalta",
+	"ui_browse_report_modal_category_rating_description": "<p>Ilmoitat tämän taustakuvan sopimattomasta alastomuudesta tai väkivallasta.</p><p>Jos kyseessä on <b>todellisesta elämästä</b> peräisin oleva alastomuus, <b>todellisesta elämästä</b> peräisin oleva väkivalta tai Steam Workshopin sisällön sääntöjen törkeä rikkominen, valitse <b>Estä</b>.<p>Jos kyseessä on <b>animaatio- tai CGI-sisältö,<b>valitse sopiva ikäluokitus taulukon mukaan:</p>",
 	"ui_browse_report_modal_rating_current": "Tämänhetkinen ikäluokitus",
 	"ui_browse_report_modal_rating_label": "Ehdota uutta ikäluokitusta",
 	"ui_browse_report_modal_category_copyright": "Rikkoo tekijänoikeuksia",
@@ -1175,6 +1176,7 @@
 	"ui_editor_workshop_modal_rating_button_sexual_content_mild": "Lievä alastomuus",
 	"ui_editor_workshop_modal_rating_button_sexual_content_full": "Täysi alastomuus",
 	"ui_editor_workshop_modal_rating_button_sexual_content_adult_only": "Aikuissisältö",
+	"ui_editor_workshop_modal_rating_header_suggested_rating": "Ehdotettu ikäluokitus",
 	"ui_editor_open_modal_header": "Avaa taustakuva",
 	"ui_editor_open_modal_delete": " Poista",
 	"ui_editor_context_menu_center": "Keskellä",
@@ -1578,6 +1580,9 @@
 	"ui_workshop_tags_local_application": "Paikallinen sovellus",
 	"ui_workshop_tags_local_url": "Paikallinen URL",
 	"ui_workshop_tags_local_image": "Paikallinen kuva",
+	"ui_workshop_tags_rating_everyone": "Kaikenikäisille",
+	"ui_workshop_tags_rating_questionable": "PG13 Vanhempien seurassa",
+	"ui_workshop_tags_rating_mature": "R Vain aikuisille",
 	"ui_workshop_tags_rating_ban": "KIELTO",
 	"ui_workshop_tags_visibility_public": "Julkinen",
 	"ui_workshop_tags_visibility_friends_only": "Vain ystävät",
@@ -2678,6 +2683,7 @@
 	"ui_resourcecompiler_error_model_inconsistent_normal_count": "Mallilla on ristiriitainen määrä normaaleja",
 	"ui_resourcecompiler_error_model_inconsistent_tangentspace": "Tangenttitilan generointi epäonnistui",
 	"ui_resourcecompiler_error_model_inconsistent_blend_values": "Mallin sekoituspainotustiedot ovat ristiriitaiset",
+	"ui_resourcecompiler_error_assimp_exception": "Epäsopiva mallitiedosto",
 	"ui_resourcecompiler_error_assimp_missing_uv_channel_1": "Mallista puuttuu toinen UV-kanava",
 	"ui_resourcecompiler_error_model_too_many_bones": "Mallilla on liikaa luita (enimmäismäärä on {{maxBones}})",
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "Mallilla on liikaa muunneltua animaatiota (enim.määrä on {{maxMorphAnim}})",
@@ -2689,5 +2695,7 @@
 	"ui_win32_slideshow_compat_modal_title": "Windows Slideshow -yhteensopivuus",
 	"ui_win32_slideshow_compat_modal_body": "Näyttää siltä, että käytät taustakuvana Slideshowta tai Windows Spotlightia. Tämän vuoksi Windows-taustakuvasi ilmestyy ajoittain Wallpaper Enginen eteen.<br/><br/>Valitse Windowsin taustakuvaksi staattinen kuva tai väri Windowsin yksilöintiasetuksissa, jotta ongelma ratkeaisi.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "Älä varoita uudelleen",
-	"ui_win32_slideshow_compat_settings_label": "Ilmoita ja pyydä poistamaan Windows Slideshow käytöstä:"
+	"ui_win32_slideshow_compat_settings_label": "Ilmoita ja pyydä poistamaan Windows Slideshow käytöstä:",
+	"ui_win11_23h2_contingency_tip": "HDR-yhteensopivuustila",
+	"ui_win11_23h2_contingency_tip_modal_message": "Näyttää siltä, että käytät Windows 11 23H2 (syyskuun 2023 päivitys) tai uudempaa versiota. Windowsin uusi HDR-taustakuvausominaisuus on tällä hetkellä ristiriidassa Wallpaper Enginen kanssa, mutta Microsoft on ilmoittanut, että tämä ongelma ratkaistaan tulevassa päivityksessä.<br/><br/>Sillä välin Wallpaper Engine toimii erikoisyhteensopivuustilassa, kun HDR otetaan käyttöön Windows 11:n uusimmassa versiossa.<br/><br/>Tässä tilanteessa on odotettavissa muutamia ongelmia. Odota, että täysi yhteensopivuus on jälleen mahdollista. HDR:n kytkeminen pois päältä Windowsissa on myös yksi vaihtoehto tämän ongelman kiertämiseksi."
 }
