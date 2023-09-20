@@ -1176,6 +1176,7 @@
 	"ui_editor_workshop_modal_rating_button_sexual_content_mild": "些微赤裸",
 	"ui_editor_workshop_modal_rating_button_sexual_content_full": "完全赤裸",
 	"ui_editor_workshop_modal_rating_button_sexual_content_adult_only": "成人內容",
+	"ui_editor_workshop_modal_rating_header_suggested_rating": "建議年齡分級",
 	"ui_editor_open_modal_header": "開啟桌布",
 	"ui_editor_open_modal_delete": " 刪除",
 	"ui_editor_context_menu_center": "置中",
@@ -1579,6 +1580,9 @@
 	"ui_workshop_tags_local_application": "本機應用程式",
 	"ui_workshop_tags_local_url": "本機連結",
 	"ui_workshop_tags_local_image": "本機影像",
+	"ui_workshop_tags_rating_everyone": "G - 適合所有年齡層",
+	"ui_workshop_tags_rating_questionable": "PG13 - 家長指導級",
+	"ui_workshop_tags_rating_mature": "R - 成人分級",
 	"ui_workshop_tags_rating_ban": "禁止",
 	"ui_workshop_tags_visibility_public": "公開",
 	"ui_workshop_tags_visibility_friends_only": "僅限好友",
@@ -2679,6 +2683,7 @@
 	"ui_resourcecompiler_error_model_inconsistent_normal_count": "模型的標準數不一致",
 	"ui_resourcecompiler_error_model_inconsistent_tangentspace": "無法產生切空間",
 	"ui_resourcecompiler_error_model_inconsistent_blend_values": "模型的混合權重資料不一致",
+	"ui_resourcecompiler_error_assimp_exception": "無法相容的模型檔案",
 	"ui_resourcecompiler_error_assimp_missing_uv_channel_1": "模型缺少第二個 UV 通道",
 	"ui_resourcecompiler_error_model_too_many_bones": "模型有太多關節（最多為 {{maxBones}} 個）",
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "模型有過多變形動畫（最多為 {{maxMorphAnim}}）",
@@ -2690,5 +2695,7 @@
 	"ui_win32_slideshow_compat_modal_title": "Windows Slideshow 相容性",
 	"ui_win32_slideshow_compat_modal_body": "您似乎正在使用 Slideshow 或 Windows Spotlight 作為 Windows 桌布。這麼做將造成您的 Windows 桌布會週期性地出現在 Wallpaper Engine 之前。<br/><br/>請在 Windows 個人化設定中選擇靜態圖案或顏色作為您的 Windows 桌布，以解決此問題。",
 	"ui_win32_slideshow_compat_modal_check_ignore": "不再警告",
-	"ui_win32_slideshow_compat_settings_label": "提示停用 Windows Slideshow："
+	"ui_win32_slideshow_compat_settings_label": "提示停用 Windows Slideshow：",
+	"ui_win11_23h2_contingency_tip": "HDR 相容模式",
+	"ui_win11_23h2_contingency_tip_modal_message": "您似乎正在使用 Windows 11 23H2（2023 年 9 月更新版）或更新的版本。新的 Windows HDR 桌布功能目前與 Wallpaper Engine 相衝突，但 Microsoft 已解釋將於未來的更新中解決此問題。<br/><br/>於此同時，使用最新版本的 Windows 11 開啟 HDR 時，Wallpaper Engine 將在特殊的相容模式中執行。<br/><br/>在此情況下，將預期會出現一些問題，待至可再次完整相容時便能解決。遇到此問題時，在 Windows 中關閉 HDR 也是種替代方案。"
 }
