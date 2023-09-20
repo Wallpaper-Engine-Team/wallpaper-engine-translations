@@ -509,6 +509,7 @@
 	"ui_browse_report_modal_genre_current": "현재 장르",
 	"ui_browse_report_modal_genre_label": "새 장르 제안",
 	"ui_browse_report_modal_category_rating": "노출 또는 폭력",
+	"ui_browse_report_modal_category_rating_description": "<p>이 배경화면을 부적절한 노출 또는 폭력으로 신고합니다.</p><p><b>현실</b> 노출, <b>현실</b> 폭력 또는 Steam 창작마당 콘텐츠 규칙에 대한 심각한 위반 사항의 경우 <b>차단</b>을 선택하세요.<p><b>애니메이션 또는 CGI</b> 콘텐츠의 경우 다음 표에 따라 적합한 나이 등급을 선택하세요:</p>",
 	"ui_browse_report_modal_rating_current": "현재 등급",
 	"ui_browse_report_modal_rating_label": "새 등급 제안",
 	"ui_browse_report_modal_category_copyright": "저작권 위반",
@@ -1175,6 +1176,7 @@
 	"ui_editor_workshop_modal_rating_button_sexual_content_mild": "경미한 노출",
 	"ui_editor_workshop_modal_rating_button_sexual_content_full": "전면 노출",
 	"ui_editor_workshop_modal_rating_button_sexual_content_adult_only": "성적 콘텐츠",
+	"ui_editor_workshop_modal_rating_header_suggested_rating": "제안 나이 등급",
 	"ui_editor_open_modal_header": "배경화면 열기",
 	"ui_editor_open_modal_delete": " 삭제",
 	"ui_editor_context_menu_center": "중앙",
@@ -1578,6 +1580,9 @@
 	"ui_workshop_tags_local_application": "로컬 응용 프로그램",
 	"ui_workshop_tags_local_url": "로컬 URL",
 	"ui_workshop_tags_local_image": "로컬 이미지",
+	"ui_workshop_tags_rating_everyone": "전체 이용가 - 전연령",
+	"ui_workshop_tags_rating_questionable": "12세 이용가 - 보호자 동반",
+	"ui_workshop_tags_rating_mature": "청소년 이용불가 - 성인",
 	"ui_workshop_tags_rating_ban": "BAN",
 	"ui_workshop_tags_visibility_public": "공개",
 	"ui_workshop_tags_visibility_friends_only": "친구만",
@@ -2678,6 +2683,7 @@
 	"ui_resourcecompiler_error_model_inconsistent_normal_count": "모델의 법선 개수가 불일치합니다",
 	"ui_resourcecompiler_error_model_inconsistent_tangentspace": "접공간 생성 실패",
 	"ui_resourcecompiler_error_model_inconsistent_blend_values": "모델의 혼합 가중치 데이터가 불일치합니다",
+	"ui_resourcecompiler_error_assimp_exception": "호환되지 않는 모델 파일",
 	"ui_resourcecompiler_error_assimp_missing_uv_channel_1": "모델에 두 번째 UV 채널이 누락되었습니다",
 	"ui_resourcecompiler_error_model_too_many_bones": "모델에 골격이 너무 많습니다(최대 {{maxBones}}개)",
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "모델에 모핑 애니메이션이 너무 많습니다(최대 {{maxMorphAnim}}개)",
@@ -2689,5 +2695,7 @@
 	"ui_win32_slideshow_compat_modal_title": "Windows 슬라이드쇼 호환성",
 	"ui_win32_slideshow_compat_modal_body": "슬라이드쇼 또는 Windows 스포트라이트를 Windows 배경화면으로 사용하고 있습니다. 이 경우 Windows 배경화면이 주기적으로 Wallpaper Engine 앞에 나타납니다.<br/><br/>이 문제를 해결하려면 Windows 개인 설정에서 Windows 배경화면으로 정적 그림 또는 색상을 선택하세요.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "이 경고 다시 표시하지 않기",
-	"ui_win32_slideshow_compat_settings_label": "Windows 슬라이드쇼 경고:"
+	"ui_win32_slideshow_compat_settings_label": "Windows 슬라이드쇼 경고:",
+	"ui_win11_23h2_contingency_tip": "HDR 호환성 모드",
+	"ui_win11_23h2_contingency_tip_modal_message": "Windows 11 23H2(2023년 9월 업데이트) 또는 이후 버전을 사용하고 있습니다. 새로 추가된 Windows HDR 배경화면 기능은 현재 Wallpaper Engine과 호환되지 않지만, Microsoft 측이 추후 Windows 업데이트에서 이 문제가 해결될 것이라고 밝혔습니다. <br/><br/>그때까지는 Windows 11 최신 버전에서 HDR이 활성화된 경우 Wallpaper Engine이 특수한 호환성 모드로 구동됩니다. <br/><br/>해당 상태에서는 몇몇 문제가 발생할 수 있으므로, 호환성 문제가 해결될 때까지 기다려 주세요. 또한 Windows에서 HDR을 비활성화하는 것으로도 해당 문제를 우회할 수 있습니다."
 }
