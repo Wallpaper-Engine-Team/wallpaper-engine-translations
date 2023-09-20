@@ -509,6 +509,7 @@
 	"ui_browse_report_modal_genre_current": "ประเภทปัจจุบัน",
 	"ui_browse_report_modal_genre_label": "เสนอแนะประเภทใหม่",
 	"ui_browse_report_modal_category_rating": "ภาพเปลือยหรือความรุนแรง",
+	"ui_browse_report_modal_category_rating_description": "<p>คุณกำลังรายงานวอลเปเปอร์นี้ว่ามีภาพเปลือยหรือความรุนแรงที่ไม่เหมาะสม</p><p>สำหรับภาพเปลือย<b>ในชีวิตจริง</b>, ความรุนแรง<b>ในชีวิตจริง</b> หรือการละเมิดกฎเนื้อหาเวิร์กชอป Steam อย่างร้ายแรง โปรดเลือกตัวเลือก<b>แบน</b><p>สำหรับเนื้อหา<b>แอนิเมชันหรือ CGI</b> โปรดเลือกระดับความเหมาะสมตามอายุโดยอิงจากตารางนี้:</p>",
 	"ui_browse_report_modal_rating_current": "ระดับความเหมาะสมปัจจุบัน",
 	"ui_browse_report_modal_rating_label": "เสนอแนะระดับความเหมาะสมใหม่",
 	"ui_browse_report_modal_category_copyright": "ละเมิดลิขสิทธิ์",
@@ -1175,6 +1176,7 @@
 	"ui_editor_workshop_modal_rating_button_sexual_content_mild": "ภาพเปลือยเล็กน้อย",
 	"ui_editor_workshop_modal_rating_button_sexual_content_full": "ภาพเปลือยเต็มตัว",
 	"ui_editor_workshop_modal_rating_button_sexual_content_adult_only": "เนื้อหาสำหรับผู้ใหญ่",
+	"ui_editor_workshop_modal_rating_header_suggested_rating": "ระดับความเหมาะสมตามอายุที่แนะนำ",
 	"ui_editor_open_modal_header": "เปิดวอลเปเปอร์",
 	"ui_editor_open_modal_delete": " ลบ",
 	"ui_editor_context_menu_center": "กึ่งกลาง",
@@ -1578,6 +1580,9 @@
 	"ui_workshop_tags_local_application": "แอพพลิเคชันภายใน",
 	"ui_workshop_tags_local_url": "URL ภายใน",
 	"ui_workshop_tags_local_image": "รูปภาพภายใน",
+	"ui_workshop_tags_rating_everyone": "G - ทุกวัย",
+	"ui_workshop_tags_rating_questionable": "PG13 - มีผู้ปกครองแนะนำ",
+	"ui_workshop_tags_rating_mature": "R - ผู้ใหญ่",
 	"ui_workshop_tags_rating_ban": "แบน",
 	"ui_workshop_tags_visibility_public": "สาธารณะ",
 	"ui_workshop_tags_visibility_friends_only": "เฉพาะเพื่อนเท่านั้น",
@@ -2678,6 +2683,7 @@
 	"ui_resourcecompiler_error_model_inconsistent_normal_count": "โมเดลมีจำนวนแนวฉากไม่สอดคล้องกัน",
 	"ui_resourcecompiler_error_model_inconsistent_tangentspace": "การสร้างพื้นที่ปริภูมิสัมผัสล้มเหลว",
 	"ui_resourcecompiler_error_model_inconsistent_blend_values": "โมเดลมีข้อมูลน้ำหนักการผสมไม่สอดคล้องกัน",
+	"ui_resourcecompiler_error_assimp_exception": "ไฟล์โมเดลไม่สามารถทำงานร่วมกันได้",
 	"ui_resourcecompiler_error_assimp_missing_uv_channel_1": "โมเดลไม่มีช่อง UV ที่สอง",
 	"ui_resourcecompiler_error_model_too_many_bones": "โมเดลมีกระดูกมากเกินไป (สูงสุดคือ {{maxBones}})",
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "โมเดลมีภาพเคลื่อนไหวการเปลี่ยนภาพมากเกินไป (สูงสุดคือ {{maxMorphAnim}})",
@@ -2689,5 +2695,7 @@
 	"ui_win32_slideshow_compat_modal_title": "ความเข้ากันได้ของ Windows Slideshow",
 	"ui_win32_slideshow_compat_modal_body": "ดูเหมือนว่าคุณกำลังใช้งาน Slideshow หรือ Windows Spotlight เป็นวอลเปเปอร์ Windows ซึ่งจะทำให้วอลเปเปอร์ Windows ของคุณปรากฏด้านหน้า Wallpaper Engine เป็นระยะ<br/><br/>โปรดเลือกรูปภาพหรือสีคงที่เป็นวอลเปเปอร์ Windows ในการตั้งค่าส่วนบุคคลของ Windows เพื่อแก้ไขปัญหานี้",
 	"ui_win32_slideshow_compat_modal_check_ignore": "ไม่ต้องเตือนอีก",
-	"ui_win32_slideshow_compat_settings_label": "แจ้งให้ปิดใช้งาน Windows Slideshow:"
+	"ui_win32_slideshow_compat_settings_label": "แจ้งให้ปิดใช้งาน Windows Slideshow:",
+	"ui_win11_23h2_contingency_tip": "โหมดความเข้ากันได้ของ HDR",
+	"ui_win11_23h2_contingency_tip_modal_message": "ดูเหมือนว่าคุณกำลังใช้ Windows 11 23H2 (อัปเดตกันยายน 2023) หรือใหม่กว่า ฟีเจอร์วอลเปเปอร์ HDR ใน Windows ใหม่กำลังเกิดความขัดแย้งกับ Wallpaper Engine ในขณะนี้ โดย Microsoft ได้อธิบายว่าปัญหานี้จะได้รับการแก้ไขในอัปเดตในอนาคต<br/><br/>ในระหว่างนี้ Wallpaper Engine จะทำงานในโหมดความเข้ากันได้พิเศษเมื่อเปิด HDR โดยใช้ Windows 11 เวอร์ชันล่าสุด<br/><br/>โดยมีการคาดว่าสถานการณ์นี้อาจก่อให้เกิดปัญหาบางอย่าง โปรดรอให้ใช้ความเข้ากันได้แบบเต็มรูปแบบได้อีกครั้ง การปิด HDR ใน Windows เป็นอีกหนึ่งทางเลือกในการแก้ไขปัญหานี้"
 }
