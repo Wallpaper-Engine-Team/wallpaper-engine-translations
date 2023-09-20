@@ -509,6 +509,7 @@
 	"ui_browse_report_modal_genre_current": "Gênero atual",
 	"ui_browse_report_modal_genre_label": "Sugerir novo gênero",
 	"ui_browse_report_modal_category_rating": "Nudez ou violência",
+	"ui_browse_report_modal_category_rating_description": "<p>Você está denunciando este papel de parede por conter nudez ou violência impróprias.</p><p>Para nudez da <b>vida real</b>, violencia da <b>vida real</b> ou quaisquer infrações graves das regras de conteúdo da Oficina Steam, selecione a opção <b>Ban</b>.<p>Para conteúdo <b>animado ou de CGI</b>, selecione uma classificação etária apropriada, de acordo com a tabela abaixo:</p>",
 	"ui_browse_report_modal_rating_current": "Classificação atual",
 	"ui_browse_report_modal_rating_label": "Sugerir nova classificação",
 	"ui_browse_report_modal_category_copyright": "Violação de direitos autorais",
@@ -1175,6 +1176,7 @@
 	"ui_editor_workshop_modal_rating_button_sexual_content_mild": "Nudez Parcial",
 	"ui_editor_workshop_modal_rating_button_sexual_content_full": "Nudez Total",
 	"ui_editor_workshop_modal_rating_button_sexual_content_adult_only": "Conteúdo Adulto",
+	"ui_editor_workshop_modal_rating_header_suggested_rating": "Classificação etária sugerida",
 	"ui_editor_open_modal_header": "Abrir papel de parede",
 	"ui_editor_open_modal_delete": " Excluir",
 	"ui_editor_context_menu_center": "Centralizar",
@@ -1578,6 +1580,9 @@
 	"ui_workshop_tags_local_application": "Aplicativo local",
 	"ui_workshop_tags_local_url": "URL local",
 	"ui_workshop_tags_local_image": "Imagem local",
+	"ui_workshop_tags_rating_everyone": "Classificação livre",
+	"ui_workshop_tags_rating_questionable": "Recomendado para +12 anos",
+	"ui_workshop_tags_rating_mature": "Recomendado para +18 anos",
 	"ui_workshop_tags_rating_ban": "BAN",
 	"ui_workshop_tags_visibility_public": "Público",
 	"ui_workshop_tags_visibility_friends_only": "Apenas amigos",
@@ -2678,6 +2683,7 @@
 	"ui_resourcecompiler_error_model_inconsistent_normal_count": "O modelo tem uma quantidade inconsistente de normais",
 	"ui_resourcecompiler_error_model_inconsistent_tangentspace": "Falha ao gerar o espaço tangente",
 	"ui_resourcecompiler_error_model_inconsistent_blend_values": "O modelo tem dados de peso de combinação inconsistentes",
+	"ui_resourcecompiler_error_assimp_exception": "Arquivo de modelo incompatível",
 	"ui_resourcecompiler_error_assimp_missing_uv_channel_1": "O modelo está faltando um segundo canal UV",
 	"ui_resourcecompiler_error_model_too_many_bones": "O modelo tem muitos ossos (máximo de {{maxBones}})",
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "O modelo tem muitas animações de transformação (máximo de {{maxMorphAnim}})",
@@ -2689,5 +2695,7 @@
 	"ui_win32_slideshow_compat_modal_title": "Compatibilidade com a Apresentação de Slides do Windows",
 	"ui_win32_slideshow_compat_modal_body": "Parece que você está usando uma Apresentação de Slides ou o Destaque do Windows como seu papel de parede do Windows. Isso fará com que o papel de parede do Windows apareça periodicamente em frente ao Wallpaper Engine.<br/><br/>Escolha uma imagem estática ou cor como papel de parede do Windows nas configurações de personalização do Windows para resolver esse problema.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "Não avisar novamente",
-	"ui_win32_slideshow_compat_settings_label": "Aviso para desativar a Apresentação de Slides do Windows:"
+	"ui_win32_slideshow_compat_settings_label": "Aviso para desativar a Apresentação de Slides do Windows:",
+	"ui_win11_23h2_contingency_tip": "Modo de Compatibilidade com HDR",
+	"ui_win11_23h2_contingency_tip_modal_message": "Parece que você está a usando o Windows 11 23H2 (atualização de setembro de 2023) ou posterior. A nova funcionalidade de papel de parede HDR do Windows está neste momento em conflito com o Wallpaper Engine, mas a Microsoft esclareceu que este problema será resolvido numa futura atualização.<br/><br/>Entretanto, o Wallpaper Engine será executado em um modo especial de compatibildiade quando o HDR estiver ativado utilizando a versão mais recente do Windows 11.<br/><br/>Alguns problemas são esperados nessa situação. Aguarde até que a compatibilidade total seja possível novamente. Desativar o HDR no Windows também é uma opção para solucionar esse problema."
 }
