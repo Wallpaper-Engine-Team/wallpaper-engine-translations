@@ -509,7 +509,7 @@
 	"ui_browse_report_modal_genre_current": "Género actual",
 	"ui_browse_report_modal_genre_label": "Sugerir nuevo género",
 	"ui_browse_report_modal_category_rating": "Desnudos o violencia",
-	"ui_browse_report_modal_category_rating_description": "<p>Estás denunciando este fondo por mostrar desnudez o violencia inapropiadas.</p><p>En caso de <b>desnudez</b> y <b>violencia</b> reales o de cualquier otro incumplimiento grave de las normas de contenido de Steam Workshop, selecciona la opción <b>Prohibir</b>.<p>En caso de contenido <b>animado o generado por ordenador</b>, selecciona una clasificación por edades apropiada de acuerdo con la siguiente tabla:</p>",
+	"ui_browse_report_modal_category_rating_description": "<p>Vas a informar de que este fondo muestra desnudez o violencia inapropiadas.</p><p>En caso de <b>desnudez</b> y <b>violencia</b> reales o de cualquier otro incumplimiento grave de las normas de contenido de Steam Workshop, selecciona la opción <b>Prohibir</b>.<p>En caso de contenido <b>animado o generado por ordenador</b>, selecciona una clasificación por edades apropiada de acuerdo con la siguiente tabla:</p>",
 	"ui_browse_report_modal_rating_current": "Clasificación actual",
 	"ui_browse_report_modal_rating_label": "Sugerir nueva clasificación",
 	"ui_browse_report_modal_category_copyright": "Infringe derechos de autor",
