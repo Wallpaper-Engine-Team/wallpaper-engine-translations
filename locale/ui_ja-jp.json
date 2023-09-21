@@ -509,6 +509,7 @@
 	"ui_browse_report_modal_genre_current": "現在のジャンル",
 	"ui_browse_report_modal_genre_label": "新しいジャンル",
 	"ui_browse_report_modal_category_rating": "不適切な壁紙",
+	"ui_browse_report_modal_category_rating_description": "<p>この壁紙を不適切な壁紙として報告しｍす。</p><p><b>実在</b>のヌード、<b>実在</b>の暴力表現、Steamワークショップのコンテンツルールに対する重大な違反の場合、「<b>BAN</b>」オプションを選択してください。<p><b>アニメーションまたはCGI</b>コンテンツの場合、下記のテーブルに従って適切な年齢評価を選択してください。</p>",
 	"ui_browse_report_modal_rating_current": "現在のレート",
 	"ui_browse_report_modal_rating_label": "新しいレート",
 	"ui_browse_report_modal_category_copyright": "著作権の侵害",
@@ -1175,6 +1176,7 @@
 	"ui_editor_workshop_modal_rating_button_sexual_content_mild": "セミヌード",
 	"ui_editor_workshop_modal_rating_button_sexual_content_full": "フルヌード",
 	"ui_editor_workshop_modal_rating_button_sexual_content_adult_only": "アダルトコンテンツ",
+	"ui_editor_workshop_modal_rating_header_suggested_rating": "提案年齢評価",
 	"ui_editor_open_modal_header": "壁紙を開く",
 	"ui_editor_open_modal_delete": " 削除",
 	"ui_editor_context_menu_center": "中央",
@@ -1578,6 +1580,9 @@
 	"ui_workshop_tags_local_application": "ローカルアプリケーション",
 	"ui_workshop_tags_local_url": "ローカルURL",
 	"ui_workshop_tags_local_image": "ローカルイメージ",
+	"ui_workshop_tags_rating_everyone": "G - 全年齢の観客",
+	"ui_workshop_tags_rating_questionable": "PG13 - 保護者の同伴および助言が必要",
+	"ui_workshop_tags_rating_mature": "R - 観覧制限",
 	"ui_workshop_tags_rating_ban": "BAN",
 	"ui_workshop_tags_visibility_public": "公開",
 	"ui_workshop_tags_visibility_friends_only": "フレンドのみ",
@@ -2678,6 +2683,7 @@
 	"ui_resourcecompiler_error_model_inconsistent_normal_count": "モデルの法線の数が一致しません",
 	"ui_resourcecompiler_error_model_inconsistent_tangentspace": "接空間の生成に失敗しました",
 	"ui_resourcecompiler_error_model_inconsistent_blend_values": "モデルのブレンドウェイトデータが一致しません",
+	"ui_resourcecompiler_error_assimp_exception": "互換性のないモデルファイル",
 	"ui_resourcecompiler_error_assimp_missing_uv_channel_1": "モデルに2つ目のUVチャンネルがありません",
 	"ui_resourcecompiler_error_model_too_many_bones": "モデルのボーンが多すぎます（最大: {{maxBones}}）",
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "モデルのモーフされたアニメーションが多すぎます（最大: {{maxMorphAnim}}）",
@@ -2689,5 +2695,7 @@
 	"ui_win32_slideshow_compat_modal_title": "Windows Slideshowの互換性",
 	"ui_win32_slideshow_compat_modal_body": "SlideshowまたはWindows SpotlightをWindowsの壁紙として使用しているようです。これによりWindowsの壁紙が定期的にWallpaper Engineの前に表示されます。<br/><br/>この問題を解決するには、Windowsの個人用設定で静止画か色を壁紙として設定してください。",
 	"ui_win32_slideshow_compat_modal_check_ignore": "警告を今後表示しない",
-	"ui_win32_slideshow_compat_settings_label": "Windows Slideshowの警告"
+	"ui_win32_slideshow_compat_settings_label": "Windows Slideshowの警告",
+	"ui_win11_23h2_contingency_tip": "HDR互換モード",
+	"ui_win11_23h2_contingency_tip_modal_message": "Windows 11 23H2（2023年9月更新）以上を使用しているようです。新しいWindows HDRの壁紙機能は現状、Wallpaper Engineと競合していますが、Microsoftは問題を今後の更新で解決すると説明しています。<br/><br/>それまでWallpaper Engineは、Windows 11の最新バージョンを使用するHDRが有効である間、特別な互換モードで実行されます。<br/><br/>この状況では一部問題が発生する可能性があるため、完全互換が再度利用可能になるまでお待ちください。この問題の対策として、WindowsでHDRを無効にすることも有効です。"
 }
