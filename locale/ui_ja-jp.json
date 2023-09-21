@@ -509,7 +509,7 @@
 	"ui_browse_report_modal_genre_current": "現在のジャンル",
 	"ui_browse_report_modal_genre_label": "新しいジャンル",
 	"ui_browse_report_modal_category_rating": "不適切な壁紙",
-	"ui_browse_report_modal_category_rating_description": "<p>この壁紙を不適切な壁紙として報告しｍす。</p><p><b>実在</b>のヌード、<b>実在</b>の暴力表現、Steamワークショップのコンテンツルールに対する重大な違反の場合、「<b>BAN</b>」オプションを選択してください。<p><b>アニメーションまたはCGI</b>コンテンツの場合、下記のテーブルに従って適切な年齢評価を選択してください。</p>",
+	"ui_browse_report_modal_category_rating_description": "<p>この壁紙を不適切な壁紙として報告します。</p><p><b>実在</b>のヌード、<b>実在</b>の暴力表現、Steamワークショップのコンテンツルールに対する重大な違反の場合、「<b>BAN</b>」オプションを選択してください。<p><b>アニメーションまたはCGI</b>コンテンツの場合、下記のテーブルに従って適切な年齢評価を選択してください。</p>",
 	"ui_browse_report_modal_rating_current": "現在のレート",
 	"ui_browse_report_modal_rating_label": "新しいレート",
 	"ui_browse_report_modal_category_copyright": "著作権の侵害",
