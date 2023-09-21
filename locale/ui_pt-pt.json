@@ -509,7 +509,7 @@
 	"ui_browse_report_modal_genre_current": "Género atual",
 	"ui_browse_report_modal_genre_label": "Sugerir género novo",
 	"ui_browse_report_modal_category_rating": "Nudez ou violência",
-	"ui_browse_report_modal_category_rating_description": "<p>Está a denunciar este wallpaper por conter nudez ou violência desapropriadas.</p><p>Para nudez da <b>vida real</b>, violencia da <b>vida real</b> ou quaisquer infrações graves das regras de conteúdo da Steam Workshop, selecione a opção <b>Banir</b>.<p>Para conteúdo <b>animado ou CGI</b>, selecione uma classificação etária apropriada, de acordo com esta tabela:</p>",
+	"ui_browse_report_modal_category_rating_description": "<p>Está a denunciar este wallpaper por conter nudez ou violência desapropriadas.</p><p>Para nudez ou violência <b>realistas</b> ou quaisquer infrações graves das regras de conteúdo da Steam Workshop, selecione a opção <b>Banir</b>.<p>Para conteúdo <b>animado ou CGI</b>, selecione uma classificação etária apropriada, de acordo com esta tabela:</p>",
 	"ui_browse_report_modal_rating_current": "Classificação atual",
 	"ui_browse_report_modal_rating_label": "Sugerir nova classificação",
 	"ui_browse_report_modal_category_copyright": "Violação de direitos de autor",
@@ -1580,9 +1580,9 @@
 	"ui_workshop_tags_local_application": "Aplicação local",
 	"ui_workshop_tags_local_url": "URL local",
 	"ui_workshop_tags_local_image": "Imagem local",
-	"ui_workshop_tags_rating_everyone": "G - Para todos",
-	"ui_workshop_tags_rating_questionable": "PG13 - Orient. parental",
-	"ui_workshop_tags_rating_mature": "R - Para adultos",
+	"ui_workshop_tags_rating_everyone": "Para todos",
+	"ui_workshop_tags_rating_questionable": "Orientação parental",
+	"ui_workshop_tags_rating_mature": "Para adultos",
 	"ui_workshop_tags_rating_ban": "BAN",
 	"ui_workshop_tags_visibility_public": "Público",
 	"ui_workshop_tags_visibility_friends_only": "Só para amigos",
@@ -2697,5 +2697,5 @@
 	"ui_win32_slideshow_compat_modal_check_ignore": "Não avisar outra vez",
 	"ui_win32_slideshow_compat_settings_label": "Aviso para desativar Windows Slideshow:",
 	"ui_win11_23h2_contingency_tip": "Modo de Compatibilidade com HDR",
-	"ui_win11_23h2_contingency_tip_modal_message": "Ao que parece, está a usar o Windows 11 23H2 (atualização de setembro de 2023) ou posterior. A nova funcionalidade de wallaper HDR do Windows está neste momento em conflito com o Wallpaper Engine, mas a Microsoft esclareceu que este problema será resolvido numa futura atualização.<br/><br/>Entretanto, o Wallpaper Engine será executado num modo especial de compatibildiade quando HDR estiver ativado utilizando a versão mais recente do Windows 11.<br/><br/>Nesta situação, é de esperar que ocorram alguns problemas, pelo que poderá esperar que a compatibilidade total volte a ser possível. Desativar HDR no Windows é também uma opção para contornar este problema."
+	"ui_win11_23h2_contingency_tip_modal_message": "Ao que parece, está a usar o Windows 11 23H2 (atualização de setembro de 2023) ou posterior. A nova funcionalidade de wallaper HDR do Windows está neste momento em conflito com o Wallpaper Engine, mas a Microsoft esclareceu que este problema será resolvido numa futura atualização.<br/><br/>Entretanto, o Wallpaper Engine será executado num modo especial de compatibilidade quando HDR estiver ativado utilizando a versão mais recente do Windows 11.<br/><br/>Nesta situação, é de esperar que ocorram alguns problemas, pelo que poderá esperar que a compatibilidade total volte a ser possível. Desativar HDR no Windows é também uma opção para contornar este problema."
 }
