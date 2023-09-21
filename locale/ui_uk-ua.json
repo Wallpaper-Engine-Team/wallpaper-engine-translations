@@ -509,7 +509,7 @@
 	"ui_browse_report_modal_genre_current": "Поточний жанр",
 	"ui_browse_report_modal_genre_label": "Запропонувати новий жанр",
 	"ui_browse_report_modal_category_rating": "Оголеність або насильство",
-	"ui_browse_report_modal_category_rating_description": "<p>Ви скаржитеся на ці шпалери через неприйнятне зображення оголеності чи насильства.</p><p>Для <b>реальних</b> <b></b>зображень оголеного тіла, насильства або будь-яких грубих порушень правил контенту Майстерні Steam виберіть опцію <b>Забанити</b>.<p>Для <b>анімаційного або CGI-контенту</b> виберіть відповідний віковий рейтинг відповідно до цієї таблиці:</p>",
+	"ui_browse_report_modal_category_rating_description": "<p>Ви скаржитеся на шпалери через неприйнятне зображення оголеності чи насильства.</p><p>Для <b>реальних</b> <b></b>зображень оголеного тіла, насильства або будь-яких грубих порушень правил контенту майстерні Steam виберіть опцію <b>бана</b>.<p>Для <b>анімаційного або CGI-контенту</b> виберіть відповідний віковий рейтинг, керуючись таблицею:</p>",
 	"ui_browse_report_modal_rating_current": "Поточний рейтинг",
 	"ui_browse_report_modal_rating_label": "Запропонувати новий рейтинг",
 	"ui_browse_report_modal_category_copyright": "Порушує авторське право",
@@ -1176,7 +1176,7 @@
 	"ui_editor_workshop_modal_rating_button_sexual_content_mild": "Часткова оголеність",
 	"ui_editor_workshop_modal_rating_button_sexual_content_full": "Повна оголеність",
 	"ui_editor_workshop_modal_rating_button_sexual_content_adult_only": "Контент для дорослих",
-	"ui_editor_workshop_modal_rating_header_suggested_rating": "Запропонований рейтинг",
+	"ui_editor_workshop_modal_rating_header_suggested_rating": "Пропонований віковий рейтинг",
 	"ui_editor_open_modal_header": "Відкрити шпалери",
 	"ui_editor_open_modal_delete": " Видалити",
 	"ui_editor_context_menu_center": "Центр",
@@ -1580,9 +1580,9 @@
 	"ui_workshop_tags_local_application": "Місцевий додаток",
 	"ui_workshop_tags_local_url": "Місцевий URL",
 	"ui_workshop_tags_local_image": "Локальний образ",
-	"ui_workshop_tags_rating_everyone": "0+",
-	"ui_workshop_tags_rating_questionable": "16+",
-	"ui_workshop_tags_rating_mature": "18+",
+	"ui_workshop_tags_rating_everyone": "G — будь-який вік",
+	"ui_workshop_tags_rating_questionable": "PG13 — батьк. нагляд",
+	"ui_workshop_tags_rating_mature": "R — для дорослих",
 	"ui_workshop_tags_rating_ban": "Заборонене",
 	"ui_workshop_tags_visibility_public": "Публічне",
 	"ui_workshop_tags_visibility_friends_only": "Лише для друзів",
@@ -2697,5 +2697,5 @@
 	"ui_win32_slideshow_compat_modal_check_ignore": "Більше не попереджати",
 	"ui_win32_slideshow_compat_settings_label": "Попередження щодо слайд-шоу Windows",
 	"ui_win11_23h2_contingency_tip": "Режим сумісності з HDR",
-	"ui_win11_23h2_contingency_tip_modal_message": "Схоже, ви використовуєте Windows 11 23H2 з оновленням за вересень 2023 року або пізнішої версії. Нова функція шпалер Windows HDR наразі конфліктує з Wallpaper Engine, але компанія Microsoft пообіцяла вирішити цю проблему в майбутньому оновленні.<br/><br/>Тим часом Wallpaper Engine працюватиме в спеціальному режимі сумісності, коли HDR буде увімкнено в останній версії Windows 11.<br/><br/>У зв'язку з цим можуть статися деякі проблеми. Зачекайте, доки повна сумісність знову стане можливою. Щоб вирішити ці проблеми, можна також вимкнути HDR у Windows."
+	"ui_win11_23h2_contingency_tip_modal_message": "Схоже, ви використовуєте Windows 11 23H2 (оновлення за вересень 2023) або пізнішу версію. Нова функція шпалер Windows HDR наразі конфліктує з Wallpaper Engine, але компанія Microsoft пообіцяла розв'язати проблему в майбутньому оновленні.<br/><br/>Поки Wallpaper Engine працюватиме в спеціальному режимі сумісності, коли HDR увімкнено в останній версії Windows 11.<br/><br/>Через це можуть виникнути певні проблеми. Зачекайте, доки повна сумісність знову стане можливою. Щоб розв'язати ці проблеми, можна також вимкнути HDR у Windows."
 }
