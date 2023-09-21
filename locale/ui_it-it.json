@@ -509,7 +509,7 @@
 	"ui_browse_report_modal_genre_current": "Genere attuale",
 	"ui_browse_report_modal_genre_label": "Suggerisci un nuovo genere",
 	"ui_browse_report_modal_category_rating": "Contenuto osceno o violento",
-	"ui_browse_report_modal_category_rating_description": "<p>Stai segnalando questo sfondo per contenuti inappropriati di nudità o violenza.</p><p>In caso di nudità o violenza <b>reali</b> o di gravi violazioni delle regole sui contenuti di Steam Workshop, seleziona l'opzione <b> Ban</b>.<p>Per i contenuti <b>animati o in CGI</b>, seleziona una classificazione d'età appropriata in base a questa tabella:</p>",
+	"ui_browse_report_modal_category_rating_description": "<p>Stai segnalando questo sfondo per contenuti inappropriati di nudità o violenza.</p><p>In caso di nudità o violenza <b>reali</b> o di gravi violazioni delle regole sui contenuti del Workshop di Steam, seleziona l'opzione <b>Ban</b>.<p>Per i contenuti <b>animati o in CGI</b>, seleziona una classificazione d'età appropriata in base a questa tabella:</p>",
 	"ui_browse_report_modal_rating_current": "Classificazione attuale",
 	"ui_browse_report_modal_rating_label": "Suggerisci una nuova classificazione",
 	"ui_browse_report_modal_category_copyright": "Violazione di copyright",
