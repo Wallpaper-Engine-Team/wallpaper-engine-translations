@@ -509,7 +509,7 @@
 	"ui_browse_report_modal_genre_current": "目前內容類型",
 	"ui_browse_report_modal_genre_label": "建議內容類型",
 	"ui_browse_report_modal_category_rating": "裸體或暴力",
-	"ui_browse_report_modal_category_rating_description": "<p>您正檢舉此桌布不恰當的赤裸或暴力的內容。</p><p>若為<b>現實世界</b>的赤裸、<b>現實世界</b>的暴力，或任何觸犯 Steam 工作坊內容規則的情形，請選取<b>禁用</b>選項。<p>若為<b>動畫或 CGI</b> 內容，請依據此表格選取適當的年齡分級：</p>",
+	"ui_browse_report_modal_category_rating_description": "<p>您正檢舉此桌布不恰當的赤裸或暴力的內容。</p><p>若為<b>現實生活</b>的赤裸、<b>現實生活</b>的暴力，或任何觸犯 Steam 工作坊內容規則的情形，請選取<b>禁止</b>選項。<p>若為<b>動畫或 CGI</b> 內容，請依據此表格選取適當的年齡分級：</p>",
 	"ui_browse_report_modal_rating_current": "目前分級",
 	"ui_browse_report_modal_rating_label": "建議分級",
 	"ui_browse_report_modal_category_copyright": "違反著作權",
