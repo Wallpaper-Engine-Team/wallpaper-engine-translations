@@ -509,7 +509,7 @@
 	"ui_browse_report_modal_genre_current": "Género atual",
 	"ui_browse_report_modal_genre_label": "Sugerir género novo",
 	"ui_browse_report_modal_category_rating": "Nudez ou violência",
-	"ui_browse_report_modal_category_rating_description": "<p>Está a denunciar este wallpaper por conter nudez ou violência desapropriadas.</p><p>Para nudez ou violência <b>realistas</b> ou quaisquer infrações graves das regras de conteúdo da Steam Workshop, selecione a opção <b>Banir</b>.<p>Para conteúdo <b>animado ou CGI</b>, selecione uma classificação etária apropriada, de acordo com esta tabela:</p>",
+	"ui_browse_report_modal_category_rating_description": "<p>Está a denunciar este wallpaper por conter nudez ou violência desapropriadas.</p><p>Para nudez ou violência <b>realistas</b> ou quaisquer infrações graves das regras de conteúdo da Steam Workshop, selecione a opção <b>BAN</b>.<p>Para conteúdo <b>animado ou CGI</b>, selecione uma classificação etária apropriada, de acordo com esta tabela:</p>",
 	"ui_browse_report_modal_rating_current": "Classificação atual",
 	"ui_browse_report_modal_rating_label": "Sugerir nova classificação",
 	"ui_browse_report_modal_category_copyright": "Violação de direitos de autor",
