@@ -42,6 +42,7 @@
 	"core_msgbox_ui_file_not_found": "Súbory programu nemôžu byť otvorené.\n\nMôžeš mať chybné znaky v ceste k inštalácii, súbor chýba alebo program môže byť blokovaný tvojím antivírusovým programom.\n\nPokúšaš sa nainštalovať Wallpaper Engine do rovnakej zložky ako [[[Platform]]] alebo vytvoriť [[[Platform]]] knižnice s jednoduchými znakmi.",
 	"core_msgbox_trial_expired_title": "Vypršala skúšobná verzia",
 	"core_msgbox_trial_expired_body": "Vypršala skúšobná verzia a služba Wallpaper Engine sa teraz zatvorí.\n\nMusíte si kúpiť Wallpaper Engine na [[[Platform]]] ak by ste ho chceli naďalej používať, ďakujeme!",
+	"core_msgbox_scene_dx10_err": "Grafická karta nepodporuje DirectX 10 alebo je grafický ovládač nefunkčný. Systém Windows hlási:",
 	"core_fatal_window_creation_failed": "Nastala chyba pri vytváraní okna pozadia. (Chyba {{error}}). Tento problém sa väčšinou stáva, keď dôjde k poškodeniu ovládačov grafickej karty. Skús vykonať čistú preinštalovaní ovládačov grafickej karty.",
 	"core_updater_title": "Aktualizátor Wallpaper Eniginu",
 	"core_updater_headline_init": "Pripravujem Wallpaper Engine...",
