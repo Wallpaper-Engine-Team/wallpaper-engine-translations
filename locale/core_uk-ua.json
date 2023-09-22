@@ -19,7 +19,7 @@
 	"core_tray_playlist_prefix": "Список відтворення:",
 	"core_balloon_info": "Wallpaper Engine ховається у трей. Два рази натисніть на іконку в треї, щоб вибрати шпалери.",
 	"core_balloon_desktop_window_error": "Помилка в підготовці робочого стола для живих шпалер.",
-	"core_balloon_video_error": "Помилка відео Windows: {{err}}. Клацніть тут, щоб отримати довідку.",
+	"core_balloon_video_error": "Помилка відео Windows: {{err}}. Натисніть тут, щоб отримати довідку.",
 	"core_balloon_app_error": "Помилка завантаження програми як шпалери.",
 	"core_balloon_pkg_version_error": "Ця шпалера потребує новішої версії Wallpaper Engine. Будь ласка, оновіть Wallpaper Engine до останньої версії з [[[Platform]]].",
 	"core_balloon_wallpaper_file_missing": "Цю шпалеру не можна відкрити, тому що їй бракує деяких файлів.",
