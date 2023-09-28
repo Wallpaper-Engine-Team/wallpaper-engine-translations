@@ -1581,7 +1581,6 @@
 	"ui_workshop_tags_local_url": "ローカルURL",
 	"ui_workshop_tags_local_image": "ローカルイメージ",
 	"ui_workshop_tags_rating_everyone": "G - 全年齢の観客",
-	"ui_workshop_tags_rating_questionable": "PG13 - 保護者の同伴および助言が必要",
 	"ui_workshop_tags_rating_mature": "R - 観覧制限",
 	"ui_workshop_tags_rating_ban": "BAN",
 	"ui_workshop_tags_visibility_public": "公開",
