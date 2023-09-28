@@ -1581,8 +1581,6 @@
 	"ui_workshop_tags_local_url": "URL local",
 	"ui_workshop_tags_local_image": "Imagem local",
 	"ui_workshop_tags_rating_everyone": "Classificação livre",
-	"ui_workshop_tags_rating_questionable": "Recomendado para +12 anos",
-	"ui_workshop_tags_rating_mature": "Recomendado para +18 anos",
 	"ui_workshop_tags_rating_ban": "BAN",
 	"ui_workshop_tags_visibility_public": "Público",
 	"ui_workshop_tags_visibility_friends_only": "Apenas amigos",
