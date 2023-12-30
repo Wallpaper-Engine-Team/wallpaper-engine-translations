@@ -42,6 +42,7 @@
 	"core_msgbox_ui_file_not_found": "لا يمكن فتح ملفات البرنامج.\n\nقد يكون لديك أحرف غير صالحة في مسار التثبيت، أو قد يكون الملف مفقودًا أو قد يتم حظر البرنامج من برنامج مكافحة الفيروسات.\n\nحاول تثبيت Wallpaper Engine في نفس مسار [[[Platform]]] أو قم بإنشاء مكتبة [[[Platform]]] بأحرف بسيطة.",
 	"core_msgbox_trial_expired_title": "إنتهت فترة النسخة التجريبية",
 	"core_msgbox_trial_expired_body": "إنتهت صلاحية النسخة التجريبية و سيتم إغلاق محرك الخلفيات.\n\nيجب عليك شراء Wallpaper Engine على [[[Platform]]] في حال إستمرار رغبتك بإستخدامه، شكرا لك!",
+	"core_msgbox_scene_dx10_err": "DirectX 10 غير مدعوم من كرت الشاشة الخاص بك، أو أن درايفر الكرت معطل. تقارير الويندوز:",
 	"core_fatal_window_creation_failed": "فشل إنشاء نافذة خلفية (خطأ {{error}}). يرتبط هذا عادةً بدرايفر الكرت اذا كان معطل. قم بإجراء إعادة تثبيت نظيفة للدرايفر وأعد تشغيل الكمبيوتر.",
 	"core_updater_title": "مُحدّث Wallpaper Engine",
 	"core_updater_headline_init": "جارِ إعداد Wallpaper Engine...",
