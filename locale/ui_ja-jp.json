@@ -1003,7 +1003,6 @@
 	"ui_editor_no_animation_modal_header": "壁紙アニメーションなし",
 	"ui_editor_no_animation_modal_body": "アニメーションがないまま壁紙をアップロードしようとしています。<b>注意</b><br/><br/>Wallpaper Engineはアニメーションの壁紙に適したソフトウェアです。静止画の場合はOSからの変更をおすすめします。<br/><br/>それでも続けますか?",
 	"ui_editor_review_info_header": "レビュープロセス",
-	"ui_editor_review_info_body": "あなたの壁紙は他のユーザーが使用する前に法などに違反していないか審査します。</b></b>もしも、変更などを加えた場合は、再び審査する必要があります。",
 	"ui_editor_workshop_eula_title": "ワークショップに関するエンドユーザー使用許諾契約が更新されました",
 	"ui_editor_workshop_eula_body": "壁紙のアップロードを実行する前に、[[[Platform]]]のワークショップに関する最新の利用規約を読んだ上で同意してください。",
 	"ui_editor_workshop_eula_button": "Steamのエンドユーザー使用許諾契約を表示",
@@ -1664,7 +1663,6 @@
 	"ui_editor_effects_modal_imagelayer_description": "画像をPCからレイヤーとしてインポートします。",
 	"ui_editor_effects_modal_textlayer_name": "テキストレイヤー",
 	"ui_editor_effects_modal_textlayer_description": "壁紙にテキストを置きます。",
-	"ui_editor_effects_modal_fullscreenlayer_name": "ポストプロセッシングレイヤー",
 	"ui_editor_effects_modal_fullscreenlayer_description": "画面全体を覆う半透明のレイヤーを追加します。このレイヤーのエフェクトは、このレイヤーよりも前に描画されたオブジェクトに適用されます。<br/><br/>このレイヤーは常に画面に対して配置されているため、壁紙と一緒に動くことはありません。画面サイズに関係なくクオリティーを最大限引き出すには、正確な配置やマスクを必要としないフルスクリーンエフェクトへの適用が推奨されます。",
 	"ui_editor_effects_modal_projectlayer_name": "フルコンポジションレイヤー",
 	"ui_editor_effects_modal_projectlayer_description": "画面全体を自動的に覆う半透明のレイヤーを追加します。このレイヤーのエフェクトは、このレイヤーよりも前に描画されたオブジェクトに適用されます。<br/><br/>このレイヤーにはポストプロセッシングレイヤーよりも高いパフォーマンスが要求されます。壁紙の配置や画面サイズに関係なく、壁紙に対してエフェクトを正確に配置したい場合のみ使用してください。",
@@ -2688,13 +2686,8 @@
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "モデルのモーフされたアニメーションが多すぎます（最大: {{maxMorphAnim}}）",
 	"ui_resourcecompiler_error_model_too_many_morph_vertices": "モデルのモーフされた頂点が多すぎます（最大: {{maxMorphVertices}}）",
 	"ui_resourcecompiler_warning_texture_cropped": "テクスチャーが推奨解像度に適応するようにクロップされました",
-	"ui_win11_23h2_contingency_modal_title": "Windows 11 23H2の互換性",
-	"ui_win11_23h2_contingency_modal_body": "Windows 11 23H2（2023年9月更新）以上を使用しているようです。Microsoftによる変更がデスクトップに行われ、Wallpaper Engineからライブ壁紙を見ることが不可能になっています。MicrosoftはWindowsの今後の更新で適切な解決策の発見に努めると説明しています。<br/><br/>それまではWallpaper Engineの使用に2つのオプションがありますが、必要なのはその内の<b>1つ</b>のみです。<br/><b>オプションA: WindowsのHDRサポートを無効化する。</b><br/><b>オプションB: HDRの有効化が必要な際は、Wallpaper EngineでWindows Explorerの再起動および変更を行う。</b><br/><br/>Wallpaper Engineを引き続き使用する場合は、WindowsでHDRを無効にするか、下の<b>OK</b>を押してWindows ExplorerによるHDRサポートの編集を許可すると、<b>Windows Explorerが再起動し</b>、PCの再起動後に毎回Wallpaper Engineが起動します。",
-	"ui_win11_23h2_contingency_settings_label": "Windows 11 23H2の互換性のためExplorerを自動的に再起動します。",
 	"ui_win32_slideshow_compat_modal_title": "Windows Slideshowの互換性",
 	"ui_win32_slideshow_compat_modal_body": "SlideshowまたはWindows SpotlightをWindowsの壁紙として使用しているようです。これによりWindowsの壁紙が定期的にWallpaper Engineの前に表示されます。<br/><br/>この問題を解決するには、Windowsの個人用設定で静止画か色を壁紙として設定してください。",
 	"ui_win32_slideshow_compat_modal_check_ignore": "警告を今後表示しない",
-	"ui_win32_slideshow_compat_settings_label": "Windows Slideshowの警告",
-	"ui_win11_23h2_contingency_tip": "HDR互換モード",
-	"ui_win11_23h2_contingency_tip_modal_message": "Windows 11 23H2（2023年9月更新）以上を使用しているようです。新しいWindows HDRの壁紙機能は現状、Wallpaper Engineと競合していますが、Microsoftは問題を今後の更新で解決すると説明しています。<br/><br/>それまでWallpaper Engineは、Windows 11の最新バージョンを使用するHDRが有効である間、特別な互換モードで実行されます。<br/><br/>この状況では一部問題が発生する可能性があるため、完全互換が再度利用可能になるまでお待ちください。この問題の対策として、WindowsでHDRを無効にすることも有効です。"
+	"ui_win32_slideshow_compat_settings_label": "Windows Slideshowの警告"
 }
