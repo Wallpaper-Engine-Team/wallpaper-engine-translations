@@ -1003,7 +1003,6 @@
 	"ui_editor_no_animation_modal_header": "Taustakuva ei animoitu",
 	"ui_editor_no_animation_modal_body": "Yrität ilmeisesti ladata kohtaustaustakuvaa, jossa ei ole animointia. <b>Tätä ei suositella.</b><br/><br/>Wallpaper Engine on optimoitu animoiduille taustakuville. Jos haluat käyttää staattista kuvaa, kannattaa valita taustakuva käyttöjärjestelmän kautta.<br/><br/>Haluatko jatkaa?",
 	"ui_editor_review_info_header": "Tarkastusprosessi",
-	"ui_editor_review_info_body": "Taustakuvasi tarkastetaan, ennen kuin muut käyttäjät pystyvät lataamaan sen, jotta voidaan varmistaa, ettei se riko lakia.<br/><br/>Jos päivität taustakuvasi, se on tarkastettava uudelleen ja se siirretään tarkastusjonon perälle.",
 	"ui_editor_workshop_eula_title": "Workshop-lisenssisopimus muuttunut",
 	"ui_editor_workshop_eula_body": "Lue ja hyväksy uusin [[[Platform]]] Workshop -tilaussopimus, ennen kuin jatkat taustakuvasi latausta:",
 	"ui_editor_workshop_eula_button": "Näytä lisenssisopimus Steamissa",
@@ -1581,7 +1580,6 @@
 	"ui_workshop_tags_local_url": "Paikallinen URL",
 	"ui_workshop_tags_local_image": "Paikallinen kuva",
 	"ui_workshop_tags_rating_everyone": "Kaikenikäisille",
-	"ui_workshop_tags_rating_questionable": "PG13 Vanhempien seurassa",
 	"ui_workshop_tags_rating_mature": "R Vain aikuisille",
 	"ui_workshop_tags_rating_ban": "KIELTO",
 	"ui_workshop_tags_visibility_public": "Julkinen",
@@ -1665,7 +1663,6 @@
 	"ui_editor_effects_modal_imagelayer_description": "Tuo kuva tietokoneeltasi.",
 	"ui_editor_effects_modal_textlayer_name": "Tekstitaso",
 	"ui_editor_effects_modal_textlayer_description": "Sijoita tekstiä taustakuvaan.",
-	"ui_editor_effects_modal_fullscreenlayer_name": "Jälkikäsittelytaso",
 	"ui_editor_effects_modal_fullscreenlayer_description": "Lisää läpikuultava taso, joka peittää koko näytön. Kaikki tälle tasolle lisätyt tehosteet vaikuttavat myös kohteisiin, jotka on lisätty näytölle ennen tätä tasoa.<br/><br/>Tämä taso tasataan aina näytölle, eikä se liiku taustakuvan mukana. Sitä tulisi käyttää koko näytön tehosteiden kanssa, jotka eivät edellytä tarkkaa tasusta tai maskeja. Näin saavutetaan paras mahdollinen laatu näytön koosta riippumatta.",
 	"ui_editor_effects_modal_projectlayer_name": "Täysi yhdistelmätaso",
 	"ui_editor_effects_modal_projectlayer_description": "Lisää läpikuultava taso, joka peittää koko taustakuvan automaattisesti. Kaikki tälle tasolle lisätyt tehosteet vaikuttavat myös kohteisiin, jotka on lisätty näytölle ennen tätä tasoa.<br/><br/>Tämä taso vaatii enemmän suorituskykyä kuin jälkikäsittelytaso, ja sitä tulee käyttää vain, jos haluat tasata tehosteita tarkasti taustakuvan kanssa taustakuvan tasauksesta tai näytön koosta riippumatta.",
@@ -2689,13 +2686,8 @@
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "Mallilla on liikaa muunneltua animaatiota (enim.määrä on {{maxMorphAnim}})",
 	"ui_resourcecompiler_error_model_too_many_morph_vertices": "Mallilla on liikaa muunneltuja verteksejä (enim.määrä on {{maxMorphVertices}})",
 	"ui_resourcecompiler_warning_texture_cropped": "Tekstuurisi on rajattu suositeltuun resoluutioon sopivaksi",
-	"ui_win11_23h2_contingency_modal_title": "Windows 11 23H2 -yhteensopivuus",
-	"ui_win11_23h2_contingency_modal_body": "Näyttää siltä, että käytät Windows 11 23H2 (syyskuun 2023 päivitys) tai uudempaa versiota. Microsoft on tehnyt työpöydällesi muutoksia, joiden vuoksi Wallpaper Enginen live-taustakuvia ei voi nähdä. Microsoft on ilmoittanut, että he yrittävät löytää kunnollisen ratkaisun tulevassa Windows-päivityksessä. <br/><br/>Siihen saakka on kaksi vaihtoehtoa saada Wallpaper Engine toimimaan. Tarvitset vain <b>jommankumman</b> näistä:<br/><b>Vaihtoehto A: Poista HDR-tuki Windowsista käytöstä.</b><br/><b>Vaihtoehto B: Tai anna Wallpaper Enginen käynnistyä uudelleen ja muuttaa Windows Exploreria tarvittaessa HDR:n ollessa käytössä. </b><br/><br/><br/>Jos haluat jatkaa Wallpaper Enginen käyttöä, kytke joko HDR pois päältä Windowsissa tai paina <b>OK</b> alla, jotta Windows Explorerin muokkaukset sallitaan HDR-tuelle. <b>Windows Explorer käynnistyy uudelleen nyt</b> ja joka kerta, kun Wallpaper Engine käynnistyy tietokoneen uudelleenkäynnistyksen jälkeen.",
-	"ui_win11_23h2_contingency_settings_label": "Käynnistä Explorer automaattisesti uudelleen Windows 11 23H2 -yhteensopivuustilassa.",
 	"ui_win32_slideshow_compat_modal_title": "Windows Slideshow -yhteensopivuus",
 	"ui_win32_slideshow_compat_modal_body": "Näyttää siltä, että käytät taustakuvana Slideshowta tai Windows Spotlightia. Tämän vuoksi Windows-taustakuvasi ilmestyy ajoittain Wallpaper Enginen eteen.<br/><br/>Valitse Windowsin taustakuvaksi staattinen kuva tai väri Windowsin yksilöintiasetuksissa, jotta ongelma ratkeaisi.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "Älä varoita uudelleen",
-	"ui_win32_slideshow_compat_settings_label": "Ilmoita ja pyydä poistamaan Windows Slideshow käytöstä:",
-	"ui_win11_23h2_contingency_tip": "HDR-yhteensopivuustila",
-	"ui_win11_23h2_contingency_tip_modal_message": "Näyttää siltä, että käytät Windows 11 23H2 (syyskuun 2023 päivitys) tai uudempaa versiota. Windowsin uusi HDR-taustakuvausominaisuus on tällä hetkellä ristiriidassa Wallpaper Enginen kanssa, mutta Microsoft on ilmoittanut, että tämä ongelma ratkaistaan tulevassa päivityksessä.<br/><br/>Sillä välin Wallpaper Engine toimii erikoisyhteensopivuustilassa, kun HDR otetaan käyttöön Windows 11:n uusimmassa versiossa.<br/><br/>Tässä tilanteessa on odotettavissa muutamia ongelmia. Odota, että täysi yhteensopivuus on jälleen mahdollista. HDR:n kytkeminen pois päältä Windowsissa on myös yksi vaihtoehto tämän ongelman kiertämiseksi."
+	"ui_win32_slideshow_compat_settings_label": "Ilmoita ja pyydä poistamaan Windows Slideshow käytöstä:"
 }
