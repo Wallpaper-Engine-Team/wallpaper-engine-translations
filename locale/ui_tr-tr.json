@@ -1003,7 +1003,6 @@
 	"ui_editor_no_animation_modal_header": "Duvar Kağıdı Hareketli Değil",
 	"ui_editor_no_animation_modal_body": "Animasyonsuz bir sahne duvar kağıdı yüklemeye çalışıyor gibi görünüyorsunuz. <b>Bu önerilmez.</b><br/><br/>Wallpaper Engine animasyonlu duvar kağıtları için en iyi hale getirilmiştir, bu yüzden sadece sabit bir görüntü kullanmak istiyorsanız, işletim sisteminizi bu durumda kullanmanız önerilir.<br/><br/>Yine de devam etmek istiyor musunuz?",
 	"ui_editor_review_info_header": "İşlemi Gözden Geçir",
-	"ui_editor_review_info_body": "Herhangi bir yerel yasanın ihlal edilmediğinden emin olmak için duvar kağıdınız diğer kullanıcılar tarafından bulunmadan ve indirilmeden önce gözden geçirilecektir.<br/><br/>Eğer duvar kağıdınızı güncellerseniz, tekrar gözden geçirilmek zorundadır ve tekrar sıraya alınır.",
 	"ui_editor_workshop_eula_title": "Değişikliğe Uğramış Atölye EULA Sözleşmesi",
 	"ui_editor_workshop_eula_body": "Duvar kağıdınızı yükleme işlemine devam etmeden önce lütfen en son [[[Platform]]] Atölye Abonelik Sözleşmesini inceleyin ve kabul edin:",
 	"ui_editor_workshop_eula_button": "Steam'de EULA Sözleşmesini Görüntüle",
@@ -1665,7 +1664,6 @@
 	"ui_editor_effects_modal_imagelayer_description": "Bilgisayarınızdan bir resmi içe aktarın.",
 	"ui_editor_effects_modal_textlayer_name": "Metin Katmanı",
 	"ui_editor_effects_modal_textlayer_description": "Metni duvar kağıdına yerleştir.",
-	"ui_editor_effects_modal_fullscreenlayer_name": "Son İşleme Katmanı",
 	"ui_editor_effects_modal_fullscreenlayer_description": "Tüm ekranı kaplayan yarı saydam bir katman ekleyin. Bu katmana uygulanan herhangi bir efekt, bu katmandan önce ekrana çizilen nesneleri etkileyecek.<br/><br/>Bu katman her zaman ekrana hizalanacak ve duvar kağıdı ile hareket etmeyecek. Ekran boyutundan bağımsız olarak en iyi kaliteyi elde etmek için hassas hizalama veya maskeleme gerektirmeyen tam ekran efektleri için kullanılmalıdır.",
 	"ui_editor_effects_modal_projectlayer_name": "Tam Kompozisyon Katmanı",
 	"ui_editor_effects_modal_projectlayer_description": "Tüm ekranı otomatik olarak kaplayan yarı saydam bir katman ekleyin. Bu katmana uygulanan herhangi bir efekt, bu katmandan önce ekrana çizilen nesneleri etkiler.<br/><br/>Bu katman, son işleme katmanından daha fazla performans gerektirir ve duvar kâğıdı hizalamasından veya ekran boyutundan bağımsız bir şekilde efektleri duvar kağıdıyla hizalamak istediğinizde kullanılmalıdır.",
@@ -2689,13 +2687,8 @@
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "Modelde çok fazla dönüşüm animasyonu var (maksimum {{maxMorphAnim}})",
 	"ui_resourcecompiler_error_model_too_many_morph_vertices": "Modelde çok fazla biçimlendirilmiş köşe var (maksimum {{maxMorphVertices}})",
 	"ui_resourcecompiler_warning_texture_cropped": "Dokunuz önerilen çözünürlüğe uyacak şekilde kırpıldı",
-	"ui_win11_23h2_contingency_modal_title": "Windows 11 23H2 Uyumluluğu",
-	"ui_win11_23h2_contingency_modal_body": "Görünüşe göre Windows 11 23H2 (Eylül 2023 güncellemesi) veya sonrasını kullanıyorsunuz. Microsoft, masaüstünüzde, Wallpaper Engine’in canlı duvar kağıtlarını görmeyi imkansız hale getiren değişiklikler yaptı. Microsoft, gelecekteki bir Windows güncellemesinde uygun bir çözüm bulmaya çalışacaklarını açıkladı.<br/><br/>O zamana kadar Wallpaper Engine’i çalıştırmak için iki seçenek var. Bunlardan yalnızca <b>birine</b> ihtiyacınız var:<br/><b>Seçenek A: Windows’ta HDR desteğini etkisizleştirin.</b><br/><b>Seçenek B: Veya HDR etkinleştirildiğinde, Wallpaper Engine’in gerektiğinde Dosya Gezgini’ni yeniden başlatmasına ve değiştirmesine izin verin.</b><br/><br/>Wallpaper Engine’i kullanmaya devam etmek için Windows’ta HDR’yi kapatın veya HDR desteği için Dosya Gezgini değişikliklerini etkinleştirmek amacıyla aşağıdaki <b>TAMAM</b>’a basın, <b>Dosya Gezgini şimdi yeniden başlatılacak</b> ve her seferinde Wallpaper Engine, PC yeniden başladıktan sonra başlar.",
-	"ui_win11_23h2_contingency_settings_label": "Windows 11 23H2 uyumluluğu için Gezgin’i otomatik olarak yeniden başlatın.",
 	"ui_win32_slideshow_compat_modal_title": "Windows Slayt Gösterisi Uyumluluğu",
 	"ui_win32_slideshow_compat_modal_body": "Görünüşe göre Windows duvar kağıdınız olarak Slayt Gösterisi veya Windows Spot Işığı kullanıyorsunuz. Bu, Windows duvar kağıdınızın belirli aralıklarla Wallpaper Engine’in önünde görünmesine neden olacak.<br/><br/>Bu sorunu çözmek için lütfen Windows kişiselleştirme ayarlarında Windows duvar kağıdınız olarak sabit bir resim veya renk seçin.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "Bir daha uyarma",
-	"ui_win32_slideshow_compat_settings_label": "Windows Slayt Gösterisini etkisizleştirmek için istem:",
-	"ui_win11_23h2_contingency_tip": "HDR Uyumluluk Modu",
-	"ui_win11_23h2_contingency_tip_modal_message": "Görünüşe göre Windows 11 23H2 (Eylül 2023 güncellemesi) veya sonrasını kullanıyorsunuz. Yeni Windows HDR duvar kağıdı özelliği şu anda Wallpaper Engine ile çakışıyor ancak Microsoft, bu sorunun gelecekteki bir güncellemede çözüleceğini açıkladı.<br/><br/>Bu arada, Windows 11'in en son sürümü kullanılarak HDR açıldığında, Wallpaper Engine özel bir uyumluluk modunda çalışacaktır.<br/><br/>Bu durumda birkaç sorun beklenebilir, lütfen tam uyumluluğun yeniden mümkün olmasını bekleyin. Windows'ta HDR'yi kapatmak da bu soruna geçici bir çözüm bulmak için bir seçenektir."
+	"ui_win32_slideshow_compat_settings_label": "Windows Slayt Gösterisini etkisizleştirmek için istem:"
 }
