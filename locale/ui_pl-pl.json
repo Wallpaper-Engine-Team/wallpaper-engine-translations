@@ -1003,7 +1003,6 @@
 	"ui_editor_no_animation_modal_header": "Tapeta nie jest animowana",
 	"ui_editor_no_animation_modal_body": "Wygląda na to, że chcesz wysłać tapetę bez animacji. <b>Nie jest to zalecane.</b><br/><br/>Program Wallpaper Engine jest zoptymalizowany dla animowanych tapet, więc jeśli chcesz użyć statycznego obrazu, zalecane jest użycie w tym celu systemu operacyjnego.<br/><br/>Czy chcesz kontynuować mimo to?",
 	"ui_editor_review_info_header": "Proces weryfikacji",
-	"ui_editor_review_info_body": "Twoja tapeta zostanie zweryfikowana, zanim inni użytkownicy będą mogli ją znaleźć i pobrać, aby upewnić się, że nie narusza żadnych lokalnych przepisów.<br/><br/>Jeśli zaktualizujesz swoją tapetę, musi ona zostać zweryfikowana ponownie i znajdzie się na końcu kolejki weryfikacyjnej.",
 	"ui_editor_workshop_eula_title": "Zmiana EULA Warsztatu",
 	"ui_editor_workshop_eula_body": "Przeczytaj i zaakceptuj najnowszą umowę użytkownika Warsztatu [[[Platform]]] przed kontynuowaniem przesyłania tapety:",
 	"ui_editor_workshop_eula_button": "Pokaż EULA na platformie Steam",
@@ -1665,7 +1664,6 @@
 	"ui_editor_effects_modal_imagelayer_description": "Importuj obraz z komputera.",
 	"ui_editor_effects_modal_textlayer_name": "Warstwa tekstu",
 	"ui_editor_effects_modal_textlayer_description": "Umieść tekst na tapecie.",
-	"ui_editor_effects_modal_fullscreenlayer_name": "Warstwa przetwarzania końcowego",
 	"ui_editor_effects_modal_fullscreenlayer_description": "Dodaj prześwitującą warstwę, która pokrywa cały ekran. Wszystkie efekty zastosowane na tej warstwie będą miały wpływ na obiekty narysowane na ekranie przed powstaniem tej warstwy.<br/><br/>Ta warstwa zawsze będzie wyrównana z ekranem i nie będzie się przesuwać razem z tapetą. Należy z niej korzystać w przypadku efektów pełnoekranowych, których nie trzeba precyzyjnie dopasowywać, lub masek, aby uzyskać najlepszą jakość niezależnie od wielkości ekranu.",
 	"ui_editor_effects_modal_projectlayer_name": "Warstwa pełnej kompozycji",
 	"ui_editor_effects_modal_projectlayer_description": "Dodaj prześwitującą warstwę, która automatycznie pokrywa całą tapetę. Wszystkie efekty zastosowane na tej warstwie będą miały wpływ na obiekty narysowane przed powstaniem tej warstwy.<br/><br/>Ta warstwa zawsze wymaga większej mocy obliczeniowej niż warstwa przetwarzania końcowego i należy z niej korzystać tylko wtedy, gdy chcemy precyzyjnie dopasować efekty do tapety niezależnie od jej wyrównania lub wielkości ekranu.",
@@ -2689,13 +2687,8 @@
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "Model ma zbyt wiele animacji morfingu (maksymalna liczba to {{maxMorphAnim}}).",
 	"ui_resourcecompiler_error_model_too_many_morph_vertices": "Model ma zbyt wiele przemienionych wierzchołków (maksymalna liczba to {{maxMorphVertices}}).",
 	"ui_resourcecompiler_warning_texture_cropped": "Twoja tekstura została przycięta w celu dopasowania do zalecanej rozdzielczości.",
-	"ui_win11_23h2_contingency_modal_title": "Kompatybilność z Windows 11 23H2",
-	"ui_win11_23h2_contingency_modal_body": "Wygląda na to, że używasz Windows 11 23H2 (aktualizacja z września 2023 r.) lub nowszej wersji. Firma Microsoft wprowadziła na twoim komputerze zmiany sprawiające, że nie możesz zobaczyć animowanych tapet od Wallpaper Engine. Producent systemu wyjaśnił, że postara się znaleźć odpowiednie rozwiązanie tego problemu w przyszłej aktualizacji Windows.<br/><br/>Do tego czasu istnieją dwa sposoby, by umożliwić działanie Wallpaper Engine. Będziesz potrzebować tylko <b>jednego</b> z nich:<br/><b>Opcja A: wyłącz obsługę HDR w systemie Windows.</b><br/><b>Opcja B: pozwól Wallpaper Engine zrestartować i zmodyfikować Windows Explorer, gdy będzie to konieczne, z włączonym HDR.</b><br/><br/>Aby dalej korzystać z Wallpaper Engine, wyłącz HDR w systemie Windows lub naciśnij <b>OK</b> poniżej, by wprowadzić w Windows Explorer modyfikacje dotyczące obsługi HDR. Twój <b>Windows Explorer uruchomi się ponownie teraz</b> i za każdym razem przy włączeniu Wallpaper Engine po zrestartowaniu komputera.",
-	"ui_win11_23h2_contingency_settings_label": "Automatycznie zrestartuj Explorer dla kompatybilności z Windows 11 23H2.",
 	"ui_win32_slideshow_compat_modal_title": "Kompatybilność z Windows Slideshow",
 	"ui_win32_slideshow_compat_modal_body": "Wygląda na to, że używasz Slideshow lub Windows Spotlight jako swojej tapety Windows. Sprawi to, że przed Wallpaper Engine będzie co jakiś czas pojawiać się twoja tapeta Windows.<br/><br/>Wybierz statyczny obraz lub kolor jako swoją tapetę Windows w ustawieniach personalizacji Windows, by rozwiązać ten problem.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "Nie ostrzegaj ponownie",
-	"ui_win32_slideshow_compat_settings_label": "Ostrzeżenie o Windows Slideshow:",
-	"ui_win11_23h2_contingency_tip": "Tryb zgodności z HDR",
-	"ui_win11_23h2_contingency_tip_modal_message": "Wygląda na to, że używasz systemu Windows 11 23H2 (wersja z września 2023 roku) lub nowszego. Niedawno dodana funkcja tapet HDR obecnie nie jest kompatybilna z programem Wallpaper Engine, ale Microsoft poinformował nas już, że ten problem zostanie rozwiązany w jednej z przyszłych aktualizacji.<br/><br/>W międzyczasie Wallpaper Engine będzie w specjalnym trybie zgodności, gdy HDR zostanie włączone na najnowszej wersji systemu Windows 11.<br/><br/>Może się to wiązać z pewnymi błędami, więc prosimy o cierpliwość do czasu całkowitego rozwiązania problemu. Tymczasowym obejściem go jest także wyłączenie funkcji HDR."
+	"ui_win32_slideshow_compat_settings_label": "Ostrzeżenie o Windows Slideshow:"
 }
