@@ -1003,7 +1003,6 @@
 	"ui_editor_no_animation_modal_header": "Skrivebordsbaggrund er ikke animeret",
 	"ui_editor_no_animation_modal_body": "Det ser ud til, at du forsøger at uplade en scenisk skrivebordsbaggrund uden animationer. <b>Det anbefales ikke.</b><br/><br/>Wallpaper Engine er optimeret til animerede skrivebordsbaggrunde, så hvis du kun vil bruge et statisk billede anbefales det, at du i stedet bruger dit styresystem.<br/><br/>Vil du fortsætte alligevel?",
 	"ui_editor_review_info_header": "Gennemse proces",
-	"ui_editor_review_info_body": "Din skrivebordsbaggrund bliver gennemset inden andre bruger kan finde eller downloade den for at sikre, at den ikke bryder lokal lovgivning.<br/><br/>Hvis du opdaterer din skrivebordsbaggrund, skal den gennemses igen og rykkes tilbage i køen.",
 	"ui_editor_workshop_eula_title": "EULA for Værksted er blevet ændret",
 	"ui_editor_workshop_eula_body": "Gennemse og accepter den seneste [[[Platform]]] værksted--abonnementsaftale, så du kan fortsætte med overførselsprocessen af din baggrund:",
 	"ui_editor_workshop_eula_button": "Vis EULA på Stream",
@@ -1665,7 +1664,6 @@
 	"ui_editor_effects_modal_imagelayer_description": "Importer et billede fra din computer.",
 	"ui_editor_effects_modal_textlayer_name": "Tekstlag",
 	"ui_editor_effects_modal_textlayer_description": "Placer tekst på skrivebordsbaggrund.",
-	"ui_editor_effects_modal_fullscreenlayer_name": "Efterbehandlingslag",
 	"ui_editor_effects_modal_fullscreenlayer_description": "Tilføj et gennemsigtigt lag, som dækker hele skærmen. Alle effekter lavet på dette lag vil påvirke objekter der er trukket ind på skærmen inden dette lag.<br/><br/>Dette lag vil altid være tilpasset skærmen og vil ikke bevæge sig med baggrunden. Det bør bruges til effekter i fuld skærm, der ikke kræver præcis tilpasning eller masker, således at der opnås den bedste kvalitet uafhængigt af skærmstørrelse.",
 	"ui_editor_effects_modal_projectlayer_name": "Fuld kompositionslag",
 	"ui_editor_effects_modal_projectlayer_description": "Tilføj et gennemsigtigt lag, som dækker hele skærmen. Alle effekter lavet på dette lag vil påvirke objekter der er trukket ind på skærmen inden dette lag.<br/><br/>Dette lag kræver højere ydeevne end efterbehandlingslaget og bør kun bruges, hvis du vil tilpasse effekter korrekt med baggrunden, uafhængigt af tilpasning af baggrund og skærmstørrelse.",
@@ -2689,13 +2687,8 @@
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "Modellen har for mange morph-animationer (maks. {{maxMorphAnim}})",
 	"ui_resourcecompiler_error_model_too_many_morph_vertices": "Modellen har for mange deformerede hjørner (maks.{{maxMorphVertices}})",
 	"ui_resourcecompiler_warning_texture_cropped": "Teksturen er blevet beskåret, så den passer til den anbefalede opløsning",
-	"ui_win11_23h2_contingency_modal_title": "Kompatibilitet med Windows 11 23H2",
-	"ui_win11_23h2_contingency_modal_body": "Det ser ud til, at du bruger Windows 11 23H2 (opdatering september 2023) eller nyere. Microsoft har ændret dit skrivebord, hvilket gør det umuligt at vise Wallpaper Engine dynamiske baggrunde. Microsoft har lovet at rette dette i en fremtidig Windows-opdatering.<br/><br/>Indtil da er der to muligheder for at få Wallpaper Engine til at fungere igen. Du <b>skal kun bruge én</b> af disse løsninger:<br/><b>Løsning 1: Deaktiver HDR i Indstillinger for Windowsr.</b><br/><b>Løsning 2: Eller tillad Wallpaper Engine at genstarte Explorer og ændre den til at fungere med HDR igen.</b><br/><br/>For at fortsætte med at bruge Wallpaper Engine skal du enten slå HDR fra i Windows eller trykke på <b>OK </b> nedenfor for at tillade ændring af Windows stifinder. <b>Windows stifinder genstarter derefter</b>, samt hver gang Wallpaper Engine startes efter genstart af PC'en.",
-	"ui_win11_23h2_contingency_settings_label": "Automatisk genstart af Explorer for Windows 11 23H2-kompatibilitet.",
 	"ui_win32_slideshow_compat_modal_title": "Kompatibilitet med Windows Slideshow",
 	"ui_win32_slideshow_compat_modal_body": "Det ser ud til, at du bruger et diasshow eller Windows Spotlight som din Windows-baggrund. Dette vil medføre, at din Windows-baggrund med jævne mellemrum vises foran Wallpaper Engine.<br/><br/>Vælg et normalt billede eller en normal farve som Windows-baggrund i Indstillinger for Windows for at løse dette problem.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "Advar ikke igen",
-	"ui_win32_slideshow_compat_settings_label": "Advarsel om Windows Slideshow:",
-	"ui_win11_23h2_contingency_tip": "HDR-kompatibilitetstilstand",
-	"ui_win11_23h2_contingency_tip_modal_message": "Det ser ud til, at du bruger Windows 11 23H2 (opdatering september 2023) eller nyere. Den nye funktion til Windows HDR-skrivebordsbaggrunde er i øjeblikket i konflikt med Wallpaper Engine. Microsoft har dog udtalt, at dette problem vil blive løst i en fremtidig opdatering.<br/><br/>Indtil da vil Wallpaper Engine køre i en særlig kompatibilitetstilstand, så længe HDR er aktiveret med den nyeste Windows 11-version.<br/><br/>Der kan være nogle mindre tekniske problemer, så vent venligst på fuld kompatibilitet i løbet af den nævnte Windows-opdatering. Du kan også vælge slå HDR helt fra i Windows-indstillingerne for at undgå eventuelle problemer indtil videre."
+	"ui_win32_slideshow_compat_settings_label": "Advarsel om Windows Slideshow:"
 }
