@@ -1003,7 +1003,6 @@
 	"ui_editor_no_animation_modal_header": "Papel de parede não animado",
 	"ui_editor_no_animation_modal_body": "Parece que você está tentando enviar um papel de parede de cena sem animação. <b>Isso não é recomendado.</b><br/><br/>O Wallpaper Engine é otimizado para planos de fundo animados, logo caso queira apenas usar uma imagem estática como papel de parede, é recomendável usar os recursos do seu sistema operacional para isso.<br/><br/>Deseja continuar mesmo assim?",
 	"ui_editor_review_info_header": "Processo de análise",
-	"ui_editor_review_info_body": "Seu papel de parede deve ser analisado antes de outros usuários possam encontra-lo e baixa-lo para assegurar que ele não viola nenhuma lei local.</b></b>Se você atualizar seu walpaper, ele terá que ser analisado novamente e isso pode leva-lo de volta para o final da fila.",
 	"ui_editor_workshop_eula_title": "Licença de Software da Oficina foi alterada",
 	"ui_editor_workshop_eula_body": "Leia e aceite o [[[Platform]]] Acordo de Assinatura da Oficina mais recente antes de fazer o upload do seu papel de parede:",
 	"ui_editor_workshop_eula_button": "Exibir Licença de Software no Steam",
@@ -1663,7 +1662,6 @@
 	"ui_editor_effects_modal_imagelayer_description": "Importa uma imagem do seu computador.",
 	"ui_editor_effects_modal_textlayer_name": "Camada de texto",
 	"ui_editor_effects_modal_textlayer_description": "Coloque texto no papel de parede.",
-	"ui_editor_effects_modal_fullscreenlayer_name": "Camada de pós-processamento",
 	"ui_editor_effects_modal_fullscreenlayer_description": "Adiciona uma camada translúcida que cobre toda a tela. Todos os efeitos aplicados nesta camada afetam os objetos desenhados na tela antes desta camada.<br/><br/>Esta camada ficará sempre alinhada à tela e não se moverá com o papel de parede. Deve ser usada para efeitos de tela cheia que não exigem alinhamento preciso nem máscaras para obter a melhor qualidade independentemento do tamanho da tela.",
 	"ui_editor_effects_modal_projectlayer_name": "Camada de composição cheia",
 	"ui_editor_effects_modal_projectlayer_description": "Adiciona uma camada translúcida que cobre automaticamente todo o papel de parede. Todos os efeitos aplicados nesta camada afetam os objetos desenhados antes desta camada.<br/><br/>Esta camada exige mais desempenho do que a camada de pós-processamento e só deve ser usada se você quiser alinhar os efeitos com precisão junto ao papel de parede, independentemente do alinhamento do papel de parede ou do tamanho da tela.",
@@ -2687,13 +2685,8 @@
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "O modelo tem muitas animações de transformação (máximo de {{maxMorphAnim}})",
 	"ui_resourcecompiler_error_model_too_many_morph_vertices": "O modelo tem muitos vértices transformados (máximo de {{maxMorphVertices}})",
 	"ui_resourcecompiler_warning_texture_cropped": "Sua textura foi cortada para se encaixar na resolução recomendada",
-	"ui_win11_23h2_contingency_modal_title": "Compatibilidade com o Windows 11 23H2",
-	"ui_win11_23h2_contingency_modal_body": "Parece que você está usando o Windows 11 23H2 (Atualização de setembro de 2023) ou posterior. A Microsoft fez modificações no seu desktop que tornam impossível ver papéis de parede animados do Wallpaper Engine. A Microsoft explicou que tentará encontrar uma solução adequada em uma atualização futura do Windows.<br/><br/>Até lá, há duas opções para fazer o Wallpaper Engine funcionar. Você só precisa de <b>uma</b> delas:<br/><b>Opção A: Desativar o suporte HDR no Windows.</b><br/><b>Opção B: Permitir que o Wallpaper Engine reinicie e altere o Windows Explorer quando necessário com o HDR ativado.</b><br/><br/>Para continuar usando o Wallpaper Engine, desligue o HDR no Windows ou pressione <b>OK</b> abaixo para permitir modificações do Windows Explorer para o suporte HDR, onde o <b>Windows Explorer será reiniciado agora</b> e toda vez que o Wallpaper Engine for inicializado depois de reiniciar o PC.",
-	"ui_win11_23h2_contingency_settings_label": "Reiniciar automaticamente o Explorer para a compatibilidade com o Windows 11 23H2.",
 	"ui_win32_slideshow_compat_modal_title": "Compatibilidade com a Apresentação de Slides do Windows",
 	"ui_win32_slideshow_compat_modal_body": "Parece que você está usando uma Apresentação de Slides ou o Destaque do Windows como seu papel de parede do Windows. Isso fará com que o papel de parede do Windows apareça periodicamente em frente ao Wallpaper Engine.<br/><br/>Escolha uma imagem estática ou cor como papel de parede do Windows nas configurações de personalização do Windows para resolver esse problema.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "Não avisar novamente",
-	"ui_win32_slideshow_compat_settings_label": "Aviso para desativar a Apresentação de Slides do Windows:",
-	"ui_win11_23h2_contingency_tip": "Modo de Compatibilidade com HDR",
-	"ui_win11_23h2_contingency_tip_modal_message": "Parece que você está usando o Windows 11 23H2 (atualização de setembro de 2023) ou posterior. A nova funcionalidade de papel de parede HDR do Windows está neste momento em conflito com o Wallpaper Engine, mas a Microsoft esclareceu que este problema será resolvido numa futura atualização.<br/><br/>Entretanto, o Wallpaper Engine será executado em um modo especial de compatibilidade quando o HDR estiver ativado utilizando a versão mais recente do Windows 11.<br/><br/>Alguns problemas são esperados nessa situação. Aguarde até que a compatibilidade total seja possível novamente. Desativar o HDR no Windows também é uma opção para solucionar esse problema."
+	"ui_win32_slideshow_compat_settings_label": "Aviso para desativar a Apresentação de Slides do Windows:"
 }
