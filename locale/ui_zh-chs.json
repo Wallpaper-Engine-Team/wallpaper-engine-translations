@@ -1003,7 +1003,6 @@
 	"ui_editor_no_animation_modal_header": "壁纸未制成动画",
 	"ui_editor_no_animation_modal_body": "似乎您正试着上传一个不含动画的场景壁纸。<b>我们不推荐您这么做。</b><br/><br/>Wallpaper Engine 是为动画壁纸而优化的，所以如果您只想使用静态图片，建议使用您的操作系统来处理。<br/><br/>您真的想继续？",
 	"ui_editor_review_info_header": "审核过程",
-	"ui_editor_review_info_body": "您的壁纸将在其他用户找到并下载之前进行审查，以确保不会违反任何当地法律。<br/><br/>如果您更新了壁纸，则必须对此再次进行审查。",
 	"ui_editor_workshop_eula_title": "创意工坊最终用户许可协议已更改",
 	"ui_editor_workshop_eula_body": "请先查看并接受最新的 [[[Platform]]] 创意工坊订户协议，然后才能继续上传壁纸：",
 	"ui_editor_workshop_eula_button": "在 Steam 上显示最终用户许可协议",
@@ -1665,7 +1664,6 @@
 	"ui_editor_effects_modal_imagelayer_description": "从您的电脑中导入图片。",
 	"ui_editor_effects_modal_textlayer_name": "文本",
 	"ui_editor_effects_modal_textlayer_description": "在壁纸中添加文本。",
-	"ui_editor_effects_modal_fullscreenlayer_name": "后处理层",
 	"ui_editor_effects_modal_fullscreenlayer_description": "添加覆盖整个屏幕的半透明图层。应用于此图层的任何效果都将影响在此图层之前已绘制到屏幕的对象。<br/><br/>此图层将始终与屏幕对齐，而且不会随壁纸一起移动。它应该用于不需要精确对齐或蒙板的全屏效果，以获得独立于屏幕尺寸的最佳质量。",
 	"ui_editor_effects_modal_projectlayer_name": "全组合层",
 	"ui_editor_effects_modal_projectlayer_description": "添加自动覆盖整张壁纸的半透明图层。应用于此图层的任何效果都将影响在此图层之前已绘制的对象。<br/><br/>此图层需要比后处理层更高的性能，仅当您希望将效果与壁纸准确对齐时才应使用，而且其使用独立于壁纸对齐或屏幕尺寸。",
@@ -2689,13 +2687,8 @@
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "模型的变形动画过多（最大值为 {{maxMorphAnim}}）",
 	"ui_resourcecompiler_error_model_too_many_morph_vertices": "模型的变形顶点过多（最大值为 {{maxMorphVertices}}）",
 	"ui_resourcecompiler_warning_texture_cropped": "您的纹理已裁剪，以适应推荐的分辨率",
-	"ui_win11_23h2_contingency_modal_title": "Windows 11 23H2 兼容性",
-	"ui_win11_23h2_contingency_modal_body": "似乎您使用的是 Windows 11 23H2（2023 年 9 月更新）或更高版本。Microsoft 已对您的桌面进行了修改，导致您无法从 Wallpaper Engine 中查看实时壁纸。Microsoft 解释说，他们将尝试在未来的 Windows 更新中找到适当的解决方案。<br/><br/>在此之前，有两种选项可以让 Wallpaper Engine 正常使用。您只需选择其中<b>一种</b>：<br/><b>选项 A：禁用 Windows 中的 HDR 支持。</b><br/><b>选项 B：或在启用 HDR 时，允许 Wallpaper Engine 在必要时重新启动并更改 Windows 资源管理器。</b><br/><br/>要继续使用 Wallpaper Engine，请关闭 Windows 中的 HDR 或按下面的<b>确定键</b> 启用 Windows 资源管理器修改以获得 HDR 支持，您的<b>Windows 资源管理器将立即重新启动</b>，以及每次重新启动电脑后启动 Wallpaper Engine 时同样会重新启动。",
-	"ui_win11_23h2_contingency_settings_label": "自动重启资源管理器，兼容 Windows 11 23H2。",
 	"ui_win32_slideshow_compat_modal_title": "Windows 幻灯片兼容性",
 	"ui_win32_slideshow_compat_modal_body": "您似乎正在使用幻灯片或 Windows Spotlight 作为 Windows 壁纸。这将导致您的 Windows 壁纸定期出现在 Wallpaper Engine 的前面。<br/><br/>要解决此问题，请在 Windows 个性化设置中选择静态图片或颜色作为 Windows 墙纸。",
 	"ui_win32_slideshow_compat_modal_check_ignore": "不再发出警告",
-	"ui_win32_slideshow_compat_settings_label": "提示禁用 Windows 幻灯片：",
-	"ui_win11_23h2_contingency_tip": "HDR 兼容模式",
-	"ui_win11_23h2_contingency_tip_modal_message": "似乎您使用的是 Windows 11 23H2（2023 年 9 月更新）或更高版本。新的 Windows HDR 壁纸功能目前与 Wallpaper Engine 存在冲突，但 Microsoft 解释说，这一问题将在未来的更新中得到解决。<br/><br/>同时，当使用最新版本的 Windows 11 打开 HDR 时，Wallpaper Engine 将以特殊的兼容模式运行。<br/><br/>在这种情况下可能会出现一些问题，请等待完全兼容版本。关闭 Windows 中的 HDR 也是解决此问题的一个选项。"
+	"ui_win32_slideshow_compat_settings_label": "提示禁用 Windows 幻灯片："
 }
