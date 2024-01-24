@@ -1661,6 +1661,7 @@
 	"ui_editor_scene_options_end": "Bitiş",
 	"ui_editor_scene_options_color": "Renk",
 	"ui_editor_scene_options_start_density": "Başlangıç ​​yoğunluğu",
+	"ui_editor_scene_options_end_density": "Bitiş yoğunluk",
 	"ui_editor_import_adjust_projection_center": "Duvar kağıdı boyutunu ve merkezini ayarlama",
 	"ui_editor_preview_shader_reload": "Gölgelendiricileri yeniden yapılandır",
 	"ui_editor_layer_solid": "Katı",
@@ -2084,6 +2085,7 @@
 	"ui_editor_properties_depth_test": "Derinlik testi",
 	"ui_editor_properties_depth_write": "Derinlik yazma",
 	"ui_editor_properties_deselect_all": "Tüm seçimleri kaldır",
+	"ui_editor_properties_detail": "Ayrıntı",
 	"ui_editor_properties_detection_multiply": "Algılama çarpımı",
 	"ui_editor_properties_detection_size": "Algılama boyutu",
 	"ui_editor_properties_detection_threshold": "Algılama eşiği",
@@ -2514,6 +2516,7 @@
 	"ui_editor_properties_translucent": "Yarı saydam",
 	"ui_editor_properties_tube_light": "Tüp ışığı",
 	"ui_editor_properties_type": "Tür",
+	"ui_editor_properties_ultra": "Ultra",
 	"ui_editor_properties_under": "Altında",
 	"ui_editor_properties_unlink_from_parent": "Üst Öğeden Bağlantıyı Kaldır",
 	"ui_editor_properties_unlock": "Kilidi Aç",
@@ -2696,5 +2699,6 @@
 	"ui_win32_slideshow_compat_modal_title": "Windows Slayt Gösterisi Uyumluluğu",
 	"ui_win32_slideshow_compat_modal_body": "Görünüşe göre Windows duvar kağıdınız olarak Slayt Gösterisi veya Windows Spot Işığı kullanıyorsunuz. Bu, Windows duvar kağıdınızın belirli aralıklarla Wallpaper Engine’in önünde görünmesine neden olacak.<br/><br/>Bu sorunu çözmek için lütfen Windows kişiselleştirme ayarlarında Windows duvar kağıdınız olarak sabit bir resim veya renk seçin.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "Bir daha uyarma",
-	"ui_win32_slideshow_compat_settings_label": "Windows Slayt Gösterisini etkisizleştirmek için istem:"
+	"ui_win32_slideshow_compat_settings_label": "Windows Slayt Gösterisini etkisizleştirmek için istem:",
+	"ui_windows_insider_warning": "Windows Beta Sürümü algılandı: Windows'un Insider önizleme sürümünü kullanıyorsunuz. Eğer Wallpaper Engine sizin için düzgün olarak çalışmıyorsa, bu sorunları düzeltmek için Windows'un kararlı bir sürümüne geçin."
 }
