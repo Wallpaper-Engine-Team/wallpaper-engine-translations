@@ -1003,7 +1003,6 @@
 	"ui_editor_no_animation_modal_header": "Sfondo non animato",
 	"ui_editor_no_animation_modal_body": "Sembra che si stia tentando di caricare uno sfondo senza animazione. <b>Questa azione non è consigliabile.</b><br/><br/>Wallpaper Engine è ottimizzato per sfondi animati, pertanto se si desidera utilizzare solo immagini statiche, si consiglia di utilizzare il proprio sistema operativo.<br/><br/>Continuare comunque?",
 	"ui_editor_review_info_header": "Processo di revisione",
-	"ui_editor_review_info_body": "Il tuo sfondo verrà revisionato prima che gli altri utenti possano trovarlo e usarlo per assicurarci che non violi le leggi locali.<br/><br/>Se aggiorni il tuo sfondo, dovrà essere revisionato nuovamente e verrà rimesso infondo alla coda.",
 	"ui_editor_workshop_eula_title": "EULA di Workshop modificato",
 	"ui_editor_workshop_eula_body": "Prima di continuare con il processo di caricamento del tuo sfondo, devi leggere e accettare il contratto di sottoscrizione a Workshop per [[[Platform]]]:",
 	"ui_editor_workshop_eula_button": "Mostra EULA su Steam",
@@ -1665,7 +1664,6 @@
 	"ui_editor_effects_modal_imagelayer_description": "Importa un'immagine dal computer.",
 	"ui_editor_effects_modal_textlayer_name": "Livello di Testo",
 	"ui_editor_effects_modal_textlayer_description": "Posiziona testo sullo sfondo.",
-	"ui_editor_effects_modal_fullscreenlayer_name": "Livello post-elaborazione",
 	"ui_editor_effects_modal_fullscreenlayer_description": "Aggiungi un livello traslucido che copre l'intero schermo. Qualsiasi effetto applicato a questo livello influenzerà gli oggetti che sono stati disegnati sullo schermo prima di questo livello.<br/><br/>Questo livello sarà sempre allineato allo schermo e non si muoverà con lo sfondo. Dovrebbe essere usato per effetti a schermo intero che non richiedono un allineamento preciso o maschere, per ottenere la migliore qualità indipendentemente dalla dimensione dello schermo.",
 	"ui_editor_effects_modal_projectlayer_name": "Livello di composizione completo",
 	"ui_editor_effects_modal_projectlayer_description": "Aggiungi un livello traslucido che copre automaticamente l'intero sfondo. Qualsiasi effetto applicato a questo livello influenzerà gli oggetti che sono stati disegnati prima di questo livello<br/><br/>Questo livello richiede più prestazioni del livello di post-elaborazione e dovrebbe essere usato solo se si vogliono allineare accuratamente gli effetti con lo sfondo, indipendentemente dall'allineamento dello sfondo o dalle dimensioni dello schermo.",
@@ -2689,13 +2687,8 @@
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "Il modello ha troppe animazioni morph (il numero massimo è {{maxMorphAnim}})",
 	"ui_resourcecompiler_error_model_too_many_morph_vertices": "Il modello ha troppi vertici sottoposti al morphing (il numero massimo è {{maxMorphVertices}})",
 	"ui_resourcecompiler_warning_texture_cropped": "La texture è stata ritagliata per essere adatta alla risoluzione consigliata",
-	"ui_win11_23h2_contingency_modal_title": "Compatibilità Windows 11 23H2",
-	"ui_win11_23h2_contingency_modal_body": "Sembra che il sistema operativo in uso sia Windows 11 23H2 (aggiornamento di settembre 2023) o successivo. Microsoft ha apportato delle modifiche al desktop che rendono impossibile visualizzare gli sfondi live di Wallpaper Engine. Microsoft ha spiegato che cercherà di trovare una soluzione adeguata per un futuro aggiornamento di Windows.<br/><br/>Fino ad allora, ci sono due opzioni che permettono di far funzionare Wallpaper Engine. È sufficiente <b>una</b> sola di esse:<br/><b>Opzione A: disabilitare il supporto HDR in Windows.</b><br/><b>Opzione B: consentire a Wallpaper Engine di riavviare e modificare Windows Explorer all'occorrenza con l'HDR abilitato.</b><br/><br/>Per continuare a usare Wallpaper Engine, disattiva l'HDR in Windows oppure premi <b>OK</b> qui sotto per abilitare le modifiche di Windows Explorer relative al supporto HDR; <b>Windows Explorer verrà riavviato ora</b> e ogni volta che Wallpaper Engine si avvierà dopo il riavvio del PC.",
-	"ui_win11_23h2_contingency_settings_label": "Riavvia automaticamente Explorer per ottenere la compatibilità con Windows 11 23H2.",
 	"ui_win32_slideshow_compat_modal_title": "Compatibilità con le presentazioni di Windows",
 	"ui_win32_slideshow_compat_modal_body": "Sembra che tu stia utilizzando una presentazione o Windows Spotlight come sfondo di Windows. Questo fa sì che lo sfondo di Windows appaia periodicamente davanti a Wallpaper Engine.<br/><br/>Per risolvere il problema, scegli come sfondo di Windows un'immagine o un colore predefinito dalle impostazioni di personalizzazione di Windows.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "Non avvisarmi più",
-	"ui_win32_slideshow_compat_settings_label": "Avviso sulle presentazioni di Windows:",
-	"ui_win11_23h2_contingency_tip": "Modalità di compatibilità HDR",
-	"ui_win11_23h2_contingency_tip_modal_message": "Sembra che il sistema operativo in uso sia Windows 11 23H2 (aggiornamento di settembre 2023) o successivo. La nuova funzionalità di sfondi HDR di Windows è attualmente incompatibile con Wallpaper Engine, ma Microsoft ha spiegato che il problema sarà risolto in un aggiornamento successivo.<br/><br/>Nel frattempo, Wallpaper Engine verrà eseguito in una speciale modalità di compatibilità quando l'HDR è attivato con in uso l'ultima versione di Windows 11.<br/><br/>In questa situazione si possono verificare alcuni problemi; consigliamo di attendere che la piena compatibilità diventi nuovamente accessibile. Per ovviare a questo problema, è possibile anche disattivare l'HDR in Windows."
+	"ui_win32_slideshow_compat_settings_label": "Avviso sulle presentazioni di Windows:"
 }
