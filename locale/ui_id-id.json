@@ -1003,7 +1003,6 @@
 	"ui_editor_no_animation_modal_header": "Wallpaper Tidak Beranimasi",
 	"ui_editor_no_animation_modal_body": "Sepertinya Anda mencoba mengunggah wallpaper tanpa animasi. <b>Hal ini tidak di rekomendasi kan.</b><br/><br/>Wallpaper Engine di optimisasikan untuk wallpaper beranimasi, jadi jika Anda hanya menggunakan gambar statis, disarankan untuk menggunakan sistem operasi Anda untuk kasus tersebut.<br/><br/>Anda yakin untuk melanjutkan?",
 	"ui_editor_review_info_header": "Proses Peninjauan",
-	"ui_editor_review_info_body": "Wallpaper Anda akan ditinjau sebelum pengguna lain dapat menemukan dan mengunduh wallpaper Anda agar memastikan bahwa wallpaper Anda tidak melanggar hukum setempat yang berlaku.<br/><br/>Jika Anda memperbarui wallpaper Anda, wallpaper Anda akan ditinjau kembali dan terdorong ke belakang antrian tinjauan.",
 	"ui_editor_workshop_eula_title": "Workshop EULA Berubah",
 	"ui_editor_workshop_eula_body": "Silakan meninjau dan terima persetujuan [[[Platform]]] Workshop Subscriber Agreement terbaru sebelum Anda melanjutkan proses pengunggahan wallpaper Anda:",
 	"ui_editor_workshop_eula_button": "Tunjukkan EULA di Steam",
@@ -1665,7 +1664,6 @@
 	"ui_editor_effects_modal_imagelayer_description": "Impor gambar dari komputer.",
 	"ui_editor_effects_modal_textlayer_name": "Lapisan Teks",
 	"ui_editor_effects_modal_textlayer_description": "Tempatkan teks pada wallpaper.",
-	"ui_editor_effects_modal_fullscreenlayer_name": "Lapisan Pasca Pemrosesan",
 	"ui_editor_effects_modal_fullscreenlayer_description": "Tambahkan sebuah lapisan transparan yang menutupi seluruh layar. Efek apa pun yang diterapkan pada lapisan ini akan memengaruhi objek yang telah digambarkan ke layar sebelum lapisan ini.<br/><br/>Lapisan ini akan selalu disejajarkan ke layar dan tidak akan bergerak dengan wallpaper. Fungsi ini semestinya digunakan untuk efek layar penuh yang tidak memerlukan masker atau pen-sejajaran yang presisi untuk mendapatkan kualitas terbaik yang independen dari ukuran layar.",
 	"ui_editor_effects_modal_projectlayer_name": "Lapisan Komposisi Penuh",
 	"ui_editor_effects_modal_projectlayer_description": "Tambahkan lapisan transparan yang otomatis menutupi seluruh wallpaper. Efek apa pun yang diterapkan pada lapisan ini akan memengaruhi objek yang telah digambarkan ke layar sebelum lapisan ini.<br/><br/>Lapisan ini membutuhkan performa lebih daripada lapisan pasca pemrosesan dan semestinya hanya digunakan jika Anda ingin men-sejajarkan efek lebih akurat dengan wallpaper, independen dari pen-sejajajran wallpaper atau ukuran layar.",
@@ -2689,13 +2687,8 @@
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "Model nya mempunyai terlalu banyak animasi morph (maksimal nya adalah {{maxMorphAnim}})",
 	"ui_resourcecompiler_error_model_too_many_morph_vertices": "Model nya mempunyai terlalu banyak morphed vertices (maksimal nya adalah {{maxMorphVertices}})",
 	"ui_resourcecompiler_warning_texture_cropped": "Tekstur Anda telah dipotong agar sesuai dengan resolsui yang disarankan",
-	"ui_win11_23h2_contingency_modal_title": "Kompatibilitas Windows 11 23H2",
-	"ui_win11_23h2_contingency_modal_body": "Sepertinya Anda menggunakan Windows 11 23H2 (pembaruan September 2023) atau yang terbaru. Microsoft telah membuat perubahan modifikasi pada desktop Anda yang membuat Wallpaper Engine tidak memungkinkan menampilkan wallpaper aktif. Microsoft telah menjelaskan bahwa mereka akan mencoba mencari solusi yang tepat pada Windows Update baru yang akan datang.<br/><br/>Untuk saat ini, ada dua opsi agar membuat Wallpaper Engine bekerja. Anda hanya perlu lakukan <b>salah satu</b> opsi ini:<br/><b>Opsi A: Nonaktifkan dukungan HDR di Windows.</b><br/><b>Opsi B: Atau izinkan Wallpaper Engine untuk mengaktifkan ulang dan mengubah Windows Explorer ketika dibutuhkan dengan HDR diaktifkan.</b><br/><br/>Untuk melanjutkan penggunaan Wallpaper Engine, antara nonaktifkan HDR di Windows atau tekan <b>OKE</b> dibawah ini untuk mengaktifkan modifikasi Windows Explorer untuk dukungan HDR, <b>Windows Explorer Anda akan diaktifkan ulang sekarang</b> dan setiap kali Wallpaper Engine mulai setelah pengaktifan ulang PC.",
-	"ui_win11_23h2_contingency_settings_label": "Otomatis aktifkan ulang Explorer untuk kompatibilitas Windows 11 23H2.",
 	"ui_win32_slideshow_compat_modal_title": "Kompatibilitas Windows Slideshow",
 	"ui_win32_slideshow_compat_modal_body": "Sepertinya Anda menggunakan sebuah Slideshow atau Windows Spotlight sebagai wallpaper Windows Anda. Ini akan mengakibatkan wallpaper Windows Anda muncul secara berkala di depan Wallpaper Engine.<br/><br/>Mohon memilih gambar statis atau warna sebagai wallpaper Windows Anda di pengaturan personalisasi Windows untuk menyelesaikan masalah ini.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "Jangan ingatkan lagi",
-	"ui_win32_slideshow_compat_settings_label": "Peringatan Windows Slideshow:",
-	"ui_win11_23h2_contingency_tip": "Mode Kompatibilitas HDR",
-	"ui_win11_23h2_contingency_tip_modal_message": "Sepertinya Anda menggunakan Windows 11 23H2 (pembaruan September 2023) atau yang terbaru. Saat ini, fitur wallpaper Windows HDR mengalami konflik dengan Wallpaper Engine, namun Microsoft telah menjelaskan bahwa masalah ini akan diselesaikan pada pembaruan berikutnya yang akan datang.<br/><br/>Untuk sementara, Wallpaper Engine akan dijalankan dalam sebuah mode kompatibilitas khusus ketika HDR diaktifkan saat menggunakan Windows 11 versi terbaru.<br/><br/>Beberapa masalah diperkirakan terjadi pada situasi ini. Jadi, mohon menunggu agar kompatibilitas penuh dapat dilakukan kembali. Menonaktifkan HDR di Windows juga merupakan sebuah opsi untuk mengakali masalah ini."
+	"ui_win32_slideshow_compat_settings_label": "Peringatan Windows Slideshow:"
 }
