@@ -1003,7 +1003,6 @@
 	"ui_editor_no_animation_modal_header": "非動畫桌布",
 	"ui_editor_no_animation_modal_body": "您正在嘗試上傳沒有動畫的場景桌布。<b>我們不建議您這樣做。</b><br/><br/>由於 Wallpaper Engine 僅針對動畫桌布進行最佳化，因此如果您只想使用靜態影像，建議您使用作業系統內建功能。<br/><br/>是否仍要繼續？",
 	"ui_editor_review_info_header": "檢查步驟",
-	"ui_editor_review_info_body": "您的桌布將在其他使用者找到並下載之前進行審查，以確保不會違反任何當地法律。<br/><br/>如果您更新了桌布，則必須對此再次進行審查。",
 	"ui_editor_workshop_eula_title": "工作坊使用者授權合約變更",
 	"ui_editor_workshop_eula_body": "請檢視並同意最新的 [[[Platform]]] 工作坊訂戶協議，之後方可繼續上傳桌布：",
 	"ui_editor_workshop_eula_button": "在 Steam 顯示使用者授權合約",
@@ -1665,7 +1664,6 @@
 	"ui_editor_effects_modal_imagelayer_description": "由電腦匯入影像",
 	"ui_editor_effects_modal_textlayer_name": "文字圖層",
 	"ui_editor_effects_modal_textlayer_description": "放置文字在桌布上。",
-	"ui_editor_effects_modal_fullscreenlayer_name": "後處理圖層",
 	"ui_editor_effects_modal_fullscreenlayer_description": "新增一個半透明圖層覆蓋整個螢幕。套用至此圖層的任何效果，將會影響所有比此圖層更早繪製至螢幕上的物件。<br/><br/>此圖層會一直與螢幕對齊，不會隨著桌布移動。此圖層必須用於不需精準對齊或遮罩的全螢幕效果，以獲得不受螢幕大小影響的最佳畫質。",
 	"ui_editor_effects_modal_projectlayer_name": "完整組合圖層",
 	"ui_editor_effects_modal_projectlayer_description": "新增一個半透明圖層自動覆蓋整個螢幕。套用至此圖層的任何效果，將會影響所有比此圖層更早繪製至螢幕上的物件。<br/><br/>此圖層比後處理圖層需要更多效能，應僅用於將效果精準對齊桌布且不受桌布對齊或螢幕大小影響的情況。",
@@ -2689,13 +2687,8 @@
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "模型有過多變形動畫（最多為 {{maxMorphAnim}}）",
 	"ui_resourcecompiler_error_model_too_many_morph_vertices": "模型有過多變形的頂點（最多為 {{maxMorphVertices}}）",
 	"ui_resourcecompiler_warning_texture_cropped": "已裁剪您的紋理，以符合建議的解析度",
-	"ui_win11_23h2_contingency_modal_title": "Windows 11 23H2 相容性",
-	"ui_win11_23h2_contingency_modal_body": "您似乎正使用 Windows 11 23H2（2023 年 9 月更新版）或更新的版本。Microsoft 已修改了您的桌面，因此無法從 Wallpaper Engine 看到動態桌布。Microsoft 已解釋將於未來的 Windows 更新時，試圖找出適合的解決方案。<br/><br/>在此之前，有兩種選樣能讓 Wallpaper Engine 持續運作。您只需要執行其中<b>一種</b>選項：<br/><b>選項 A：關閉 Windows 中的 HDR 支援。</b><br/><b>選項 B：或允許 Wallpaper Engine 重新開啟，並於需要時變更 Windows Explorer 且啟用 HDR。</b><br/><br/>若想繼續使用 Wallpaper Engine，您可關閉 Windows 中的 HDR 或按一下底下的<b>確認</b>以啟用 Windows Explorer 的修改來支援 HDR，您的 <b>Windows Explorer 將立即重新開啟</b>，且每次將桌電重新開機時，就會開啟 Wallpaper Engine。",
-	"ui_win11_23h2_contingency_settings_label": "自動重新開啟可相容 Windows 11 23H2 的 Explorer。",
 	"ui_win32_slideshow_compat_modal_title": "Windows Slideshow 相容性",
 	"ui_win32_slideshow_compat_modal_body": "您似乎正在使用 Slideshow 或 Windows Spotlight 作為 Windows 桌布。這麼做將造成您的 Windows 桌布會週期性地出現在 Wallpaper Engine 之前。<br/><br/>請在 Windows 個人化設定中選擇靜態圖案或顏色作為您的 Windows 桌布，以解決此問題。",
 	"ui_win32_slideshow_compat_modal_check_ignore": "不再警告",
-	"ui_win32_slideshow_compat_settings_label": "提示停用 Windows Slideshow：",
-	"ui_win11_23h2_contingency_tip": "HDR 相容模式",
-	"ui_win11_23h2_contingency_tip_modal_message": "您似乎正在使用 Windows 11 23H2（2023 年 9 月更新版）或更新的版本。新的 Windows HDR 桌布功能目前與 Wallpaper Engine 相衝突，但 Microsoft 已解釋將於未來的更新中解決此問題。<br/><br/>於此同時，使用最新版本的 Windows 11 開啟 HDR 時，Wallpaper Engine 將在特殊的相容模式中執行。<br/><br/>在此情況下，將預期會出現一些問題，待至可再次完整相容時便能解決。遇到此問題時，在 Windows 中關閉 HDR 也是種替代方案。"
+	"ui_win32_slideshow_compat_settings_label": "提示停用 Windows Slideshow："
 }
