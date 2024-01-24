@@ -1003,7 +1003,6 @@
 	"ui_editor_no_animation_modal_header": "Fond d'écran non animé",
 	"ui_editor_no_animation_modal_body": "Il semblerait que vous essayiez de charger une scène fond d'écran sans animation. <b>Ceci est déconseillé.</b><br/><br/>Wallpaper Engine est optimisé pour les fonds d'écran animés, alors si vous voulez seulement utiliser une image statique, nous vous conseillons d'utiliser votre système d'exploitation dans ce cas.<br/><br/>Voulez-vous continuer quand même ?",
 	"ui_editor_review_info_header": "Procéder à la révision",
-	"ui_editor_review_info_body": "Votre fond d’écran sera examiné avant que d’autres utilisateurs puissent le voir et le et télécharger pour s’assurer qu’il ne viole aucune loi locale.<br/><br/>Si vous mettez à jour votre fond d'écran, il devra être examiné à nouveau et sera envoyé à la fin de la file d’attente.",
 	"ui_editor_workshop_eula_title": "Modification du CLUF de Workshop",
 	"ui_editor_workshop_eula_body": "Veuillez lire et accepter la dernière version de l'accord d'abonnement de [[[Platform]]] Workshop avant de pouvoir continuer le processus de téléchargement de votre fond d'écran :",
 	"ui_editor_workshop_eula_button": "Afficher le CLUF sur Steam",
@@ -1665,7 +1664,6 @@
 	"ui_editor_effects_modal_imagelayer_description": "Importez une image depuis votre ordinateur.",
 	"ui_editor_effects_modal_textlayer_name": "Calque de texte",
 	"ui_editor_effects_modal_textlayer_description": "Placer du texte sur le fond d'écran.",
-	"ui_editor_effects_modal_fullscreenlayer_name": "Couche de post-traitement",
 	"ui_editor_effects_modal_fullscreenlayer_description": "Ajoutez un calque translucide qui couvre l'ensemble de l'écran. Tout effet appliqué à cette couche influera sur les objets qui ont été dessinés à l'écran avant cette couche.<br/><br/>Cette couche sera toujours alignée sur l'écran et ne se déplacera pas avec le fond d'écran. Elle doit être utilisé pour les effets plein écran qui ne nécessitent pas d'alignement précis ou de masques, afin d'obtenir la meilleure qualité indépendamment de la taille de l'écran.",
 	"ui_editor_effects_modal_projectlayer_name": "Calque de composition intégral",
 	"ui_editor_effects_modal_projectlayer_description": "Ajoutez un calque translucide qui couvre automatiquement l'ensemble du fond d'écran. Tout effet appliqué à ce calque influera sur les objets qui ont été dessinés avant ce calque.<br/><br/>Ce calque requiert plus de performances que le calque de post-traitement et ne doit être utilisé que si vous souhaitez aligner les effets avec précision sur le fond d'écran, indépendamment de l'alignement du fond d'écran ou de la taille de l'écran.",
@@ -2689,13 +2687,8 @@
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "Le modèle comporte trop d'animations de morphing (le maximum est {{maxMorphAnim}})",
 	"ui_resourcecompiler_error_model_too_many_morph_vertices": "Le modèle comporte trop de vertex transformés (le maximum est {{maxMorphVertices}})",
 	"ui_resourcecompiler_warning_texture_cropped": "Votre texture a été recadrée pour s'adapter à la résolution recommandée",
-	"ui_win11_23h2_contingency_modal_title": "Compatibilité avec Windows 11 23H2",
-	"ui_win11_23h2_contingency_modal_body": "Il semble que vous utilisiez Windows 11 23H2 (mise à jour de septembre 2023) ou une version ultérieure. Microsoft a apporté des modifications à votre bureau qui rendent impossible l'affichage des fonds d'écran personnalisés à partir de Wallpaper Engine. Microsoft a expliqué que tout serait mis en œuvre pour trouver une solution appropriée dans une prochaine mise à jour de Windows.<br/><br/>En attendant, il existe deux options pour faire fonctionner Wallpaper Engine. Vous n'avez besoin que d'<b>une seule</b> d'entre elles :<br/><b>Option A : désactiver la prise en charge de la technologie HDR dans Windows.</b><br/><b>Option B : ou permettre à Wallpaper Engine de redémarrer et de modifier l'Explorateur Windows lorsque cela est nécessaire avec le HDR activé. </b><br/><br/>Pour continuer à utiliser Wallpaper Engine, désactivez l'option HDR dans Windows ou appuyez sur <b>OK</b> ci-dessous afin d'activer les modifications de l'Explorateur Windows pour la prise en charge du HDR, votre <b>Explorateur Windows redémarrera maintenant</b> et chaque fois que Wallpaper Engine s'exécutera après le redémarrage du PC.",
-	"ui_win11_23h2_contingency_settings_label": "Redémarre automatiquement l'Explorateur pour garantir la compatibilité avec Windows 11 23H2.",
 	"ui_win32_slideshow_compat_modal_title": "Compatibilité avec les diaporamas Windows",
 	"ui_win32_slideshow_compat_modal_body": "Il semble que vous utilisiez un diaporama ou Windows Spotlight comme fond d'écran. Par conséquent, votre fond d'écran Windows apparaîtra périodiquement devant Wallpaper Engine.<br/><br/>Pour résoudre ce problème, choisissez une image ou une couleur statique comme fond d'écran dans les paramètres de personnalisation de Windows.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "Ne plus avertir",
-	"ui_win32_slideshow_compat_settings_label": "Invite à désactiver le diaporama de Windows :",
-	"ui_win11_23h2_contingency_tip": "Mode de compatibilité HDR",
-	"ui_win11_23h2_contingency_tip_modal_message": "Il semble que vous utilisiez Windows 11 23H2 (mise à jour de septembre 2023) ou une version ultérieure. La nouvelle fonction de papier peint HDR de Windows est actuellement en conflit avec Wallpaper Engine, mais Microsoft a expliqué que ce problème serait résolu dans une prochaine mise à jour.<br/><br/>En attendant, Wallpaper Engine fonctionnera dans un mode de compatibilité spécial lorsque le HDR est activé dans la dernière version de Windows 11.<br/><br/>Quelques problèmes sont à prévoir dans cette situation, veuillez patienter jusqu'à la compatibilité totale. La désactivation du HDR dans Windows est également une possibilité pour contourner ce problème."
+	"ui_win32_slideshow_compat_settings_label": "Invite à désactiver le diaporama de Windows :"
 }
