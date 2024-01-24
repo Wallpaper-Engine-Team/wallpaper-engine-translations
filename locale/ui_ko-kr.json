@@ -1003,7 +1003,6 @@
 	"ui_editor_no_animation_modal_header": "애니메이션 없는 배경화면",
 	"ui_editor_no_animation_modal_body": "애니메이션 없는 장면 배경화면 업로드를 시도하고 있습니다. <b>이 방법은 권장되지 않습니다.</b><br/><br/>Wallpaper Engine은 애니메이션 배경화면에 최적화되었기 때문에 정적인 이미지만 사용하려는 경우 운영 체제를 사용하는 것이 좋습니다.<br/><br/>여전히 계속하시겠습니까?",
 	"ui_editor_review_info_header": "검토 진행 중",
-	"ui_editor_review_info_body": "당신의 배경화면은 어떠한 지역 법도 위반하고 있지 않은지 확인하기 위해서 다른 유저들이 찾아서 다운로드하게되기 전에 검토될 것입니다.</b></b>배경화면을 업데이트하신다면, 리뷰를 다시 받아야 하고, 대기열의 맨 뒤로 밀릴 것입니다.",
 	"ui_editor_workshop_eula_title": "창작마당 이용약관 변경",
 	"ui_editor_workshop_eula_body": "배경화면 업로드를 계속하려면 먼저 최신 [[[Platform]]] 창작마당 이용 약관을 검토하고 수락하세요:",
 	"ui_editor_workshop_eula_button": "Steam에서 이용약관 보기",
@@ -1665,7 +1664,6 @@
 	"ui_editor_effects_modal_imagelayer_description": "컴퓨터에서 이미지를 가져옵니다.",
 	"ui_editor_effects_modal_textlayer_name": "텍스트 레이어",
 	"ui_editor_effects_modal_textlayer_description": "배경화면에 텍스트를 배치합니다.",
-	"ui_editor_effects_modal_fullscreenlayer_name": "포스트 프로세싱 레이어",
 	"ui_editor_effects_modal_fullscreenlayer_description": "화면 전체를 덮는 반투명 레이어를 추가합니다. 이 레이어에 적용된 모든 효과는 이 레이어 전에 화면에 그려진 개체에 영향을 미칩니다.<br/><br/>이 레이어는 항상 화면에 맞춰져 있으며 배경화면과 함께 움직이지 않습니다. 화면 크기와 관계 없이 최고의 품질을 얻으려면 정확한 정렬 및 마스크를 필요로 하지 않는 전체화면 효과에 사용하여야 합니다.",
 	"ui_editor_effects_modal_projectlayer_name": "전체 합성 레이어",
 	"ui_editor_effects_modal_projectlayer_description": "화면 전체를 덮는 반투명 레이어를 추가합니다. 이 레이어에 적용된 모든 효과는 이 레이어 전에 화면에 그려진 개체에 영향을 미칩니다.<br/><br/>이 레이어는 포스트 프로세싱 레이어보다 더 높은 성능을 요구하며, 배경화면 정렬이나 화면 크기와 관계 없이 효과를 배경화면과 정확하게 정렬시키고 싶을 때만 사용하여야 합니다.",
@@ -2689,13 +2687,8 @@
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "모델에 모핑 애니메이션이 너무 많습니다(최대 {{maxMorphAnim}}개)",
 	"ui_resourcecompiler_error_model_too_many_morph_vertices": "모델에 모핑된 꼭짓점이 너무 많습니다(최대 {{maxMorphVertices}}개)",
 	"ui_resourcecompiler_warning_texture_cropped": "텍스처를 권장 해상도에 맞도록 잘랐습니다",
-	"ui_win11_23h2_contingency_modal_title": "Windows 11 23H2 호환성",
-	"ui_win11_23h2_contingency_modal_body": "Windows 11 23H2(2023년 9월 업데이트) 또는 이후 버전을 사용하고 있습니다.Microsoft가 귀하의 데스크톱에 적용한 변경 사항으로 인하여, Wallpaper Engine의 라이브 배경화면을 볼 수 없습니다. Microsoft 측에서 추후 Windows 업데이트에서 적합한 해결책을 강구할 것이라고 밝혔습니다. <br/><br/>그때까지는 두 가지 방법으로 Wallpaper Engine을 사용할 수 있습니다. 다음 두 개의 해결책 중 <b>하나만</b> 적용하면 됩니다.<br/><b>1. Windows에서 HDR 지원을 비활성화하세요.</b><br/><b>2. 또는 HDR을 활성화한 상태에서 Wallpaper Engine이 필요 시 Windows 탐색기를 재시작하고 변경할 수 있도록 권한을 부여하세요.</b><br/><br/>Wallpaper Engine을 계속해서 사용하려면 Windows에서 HDR을 끄거나 아래의 <b>확인</b>을 눌러 HDR 지원에 대한 Windows 탐색기 변경을 허용하세요. <b>Windows 탐색기가 지금</b> 그리고 PC 재시작 후에 Wallpaper Engine이 실행될 때마다 재시작됩니다.",
-	"ui_win11_23h2_contingency_settings_label": "Windows 11 23H2 호환성을 위해 자동으로 탐색기를 재시작합니다.",
 	"ui_win32_slideshow_compat_modal_title": "Windows 슬라이드쇼 호환성",
 	"ui_win32_slideshow_compat_modal_body": "슬라이드쇼 또는 Windows 스포트라이트를 Windows 배경화면으로 사용하고 있습니다. 이 경우 Windows 배경화면이 주기적으로 Wallpaper Engine 앞에 나타납니다.<br/><br/>이 문제를 해결하려면 Windows 개인 설정에서 Windows 배경화면으로 정적 그림 또는 색상을 선택하세요.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "이 경고 다시 표시하지 않기",
-	"ui_win32_slideshow_compat_settings_label": "Windows 슬라이드쇼 경고:",
-	"ui_win11_23h2_contingency_tip": "HDR 호환성 모드",
-	"ui_win11_23h2_contingency_tip_modal_message": "Windows 11 23H2(2023년 9월 업데이트) 또는 이후 버전을 사용하고 있습니다. 새로 추가된 Windows HDR 배경화면 기능은 현재 Wallpaper Engine과 호환되지 않지만, Microsoft 측이 추후 Windows 업데이트에서 이 문제가 해결될 것이라고 밝혔습니다.<br/><br/>그때까지는 Windows 11 최신 버전에서 HDR이 활성화된 경우 Wallpaper Engine이 특수한 호환성 모드로 구동됩니다.<br/><br/>해당 상태에서는 몇몇 문제가 발생할 수 있으므로, 호환성 문제가 해결될 때까지 기다려 주세요. 또한 Windows에서 HDR을 비활성화하는 것으로도 해당 문제를 우회할 수 있습니다."
+	"ui_win32_slideshow_compat_settings_label": "Windows 슬라이드쇼 경고:"
 }
