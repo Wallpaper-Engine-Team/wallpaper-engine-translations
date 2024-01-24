@@ -1003,7 +1003,6 @@
 	"ui_editor_no_animation_modal_header": "Wallpaper não animado",
 	"ui_editor_no_animation_modal_body": "Parece que está a tentar enviar um wallpaper de cena sem animação. <b>Isto não é recomendado.</b><br/><br/>O Wallpaper Engine é otimizado para wallpapers animados, portanto se quiser apenas usar uma imagem estática como wallpaper, é melhor usar os recursos do seu sistema operativo para isso.<br/><br/>Deseja continuar mesmo assim?",
 	"ui_editor_review_info_header": "Processo de revisão",
-	"ui_editor_review_info_body": "O seu wallpaper será revisto antes que outros utilizadores o possam encontrar, de forma a garantir que não infringe quaisquer leis locais.<br/><br/>Se atualizar o seu wallpaper, ele terá de voltar a ser revisto e será empurrado para o fim da fila.",
 	"ui_editor_workshop_eula_title": "O EULA do Workshop foi alterado",
 	"ui_editor_workshop_eula_body": "Leia e aceite o mais recente Contrato de Subscritor do Workshop para [[[Platform]]] antes de poder continuar o processo de envio do seu wallpaper:",
 	"ui_editor_workshop_eula_button": "Mostrar EULA no Steam",
@@ -1665,7 +1664,6 @@
 	"ui_editor_effects_modal_imagelayer_description": "Importa uma imagem do seu computador.",
 	"ui_editor_effects_modal_textlayer_name": "Camada de texto",
 	"ui_editor_effects_modal_textlayer_description": "Colocar texto no wallpaper.",
-	"ui_editor_effects_modal_fullscreenlayer_name": "Camada de pós-processamento",
 	"ui_editor_effects_modal_fullscreenlayer_description": "Adiciona uma camada translúcida que cobre o ecrã inteiro. Quaisquer efeitos aplicados a esta camada afetarão objetos que tenham sido desenhados no ecrã antes desta camada.<br/><br/>Esta camada ficará sempre alinhada ao ecrã e não se move com o wallpaper. Ela deve ser utilizada para efeitos de ecrã completo que não requerem um alinhamento preciso ou máscaras, de forma a obter a melhor qualidade, independentemente do tamanho do ecrã.",
 	"ui_editor_effects_modal_projectlayer_name": "Layer de composição completo",
 	"ui_editor_effects_modal_projectlayer_description": "Adiciona uma camada translúcida que cobre o wallpaper inteiro automaticamente. Quaisquer efeitos aplicados a esta camada afetarão objetos que tenham sido desenhados no ecrã antes desta camada.<br/><br/>Esta camada requer mais desempenho do que a camada de pós-processamento e deve ser utilizada apenas se pretender alinhar efeitos com precisão, independentemente do alinhamento do wallpaper ou do tamanho do ecrã.",
@@ -2689,13 +2687,8 @@
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "Modelo tem demasiadas animações de transformação (máximo é {{maxMorphAnim}})",
 	"ui_resourcecompiler_error_model_too_many_morph_vertices": "Modelo tem demasiados vértices transformados (máximo é {{maxMorphVertices}})",
 	"ui_resourcecompiler_warning_texture_cropped": "A sua textura foi aparada para caber na resolução recomendada",
-	"ui_win11_23h2_contingency_modal_title": "Compatibilidade com Windows 11 23H2",
-	"ui_win11_23h2_contingency_modal_body": "Parece que está a utilizar o Windows 11 23H2 (atualização de setembro de 2023) ou posterior. A Microsoft fez alterações ao seu desktop que tornam impossível ver wallpapers animados do Wallpaper Engine. A Microsoft explicou que tentarão encontrar uma solução apropriada numa futura atualização para o Windows.<br/><br/>Até essa altura, há duas opções para que o Wallpaper Engine funcione. Só precisa de <b>uma</b> delas:<br/><b>Opção A: desativar suporte para HDR no Windows.</b><br/><b>Opção B: ou permitir que o Wallpaper Engine reinicie e altere o Windows Explorer quando for necessário com HDR ativado.</b><br/><br/>Para continuar a utilizar o Wallpaper Engine, desative HDR no Windows ou prima <b>OK</b> abaixo para permitir modificações ao Windows Explorer para suporte de HDR, o seu <b>Windows Explorer será reiniciado agora</b> e sempre que o Wallpaper Engine for iniciado depois de reiniciar o PC.",
-	"ui_win11_23h2_contingency_settings_label": "Reiniciar automaticamente o Explorer para compatibilidade com Windows 11 23H2.",
 	"ui_win32_slideshow_compat_modal_title": "Compatibilidade com Windows Slideshow",
 	"ui_win32_slideshow_compat_modal_body": "Parece que está a utilizar um Slideshow ou Windows Spotlight como seu wallpaper do Windows. Isto fará o seu wallpaper do Windows aparecer periodicamente em frente do Wallpaper Engine.<br/><br/>Para resolver este problema, escolha uma imagem ou cor estáticas como wallpaper do Windows nas definições de personalização do Windows.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "Não avisar outra vez",
-	"ui_win32_slideshow_compat_settings_label": "Aviso para desativar Windows Slideshow:",
-	"ui_win11_23h2_contingency_tip": "Modo de Compatibilidade com HDR",
-	"ui_win11_23h2_contingency_tip_modal_message": "Ao que parece, está a usar o Windows 11 23H2 (atualização de setembro de 2023) ou posterior. A nova funcionalidade de wallaper HDR do Windows está neste momento em conflito com o Wallpaper Engine, mas a Microsoft esclareceu que este problema será resolvido numa futura atualização.<br/><br/>Entretanto, o Wallpaper Engine será executado num modo especial de compatibilidade quando HDR estiver ativado utilizando a versão mais recente do Windows 11.<br/><br/>Nesta situação, é de esperar que ocorram alguns problemas, pelo que poderá esperar que a compatibilidade total volte a ser possível. Desativar HDR no Windows é também uma opção para contornar este problema."
+	"ui_win32_slideshow_compat_settings_label": "Aviso para desativar Windows Slideshow:"
 }
