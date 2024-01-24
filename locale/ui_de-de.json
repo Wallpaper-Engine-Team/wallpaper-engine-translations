@@ -1003,7 +1003,6 @@
 	"ui_editor_no_animation_modal_header": "Hintergrund nicht animiert",
 	"ui_editor_no_animation_modal_body": "Es scheint, als würdest du einen Szene-Hintergrund ohne jegliche Animationen hochladen wollen. <b>Dies wird nicht empfohlen.</b><br/><br/>Wallpaper Engine ist optimiert für animierte Hintergründe, wenn du ein statisches Hintergrund haben möchtest, empfehlen wir dass du ein Hintergrundbild über dein Betriebssystem setzt.<br/><br/>Möchtest du trotzdem fortfahren?",
 	"ui_editor_review_info_header": "Überprüfungsprozess",
-	"ui_editor_review_info_body": "Dein Hintergrund wird zunächst geprüft bevor andere Nutzer es finden können, um sicherzustellen, dass es gegen keine landesspezifischen Gesetze verstößt.<br/><br/>Wenn du den Hintergrund aktualisierst, muss er erneut überprüft werden und wird wieder ans Ende der Überprüfungsliste gesetzt.",
 	"ui_editor_workshop_eula_title": "Aktualisierte Workshop-EULA",
 	"ui_editor_workshop_eula_body": "Bitte überprüfe und akzeptiere die neueste [[[Platform]]]-Workshop-Abonnementvereinbarung, bevor du mit dem Upload-Prozess deines Hintergrunds fortfahren kannst:",
 	"ui_editor_workshop_eula_button": "EULA in Steam anzeigen",
@@ -1665,7 +1664,6 @@
 	"ui_editor_effects_modal_imagelayer_description": "Bild vom Computer importieren.",
 	"ui_editor_effects_modal_textlayer_name": "Text-Ebene",
 	"ui_editor_effects_modal_textlayer_description": "Platziere Text auf dem Hintergrund.",
-	"ui_editor_effects_modal_fullscreenlayer_name": "Post-Processing-Ebene",
 	"ui_editor_effects_modal_fullscreenlayer_description": "Füge eine durchsichtige Ebene hinzu, welche den gesamten Bildschirm abdeckt. Jegliche Effekte, welche auf diese Ebene angewendet werden, beeinflussen alle Objekte, welche vor dieser Ebene dargestellt wurden.<br/><br/>Diese Ebene ist immer an den Bildschirm angepasst und bewegt sich nicht mit dem Hintergrund mit. Aus diesem Grund sollte diese Ebene verwendet werden, wenn ein Effekt über den gesamten Bildschirm gespannt werden soll und nicht genau an ein bestimmtes Objekt oder an eine Maske angepasst wird, dadurch kann die beste Qualität unabhängig von der Bildschirmauflösung erzielt werden.",
 	"ui_editor_effects_modal_projectlayer_name": "Volle Kompositionsebene",
 	"ui_editor_effects_modal_projectlayer_description": "Fügt eine durchsichtige Ebene hinzu, welche automatisch den gesamten Hintergrund abdeckt. Jegliche Effekte, welche auf diese Ebene angewendet werden, beeinflussen alle Objekte, welche vor dieser Ebene dargestellt wurden.<br/><br/>Diese Ebene benötigt mehr Leistung als die Post-Processing-Ebene und sollte nur verwendet werden, wenn du Effekte genau innerhalb des Hintergrunds ausrichten möchtest, unabhängig vom Hintergrund selbst oder der Bildschirmgröße.",
@@ -2689,13 +2687,8 @@
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "Modell hat zu viele Morph-Animationen (Maximum ist {{maxMorphAnim}})",
 	"ui_resourcecompiler_error_model_too_many_morph_vertices": "Modell hat zu viele verformte Eckpunkte (Maximum ist {{maxMorphVertices}})",
 	"ui_resourcecompiler_warning_texture_cropped": "Deine Textur wurde verkleinert, um der empfohlenen Auflösung zu entsprechen",
-	"ui_win11_23h2_contingency_modal_title": "Windows 11 23H2-Kompatibilität",
-	"ui_win11_23h2_contingency_modal_body": "Es sieht so aus, als würdest du Windows 11 23H2 (September 2023-Update) oder neuer verwenden. Microsoft hat deinen Desktop verändert, was es unmöglich macht, dynamische Hintergründe von Wallpaper Engine anzuzeigen. Microsoft hat sich dazu geäußert und versprochen, dies in einem zukünftigen Windows-Update wieder zu beheben.<br/><br/>Bis dahin gibt es zwei Optionen, um Wallpaper Engine wieder funktionsfähig zu machen. Du musst <b>nur eine</b> Lösung davon anwenden:<br/><b>Option 1: Deaktiviere HDR in den Windows-Einstellungen.</b><br/><b>Option 2: Oder, erlaube Wallpaper Engine den Explorer neu zu starten und zu verändern, sodass dieser wieder mit HDR funktioniert.</b><br/><br/>Um Wallpaper Engine weiterhin zu nutzen, schalte entweder HDR in Windows aus oder drücke auf <b>OK</b> unten, um die Veränderung des Windows Explorers zu erlauben. <b>Windows Explorer wird daraufhin neu starten</b> und jedes mal wenn Wallpaper Engine nach einem PC-Neustart gestartet wird.",
-	"ui_win11_23h2_contingency_settings_label": "Automatischer Explorer-Neustart für Windows 11 23H2-Kompatibilität.",
 	"ui_win32_slideshow_compat_modal_title": "Windows Slideshow-Kompatibilität",
 	"ui_win32_slideshow_compat_modal_body": "Es sieht so aus, als würdest du eine Slideshow oder Windows Spotlight als deinen Windows-Hintergrund verwenden. Dies führt dazu, dass dein Windows-Hintergrund in regelmäßigen Abständen über Wallpaper Engine auftauchen wird.<br/><br/>Bitte wähle ein normales Bild oder eine Farbe als Windows-Hintergrund in den Windows-Einstellungen aus, um dieses Problem zu lösen.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "Nicht mehr warnen",
-	"ui_win32_slideshow_compat_settings_label": "Windows Slideshow-Warnung:",
-	"ui_win11_23h2_contingency_tip": "HDR-Kompatibilitätsmodus",
-	"ui_win11_23h2_contingency_tip_modal_message": "Es scheint, als würdest du Windows 11 mit dem 23H2 (auch September 2023-Update genannt) oder neuer benutzen. Das neue Feature für Windows-HDR-Hintergründe ist derzeit im Konflikt mit Wallpaper Engine. Microsoft hat aber erklärt, dass dieses Problem in einem zukünftigen Update behoben wird.<br/><br/>Bis dahin wird Wallpaper Engine in einem besonderen Kompatibilitätsmodus laufen, solange HDR mit der neuesten Windows 11-Version aktiviert ist.<br/><br/>Es kann sein, dass es zu ein paar kleineren technischen Problemen kommen kann, bitte warte auf die volle Kompatibilität im Zuge des erwähnten Windows-Updates. Du kannst HDR in den Windows-Einstellungen auch ganz ausschalten, um alle Probleme so vorerst zu umgehen."
+	"ui_win32_slideshow_compat_settings_label": "Windows Slideshow-Warnung:"
 }
