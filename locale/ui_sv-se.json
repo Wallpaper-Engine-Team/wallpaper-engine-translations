@@ -1003,7 +1003,6 @@
 	"ui_editor_no_animation_modal_header": "Bakgrunden är inte animerad",
 	"ui_editor_no_animation_modal_body": "Det ser ut som att du försöker ladda upp en scenbakgrund utan någon animering. <b>Detta rekommenderas inte.</b><br/><br/>Wallpaper Engine är optimerad för animerade bakgrunder, så om du bara vill använda en statisk bild hänvisas du i så fall till att använda ditt operativsystem.<br/><br/>Vill du fortsätta ändå?",
 	"ui_editor_review_info_header": "Granskningsprocess",
-	"ui_editor_review_info_body": "Din bakgrund kommer att granskas innan andra användare kan hitta och ladda ned den för att säkerställa att den inte bryter mot några regionala lagar.<br/><br/>If you update your wallpaper, it has to be reviewed again and is pushed to the back of the queue.",
 	"ui_editor_workshop_eula_title": "Licensvillkoren för Workshop har ändrats",
 	"ui_editor_workshop_eula_body": "Var god granska och acceptera [[[Platform]]]s senaste abonnentavtal för Workshop innan du fortsätter med uppladdningsprocessen för din bakgrund:",
 	"ui_editor_workshop_eula_button": "Visa licensvillkoren på Steam",
@@ -1665,7 +1664,6 @@
 	"ui_editor_effects_modal_imagelayer_description": "Importera en bild från din dator.",
 	"ui_editor_effects_modal_textlayer_name": "Textlager",
 	"ui_editor_effects_modal_textlayer_description": "Placera text på bakgrunden.",
-	"ui_editor_effects_modal_fullscreenlayer_name": "Efterbearbetningslager",
 	"ui_editor_effects_modal_fullscreenlayer_description": "Lägg till ett genomskinligt lager som täcker hela skärmen. Alla effekter som tillämpas på detta lager kommer att påverka objekt som har ritats på skärmen innan detta lager.<br/><br/>Detta lager kommer alltid att justeras till skärmen och inte förflyttas med bakgrunden. Detta bör användas för helskärmseffekter som inte kräver exakt justering eller maskning för att få den bästa kvaliteten oberoende av skärmstorleken.",
 	"ui_editor_effects_modal_projectlayer_name": "Fullständigt sammansättningslager",
 	"ui_editor_effects_modal_projectlayer_description": "Lägg till ett genomskinligt lager som automatiskt täcker hela bakgrunden. Alla effekter som tillämpas på detta lager kommer att påverka objekt som har ritats innan detta lager.<br/><br/>Detta lager kräver mer prestanda än det efterbearbetade lagret och bör endast användas om du vill noggrant justera effekter med bakgrunden, oberoende från bakgrundens justering eller skärmstorleken.",
@@ -2667,10 +2665,5 @@
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "Modellen har för många morphanimationer (max är {{maxMorphAnim}})",
 	"ui_resourcecompiler_error_model_too_many_morph_vertices": "Modellen har för många morfade hörn (max är {{maxMorphVertices}})",
 	"ui_resourcecompiler_warning_texture_cropped": "Din textur har beskurits för att passa den rekommenderade upplösningen",
-	"ui_win11_23h2_contingency_modal_title": "Kompatibilitet med Windows 11 23H2",
-	"ui_win11_23h2_contingency_modal_body": "Det ser ut som att du använder Windows 11 23H2 (uppdatering från september 2023) eller senare. Microsoft har gjort ändringar på din dator som gör det omöjligt att se levande bakgrunder från Wallpaper Engine. Microsoft har förklarat att de kommer att försöka hitta en lämplig lösning i en framtida Windows-uppdatering.<br/><br/>Tills dess finns det två alternativ för att få Wallpaper Engine att fungera. Du behöver bara <b>en</b> av dem:<br/><b>Alternativ A: Inaktivera HDR-stöd i Windows.</b><br/><b>Alternativ B: Eller låt Wallpaper Engine starta om och ändra Utforskaren när HDR behövs vara aktiverat.</b><br/><br/>För att fortsätta använda Wallpaper Engine kan du antingen inaktivera HDR i Windows eller trycka på <b>OK</b> nedan för att aktivera ändringar i Utforskaren för HDR-stöd, sedan kommer <b>Utforskaren starta om</b> och varje gång Wallpaper Engine startar efter omstart av datorn.",
-	"ui_win11_23h2_contingency_settings_label": "Starta om Utforskaren automatiskt för kompatibilitet med Windows 11 23H2.",
-	"ui_win32_slideshow_compat_modal_check_ignore": "Varna mig inte igen",
-	"ui_win11_23h2_contingency_tip": "HDR-kompatibilitetsläge",
-	"ui_win11_23h2_contingency_tip_modal_message": "Det ser ut som att du använder Windows 11 23H2 (uppdatering från september 2023) eller senare. Den nya HDR-bakgrundsfunktionen i Windows är för närvarande i konflikt med Wallpaper Engine, men Microsoft har förklarat att det här problemet kommer att lösas i en framtida uppdatering.<br/><br/>Under tiden kommer Wallpaper Engine köras i ett speciellt kompatibilitetsläge när HDR är aktiverat med den senaste versionen av Windows 11.<br/><br/>Några problem kan förväntas i den här situationen, så vänta tills full kompatibilitet blir möjlig igen. Att inaktivera HDR i Windows är också ett alternativ för att kringgå detta problem."
+	"ui_win32_slideshow_compat_modal_check_ignore": "Varna mig inte igen"
 }
