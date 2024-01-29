@@ -683,6 +683,8 @@
 	"ui_settings_gfx_ultra_display_hdr": "Ultra (Tampilkan HDR)",
 	"ui_settings_gfx_tooltip_warn_post_processing_ultra": "Mode Ultra menambahkan efek kembang cahaya HDR ke wallpaper yang mendukung efek tersebut dan hanya direkomendasikan untuk perangkat kartu grafis desktop kelas atas yang kuat.",
 	"ui_settings_gfx_tooltip_warn_msaa": "x8 MSAA hanya direkomendasikan untuk kartu grafis desktop kelas atas yang kuat.",
+	"ui_settings_gfx_shadows": "Bayangan:",
+	"ui_settings_gfx_volumetrics": "Pencahayaan Volumetrik:",
 	"ui_settings_performance": "Performa",
 	"ui_settings_general": "Umum",
 	"ui_settings_about": "Tentang",
@@ -898,6 +900,7 @@
 	"ui_welcome_quality_anti_aliasing": "Anti-aliasing:",
 	"ui_welcome_quality_bloom": "Pasca Pemrosesan:",
 	"ui_welcome_quality_reflections": "Pantulan:",
+	"ui_welcome_quality_lighting": "Pencahayaan:",
 	"ui_welcome_windows_color_description": "Biarkan wallpaper mengatur skema warna Windows secara otomatis:",
 	"ui_welcome_windows_color_header": "Atur warna Windows",
 	"ui_welcome_use_dark_theme_description": "Gunakan tema gelap pada program:",
@@ -998,6 +1001,10 @@
 	"ui_editor_modal_project_files_invalid_header": "Proyek Terlalu Besar",
 	"ui_editor_modal_project_files_invalid_body": "Berkas proyek yang dipilih terlalu besar. Anda hanya bisa mengunggah proyek ke Workshop dengan ukuran kurang dari {{size}}.<br/><br/>Batasan ini <i>hanya</i> untuk di Workshop, Anda tentu saja masih bisa menggunakan proyek ini sebagai wallpaper untuk diri Anda sendiri dengan cukup menyeretnya ke dalam peramban wallpaper atau klik <i>Buka Wallpaper</i> di peramban.",
 	"ui_editor_modal_project_files_invalid_toast": "Anda hanya dapat mengunggah sebuah proyek ke Workshop yang lebih kecil dari {{size}}.",
+	"ui_editor_modal_limit_error_shadow_spot_title": "Terlalu banyak Cahaya Sorot dengan Bayangan",
+	"ui_editor_modal_limit_error_shadow_spot_message": "Hanya {{limit}} bayangan dipetakan cahaya sorot yang bisa digunakan secara bersamaan.",
+	"ui_editor_modal_limit_error_cookie_spot_title": "Terlalu banyak Cahaya Sorot dengan Tekstur Terproyeksi",
+	"ui_editor_modal_limit_error_cookie_spot_message": "Hanya {{limit}} cahaya sorot dengan sebuah tekstur terproyeksi yang bisa digunakan secara bersamaan.",
 	"ui_editor_delete_project_modal_header": "Konfirmasi Penghapusan",
 	"ui_editor_delete_project_modal_body": "Apakah Anda yakin untuk menghapus permanen proyek: <br/><b>{{title}}</b> ?<br/><br/>Anda <b>TIDAK AKAN DAPAT</b> memperbarui atau menggunakan proyek ini lagi setelah Anda menghapus ini.",
 	"ui_editor_no_animation_modal_header": "Wallpaper Tidak Beranimasi",
@@ -2336,6 +2343,7 @@
 	"ui_editor_properties_power": "Daya",
 	"ui_editor_properties_pressure": "Tekanan",
 	"ui_editor_properties_probability": "Probabilitas",
+	"ui_editor_properties_project_texture": "Memproyeksi tekstur",
 	"ui_editor_properties_proportional_size": "Ukuran Proporsional",
 	"ui_editor_properties_pulse_alpha": "Denyutan alfa",
 	"ui_editor_properties_pulse_amount": "Jumlah denyutan",
@@ -2690,5 +2698,6 @@
 	"ui_win32_slideshow_compat_modal_title": "Kompatibilitas Windows Slideshow",
 	"ui_win32_slideshow_compat_modal_body": "Sepertinya Anda menggunakan sebuah Slideshow atau Windows Spotlight sebagai wallpaper Windows Anda. Ini akan mengakibatkan wallpaper Windows Anda muncul secara berkala di depan Wallpaper Engine.<br/><br/>Mohon memilih gambar statis atau warna sebagai wallpaper Windows Anda di pengaturan personalisasi Windows untuk menyelesaikan masalah ini.",
 	"ui_win32_slideshow_compat_modal_check_ignore": "Jangan ingatkan lagi",
-	"ui_win32_slideshow_compat_settings_label": "Peringatan Windows Slideshow:"
+	"ui_win32_slideshow_compat_settings_label": "Peringatan Windows Slideshow:",
+	"ui_windows_insider_warning": "Windows Versi Percobaan terdeteksi: Anda menggunakan Windows Insider preview. Jika Wallpaper Engine Anda tidak dapat bekerja dengan semestinya, ganti ke versi stabil Windows untuk memperbaiki masalah tersebut."
 }
