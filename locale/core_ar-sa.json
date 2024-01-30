@@ -28,7 +28,7 @@
 	"core_msgboxtitle_wpe": "Wallpaper Engine",
 	"core_msgbox_deskscapes": "يبدو أن DeskScapes قيد التشغيل، وهذا قد يمنع Wallpaper Engine من العمل.",
 	"core_msgbox_prompt_aero_win7": "Wallpaper Engine يحتاج ويندوز Aero لكي يعمل. هل تريد تشغيل ويندوز Areo الآن؟",
-	"core_msgbox_prompt_aero_win8": "محرك الخلفيات لا يستطيع العمل مع التباين العالي هل تريد اعادة ضبط الثيم الان؟",
+	"core_msgbox_prompt_aero_win8": "لا يمكن تشغيل Wallpaper Engine مع سمة عالية التباين. هل تريد المحاولة بإعادة ضبط السمة الآن؟",
 	"core_msgbox_prompt_high_contrast_was_enabled": "قام Windows للتو بتطبيق سمة \"التباين العالي\" والتي لا تسمح لـ Wallpaper Engine بالعمل.",
 	"core_msgbox_high_contrast_white": "يبدو أن وضع التباين العالي لديك مفعل في ويندوز بالاضافة الى ثيم أبيض عالي التباين. الثيم الأبيض عالي التباين يمنع Wallpaper Engine من ضبط خلفية ديناميكية بسبب طريقة عمل ذلك في ويندوز.\n\nإفتح إعدادات التباين العالي في ويندوز و قم بتغيير أو إيقاف التباين العالي لتستطيع إستخدام Wallpaper Engine.",
 	"core_msgbox_dwm_disabled": "تركيب سطح المكتب معطل",
