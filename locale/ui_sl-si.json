@@ -575,7 +575,6 @@
 	"ui_editor_no_animation_modal_header": "Ozadje ni animirano",
 	"ui_editor_no_animation_modal_body": "Zgleda, da poskušaš prenesti prizor ozadja brez animacije. <b>To ni priporočljivo.</b><br/><br/>Wallpaper Engine je optimiziran za animirana ozadja. Če želiš uporabiti statično sliko, priporočamo uporabo operacijskega sistema.<br/><br/>Želiš kljub temu nadaljevati?",
 	"ui_editor_review_info_header": "Preglej proces",
-	"ui_editor_review_info_body": "Ozadje bo pregledano, preden ga lahko ostali uporabniki najdejo in prenesejo, da ne krši kakšnega lokalnega zakona.<br/><br/>Če posodobiš svoje ozadje, mora biti pregledano ponovno in bo potisnjeno na konec čakalne vrste.",
 	"ui_editor_treeview_header_files": "Uvožene datoteke",
 	"ui_editor_tooltip_layers": "Sloji",
 	"ui_editor_tooltip_scene_options": "Možnosti prizora",
