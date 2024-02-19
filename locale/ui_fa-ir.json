@@ -683,6 +683,7 @@
 	"ui_settings_gfx_ultra_display_hdr": "فوق العاده (نمایش HDR)",
 	"ui_settings_gfx_tooltip_warn_post_processing_ultra": "حالت فوق العاده نور دامنه دینامیکی بالا را به تصاویر زمینه پشتیبانی شده اضافه می کند و فقط برای کارت گرافیک های پیشرفته دسکتاپ قدرتمند توصیه می شود.",
 	"ui_settings_gfx_tooltip_warn_msaa": "x8 MSAA فقط برای کارتهای گرافیکی پیشرفته دسکتاپ قدرتمند توصیه می شود.",
+	"ui_settings_gfx_shadows": "سایه:",
 	"ui_settings_performance": "عملکرد",
 	"ui_settings_general": "کلی",
 	"ui_settings_about": "درباره",
