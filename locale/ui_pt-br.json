@@ -1012,7 +1012,6 @@
 	"ui_editor_no_animation_modal_header": "Papel de parede não animado",
 	"ui_editor_no_animation_modal_body": "Parece que você está tentando enviar um papel de parede de cena sem animação. <b>Isso não é recomendado.</b><br/><br/>O Wallpaper Engine é otimizado para planos de fundo animados, logo caso queira apenas usar uma imagem estática como papel de parede, é recomendável usar os recursos do seu sistema operacional para isso.<br/><br/>Deseja continuar mesmo assim?",
 	"ui_editor_review_info_header": "Processo de análise",
-	"ui_editor_review_info_body": "Em alguns casos, seu papel de parede pode ser marcado para revisão antes que outros usuários possam encontrá-lo e baixá-lo para garantir que ele não viole as regras da [[[Plattform]]]. Seja paciente, você não precisa excluir seu papel de parede.<br/><br/>Se você atualizar ou reenviar seu papel de parede, ele deverá ser revisado novamente e colocado no final da fila.",
 	"ui_editor_workshop_eula_title": "Licença de Software da Oficina foi alterada",
 	"ui_editor_workshop_eula_body": "Leia e aceite o [[[Platform]]] Acordo de Assinatura da Oficina mais recente antes de fazer o upload do seu papel de parede:",
 	"ui_editor_workshop_eula_button": "Exibir Licença de Software no Steam",
