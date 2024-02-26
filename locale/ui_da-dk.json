@@ -1012,6 +1012,7 @@
 	"ui_editor_no_animation_modal_header": "Skrivebordsbaggrund er ikke animeret",
 	"ui_editor_no_animation_modal_body": "Det ser ud til, at du forsøger at uplade en scenisk skrivebordsbaggrund uden animationer. <b>Det anbefales ikke.</b><br/><br/>Wallpaper Engine er optimeret til animerede skrivebordsbaggrunde, så hvis du kun vil bruge et statisk billede anbefales det, at du i stedet bruger dit styresystem.<br/><br/>Vil du fortsætte alligevel?",
 	"ui_editor_review_info_header": "Gennemse proces",
+	"ui_editor_review_info_body": "I nogle tilfælde skal din baggrund først tjekkes, før andre brugere kan finde og downloade den, for at sikre, at den ikke overtræder nogen [[[Platform]]]-regler. Vær tålmodig, det er ikke nødvendigt at slette din baggrund.<br/><br/>Hvis du opdaterer eller uploader din baggrund igen, skal den tjekkes igen, men vil blive placeret sidst på ventelisten.",
 	"ui_editor_workshop_eula_title": "EULA for Værksted er blevet ændret",
 	"ui_editor_workshop_eula_body": "Gennemse og accepter den seneste [[[Platform]]] værksted--abonnementsaftale, så du kan fortsætte med overførselsprocessen af din baggrund:",
 	"ui_editor_workshop_eula_button": "Vis EULA på Stream",
