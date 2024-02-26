@@ -1012,6 +1012,7 @@
 	"ui_editor_no_animation_modal_header": "Wallpaper Tidak Beranimasi",
 	"ui_editor_no_animation_modal_body": "Sepertinya Anda mencoba mengunggah wallpaper tanpa animasi. <b>Hal ini tidak di rekomendasi kan.</b><br/><br/>Wallpaper Engine di optimisasikan untuk wallpaper beranimasi, jadi jika Anda hanya menggunakan gambar statis, disarankan untuk menggunakan sistem operasi Anda untuk kasus tersebut.<br/><br/>Anda yakin untuk melanjutkan?",
 	"ui_editor_review_info_header": "Proses Peninjauan",
+	"ui_editor_review_info_body": "Dalam beberapa kasus, wallpaper Anda mungkin ditandai untuk ditinjau sebelum pengguna lain dapat mencari dan mengunduhnya agar memastikan bahwa wallpaper Anda tidak melanggar peraturan [[[Platform]]]. Mohon bersabar, Anda tidak perlu mesti sampai menghapus wallpaper Anda juga.<br/><br/>Jika Anda memperbarui atau mengunggah ulang wallpaper Anda, wallpaper tersebut harus ditinjau lagi dan akan terdorong kembali ke dalam antrian tinjauan.",
 	"ui_editor_workshop_eula_title": "Workshop EULA Berubah",
 	"ui_editor_workshop_eula_body": "Silakan meninjau dan terima persetujuan [[[Platform]]] Workshop Subscriber Agreement terbaru sebelum Anda melanjutkan proses pengunggahan wallpaper Anda:",
 	"ui_editor_workshop_eula_button": "Tunjukkan EULA di Steam",
