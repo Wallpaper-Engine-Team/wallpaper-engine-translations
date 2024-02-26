@@ -1071,7 +1071,7 @@
 	"ui_editor_no_animation_modal_header" : "Wallpaper Not Animated",
 	"ui_editor_no_animation_modal_body" : "It looks like you are trying to upload a scene wallpaper without animation. <b>This is not recommended.</b><br/><br/>Wallpaper Engine is optimized for animated wallpapers, so if you only want to use a static image, it is advisable to use your operating system in that case.<br/><br/>Do you want to continue anyway?",
 	"ui_editor_review_info_header" : "Review Process",
-	"ui_editor_review_info_body" : "In some cases, your wallpaper may be marked for review before other users can find and download it to ensure that it does not violate [[[Plattform]]] rules. Please be patient, there is no need to delete your wallpaper.<br/><br/>If you update or reupload your wallpaper, it has to be reviewed again and is pushed to the back of the queue.",
+	"ui_editor_review_info_body" : "In some cases, your wallpaper may be marked for review before other users can find and download it to ensure that it does not violate [[[Platform]]] rules. Please be patient, there is no need to delete your wallpaper.<br/><br/>If you update or reupload your wallpaper, it has to be reviewed again and is pushed to the back of the queue.",
 	"ui_editor_workshop_eula_title" : "Workshop EULA Changed",
 	"ui_editor_workshop_eula_body" : "Please review and accept the latest [[[Platform]]] Workshop Subscriber Agreement on before you can continue with the upload process of your wallpaper:",
 	"ui_editor_workshop_eula_button" : "Show EULA on Steam",
