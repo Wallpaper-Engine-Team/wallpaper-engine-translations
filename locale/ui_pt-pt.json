@@ -1012,7 +1012,6 @@
 	"ui_editor_no_animation_modal_header": "Wallpaper não animado",
 	"ui_editor_no_animation_modal_body": "Parece que está a tentar enviar um wallpaper de cena sem animação. <b>Isto não é recomendado.</b><br/><br/>O Wallpaper Engine é otimizado para wallpapers animados, portanto se quiser apenas usar uma imagem estática como wallpaper, é melhor usar os recursos do seu sistema operativo para isso.<br/><br/>Deseja continuar mesmo assim?",
 	"ui_editor_review_info_header": "Processo de revisão",
-	"ui_editor_review_info_body": "Em castos casos, o seu wallpaper será marcado para revisão antes que outros utilizadores o possam encontrar e transferir, de forma a garantir que não infringe quaisquer regras do [[[Plattform]]]. Tenha paciência, pois não é necessário eliminar o seu wallpaper.<br/><br/>Se atualizar o seu wallpaper, este terá de voltar a ser revisto e será empurrado para o fim da fila de espera.",
 	"ui_editor_workshop_eula_title": "O EULA do Workshop foi alterado",
 	"ui_editor_workshop_eula_body": "Leia e aceite o mais recente Contrato de Subscritor do Workshop para [[[Platform]]] antes de poder continuar o processo de envio do seu wallpaper:",
 	"ui_editor_workshop_eula_button": "Mostrar EULA no Steam",
