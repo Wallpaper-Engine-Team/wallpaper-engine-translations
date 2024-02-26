@@ -1012,7 +1012,6 @@
 	"ui_editor_no_animation_modal_header": "壁紙アニメーションなし",
 	"ui_editor_no_animation_modal_body": "アニメーションがないまま壁紙をアップロードしようとしています。<b>注意</b><br/><br/>Wallpaper Engineはアニメーションの壁紙に適したソフトウェアです。静止画の場合はOSからの変更をおすすめします。<br/><br/>それでも続けますか?",
 	"ui_editor_review_info_header": "レビュープロセス",
-	"ui_editor_review_info_body": "壁紙は他のユーザーが使用する前に[[[Plattform]]]の規則に違反していないか審査される場合があります。その際、壁紙を削除する必要はありませんので、ご安心ください。</b></b>もしも、変更または再アップロードを行った場合は、再び審査する必要があります。",
 	"ui_editor_workshop_eula_title": "ワークショップに関するエンドユーザー使用許諾契約が更新されました",
 	"ui_editor_workshop_eula_body": "壁紙のアップロードを実行する前に、[[[Platform]]]のワークショップに関する最新の利用規約を読んだ上で同意してください。",
 	"ui_editor_workshop_eula_button": "Steamのエンドユーザー使用許諾契約を表示",
