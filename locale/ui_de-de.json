@@ -1012,7 +1012,6 @@
 	"ui_editor_no_animation_modal_header": "Hintergrund nicht animiert",
 	"ui_editor_no_animation_modal_body": "Es scheint, als würdest du einen Szene-Hintergrund ohne jegliche Animationen hochladen wollen. <b>Dies wird nicht empfohlen.</b><br/><br/>Wallpaper Engine ist optimiert für animierte Hintergründe, wenn du ein statisches Hintergrund haben möchtest, empfehlen wir dass du ein Hintergrundbild über dein Betriebssystem setzt.<br/><br/>Möchtest du trotzdem fortfahren?",
 	"ui_editor_review_info_header": "Überprüfungsprozess",
-	"ui_editor_review_info_body": "In einigen Fällen kann dein Hintergrund zunächst überprüft werden, bevor andere Nutzer diesen finden und herunterladen können, um sicherzustellen, dass dieser nicht gegen [[[Plattform]]]-Regeln verstößt. Bitte habe dabei ein bisschen Geduld, es ist nicht nötig, deinen Hintergrund zu löschen.<br/><br/>Wenn du deinen Hintergrund aktualisierst oder erneut hochlädst, muss dieser erneut überprüft werden, wird aber an das Ende der Warteliste gestellt.",
 	"ui_editor_workshop_eula_title": "Aktualisierte Workshop-EULA",
 	"ui_editor_workshop_eula_body": "Bitte überprüfe und akzeptiere die neueste [[[Platform]]]-Workshop-Abonnementvereinbarung, bevor du mit dem Upload-Prozess deines Hintergrunds fortfahren kannst:",
 	"ui_editor_workshop_eula_button": "EULA in Steam anzeigen",
