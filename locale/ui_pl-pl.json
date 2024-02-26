@@ -1012,7 +1012,7 @@
 	"ui_editor_no_animation_modal_header": "Tapeta nie jest animowana",
 	"ui_editor_no_animation_modal_body": "Wygląda na to, że chcesz wysłać tapetę bez animacji. <b>Nie jest to zalecane.</b><br/><br/>Program Wallpaper Engine jest zoptymalizowany dla animowanych tapet, więc jeśli chcesz użyć statycznego obrazu, zalecane jest użycie w tym celu systemu operacyjnego.<br/><br/>Czy chcesz kontynuować mimo to?",
 	"ui_editor_review_info_header": "Proces weryfikacji",
-	"ui_editor_review_info_body": "W niektórych przypadkach twoja tapeta może być oznaczona do oceny, zanim inne osoby będą mogły ją znaleźć i pobrać, by upewnić się, że nie narusza ona reguł platformy [[[Plattform]]]. Prosimy o cierpliwość – nie musisz usuwać swojej tapety.<br/><br/>Jeśli zaktualizujesz lub ponownie prześlesz tapetę, będzie trzeba ją ocenić ponownie i trafi ona na koniec kolejki.",
+	"ui_editor_review_info_body": "W niektórych przypadkach twoja tapeta może być oznaczona do oceny, zanim inne osoby będą mogły ją znaleźć i pobrać, by upewnić się, że nie narusza ona reguł platformy [[[Platform]]]. Prosimy o cierpliwość – nie musisz usuwać swojej tapety.<br/><br/>Jeśli zaktualizujesz lub ponownie prześlesz tapetę, będzie trzeba ją ocenić ponownie i trafi ona na koniec kolejki.",
 	"ui_editor_workshop_eula_title": "Zmiana EULA Warsztatu",
 	"ui_editor_workshop_eula_body": "Przeczytaj i zaakceptuj najnowszą umowę użytkownika Warsztatu [[[Platform]]] przed kontynuowaniem przesyłania tapety:",
 	"ui_editor_workshop_eula_button": "Pokaż EULA na platformie Steam",

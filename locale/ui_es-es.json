@@ -1012,7 +1012,7 @@
 	"ui_editor_no_animation_modal_header": "Fondo no animado",
 	"ui_editor_no_animation_modal_body": "Parece que estás intentando cargar un fondo de escenas sin animación. <b>Esto no es recomendable.</b><br/><br/>Wallpaper Engine está optimizado para fondos animados; si solo quieres utilizar una imagen estática, es aconsejable utilizar tu sistema operativo.<br/><br/>¿Quieres continuar de todos modos?",
 	"ui_editor_review_info_header": "En proceso de revisión",
-	"ui_editor_review_info_body": "En algunos casos, se designará la revisión de tu fondo antes de que otros usuarios puedan verlo y descargarlo, para asegurarnos de que no infringe ninguna norma de [[[Plattform]]]. Ten paciencia, no hace falta que elimines el fondo.<br/><br/>Si lo actualizas o vuelves a subirlo, habrá que revisarlo de nuevo y se enviará al final de la cola.",
+	"ui_editor_review_info_body": "En algunos casos, se designará la revisión de tu fondo antes de que otros usuarios puedan verlo y descargarlo, para asegurarnos de que no infringe ninguna norma de [[[Platform]]]. Ten paciencia, no hace falta que elimines el fondo.<br/><br/>Si lo actualizas o vuelves a subirlo, habrá que revisarlo de nuevo y se enviará al final de la cola.",
 	"ui_editor_workshop_eula_title": "Cambios en el acuerdo de licencia de usuario final",
 	"ui_editor_workshop_eula_body": "Revisa y acepta el acuerdo de suscriptor a [[[Platform]]] Workshop más reciente antes de continuar con el proceso de subida del fondo:",
 	"ui_editor_workshop_eula_button": "Mostrar acuerdo de licencia de usuario final en Steam",

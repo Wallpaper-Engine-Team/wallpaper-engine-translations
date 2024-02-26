@@ -1012,7 +1012,7 @@
 	"ui_editor_no_animation_modal_header": "애니메이션 없는 배경화면",
 	"ui_editor_no_animation_modal_body": "애니메이션 없는 장면 배경화면 업로드를 시도하고 있습니다. <b>이 방법은 권장되지 않습니다.</b><br/><br/>Wallpaper Engine은 애니메이션 배경화면에 최적화되었기 때문에 정적인 이미지만 사용하려는 경우 운영 체제를 사용하는 것이 좋습니다.<br/><br/>여전히 계속하시겠습니까?",
 	"ui_editor_review_info_header": "검토 진행 중",
-	"ui_editor_review_info_body": "어떤 경우, 배경화면이 [[[Plattform]]] 규칙을 위반하고 있지 않은지 검토된 후에만 다른 유저들이 찾아서 다운로드할 수 있게 됩니다. 검토가 끝날 때까지 기다려 주세요. 배경화면을 삭제할 필요는 없습니다.<br/><br/>배경화면을 업데이트하거나 다시 업로드하면 다시 검토를 받아야 하며, 대기열의 맨 뒤로 밀릴 것입니다.",
+	"ui_editor_review_info_body": "어떤 경우, 배경화면이 [[[Platform]]] 규칙을 위반하고 있지 않은지 검토된 후에만 다른 유저들이 찾아서 다운로드할 수 있게 됩니다. 검토가 끝날 때까지 기다려 주세요. 배경화면을 삭제할 필요는 없습니다.<br/><br/>배경화면을 업데이트하거나 다시 업로드하면 다시 검토를 받아야 하며, 대기열의 맨 뒤로 밀릴 것입니다.",
 	"ui_editor_workshop_eula_title": "창작마당 이용약관 변경",
 	"ui_editor_workshop_eula_body": "배경화면 업로드를 계속하려면 먼저 최신 [[[Platform]]] 창작마당 이용 약관을 검토하고 수락하세요:",
 	"ui_editor_workshop_eula_button": "Steam에서 이용약관 보기",

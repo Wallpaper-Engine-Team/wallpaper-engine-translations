@@ -1012,7 +1012,7 @@
 	"ui_editor_no_animation_modal_header": "Sfondo non animato",
 	"ui_editor_no_animation_modal_body": "Sembra che si stia tentando di caricare uno sfondo senza animazione. <b>Questa azione non è consigliabile.</b><br/><br/>Wallpaper Engine è ottimizzato per sfondi animati, pertanto se si desidera utilizzare solo immagini statiche, si consiglia di utilizzare il proprio sistema operativo.<br/><br/>Continuare comunque?",
 	"ui_editor_review_info_header": "Processo di revisione",
-	"ui_editor_review_info_body": "In alcuni casi, il tuo sfondo potrebbe essere sottoposto a una revisione prima che gli altri utenti possano trovarlo e usarlo per assicurarci che non violi le regole della [[[Plattform]]]. Non è necessario eliminare il tuo sfondo.<br/><br/>Se aggiorni o carichi nuovamente il tuo sfondo, dovrà essere revisionato nuovamente e verrà rimesso in fondo alla coda.",
+	"ui_editor_review_info_body": "In alcuni casi, il tuo sfondo potrebbe essere sottoposto a una revisione prima che gli altri utenti possano trovarlo e usarlo per assicurarci che non violi le regole della [[[Platform]]]. Non è necessario eliminare il tuo sfondo.<br/><br/>Se aggiorni o carichi nuovamente il tuo sfondo, dovrà essere revisionato nuovamente e verrà rimesso in fondo alla coda.",
 	"ui_editor_workshop_eula_title": "EULA di Workshop modificato",
 	"ui_editor_workshop_eula_body": "Prima di continuare con il processo di caricamento del tuo sfondo, devi leggere e accettare il contratto di sottoscrizione a Workshop per [[[Platform]]]:",
 	"ui_editor_workshop_eula_button": "Mostra EULA su Steam",

@@ -1012,7 +1012,6 @@
 	"ui_editor_no_animation_modal_header": "Fond d'écran non animé",
 	"ui_editor_no_animation_modal_body": "Il semblerait que vous essayiez de charger une scène fond d'écran sans animation. <b>Ceci est déconseillé.</b><br/><br/>Wallpaper Engine est optimisé pour les fonds d'écran animés, alors si vous voulez seulement utiliser une image statique, nous vous conseillons d'utiliser votre système d'exploitation dans ce cas.<br/><br/>Voulez-vous continuer quand même ?",
 	"ui_editor_review_info_header": "Procéder à la révision",
-	"ui_editor_review_info_body": "Dans certains cas, votre fond d'écran peut faire l'objet d'une révision avant que d'autres utilisateurs ne puissent y accéder et le télécharger. Cette révision permet de s'assurer que le fond d'écran n'enfreint pas les règles de [[[Plattform]]]. Veuillez faire preuve de patience, il n'est pas nécessaire de supprimer votre fond d'écran.<br/><br/>Si vous mettez à jour ou téléchargez à nouveau votre fond d'écran, il doit être examiné à nouveau et se retrouvera donc à la fin de la file d'attente.",
 	"ui_editor_workshop_eula_title": "Modification du CLUF de Workshop",
 	"ui_editor_workshop_eula_body": "Veuillez lire et accepter la dernière version de l'accord d'abonnement de [[[Platform]]] Workshop avant de pouvoir continuer le processus de téléchargement de votre fond d'écran :",
 	"ui_editor_workshop_eula_button": "Afficher le CLUF sur Steam",
