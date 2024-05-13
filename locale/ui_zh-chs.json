@@ -839,7 +839,7 @@
 	"ui_settings_advanced_sleep_hack_error_auto_start_header": "需要高优先级自动启动",
 	"ui_settings_advanced_sleep_hack_error_auto_start_body": "使用此功能之前，您需要在顶部页面启用 <b>高优先级</b>的自动启动选项。",
 	"ui_settings_advanced_sleep_hack_enable_warning_header": "警告",
-	"ui_settings_advanced_sleep_hack_enable_warning_body": "仅在休眠后遇到Wallpaper Engine问题时，才能使用此选项。<br/><br/>当某些原因导致Wallpaper Engine在休眠后无法正常工作并使其每次都要重新启动时，才需要使用此选项,这回使该应用每次在Windows设定休眠之后重启。",
+	"ui_settings_advanced_sleep_hack_enable_warning_body": "仅在休眠后遇到Wallpaper Engine问题时，才能使用此选项。<br/><br/>当某些原因导致Wallpaper Engine在休眠后无法正常工作并使其每次都要重新启动时，才需要使用此选项，这会使该应用每次在Windows设定休眠之后重启。",
 	"ui_settings_advanced_restart_setting_modal_header": "确认重启",
 	"ui_settings_advanced_restart_setting_modal_body": "程序需要重新启动以应用此设置。需要立即重启吗？",
 	"ui_settings_windows_7_wallpaper_mode": "Windows 7 模式",
