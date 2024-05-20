@@ -181,7 +181,6 @@
 	"ui_browse_monitors_show_on_start": "Zobraziť pri spustení",
 	"ui_browse_monitors_mute": "Stlmiť",
 	"ui_browse_monitors_unmute": "Zrušiť stlmenie",
-	"ui_browse_monitors_clone_hdr_hint": "Windows nepodporuje klonovanie z HDR na monitor bez HDR.",
 	"ui_browse_monitors_clone_set_source": "Nastaviť hlavný klonovaný monitor",
 	"ui_browse_monitors_clone_remove_source": "Odobrať hlavný klonovaný monitor",
 	"ui_browse_monitors_wallpaper": "Nastaviť Pozadie",
