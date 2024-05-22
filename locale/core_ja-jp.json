@@ -44,6 +44,7 @@
 	"core_msgbox_scene_dx10_err": "グラフィックカードがDirectX 10に対応していないか、グラフィックドライバーが破損しています。Windowsレポート：",
 	"core_fatal_window_creation_failed": "壁紙ウィンドウが作成できませんでした（エラー {{error}}）。これは通常、グラフィックスカードドライバが破損していることによって発生します。グラフィックスカードドライバをクリーン再インストールして、コンピュータを再起動してください。",
 	"core_msgbox_below_win10_title": "サポートされていないWindowsのバージョン",
+	"core_msgbox_below_win10_body": "Wallpaper Engineの最新バージョンをWindows 7または8などのサポートされていないバージョンのWindowsで使用しようとしています。\n\nまずはSteamのゲームプロパティで「Windows 7 support」という名前のWallpaper Engineのベータ版に切り替えてください。",
 	"core_updater_title": "Wallpaper Engine アップデータ",
 	"core_updater_headline_init": "Wallpaper Engineを起動しています...",
 	"core_updater_headline_update": "Wallpaper Engineを更新中です... {{version}}",
