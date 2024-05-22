@@ -44,7 +44,7 @@
 	"core_msgbox_scene_dx10_err": "您的顯示卡不支援 DirectX 10 或是顯示卡驅動程式已損壞。Windows 報告：",
 	"core_fatal_window_creation_failed": "建立桌布視窗失敗（錯誤 {{error}}）。這通常和損壞的顯示卡驅動程式有關。請完整重新安裝顯示卡驅動程式並重新啟動您的電腦。",
 	"core_msgbox_below_win10_title": "不支援的 Windows 版本",
-	"core_msgbox_below_win10_body": "您正嘗試在不支援的 Windows 版本（如 Windows 7 或 8）上使用最新版本的 Wallpaper Engine。\n\n請首先透過 Steam 遊戲的「內容」切換到支援 Windows 7 的 Wallpaper Engine 測試版。",
+	"core_msgbox_below_win10_body": "您正嘗試在不支援的 Windows 版本（如 Windows 7 或 8）上使用最新版本的 Wallpaper Engine。\n\n請首先透過 Steam 遊戲的「內容」切換到名為「Windows 7 support」的 Wallpaper Engine 測試版。",
 	"core_updater_title": "Wallpaper Engine 更新程式",
 	"core_updater_headline_init": "正在設定 Wallpaper Engine……",
 	"core_updater_headline_update": "正在更新 Wallpaper Engine 至版本 {{version}}……",
