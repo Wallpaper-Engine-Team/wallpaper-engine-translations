@@ -568,7 +568,7 @@
 	"ui_browse_modal_folder_remove_body": "您確定要移除此資料夾嗎？",
 	"ui_browse_modal_folder_remove_unsubscribe_and_remove_items": "取消訂閱或移除資料夾內的桌布",
 	"ui_browse_modal_rename_title": "重新命名桌布",
-	"ui_browse_modal_rename_bone_title": "重新命名骨幹",
+	"ui_browse_modal_rename_bone_title": "重新命名關節",
 	"ui_browse_navigation_top": "頂端",
 	"ui_browse_download_header": "[[[Platform]]] 下載",
 	"ui_browse_download_pending": "待處理",
