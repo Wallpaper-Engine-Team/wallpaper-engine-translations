@@ -1185,6 +1185,7 @@
 	"ui_editor_warn_advanced_assets_creation_modal_body": "ตัวเลือกนี้ควรใช้โดยผู้ใช้ขั้นสูงที่คุ้นเคยกับตัวแก้ไขและมีการเผยแพร่ฉากวอลเปเปอร์มาก่อน<br/><br/>การเปิดใช้งานสิ่งนี้จะเพิ่มปุ่มให้กับตัวแก้ไขทำให้คุณสามารถสร้างข้อมูลเดี่ยวใหม่เพื่อแบ่งปันในเวิร์กชอปให้ผู้อื่นใช้ในวอลเปเปอร์ของตนเอง",
 	"ui_editor_warn_puppet_editor_version_mismatch_title": "เวอร์ชันตัวแก้ไขวัตถุที่ปรับเปลี่ยนรูปทรงไม่ตรงกัน",
 	"ui_editor_warn_puppet_editor_version_mismatch_message": "วัตถุที่ปรับเปลี่ยนรูปทรงนี้สร้างขึ้นด้วยตัวแก้ไข Wallpaper Engine เวอร์ชันอื่น คุณต้องเปลี่ยนกลับไปใช้ตัวแก้ไข Wallpaper Engine เวอร์ชันเก่าบน [[[Platform]]] เพื่อแก้ไขวัตถุที่ปรับเปลี่ยนรูปทรงนี้",
+	"ui_editor_warn_puppet_editor_version_mismatch_message_upgrade": "วัตถุที่ปรับเปลี่ยนรูปทรงนี้สร้างขึ้นด้วยตัวแก้ไข Wallpaper Engine เวอร์ชันอื่น และจำเป็นต้องได้รับการแปลงก่อนจึงจะสามารถแก้ไขได้อีกครั้ง<br/><br/>โปรดสำรองข้อมูลโปรเจกต์วอลเปเปอร์ของคุณโดยใช้ปุ่ม<b>บันทึกเป็น</b>ในเมนูไฟล์ก่อน จากนั้นคลิก<b>ตกลง</b>เพื่อทำการแปลง",
 	"ui_editor_warn_puppet_editor_version_mismatch_learn_more": "เรียนรู้เพิ่มเติม",
 	"ui_editor_effect_list_modal_browse_workshop": "เรียกดูเวิร์กชอป",
 	"ui_editor_effect_list_modal_create_new": "สร้าง",
