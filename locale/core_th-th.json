@@ -44,6 +44,7 @@
 	"core_msgbox_scene_dx10_err": "การ์ดจอของคุณไม่รองรับ DirectX 10 หรือไดรเวอร์จอของคุณเสีย Windows รายงานว่า:",
 	"core_fatal_window_creation_failed": "ไม่สามารถสร้างหน้าต่างวอลเปเปอร์ได้ (ข้อผิดพลาด {{error}}) โดยปกติจะเกี่ยวข้องกับความเสียหายของไดรเวอร์การ์ดจอ โปรดติดตั้งไดรเวอร์การ์ดจอใหม่ทั้งหมดและรีสตาร์ทคอมพิวเตอร์ของคุณ",
 	"core_msgbox_below_win10_title": "เวอร์ชัน Windows ที่ไม่รองรับ",
+	"core_msgbox_below_win10_body": "คุณกำลังพยายามใช้ Wallpaper Engine เวอร์ชันล่าสุดบน Windows เวอร์ชันที่ไม่รองรับ เช่น Windows 7 หรือ 8\n\nโปรดเปลี่ยนไปใช้เวอร์ชันเบต้าที่ชื่อว่า 'การสนับสนุน Windows 7' ของ Wallpaper Engine ผ่านทางคุณสมบัติเกม Steam ก่อน",
 	"core_updater_title": "ตัวอัพเดท Wallpaper Engine",
 	"core_updater_headline_init": "กำลังติดตั้ง Wallpaper Engine...",
 	"core_updater_headline_update": "กำลังอัพเดท Wallpaper Engine ไปยังเวอร์ชัน {{version}}...",
