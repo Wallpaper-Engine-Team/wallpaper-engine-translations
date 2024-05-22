@@ -1258,6 +1258,7 @@
 	"ui_editor_warn_advanced_assets_creation_modal_body" : "This option should only be used by advanced users who are familiar with the editor and have published a few Scene wallpapers before.<br/><br/>Enabling this will add buttons to the editor that allow you to create new single assets to be shared on the Workshop for others to re-use in their own wallpapers.",
 	"ui_editor_warn_puppet_editor_version_mismatch_title" : "Puppet Editor Version Mismatch",
 	"ui_editor_warn_puppet_editor_version_mismatch_message" : "This puppet was created with a different version of the Wallpaper Engine Editor. You have to revert to an older version of the Wallpaper Engine Editor on [[[Platform]]] to edit this puppet.",
+	"ui_editor_warn_puppet_editor_version_mismatch_message_upgrade" : "This puppet was created with a different version of the Wallpaper Engine Editor and needs to be converted before it can be edited again.<br/><br/>Please make a backup of your wallpaper project using the <b>Save as</b> option in the file menu first, then click <b>OK</b> to convert it.",
 	"ui_editor_warn_puppet_editor_version_mismatch_learn_more" : "Learn More",
 
 	"ui_editor_effect_list_modal_browse_workshop" : "Browse Workshop",
