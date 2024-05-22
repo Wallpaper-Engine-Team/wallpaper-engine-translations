@@ -1185,6 +1185,7 @@
 	"ui_editor_warn_advanced_assets_creation_modal_body": "Esta opção só deve ser utilizada por utilizadores avançados que estejam familiarizados com o editor e já tenham publicado alguns wallpapers de Cena.<br/><br/>Ativar isto irá adicionar botões ao editor que lhe permitirão criar novos recursos individuais a partilhar no Workshop para que sejam utilizados por outros nos seus próprios wallpapers.",
 	"ui_editor_warn_puppet_editor_version_mismatch_title": "Discrepância de versões do editor de fantoches",
 	"ui_editor_warn_puppet_editor_version_mismatch_message": "Este fantoche foi criado com uma versão diferente do editor do Wallpaper Engine. Tens de reverter para uma versão mais antiga do editor do Wallpaper Engine na plataforma [[[Platform]]] para editar este fantoche.",
+	"ui_editor_warn_puppet_editor_version_mismatch_message_upgrade": "Este fantoche foi criado com uma versão diferente do Editor do Wallpaper Engine e precisa de ser convertido antes que possa voltar a ser editado.<br/><br/>Cria uma cópia de segurança do teu projeto através da opção <b>Guardar como</b> no menu do ficheiro e depois clica em <b>OK</b> para converter.",
 	"ui_editor_warn_puppet_editor_version_mismatch_learn_more": "Mais informações",
 	"ui_editor_effect_list_modal_browse_workshop": "Explorar Workshop",
 	"ui_editor_effect_list_modal_create_new": "Novo",
