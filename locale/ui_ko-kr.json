@@ -1184,7 +1184,7 @@
 	"ui_editor_warn_advanced_assets_creation_modal_header": "자산 생성 활성화",
 	"ui_editor_warn_advanced_assets_creation_modal_body": "이 옵션은 편집기에 익숙하고, 장면 배경화면을 게시한 경험이 있는 고급 사용자만 사용해야 합니다.<br/><br/>이 설정을 활성화하면 편집기에 새로운 단일 자산을 생성할 수 있는 버튼들이 추가되며, 해당 자산은 다른 사용자가 자신의 배경화면에 재사용하도록 창작마당에 공유할 수 있습니다.",
 	"ui_editor_warn_puppet_editor_version_mismatch_title": "퍼펫 편집기 버전 불일치",
-	"ui_editor_warn_puppet_editor_version_mismatch_message": "다른 버전의 Wallpaper Engine 편집기에서 생성한 퍼펫입니다. 편집하려면 [[Platform]]]에 있는 Wallpaper Engine Editor의 구형 버전으로 되돌려야 합니다.",
+	"ui_editor_warn_puppet_editor_version_mismatch_message": "다른 버전의 Wallpaper Engine 편집기에서 생성한 퍼펫입니다. 편집하려면 [[[Platform]]]에 있는 Wallpaper Engine 편집기의 구형 버전으로 되돌려야 합니다.",
 	"ui_editor_warn_puppet_editor_version_mismatch_message_upgrade": "다른 버전의 Wallpaper Engine 편집기에서 생성한 퍼펫입니다. 다시 편집하려면 구형 버전으로 되돌려야 합니다.<br/><br/>우선 파일 메뉴에서 <b>다음 이름으로 저장</b> 옵션을 사용해 배경화면 프로젝트의 백업을 만든 후 <b>확인</b>을 클릭해 되돌려 주세요.",
 	"ui_editor_warn_puppet_editor_version_mismatch_learn_more": "더 알아보기",
 	"ui_editor_effect_list_modal_browse_workshop": "창작마당 탐색",
