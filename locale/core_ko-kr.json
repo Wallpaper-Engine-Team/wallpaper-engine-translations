@@ -44,7 +44,7 @@
 	"core_msgbox_scene_dx10_err": "그래픽 카드가 DirectX 10을 지원하지 않거나, 그래픽 드라이버가 손상되었습니다. Windows 보고:",
 	"core_fatal_window_creation_failed": "배경화면 창을 생성하지 못했습니다 (오류{{error}}). 관계가 있습니다. 이런 오류는 보통 손상된 그래픽 카드 드라이버가 원인입니다. 그래픽 카드 드라이버를 완전히 새로 설치하고 컴퓨터를 다시 시작하세요.",
 	"core_msgbox_below_win10_title": "지원하지 않는 Windows 버전",
-	"core_msgbox_below_win10_body": "Windows 7 또는 8처럼 지원하지 않는 Windows 버전에서 Wallpaper Engine 최신 버전을 사용하려고 합니다.\n\n우선 Steam 게임 속성을 통해 Wallpaper Engine의 'Windows 7 지원' 베타로 전환해 주세요.",
+	"core_msgbox_below_win10_body": "Windows 7 또는 8처럼 지원하지 않는 Windows 버전에서 Wallpaper Engine 최신 버전을 사용하려고 합니다.\n\n우선 Steam 게임 속성을 통해 Wallpaper Engine의 'Windows 7 support' 베타로 전환해 주세요.",
 	"core_updater_title": "Wallpaper Engine 업데이터",
 	"core_updater_headline_init": "Wallpaper Engine 설정 중...",
 	"core_updater_headline_update": "{{version}}버전으로 Wallpaper Engine 업데이트 중...",
