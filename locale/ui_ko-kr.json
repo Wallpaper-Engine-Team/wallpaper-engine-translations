@@ -28,6 +28,7 @@
 	"ui_modal_updaterequired_body": "최신 업데이트를 받기 위해 Wallpaper Engine을 종료하고 (트레이 아이콘을 오른쪽 클릭하고 종료 버튼 클릭) [[[Platform]]]을 통해 다시 실행하십시오. 이 경고가 계속 나타나면, [[[Platform]]]을 통해 응용 프로그램 파일을 확인하십시오.<br/><br/>응용프로그램 버전: <b>{{callerVersion}}</b>, UI 버전: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title": "새 업데이트 사용 가능",
 	"ui_modal_updateavailable_body_distro": "Wallpaper Engine의 새 업데이트가 [[[Platform]]]을 통해 준비되었습니다. ( 버전 <b>{{distroVersion}}</b>). 지금 Wallpaper Engine을 재시작해서 업데이트를 적용하시겠습니까?",
+	"ui_modal_updateavailable_body_title": "지원하지 않는 Windows 버전",
 	"ui_modal_installationpath_error_title": "Windows에 잘못된 설치 경로 등록됨",
 	"ui_modal_installationpath_error_body": "Wallpaper Engine의 파일들이 설치 이후 옮겨진 것 같습니다. 이는 자동 시작 기능을 고장내고, 많은 문제를 일으킵니다.<br/><br/>Wallpaper Engine은 현재 <b>{{runPath}}</b>에서 실행됐지만, [[[Platform]]]은 Wallpaper Engine을 <b>{{steamPath}}</b>에 설치했습니다. 자동 시작 기능이 [[[Platform]]]의 올바른 설치 경로를 사용하도록 수정하십시오. 수정하기 전까지, 이 메시지는 계속 표시될 것입니다.<br/><br/>지금 고칠까요?",
 	"ui_modal_installationpath_fix_auto_start": "자동 시작 기능 수정",
