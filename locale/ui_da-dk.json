@@ -28,6 +28,8 @@
 	"ui_modal_updaterequired_body": "Luk Wallpaper Engine (højreklik på ikonet i proceslinjen og tryk Afslut) og genstart det i [[[Platform]]] for at få den seneste opdatering. Hvis du bliver ved med at se denne advarsel, skal du bekræfte applikationsfilerne i [[[Platform]]].<br/><br/>Programversion: <b>{{callerVersion}}</b>, UI-version: <b>{{appVersion}}</b>.",
 	"ui_modal_updateavailable_title": "Ny opdatering tilgængelig",
 	"ui_modal_updateavailable_body_distro": "En ny opdatering til Wallpaper Engine er hentet af [[[Platform]]] (version <b>{{distroVersion}}</b>). Vil du genstarte Wallpaper Engine nu for at installere opdateringen?",
+	"ui_modal_updateavailable_body_title": "Ikke-understøttet version af Windows",
+	"ui_modal_updateavailable_body_outdated": "Det ser ud til, at du prøver at bruge den nyeste version af Wallpaper Engine på Windows 7 eller 8.</br></br>Skift først til <i>beta</i>-versionen med navnet 'Windows 7-understøttelse' af Wallpaper Engine via spilegenskaberne i Steam.",
 	"ui_modal_installationpath_error_title": "Forkert installationssti registreret i Windows",
 	"ui_modal_installationpath_error_body": "Det ser ud til, at programfilerne til Wallpaper Engine er blevet flyttet efter installationen. Dette ødelægger autofunktionen og medfører en række problemer.<br/><br/>Du kører i øjeblikket Wallpaper Engine fra <b>{{runPath}}</b> men [[[Platform]]] har installeret Wallpaper Engine til <b>{{steamPath}}</b>. Autostart skal opdateres for at bruge [[[Platform]]] s korrekte installationssti. Ellers vil denne besked fortsætte med at blive vist.<br/><br/>Ret dette nu?",
 	"ui_modal_installationpath_fix_auto_start": "Ret autostart",
