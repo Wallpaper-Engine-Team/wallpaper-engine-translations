@@ -44,6 +44,7 @@
 	"core_msgbox_scene_dx10_err": "La tarjeta gráfica no es compatible con DirectX 10 o los controladores están estropeados. Aviso de Windows:",
 	"core_fatal_window_creation_failed": "No se ha podido crear la ventana de fondo (Código de error {{error}}). Suele ocurrir si están dañados los controladores de la tarjeta gráfica. Vuelve a instalarlos desde cero y reinicia el ordenador.",
 	"core_msgbox_below_win10_title": "Versión de Windows no compatible",
+	"core_msgbox_below_win10_body": "Estás intentando usar la última versión de Wallpaper Engine en una versión de Windows que no es compatible, como Windows 7 u 8.\n\nAntes intenta cambiar a la beta llamada \"Windows 7 support\" de Wallpaper Engine dentro de las propiedades del juego en Steam.",
 	"core_updater_title": "Actualizador de Wallpaper Engine",
 	"core_updater_headline_init": "Preparando Wallpaper Engine...",
 	"core_updater_headline_update": "Actualizando Wallpaper Engine a la versión {{version}}...",
