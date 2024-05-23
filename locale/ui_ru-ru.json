@@ -185,6 +185,8 @@
 	"ui_browse_monitors_unmute": "Вкл. звук",
 	"ui_browse_monitors_clone_set_source": "Установить клон основного монитора",
 	"ui_browse_monitors_clone_remove_source": "Удалить клон основного монитора",
+	"ui_browse_monitors_clone_flip": "Отразить клон монитора",
+	"ui_browse_monitors_clone_flip_limitation_title": "Отразить Клон Монитора",
 	"ui_browse_monitors_wallpaper": "Настроить обои",
 	"ui_browse_monitors_screensaver": "Настроить заставку",
 	"ui_browse_monitors_screensaver_mode_label": "Заставка:",
