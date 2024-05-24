@@ -142,7 +142,6 @@
 	"ui_browse_monitors_show_on_start": "Hiển thị khi khởi động",
 	"ui_browse_monitors_mute": "Tắt tiếng",
 	"ui_browse_monitors_unmute": "Bật tiếng",
-	"ui_browse_monitors_clone_hdr_hint": "Windows không hỗ trợ việc nhân bản từ màn hình HDR sang không-HDR.",
 	"ui_browse_monitors_wallpaper": "Cấu hình Màn hình nền",
 	"ui_browse_monitors_screensaver": "Cấu hình Màn hình chờ",
 	"ui_browse_monitors_screensaver_mode_label": "Màn hình chờ:",
