@@ -44,7 +44,7 @@
 	"core_msgbox_scene_dx10_err": "Ваша видеокарта не поддерживает DirectX 10 или графический драйвер поврежден. Отчеты Windows:",
 	"core_fatal_window_creation_failed": "Не удалось создать окно обоев (Ошибка {{error}}). Обычно это связано со сломанными драйверами графической карты. Произведите чистую переустановку драйвера графической карты и перезапустите компьютер.",
 	"core_msgbox_below_win10_title": "Неподдерживаемая версия Windows",
-	"core_msgbox_below_win10_body": "Вы пытаетесь использовать последнюю версию Wallpaper Engine в неподдерживаемой версии Windows, например Windows 7 или 8.\n\nСначала переключитесь на бета-версию Wallpaper Engine, которая назвается «Windows 7 support», через свойства игры Steam.",
+	"core_msgbox_below_win10_body": "Вы пытаетесь использовать последнюю версию Wallpaper Engine в неподдерживаемой версии Windows, например Windows 7 или 8.\n\nСначала переключитесь на бета-версию «Windows 7 support» через свойства приложения Wallpaper Engine в Steam.",
 	"core_updater_title": "Программа обновления Wallpaper Engine",
 	"core_updater_headline_init": "Настройка Wallpaper Engine...",
 	"core_updater_headline_update": "Обновление Wallpaper Engine до версии {{version}}...",
