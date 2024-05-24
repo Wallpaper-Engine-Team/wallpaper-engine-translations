@@ -2830,7 +2830,7 @@
 	"ui_resourcecompiler_error_model_inconsistent_blend_values": "모델의 혼합 가중치 데이터가 불일치합니다",
 	"ui_resourcecompiler_error_assimp_exception": "호환되지 않는 모델 파일",
 	"ui_resourcecompiler_error_assimp_missing_uv_channel_1": "모델에 두 번째 UV 채널이 누락되었습니다",
-	"ui_resourcecompiler_error_puppet_wrong_editor_version": "퍼펫 모델을 컴파일하려면 다른 버전의 Wallpaper Engine이 필요합니다.",
+	"ui_resourcecompiler_error_puppet_wrong_editor_version": "퍼펫 모델을 컴파일하려면 다른 버전의 Wallpaper Engine 편집기가 필요합니다.",
 	"ui_resourcecompiler_error_model_too_many_bones": "모델에 골격이 너무 많습니다(최대 {{maxBones}}개)",
 	"ui_resourcecompiler_error_model_too_many_morph_meshes": "모델에 모핑 애니메이션이 너무 많습니다(최대 {{maxMorphAnim}}개)",
 	"ui_resourcecompiler_error_model_too_many_morph_vertices": "모델에 모핑된 꼭짓점이 너무 많습니다(최대 {{maxMorphVertices}}개)",
