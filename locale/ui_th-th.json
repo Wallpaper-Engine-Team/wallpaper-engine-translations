@@ -29,7 +29,7 @@
 	"ui_modal_updateavailable_title": "มีการอัพเดทใหม่",
 	"ui_modal_updateavailable_body_distro": "ดาวน์โหลดอัพเดทใหม่สำหรับ Wallpaper Engine แล้วโดย [[[Platform]]] (รุ่น <b>{{distroVersion}}</b>) คุณต้องการรีสตาร์ท Wallpaper Engine ตอนนี้เพื่อนำการอัพเดทไปใช้หรือไม่",
 	"ui_modal_updateavailable_body_title": "เวอร์ชัน Windows ที่ไม่รองรับ",
-	"ui_modal_updateavailable_body_outdated": "ดูเหมือนว่าคุณกำลังพยายามใช้ Wallpaper Engine เวอร์ชันล่าสุดบน Windows เวอร์ชันที่ไม่รองรับ เช่น Windows 7 หรือ 8</br></br>โปรดเปลี่ยนไปใช้เวอร์ชัน<i>เบต้า</i>ที่ชื่อว่า 'การสนับสนุน Windows 7' ของ Wallpaper Engine ผ่านทางคุณสมบัติเกม Steam ก่อน",
+	"ui_modal_updateavailable_body_outdated": "ดูเหมือนว่าคุณกำลังพยายามใช้ Wallpaper Engine เวอร์ชันล่าสุดบน Windows เวอร์ชันที่ไม่รองรับ เช่น Windows 7 หรือ 8</br></br>โปรดเปลี่ยนไปใช้เวอร์ชัน<i>เบต้า</i>ที่ชื่อว่า 'Windows 7 support' ของ Wallpaper Engine ผ่านทางคุณสมบัติเกม Steam ก่อน",
 	"ui_modal_installationpath_error_title": "พาธการติดตั้งที่ลงทะเบียนใน Windowsไม่ถูกต้อง",
 	"ui_modal_installationpath_error_body": "ดูเหมือนว่ามีการเคลื่อนย้ายไฟล์โปรแกรมของ Wallpaper Engine หลังจากการติดตั้ง สิ่งนี้จะทำลายฟังก์ชันการเริ่มต้นอัตโนมัติและทำให้เกิดปัญหาจำนวนหนึ่ง<br/><br/>คุณกำลังใช้งาน Wallpaper Engine จาก <b>{{runPath}}</b> แต่ [[[Platform]]] ได้ติดตั้ง Wallpaper Engine ที่ <b>{{steamPath}}</b> การเริ่มต้นอัตโนมัติจำเป็นต้องได้รับการอัปเดตเพื่อใช้พาธการติดตั้งที่ถูกต้องของ [[[Platform]]] มิฉะนั้นข้อความนี้จะยังคงปรากฏขึ้นต่อไป<br/><br/>แก้ไขในตอนนี้หรือไม่",
 	"ui_modal_installationpath_fix_auto_start": "แก้ไขการเริ่มต้นอัตโนมัติ",
