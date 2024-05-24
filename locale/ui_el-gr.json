@@ -558,7 +558,6 @@
 	"ui_editor_project_settings_modal_resolution": "Ανάλυση",
 	"ui_editor_project_settings_modal_name": "Όνομα",
 	"ui_editor_user_properties_select_info": "Επιλέξτε μια ιδιότητα με συμβατό τύπο ({{types}}).",
-	"ui_editor_user_properties_select_unused_warning": "Αυτή η ιδιότητα δεν χρησιμοποιείτε από το εξώφυλλο.",
 	"ui_editor_user_properties": "Προσθήκη ιδιότητας",
 	"ui_editor_user_properties_add_property": "Προσθήκη ιδιότητας",
 	"ui_editor_user_properties_edit_property": "Επεξεργασία ιδιότητας",
