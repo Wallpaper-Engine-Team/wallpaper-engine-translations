@@ -445,7 +445,7 @@
 	"ui_browse_explore_category_genre_popular": "Beliebte <b>{{genre}}</b>-Hintergründe",
 	"ui_browse_explore_category_genre_popular_approved": "Beliebte <b>empfohlene</b> Hintergründe",
 	"ui_browse_explore_category_genre_recent": "Neueste <b>{{genre}}</b>-Hintergründe",
-	"ui_browse_explore_category_genre_recent_approved": "Neueste <b>empfohlene</b> Hintergründe",
+	"ui_browse_explore_category_genre_recent_approved": "Neue <b>empfohlene</b> Hintergründe",
 	"ui_browse_explore_category_genre_recent_month": "Gerade angesagt {{emoji}}",
 	"ui_browse_explore_category_genre_new": "Neue <b>{{genre}}</b> Hintergründe",
 	"ui_browse_explore_category_genre_most_subscribed": "Am meisten abonnierten <b>{{genre}}</b>-Hintergründe",
