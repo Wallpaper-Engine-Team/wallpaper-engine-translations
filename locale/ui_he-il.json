@@ -180,7 +180,6 @@
 	"ui_browse_monitors_show_on_start": "הצג בהתחלה",
 	"ui_browse_monitors_mute": "השתק",
 	"ui_browse_monitors_unmute": "בטל השתקה",
-	"ui_browse_monitors_clone_hdr_hint": "Windows אינו תומך בשיבוט מצגי HDR לשאינם HDR.",
 	"ui_browse_monitors_clone_set_source": "הגדר את תצוגת השיבוט הראשית",
 	"ui_browse_monitors_clone_remove_source": "הסר את תצוגת השיבוט הראשית",
 	"ui_browse_monitors_wallpaper": "הגדר רקע",
