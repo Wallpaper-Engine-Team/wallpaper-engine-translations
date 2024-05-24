@@ -690,7 +690,6 @@
 	"ui_editor_project_settings_modal_resolution": "Resolucija",
 	"ui_editor_project_settings_modal_name": "Ime",
 	"ui_editor_user_properties_select_info": "Izberi združljivo lastnost ({{types}}).",
-	"ui_editor_user_properties_select_unused_warning": "Ta lastnost ni uporabljena v ozadju.",
 	"ui_editor_user_properties": "Dodaj Lastnost",
 	"ui_editor_user_properties_add_property": "Dodaj Lastnost",
 	"ui_editor_user_properties_edit_property": "Uredi lastnost",
