@@ -44,7 +44,7 @@
 	"core_msgbox_scene_dx10_err": "DirectX 10 wird nicht von deiner Grafikkarte unterstützt oder deine Grafikkartentreiber sind defekt. Windows meldet:",
 	"core_fatal_window_creation_failed": "Erstellen des Hintergrund-Fensters fehlgeschlagen (Fehler {{error}}). Dieser Fehler tritt normalerweise auf, wenn ein Defekt im Grafikkartentreiber vorliegt. Führe eine saubere Neuinstallation der Grafikkartentreiber durch und starte danach deinen Computer neu.",
 	"core_msgbox_below_win10_title": "Windows-Version nicht unterstützt",
-	"core_msgbox_below_win10_body": "Du versuchst die neueste Version von Wallpaper Engine auf einer nicht mehr unterstützten Version von Windows zu benutzen, beispielsweise Windows 7 oder 8.\n\nWechsel bitte zur Beta-Version von Wallpaper Engine mit dem Titel \"Windows 7 support\", du findest wenn du die Eigenschaften von Wallpaper Engine in Steam anklickst.",
+	"core_msgbox_below_win10_body": "Du versuchst die neueste Version von Wallpaper Engine auf einer nicht mehr unterstützten Version von Windows zu benutzen, beispielsweise Windows 7 oder 8.\n\nWechsel bitte zur Beta-Version von Wallpaper Engine mit dem Titel \"Windows 7 support\", diese findest du, wenn du die Eigenschaften von Wallpaper Engine in Steam anklickst.",
 	"core_updater_title": "Wallpaper Engine Updater",
 	"core_updater_headline_init": "Wallpaper Engine wird eingerichtet...",
 	"core_updater_headline_update": "Aktualisiere Wallpaper Engine auf Version {{version}}...",
