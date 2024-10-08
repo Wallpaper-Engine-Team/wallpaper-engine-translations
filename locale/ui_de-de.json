@@ -765,7 +765,7 @@
 	"ui_settings_hotkeys_modal_prompt_override_header": "Tastenkombination überschreiben",
 	"ui_settings_hotkeys_modal_prompt_override_body": "Diese Tastenkombination ist bereits gesetzt für '{{action}}'. Möchtest du die Kombination hier ersetzen?",
 	"ui_settings_hotkeys_example": "Tastenkombinationen müssen STRG, Shift (Umschalttaste), Alt enthalten. Beispiele:<br/><br/>Shift + STRG + B<br/>Shift + F1<br/><br/>Ein roter Rand bedeutet, dass dein Tastenkürzel ungültig ist.",
-	"ui_settings_icon_opacity": "Durchsichtigkeit von Desktop-Symbolen:",
+	"ui_settings_icon_opacity": "Sichtbarkeit von Desktop-Symbolen:",
 	"ui_settings_recording_volume": "Aufnahmelautstärke:",
 	"ui_settings_recording_threshold": "Aufnahmelimit:",
 	"ui_settings_audio_input_device": "Audioaufnahme-Geräte:",
