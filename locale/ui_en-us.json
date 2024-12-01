@@ -2746,7 +2746,7 @@
 	"ui_editor_properties_refract_amount" : "Refract amount",
 	"ui_editor_properties_remove" : "Remove",
 	"ui_editor_properties_remove_attachment" : "Remove Attachment",
-	"ui_editor_properties_remove_clipping_mask" : "Remove Clippingmask",
+	"ui_editor_properties_remove_clipping_mask" : "Remove Clipping Mask",
 	"ui_editor_properties_remove_inner" : "Remove Inner Vertices",
 	"ui_editor_properties_remove_option" : "Remove Option",
 	"ui_editor_properties_remove_puppet_warp" : "Remove Puppet Warp",
