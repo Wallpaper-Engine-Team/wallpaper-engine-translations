@@ -1178,6 +1178,7 @@
 	"ui_editor_publish_modal_hint_title": "Tips",
 	"ui_editor_publish_modal_hint_unspecified": "Wallpaper Anda saat ini ditandai sebagai aliran 'Tidak di spesifikan'. Periksa aliran lainnya diatas dan lihat apakah aliran nya cocok dengan kategori yang lebih deskriptif.",
 	"ui_editor_publish_modal_hint_game_anime": "Wallpaper Anda saat ini ditandai sebagai aliran 'Permainan'. Jika permainan nya tersebut adalah bergaya visual <b>seperti Anime</b>, maka sebagai gantinya, Anda harus menggunakan <b>aliran 'Anime'</b>.",
+	"ui_editor_publish_modal_hint_vram": "Wallpaper Anda membutuhkan memori video yang sangat banyak dan diantaranya dapat dikurangi kebutuhannya dengan menggunakan kompresi tekstur. Pertimbangkan untuk mengkompres tekstur berikut ini:<br/>{{files}}<br/><br/><a href='[[[var_url_editor_publish_texture_compression]]]'>Klik disini</a> untuk informasi lebih lanjut.",
 	"ui_editor_publish_modal_info_asset_reuse_header": "Persetujuan Berbagi Aset",
 	"ui_editor_publish_modal_info_asset_reuse_body": "Dengan mengunggah sebuah aset ke [[[Platform]]] Workshop, berarti Anda setuju bahwa pengguna lain mungkin akan menggunakan kembali dan mungkin juga mengunggah versi modifikasi dari aset Anda tanpa sepengetahuan Anda. Aset yang terhapus akan tetap bertahan di wallpaper yang sudah dibuat.",
 	"ui_editor_publish_assets_modal_header_alert": "Anda akan menerbitkan sebuah <b>Aset</b>, bukan wallpaper. Mohon tidak menerbitkan seluruh wallpaper dengan menu ini. Jika Anda ingin menerbitkan wallpaper, <b>klik pesan ini</b>.",
