@@ -877,7 +877,6 @@
 	"ui_editor_publish_modal_header_upload": "Nahrávanie na [[[Platform]]]",
 	"ui_editor_publish_modal_button_publish": "Publikovať",
 	"ui_editor_publish_modal_button_publish_update": "Publikovať aktualizáciu",
-	"ui_editor_publish_modal_publish_successful": "Vec úspešne publikovaná.",
 	"ui_editor_workshop_options_title": "Meno",
 	"ui_editor_workshop_options_description": "Popis",
 	"ui_editor_workshop_options_tags": "Označenia",

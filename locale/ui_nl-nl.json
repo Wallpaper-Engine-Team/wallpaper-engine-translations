@@ -566,7 +566,6 @@
 	"ui_editor_publish_modal_header_upload": "Bezig met uploaden naar [[[Platform]]]",
 	"ui_editor_publish_modal_button_publish": "Publiceren",
 	"ui_editor_publish_modal_button_publish_update": "Publiceer update",
-	"ui_editor_publish_modal_publish_successful": "Item succesvol gepubliceerd.",
 	"ui_editor_publish_modal_snapshot_failed_opening": "Gefaald om bestand te openen: {{file}}.",
 	"ui_editor_publish_modal_snapshot_not_square": "De afbeelding is niet vierkant.",
 	"ui_editor_publish_assets_modal_asset_type_layers": "Lagen",
