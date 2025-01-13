@@ -2061,7 +2061,6 @@
 	"ui_editor_properties_advanced_texture_settings": "Erweiterte Textureinstellungen",
 	"ui_editor_properties_albedo": "Albedo",
 	"ui_editor_properties_alert_danger": "Achtung:",
-	"ui_editor_properties_alert_message_nested_clipping_mask": "Eine Schnittmaske liegt (teilweise) innerhalb einer anderen Schnittmaske, dies wird nicht unterstützt.<a href='[[[var_url_editor_puppet_clipping_mask_nesting]]]'>Klicke hier</a> für weitere Informationen.",
 	"ui_editor_properties_alert_message_pivot_hint": "Rotiere und bewege die Formpuppe mit ALT + Links- / Rechtsklick",
 	"ui_editor_properties_alert_message_pivot_paint_hint": "Während du zeichnest, rotiere und bewege die Formpuppe mit ALT + Links- / Rechtsklick",
 	"ui_editor_properties_alert_tip": "Tipp:",
