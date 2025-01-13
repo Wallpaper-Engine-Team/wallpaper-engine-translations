@@ -2132,7 +2132,6 @@
 	"ui_editor_properties_advanced_texture_settings": "تنظیمات بافت پیشرفته",
 	"ui_editor_properties_albedo": "سپیدایی",
 	"ui_editor_properties_alert_danger": "توجه:",
-	"ui_editor_properties_alert_message_nested_clipping_mask": "یک ماسک برش (تا حدی) در داخل یک ماسک برش دیگر قرار دارد، این مورد پشتیبانی نمی‌شود. برای اطلاعات بیشتر <a href='[[[var_url_editor_puppet_clipping_mask_nesting]]]'>اینجا را کلیک کنید</a>.",
 	"ui_editor_properties_alert_message_pivot_hint": "با ALT + کلیک چپ/راست، عروسک را بچرخانید و حرکت دهید",
 	"ui_editor_properties_alert_message_pivot_paint_hint": "در حین نقاشی، عروسک را با ALT + کلیک چپ/راست بچرخانید و حرکت دهید",
 	"ui_editor_properties_alert_tip": "نکته:",
