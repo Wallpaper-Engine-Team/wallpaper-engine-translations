@@ -2132,7 +2132,6 @@
 	"ui_editor_properties_advanced_texture_settings": "Pengaturan Lanjutan Tekstur",
 	"ui_editor_properties_albedo": "Albedo",
 	"ui_editor_properties_alert_danger": "Perhatian:",
-	"ui_editor_properties_alert_message_nested_clipping_mask": "Sebuah masker kliping (sebagian) disarang di dalam masker kliping lain, ini tidak didukung. <a href='[[[var_url_editor_puppet_clipping_mask_nesting]]]'>Klik disini</a> untuk informasi lebih lanjut.",
 	"ui_editor_properties_alert_message_pivot_hint": "Putar dan pindah puppet nya dengan ALT + klik kiri/kanan",
 	"ui_editor_properties_alert_message_pivot_paint_hint": "Selagi melukis, putar dan pindah puppet nya dengan ALT + klik kiri/kanan",
 	"ui_editor_properties_alert_tip": "Tips:",
