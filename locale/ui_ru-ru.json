@@ -16,6 +16,7 @@
 	"ui_hotkey": "Горячая клавиша: {{key}}",
 	"ui_yes": "Да",
 	"ui_no": "Нет",
+	"ui_create_new": "Создать нов.",
 	"ui_resolution_widescreen": "Широкий экран",
 	"ui_resolution_ultrawide": "Широкий экран «Ультра»",
 	"ui_resolution_dual": "Два монитора",
