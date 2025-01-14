@@ -16,6 +16,7 @@
 	"ui_hotkey": "단축키: {{key}}",
 	"ui_yes": "네",
 	"ui_no": "아니요",
+	"ui_create_new": "신규 생성",
 	"ui_resolution_widescreen": "와이드스크린",
 	"ui_resolution_ultrawide": "울트라 와이드스크린",
 	"ui_resolution_dual": "듀얼 모니터",
