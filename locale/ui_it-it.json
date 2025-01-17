@@ -1179,7 +1179,7 @@
 	"ui_editor_publish_modal_video_invalid": "Il formato del video non può essere riprodotto correttamente. Cambia il formato e riavvia l'editor.",
 	"ui_editor_publish_modal_hint_title": "Suggerimenti",
 	"ui_editor_publish_modal_hint_unspecified": "Attualmente il tuo sfondo è impostato sul genere \"Non specificato\". Dai un'occhiata agli altri generi sopra elencati e vedi se rientra in una categoria più descrittiva.",
-	"ui_editor_publish_modal_hint_game_anime": "Attualmente il tuo sfondo è impostato sul genere \"Gioco\". Se il gioco ha una grafica <b>in stile anime</b>, allora dovrai utilizzare il genere <b>\"Anime\"</b>.",
+	"ui_editor_publish_modal_hint_game_anime": "Attualmente il tuo sfondo è impostato sul genere \"Gioco\". Se il gioco ha una grafica <b>in stile anime</b>, allora dovrai utilizzare il <b>genere \"Anime\"</b>.",
 	"ui_editor_publish_modal_hint_vram": "Lo sfondo richiede molta memoria video e una parte di essa può essere ridotta utilizzando la compressione delle texture. Valuta la possibilità di comprimere le seguenti texture:<br/>{{files}}<br/><br/><a href='[[[var_url_editor_publish_texture_compression]]]'>Fai clic qui</a> per ulteriori informazioni.",
 	"ui_editor_publish_modal_info_asset_reuse_header": "Accordo di condivisione delle risorse",
 	"ui_editor_publish_modal_info_asset_reuse_body": "Caricando un asset sul Workshop di [[[Platform]]], sei consapevole che altri utenti potrebbero riutilizzarlo o ricaricarne una versione modificata a tua insaputa. Gli asset eliminati persisteranno negli sfondi già creati.",
