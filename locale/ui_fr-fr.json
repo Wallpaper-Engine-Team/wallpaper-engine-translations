@@ -1575,7 +1575,7 @@
 	"ui_editor_user_properties_delete_warning_title": "Suppression de la propriété de l'utilisateur publié",
 	"ui_editor_user_properties_delete_warning_message": "Si vous supprimez une propriété existante d'un fond d'écran publié, vous éliminerez tous les paramètres et préréglages que d'autres utilisateurs ont déjà créés à partir de votre fond d'écran.<br/><br/>Nous vous le déconseillons fortement, sauf si vous n'avez publié le fond d'écran que très récemment ou si vous supprimez une propriété utilisateur qui n'était pas utilisée auparavant.",
 	"ui_editor_user_properties_delete_warning_title_unpublished": "Supprimer proprieté d'utilisateur",
-	"ui_editor_user_properties_delete_warning_message_unpublished": "Êtes-vous sûr de vouloir supprimer la propriété d'utilisateur <b>{{name}}</b> ?",
+	"ui_editor_user_properties_delete_warning_message_unpublished": "Voulez-vous vraiment supprimer la propriété d'utilisateur <b>{{name}}</b> ?",
 	"ui_editor_user_properties_delete_warning_confirm": "Supprimer propriété",
 	"ui_editor_system_resource_modal": "Couvertures d'album",
 	"ui_editor_system_resource_modal_texture": "Texture",
