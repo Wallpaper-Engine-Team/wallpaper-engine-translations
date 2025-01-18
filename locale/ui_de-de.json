@@ -1053,6 +1053,7 @@
 	"ui_editor_modal_limit_error_cookie_spot_title": "Zu viele Scheinwerfer-Lichter mit projizierten Texturen",
 	"ui_editor_modal_limit_error_cookie_spot_message": "Nur {{limit}} Scheinwerferlichter mit einer projizierten Textur können zur selben Zeit verwendet werden. Alle anderen werden automatisch auf normale Lichter zurückgesetzt.",
 	"ui_editor_modal_limit_error_shadow_directional_title": "Zu viele Lichtquellen mit kaskadierenden Shadow-Maps",
+	"ui_editor_modal_limit_error_shadow_directional_message": "Die Höchstgrenze von {{limit}} Lichtern wurde erreicht. Der Hintergrund wird nur die nächstgelegenden Lichter anzeigen.<br/><br/><b>Wenn dein Hintergrund eine bestimmte Reihenfolge der sichtbaren Lichter voraussetzt, musst du dies manuell steuern, indem du die Sichtbarkeit der Lichter an- und ausschaltest. Eine automatische Steuerung der Lichte könnte sich in einem zukünftigen Update noch verändern, daher kannst du dich nicht darauf verlassen.</b>",
 	"ui_editor_modal_limit_error_lights_general_title": "Maximale Lichtanzahl erreicht",
 	"ui_editor_delete_project_modal_header": "Löschung bestätigen",
 	"ui_editor_delete_project_modal_body": "Bist du sicher, dass du das folgende Projekt löschen willst: <br/><b>{{title}}</b>?<br/><br/>Du wirst <b>nicht</b> mehr in der Lage sein dieses Projekt nach dem Löschen zu aktualisieren oder zu nutzen.",
