@@ -519,7 +519,6 @@
 	"ui_editor_publish_modal_header_upload": "Ανέβασμα στο [[[Platform]]]",
 	"ui_editor_publish_modal_button_publish": "Δημοσίευση",
 	"ui_editor_publish_modal_button_publish_update": "Δημοσίευση ενημέρωσης",
-	"ui_editor_publish_modal_publish_successful": "Το αντικείμενο δημοσιεύθηκε με επιτυχία.",
 	"ui_editor_workshop_options_title": "Τίτλος",
 	"ui_editor_workshop_options_description": "Περιγραφή",
 	"ui_editor_workshop_options_tags": "Ετικέτες",
