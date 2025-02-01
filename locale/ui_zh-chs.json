@@ -1147,7 +1147,7 @@
 	"ui_editor_importer_texture_format_rgba8888": "高质量 - 无压缩 (RGBA 8888)",
 	"ui_editor_importer_texture_format_dxt5": "较好效能 - 轻微压缩 (DXT5)",
 	"ui_editor_importer_texture_format_dxt1": "高效能 - 中等压缩等级 (DXT1)",
-	"ui_editor_importer_pixel_art_optimization": "象素优化 - (禁用双线形过滤)",
+	"ui_editor_importer_pixel_art_optimization": "像素画优化 - (禁用双线形过滤)",
 	"ui_editor_template_wizard_header": "模板向导",
 	"ui_editor_template_wizard_select_option": "选择选项",
 	"ui_editor_template_wizard_details": "详情",
