@@ -25,6 +25,7 @@
 	"core_balloon_wallpaper_file_missing": "Гэтыя шпалеры немагчыма адкрыць праз адсутнасць файлаў.",
 	"core_msgboxtitle_error": "Памылка",
 	"core_msgboxtitle_app_conflict": "Канфліктуючыя праграмы",
+	"core_msgboxtitle_wpe": "Wallpaper Engine",
 	"core_msgbox_deskscapes": "Падобна, што запушчаны DeskScapes. Гэта можа блакаваць працу Wallpaper Engine.",
 	"core_msgbox_prompt_aero_win7": "Для працы Wallpaper Engine неабходна ўключыць рэжым Aero. Уключыць рэжым Aero?",
 	"core_msgbox_prompt_aero_win8": "Wallpaper Engine не можа быць запушчаны разам з тэмай «Высокая кантраснасць». Скінуць тэму?",
