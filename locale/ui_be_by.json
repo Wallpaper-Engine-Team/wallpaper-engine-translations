@@ -235,7 +235,7 @@
 	"ui_browse_modal_remove_local_body": "Вы ўпэўнены, што жадаеце выдаліць лакальныя шпалеры: <b>{{title}}</b>?",
 	"ui_browse_modal_remove_preset_info": "<br/><br/>Наступныя шаблоны залежаць ад шпалер, на якія вы спрабуеце адмяніць падпіску, і яны таксама будуць выдаленыя: <b>{{presets}}</b>",
 	"ui_browse_modal_subscribe_preset_header": "Падпіска на шаблон для шпалер",
-	"ui_browse_modal_subscribe_preset_body": "Шпалеры з'яўляецца шаблонам для іншай шпалеры, на якую вам трэба падпісацца для наступнага выкарыстання.<br/><br/>Падпісацца на абодва?",
+	"ui_browse_modal_subscribe_preset_body": "Шпалеры <b>{{title}}</b> з'яўляецца шаблонам для іншай шпалеры, на якую вам трэба падпісацца для наступнага выкарыстання.<br/><br/>Падпісацца на абодва?",
 	"ui_browse_modal_subscribe_preset_open_dependency": "Адкрыць залежнасць",
 	"ui_browse_open_url_header": "Адкрыць шпалеры па спасылцы",
 	"ui_browse_open_url_name": "Імя",
