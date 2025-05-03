@@ -769,7 +769,7 @@
 	"ui_settings_hotkeys_modal_prompt_override_header": "Timpa Pintasan",
 	"ui_settings_hotkeys_modal_prompt_override_body": "Tombol keyboard ini telah ditetapkan untuk '{{action}}'. Sebagai gantinya, apakah Anda ingin menetapkannya disini?",
 	"ui_settings_hotkeys_example": "Pintasan harus mengandung tombol Ctrl, Shift, Alt. Contoh:<br/><br/>Shift + Ctrl + B<br/>Shift + F1<br/><br/>Tanda merah menunjukkan pintasan Anda tidak sah.",
-	"ui_settings_wallpaper_browser_transition": "Jelajahi transisi wallpaper:",
+	"ui_settings_wallpaper_browser_transition": "Pratinjau transisi penjelajah wallpaper:",
 	"ui_settings_icon_opacity": "Transparansi ikon desktop:",
 	"ui_settings_recording_volume": "Volume rekaman:",
 	"ui_settings_recording_threshold": "Ambang rekaman:",
