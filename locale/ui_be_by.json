@@ -1586,7 +1586,7 @@
 	"ui_editor_clean_project_modal_info": "Файлы будуць перамешчаныя ў сметніцу і пры неабходнасці іх можна будзе аднавіць.",
 	"ui_editor_clean_project_modal_hint_empty": "Невыкарыстоўваных файлаў не знойдзена.",
 	"ui_editor_clean_project_modal_confirm": "Выдаліць файлы",
-	"ui_editor_snapshot_instructions": "1. Намалюйце трыкутнік мышкай.\n2. Націсніце Enter, каб зрабіць скрыншот.\n\nНацісніце Space для паўзы.\nНацісніце S, каб перайсці на 10 секунд наперад.\n{{mode}}\nНацісніце Escape, каб скасаваць.",
+	"ui_editor_snapshot_instructions": "1. Намалюйце прастакутнік мышкай.\n2. Націсніце Enter, каб зрабіць скрыншот.\n\nНацісніце Space для паўзы.\nНацісніце S, каб перайсці на 10 секунд наперад.\n{{mode}}\nНацісніце Escape, каб скасаваць.",
 	"ui_editor_snapshot_instructions_overlay": "Націсніце O для выбару выявы для верхняга празрыстага пласта.{{clearimg}}",
 	"ui_editor_snapshot_instructions_overlay_clear": "\nНацісніце X, каб выдаліць выяву на верхнім пласце.",
 	"ui_editor_snapshot_instructions_img_mode": "Націсніце G, каб увайсці ў рэжым запісу GIF.\n{{overlay}}",
