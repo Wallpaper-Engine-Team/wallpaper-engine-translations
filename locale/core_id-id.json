@@ -44,7 +44,7 @@
 	"core_msgbox_scene_dx10_err": "Kartu grafis Anda tidak mendukung DirectX 10 atau driver grafis Anda rusak. Laporan Windows:",
 	"core_fatal_window_creation_failed": "Gagal membuat jendela wallpaper (Galat {{error}}). Ini biasanya terkait dengan kerusakan driver kartu grafis. Lakukan pemasangan ulang total driver kartu grafis Anda dan aktifkan ulang kembali komputer Anda.",
 	"core_msgbox_below_win10_title": "Versi Windows Tidak Didukung",
-	"core_msgbox_below_win10_body": "Anda sedang menggunakan versi terbaru dari Wallpaper Engine pada versi sistem operasi Windows yang tidak didukung, seperti Windows 7 atau 8.\n\nMohon beralih ke mode beta nya Wallpaper Engine yang bernama 'Windows 7 support' melalui pengaturan properti game Steam terlebih dahulu.",
+	"core_msgbox_below_win10_body": "Anda sedang menggunakan versi terbaru dari Wallpaper Engine pada versi sistem operasi Windows yang tidak didukung, seperti Windows 7 atau 8.\n\nMohon beralih ke mode beta nya Wallpaper Engine yang bernama 'Windows 7 support' melalui pengaturan properti gim Steam terlebih dahulu.",
 	"core_updater_title": "Pembaru Wallpaper Engine",
 	"core_updater_headline_init": "Mengatur Wallpaper Engine...",
 	"core_updater_headline_update": "Memperbarui Wallpaper Engine ke versi {{version}}...",
