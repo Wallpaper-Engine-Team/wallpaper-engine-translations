@@ -17,7 +17,7 @@
 	"core_tray_mute": "Выкл. гук",
 	"core_tray_unmute": "Укл. гук",
 	"core_tray_playlist_prefix": "Плэйліст:",
-	"core_balloon_info": "Каб выбраць шпалеры пстрыкніце два разы па значку Wallpaper Engine у галіне паведамленняў.",
+	"core_balloon_info": "Wallpaper Engine згорнуты ў трэй. Двойчы пстрыкніце па значку ў трэі, каб абраць шпалеры.",
 	"core_balloon_desktop_window_error": "Памылка падрыхтоўкі працоўнага стала да жывых шпалер.",
 	"core_balloon_video_error": "Памылка відэа Windows: {{err}}. Націсніце сюды для атрымання даведкі.",
 	"core_balloon_app_error": "Памылка загрузкі праграмы ў якасці фону працоўнага стала.",
