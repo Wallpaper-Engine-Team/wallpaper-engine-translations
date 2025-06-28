@@ -703,7 +703,6 @@
 	"ui_settings_playback_new_rule_open_in_workshop": "Ouvrir dans Workshop",
 	"ui_settings_playback_condition_is_running": "En cours d'exécution",
 	"ui_settings_playback_condition_is_focused": "Ciblé",
-	"ui_settings_playback_condition_is_maximized": "Optimisé",
 	"ui_settings_playback_condition_is_fullscreen": "Plein écran",
 	"ui_settings_playback_condition_is_playing_audio": "Lit un fichier audio",
 	"ui_settings_playback_rule_remove": "Supprimer",
