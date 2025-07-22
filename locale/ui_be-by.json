@@ -2863,7 +2863,7 @@
 	"ui_editor_properties_context_menu_bind_attachment_projection_modal_select_attachment": "Абраць злучэнне",
 	"ui_editor_properties_context_menu_bind_attachment_projection_modal_select_attachment_msg": "Абярыце злучэнне для адсочвання. Гэта зменіць бягучы скрыпт ва ўласцівасцях.",
 	"ui_editor_particle_editor": "Рэдактар часціц",
-	"ui_editor_particle_selected": "Абрана:",
+	"ui_editor_particle_selected": "Выбрана:",
 	"ui_editor_particle_delete_particle_header": "Выдаліць часціцу",
 	"ui_editor_particle_delete_particle_body": "Вы ўпэўненыя, што жадаеце выдаліць сістэму часціц {{particle}}?",
 	"ui_editor_particle_duplicate_particle_header": "Дубляваць часціцу",
