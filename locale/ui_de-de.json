@@ -85,7 +85,7 @@
 	"ui_browse_advertise_send_to_mobile": "Klicke hier, um diesen Hintergrund an dein Mobilgerät zu senden!",
 	"ui_browse_no_service_header": "[[[Platform]]]-Dienste sind nicht verfügbar",
 	"ui_browse_no_service_body": "Die <b>[[[Platform]]] Workshop-Server</b> sind derzeit nicht erreichbar. Dabei handelt es sich nicht um ein Problem mit Wallpaper Engine oder deinem Computer. Bitte warte einige Stunden und versuche es erneut.<br/><br/>Es handelt sich um ein Problem mit den [[[Platform]]]-Servern und das [[[Platform]]]-Team ist derzeit dabei, die Server zu reparieren.",
-	"ui_browse_no_service_body_use_backup": "<br/><br/>Wallpaper Engine versucht nun ein Notfall-Backup anzuzeigen, bis die [[[Platform]]]-Servers vom [[[Platform]]]-Team repariert wurden.",
+	"ui_browse_no_service_body_use_backup": "<br/><br/>Wallpaper Engine versucht nun ein Notfall-Backup anzuzeigen, bis die [[[Platform]]]-Server vom [[[Platform]]]-Team repariert wurden.",
 	"ui_browse_reload": "Neu laden",
 	"ui_browse_clear_filters": "Filter zurücksetzen",
 	"ui_browse_preset_filter_notice": "Zeige Vorkonfigurationen für {{title}} an",
