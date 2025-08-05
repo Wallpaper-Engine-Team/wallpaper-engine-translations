@@ -1165,7 +1165,6 @@
 	"ui_editor_workshop_modal_rating_body_violence_rating": "Případy, ve kterých postavy drží zbraně, se nepočítají jako vyobrazení násilí a nemusí být označovány.",
 	"ui_editor_workshop_modal_rating_header_sexual_content": "Sexuální obsah",
 	"ui_editor_workshop_modal_rating_body_sexual_content_warning": "Opravdové vyobrazení sexuálního obsahu je přísně zakázáno.",
-	"ui_editor_workshop_modal_rating_body_sexual_content_rating": "Jemná nahota: Vaše tapeta obsahuje malé případy částečné nahoty nebo jiná sexuální témata.</br>Úplná nahota: Vaše tapeta obsahuje nahé postavy nebo jiná převážně sexuální témata.</br>Obsah pro dospělé: Vaše tapeta obsahuje sexuální akty nebo sexuální obsah, který je pouze pro dospělé.",
 	"ui_editor_workshop_modal_rating_button_violence_none": "Žádná krev nebo násilí",
 	"ui_editor_workshop_modal_rating_button_violence_included": "Závažné vyobrazení nereálného násilí a krve",
 	"ui_editor_workshop_modal_rating_button_sexual_content_none": "Žádný sexuální obsah",
