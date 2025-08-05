@@ -30,7 +30,6 @@
 	"ui_modal_updateavailable_title": "Nová aktualizácia k dispozícii",
 	"ui_modal_updateavailable_body_distro": "Nová aktualizácia pre Wallpaper Engine bola stiahnutá [[[Platform]]]om (verzia <b>{{distroVersion}}</b>). Chceli by ste reštartovať Wallpaper Engine teraz na aplikovanie aktualizácie?",
 	"ui_modal_updateavailable_body_title": "Nepodporovaná verzia Windows",
-	"ui_modal_updateavailable_body_outdated": "Vyzerá to, že sa pokúšate použiť najnovšiu verziu Wallpaper Engine na Windows 7 alebo 8.</br></br>Prepnite prosím na <i>beta</i> kategoriu s názvom 'Windows 7 support' v rámci vlastností hry Wallpaper Engine na Steame.",
 	"ui_modal_installationpath_error_title": "Chybná inštalačná cesta registrovaná v systéme Windows",
 	"ui_modal_installationpath_error_body": "Vyzerá to, že súbory Wallpaper Engine boli po inštalácii presunuté. Toto znemožňuje funkciu automatického spustenia a spôsobuje problémy.<br/><br/>Aktuálne máš Wallpaper Engine spustený z <b>{{runPath}}</b>, ale [[[Platform]]] nainštaloval Wallpaper Engine do <b>{{steamPath}}</b>. Funkcia automatického spustenia potrebuje aktualizáciu cesty inštalácie z [[[Platform]]], inak sa táto správa bude naďalej zobrazovať.<br/><br/>Opraviť to teraz?",
 	"ui_modal_installationpath_fix_auto_start": "Opraviť automatické spustenie",
