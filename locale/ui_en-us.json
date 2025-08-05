@@ -3308,7 +3308,7 @@
 	"ui_editor_particle_element_renderer_sprite" : "Sprite",
 	"ui_editor_particle_element_renderer_sprite_description" : "Render particles as basic flat quads.",
 	"ui_editor_particle_element_renderer_spritetrail" : "Sprite trail",
-	"ui_editor_particle_element_renderer_spritetrail_description" : "Render particles as streaks that point in the direction they are moving",
+	"ui_editor_particle_element_renderer_spritetrail_description" : "Render particles as streaks that point in the direction they are moving.",
 
 	"ui_editor_particle_remap_value_option_lifetimefraction" : "Lifetime fraction",
 	"ui_editor_particle_remap_value_option_maxlifetime" : "Maximum lifetime",
