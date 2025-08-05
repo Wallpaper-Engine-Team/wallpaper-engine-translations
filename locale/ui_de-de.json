@@ -2915,6 +2915,7 @@
 	"ui_editor_particle_duplicate_particle_body": "Gib den Namen des neuen Partikelsystems ein:",
 	"ui_editor_particle_new_particle_header": "Neues Partikelsystem",
 	"ui_editor_particle_new_particle_body": "Gib den Namen des neuen Partikelsystems ein:",
+	"ui_editor_particle_add_element_documentation": "Dokumentation",
 	"ui_editor_particle_add_element_emitter_header": "Emissionsquelle hinzufügen",
 	"ui_editor_particle_add_element_emitter_body": "Wähle einen Emissionsquelle aus, welche neue Partikel erstellt.",
 	"ui_editor_particle_add_element_initializer_header": "Initialisierer hinzufügen",
