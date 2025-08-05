@@ -1174,7 +1174,6 @@
 	"ui_editor_workshop_modal_rating_body_violence_rating": "Fall där karaktärer håller i vapen räknas inte som skildringar av våld och behöver inte markeras.",
 	"ui_editor_workshop_modal_rating_header_sexual_content": "Sexuellt innehåll",
 	"ui_editor_workshop_modal_rating_body_sexual_content_warning": "Verklig skildring av sexuellt innehåll är strängt förbjudet.",
-	"ui_editor_workshop_modal_rating_body_sexual_content_rating": "Mild nakenhet: Din bakgrund innehåller milda fall av partiell nakenhet eller andra lindrigt sexuella teman.</br>Fullständig nakenhet: Din bakgrund innehåller nakna karaktärer eller andra övervägande sexuella teman.</br>Vuxet innehåll: Din bakgrund innehåller sexuella handlingar eller sexuellt innehåll som endast är för vuxna.",
 	"ui_editor_workshop_modal_rating_button_violence_none": "Inget blod eller våld",
 	"ui_editor_workshop_modal_rating_button_violence_included": "Grovt orealistiskt våld eller blod",
 	"ui_editor_workshop_modal_rating_button_sexual_content_none": "Inget sexuellt innehåll",
