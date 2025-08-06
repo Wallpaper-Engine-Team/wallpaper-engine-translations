@@ -302,7 +302,6 @@
 	"ui_browse_properties_image_filter": "Bild-Filter",
 	"ui_browse_properties_filter_strength": "Filter-Stärke",
 	"ui_browse_properties_image_filter_none": "Kein Filter",
-	"ui_browse_properties_image_filter_absolute": "Absolut",
 	"ui_browse_properties_accent_color": "Akzentfarben",
 	"ui_browse_properties_background_color": "Hintergrundfarbe",
 	"ui_browse_properties_car_body_color": "Fahrzeugfarbe",
