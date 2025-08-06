@@ -302,7 +302,6 @@
 	"ui_browse_properties_image_filter": "Resim süzgeci",
 	"ui_browse_properties_filter_strength": "Süzgeç gücü",
 	"ui_browse_properties_image_filter_none": "Hiçbiri",
-	"ui_browse_properties_image_filter_absolute": "Kesin",
 	"ui_browse_properties_accent_color": "Vurgu rengi",
 	"ui_browse_properties_background_color": "Arka plan rengi",
 	"ui_browse_properties_car_body_color": "Araba gövdesi rengi",
