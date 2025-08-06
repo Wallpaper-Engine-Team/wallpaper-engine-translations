@@ -17,6 +17,8 @@
 	"ui_yes": "Ya",
 	"ui_no": "Tidak",
 	"ui_create_new": "Buat Baru",
+	"ui_apply": "Terapkan",
+	"ui_clear": "Hapus",
 	"ui_resolution_widescreen": "Layar Lebar",
 	"ui_resolution_ultrawide": "Layar Lebar Ultra",
 	"ui_resolution_dual": "Dua Monitor",
