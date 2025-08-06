@@ -318,7 +318,6 @@
 	"ui_browse_properties_image_filter" : "Image filter",
 	"ui_browse_properties_filter_strength" : "Filter strength",
 	"ui_browse_properties_image_filter_none" : "None",
-	"ui_browse_properties_image_filter_absolute" : "Absolute",
 
 	"ui_browse_properties_accent_color" : "Accent color",
 	"ui_browse_properties_background_color" : "Background color",
