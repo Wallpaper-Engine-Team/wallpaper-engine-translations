@@ -3304,7 +3304,7 @@
 	"ui_editor_particle_element_renderer_rope" : "Rope",
 	"ui_editor_particle_element_renderer_rope_description" : "Renders all existing particles connected as a single rope. Particles are connected in order of spawn time.",
 	"ui_editor_particle_element_renderer_ropetrail" : "Rope trail",
-	"ui_editor_particle_element_renderer_ropetrail_description" : "Create a trailing rope for each particle and follow it.",
+	"ui_editor_particle_element_renderer_ropetrail_description" : "Creates a trail for each particle that follows the particle movement.",
 	"ui_editor_particle_element_renderer_sprite" : "Sprite",
 	"ui_editor_particle_element_renderer_sprite_description" : "Render particles as basic flat quads.",
 	"ui_editor_particle_element_renderer_spritetrail" : "Sprite trail",
