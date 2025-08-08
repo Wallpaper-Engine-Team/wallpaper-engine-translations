@@ -2524,6 +2524,7 @@
 	"ui_editor_properties_disable_size_overrides" : "Disable size overrides",
 	"ui_editor_properties_disable_speed_overrides" : "Disable speed overrides",
 	"ui_editor_properties_disabled" : "Disabled",
+	"ui_editor_properties_disable_interaction_propagation" : "Disable interaction propagation",
 	"ui_editor_properties_dissipation" : "Dissipation",
 	"ui_editor_properties_distance" : "Distance",
 	"ui_editor_properties_distance_inner" : "Distance inner",
