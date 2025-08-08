@@ -3167,7 +3167,6 @@
 	"ui_editor_particle_element_renderer_rope": "绳索",
 	"ui_editor_particle_element_renderer_rope_description": "将所有现有粒子连接为单条绳索进行渲染。粒子按生成时间顺序连接。",
 	"ui_editor_particle_element_renderer_ropetrail": "绳索拖尾",
-	"ui_editor_particle_element_renderer_ropetrail_description": "为每个粒子创建一条拖曳绳索，并跟随它。",
 	"ui_editor_particle_element_renderer_sprite": "精灵",
 	"ui_editor_particle_element_renderer_sprite_description": "将粒子渲染为基本的平面四边形。",
 	"ui_editor_particle_element_renderer_spritetrail": "精灵拖尾",
