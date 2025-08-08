@@ -2218,7 +2218,6 @@
 	"ui_editor_properties_chroma_red_blue": "紅、藍",
 	"ui_editor_properties_chroma_yellow_purple": "黃、紫",
 	"ui_editor_properties_chromatic_aberration": "色差",
-	"ui_editor_properties_clamp_uvs": "鎖定 UV 貼圖範圍",
 	"ui_editor_properties_clear": "清除",
 	"ui_editor_properties_clip": "裁剪",
 	"ui_editor_properties_clipping_mask": "裁剪遮罩",
