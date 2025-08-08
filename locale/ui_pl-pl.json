@@ -2008,6 +2008,7 @@
 	"ui_editor_stats_performance_group_warning_expensive": "Za dużo <b>wymagających</b> efektów w użyciu:",
 	"ui_editor_stats_performance_group_warning_very_expensive": "Za dużo <b>bardzo wymagających</b> efektów w użyciu:",
 	"ui_editor_stats_light_count": "Dynamiczne elementy oświetlenia:",
+	"ui_editor_stats_clipping_mask_pass_count": "Przejścia maski przycinającej:",
 	"ui_editor_script_run": "Biegnij",
 	"ui_editor_script_run_scripts": "Uruchom Podgląd",
 	"ui_editor_script_stop": "Zatrzymaj",
