@@ -2903,6 +2903,7 @@
 	"ui_editor_particle_element_operator_angularmovement_description": "เปิดใช้การเคลื่อนไหวเชิงมุมให้กับพาร์ติเคิลและยังสามารถปรับใช้แรงเชิงมุมในขณะที่พาร์ติเคิลยังปรากฏอยู่ได้ด้วย",
 	"ui_editor_particle_element_operator_colorchange": "เปลี่ยนสี",
 	"ui_editor_particle_element_operator_controlpointattract": "แรงจุดควบคุม",
+	"ui_editor_particle_element_operator_controlpointattract_description": "ปรับใช้แรงตามตำแหน่งจุดควบคุมดึงเข้าหรือดันออกที่กำหนด",
 	"ui_editor_particle_element_operator_movement": "การเคลื่อนไหว",
 	"ui_editor_particle_element_operator_oscillatealpha": "แอลฟาการแกว่ง",
 	"ui_editor_particle_element_operator_oscillateposition": "ตำแหน่งการแกว่ง",
