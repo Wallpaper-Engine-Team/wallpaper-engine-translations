@@ -2247,6 +2247,7 @@
 	"ui_editor_properties_audio_frequency": "Fréquence audio",
 	"ui_editor_properties_audio_response": "Réponse audio",
 	"ui_editor_properties_auto_depth": "Profondeur auto",
+	"ui_editor_properties_average": "Moyenne",
 	"ui_editor_properties_axis": "Axe",
 	"ui_editor_properties_axis_max": "Axe max",
 	"ui_editor_properties_axis_min": "Axe min",
