@@ -32,7 +32,7 @@
 	"ui_modal_updateavailable_title": "Nova atualização disponível",
 	"ui_modal_updateavailable_body_distro": "Uma nova atualização para o Wallpaper Engine foi descarregada pela [[[Platform]]] (versão <b>{{distroVersion}}</b>). Deseja reiniciar o Wallpaper Engine agora para aplicar a atualização?",
 	"ui_modal_updateavailable_body_title": "Versão incompatível do Windows",
-	"ui_modal_updateavailable_body_outdated": "Parece que estás a tentar usar a versão mais recente do Wallpaper Engine no Windows 7 ou 8.<br/><br/>Muda para a <i>beta</i> com o nome \"Windows 7 support\" do Wallpaper Engine através das propriedades de jogo do Steam.",
+	"ui_modal_updateavailable_body_outdated": "Parece que está a tentar usar a versão mais recente do Wallpaper Engine no Windows 7 ou 8.<br/><br/>Mude para a <i>beta</i> com o nome \"Windows 7 support\" do Wallpaper Engine através das propriedades de jogo do Steam.",
 	"ui_modal_installationpath_error_title": "Diretório de instalação errado registado no Windows",
 	"ui_modal_installationpath_error_body": "Parece que os ficheiros do Wallpaper Engine foram movidos após a instalação. Isto quebra a função de inicialização automática e causa vários problemas.<br/><br/>Está atualmente a executar o Wallpaper Engine a partir de <b>{{runPath}}</b>, mas a [[[Platform]]] instalou o Wallpaper Engine em <b>{{steamPath}}</b>. A inicialização automática precisa de ser atualizada para usar o diretório de instalação correto da [[[Platform]]], senão esta mensagem vai continuar a aparecer.<br/><br/>Reparar agora?",
 	"ui_modal_installationpath_fix_auto_start": "Reparar auto-inicialização",
