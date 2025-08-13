@@ -3082,7 +3082,7 @@
 	"ui_editor_particle_element_emitter_boxrandom": "สุ่มกล่อง",
 	"ui_editor_particle_element_emitter_boxrandom_description": "สร้างพาร์ติเคิลที่ตำแหน่งแบบสุ่มภายในรูปทรงกล่อง",
 	"ui_editor_particle_element_emitter_layerimage": "รูปภาพเลเยอร์",
-	"ui_editor_particle_element_emitter_layerimage_description": "ปล่อยพาร์ติเคิลจากรูปภาพ ข้อความ หรือเลเยอร์รูปทรง (Puppet) คุณสามารถใช้ Mask เพิ่มเติมเพื่อจำกัดพื้นที่ปล่อยพาร์ติเคิลได้ โดยจะคำนึงถึงแอนิเมชันการปรับเปลี่ยนรูปทรง (Pupet Warp) เมื่อปล่อยพาร์ติเคิลและพาร์ติเคิลจะสามารถเริ่มปล่อยด้วยสีของภาพเลเยอร์ที่ตำแหน่งปล่อย",
+	"ui_editor_particle_element_emitter_layerimage_description": "ปล่อยพาร์ติเคิลจากรูปภาพ ข้อความ หรือเลเยอร์รูปทรง (Puppet) คุณสามารถใช้ Mask เพิ่มเติมเพื่อจำกัดพื้นที่ปล่อยพาร์ติเคิลได้ โดยจะคำนึงถึงแอนิเมชันของ Pupet Warp เมื่อปล่อยพาร์ติเคิลและพาร์ติเคิลจะสามารถเริ่มปล่อยด้วยสีของภาพเลเยอร์ที่ตำแหน่งปล่อย",
 	"ui_editor_particle_element_emitter_sphererandom": "สุ่มวงกลม",
 	"ui_editor_particle_element_emitter_sphererandom_description": "สร้างพาร์ติเคิลที่ตำแหน่งแบบสุ่มภายในทรงกลม",
 	"ui_editor_particle_element_initializer_alpharandom": "สุ่มแอลฟา",
