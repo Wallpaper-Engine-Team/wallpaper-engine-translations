@@ -2974,7 +2974,7 @@
 	"ui_editor_properties_tracking": "A registar",
 	"ui_editor_properties_transform": "Transformar",
 	"ui_editor_properties_transform_function": "Função de transformação",
-	"ui_editor_properties_transform_input_scale": "Escala de entrada da transformação",
+	"ui_editor_properties_transform_input_scale": "Transformar escala de entrada",
 	"ui_editor_properties_transform_octaves": "Transformar oitavas",
 	"ui_editor_properties_transform_repeat": "Repetir transformação",
 	"ui_editor_properties_translate": "Traduzir",
