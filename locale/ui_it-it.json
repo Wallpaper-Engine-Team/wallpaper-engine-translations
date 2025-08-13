@@ -3183,7 +3183,7 @@
 	"ui_editor_particle_remap_value_option_opacity": "Opacità",
 	"ui_editor_particle_remap_value_option_speed": "Velocità",
 	"ui_editor_particle_remap_value_option_rotation": "Rotazione",
-	"ui_editor_particle_remap_value_option_angularspeed": "Vlocità angolare",
+	"ui_editor_particle_remap_value_option_angularspeed": "Velocità angolare",
 	"ui_editor_particle_remap_value_option_distancetocontrolpoint": "Distanza dal punto di controllo",
 	"ui_editor_particle_remap_value_option_positionbetweentwocontrolpoints": "Posiziona tra due punti di controllo",
 	"ui_editor_particle_remap_value_option_runtime": "Tempo di esecuzione",
