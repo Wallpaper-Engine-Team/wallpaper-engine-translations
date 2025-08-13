@@ -599,7 +599,7 @@
 	"ui_browse_modal_user_shortcut_path": "路徑：",
 	"ui_browse_modal_user_shortcut_arguments": "擴增：",
 	"ui_browse_modal_user_shortcut_command": "指令：",
-	"ui_browse_modal_user_shortcut_url": "URL：",
+	"ui_browse_modal_user_shortcut_url": "連結：",
 	"ui_browse_modal_user_shortcut_usage_hint": "點擊相應的桌布元素，就能迅速存取本機的檔案或資料夾、網站，或主控台的指令。<br/><br/><b>請注意：</b>您在這裡輸入的內容，都不會與任何人分享。僅輸入您完全信任的檔案或網站。請勿複製貼上您不理解的指令。",
 	"ui_browse_modal_user_shortcut_paste_warning": "<b>安全提示</b>：僅輸入您完全信任的檔案及網站。請勿複製貼上您不信任的指令。",
 	"ui_browse_modal_seasonal_info_body": "我們改變了 Wallpaper Engine 的主題以配合時機！此主題將會在幾天後改回去。<br/><br/>如果您不喜歡，您可以停用設定畫面中的<i>季節性主題設定</i>或隨時改變主題。<br/><br/><i>探索</i>分頁中也有特殊清單列出了配合節日的桌布！",
