@@ -3162,7 +3162,7 @@
 	"ui_editor_particle_element_operator_collisionsphere": "Сфера столкновения",
 	"ui_editor_particle_element_operator_collisionsphere_description": "Сталкивает частицы со сферой.",
 	"ui_editor_particle_element_operator_collisionbox": "Столкновение с прямоугольником",
-	"ui_editor_particle_element_operator_collisionbox_description": "Сталкивает частицы с внутренними сторонами прямоугольного параллелепипеда.",
+	"ui_editor_particle_element_operator_collisionbox_description": "Сталкивает частицы со сторонами прямоугольника.",
 	"ui_editor_particle_element_operator_collisionbounds": "Столкновение с границами экрана",
 	"ui_editor_particle_element_operator_collisionbounds_description": "Сталкивает частицы с 2D-границами сцены.",
 	"ui_editor_particle_element_operator_collisionquad": "Столкновение с прямоугольником",
