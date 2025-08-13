@@ -3107,7 +3107,7 @@
 	"ui_editor_particle_element_initializer_inheritinitialvaluefromevent_description": "Lê um valor do evento da partícula superior e aplica-o como valor inicial para esta partícula.",
 	"ui_editor_particle_element_initializer_rotationrandom": "Rotação aleatória",
 	"ui_editor_particle_element_initializer_rotationrandom_description": "Define um valor aleatório para a rotação inicial.",
-	"ui_editor_particle_element_initializer_positionoffsetrandom": "Deslocação aleatória da posição",
+	"ui_editor_particle_element_initializer_positionoffsetrandom": "Compensação aleatória da posição",
 	"ui_editor_particle_element_initializer_positionoffsetrandom_description": "Compensa a posição da partícula com movimento browniano fracionário.",
 	"ui_editor_particle_element_initializer_sizerandom": "Tamanho aleatório",
 	"ui_editor_particle_element_initializer_sizerandom_description": "Define um valor aleatório para o tamanho inicial.",
