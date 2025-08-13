@@ -3118,7 +3118,7 @@
 	"ui_editor_particle_element_initializer_inheritcontrolpointvelocity": "สืบทอดความเร็วจุดควบคุม",
 	"ui_editor_particle_element_initializer_inheritcontrolpointvelocity_description": "เพิ่มความเร็วปัจจุบันของจุดควบคุมที่กำหนดให้กับพาร์ติเคิล",
 	"ui_editor_particle_element_operator_alphachange": "เปลี่ยนแอลฟา",
-	"ui_editor_particle_element_operator_alphachange_description": "ผสานค่าอัลฟ่าระหว่างสองค่าตลอดเวลาแสดงของพาร์ติเคิล",
+	"ui_editor_particle_element_operator_alphachange_description": "ผสานค่าแอลฟาระหว่างสองค่าตลอดเวลาแสดงของพาร์ติเคิล",
 	"ui_editor_particle_element_operator_alphafade": "เฟดแอลฟา",
 	"ui_editor_particle_element_operator_alphafade_description": "กำหนดค่าเฟดเข้าเฟดออกของพาร์ติเคิลอย่างง่ายดายระหว่างช่วงเวลาแสดงพาร์ติเคิลเพื่อให้มันสร้างขึ้นและนำออกอย่างราบลื่น",
 	"ui_editor_particle_element_operator_angularmovement": "การเคลื่อนไหวเชิงมุม",
