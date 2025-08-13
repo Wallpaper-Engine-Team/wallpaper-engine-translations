@@ -3156,7 +3156,7 @@
 	"ui_editor_particle_element_operator_remapvalue": "Replica valore",
 	"ui_editor_particle_element_operator_remapvalue_description": "Legge un attributo o un valore di un punto di controllo e lo trasforma in qualcos'altro a ogni fotogramma.",
 	"ui_editor_particle_element_operator_inheritvaluefromevent": "Eredita valore da evento",
-	"ui_editor_particle_element_operator_inheritvaluefromevent_description": "Legge un valore dall'evento particella superiore e lo applica come valore attuale per questa particella. In genere è utile solo per gli eventi di seguimento.",
+	"ui_editor_particle_element_operator_inheritvaluefromevent_description": "Legge un valore dall'evento della particella superiore e lo applica come valore attuale per questa particella. In genere è utile solo per gli eventi di seguimento.",
 	"ui_editor_particle_element_operator_collisionplane": "Collisione con piano",
 	"ui_editor_particle_element_operator_collisionplane_description": "Le particelle entrano in collisione con un piano infinito.",
 	"ui_editor_particle_element_operator_collisionsphere": "Collisone con sfera",
