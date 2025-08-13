@@ -3088,7 +3088,7 @@
 	"ui_editor_particle_element_initializer_alpharandom": "Alfa aleatório",
 	"ui_editor_particle_element_initializer_alpharandom_description": "Defina o valor alfa como um valor aleatório.",
 	"ui_editor_particle_element_initializer_angularvelocityrandom": "Velocidade angular aleatória",
-	"ui_editor_particle_element_initializer_angularvelocityrandom_description": "Defina e velocidade angular inicial para um valor aleatório.",
+	"ui_editor_particle_element_initializer_angularvelocityrandom_description": "Defina a velocidade angular inicial para um valor aleatório.",
 	"ui_editor_particle_element_initializer_colorrandom": "Cor aleatória",
 	"ui_editor_particle_element_initializer_colorrandom_description": "Selecione uma cor inicial aleatória entre duas cores fornecidas.",
 	"ui_editor_particle_element_initializer_hsvcolorrandom": "Cor HSV aleatória",
