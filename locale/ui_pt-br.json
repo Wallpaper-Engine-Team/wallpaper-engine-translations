@@ -3174,7 +3174,7 @@
 	"ui_editor_particle_element_renderer_ropetrail": "Trilha de corda",
 	"ui_editor_particle_element_renderer_ropetrail_description": "Cria um rastro para cada partícula que segue o movimento da partícula.",
 	"ui_editor_particle_element_renderer_sprite": "Sprite",
-	"ui_editor_particle_element_renderer_sprite_description": "Renderiza partículas como quadrados planos básicos.",
+	"ui_editor_particle_element_renderer_sprite_description": "Renderiza partículas como objetos retangulares planos básicos.",
 	"ui_editor_particle_element_renderer_spritetrail": "Sprite trail",
 	"ui_editor_particle_element_renderer_spritetrail_description": "Renderiza partículas como listras que apontam na direção em que estão se movendo.",
 	"ui_editor_particle_remap_value_option_lifetimefraction": "Fração do tempo de vida",
