@@ -2994,7 +2994,7 @@
 	"ui_editor_properties_update_bone_mask": "Elegir huesos de animación",
 	"ui_editor_properties_update_bone_mask_info": "Elegir huesos que formarán parte de la animación.",
 	"ui_editor_properties_update_emission_bitmap_periodically": "Actualizar emisión del mapa de bits periódicamente",
-	"ui_editor_properties_update_emission_bitmap_periodically_hint": "Coste muy elevado de rendimiento. Usa solo esta opción en capas con contenido que cambia frecuentemente, como los relojes.",
+	"ui_editor_properties_update_emission_bitmap_periodically_hint": "Coste muy elevado de rendimiento. Usa esta opción solo en capas con contenido que cambia frecuentemente, como los relojes.",
 	"ui_editor_properties_upright": "Vertical",
 	"ui_editor_properties_use_24h_format": "Usar formato de 24 horas",
 	"ui_editor_properties_uv_scale": "Escala UV",
