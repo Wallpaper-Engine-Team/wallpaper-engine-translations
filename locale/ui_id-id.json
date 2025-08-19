@@ -3080,6 +3080,8 @@
 	"ui_editor_particle_element_tag_required_angular_movement": "Pergerakan sudut",
 	"ui_editor_particle_element_tag_required_angular_movement_tip": "Membutukan operator pergerakan sudut",
 	"ui_editor_particle_element_emitter_boxrandom": "Kotak acak",
+	"ui_editor_particle_element_emitter_boxrandom_description": "Munculkan partikel pada posisi acak di dalam bentuk kotak.",
+	"ui_editor_particle_element_emitter_layerimage": "Lapisan gambar",
 	"ui_editor_particle_element_emitter_sphererandom": "Lingkaran acak",
 	"ui_editor_particle_element_initializer_alpharandom": "Alfa acak",
 	"ui_editor_particle_element_initializer_angularvelocityrandom": "Kecepatan sudut acak",
