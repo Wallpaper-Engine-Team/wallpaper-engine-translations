@@ -2593,7 +2593,6 @@
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_subdivision_hint": "Слишком высокий параметр подразделения, попробуйте выставить его на 2 или ниже.<br/><br/>При меньшем количестве подразделений вам будет проще редактировать вершины. В противном случае вам придется удалять много лишних вершин, прежде чем поставить новые, более понятные вам.<br/><br/>Все равно хотите продолжить?",
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_vertex_count": "Модель марионетки содержит слишком много вершин для изменения вручную. Попробуйте снизить параметр подразделения.",
 	"ui_editor_properties_lock_to_control_point": "Привязка к контрольной точке",
-	"ui_editor_properties_lock_to_pointer": "Прикрепить к указателю",
 	"ui_editor_properties_locked": "Заблокировано",
 	"ui_editor_properties_loop": "Петля",
 	"ui_editor_properties_low": "Низко",
