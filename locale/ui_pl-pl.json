@@ -2593,7 +2593,6 @@
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_subdivision_hint": "Opcję podziału ustawiono zbyt wysoko; spróbuj zmienić ją na wartość 2 lub mniejszą.<br/><br/>Edycja wierzchołków jest skuteczniejsza przy mniejszej wartości podziału; w przeciwnym razie konieczne będzie usunięcie wielu wierzchołków, zanim będzie można odpowiednio umieścić nowe.<br/><br/>Czy chcesz kontynuować?",
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_vertex_count": "Marionetka ma zbyt wiele wierzchołków, by umożliwić ręczną edycję. Spróbuj najpierw zmniejszyć wartość podziału.",
 	"ui_editor_properties_lock_to_control_point": "Zablokuj przy punkcie kontrolnym",
-	"ui_editor_properties_lock_to_pointer": "Zablokuj przy wskaźniku",
 	"ui_editor_properties_locked": "Zablokowano",
 	"ui_editor_properties_loop": "Pętla",
 	"ui_editor_properties_low": "Niskie",
