@@ -2593,7 +2593,6 @@
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_subdivision_hint": "گزینه زیربخش خیلی بالا تنظیم شده است، سعی کنید آن را روی 2 یا کمتر تنظیم کنید.<br/><br/>ویرایش راس با یک عدد زیربخش کمتر موثرتر است، در غیر این صورت قبل از اینکه بتوانید موارد جدید به طرز معقولی قرار دهید باید رئوس زیادی را حذف کنید.<br/><br/>آیا هنوز می خواهید ادامه دهید؟",
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_vertex_count": "مدل عروسکی دارای رئوس بسیار زیادی برای ویرایش دستی است. ابتدا گزینه زیربخش را کاهش دهید.",
 	"ui_editor_properties_lock_to_control_point": "قفل به نقطه کنترل",
-	"ui_editor_properties_lock_to_pointer": "قفل در نشانگر",
 	"ui_editor_properties_locked": "قفل",
 	"ui_editor_properties_loop": "حلقه",
 	"ui_editor_properties_low": "پایین",
