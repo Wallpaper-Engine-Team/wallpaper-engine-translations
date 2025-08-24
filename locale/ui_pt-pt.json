@@ -2593,7 +2593,6 @@
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_subdivision_hint": "A opção de subdivisão está definida demasiado alta, experimente definir como 2 ou inferior.<br/><br/>A edição de vértices é mais eficaz com um número de subdivisão mais baixo, caso contrário terá de remover muitos vértices antes de poder colocar novos de forma sensata.<br/><br/>Mesmo assim, quer continuar?",
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_vertex_count": "O modo fantoche tem demasiados vértices para edição manual. Primeiro, experimente reduzir a opção de subdivisão.",
 	"ui_editor_properties_lock_to_control_point": "Fixar no ponto de controlo",
-	"ui_editor_properties_lock_to_pointer": "Seguir cursor",
 	"ui_editor_properties_locked": "Bloqueado",
 	"ui_editor_properties_loop": "Repetição",
 	"ui_editor_properties_low": "Baixa",
