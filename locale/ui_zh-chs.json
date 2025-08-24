@@ -2593,7 +2593,6 @@
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_subdivision_hint": "细分选项设置过高，请尝试将其设置为 2 或更低。<br/><br/>细分数越低，顶点编辑越有效，否则您不得不移除大量顶点，然后才能合理地放置新顶点。<br/><br/>是否仍要继续？",
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_vertex_count": "操控模型的顶点过多，无法进行手动编辑。首先尝试减少细分选项。",
 	"ui_editor_properties_lock_to_control_point": "锁定控制点",
-	"ui_editor_properties_lock_to_pointer": "锁定到指针",
 	"ui_editor_properties_locked": "已锁定",
 	"ui_editor_properties_loop": "循环",
 	"ui_editor_properties_low": "低",
