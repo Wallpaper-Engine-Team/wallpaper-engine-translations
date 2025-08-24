@@ -2593,7 +2593,6 @@
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_subdivision_hint": "Aliosastovaihtoehto on asetettu liian suureksi. Kokeile asettaa sen arvoksi 2 tai pienempi.<br/><br/>Verteksien muokkaus on tehokkaampaa pienemmällä aliosastonumerolla. Muuten joudut poistamaan paljon verteksejä ennen kuin pystyt asettamaan uusia järkevästi.<br/><br/>Haluatko vielä jatkaa?",
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_vertex_count": "Nukkemallissa on liikaa verteksejä manuaalista muokkausta varten. Kokeile ensin aliosastovaihtoehdon pienentämistä.",
 	"ui_editor_properties_lock_to_control_point": "Lukitse ohjauspisteeseen",
-	"ui_editor_properties_lock_to_pointer": "Lukitse osoittimeen",
 	"ui_editor_properties_locked": "Lukittu",
 	"ui_editor_properties_loop": "Toista",
 	"ui_editor_properties_low": "Alhainen",
