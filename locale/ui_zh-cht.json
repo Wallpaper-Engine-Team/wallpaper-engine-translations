@@ -2593,7 +2593,6 @@
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_subdivision_hint": "細分選項設定得過高，請嘗試將其設定為 2 或更低的數值。<br/><br/>使用較低的細分數值進行頂點編輯較有效率，否則需要明確地放置新的頂點前會需要刪除許多頂點。<br/><br/>仍想要繼續嗎？",
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_vertex_count": "人偶模型有太多頂點，無法進行手動編輯。請先試著降低細分選項。",
 	"ui_editor_properties_lock_to_control_point": "鎖定至控制點",
-	"ui_editor_properties_lock_to_pointer": "鎖定於指標",
 	"ui_editor_properties_locked": "已鎖定",
 	"ui_editor_properties_loop": "循環",
 	"ui_editor_properties_low": "低",
