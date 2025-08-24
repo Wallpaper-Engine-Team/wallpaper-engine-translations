@@ -2593,7 +2593,6 @@
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_subdivision_hint": "Underinddelingsindstillingen er indstillet for højt, prøv at indstille den til 2 eller lavere.<br/><br/>Redigering af hjørner er mere effektiv med et lavere underinddelingsnummer, ellers bliver du nødt til at fjerne mange hjørner, før du kan placere nye fornuftigt.<br/><br/>Vil du stadig fortsætte?",
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_vertex_count": "Marionetmodellen har for mange hjørner til manuel redigering. Prøv først at reducere indstillingen for underinddeling.",
 	"ui_editor_properties_lock_to_control_point": "Fastgør til kontrolpunkt",
-	"ui_editor_properties_lock_to_pointer": "Lås til cursor",
 	"ui_editor_properties_locked": "Låst",
 	"ui_editor_properties_loop": "Loop",
 	"ui_editor_properties_low": "Lav",
