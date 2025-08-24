@@ -2593,7 +2593,6 @@
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_subdivision_hint": "세분 옵션이 너무 높게 설정되어 있습니다. 2 이하로 설정해 보세요.<br/><br/>꼭짓점 편집은 세분 수치가 낮을수록 더 효과적이며, 너무 높은 경우 여러 개의 꼭짓점을 제거해야만 새 꼭짓점을 적절하게 배치할 수 있습니다.<br/><br/>정말 계속하시겠습니까?",
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_vertex_count": "퍼펫 모델에 꼭짓점이 너무 많아 수동 편집이 불가능합니다. 우선 세분 옵션을 줄여보세요.",
 	"ui_editor_properties_lock_to_control_point": "제어점 잠금",
-	"ui_editor_properties_lock_to_pointer": "포인터 잠금",
 	"ui_editor_properties_locked": "잠김",
 	"ui_editor_properties_loop": "루프",
 	"ui_editor_properties_low": "낮음",
