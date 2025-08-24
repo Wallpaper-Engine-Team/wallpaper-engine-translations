@@ -2593,7 +2593,6 @@
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_subdivision_hint": "Занадта высокі параметр падраздзялення, паспрабуйце выставіць яго на 2 або ніжэй.<br/><br/>Рэдагаваць вяршыні прасцей з меншай колькасцю падраздзяленняў. У іншым выпадку вам давядзецца выдаляць шмат лішніх вяршыняў, перш чым вы зможаце эфектыўна размясціць новыя.<br/><br/>Усё роўна хочаце працягнуць?",
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_vertex_count": "Мадэль лялькі мае занадта шмат вяршыняў для змены ўручную. Паспрабуйце зменшыць параметр падпадзялення.",
 	"ui_editor_properties_lock_to_control_point": "Зафіксаваць да кантрольнай кропкі",
-	"ui_editor_properties_lock_to_pointer": "Прымацаваць да ўказальніку",
 	"ui_editor_properties_locked": "Заблакавана",
 	"ui_editor_properties_loop": "Пятля",
 	"ui_editor_properties_low": "Нізкі",
