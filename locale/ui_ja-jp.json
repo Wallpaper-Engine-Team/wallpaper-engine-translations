@@ -2593,7 +2593,6 @@
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_subdivision_hint": "サブディビジョンオプションの設定が高すぎます。2以下に設定してください。<br/><br/>頂点の編集は低めのサブディビジョンの方が有効であり、高サブディビジョンでは新しく頂点を適切に置く前に多くの頂点を削除する必要があります。<br/><br/>それでも続けますか？",
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_vertex_count": "パペットモデルの頂点が手動編集には多すぎます。まず細分オプションを削減してください。",
 	"ui_editor_properties_lock_to_control_point": "コントロールポイントにロック",
-	"ui_editor_properties_lock_to_pointer": "ポインタをロック",
 	"ui_editor_properties_locked": "ロック",
 	"ui_editor_properties_loop": "ループ",
 	"ui_editor_properties_low": "低",
