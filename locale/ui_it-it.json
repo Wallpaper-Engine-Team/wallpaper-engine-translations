@@ -2593,7 +2593,6 @@
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_subdivision_hint": "L'opzione di suddivisione impostata è troppo alta, prova a impostarla su 2 o su un numero inferiore.<br/><br/>La modifica dei vertici è più efficace con un numero di suddivisione inferiore, altrimenti si dovranno rimuoverne molti prima di poterne inserire di nuovi in modo ragionevole.<br/><br/>Vuoi continuare comunque?",
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_vertex_count": "L'alterazione marionetta ha troppi vertici per la modifica manuale. Prova prima a ridurre l'opzione di suddivisione.",
 	"ui_editor_properties_lock_to_control_point": "Blocco al punto di controllo",
-	"ui_editor_properties_lock_to_pointer": "Blocca sul puntatore",
 	"ui_editor_properties_locked": "Bloccato",
 	"ui_editor_properties_loop": "Ciclo",
 	"ui_editor_properties_low": "Bassa",
