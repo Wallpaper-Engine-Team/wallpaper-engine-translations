@@ -2593,7 +2593,6 @@
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_subdivision_hint": "La opción de subdivisión está muy alta. Prueba a definirla como 2 o menos.<br/><br/>La edición de vértices es más eficaz con un número de subdivisiones más bajo. De lo contrario, tendrás que quitar muchos vértices antes de poder colocar otros de forma razonable.<br/><br/>¿Quieres continuar de todos modos?",
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_vertex_count": "El modelo de deformación tiene demasiados vértices para la edición manual. Intenta reducir la opción de subdivisión primero.",
 	"ui_editor_properties_lock_to_control_point": "Fijar a punto de control",
-	"ui_editor_properties_lock_to_pointer": "Bloquear en puntero",
 	"ui_editor_properties_locked": "Bloqueado",
 	"ui_editor_properties_loop": "Bucle",
 	"ui_editor_properties_low": "Baja",
