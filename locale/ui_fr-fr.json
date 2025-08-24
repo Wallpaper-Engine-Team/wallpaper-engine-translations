@@ -2593,7 +2593,6 @@
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_subdivision_hint": "L'option de subdivision est trop élevée, essayez de la régler sur 2 ou moins.<br/><br/>L'édition de vertex est plus efficace avec un nombre inférieur de subdivisions, sinon vous devrez supprimer un grand nombre de sommets avant de pouvoir en placer de nouveaux de manière raisonnable.<br/><br/>Voulez-vous toujours continuer ?",
 	"ui_editor_properties_lock_geometry_vertex_edit_modal_vertex_count": "Le modèle de marionnette comporte trop de vertex pour être édité manuellement. Essayez d'abord de réduire l'option de subdivision.",
 	"ui_editor_properties_lock_to_control_point": "Verrouiller au point de contrôle",
-	"ui_editor_properties_lock_to_pointer": "Verrouiller sur le curseur",
 	"ui_editor_properties_locked": "Verrouillé",
 	"ui_editor_properties_loop": "Boucle",
 	"ui_editor_properties_low": "Bas",
